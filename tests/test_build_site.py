@@ -30,3 +30,18 @@ def test_build_site_writes_expected_files(tmp_path):
 
     assert (out / "weekly" / "index.html").exists()
     assert (out / "tag" / "figure.html").exists()  # slug of "Figure"
+
+
+def test_build_site_caps_lead_and_lists_the_rest(tmp_path):
+    out = tmp_path / "docs"
+    ms = [store.Mention(url=f"http://{i}", title=f"Story {i:02d}", source="S",
+                        published="", topic="Physical AI", category="other", one_line="o",
+                        companies=[], people=[], themes=[],
+                        first_seen=f"2026-07-15T{i:02d}:00:00", week="2026-W29", why=None)
+          for i in range(22)]
+    sitegen.build_site(ms, {}, out_dir=str(out), templates_dir="templates")
+    index = (out / "index.html").read_text(encoding="utf-8")
+    assert "Also Happened Today" in index
+    # the two oldest overflow into the briefs; a newest one leads the feed
+    assert "Story 00" in index and "Story 01" in index
+    assert "Story 21" in index

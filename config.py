@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 # --- Tunables (kept here so the owner can find and change them in one place) ---
 SNIPPET_MAX_CHARS = 500
 PER_TOPIC_LIMIT = 25
+MAIN_FEED_LIMIT = 20                      # lead stories on the homepage; the rest go to "Also happened today"
 CLASSIFY_MODEL = "claude-haiku-4-5"      # cheap, high-volume daily triage
 WEEKLY_MODEL = "claude-sonnet-5"         # sharper prose for the weekly editorial
 CLASSIFY_MAX_TOKENS = 400

@@ -33,3 +33,14 @@ def test_group_by_topic_preserves_first_seen_order():
     grouped = sitegen.group_by_topic(ms)
     assert list(grouped.keys()) == ["Driverless", "Physical AI"]
     assert [m.url for m in grouped["Driverless"]] == ["a", "c"]
+
+
+def test_rank_mentions_hard_news_first_then_recent():
+    def M(url, cat, seen):
+        return store.Mention(url=url, title="T", source="S", published="", topic="X",
+                             category=cat, one_line="o", first_seen=seen, week="2026-W29")
+    a = M("a", "other", "2026-07-15T10:00:00")
+    b = M("b", "launch", "2026-07-15T09:00:00")
+    c = M("c", "other", "2026-07-15T11:00:00")
+    ranked = sitegen.rank_mentions([a, b, c])
+    assert [m.url for m in ranked] == ["b", "c", "a"]  # launch leads; then others newest-first

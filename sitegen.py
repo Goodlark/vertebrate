@@ -9,12 +9,15 @@ from datetime import datetime
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from config import DOMAIN, SITE_TAGLINE, SITE_TITLE
+from config import DOMAIN, MAIN_FEED_LIMIT, SITE_TAGLINE, SITE_TITLE
 
 _SLUG_RE = re.compile(r"[^a-z0-9]+")
 
 # tag kind -> CSS class used in templates
 _KIND_CLASS = {"company": "co", "person": "pe", "theme": "th"}
+
+# A rough "importance" order for the lead feed: hard news leads, briefs trail.
+_CATEGORY_RANK = {"launch": 5, "funding": 4, "research": 3, "opinion": 2, "other": 1}
 
 
 @dataclass
@@ -60,6 +63,13 @@ def group_by_topic(mentions: list) -> "OrderedDict[str, list]":
     return grouped
 
 
+def rank_mentions(mentions: list) -> list:
+    """Order mentions for the homepage: hard-news category first, then most recent."""
+    return sorted(mentions,
+                  key=lambda m: (_CATEGORY_RANK.get(m.category, 0), m.first_seen),
+                  reverse=True)
+
+
 # --- Site builder -------------------------------------------------------------
 
 def _env(templates_dir: str) -> Environment:
@@ -79,8 +89,10 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     env = _env(templates_dir)
     os.makedirs(out_dir, exist_ok=True)
 
-    # Newest first for the feed.
-    feed = sorted(mentions, key=lambda m: m.first_seen, reverse=True)
+    # Lead stories vs. the "Also happened today" briefs.
+    ranked = rank_mentions(mentions)
+    feed = ranked[:MAIN_FEED_LIMIT]
+    also = ranked[MAIN_FEED_LIMIT:]
 
     tags = build_tag_index(mentions)
     max_count = max((t.count for t in tags), default=1)
@@ -97,7 +109,7 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     # Homepage
     with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(env.get_template("index.html").render(
-            mentions=feed, tags=view_tags, latest_week=latest_week,
+            mentions=feed, also=also, tags=view_tags, latest_week=latest_week,
             latest_lede=latest_lede, **_common("")))
 
     # Weekly editions + archive
@@ -116,7 +128,7 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     tag_dir = os.path.join(out_dir, "tag")
     os.makedirs(tag_dir, exist_ok=True)
     for t in tags:
-        tagged = [m for m in feed if t.label in (m.companies + m.people + m.themes)]
+        tagged = [m for m in ranked if t.label in (m.companies + m.people + m.themes)]
         with open(os.path.join(tag_dir, f"{t.slug}.html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("tag.html").render(
                 label=t.label, mentions=tagged, **_common("../")))

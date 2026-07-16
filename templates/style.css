@@ -101,6 +101,17 @@ aside{align-self:start;position:sticky;top:20px}
 .why{font-size:16px;line-height:1.62}
 .why .lead-in{font-variant:small-caps;letter-spacing:.06em;color:var(--stamp);font-weight:600}
 
+/* Also Happened Today — the overflow briefs column */
+.also{border-top:3px double var(--ink);margin-top:26px;padding-top:4px}
+.briefs{columns:2;column-gap:36px;list-style:none;padding:0;margin:10px 0 0}
+.briefs li{break-inside:avoid;margin:0 0 9px;font-size:14px;line-height:1.42;
+  padding-left:14px;text-indent:-14px}
+.briefs li::before{content:"› ";color:var(--stamp);font-weight:700}
+.briefs a{color:var(--ink);text-decoration:none}
+.briefs a:hover{text-decoration:underline;color:var(--stamp)}
+.briefs .b-src{font-family:"Special Elite",monospace;font-size:11px;color:var(--muted)}
+@media (max-width:760px){.briefs{columns:1}}
+
 .foot{font-family:"Special Elite",monospace;font-size:11.5px;color:var(--muted);text-align:center;
   border-top:2px solid var(--ink);margin-top:24px;padding-top:12px;letter-spacing:.06em}
 

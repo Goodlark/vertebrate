@@ -41,5 +41,15 @@
       </div>
     </aside>
   </div>
+  {% if also %}
+  <section class="also">
+    <div class="sec">Also Happened Today</div>
+    <ul class="briefs">
+      {% for m in also %}
+      <li><a href="{{ m.url }}">{{ m.title }}</a> <span class="b-src">— {{ m.source }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
   <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTERBRATE.AI</div>
 {% endblock %}
