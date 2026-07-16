@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block body %}
+  <div class="topbar"><span>WIRE</span><span>THE AUTONOMOUS DESK</span><span>{{ today }}</span></div>
+  <header class="masthead">
+    <div class="stamp"><div class="big">EST.</div><div class="yr">2026</div><div class="sm">AUTONOMOUS · DESK</div></div>
+    <h1>VERTERBRATE<span class="ai">.ai</span></h1>
+    <div class="tag">{{ site_tagline }}</div>
+  </header>
+  <nav class="sections">
+    <a class="on" href="{{ root }}index.html">Today’s Feed</a>
+    <a href="{{ root }}weekly/index.html">The Weekly</a>
+  </nav>
+  {% if latest_week %}
+  <div class="teaser">
+    <div class="flag">THE WEEKLY<br><small>{{ latest_week }}</small></div>
+    <div class="dek">{{ latest_lede }}</div>
+    <a class="read" href="{{ root }}weekly/{{ latest_week }}.html">Read the edition →</a>
+  </div>
+  {% endif %}
+  <div class="stripline">· Today’s Dispatches · read by machine, written to be read ·</div>
+  <div class="body">
+    <div class="feed">
+      {% for m in mentions %}
+      <article class="item">
+        <div class="meta"><span class="cat{% if m.category == 'opinion' %} q{% endif %}">{{ m.category|capitalize }}</span></div>
+        <div>
+          <h2><a href="{{ m.url }}">{{ m.title }}</a></h2>
+          <div class="src">// {{ m.source }}</div>
+          <p class="oneline">{{ m.one_line }}</p>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    <aside>
+      <div class="index-box">
+        <div class="hd">The Index</div>
+        <div class="cloud">
+          {% for t in tags %}<a class="{{ t.kind_class }} {{ t.size }}" href="{{ root }}tag/{{ t.slug }}.html">{{ t.label }}</a> {% endfor %}
+        </div>
+        <div class="legend"><b>Bold</b> companies · <i>Italic</i> people · <span style="font-family:'Special Elite',monospace">mono</span> themes</div>
+      </div>
+    </aside>
+  </div>
+  <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTERBRATE.AI</div>
+{% endblock %}
