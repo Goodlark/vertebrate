@@ -7,8 +7,8 @@
   <div class="feed">
     {% for m in mentions %}
     <article class="item"><div class="meta"><span class="cat">{{ m.category|capitalize }}</span></div>
-      <div><h2><a href="{{ m.url }}">{{ m.title }}</a></h2><div class="src">// {{ m.source }}</div>
-      <p class="oneline">{{ m.one_line }}</p></div></article>
+      <div><a class="lead" href="{{ m.url }}">{{ m.one_line }}</a>
+      <div class="byline">{{ m.title }} <span class="src-name">· {{ m.source }}</span></div></div></article>
     {% endfor %}
   </div>
   <div class="foot">VERTEBRATE.AI</div>
