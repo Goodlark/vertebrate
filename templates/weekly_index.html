@@ -5,7 +5,10 @@
   <header class="masthead"><div class="kicker">THE WEEKLY</div><h1>VERTEBRATE<span class="ai">.ai</span></h1></header>
   <div class="sec">Editions</div>
   {% for w in weeks %}
-  <div class="entry"><h3><a href="{{ root }}weekly/{{ w }}.html">{{ w }}</a></h3></div>
+  <div class="entry">
+    <h3><a href="{{ root }}weekly/{{ w.id }}.html">{{ w.id }}</a></h3>
+    {% if w.summary %}<p class="fact">{{ w.summary }}</p>{% endif %}
+  </div>
   {% endfor %}
   <div class="foot">VERTEBRATE.AI</div>
 {% endblock %}

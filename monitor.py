@@ -79,7 +79,8 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
     rollup = weekly.write_weekly(client, wk)
     if rollup is not None:
         weekly.apply_rollup(mentions, rollup)
-        weeks[week] = {"lede": rollup.lede, "generated_at": now.isoformat(timespec="seconds")}
+        weeks[week] = {"summary": rollup.summary, "lede": rollup.lede,
+                       "generated_at": now.isoformat(timespec="seconds")}
         store.save_mentions(mentions, mentions_path)
         store.save_weeks(weeks, weeks_path)
 

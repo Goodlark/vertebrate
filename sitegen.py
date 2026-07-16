@@ -117,13 +117,14 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
 
     week_ids = sorted(weeks.keys(), reverse=True)
     latest_week = week_ids[0] if week_ids else None
-    latest_lede = weeks.get(latest_week, {}).get("lede", "") if latest_week else ""
+    latest_meta = weeks.get(latest_week, {}) if latest_week else {}
+    latest_dek = latest_meta.get("summary") or latest_meta.get("lede", "")
 
     # Homepage
     with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(env.get_template("index.html").render(
             mentions=feed, also=also, tags=view_tags, latest_week=latest_week,
-            latest_lede=latest_lede, **_common("")))
+            latest_dek=latest_dek, **_common("")))
 
     # Weekly editions + archive
     weekly_dir = os.path.join(out_dir, "weekly")
@@ -135,8 +136,9 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
             f.write(env.get_template("weekly_edition.html").render(
                 week=week_id, lede=weeks[week_id].get("lede", ""),
                 groups=group_by_topic(wk_mentions), **_common("../")))
+    week_views = [{"id": w, "summary": weeks.get(w, {}).get("summary", "")} for w in week_ids]
     with open(os.path.join(weekly_dir, "index.html"), "w", encoding="utf-8") as f:
-        f.write(env.get_template("weekly_index.html").render(weeks=week_ids, **_common("../")))
+        f.write(env.get_template("weekly_index.html").render(weeks=week_views, **_common("../")))
 
     # Tag pages
     tag_dir = os.path.join(out_dir, "tag")

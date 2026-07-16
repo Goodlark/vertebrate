@@ -51,7 +51,8 @@ def test_run_backfill_stores_week_and_writes_editorial(tmp_path):
     def parse_side_effect(**kwargs):
         if kwargs.get("output_format") is weekly.WeeklyRollup:
             return SimpleNamespace(parsed_output=weekly.WeeklyRollup(
-                lede="The week in review.", entries=[weekly.WhyEntry(url="http://x", why="It mattered.")]))
+                summary="Big thing happened.", lede="The week in review.",
+                entries=[weekly.WhyEntry(url="http://x", why="It mattered.")]))
         return SimpleNamespace(parsed_output=classify.Assessment(
             relevant=True, category="launch", one_line="o", companies=["Figure"], people=[], themes=["humanoid"]))
 

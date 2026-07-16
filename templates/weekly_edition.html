@@ -14,7 +14,12 @@
     <div class="entry">
       <span class="cat{% if m.category == 'opinion' %} q{% endif %}">{{ m.category|capitalize }}</span>
       <h3><a href="{{ m.url }}">{{ m.title }}</a></h3>
-      <div class="src">// {{ m.source }}</div>
+      <div class="players">
+        {% if m.companies %}<span class="co-list">{{ m.companies|join(", ") }}</span>{% endif %}
+        {% if m.people %}<span class="pe-list">{{ m.people|join(", ") }}</span>{% endif %}
+        <span class="src-name">{{ m.source }}</span>
+      </div>
+      <p class="fact">{{ m.one_line }}</p>
       {% if m.why %}<p class="why"><span class="lead-in">Why it matters. </span>{{ m.why }}</p>{% endif %}
     </div>
     {% endfor %}

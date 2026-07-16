@@ -11,7 +11,7 @@ def _m(url):
 
 
 def test_write_weekly_uses_sonnet_and_returns_rollup():
-    roll = weekly.WeeklyRollup(lede="The week...", entries=[weekly.WhyEntry(url="http://a", why="because")])
+    roll = weekly.WeeklyRollup(summary="A did X.", lede="The week...", entries=[weekly.WhyEntry(url="http://a", why="because")])
     client = MagicMock()
     client.messages.parse.return_value = SimpleNamespace(parsed_output=roll)
     out = weekly.write_weekly(client, [_m("http://a")])
@@ -28,7 +28,7 @@ def test_write_weekly_returns_none_on_error():
 
 def test_apply_rollup_sets_why_by_url():
     ms = [_m("http://a"), _m("http://b")]
-    roll = weekly.WeeklyRollup(lede="x", entries=[weekly.WhyEntry(url="http://a", why="deep")])
+    roll = weekly.WeeklyRollup(summary="s", lede="x", entries=[weekly.WhyEntry(url="http://a", why="deep")])
     weekly.apply_rollup(ms, roll)
     assert ms[0].why == "deep"
     assert ms[1].why is None
