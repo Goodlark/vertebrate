@@ -102,7 +102,8 @@ def save_weeks(weeks: dict, path: str = "data/weeks.json") -> None:
 # headlines. We collapse them by comparing the "significant words" of each title:
 # if two titles share most of their meaningful words, they're the same story.
 
-DUP_THRESHOLD = 0.5  # share >= 50% of the shorter title's significant words
+DUP_THRESHOLD = 0.6          # title-word overlap required when two stories share NO named entity
+DUP_THRESHOLD_ENTITY = 0.4   # lower bar when they share a company/person (same subject)
 
 STOPWORDS = {
     "the", "and", "for", "with", "from", "that", "this", "into", "after", "before",
@@ -113,8 +114,17 @@ STOPWORDS = {
 }
 
 
+def _stem(w: str) -> str:
+    """Crude singular-ise so 'drones'/'drone' and 'deliveries'/'delivery' match."""
+    if len(w) > 4 and w.endswith("ies"):
+        return w[:-3] + "y"          # deliveries -> delivery
+    if len(w) > 3 and w.endswith("s"):
+        return w[:-1]                # drones -> drone, services -> service
+    return w
+
+
 def _title_key(m) -> set:
-    """The set of significant, lowercased words in a title (outlet suffix removed)."""
+    """The set of significant, stemmed words in a title (outlet suffix removed)."""
     t = m.title.lower()
     src = (m.source or "").lower()
     if src and t.endswith(" - " + src):
@@ -122,7 +132,7 @@ def _title_key(m) -> set:
     elif " - " in t:                      # Google News appends "- Outlet"
         t = t.rsplit(" - ", 1)[0]
     words = re.findall(r"[a-z0-9]+", t)
-    return {w for w in words if len(w) > 2 and w not in STOPWORDS}
+    return {_stem(w) for w in words if len(w) > 2 and w not in STOPWORDS}
 
 
 def _overlap(a: set, b: set) -> float:
@@ -131,19 +141,30 @@ def _overlap(a: set, b: set) -> float:
     return len(a & b) / min(len(a), len(b))
 
 
-def dedupe_stories(mentions: list, threshold: float = DUP_THRESHOLD) -> list:
+def _entities(m) -> set:
+    return {e.strip().lower() for e in (list(m.companies) + list(m.people)) if e.strip()}
+
+
+def _is_duplicate(a, b) -> bool:
+    """Same story if titles overlap a lot, or overlap moderately AND share a subject."""
+    ov = _overlap(_title_key(a), _title_key(b))
+    if _entities(a) & _entities(b):
+        return ov >= DUP_THRESHOLD_ENTITY
+    return ov >= DUP_THRESHOLD
+
+
+def dedupe_stories(mentions: list) -> list:
     """Drop near-duplicate stories, keeping the first occurrence of each.
 
     Callers pass mentions in priority order (best first) so the representative
     kept is the one they'd most want to show.
     """
-    seen_keys = []   # keys of every mention processed — enables transitive matching
+    seen = []   # every mention processed — enables transitive (single-link) matching
     out = []
     for m in mentions:
-        key = _title_key(m)
-        if key and any(_overlap(key, s) >= threshold for s in seen_keys):
-            seen_keys.append(key)         # record even dropped ones, for chaining
+        if any(_is_duplicate(m, s) for s in seen):
+            seen.append(m)               # record even dropped ones, for chaining
             continue
-        seen_keys.append(key)
+        seen.append(m)
         out.append(m)
     return out

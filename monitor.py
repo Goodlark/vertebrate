@@ -50,8 +50,10 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
                 first_seen=now.isoformat(timespec="seconds"), week=store.iso_week(now)))
             added += 1
 
-    # Collapse same-story duplicates from different outlets before saving.
-    mentions = store.dedupe_stories(mentions)
+    # Collapse same-story duplicates within this week (other weeks left intact).
+    cur = store.iso_week(now)
+    this_week = store.dedupe_stories(sitegen.rank_mentions([m for m in mentions if m.week == cur]))
+    mentions = [m for m in mentions if m.week != cur] + this_week
     store.save_mentions(mentions, mentions_path)
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
     summary = {"fetched": fetched, "relevant": relevant, "added": added, "stored": len(mentions)}
@@ -117,7 +119,9 @@ def run_backfill(now: datetime, week: str, topics: list, client, out_dir: str = 
                 first_seen=seen_stamp, week=week))
             added += 1
 
-    mentions = store.dedupe_stories(mentions)
+    # Collapse duplicates within the backfilled week only.
+    this_week = store.dedupe_stories(sitegen.rank_mentions([m for m in mentions if m.week == week]))
+    mentions = [m for m in mentions if m.week != week] + this_week
     store.save_mentions(mentions, mentions_path)
     log.info("Backfill %s — added %d stories", week, added)
     return run_weekly(now, week, client, out_dir=out_dir, data_dir=data_dir)

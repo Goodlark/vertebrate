@@ -93,15 +93,17 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         shutil.rmtree(out_dir)
     os.makedirs(out_dir, exist_ok=True)
 
-    # Deduped, ranked view of everything (drives weekly pages + tag pages).
-    ranked = store.dedupe_stories(rank_mentions(mentions))
+    # Importance-ranked, not yet deduped — dedup happens per rendered view so
+    # the same ongoing story can still appear in each week it was news.
+    ranked = rank_mentions(mentions)
 
     # The homepage shows only the most recent ISO week; earlier weeks live on
     # their own weekly pages. This keeps "Also Happened Today" honest and stops
     # the front page from growing without bound as the archive fills up.
     weeks_present = sorted({m.week for m in mentions if m.week}, reverse=True)
     current_week = weeks_present[0] if weeks_present else None
-    home = [m for m in ranked if m.week == current_week] if current_week else ranked
+    home_src = [m for m in ranked if m.week == current_week] if current_week else ranked
+    home = store.dedupe_stories(home_src)
     feed = home[:MAIN_FEED_LIMIT]
     also = home[MAIN_FEED_LIMIT:]
 
@@ -127,7 +129,8 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     weekly_dir = os.path.join(out_dir, "weekly")
     os.makedirs(weekly_dir, exist_ok=True)
     for week_id in week_ids:
-        wk_mentions = [m for m in ranked if m.week == week_id][:WEEKLY_STORY_LIMIT]
+        wk_mentions = store.dedupe_stories(
+            [m for m in ranked if m.week == week_id])[:WEEKLY_STORY_LIMIT]
         with open(os.path.join(weekly_dir, f"{week_id}.html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("weekly_edition.html").render(
                 week=week_id, lede=weeks[week_id].get("lede", ""),
@@ -139,7 +142,8 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     tag_dir = os.path.join(out_dir, "tag")
     os.makedirs(tag_dir, exist_ok=True)
     for t in tags:
-        tagged = [m for m in ranked if t.label in (m.companies + m.people + m.themes)]
+        tagged = store.dedupe_stories(
+            [m for m in ranked if t.label in (m.companies + m.people + m.themes)])
         with open(os.path.join(tag_dir, f"{t.slug}.html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("tag.html").render(
                 label=t.label, mentions=tagged, **_common("../")))

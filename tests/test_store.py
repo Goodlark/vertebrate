@@ -72,6 +72,27 @@ def test_dedupe_collapses_same_story_across_outlets():
     assert len([u for u in urls if u in {"1", "2", "3"}]) == 1  # the trio collapses to one
 
 
+def _story_c(url, title, src, companies):
+    return store.Mention(url=url, title=title, source=src, published="", topic="Drones",
+                         category="launch", one_line="o", companies=companies, first_seen="", week="2026-W29")
+
+
+def test_dedupe_collapses_reworded_same_story_same_subject():
+    ms = [
+        _story_c("1", "BayCare turns to autonomous drones for medical deliveries - Tampa Bay", "Tampa Bay", ["BayCare"]),
+        _story_c("2", "BayCare to launch medical drone logistics service in Florida - AirMed", "AirMed", ["BayCare"]),
+    ]
+    assert len(store.dedupe_stories(ms)) == 1   # same subject + plural-normalised overlap
+
+
+def test_dedupe_keeps_same_topic_different_subject():
+    ms = [
+        _story_c("1", "BayCare turns to autonomous drones for medical deliveries", "Tampa Bay", ["BayCare"]),
+        _story_c("2", "Autonomous drone delivery firms Manna, Matternet expand US operations", "TechCrunch", ["Manna", "Matternet"]),
+    ]
+    assert len(store.dedupe_stories(ms)) == 2   # both about drones, different companies -> distinct
+
+
 def test_dedupe_keeps_distinct_stories_sharing_an_entity():
     ms = [
         _story("1", "Waymo opens on Phoenix freeways - TechCrunch", "TechCrunch"),
