@@ -1,0 +1,9 @@
+# Each topic becomes a Google News RSS search. `keywords` is passed verbatim as
+# the query, so you can use quotes and OR exactly like Google News search.
+topics:
+  - name: Physical AI
+    keywords: '"physical AI" OR "embodied AI" OR humanoid robot'
+  - name: Driverless
+    keywords: 'Waymo OR robotaxi OR driverless OR "self-driving"'
+  - name: Drones
+    keywords: 'autonomous drone OR Skydio OR "drone delivery"'
