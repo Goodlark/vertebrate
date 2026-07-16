@@ -10,7 +10,8 @@ from datetime import datetime
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import store
-from config import DOMAIN, MAIN_FEED_LIMIT, SITE_TAGLINE, SITE_TITLE, WEEKLY_STORY_LIMIT
+from config import (DOMAIN, MAIN_FEED_LIMIT, SITE_DESC, SITE_TAGLINE, SITE_TITLE,
+                    WEEKLY_STORY_LIMIT)
 
 _SLUG_RE = re.compile(r"[^a-z0-9]+")
 
@@ -19,6 +20,14 @@ _KIND_CLASS = {"company": "co", "person": "pe", "theme": "th"}
 
 # A rough "importance" order for the lead feed: hard news leads, briefs trail.
 _CATEGORY_RANK = {"launch": 5, "funding": 4, "research": 3, "opinion": 2, "other": 1}
+
+# Tiny inline-style favicon: a red "V" on the aged-manila paper colour.
+_FAVICON_SVG = (
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
+    '<rect width="32" height="32" fill="#ecdcb6"/>'
+    '<text x="16" y="24" text-anchor="middle" font-family="Georgia,serif" '
+    'font-weight="bold" font-size="24" fill="#b1332a">V</text></svg>'
+)
 
 
 @dataclass
@@ -80,8 +89,9 @@ def _env(templates_dir: str) -> Environment:
     )
 
 
-def _common(root: str) -> dict:
-    return {"site_title": SITE_TITLE, "site_tagline": SITE_TAGLINE, "root": root,
+def _common(root: str, page_path: str = "") -> dict:
+    return {"site_title": SITE_TITLE, "site_tagline": SITE_TAGLINE, "site_desc": SITE_DESC,
+            "domain": DOMAIN, "root": root, "page_path": page_path,
             "today": datetime.now().strftime("%a · %d %b %Y").upper()}
 
 
@@ -124,7 +134,7 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(env.get_template("index.html").render(
             mentions=feed, also=also, tags=view_tags, latest_week=latest_week,
-            latest_dek=latest_dek, **_common("")))
+            latest_dek=latest_dek, **_common("", "")))
 
     # Weekly editions + archive
     weekly_dir = os.path.join(out_dir, "weekly")
@@ -132,13 +142,17 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     for week_id in week_ids:
         wk_mentions = store.dedupe_stories(
             [m for m in ranked if m.week == week_id])[:WEEKLY_STORY_LIMIT]
+        monday, _sun = store.iso_week_bounds(week_id)
         with open(os.path.join(weekly_dir, f"{week_id}.html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("weekly_edition.html").render(
                 week=week_id, lede=weeks[week_id].get("lede", ""),
-                groups=group_by_topic(wk_mentions), **_common("../")))
+                summary=weeks[week_id].get("summary", ""), week_date=monday.isoformat(),
+                groups=group_by_topic(wk_mentions),
+                **_common("../", "weekly/" + week_id + ".html")))
     week_views = [{"id": w, "summary": weeks.get(w, {}).get("summary", "")} for w in week_ids]
     with open(os.path.join(weekly_dir, "index.html"), "w", encoding="utf-8") as f:
-        f.write(env.get_template("weekly_index.html").render(weeks=week_views, **_common("../")))
+        f.write(env.get_template("weekly_index.html").render(
+            weeks=week_views, **_common("../", "weekly/index.html")))
 
     # Tag pages
     tag_dir = os.path.join(out_dir, "tag")
@@ -148,10 +162,23 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
             [m for m in ranked if t.label in (m.companies + m.people + m.themes)])
         with open(os.path.join(tag_dir, f"{t.slug}.html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("tag.html").render(
-                label=t.label, mentions=tagged, **_common("../")))
+                label=t.label, mentions=tagged, **_common("../", "tag/" + t.slug + ".html")))
 
     # Static assets
     shutil.copyfile(os.path.join(templates_dir, "style.css"),
                     os.path.join(out_dir, "style.css"))
     with open(os.path.join(out_dir, "CNAME"), "w", encoding="utf-8") as f:
         f.write(DOMAIN + "\n")
+
+    # SEO: favicon, robots.txt, and a sitemap of every page.
+    with open(os.path.join(out_dir, "favicon.svg"), "w", encoding="utf-8") as f:
+        f.write(_FAVICON_SVG)
+    with open(os.path.join(out_dir, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write("User-agent: *\nAllow: /\nSitemap: https://%s/sitemap.xml\n" % DOMAIN)
+    paths = [""] + ["weekly/index.html"] + [f"weekly/{w}.html" for w in week_ids] \
+        + [f"tag/{t.slug}.html" for t in tags]
+    urls = "".join('  <url><loc>https://%s/%s</loc></url>\n' % (DOMAIN, p) for p in paths)
+    with open(os.path.join(out_dir, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
+                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+                + urls + "</urlset>\n")

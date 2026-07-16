@@ -17,6 +17,9 @@ CLASSIFY_MAX_TOKENS = 400
 WEEKLY_MAX_TOKENS = 8000
 SITE_TITLE = "VERTEBRATE.ai"
 SITE_TAGLINE = "the first ai-powered media"
+SITE_DESC = ("VERTEBRATE.ai — the first AI-powered media covering humanoid robots, physical AI, "
+             "driverless cars, robotaxis and autonomous drones. Daily dispatches and a weekly "
+             "editorial on the robotics industry.")
 DOMAIN = "vertebrate.ai"
 
 

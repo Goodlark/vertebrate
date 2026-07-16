@@ -1,4 +1,10 @@
 {% extends "base.html" %}
+{% block description %}{{ site_desc }}{% endblock %}
+{% block head_extra %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"NewsMediaOrganization","name":{{ site_title|tojson }},"url":"https://{{ domain }}/","description":{{ site_desc|tojson }},"slogan":"the first ai-powered media","knowsAbout":["humanoid robots","physical AI","driverless cars","robotaxis","autonomous drones","robotics industry"]}
+</script>
+{% endblock %}
 {% block body %}
   <div class="topbar"><span>WIRE</span><span>THE AUTONOMOUS DESK</span><span>{{ today }}</span></div>
   <header class="masthead">

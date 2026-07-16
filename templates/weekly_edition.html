@@ -1,5 +1,12 @@
 {% extends "base.html" %}
-{% block title %}The Weekly {{ week }} — {{ site_title }}{% endblock %}
+{% block title %}The Weekly {{ week }}: robotics & AI in review — {{ site_title }}{% endblock %}
+{% block description %}{{ summary or lede }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block head_extra %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"NewsArticle","headline":{{ ("The Weekly " ~ week ~ " — robotics & AI in review")|tojson }},"description":{{ (summary or lede)|tojson }},"url":"https://{{ domain }}/{{ page_path }}","datePublished":{{ week_date|tojson }},"author":{"@type":"Organization","name":{{ site_title|tojson }}},"publisher":{"@type":"Organization","name":{{ site_title|tojson }}},"isAccessibleForFree":true}
+</script>
+{% endblock %}
 {% block body %}
   <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>THE AUTONOMOUS DESK</span><span>{{ week }}</span></div>
   <header class="masthead">

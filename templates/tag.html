@@ -1,5 +1,6 @@
 {% extends "base.html" %}
-{% block title %}{{ label }} — {{ site_title }}{% endblock %}
+{% block title %}{{ label }} news — {{ site_title }}{% endblock %}
+{% block description %}The latest {{ label }} news in robotics and AI on {{ site_title }} — headlines, the facts, and why they matter.{% endblock %}
 {% block body %}
   <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>THE INDEX</span><span></span></div>
   <header class="masthead"><h1>VERTEBRATE<span class="ai">.ai</span></h1></header>
