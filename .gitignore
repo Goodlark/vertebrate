@@ -1,0 +1,16 @@
+# Secrets — never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Browser-driven mock tooling
+.playwright-mcp/
+
+# NOTE: docs/ and data/ are intentionally TRACKED.
+# docs/ is the published website (GitHub Pages serves it) and
+# data/mentions.json is the content behind it — committing them is how we publish.
