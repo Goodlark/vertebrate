@@ -36,3 +36,10 @@ def test_parse_entries_source_fallback_from_title_suffix():
     out = feeds.parse_entries(parsed, limit=10, snippet_max=500)
     assert out[0].source == "Reuters"
     assert out[0].title == "Headline"
+
+
+def test_parse_entries_strips_known_source_suffix_from_title():
+    parsed = SimpleNamespace(entries=[_entry("Big News - WSJ", "http://x", source_title="WSJ")])
+    out = feeds.parse_entries(parsed, limit=10, snippet_max=500)
+    assert out[0].title == "Big News"     # "- WSJ" removed since source is shown separately
+    assert out[0].source == "WSJ"

@@ -43,6 +43,9 @@ def _title_and_source(entry) -> tuple:
     if not src and " - " in title:
         title, src = title.rsplit(" - ", 1)
         title, src = title.strip(), src.strip()
+    elif src and title.lower().endswith(" - " + src.lower()):
+        # Google News appends "- Outlet" to the title; drop it since we show source separately.
+        title = title[: -(len(src) + 3)].strip()
     return title, src
 
 

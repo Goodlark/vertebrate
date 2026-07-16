@@ -9,6 +9,7 @@ from datetime import datetime
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+import store
 from config import DOMAIN, MAIN_FEED_LIMIT, SITE_TAGLINE, SITE_TITLE
 
 _SLUG_RE = re.compile(r"[^a-z0-9]+")
@@ -89,12 +90,13 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     env = _env(templates_dir)
     os.makedirs(out_dir, exist_ok=True)
 
-    # Lead stories vs. the "Also happened today" briefs.
-    ranked = rank_mentions(mentions)
+    # Collapse the same story from different outlets (highest-ranked kept),
+    # then split into lead stories vs. the "Also happened today" briefs.
+    ranked = store.dedupe_stories(rank_mentions(mentions))
     feed = ranked[:MAIN_FEED_LIMIT]
     also = ranked[MAIN_FEED_LIMIT:]
 
-    tags = build_tag_index(mentions)
+    tags = build_tag_index(ranked)
     max_count = max((t.count for t in tags), default=1)
     view_tags = [
         {"label": t.label, "slug": t.slug, "kind_class": _KIND_CLASS[t.kind],
@@ -116,7 +118,7 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     weekly_dir = os.path.join(out_dir, "weekly")
     os.makedirs(weekly_dir, exist_ok=True)
     for week_id in week_ids:
-        wk_mentions = [m for m in mentions if m.week == week_id]
+        wk_mentions = [m for m in ranked if m.week == week_id]
         with open(os.path.join(weekly_dir, f"{week_id}.html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("weekly_edition.html").render(
                 week=week_id, lede=weeks[week_id].get("lede", ""),

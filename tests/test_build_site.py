@@ -34,7 +34,8 @@ def test_build_site_writes_expected_files(tmp_path):
 
 def test_build_site_caps_lead_and_lists_the_rest(tmp_path):
     out = tmp_path / "docs"
-    ms = [store.Mention(url=f"http://{i}", title=f"Story {i:02d}", source="S",
+    # Distinct titles (no shared significant words) so dedup leaves all 22 in place.
+    ms = [store.Mention(url=f"http://{i}", title=f"Alpha{i:02d} Bravo{i:02d} Charlie{i:02d}", source="S",
                         published="", topic="Physical AI", category="other", one_line="o",
                         companies=[], people=[], themes=[],
                         first_seen=f"2026-07-15T{i:02d}:00:00", week="2026-W29", why=None)
@@ -43,5 +44,20 @@ def test_build_site_caps_lead_and_lists_the_rest(tmp_path):
     index = (out / "index.html").read_text(encoding="utf-8")
     assert "Also Happened Today" in index
     # the two oldest overflow into the briefs; a newest one leads the feed
-    assert "Story 00" in index and "Story 01" in index
-    assert "Story 21" in index
+    assert "Alpha00" in index and "Alpha01" in index
+    assert "Alpha21" in index
+
+
+def test_build_site_deduplicates_display(tmp_path):
+    out = tmp_path / "docs"
+    ms = [
+        _m("http://1"), _m("http://2"), _m("http://3"),  # identical title "Figure hits the line"
+        store.Mention(url="http://4", title="Waymo takes the freeway", source="TechCrunch",
+                      published="", topic="Driverless", category="launch", one_line="o",
+                      companies=[], people=[], themes=[], first_seen="2026-07-15T00:00:00",
+                      week="2026-W29"),
+    ]
+    sitegen.build_site(ms, {}, out_dir=str(out), templates_dir="templates")
+    index = (out / "index.html").read_text(encoding="utf-8")
+    assert index.count("Figure hits the line") == 1   # the three duplicates collapse to one
+    assert "Waymo takes the freeway" in index

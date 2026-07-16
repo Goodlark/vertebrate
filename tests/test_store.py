@@ -48,3 +48,28 @@ def test_weeks_roundtrip(tmp_path):
     p = tmp_path / "w.json"
     store.save_weeks({"2026-W29": {"lede": "hi"}}, str(p))
     assert store.load_weeks(str(p))["2026-W29"]["lede"] == "hi"
+
+
+def _story(url, title, src):
+    return store.Mention(url=url, title=title, source=src, published="", topic="Driverless",
+                         category="other", one_line="o", first_seen="", week="2026-W29")
+
+
+def test_dedupe_collapses_same_story_across_outlets():
+    ms = [
+        _story("1", "Shirtless man destroys Waymo in busy East Hollywood intersection, video shows - ABC7", "ABC7"),
+        _story("2", "Shirtless man arrested after police say he vandalized a Waymo in East Hollywood - LA Times", "LA Times"),
+        _story("3", "Shirtless man vandalizes Waymo in East Hollywood, video shows - KTLA", "KTLA"),
+        _story("4", "Waymo opens driverless service on Phoenix freeways - TechCrunch", "TechCrunch"),
+    ]
+    urls = [m.url for m in store.dedupe_stories(ms)]
+    assert "4" in urls                                    # distinct story kept
+    assert len([u for u in urls if u in {"1", "2", "3"}]) == 1  # the trio collapses to one
+
+
+def test_dedupe_keeps_distinct_stories_sharing_an_entity():
+    ms = [
+        _story("1", "Waymo opens on Phoenix freeways - TechCrunch", "TechCrunch"),
+        _story("2", "Waymo called to carpet over emergency-scene responses - Axios", "Axios"),
+    ]
+    assert len(store.dedupe_stories(ms)) == 2

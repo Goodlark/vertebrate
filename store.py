@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from dataclasses import asdict, dataclass, field
 from datetime import datetime
 from typing import Optional
@@ -87,3 +88,55 @@ def load_weeks(path: str = "data/weeks.json") -> dict:
 
 def save_weeks(weeks: dict, path: str = "data/weeks.json") -> None:
     _write_json(path, weeks)
+
+
+# --- Near-duplicate detection -------------------------------------------------
+# The same event is often filed by several outlets under slightly different
+# headlines. We collapse them by comparing the "significant words" of each title:
+# if two titles share most of their meaningful words, they're the same story.
+
+DUP_THRESHOLD = 0.5  # share >= 50% of the shorter title's significant words
+
+STOPWORDS = {
+    "the", "and", "for", "with", "from", "that", "this", "into", "after", "before",
+    "over", "its", "has", "have", "had", "are", "was", "were", "will", "would",
+    "can", "could", "not", "new", "say", "says", "said", "amid", "who", "how",
+    "why", "what", "when", "been", "being", "their", "they", "them", "out", "off",
+    "per", "via", "but", "all", "one", "get", "gets", "now", "you", "your",
+}
+
+
+def _title_key(m) -> set:
+    """The set of significant, lowercased words in a title (outlet suffix removed)."""
+    t = m.title.lower()
+    src = (m.source or "").lower()
+    if src and t.endswith(" - " + src):
+        t = t[: -(len(src) + 3)]
+    elif " - " in t:                      # Google News appends "- Outlet"
+        t = t.rsplit(" - ", 1)[0]
+    words = re.findall(r"[a-z0-9]+", t)
+    return {w for w in words if len(w) > 2 and w not in STOPWORDS}
+
+
+def _overlap(a: set, b: set) -> float:
+    if not a or not b:
+        return 0.0
+    return len(a & b) / min(len(a), len(b))
+
+
+def dedupe_stories(mentions: list, threshold: float = DUP_THRESHOLD) -> list:
+    """Drop near-duplicate stories, keeping the first occurrence of each.
+
+    Callers pass mentions in priority order (best first) so the representative
+    kept is the one they'd most want to show.
+    """
+    seen_keys = []   # keys of every mention processed — enables transitive matching
+    out = []
+    for m in mentions:
+        key = _title_key(m)
+        if key and any(_overlap(key, s) >= threshold for s in seen_keys):
+            seen_keys.append(key)         # record even dropped ones, for chaining
+            continue
+        seen_keys.append(key)
+        out.append(m)
+    return out

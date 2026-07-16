@@ -50,10 +50,13 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
                 first_seen=now.isoformat(timespec="seconds"), week=store.iso_week(now)))
             added += 1
 
+    # Collapse same-story duplicates from different outlets before saving.
+    mentions = store.dedupe_stories(mentions)
     store.save_mentions(mentions, mentions_path)
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
-    summary = {"fetched": fetched, "relevant": relevant, "added": added}
-    log.info("Daily run — fetched %(fetched)d new / relevant %(relevant)d / added %(added)d", summary)
+    summary = {"fetched": fetched, "relevant": relevant, "added": added, "stored": len(mentions)}
+    log.info("Daily run — fetched %(fetched)d new / relevant %(relevant)d / added %(added)d "
+             "/ stored %(stored)d", summary)
     return summary
 
 
