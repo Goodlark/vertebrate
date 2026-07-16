@@ -1,4 +1,4 @@
-# Press Monitor → verterbrate.ai — Design Spec (v1)
+# Press Monitor → vertebrate.ai — Design Spec (v1)
 
 _Date: 2026-07-15 · Status: approved design, ready for planning_
 
@@ -8,7 +8,7 @@ A daily press-monitoring agent for a PR/communications professional. It fetches
 news for a configurable watchlist, uses the Claude API to judge relevance,
 classify each item, extract entities, and write copy in a specific voice, then
 **publishes the results as a retro-newspaper static website** at
-**verterbrate.ai** — "the first AI-powered media." Once a week it also produces
+**vertebrate.ai** — "the first AI-powered media." Once a week it also produces
 a longer editorial edition, **The Weekly**, that explains why each mention
 matters.
 
@@ -119,7 +119,7 @@ run 2–3.
 
 **Homepage — `docs/index.html`** (the fast daily read):
 - Topbar: wire number · "The Autonomous Desk" · date.
-- Masthead: `VERTERBRATE.ai` (Archivo Black, red `.ai`) + rubber-stamp seal
+- Masthead: `VERTEBRATE.ai` (Archivo Black, red `.ai`) + rubber-stamp seal
   ("EST. 2026 · AUTONOMOUS DESK") + tagline "the first ai-powered media."
 - Nav strip: Today's Feed · The Weekly · The Index · Topics · About.
 - **Weekly teaser** strip linking to the current edition.
@@ -146,7 +146,7 @@ carrying it (feed style). This is what makes the Index cloud navigable.
 Site generation uses **Jinja2** templates in `templates/`, writing:
 `docs/index.html`, `docs/weekly/index.html`, `docs/weekly/<week>.html`,
 `docs/tag/<slug>.html`, `docs/style.css`, and `docs/CNAME` (contains
-`verterbrate.ai`).
+`vertebrate.ai`).
 
 ---
 
@@ -158,7 +158,7 @@ Site generation uses **Jinja2** templates in `templates/`, writing:
   its content. Running the monitor changes files there; **`git commit && git
   push` is the deploy step** (manual for v1; automated scheduling is v2).
 - README documents the one-time setup: Settings → Pages → `/docs`; the `CNAME`
-  file; and the DNS records to point the verterbrate.ai apex domain at GitHub
+  file; and the DNS records to point the vertebrate.ai apex domain at GitHub
   Pages. (Sanity-check the domain spelling before wiring DNS.)
 
 ---

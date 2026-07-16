@@ -1,4 +1,4 @@
-# Press Monitor → verterbrate.ai
+# Press Monitor → vertebrate.ai
 
 A daily press monitor that fetches Google News for your watchlist, uses Claude to
 judge relevance / classify / tag / write copy, and publishes a retro-newspaper
@@ -32,16 +32,16 @@ Both commands write files under `docs/` and `data/`. **Publish by committing:**
 git add docs data && git commit -m "update: $(date +%F)" && git push
 ```
 
-## Publish on verterbrate.ai (one time)
+## Publish on vertebrate.ai (one time)
 
 1. Push this repo to GitHub.
 2. Settings → Pages → Build and deployment → Source: **Deploy from a branch**,
    Branch: **main** / **/docs**.
-3. The build writes `docs/CNAME` (`verterbrate.ai`) for you. In your DNS, point
+3. The build writes `docs/CNAME` (`vertebrate.ai`) for you. In your DNS, point
    the apex domain at GitHub Pages with these `A` records:
    `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
    (and an `AAAA`/`www` `CNAME` per GitHub's current Pages docs).
-4. Settings → Pages → Custom domain: `verterbrate.ai`; enable HTTPS.
+4. Settings → Pages → Custom domain: `vertebrate.ai`; enable HTTPS.
 
 ## Cost
 

@@ -1,4 +1,4 @@
-# Press Monitor → verterbrate.ai — Implementation Plan
+# Press Monitor → vertebrate.ai — Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
@@ -8,7 +8,7 @@
 
 **Tech Stack:** Python 3.9+, `anthropic` (SDK, structured outputs via `messages.parse`), `pydantic` v2, `feedparser`, `PyYAML`, `python-dotenv`, `Jinja2`; `pytest` for tests.
 
-**Design spec:** `superpowers/specs/2026-07-15-press-monitor-verterbrate-design.md`
+**Design spec:** `superpowers/specs/2026-07-15-press-monitor-vertebrate-design.md`
 **Locked look (reference):** `mocks/final-home.html`, `mocks/final-weekly.html`
 
 ## Global Constraints
@@ -21,7 +21,7 @@ Every task's requirements implicitly include these:
 - **Secrets:** never hardcode the key. Construct the client with bare `anthropic.Anthropic()` — it reads `ANTHROPIC_API_KEY` from the environment. `config.load_env()` loads `.env` first.
 - **Voice (verbatim brief, reused in prompts):** "Write in the register of a thoughtful New Yorker reporter: sophisticated but easy to read, observed, dry, with a point of view. Never press-release hype or hedging. Prefer one vivid, concrete image over three adjectives."
 - **Flat files only:** `data/mentions.json`, `data/weeks.json`. No database.
-- **Site output → `docs/`** (GitHub Pages serves `/docs`). Always write `docs/CNAME` containing `verterbrate.ai`.
+- **Site output → `docs/`** (GitHub Pages serves `/docs`). Always write `docs/CNAME` containing `vertebrate.ai`.
 - **Cost guards:** per-topic cap = 25 articles; snippet truncation = 500 chars; classify `max_tokens=400`.
 - **Resilience:** one clear error message per whole-run failure mode (missing key, malformed YAML); a single article/mention that errors is **skipped and logged**, never crashing the run or the site build.
 - **Readability:** simple, commented code — the owner reads it to learn. One responsibility per module.
@@ -125,7 +125,7 @@ git commit -m "chore: scaffold deps, sample watchlist, test harness"
 
 **Interfaces:**
 - Produces:
-  - Constants: `SNIPPET_MAX_CHARS=500`, `PER_TOPIC_LIMIT=25`, `CLASSIFY_MODEL="claude-haiku-4-5"`, `WEEKLY_MODEL="claude-sonnet-5"`, `SITE_TITLE="VERTERBRATE.ai"`, `SITE_TAGLINE="the first ai-powered media"`, `DOMAIN="verterbrate.ai"`, `CLASSIFY_MAX_TOKENS=400`, `WEEKLY_MAX_TOKENS=8000`.
+  - Constants: `SNIPPET_MAX_CHARS=500`, `PER_TOPIC_LIMIT=25`, `CLASSIFY_MODEL="claude-haiku-4-5"`, `WEEKLY_MODEL="claude-sonnet-5"`, `SITE_TITLE="VERTEBRATE.ai"`, `SITE_TAGLINE="the first ai-powered media"`, `DOMAIN="vertebrate.ai"`, `CLASSIFY_MAX_TOKENS=400`, `WEEKLY_MAX_TOKENS=8000`.
   - `class ConfigError(Exception)`
   - `@dataclass(frozen=True) Topic(name: str, keywords: str)`
   - `load_env(path: str = ".env") -> None`
@@ -197,9 +197,9 @@ CLASSIFY_MODEL = "claude-haiku-4-5"      # cheap, high-volume daily triage
 WEEKLY_MODEL = "claude-sonnet-5"         # sharper prose for the weekly editorial
 CLASSIFY_MAX_TOKENS = 400
 WEEKLY_MAX_TOKENS = 8000
-SITE_TITLE = "VERTERBRATE.ai"
+SITE_TITLE = "VERTEBRATE.ai"
 SITE_TAGLINE = "the first ai-powered media"
-DOMAIN = "verterbrate.ai"
+DOMAIN = "vertebrate.ai"
 
 
 class ConfigError(Exception):
@@ -1055,11 +1055,11 @@ def test_build_site_writes_expected_files(tmp_path):
     sitemod.build_site(mentions, weeks, out_dir=str(out), templates_dir="templates")
 
     index = (out / "index.html").read_text(encoding="utf-8")
-    assert "VERTERBRATE" in index
+    assert "VERTEBRATE" in index
     assert "Figure hits the line" in index      # feed item
     assert "Figure" in index                     # tag index
 
-    assert (out / "CNAME").read_text().strip() == "verterbrate.ai"
+    assert (out / "CNAME").read_text().strip() == "vertebrate.ai"
     assert (out / "style.css").exists()
 
     weekly = (out / "weekly" / "2026-W29.html").read_text(encoding="utf-8")
@@ -1107,7 +1107,7 @@ Note: `root` is a relative prefix (`""` for pages in `docs/`, `"../"` for pages 
   <div class="topbar"><span>WIRE</span><span>THE AUTONOMOUS DESK</span><span>{{ today }}</span></div>
   <header class="masthead">
     <div class="stamp"><div class="big">EST.</div><div class="yr">2026</div><div class="sm">AUTONOMOUS · DESK</div></div>
-    <h1>VERTERBRATE<span class="ai">.ai</span></h1>
+    <h1>VERTEBRATE<span class="ai">.ai</span></h1>
     <div class="tag">{{ site_tagline }}</div>
   </header>
   <nav class="sections">
@@ -1145,7 +1145,7 @@ Note: `root` is a relative prefix (`""` for pages in `docs/`, `"../"` for pages 
       </div>
     </aside>
   </div>
-  <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTERBRATE.AI</div>
+  <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTEBRATE.AI</div>
 {% endblock %}
 ```
 
@@ -1158,7 +1158,7 @@ Note: `root` is a relative prefix (`""` for pages in `docs/`, `"../"` for pages 
   <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>THE AUTONOMOUS DESK</span><span>{{ week }}</span></div>
   <header class="masthead">
     <div class="kicker">THE WEEKLY</div>
-    <h1>VERTERBRATE<span class="ai">.ai</span></h1>
+    <h1>VERTEBRATE<span class="ai">.ai</span></h1>
     <div class="editionline">{{ week }}</div>
   </header>
   <p class="lede">{{ lede }}</p>
@@ -1173,7 +1173,7 @@ Note: `root` is a relative prefix (`""` for pages in `docs/`, `"../"` for pages 
     </div>
     {% endfor %}
   {% endfor %}
-  <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTERBRATE.AI</div>
+  <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTEBRATE.AI</div>
 {% endblock %}
 ```
 
@@ -1184,12 +1184,12 @@ Note: `root` is a relative prefix (`""` for pages in `docs/`, `"../"` for pages 
 {% block title %}The Weekly — Archive — {{ site_title }}{% endblock %}
 {% block body %}
   <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>THE WEEKLY · ARCHIVE</span><span></span></div>
-  <header class="masthead"><div class="kicker">THE WEEKLY</div><h1>VERTERBRATE<span class="ai">.ai</span></h1></header>
+  <header class="masthead"><div class="kicker">THE WEEKLY</div><h1>VERTEBRATE<span class="ai">.ai</span></h1></header>
   <div class="sec">Editions</div>
   {% for w in weeks %}
   <div class="entry"><h3><a href="{{ root }}weekly/{{ w }}.html">{{ w }}</a></h3></div>
   {% endfor %}
-  <div class="foot">VERTERBRATE.AI</div>
+  <div class="foot">VERTEBRATE.AI</div>
 {% endblock %}
 ```
 
@@ -1200,7 +1200,7 @@ Note: `root` is a relative prefix (`""` for pages in `docs/`, `"../"` for pages 
 {% block title %}{{ label }} — {{ site_title }}{% endblock %}
 {% block body %}
   <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>THE INDEX</span><span></span></div>
-  <header class="masthead"><h1>VERTERBRATE<span class="ai">.ai</span></h1></header>
+  <header class="masthead"><h1>VERTEBRATE<span class="ai">.ai</span></h1></header>
   <div class="sec">Tagged: {{ label }}</div>
   <div class="feed">
     {% for m in mentions %}
@@ -1209,7 +1209,7 @@ Note: `root` is a relative prefix (`""` for pages in `docs/`, `"../"` for pages 
       <p class="oneline">{{ m.one_line }}</p></div></article>
     {% endfor %}
   </div>
-  <div class="foot">VERTERBRATE.AI</div>
+  <div class="foot">VERTEBRATE.AI</div>
 {% endblock %}
 ```
 
@@ -1470,7 +1470,7 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
 
 def main(argv=None) -> int:
     argv = sys.argv[1:] if argv is None else argv
-    parser = argparse.ArgumentParser(description="Press Monitor for verterbrate.ai")
+    parser = argparse.ArgumentParser(description="Press Monitor for vertebrate.ai")
     parser.add_argument("--weekly", action="store_true", help="Generate the weekly edition.")
     parser.add_argument("--week", default=None, help="ISO week (YYYY-Www); defaults to now.")
     args = parser.parse_args(argv)
@@ -1536,7 +1536,7 @@ git commit -m "feat: monitor CLI (daily ingest + weekly edition)"
 - [ ] **Step 1: Write `README.md`**
 
 ````markdown
-# Press Monitor → verterbrate.ai
+# Press Monitor → vertebrate.ai
 
 A daily press monitor that fetches Google News for your watchlist, uses Claude to
 judge relevance / classify / tag / write copy, and publishes a retro-newspaper
@@ -1570,16 +1570,16 @@ Both commands write files under `docs/` and `data/`. **Publish by committing:**
 git add docs data && git commit -m "update: $(date +%F)" && git push
 ```
 
-## Publish on verterbrate.ai (one time)
+## Publish on vertebrate.ai (one time)
 
 1. Push this repo to GitHub.
 2. Settings → Pages → Build and deployment → Source: **Deploy from a branch**,
    Branch: **main** / **/docs**.
-3. The build writes `docs/CNAME` (`verterbrate.ai`) for you. In your DNS, point
+3. The build writes `docs/CNAME` (`vertebrate.ai`) for you. In your DNS, point
    the apex domain at GitHub Pages with these `A` records:
    `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
    (and an `AAAA`/`www CNAME` per GitHub's current docs).
-4. Settings → Pages → Custom domain: `verterbrate.ai`; enable HTTPS.
+4. Settings → Pages → Custom domain: `vertebrate.ai`; enable HTTPS.
 
 ## Cost
 

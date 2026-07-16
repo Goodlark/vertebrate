@@ -2,7 +2,7 @@
 {% block title %}{{ label }} — {{ site_title }}{% endblock %}
 {% block body %}
   <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>THE INDEX</span><span></span></div>
-  <header class="masthead"><h1>VERTERBRATE<span class="ai">.ai</span></h1></header>
+  <header class="masthead"><h1>VERTEBRATE<span class="ai">.ai</span></h1></header>
   <div class="sec">Tagged: {{ label }}</div>
   <div class="feed">
     {% for m in mentions %}
@@ -11,5 +11,5 @@
       <p class="oneline">{{ m.one_line }}</p></div></article>
     {% endfor %}
   </div>
-  <div class="foot">VERTERBRATE.AI</div>
+  <div class="foot">VERTEBRATE.AI</div>
 {% endblock %}

@@ -14,9 +14,9 @@ CLASSIFY_MODEL = "claude-haiku-4-5"      # cheap, high-volume daily triage
 WEEKLY_MODEL = "claude-sonnet-5"         # sharper prose for the weekly editorial
 CLASSIFY_MAX_TOKENS = 400
 WEEKLY_MAX_TOKENS = 8000
-SITE_TITLE = "VERTERBRATE.ai"
+SITE_TITLE = "VERTEBRATE.ai"
 SITE_TAGLINE = "the first ai-powered media"
-DOMAIN = "verterbrate.ai"
+DOMAIN = "vertebrate.ai"
 
 
 class ConfigError(Exception):

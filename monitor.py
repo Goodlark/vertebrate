@@ -85,7 +85,7 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
 
 def main(argv=None) -> int:
     argv = sys.argv[1:] if argv is None else argv
-    parser = argparse.ArgumentParser(description="Press Monitor for verterbrate.ai")
+    parser = argparse.ArgumentParser(description="Press Monitor for vertebrate.ai")
     parser.add_argument("--weekly", action="store_true", help="Generate the weekly edition.")
     parser.add_argument("--week", default=None, help="ISO week (YYYY-Www); defaults to now.")
     args = parser.parse_args(argv)

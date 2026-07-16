@@ -88,6 +88,9 @@ def _common(root: str) -> dict:
 def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
                templates_dir: str = "templates") -> None:
     env = _env(templates_dir)
+    # Rebuild from scratch so stale pages (tags/weeks no longer present) don't linger.
+    if os.path.isdir(out_dir):
+        shutil.rmtree(out_dir)
     os.makedirs(out_dir, exist_ok=True)
 
     # Collapse the same story from different outlets (highest-ranked kept),

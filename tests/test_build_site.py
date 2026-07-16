@@ -17,11 +17,11 @@ def test_build_site_writes_expected_files(tmp_path):
     sitegen.build_site(mentions, weeks, out_dir=str(out), templates_dir="templates")
 
     index = (out / "index.html").read_text(encoding="utf-8")
-    assert "VERTERBRATE" in index
+    assert "VERTEBRATE" in index
     assert "Figure hits the line" in index      # feed item
     assert "Figure" in index                     # tag index
 
-    assert (out / "CNAME").read_text().strip() == "verterbrate.ai"
+    assert (out / "CNAME").read_text().strip() == "vertebrate.ai"
     assert (out / "style.css").exists()
 
     weekly = (out / "weekly" / "2026-W29.html").read_text(encoding="utf-8")
@@ -46,6 +46,22 @@ def test_build_site_caps_lead_and_lists_the_rest(tmp_path):
     # the two oldest overflow into the briefs; a newest one leads the feed
     assert "Alpha00" in index and "Alpha01" in index
     assert "Alpha21" in index
+
+
+def test_build_site_removes_stale_pages(tmp_path):
+    out = tmp_path / "docs"
+
+    def M(url, company):
+        return store.Mention(url=url, title="T", source="S", published="", topic="T",
+                             category="other", one_line="o", companies=[company], people=[],
+                             themes=[], first_seen="2026-07-15T00:00:00", week="2026-W29")
+
+    sitegen.build_site([M("http://a", "Foo")], {}, out_dir=str(out), templates_dir="templates")
+    assert (out / "tag" / "foo.html").exists()
+    # Rebuild with different data — the old tag page must not linger.
+    sitegen.build_site([M("http://b", "Bar")], {}, out_dir=str(out), templates_dir="templates")
+    assert not (out / "tag" / "foo.html").exists()
+    assert (out / "tag" / "bar.html").exists()
 
 
 def test_build_site_deduplicates_display(tmp_path):
