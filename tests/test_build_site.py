@@ -48,6 +48,25 @@ def test_build_site_caps_lead_and_lists_the_rest(tmp_path):
     assert "Alpha21" in index
 
 
+def test_build_site_homepage_shows_only_latest_week(tmp_path):
+    out = tmp_path / "docs"
+
+    def M(url, title, week, seen):
+        return store.Mention(url=url, title=title, source="S", published="", topic="T",
+                             category="launch", one_line="o", companies=[], people=[],
+                             themes=[], first_seen=seen, week=week)
+
+    ms = [M("http://old", "LastWeekStory", "2026-W28", "2026-07-06T00:00:00"),
+          M("http://new", "ThisWeekStory", "2026-W29", "2026-07-15T00:00:00")]
+    sitegen.build_site(ms, {"2026-W28": {"lede": "Last week."}},
+                       out_dir=str(out), templates_dir="templates")
+    index = (out / "index.html").read_text(encoding="utf-8")
+    assert "ThisWeekStory" in index          # current week leads the homepage
+    assert "LastWeekStory" not in index      # older week is not on the front page
+    weekly = (out / "weekly" / "2026-W28.html").read_text(encoding="utf-8")
+    assert "LastWeekStory" in weekly         # it lives on its weekly page
+
+
 def test_build_site_removes_stale_pages(tmp_path):
     out = tmp_path / "docs"
 

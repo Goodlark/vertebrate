@@ -42,6 +42,35 @@ def test_run_daily_skips_irrelevant_and_dedupes(tmp_path):
     assert summary["relevant"] == 0 and summary["added"] == 0
 
 
+def test_run_backfill_stores_week_and_writes_editorial(tmp_path):
+    import store
+    import weekly
+    topics = [Topic("Physical AI", "humanoid")]
+    art = Article("Old humanoid news", "http://x", "The Verge", "", "snippet")
+
+    def parse_side_effect(**kwargs):
+        if kwargs.get("output_format") is weekly.WeeklyRollup:
+            return SimpleNamespace(parsed_output=weekly.WeeklyRollup(
+                lede="The week in review.", entries=[weekly.WhyEntry(url="http://x", why="It mattered.")]))
+        return SimpleNamespace(parsed_output=classify.Assessment(
+            relevant=True, category="launch", one_line="o", companies=["Figure"], people=[], themes=["humanoid"]))
+
+    client = MagicMock()
+    client.messages.parse.side_effect = parse_side_effect
+    data_dir = tmp_path / "data"
+    out_dir = tmp_path / "docs"
+    with patch("monitor.feeds.fetch_topic", return_value=[art]):
+        monitor.run_backfill(datetime(2026, 7, 15), "2026-W28", topics, client,
+                             out_dir=str(out_dir), data_dir=str(data_dir))
+
+    stored = store.load_mentions(str(data_dir / "mentions.json"))
+    assert any(m.week == "2026-W28" and m.url == "http://x" for m in stored)
+    weeks = store.load_weeks(str(data_dir / "weeks.json"))
+    assert weeks["2026-W28"]["lede"] == "The week in review."
+    wk = (out_dir / "weekly" / "2026-W28.html").read_text(encoding="utf-8")
+    assert "Old humanoid news" in wk and "It mattered." in wk
+
+
 def test_run_daily_dedupes_same_story_from_two_outlets(tmp_path):
     import store
     topics = [Topic("Driverless", "waymo")]

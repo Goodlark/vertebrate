@@ -16,6 +16,11 @@ def test_iso_week_format():
     assert store.iso_week(datetime(2026, 7, 15)) == "2026-W29"
 
 
+def test_iso_week_bounds():
+    from datetime import date
+    assert store.iso_week_bounds("2026-W28") == (date(2026, 7, 6), date(2026, 7, 12))
+
+
 def test_normalize_tags_dedupes_case_insensitively_keeping_first():
     assert store.normalize_tags([" Figure ", "figure", "Waymo"]) == ["Figure", "Waymo"]
 

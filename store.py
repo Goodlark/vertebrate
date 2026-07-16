@@ -4,7 +4,7 @@ import json
 import os
 import re
 from dataclasses import asdict, dataclass, field
-from datetime import datetime
+from datetime import date, datetime
 from typing import Optional
 
 from feeds import Article  # noqa: F401 (documents the Article -> Mention relationship)
@@ -37,6 +37,13 @@ class Mention:
 def iso_week(dt: datetime) -> str:
     year, week, _ = dt.isocalendar()
     return f"{year}-W{week:02d}"
+
+
+def iso_week_bounds(week_str: str) -> tuple:
+    """'2026-W28' -> (date(2026, 7, 6), date(2026, 7, 12)) — the Monday and Sunday."""
+    year_s, wk_s = week_str.split("-W")
+    year, wk = int(year_s), int(wk_s)
+    return date.fromisocalendar(year, wk, 1), date.fromisocalendar(year, wk, 7)
 
 
 def normalize_tags(tags: list) -> list:

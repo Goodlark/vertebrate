@@ -4,7 +4,7 @@ import argparse
 import logging
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import anthropic
 
@@ -66,7 +66,10 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
     mentions = store.load_mentions(mentions_path)
     weeks = store.load_weeks(weeks_path)
 
-    wk = store.mentions_for_week(mentions, week)
+    # Editorialize only the week's top stories (dedup + importance-ranked),
+    # so the Sonnet output stays within budget and the edition stays readable.
+    wk = store.dedupe_stories(sitegen.rank_mentions(store.mentions_for_week(mentions, week)))
+    wk = wk[:config.WEEKLY_STORY_LIMIT]
     if not wk:
         log.info("No mentions for %s — nothing to write.", week)
         return {"week": week, "mentions": 0}
@@ -83,11 +86,50 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
     return {"week": week, "mentions": len(wk)}
 
 
+def run_backfill(now: datetime, week: str, topics: list, client, out_dir: str = "docs",
+                 data_dir: str = "data") -> dict:
+    """Fetch a past ISO week's news (by publication date), store it tagged to that
+    week, then write that week's editorial. Reusable for any prior week."""
+    mentions_path, _ = _paths(data_dir)
+    mentions = store.load_mentions(mentions_path)
+    known = store.known_urls(mentions)
+
+    monday, sunday = store.iso_week_bounds(week)
+    # Google News date operators are day-granular; widen by a day on each side.
+    after = (monday - timedelta(days=1)).isoformat()
+    before = (sunday + timedelta(days=1)).isoformat()
+    seen_stamp = datetime.combine(monday, datetime.min.time()).isoformat(timespec="seconds")
+
+    added = 0
+    for topic in topics:
+        dated = config.Topic(topic.name, f"{topic.keywords} after:{after} before:{before}")
+        for art in store.filter_new(feeds.fetch_topic(dated), known):
+            known.add(art.url)
+            assessment = classify.assess(client, art, topic.name)
+            if assessment is None or not assessment.relevant:
+                continue
+            mentions.append(store.Mention(
+                url=art.url, title=art.title, source=art.source, published=art.published,
+                topic=topic.name, category=assessment.category, one_line=assessment.one_line,
+                companies=store.normalize_tags(assessment.companies),
+                people=store.normalize_tags(assessment.people),
+                themes=store.normalize_tags(assessment.themes),
+                first_seen=seen_stamp, week=week))
+            added += 1
+
+    mentions = store.dedupe_stories(mentions)
+    store.save_mentions(mentions, mentions_path)
+    log.info("Backfill %s — added %d stories", week, added)
+    return run_weekly(now, week, client, out_dir=out_dir, data_dir=data_dir)
+
+
 def main(argv=None) -> int:
     argv = sys.argv[1:] if argv is None else argv
     parser = argparse.ArgumentParser(description="Press Monitor for vertebrate.ai")
     parser.add_argument("--weekly", action="store_true", help="Generate the weekly edition.")
     parser.add_argument("--week", default=None, help="ISO week (YYYY-Www); defaults to now.")
+    parser.add_argument("--backfill", default=None, metavar="YYYY-Www",
+                        help="Fetch a past ISO week's news by publication date and write its weekly.")
     args = parser.parse_args(argv)
 
     try:
@@ -100,7 +142,9 @@ def main(argv=None) -> int:
 
     client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from the environment
     now = datetime.now()
-    if args.weekly:
+    if args.backfill:
+        run_backfill(now, args.backfill, topics, client)
+    elif args.weekly:
         run_weekly(now, args.week or store.iso_week(now), client)
     else:
         run_daily(now, topics, client)
