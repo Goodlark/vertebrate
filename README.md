@@ -24,6 +24,7 @@ verbatim, so quotes and `OR` work exactly like the Google News search box.
 ```bash
 python monitor.py            # daily: fetch, classify, rebuild the site
 python monitor.py --weekly   # weekly: write the "why it matters" edition
+python monitor.py --captions # backfill LinkedIn captions for older editions
 ```
 
 Both commands write files under `docs/` and `data/`. **Publish by committing:**
@@ -48,6 +49,18 @@ git add docs data && git commit -m "update: $(date +%F)" && git push
 Daily triage runs on Haiku 4.5 with truncated snippets and a 25-article/topic
 cap — cents per run. The weekly editorial runs on Sonnet 5 once a week. See the
 spec for details.
+
+## Distribution
+
+Each weekly edition ships three ways to repurpose it:
+
+- **Share buttons** (X, LinkedIn, Facebook, email, copy-link) — they pull the
+  branded `og.png` card automatically.
+- **A copy-ready LinkedIn caption** — the weekly editorial writes it in the same
+  Sonnet call (`--captions` backfills older editions). It renders in a
+  "Post this to LinkedIn" box with a one-tap Copy button.
+- **An RSS feed** at `/feed.xml` (one item per weekly edition, full write-up
+  included). Point Substack's RSS import — or any reader — at it.
 
 ## Scheduling (later / v2)
 

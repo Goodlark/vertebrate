@@ -80,6 +80,7 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
     if rollup is not None:
         weekly.apply_rollup(mentions, rollup)
         weeks[week] = {"summary": rollup.summary, "lede": rollup.lede,
+                       "linkedin": rollup.linkedin,
                        "generated_at": now.isoformat(timespec="seconds")}
         store.save_mentions(mentions, mentions_path)
         store.save_weeks(weeks, weeks_path)
@@ -87,6 +88,31 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
     log.info("Weekly run — %s / %d mentions", week, len(wk))
     return {"week": week, "mentions": len(wk)}
+
+
+def run_captions(now: datetime, client, out_dir: str = "docs",
+                 data_dir: str = "data") -> dict:
+    """Backfill LinkedIn captions for any weekly edition written before captions
+    existed, then rebuild the site. Live weekly runs already include the caption."""
+    mentions_path, weeks_path = _paths(data_dir)
+    mentions = store.load_mentions(mentions_path)
+    weeks = store.load_weeks(weeks_path)
+
+    done = 0
+    for week, meta in weeks.items():
+        if meta.get("linkedin"):
+            continue
+        wk = store.dedupe_stories(
+            sitegen.rank_mentions(store.mentions_for_week(mentions, week)))[:config.WEEKLY_STORY_LIMIT]
+        caption = weekly.write_linkedin(
+            client, week, meta.get("summary", ""), meta.get("lede", ""), wk)
+        if caption:
+            meta["linkedin"] = caption
+            done += 1
+    store.save_weeks(weeks, weeks_path)
+    sitegen.build_site(mentions, weeks, out_dir=out_dir)
+    log.info("Captions — backfilled %d week(s)", done)
+    return {"captions": done}
 
 
 def run_backfill(now: datetime, week: str, topics: list, client, out_dir: str = "docs",
@@ -135,6 +161,8 @@ def main(argv=None) -> int:
     parser.add_argument("--week", default=None, help="ISO week (YYYY-Www); defaults to now.")
     parser.add_argument("--backfill", default=None, metavar="YYYY-Www",
                         help="Fetch a past ISO week's news by publication date and write its weekly.")
+    parser.add_argument("--captions", action="store_true",
+                        help="Backfill LinkedIn captions for editions that lack one, then rebuild.")
     args = parser.parse_args(argv)
 
     try:
@@ -149,6 +177,8 @@ def main(argv=None) -> int:
     now = datetime.now()
     if args.backfill:
         run_backfill(now, args.backfill, topics, client)
+    elif args.captions:
+        run_captions(now, client)
     elif args.weekly:
         run_weekly(now, args.week or store.iso_week(now), client)
     else:

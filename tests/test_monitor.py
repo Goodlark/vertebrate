@@ -52,6 +52,7 @@ def test_run_backfill_stores_week_and_writes_editorial(tmp_path):
         if kwargs.get("output_format") is weekly.WeeklyRollup:
             return SimpleNamespace(parsed_output=weekly.WeeklyRollup(
                 summary="Big thing happened.", lede="The week in review.",
+                linkedin="→ Big thing happened.\n#Robotics",
                 entries=[weekly.WhyEntry(url="http://x", why="It mattered.")]))
         return SimpleNamespace(parsed_output=classify.Assessment(
             relevant=True, category="launch", one_line="o", companies=["Figure"], people=[], themes=["humanoid"]))
@@ -68,8 +69,31 @@ def test_run_backfill_stores_week_and_writes_editorial(tmp_path):
     assert any(m.week == "2026-W28" and m.url == "http://x" for m in stored)
     weeks = store.load_weeks(str(data_dir / "weeks.json"))
     assert weeks["2026-W28"]["lede"] == "The week in review."
+    assert "#Robotics" in weeks["2026-W28"]["linkedin"]
     wk = (out_dir / "weekly" / "2026-W28.html").read_text(encoding="utf-8")
     assert "Old humanoid news" in wk and "It mattered." in wk
+    assert (out_dir / "feed.xml").exists()            # syndication feed built
+
+
+def test_run_captions_backfills_missing_linkedin(tmp_path):
+    import store
+    import weekly
+    data_dir = tmp_path / "data"
+    store.save_mentions(
+        [store.Mention(url="http://a", title="T", source="S", published="", topic="Physical AI",
+                       category="launch", one_line="o", companies=["Figure"], people=[], themes=[],
+                       first_seen="2026-07-06T00:00:00", week="2026-W28")],
+        str(data_dir / "mentions.json"))
+    store.save_weeks({"2026-W28": {"summary": "s", "lede": "l"}}, str(data_dir / "weeks.json"))
+
+    client = MagicMock()
+    client.messages.parse.return_value = SimpleNamespace(
+        parsed_output=weekly.LinkedInCaption(linkedin="→ Figure did X.\n#Robotics"))
+    monitor.run_captions(datetime(2026, 7, 16), client,
+                         out_dir=str(tmp_path / "docs"), data_dir=str(data_dir))
+
+    weeks = store.load_weeks(str(data_dir / "weeks.json"))
+    assert weeks["2026-W28"]["linkedin"].startswith("→")
 
 
 def test_run_daily_dedupes_same_story_from_two_outlets(tmp_path):

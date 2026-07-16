@@ -13,7 +13,9 @@ def _m(url, topic="Physical AI", why=None):
 def test_build_site_writes_expected_files(tmp_path):
     out = tmp_path / "docs"
     mentions = [_m("http://a", why="Because it matters.")]
-    weeks = {"2026-W29": {"lede": "The week the humanoid clocked in."}}
+    weeks = {"2026-W29": {"summary": "A big week.",
+                          "lede": "The week the humanoid clocked in.",
+                          "linkedin": "→ Figure hit the line.\n#Robotics #Humanoids"}}
     sitegen.build_site(mentions, weeks, out_dir=str(out), templates_dir="templates")
 
     index = (out / "index.html").read_text(encoding="utf-8")
@@ -27,9 +29,17 @@ def test_build_site_writes_expected_files(tmp_path):
     weekly = (out / "weekly" / "2026-W29.html").read_text(encoding="utf-8")
     assert "The week the humanoid clocked in." in weekly
     assert "Because it matters." in weekly       # why-it-matters
+    assert "sharing/share-offsite" in weekly     # LinkedIn share button
+    assert "Post this to LinkedIn" in weekly     # caption copy box
+    assert "#Robotics" in weekly                 # the caption itself
 
     assert (out / "weekly" / "index.html").exists()
     assert (out / "tag" / "figure.html").exists()  # slug of "Figure"
+
+    feed = (out / "feed.xml").read_text(encoding="utf-8")
+    assert "<rss" in feed and "content:encoded" in feed
+    assert "2026-W29" in feed
+    assert "The week the humanoid clocked in." in feed
 
 
 def test_build_site_caps_lead_and_lists_the_rest(tmp_path):

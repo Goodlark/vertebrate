@@ -107,6 +107,22 @@ aside{align-self:start;position:sticky;top:20px}
 .why{font-size:16px;line-height:1.62}
 .why .lead-in{font-variant:small-caps;letter-spacing:.06em;color:var(--stamp);font-weight:600}
 
+/* Share row + LinkedIn copy box (weekly edition) */
+.share{font-family:"Special Elite",monospace;font-size:12px;color:var(--muted);
+  margin:2px 0 18px;display:flex;flex-wrap:wrap;align-items:center;gap:14px}
+.share .share-label{text-transform:uppercase;letter-spacing:.18em}
+.share a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule);cursor:pointer}
+.share a:hover{color:var(--stamp);border-color:var(--stamp)}
+.li-box{border:2px solid var(--ink);background:rgba(255,251,238,.5);margin:30px 0 6px;padding:12px 16px 16px}
+.li-hd{font-family:"Special Elite",monospace;font-size:12px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--muted);display:flex;justify-content:space-between;align-items:center;gap:12px;
+  border-bottom:1px solid var(--rule);padding-bottom:8px;margin-bottom:10px}
+.li-copy{font-family:"Special Elite",monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+  color:#f6ecd2;background:var(--stamp);border:0;padding:5px 14px;cursor:pointer;white-space:nowrap}
+.li-copy:hover{opacity:.9}
+.li-text{font-family:"Source Serif 4",Georgia,serif;font-size:15px;line-height:1.62;color:var(--ink);
+  white-space:pre-wrap;overflow-wrap:break-word;margin:0}
+
 /* Also Happened Today — the overflow briefs column */
 .also{border-top:3px double var(--ink);margin-top:26px;padding-top:4px}
 .briefs{columns:2;column-gap:36px;list-style:none;padding:0;margin:10px 0 0}

@@ -15,6 +15,16 @@
     <div class="editionline">{{ week }}</div>
   </header>
   <p class="lede">{{ lede }}</p>
+  {% set share_url = "https://" ~ domain ~ "/" ~ page_path %}
+  {% set share_text = summary or lede or ("The Weekly " ~ week) %}
+  <div class="share">
+    <span class="share-label">Share ›</span>
+    <a href="https://twitter.com/intent/tweet?text={{ share_text|urlencode }}&url={{ share_url|urlencode }}" target="_blank" rel="noopener">X</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url|urlencode }}" target="_blank" rel="noopener">LinkedIn</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ share_url|urlencode }}" target="_blank" rel="noopener">Facebook</a>
+    <a href="mailto:?subject={{ ('VERTEBRATE.ai — The Weekly ' ~ week)|urlencode }}&body={{ (share_text ~ ' ')|urlencode }}{{ share_url|urlencode }}">Email</a>
+    <a href="#" class="copy-link" data-url="{{ share_url }}">Copy link</a>
+  </div>
   {% for topic, items in groups.items() %}
   <div class="sec">{{ topic }}</div>
     {% for m in items %}
@@ -31,5 +41,31 @@
     </div>
     {% endfor %}
   {% endfor %}
+  {% if linkedin %}
+  <div class="li-box">
+    <div class="li-hd">Post this to LinkedIn <button type="button" class="li-copy" data-target="li-text">Copy</button></div>
+    <pre id="li-text" class="li-text">{{ linkedin }}</pre>
+  </div>
+  {% endif %}
   <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTEBRATE.AI</div>
+  <script>
+  document.addEventListener('click', function (e) {
+    var link = e.target.closest('.copy-link');
+    if (link) {
+      e.preventDefault();
+      navigator.clipboard.writeText(link.dataset.url).then(function () {
+        link.textContent = 'Copied ✓';
+        setTimeout(function () { link.textContent = 'Copy link'; }, 1800);
+      });
+    }
+    var btn = e.target.closest('.li-copy');
+    if (btn) {
+      var box = document.getElementById(btn.dataset.target);
+      if (box) navigator.clipboard.writeText(box.textContent).then(function () {
+        btn.textContent = 'Copied ✓';
+        setTimeout(function () { btn.textContent = 'Copy'; }, 1800);
+      });
+    }
+  });
+  </script>
 {% endblock %}

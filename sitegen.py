@@ -1,11 +1,14 @@
 from __future__ import annotations
 
+import html
 import os
 import re
 import shutil
 from collections import OrderedDict
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
+from email.utils import format_datetime
+from xml.sax.saxutils import escape as xml_escape
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
@@ -80,6 +83,69 @@ def rank_mentions(mentions: list) -> list:
                   reverse=True)
 
 
+def _rfc822(d) -> str:
+    """RFC-822 date (RSS pubDate) at noon UTC on the given date."""
+    return format_datetime(datetime(d.year, d.month, d.day, 12, 0, 0, tzinfo=timezone.utc))
+
+
+def build_feed(weeks: dict, mentions: list, week_ids: list) -> str:
+    """An RSS 2.0 feed of the weekly editions — one item per edition, newest first,
+    carrying the full write-up so Substack (and any reader) can import it whole."""
+    base = "https://%s" % DOMAIN
+    items = []
+    for wid in week_ids:                                  # week_ids is newest-first
+        meta = weeks.get(wid, {})
+        _monday, sunday = store.iso_week_bounds(wid)
+        link = "%s/weekly/%s.html" % (base, wid)
+        title = "The Weekly — %s" % wid
+
+        wk = store.dedupe_stories(
+            rank_mentions([m for m in mentions if m.week == wid]))[:WEEKLY_STORY_LIMIT]
+        parts = []
+        if meta.get("summary"):
+            parts.append("<p><strong>%s</strong></p>" % html.escape(meta["summary"]))
+        if meta.get("lede"):
+            parts.append("<p><em>%s</em></p>" % html.escape(meta["lede"]))
+        for m in wk:
+            who = ", ".join(list(m.companies) + list(m.people))
+            parts.append("<h3>%s</h3>" % html.escape(m.title))
+            if who:
+                parts.append("<p><strong>%s</strong> · %s</p>"
+                             % (html.escape(who), html.escape(m.source)))
+            parts.append("<p>%s</p>" % html.escape(m.one_line))
+            if m.why:
+                parts.append("<p><em>Why it matters.</em> %s</p>" % html.escape(m.why))
+        body = "\n".join(parts).replace("]]>", "]]&gt;")   # keep CDATA well-formed
+        desc = meta.get("summary") or meta.get("lede") or title
+
+        items.append(
+            "  <item>\n"
+            "    <title>%s</title>\n"
+            "    <link>%s</link>\n"
+            '    <guid isPermaLink="true">%s</guid>\n'
+            "    <pubDate>%s</pubDate>\n"
+            "    <description>%s</description>\n"
+            "    <content:encoded><![CDATA[%s]]></content:encoded>\n"
+            "  </item>" % (xml_escape(title), link, link, _rfc822(sunday),
+                           xml_escape(desc), body)
+        )
+
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" '
+        'xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        "<channel>\n"
+        "  <title>%s — The Weekly</title>\n"
+        "  <link>%s/</link>\n"
+        '  <atom:link href="%s/feed.xml" rel="self" type="application/rss+xml"/>\n'
+        "  <description>%s</description>\n"
+        "  <language>en-us</language>\n"
+        "%s\n"
+        "</channel>\n</rss>\n"
+        % (xml_escape(SITE_TITLE), base, base, xml_escape(SITE_DESC), "\n".join(items))
+    )
+
+
 # --- Site builder -------------------------------------------------------------
 
 def _env(templates_dir: str) -> Environment:
@@ -146,7 +212,8 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         with open(os.path.join(weekly_dir, f"{week_id}.html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("weekly_edition.html").render(
                 week=week_id, lede=weeks[week_id].get("lede", ""),
-                summary=weeks[week_id].get("summary", ""), week_date=monday.isoformat(),
+                summary=weeks[week_id].get("summary", ""),
+                linkedin=weeks[week_id].get("linkedin", ""), week_date=monday.isoformat(),
                 groups=group_by_topic(wk_mentions),
                 **_common("../", "weekly/" + week_id + ".html")))
     week_views = [{"id": w, "summary": weeks.get(w, {}).get("summary", "")} for w in week_ids]
@@ -185,3 +252,7 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
                 '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                 + urls + "</urlset>\n")
+
+    # Syndication: an RSS feed of the weekly editions (readers + Substack import).
+    with open(os.path.join(out_dir, "feed.xml"), "w", encoding="utf-8") as f:
+        f.write(build_feed(weeks, mentions, week_ids))

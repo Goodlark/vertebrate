@@ -9,6 +9,7 @@
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="https://vertebrate.ai/weekly/2026-W28.html">
 <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="VERTEBRATE.ai — The Weekly" href="https://vertebrate.ai/feed.xml">
 <!-- Open Graph / social -->
 <meta property="og:site_name" content="VERTEBRATE.ai">
 <meta property="og:type" content="article">
@@ -43,6 +44,16 @@
     <div class="editionline">2026-W28</div>
   </header>
   <p class="lede">The humanoids arrived in force this week, some promising companionship and others promising to replace factory shifts, though nearly every founder spent as much energy managing expectations as raising them. Meanwhile the machines that already work for a living—Waymo&#39;s robotaxis and a fleet of autonomous drones from Everest to Tampa Bay—quietly expanded, a reminder that the future often shows up as logistics rather than spectacle.</p>
+  
+  
+  <div class="share">
+    <span class="share-label">Share ›</span>
+    <a href="https://twitter.com/intent/tweet?text=1X%20gave%20its%20Neo%20humanoid%20near-human%20hands%20and%20Mitsubishi%20joined%20the%20android%20race%20with%20a%202027%20factory%20plan%2C%20while%20Waymo%20pushed%20driverless%20rides%20into%20a%20half-dozen%20new%20cities%20and%20Ondas%20snapped%20up%20drone%20maker%20DZYNE%20for%20%24875.8%20million.&url=https%3A//vertebrate.ai/weekly/2026-W28.html" target="_blank" rel="noopener">X</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//vertebrate.ai/weekly/2026-W28.html" target="_blank" rel="noopener">LinkedIn</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//vertebrate.ai/weekly/2026-W28.html" target="_blank" rel="noopener">Facebook</a>
+    <a href="mailto:?subject=VERTEBRATE.ai%20%E2%80%94%20The%20Weekly%202026-W28&body=1X%20gave%20its%20Neo%20humanoid%20near-human%20hands%20and%20Mitsubishi%20joined%20the%20android%20race%20with%20a%202027%20factory%20plan%2C%20while%20Waymo%20pushed%20driverless%20rides%20into%20a%20half-dozen%20new%20cities%20and%20Ondas%20snapped%20up%20drone%20maker%20DZYNE%20for%20%24875.8%20million.%20https%3A//vertebrate.ai/weekly/2026-W28.html">Email</a>
+    <a href="#" class="copy-link" data-url="https://vertebrate.ai/weekly/2026-W28.html">Copy link</a>
+  </div>
   
   <div class="sec">Physical AI</div>
     
@@ -269,7 +280,47 @@
     </div>
     
   
+  
+  <div class="li-box">
+    <div class="li-hd">Post this to LinkedIn <button type="button" class="li-copy" data-target="li-text">Copy</button></div>
+    <pre id="li-text" class="li-text">This week the robots kept their promises modest and their expansion plans large.
+
+→ 1X gave its Neo humanoid hands with something close to human-level dexterity and touch sensitivity — the unglamorous work behind any &#34;companion robot&#34; pitch.
+
+→ Mitsubishi joined the android race outright, targeting 2027 to manufacture and deploy humanoid workers on factory floors.
+
+→ Waymo pushed driverless rides into Denver, San Diego, Tampa, and beyond — proof that the driverless future arrives as a rollout schedule, not a headline.
+
+→ Ondas bought military drone maker DZYNE for $875.8 million, while Skydio quietly crossed 1,000 autonomous dock deployments in a single year.
+
+The pattern holds: humanoids get the press releases, but the machines already earning their keep — robotaxis, delivery drones, inspection fleets — are the ones actually rewriting logistics, one unremarkable trip at a time.
+
+The full edition is on vertebrate.ai.
+
+#Robotics #Humanoids #PhysicalAI #Driverless #Drones #AI</pre>
+  </div>
+  
   <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTEBRATE.AI</div>
+  <script>
+  document.addEventListener('click', function (e) {
+    var link = e.target.closest('.copy-link');
+    if (link) {
+      e.preventDefault();
+      navigator.clipboard.writeText(link.dataset.url).then(function () {
+        link.textContent = 'Copied ✓';
+        setTimeout(function () { link.textContent = 'Copy link'; }, 1800);
+      });
+    }
+    var btn = e.target.closest('.li-copy');
+    if (btn) {
+      var box = document.getElementById(btn.dataset.target);
+      if (box) navigator.clipboard.writeText(box.textContent).then(function () {
+        btn.textContent = 'Copied ✓';
+        setTimeout(function () { btn.textContent = 'Copy'; }, 1800);
+      });
+    }
+  });
+  </script>
 
 </div>
 </body>
