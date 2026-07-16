@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Special+Elite&family=Source+Serif+4:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;margin:0}
+  :root{--paper:#ecdcb6;--ink:#241d12;--muted:#6a5b3e;--rule:#b7a377;--stamp:#b1332a}
+  html,body{width:1200px;height:630px}
+  .card{width:1200px;height:630px;position:relative;overflow:hidden;
+    background:
+      radial-gradient(120% 90% at 15% -10%, rgba(255,248,228,.65), rgba(0,0,0,0) 55%),
+      radial-gradient(120% 120% at 110% 120%, rgba(110,80,30,.22), rgba(0,0,0,0) 55%),
+      var(--paper);
+    color:var(--ink);font-family:"Source Serif 4",Georgia,serif;
+    display:flex;flex-direction:column;justify-content:center;align-items:center;
+    padding:0 70px}
+  .card::before{content:"";position:absolute;inset:0;opacity:.05;mix-blend-mode:multiply;
+    background-image:radial-gradient(rgba(70,50,15,1) .8px, transparent .9px);background-size:5px 5px}
+  .topline{position:absolute;top:46px;left:70px;right:70px;display:flex;justify-content:space-between;
+    font-family:"Special Elite",monospace;font-size:19px;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--muted);border-bottom:2px solid var(--ink);padding-bottom:14px}
+  .rules{width:100%;border-top:4px double var(--ink);border-bottom:4px double var(--ink);
+    padding:14px 0;text-align:center}
+  .brand{font-family:"Archivo Black","Arial Black",sans-serif;font-size:104px;line-height:.9;
+    letter-spacing:-2px;white-space:nowrap}
+  .brand .ai{color:var(--stamp)}
+  .tagline{font-family:"Special Elite",monospace;font-size:26px;letter-spacing:.42em;
+    text-transform:uppercase;color:var(--muted);margin-top:26px}
+  .topics{font-family:"Special Elite",monospace;font-size:20px;letter-spacing:.18em;text-transform:uppercase;
+    color:var(--ink);margin-top:20px}
+  .stamp{position:absolute;bottom:44px;right:70px;width:132px;height:132px;border-radius:50%;
+    border:4px double var(--stamp);color:var(--stamp);transform:rotate(-11deg);display:flex;
+    flex-direction:column;justify-content:center;align-items:center;font-family:"Special Elite",monospace;
+    text-align:center;line-height:1.15;opacity:.9;box-shadow:inset 0 0 0 8px rgba(177,51,42,.06)}
+  .stamp .big{font-size:16px;letter-spacing:.12em}
+  .stamp .yr{font-size:30px;font-family:"Archivo Black",sans-serif;margin:3px 0}
+  .stamp .sm{font-size:11px;letter-spacing:.18em;margin-top:3px}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="topline"><span>The Autonomous Desk</span><span>Est. 2026 · vertebrate.ai</span></div>
+  <div class="rules">
+    <div class="brand">VERTEBRATE<span class="ai">.ai</span></div>
+  </div>
+  <div class="tagline">the first ai-powered media</div>
+  <div class="topics">Humanoid Robots · Physical AI · Driverless · Drones</div>
+  <div class="stamp"><div class="big">EST.</div><div class="yr">2026</div><div class="sm">AUTONOMOUS · DESK</div></div>
+</div>
+</body>
+</html>

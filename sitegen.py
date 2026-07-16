@@ -167,6 +167,9 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     # Static assets
     shutil.copyfile(os.path.join(templates_dir, "style.css"),
                     os.path.join(out_dir, "style.css"))
+    og_src = os.path.join(templates_dir, "og.png")
+    if os.path.exists(og_src):                       # social share card
+        shutil.copyfile(og_src, os.path.join(out_dir, "og.png"))
     with open(os.path.join(out_dir, "CNAME"), "w", encoding="utf-8") as f:
         f.write(DOMAIN + "\n")
 
