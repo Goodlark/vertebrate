@@ -69,3 +69,23 @@ def load_watchlist(path: str = "watchlist.yaml") -> list:
     if not topics:
         raise ConfigError(f"{path} has no topics — add at least one.")
     return topics
+
+
+def load_companies(path: str = "company_watchlist.yaml") -> list:
+    """Load the company-newsroom watchlist. Returns [] if the file is absent, so the
+    daily run works with or without it. Each entry: {name, url, rss?, topic?}."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+    except FileNotFoundError:
+        return []
+    except yaml.YAMLError as e:
+        raise ConfigError(f"{path} is not valid YAML: {e}")
+
+    companies = []
+    for i, raw in enumerate(((data or {}).get("companies")) or []):
+        if not isinstance(raw, dict) or "name" not in raw or "url" not in raw:
+            raise ConfigError(f"{path} company #{i + 1} must have 'name' and 'url'.")
+        companies.append({"name": str(raw["name"]), "url": str(raw["url"]),
+                          "rss": raw.get("rss"), "topic": raw.get("topic", "Company News")})
+    return companies

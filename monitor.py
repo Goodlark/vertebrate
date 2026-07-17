@@ -9,6 +9,7 @@ from datetime import datetime, timedelta
 import anthropic
 
 import classify
+import companies
 import config
 import dedup
 import feeds
@@ -26,7 +27,7 @@ def _paths(data_dir: str):
 
 
 def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
-              data_dir: str = "data") -> dict:
+              data_dir: str = "data", company_list: list = None) -> dict:
     mentions_path, weeks_path = _paths(data_dir)
     mentions = store.load_mentions(mentions_path)
     weeks = store.load_weeks(weeks_path)
@@ -49,6 +50,32 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
                 companies=store.normalize_tags(assessment.companies),
                 people=store.normalize_tags(assessment.people),
                 themes=store.normalize_tags(assessment.themes),
+                first_seen=now.isoformat(timespec="seconds"), week=store.iso_week(now)))
+            added += 1
+
+    # Company newsrooms (primary sources): read each company's blog/press page, keep only
+    # posts that are actual news, and feed them through the same classify/dedup/site path.
+    for co in (config.load_companies() if company_list is None else company_list):
+        try:
+            posts = companies.list_posts(co, client)
+        except Exception as e:  # noqa: BLE001 — one bad site must not sink the run
+            log.warning("company %s failed: %s", co["name"], e)
+            continue
+        for cand in store.filter_new(posts, known):
+            known.add(cand.url)
+            text = sources.fetch_text(cand.url)
+            if not text:
+                continue
+            art = feeds.Article(cand.title, cand.url, cand.source, cand.published, text[:2000])
+            a = classify.assess(client, art, co["topic"])
+            if a is None or not a.relevant or not a.is_news:
+                continue
+            relevant += 1
+            mentions.append(store.Mention(
+                url=art.url, title=art.title, source=art.source, published=art.published,
+                topic=co["topic"], category=a.category, one_line=a.one_line,
+                companies=store.normalize_tags(a.companies or [co["name"]]),
+                people=store.normalize_tags(a.people), themes=store.normalize_tags(a.themes),
                 first_seen=now.isoformat(timespec="seconds"), week=store.iso_week(now)))
             added += 1
 

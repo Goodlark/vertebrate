@@ -19,6 +19,13 @@ Get a key at https://platform.claude.com → API keys. `.env` is gitignored.
 Edit `watchlist.yaml`. Each topic is a Google News search; `keywords` is passed
 verbatim, so quotes and `OR` work exactly like the Google News search box.
 
+**Company newsrooms** (a second source) live in `company_watchlist.yaml` — each entry
+is a `{name, url, rss?, topic}`. The daily run reads each company's blog/press page
+(RSS where available, otherwise the model reads the page), keeps only posts that are
+*actual news* (an `is_news` gate drops essays/culture posts), and feeds them through
+the same classify/dedup/site path as Google News. JS-only newsrooms (e.g. 1X) may
+return nothing without a headless browser.
+
 ## Run
 
 ```bash

@@ -24,6 +24,11 @@ CLASSIFY_SYSTEM = (
     "turns on something a specific person said or did (a founder, executive, official, or "
     "spokesperson), name that person too. These are facts — never drop the company or a "
     "named person for the sake of style.\n"
+    "Set 'is_news' true ONLY if the item reports a concrete development — a product/robot "
+    "launch, a funding round, a hire or departure, a deployment or order, real results/data, "
+    "or a partnership. Set it false for opinion, analysis, company culture, how-to, hiring "
+    "drives, or pure marketing. (This matters most for company blog posts, which mix "
+    "announcements with essays.)\n"
     "Also extract: 'companies' (real, specific organizations actually named — NOT the news "
     "outlet/publication that ran the story, NOT vague descriptors like 'a startup'), 'people' "
     "(ONLY proper names of specific individuals, e.g. 'Elon Musk' — NEVER job titles or roles "
@@ -54,6 +59,7 @@ ENRICH_SYSTEM = (
 
 class Assessment(BaseModel):
     relevant: bool
+    is_news: bool = True     # false = opinion/culture/how-to; enforced for company blog posts
     category: Literal["launch", "funding", "research", "opinion", "other"]
     one_line: str
     companies: List[str]

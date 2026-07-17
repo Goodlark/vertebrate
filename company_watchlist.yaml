@@ -1,0 +1,44 @@
+# Company newsrooms tracked as primary sources.
+# Each entry: name, url (the news/blog index), optional rss (used if present),
+# and topic (the section it files under). Edit freely — add/remove companies.
+# URLs were auto-discovered; a couple are best-guesses (marked) — fix if a run finds nothing.
+companies:
+  # --- Humanoids ---
+  - {name: 1X,                url: "https://1x.tech/press",                       topic: "Physical AI & Humanoids"}
+  - {name: Figure,            url: "https://figure.ai/news",                      topic: "Physical AI & Humanoids"}
+  - {name: Humanoid,          url: "https://thehumanoid.ai/newsroom/",            topic: "Physical AI & Humanoids"}
+  - {name: Agility Robotics,  url: "https://agilityrobotics.com/resources?tab=blogs", topic: "Physical AI & Humanoids"}
+  - {name: Apptronik,         url: "https://apptronik.com/company/in-the-news",   topic: "Physical AI & Humanoids"}
+  - {name: Unitree,           url: "https://unitree.com/news",                    topic: "Physical AI & Humanoids"}
+  - {name: Neura Robotics,    url: "https://neura-robotics.com",  rss: "https://neura-robotics.com/feed/", topic: "Physical AI & Humanoids"}
+  - {name: Boston Dynamics,   url: "https://bostondynamics.com/news/",            topic: "Physical AI & Humanoids"}
+  - {name: Sanctuary AI,      url: "https://www.sanctuary.ai/news",               topic: "Physical AI & Humanoids"}   # best-guess URL
+
+  # --- Robotic hands / manipulation ---
+  - {name: mimic robotics,       url: "https://mimicrobotics.com/blog",           topic: "Robotic Hands & Manipulation"}
+  - {name: Sunday Robotics,      url: "https://www.sundayrobotics.com",           topic: "Robotic Hands & Manipulation"}   # best-guess URL
+  - {name: Physical Intelligence, url: "https://www.pi.website/blog",             topic: "Robotic Hands & Manipulation"}
+  - {name: Dexterity,            url: "https://dexterity.ai/blog",                topic: "Robotic Hands & Manipulation"}
+
+  # --- Drones ---
+  - {name: Wing,        url: "https://wing.com/news",                             topic: "Drones"}
+  - {name: Zipline,     url: "https://www.zipline.com/blog",                      topic: "Drones"}
+  - {name: Skydio,      url: "https://skydio.com/blog",                           topic: "Drones"}
+  - {name: Anduril,     url: "https://anduril.com/newsroom", rss: "https://www.anduril.com/feed.xml", topic: "Drones"}
+  - {name: Percepto,    url: "https://percepto.co",  rss: "https://percepto.co/feed/",   topic: "Drones"}
+  - {name: Draganfly,   url: "https://draganfly.com", rss: "https://draganfly.com/feed/", topic: "Drones"}
+
+  # --- Autonomous driving ---
+  - {name: Waymo,   url: "https://waymo.com/blog/",         topic: "Driverless"}
+  - {name: Zoox,    url: "https://zoox.com/journal",        topic: "Driverless"}   # best-guess URL
+  - {name: Aurora,  url: "https://aurora.tech/newsroom",    topic: "Driverless"}
+  - {name: Wayve,   url: "https://wayve.ai/press/",         topic: "Driverless"}
+  - {name: Nuro,    url: "https://nuro.ai/press",           topic: "Driverless"}
+  - {name: Pony.ai, url: "https://pony.ai/press?lang=en",   topic: "Driverless"}
+
+  # --- Flying cars / eVTOL ---
+  - {name: Archer,             url: "https://archer.com/news",              topic: "Flying Cars & eVTOL"}
+  - {name: Joby Aviation,      url: "https://jobyaviation.com/news",        topic: "Flying Cars & eVTOL"}
+  - {name: Wisk Aero,          url: "https://wisk.aero/newsroom",           topic: "Flying Cars & eVTOL"}
+  - {name: Vertical Aerospace, url: "https://vertical-aerospace.com/news/", topic: "Flying Cars & eVTOL"}
+  - {name: EHang,              url: "https://www.ehang.com/news",           topic: "Flying Cars & eVTOL"}   # best-guess URL
