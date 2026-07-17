@@ -1,0 +1,41 @@
+name: Daily press monitor
+
+on:
+  schedule:
+    - cron: "0 15 * * *"     # 15:00 UTC = 08:00 PT — every morning
+  workflow_dispatch: {}       # also runnable by hand from the Actions tab
+
+permissions:
+  contents: write             # allow the job to push the rebuilt site to main
+
+concurrency:
+  group: pressmonitor-publish # never let daily + weekly push at the same time
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Fetch, classify, read sources, rebuild
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python monitor.py
+      - name: Publish if anything changed
+        run: |
+          git config user.name "vertebrate-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No new stories today — nothing to publish."
+          else
+            git commit -m "daily: $(date -u +%F)"
+            git push origin HEAD:main
+          fi

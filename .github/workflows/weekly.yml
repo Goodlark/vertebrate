@@ -1,0 +1,41 @@
+name: Weekly edition
+
+on:
+  schedule:
+    - cron: "0 23 * * 0"     # Sunday 23:00 UTC (still Sunday afternoon PT) — end of the ISO week
+  workflow_dispatch: {}       # also runnable by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pressmonitor-publish # shares the daily lock so the two never race
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Write the weekly editorial + rebuild
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python monitor.py --weekly
+      - name: Publish if anything changed
+        run: |
+          git config user.name "vertebrate-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing new to publish."
+          else
+            git commit -m "weekly: $(date -u +%F)"
+            git push origin HEAD:main
+          fi
