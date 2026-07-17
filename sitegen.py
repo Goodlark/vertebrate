@@ -108,13 +108,15 @@ def build_feed(weeks: dict, mentions: list, week_ids: list) -> str:
             parts.append("<p><em>%s</em></p>" % html.escape(meta["lede"]))
         for m in wk:
             who = ", ".join(list(m.companies) + list(m.people))
-            parts.append("<h3>%s</h3>" % html.escape(m.title))
+            parts.append('<h3><a href="%s">%s</a></h3>'
+                         % (html.escape(m.url), html.escape(m.title)))
             if who:
-                parts.append("<p><strong>%s</strong> · %s</p>"
-                             % (html.escape(who), html.escape(m.source)))
+                parts.append("<p><strong>%s</strong></p>" % html.escape(who))
             parts.append("<p>%s</p>" % html.escape(m.one_line))
             if m.why:
                 parts.append("<p><em>Why it matters.</em> %s</p>" % html.escape(m.why))
+            parts.append('<p><a href="%s">Read at %s &rarr;</a></p>'
+                         % (html.escape(m.url), html.escape(m.source)))
         body = "\n".join(parts).replace("]]>", "]]&gt;")   # keep CDATA well-formed
         desc = meta.get("summary") or meta.get("lede") or title
 
@@ -168,6 +170,9 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     if os.path.isdir(out_dir):
         shutil.rmtree(out_dir)
     os.makedirs(out_dir, exist_ok=True)
+
+    # Same-event duplicates are marked (not deleted) upstream; hide them from every view.
+    mentions = [m for m in mentions if not getattr(m, "duplicate", False)]
 
     # Importance-ranked, not yet deduped — dedup happens per rendered view so
     # the same ongoing story can still appear in each week it was news.

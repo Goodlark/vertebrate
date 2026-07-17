@@ -38,6 +38,7 @@
       </div>
       <p class="fact">{{ m.one_line }}</p>
       {% if m.why %}<p class="why"><span class="lead-in">Why it matters. </span>{{ m.why }}</p>{% endif %}
+      <p class="source-link"><a href="{{ m.url }}">Read at {{ m.source }} →</a></p>
     </div>
     {% endfor %}
   {% endfor %}

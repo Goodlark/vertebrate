@@ -25,6 +25,7 @@ class Mention:
     first_seen: str = ""
     week: str = ""
     why: Optional[str] = None
+    duplicate: bool = False   # set by the same-event dedup pass; hidden from every view
 
     def to_dict(self) -> dict:
         return asdict(self)

@@ -32,6 +32,7 @@ def test_build_site_writes_expected_files(tmp_path):
     assert "sharing/share-offsite" in weekly     # LinkedIn share button
     assert "Post this to LinkedIn" in weekly     # caption copy box
     assert "#Robotics" in weekly                 # the caption itself
+    assert "Read at The Verge" in weekly         # source link on the entry
 
     assert (out / "weekly" / "index.html").exists()
     assert (out / "tag" / "figure.html").exists()  # slug of "Figure"
@@ -40,6 +41,20 @@ def test_build_site_writes_expected_files(tmp_path):
     assert "<rss" in feed and "content:encoded" in feed
     assert "2026-W29" in feed
     assert "The week the humanoid clocked in." in feed
+    assert "Read at The Verge" in feed            # source link inside the feed item
+
+
+def test_build_site_hides_duplicates(tmp_path):
+    out = tmp_path / "docs"
+    keep = _m("http://keep")   # title "Figure hits the line", week 2026-W29
+    dup = store.Mention(url="http://dup", title="Waymo same-event dup", source="ABC",
+                        published="", topic="Driverless", category="other", one_line="d",
+                        companies=[], people=[], themes=[], first_seen="2026-07-15T00:00:00",
+                        week="2026-W29", duplicate=True)
+    sitegen.build_site([keep, dup], {}, out_dir=str(out), templates_dir="templates")
+    index = (out / "index.html").read_text(encoding="utf-8")
+    assert "Figure hits the line" in index
+    assert "Waymo same-event dup" not in index   # duplicate is hidden from every view
 
 
 def test_build_site_caps_lead_and_lists_the_rest(tmp_path):

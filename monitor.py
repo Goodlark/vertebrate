@@ -10,6 +10,7 @@ import anthropic
 
 import classify
 import config
+import dedup
 import feeds
 import sitegen
 import store
@@ -50,9 +51,11 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
                 first_seen=now.isoformat(timespec="seconds"), week=store.iso_week(now)))
             added += 1
 
-    # Collapse same-story duplicates within this week (other weeks left intact).
+    # Collapse same-story duplicates within this week (other weeks left intact):
+    # first the cheap title-overlap pass, then the semantic same-event pass.
     cur = store.iso_week(now)
     this_week = store.dedupe_stories(sitegen.rank_mentions([m for m in mentions if m.week == cur]))
+    dedup.mark_duplicates(client, this_week)
     mentions = [m for m in mentions if m.week != cur] + this_week
     store.save_mentions(mentions, mentions_path)
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
@@ -68,9 +71,10 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
     mentions = store.load_mentions(mentions_path)
     weeks = store.load_weeks(weeks_path)
 
-    # Editorialize only the week's top stories (dedup + importance-ranked),
-    # so the Sonnet output stays within budget and the edition stays readable.
-    wk = store.dedupe_stories(sitegen.rank_mentions(store.mentions_for_week(mentions, week)))
+    # Editorialize only the week's top stories (same-event duplicates hidden,
+    # then dedup + importance-ranked), so Sonnet stays in budget and it reads clean.
+    live = [m for m in store.mentions_for_week(mentions, week) if not m.duplicate]
+    wk = store.dedupe_stories(sitegen.rank_mentions(live))
     wk = wk[:config.WEEKLY_STORY_LIMIT]
     if not wk:
         log.info("No mentions for %s — nothing to write.", week)
@@ -88,6 +92,39 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
     log.info("Weekly run — %s / %d mentions", week, len(wk))
     return {"week": week, "mentions": len(wk)}
+
+
+def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "data",
+              enrich: bool = True) -> dict:
+    """Re-clean stored data in place: (1) mark same-event duplicates per week,
+    (2) tighten each visible summary to lead with the fact and name the company /
+    speaker. No re-fetch, so no new stories are pulled. Then rebuild the site."""
+    mentions_path, weeks_path = _paths(data_dir)
+    mentions = store.load_mentions(mentions_path)
+    weeks = store.load_weeks(weeks_path)
+
+    dropped = 0
+    for wk in sorted({m.week for m in mentions if m.week}):
+        dropped += dedup.mark_duplicates(client, [m for m in mentions if m.week == wk])
+
+    enriched = 0
+    if enrich:
+        live = [m for m in mentions if not m.duplicate]
+        for i in range(0, len(live), 15):
+            batch = live[i:i + 15]
+            for idx, it in classify.enrich_batch(client, batch).items():
+                if 0 <= idx < len(batch):
+                    m = batch[idx]
+                    if it.one_line.strip():
+                        m.one_line = it.one_line.strip()
+                    m.companies = store.normalize_tags(it.companies)   # drop outlets / vague tags
+                    m.people = store.normalize_tags(it.people)         # proper names only
+                    enriched += 1
+
+    store.save_mentions(mentions, mentions_path)
+    sitegen.build_site(mentions, weeks, out_dir=out_dir)
+    log.info("Clean — marked %d duplicate(s), enriched %d summar(y/ies)", dropped, enriched)
+    return {"dropped": dropped, "enriched": enriched}
 
 
 def run_captions(now: datetime, client, out_dir: str = "docs",
@@ -146,8 +183,9 @@ def run_backfill(now: datetime, week: str, topics: list, client, out_dir: str = 
                 first_seen=seen_stamp, week=week))
             added += 1
 
-    # Collapse duplicates within the backfilled week only.
+    # Collapse duplicates within the backfilled week only (title pass + same-event pass).
     this_week = store.dedupe_stories(sitegen.rank_mentions([m for m in mentions if m.week == week]))
+    dedup.mark_duplicates(client, this_week)
     mentions = [m for m in mentions if m.week != week] + this_week
     store.save_mentions(mentions, mentions_path)
     log.info("Backfill %s — added %d stories", week, added)
@@ -163,6 +201,11 @@ def main(argv=None) -> int:
                         help="Fetch a past ISO week's news by publication date and write its weekly.")
     parser.add_argument("--captions", action="store_true",
                         help="Backfill LinkedIn captions for editions that lack one, then rebuild.")
+    parser.add_argument("--clean", action="store_true",
+                        help="Re-clean stored data in place: mark same-event duplicates and "
+                             "tighten summaries (company/speaker facts), then rebuild.")
+    parser.add_argument("--no-enrich", action="store_true",
+                        help="With --clean, only de-duplicate; skip the summary-tightening pass.")
     args = parser.parse_args(argv)
 
     try:
@@ -177,6 +220,8 @@ def main(argv=None) -> int:
     now = datetime.now()
     if args.backfill:
         run_backfill(now, args.backfill, topics, client)
+    elif args.clean:
+        run_clean(now, client, enrich=not args.no_enrich)
     elif args.captions:
         run_captions(now, client)
     elif args.weekly:

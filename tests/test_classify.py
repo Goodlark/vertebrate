@@ -34,3 +34,20 @@ def test_assess_returns_none_on_error():
 def test_build_user_prompt_includes_topic_and_title():
     p = classify.build_user_prompt(ART, "Physical AI")
     assert "Physical AI" in p and "Figure hits BMW line" in p
+
+
+def test_enrich_batch_maps_by_id():
+    item = SimpleNamespace(title="Waymo comes to Tampa", one_line="Waymo arrives.", companies=["Waymo"])
+    client = _mock_client(classify.EnrichBatch(items=[
+        classify.EnrichItem(id=0, one_line="Waymo launched robotaxis in Tampa.",
+                            companies=["Waymo"], people=["Jane Doe"])]))
+    out = classify.enrich_batch(client, [item])
+    assert out[0].people == ["Jane Doe"]
+    assert out[0].companies == ["Waymo"]
+    assert "Tampa" in out[0].one_line
+
+
+def test_enrich_batch_returns_empty_on_error():
+    client = MagicMock()
+    client.messages.parse.side_effect = RuntimeError("boom")
+    assert classify.enrich_batch(client, [SimpleNamespace(title="t", one_line="o", companies=[])]) == {}

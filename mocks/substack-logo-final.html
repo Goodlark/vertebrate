@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+  :root{--paper:#ecdcb6;--ink:#241d12;--stamp:#b1332a}
+  *{box-sizing:border-box;margin:0}
+  html,body{width:1024px;height:1024px}
+  /* Design D — dark newsprint, authored at 1024x1024 (2x of the sheet tile). */
+  .tile{width:1024px;height:1024px;position:relative;overflow:hidden;background:var(--ink)}
+  .grain{position:absolute;inset:0;opacity:.09;mix-blend-mode:screen;pointer-events:none;
+    background-image:radial-gradient(rgba(236,220,182,1) 1.6px, transparent 1.8px);background-size:12px 12px}
+  .frame{position:absolute;inset:68px;border:6px solid #d8c69a}
+  .v{position:absolute;inset:0;display:flex;align-items:baseline;justify-content:center;padding-top:140px;
+    font-family:"Archivo Black",sans-serif;font-size:660px;line-height:1;color:var(--paper);letter-spacing:-12px}
+  .v .ai{font-size:240px;color:var(--stamp)}
+  .desk{position:absolute;left:0;right:0;bottom:112px;text-align:center;
+    font-family:"Special Elite",monospace;font-size:36px;letter-spacing:.34em;color:#c9b98d;text-transform:uppercase}
+</style>
+</head>
+<body>
+  <div class="tile">
+    <div class="frame"></div>
+    <div class="v">V<span class="ai">.ai</span></div>
+    <div class="desk">Autonomous Desk</div>
+    <div class="grain"></div>
+  </div>
+</body>
+</html>
