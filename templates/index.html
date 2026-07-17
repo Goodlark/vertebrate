@@ -40,10 +40,16 @@
     <aside>
       <div class="index-box">
         <div class="hd">The Index</div>
+        <div class="sub">Companies</div>
         <div class="cloud">
-          {% for t in tags %}<a class="{{ t.kind_class }} {{ t.size }}" href="{{ root }}tag/{{ t.slug }}.html">{{ t.label }}</a> {% endfor %}
+          {% for t in companies %}<a class="co {{ t.size }}" href="{{ root }}tag/{{ t.slug }}.html">{{ t.label }}</a> {% endfor %}
         </div>
-        <div class="legend"><b>Bold</b> companies · <i>Italic</i> people · <span style="font-family:'Special Elite',monospace">mono</span> themes</div>
+        {% if topics %}
+        <div class="sub">Topics</div>
+        <div class="cloud">
+          {% for t in topics %}<a class="th {{ t.size }}" href="{{ root }}tag/{{ t.slug }}.html">{{ t.label }}</a> {% endfor %}
+        </div>
+        {% endif %}
       </div>
     </aside>
   </div>

@@ -85,6 +85,9 @@ aside{align-self:start;position:sticky;top:20px}
 .index-box .hd{text-align:center;font-family:"Special Elite",monospace;font-size:12px;
   letter-spacing:.2em;text-transform:uppercase;border-bottom:1px solid var(--rule-strong);
   padding-bottom:6px;margin-bottom:10px}
+.index-box .sub{font-family:"Special Elite",monospace;font-size:11px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--stamp);margin:15px 0 6px}
+.index-box .hd + .sub{margin-top:2px}
 .cloud{line-height:2.0}
 .cloud a{color:var(--ink);text-decoration:none;margin:0 7px 0 0;white-space:nowrap;display:inline-block}
 .cloud a:hover{text-decoration:underline;color:var(--stamp)}

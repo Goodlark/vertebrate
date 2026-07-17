@@ -188,13 +188,19 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     feed = home[:MAIN_FEED_LIMIT]
     also = home[MAIN_FEED_LIMIT:]
 
-    tags = build_tag_index(home)
-    max_count = max((t.count for t in tags), default=1)
-    view_tags = [
-        {"label": t.label, "slug": t.slug, "kind_class": _KIND_CLASS[t.kind],
-         "size": size_class(t.count, max_count)}
-        for t in tags
-    ]
+    # The Index (sidebar): companies + main topics only. People are dropped — they
+    # cluttered it — and one-off themes are trimmed so only recurring topics remain.
+    all_tags = build_tag_index(home)
+    company_tags = [t for t in all_tags if t.kind == "company"][:40]
+    topic_tags = [t for t in all_tags if t.kind == "theme"]
+    topic_tags = ([t for t in topic_tags if t.count >= 2] or topic_tags)[:24]
+    tags = company_tags + topic_tags   # what the Index links to (also tag pages + sitemap)
+
+    def _view(group: list) -> list:
+        mx = max((t.count for t in group), default=1)
+        return [{"label": t.label, "slug": t.slug, "size": size_class(t.count, mx)} for t in group]
+    view_companies = _view(company_tags)
+    view_topics = _view(topic_tags)
 
     week_ids = sorted(weeks.keys(), reverse=True)
     latest_week = week_ids[0] if week_ids else None
@@ -204,8 +210,8 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     # Homepage
     with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(env.get_template("index.html").render(
-            mentions=feed, also=also, tags=view_tags, latest_week=latest_week,
-            latest_dek=latest_dek, **_common("", "")))
+            mentions=feed, also=also, companies=view_companies, topics=view_topics,
+            latest_week=latest_week, latest_dek=latest_dek, **_common("", "")))
 
     # Weekly editions + archive
     weekly_dir = os.path.join(out_dir, "weekly")
