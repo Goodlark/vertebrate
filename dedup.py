@@ -18,10 +18,16 @@ DEDUP_SYSTEM = (
     "(id, headline, fact, companies). Group together every article that reports the SAME "
     "underlying news event — even if the outlet, the angle, or which city/detail it "
     "emphasizes differs. Two articles are the same event if a reader would say 'that's the "
-    "same story.' IMPORTANT: different events involving the same company are NOT the same "
-    "event — e.g. Waymo expanding to new cities is one event; a Waymo car being vandalized "
-    "is a different event; Waymo reporting teens to police is another. Return the groups so "
-    "that every id appears in exactly one group; a story with no duplicate is a group of one."
+    "same story.'\n"
+    "Also merge multiple stories in which the SAME company makes the SAME KIND of "
+    "announcement in this period — e.g. several stories about one company rolling out its "
+    "robotaxi service to various cities (Denver, San Diego, Tampa, '4 new markets') are ONE "
+    "expansion story; several stories about a single funding round are one story. Keep the "
+    "broadest / most complete one as the representative.\n"
+    "But do NOT merge DIFFERENT KINDS of events about the same company: an expansion, a car "
+    "being vandalized, a lawsuit, a safety complaint, and a pricing quirk are five different "
+    "stories. Return the groups so that every id appears in exactly one group; a story with "
+    "no duplicate is a group of one."
 )
 
 

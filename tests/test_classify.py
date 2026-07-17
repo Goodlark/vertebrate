@@ -40,10 +40,10 @@ def test_enrich_batch_maps_by_id():
     item = SimpleNamespace(title="Waymo comes to Tampa", one_line="Waymo arrives.", companies=["Waymo"])
     client = _mock_client(classify.EnrichBatch(items=[
         classify.EnrichItem(id=0, one_line="Waymo launched robotaxis in Tampa.",
-                            companies=["Waymo"], people=["Jane Doe"])]))
+                            drop_companies=["TechCrunch"], people=["Jane Doe"])]))
     out = classify.enrich_batch(client, [item])
     assert out[0].people == ["Jane Doe"]
-    assert out[0].companies == ["Waymo"]
+    assert out[0].drop_companies == ["TechCrunch"]
     assert "Tampa" in out[0].one_line
 
 

@@ -13,6 +13,7 @@ import config
 import dedup
 import feeds
 import sitegen
+import sources
 import store
 import weekly
 
@@ -56,6 +57,9 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
     cur = store.iso_week(now)
     this_week = store.dedupe_stories(sitegen.rank_mentions([m for m in mentions if m.week == cur]))
     dedup.mark_duplicates(client, this_week)
+    # Fill in the company/people/fact from the real article for anything the
+    # headline+snippet didn't name (the reader needs the players up front).
+    _fill_from_sources(client, [m for m in this_week if not m.duplicate], only_missing=True)
     mentions = [m for m in mentions if m.week != cur] + this_week
     store.save_mentions(mentions, mentions_path)
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
@@ -94,6 +98,48 @@ def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
     return {"week": week, "mentions": len(wk)}
 
 
+def _fill_from_sources(client, mentions: list, only_missing: bool = True) -> tuple:
+    """Read each story's real article (resolving Google News links) and fill in the
+    company / people / fact from the actual text. Best-effort: a fetch that fails
+    (paywall, block, dead link) simply leaves that story as-is."""
+    filled = failed = 0
+    for m in mentions:
+        if only_missing and m.companies:
+            continue
+        text = sources.article_text(m.url)
+        if not text:
+            failed += 1
+            continue
+        ext = classify.extract_from_source(client, m.title, text)
+        if ext is None:
+            failed += 1
+            continue
+        if ext.companies:
+            m.companies = store.normalize_tags(ext.companies)
+        if ext.people:
+            m.people = store.normalize_tags(ext.people)
+        if ext.one_line.strip():
+            m.one_line = ext.one_line.strip()
+        filled += 1
+    return filled, failed
+
+
+def run_sources(now: datetime, client, out_dir: str = "docs", data_dir: str = "data",
+                only_missing: bool = True) -> dict:
+    """Fill company/people/fact from the real source articles, then rebuild. By
+    default only touches stories that currently have no company tag."""
+    mentions_path, weeks_path = _paths(data_dir)
+    mentions = store.load_mentions(mentions_path)
+    weeks = store.load_weeks(weeks_path)
+    filled, failed = _fill_from_sources(
+        client, [m for m in mentions if not m.duplicate], only_missing=only_missing)
+    store.save_mentions(mentions, mentions_path)
+    sitegen.build_site(mentions, weeks, out_dir=out_dir)
+    log.info("Sources — filled %d story(ies) from the article, %d could not be fetched",
+             filled, failed)
+    return {"filled": filled, "failed": failed}
+
+
 def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "data",
               enrich: bool = True) -> dict:
     """Re-clean stored data in place: (1) mark same-event duplicates per week,
@@ -117,7 +163,11 @@ def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "dat
                     m = batch[idx]
                     if it.one_line.strip():
                         m.one_line = it.one_line.strip()
-                    m.companies = store.normalize_tags(it.companies)   # drop outlets / vague tags
+                    # Keep every real company; remove only flagged junk + the outlet itself.
+                    drop = {d.strip().lower() for d in it.drop_companies}
+                    drop.add((m.source or "").strip().lower())
+                    m.companies = store.normalize_tags(
+                        [c for c in m.companies if c.strip().lower() not in drop])
                     m.people = store.normalize_tags(it.people)         # proper names only
                     enriched += 1
 
@@ -206,6 +256,11 @@ def main(argv=None) -> int:
                              "tighten summaries (company/speaker facts), then rebuild.")
     parser.add_argument("--no-enrich", action="store_true",
                         help="With --clean, only de-duplicate; skip the summary-tightening pass.")
+    parser.add_argument("--sources", action="store_true",
+                        help="Fill company/people/fact from the real source articles "
+                             "(resolves Google News links), then rebuild.")
+    parser.add_argument("--all", action="store_true",
+                        help="With --sources, re-read every story, not just those missing a company.")
     args = parser.parse_args(argv)
 
     try:
@@ -220,6 +275,8 @@ def main(argv=None) -> int:
     now = datetime.now()
     if args.backfill:
         run_backfill(now, args.backfill, topics, client)
+    elif args.sources:
+        run_sources(now, client, only_missing=not args.all)
     elif args.clean:
         run_clean(now, client, enrich=not args.no_enrich)
     elif args.captions:

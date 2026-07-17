@@ -8,7 +8,8 @@
   <div class="feed">
     {% for m in mentions %}
     <article class="item"><div class="meta"><span class="cat">{{ m.category|capitalize }}</span></div>
-      <div><a class="lead" href="{{ m.url }}">{{ m.one_line }}</a>
+      <div>{% if m.companies or m.people %}<div class="orgs">{% if m.companies %}<span class="orgs-co">{{ m.companies[:4]|join(" · ") }}</span>{% endif %}{% if m.people %}<span class="orgs-pe"> — {{ m.people[:3]|join(", ") }}</span>{% endif %}</div>{% endif %}
+      <a class="lead" href="{{ m.url }}">{{ m.one_line }}</a>
       <div class="byline">{{ m.title }} <span class="src-name">· {{ m.source }}</span></div></div></article>
     {% endfor %}
   </div>

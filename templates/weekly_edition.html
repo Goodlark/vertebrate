@@ -30,12 +30,8 @@
     {% for m in items %}
     <div class="entry">
       <span class="cat{% if m.category == 'opinion' %} q{% endif %}">{{ m.category|capitalize }}</span>
+      {% if m.companies or m.people %}<div class="orgs">{% if m.companies %}<span class="orgs-co">{{ m.companies[:4]|join(" · ") }}</span>{% endif %}{% if m.people %}<span class="orgs-pe"> — {{ m.people[:3]|join(", ") }}</span>{% endif %}</div>{% endif %}
       <h3><a href="{{ m.url }}">{{ m.title }}</a></h3>
-      <div class="players">
-        {% if m.companies %}<span class="co-list">{{ m.companies|join(", ") }}</span>{% endif %}
-        {% if m.people %}<span class="pe-list">{{ m.people|join(", ") }}</span>{% endif %}
-        <span class="src-name">{{ m.source }}</span>
-      </div>
       <p class="fact">{{ m.one_line }}</p>
       {% if m.why %}<p class="why"><span class="lead-in">Why it matters. </span>{{ m.why }}</p>{% endif %}
       <p class="source-link"><a href="{{ m.url }}">Read at {{ m.source }} →</a></p>

@@ -22,6 +22,7 @@ def test_build_site_writes_expected_files(tmp_path):
     assert "VERTEBRATE" in index
     assert "Figure hits the line" in index      # feed item
     assert "Figure" in index                     # tag index
+    assert 'class="orgs"' in index               # company kicker on the feed item
 
     assert (out / "CNAME").read_text().strip() == "vertebrate.ai"
     assert (out / "style.css").exists()

@@ -42,10 +42,10 @@ ENRICH_SYSTEM = (
     "company and any person named in the headline or draft. One sentence, ~25-40 words, "
     "sophisticated but facts-first. If the draft already does this, return it unchanged. Do NOT "
     "invent facts, numbers, or names that are not in the headline or draft.\n"
-    "- 'companies': only real, specific organizations actually named (keep the good ones from "
-    "the given list). DROP news outlets/publications (e.g. TechCrunch, Yahoo, WSJ, Bloomberg, "
-    "Interesting Engineering) and vague descriptors (e.g. 'a startup', 'humanoid robotics "
-    "company'). [] if none.\n"
+    "- 'drop_companies': ONLY the entries in the given company list that are NOT real companies — "
+    "i.e. news outlets/publications (e.g. TechCrunch, Yahoo, WSJ, Bloomberg, Reuters, Axios, "
+    "Interesting Engineering, DroneDJ) or vague descriptors (e.g. 'a startup', 'humanoid robotics "
+    "company'). Keep every real company; when unsure, do NOT drop it. [] if the list is clean.\n"
     "- 'people': ONLY proper names of specific individuals (e.g. 'Elon Musk', 'Oren Etzioni'). "
     "NEVER job titles, roles, or descriptions such as 'CEO', 'a spokesperson', or 'a former "
     "Tesla engineer'. [] if no real name is given."
@@ -64,12 +64,50 @@ class Assessment(BaseModel):
 class EnrichItem(BaseModel):
     id: int
     one_line: str
-    companies: List[str]
+    drop_companies: List[str]
     people: List[str]
 
 
 class EnrichBatch(BaseModel):
     items: List[EnrichItem]
+
+
+SOURCE_SYSTEM = (
+    "You are the desk editor. You are given a news article's headline and body text. "
+    "Extract the facts:\n"
+    "- 'companies': the real, specific organizations that are the SUBJECT of the story (the "
+    "robot maker, the funded startup, the buyer, the deploying agency, etc.), using proper "
+    "names as written. Do NOT include the news outlet/publication that ran the story. [] if "
+    "truly none.\n"
+    "- 'people': proper names of specific individuals central to the story (founders, "
+    "executives, officials). NEVER job titles or roles like 'CEO'. [] if none.\n"
+    "- 'one_line': one sharp sentence, ~25-40 words, that LEADS WITH THE FACT and names the "
+    "primary company (and the key person, if any).\n\n"
+    "one_line voice: " + VOICE
+)
+
+
+class SourceExtract(BaseModel):
+    companies: List[str]
+    people: List[str]
+    one_line: str
+
+
+def extract_from_source(client, title: str, text: str,
+                        model: str = CLASSIFY_MODEL) -> Optional["SourceExtract"]:
+    """Extract grounded companies/people/fact from an article's real body text."""
+    try:
+        resp = client.messages.parse(
+            model=model,
+            max_tokens=400,
+            system=SOURCE_SYSTEM,
+            messages=[{"role": "user", "content": f"Headline: {title}\n\nArticle:\n{text}"}],
+            output_format=SourceExtract,
+        )
+        return resp.parsed_output
+    except Exception as e:  # noqa: BLE001
+        log.warning("source extract failed: %s", e)
+        return None
 
 
 def build_enrich_prompt(items: list) -> str:
