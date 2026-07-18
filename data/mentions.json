@@ -971,48 +971,1562 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMmJYbl9zVDZWOHpzNHJrNVBER01Xd1FzZUxtb1FIUmFfNkc2eDYzMDFuYU50ejNLU1pfbFd5dkgzcmVVZ3RVcHhIX1c3WE4yTTVlVmJMMjRkYVZJdXhjV0NRVmxvR2E1Z3Y3VERXS005RFVEWndsakNTdlZTQ2tXcTQxQXNnN1VXVEZwQW92c3FKdWh4a1pTMmdrUTdPZWZRTEM0MTVtU2JyMWZic2RUWldGSjdvU2pzc2JNUENEYm14R3pmUGdCT2JGRGw0bkp2NF9LY3JNc0hta1k0MXNjYTZrNG1HNzg?oc=5",
-    "title": "AGIBOT X2 Series Showcases Embodied AI at the World Cup, Marking a Historic Sports Companion Debut",
-    "source": "Robotics Tomorrow",
-    "published": "Fri, 17 Jul 2026 15:12:50 GMT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFM3ZTNtaU9OMFhaOHlzM1JicUJSVnZ1WFZyU2tYSjYyUDBXUzBlZlBvZkJfR0txbTN4NzFqSllSejJnMjl6V25HYVYyZXc3VkpDYWdqRnBDeGVodVVnYlc1VWlzVU1rQktXaDBCMVVMdU5TU2JaVFZmaWNvQTg3NUpFcE1yNEZKbFA1Qm9PS0ozM3hkc2ZmUmRDWHFwUQ?oc=5",
+    "title": "NY school to introduce first humanoid robot in US classroom — and vows ‘Sally’ will never replace teachers",
+    "source": "New York Post",
+    "published": "Sat, 18 Jul 2026 12:15:00 GMT",
     "topic": "Physical AI",
     "category": "launch",
-    "one_line": "AGIBOT deployed its X2 humanoid robots at the World Cup as embodied AI sports companions, marking the first time such machines worked alongside fans at a major sporting event.",
+    "one_line": "A upstate New York school district will deploy a $57,000 humanoid robot named Sally in high school coding and robotics classes this fall, insisting it will never replace teachers.",
     "companies": [
-      "AGIBOT"
+      "Salamanca City Central School District",
+      "Realbotix Corporation"
     ],
-    "people": [],
+    "people": [
+      "Mark Beehler",
+      "Steve Wozniak"
+    ],
     "themes": [
       "humanoid",
       "physical AI",
-      "embodied AI",
-      "robotics"
+      "education",
+      "classroom deployment"
     ],
-    "first_seen": "2026-07-17T17:58:08",
+    "first_seen": "2026-07-18T15:52:46",
     "week": "2026-W29",
     "why": null,
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1BJelVqelVGODRnM1RvT1ZuRzVNTW9IN1QzVzhYWUc0REE1ODJDdjF1anBIYUV1OFBtcnVVYWF5d1ZrRExUdnRWZlhTV05zZlU1UFRYblBpaERfSXVpaGRiTEhqVEt1QmgwX0JoZmJ0WTE3WV9QUWYzcWpGVmd1Tnl3U1gyZ1lvVzN3SENQVThSVnQ3eGFONTZweUnSAaIBQVVfeXFMTVZQWUM1amEzUmk3dTNKbl9TT09iUXVjREhUal9vMFhvLWJURWk0akdfVWY2QWxMdjJJcHJZaTMyMFYtODhDcWU0Ty04TmIxODVLd3E3ZkVUOGFJcGk0bE9WZ1loRnpQV29EajZoMFE0MEpGem9DSkVuLXhoRk5ndV9ITWxhT2xJOFg3NXpscGVHTHVOOVBKR0E4NU9LWWVsTzJR?oc=5",
-    "title": "New York school district to deploy humanoid robot teacher this fall",
-    "source": "NewsNation",
-    "published": "Thu, 16 Jul 2026 17:54:40 GMT",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTklPMWxEUFltZFdyY043U2ltRmxBQlI4S2VRdkhkX2M2Mm90d3dSYjdJZXFCVW1wYVhGLWtsekxBa25Pdm1Bb09SMXpOUC1YWU14T1BUa2Qxd2dkallSaDZJWjdsT3c5TFFVT2VSazg?oc=5",
+    "title": "A New York school district is testing robot teachers",
+    "source": "Mashable",
+    "published": "Wed, 15 Jul 2026 19:45:16 GMT",
     "topic": "Physical AI",
     "category": "launch",
-    "one_line": "A New York school district will deploy a humanoid robot teacher in classrooms this fall, marking one of the earliest large-scale adoptions of physical AI in American education.",
+    "one_line": "A New York school district has deployed robot teachers in classrooms as part of a pilot program.",
     "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "education",
+      "physical AI",
+      "automation"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcFJRTHNGbzMzOVVqTmYtSVUxZjBhaG1Ed0lIdnJJZlgxa0dkTDdRRjc3SFpSQkZZano2VW5YN1MtVlplNTE0Sjg4blhncjlJdzdPTER0eU1aT0toZXBhTXBWaThKcjBpYWxwY1p0NkJ5aXpLQVQ5Q3ZLMmpfbWV2eTBJM3ZhSHlGZ3haUHVCdWtuQWEyTE1YcTZscm1Rbk5yU2o4UTV4eGNFV19FUmFzdmdiTTI0WDZDbzhfemMwMUhkbXJvYkVvTUx2MXo?oc=5",
+    "title": "Xpeng Expands Beyond EVs With Munich Event, Promising Flying Cars and Humanoid Robots",
+    "source": "Forbes",
+    "published": "Sat, 18 Jul 2026 13:45:29 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng announced flying cars and humanoid robots at a Munich event, moving beyond electric vehicles into physical AI hardware.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "flying cars",
+      "humanoid robots",
+      "physical AI",
+      "hardware"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9halA4eExHWVpiYWlYa2dNRWlERXk2VTJuOUpzNWIxSTB4VEIzVkNPWjRaWjBOVVV5N1NUTHpmNnNEbXRwZFFpMDBDSE1wWExpS2FVY3RSTFJNVjdBYUE?oc=5",
+    "title": "AGIBOT Unveils Four New Products at WAIC 2026, Showcasing Embodied AI in Real-World Operations",
+    "source": "AgiBot",
+    "published": "Sat, 18 Jul 2026 01:42:36 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AgiBot unveiled four new robots at WAIC 2026, expanding its line of embodied AI systems designed for real-world tasks.",
+    "companies": [
+      "AgiBot"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "embodied AI",
+      "robotics",
+      "product launch"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmpMejBuQ3c5aGgtQTBxS3V5U0dubE05SGRKVlA0NWF4OHBZRW1aMll4Vy15R2c5eUh2dXhjN1Jfd2Q0YW91RlFoRzlpUEZfR3g4eEhSNEl0dGZEdHl4SThuRUM1WmxiQUUxSFIySkVKVEFNc3FYSHg4aExCRER6akxEZnkzZTFDMnB3aFNoT2RGR1k5ZTYzUU4zbTJ1VHlMdWl0V0VBQnl0SlNXOGx0Zmg4NjRudjZRVXZsRE5vUlhnVUY1dlZOczE5WTJWSGk5WXpMNjhQcFlKMzlH?oc=5",
+    "title": "AGIBOT X2 Series Showcases Embodied AI at the World Cup, Marking a Historic Sports Companion Debut",
+    "source": "EIN Presswire",
+    "published": "Sat, 18 Jul 2026 14:44:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agibot deployed its X2 humanoid robots at the World Cup as embodied AI systems designed to interact with crowds and assist with match operations.",
+    "companies": [
+      "Agibot"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "embodied AI",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1lHcF9nNGxNMEl3d0JWRzZjOU0wbXhsd1hST2U4UVByUHZ2bXBVc0NuZFQtazBaT2NlOW1UYzRxaVRBcnBpZzdqeEhLUWZxOUpHS19lRFNYdjBuOVFUR01qak9FZHZfakRQS3NyVnczeVhlZmdEaWVTd2UwLURPOTdJUWdhdDNqLTV3NlN0MVVzRDN5bTJLcm51aF85WmZsZ1pwaERUZlVxOVJ6VTBsbkREVlY3dnN5dlgwTGtn?oc=5",
+    "title": "Autonomous drone delivery companies Manna, Matternet expand US operations",
+    "source": "Unmanned airspace",
+    "published": "Wed, 15 Jul 2026 14:21:16 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Manna and Matternet are expanding their autonomous delivery drone operations across the US, betting that regulation and infrastructure are finally catching up to the technology.",
+    "companies": [
+      "Manna",
+      "Matternet"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous",
+      "expansion"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTElIbS1RdmVvV2NPVEIxc3hwTFg2WXc5czBGamZDRmZKRlBVbExSV1hPYlJMM3ZtbDVSekdpZHBiNXFyN2dxRWZfMXNrc1lrTDlTd1M5SGZUZG1BQXJKWjVmblZCZHN4ZzYtckdOYWhMR0V1VEZoSTZYVkFPaUl2aUJFRHBEb0xFNEpESUlrTXNmR1k3cEFmSmY3bFE0TmJEckxIQjVoaFZvQ1VmR2dMTzhpeV8ySWRycVd6VnBGbXpHY01fbHphQ0dZZ1M4M0FGVUtpOGNPR0RVQQ?oc=5",
+    "title": "EVERYWHERE Integrates with Skydio to Enable Autonomous Drone Response for Lone Workers",
+    "source": "PR Newswire",
+    "published": "Thu, 16 Jul 2026 11:09:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "EVERYWHERE has integrated Skydio's autonomous drones into its platform to dispatch aerial backup for workers in remote or isolated settings.",
+    "companies": [
+      "EVERYWHERE",
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "workplace safety",
+      "lone worker monitoring"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1cxOTlTN3JUUUhBdGQ3MTlDUWRjRldrc3g5SEtSQlY4QVlEb1h6WUZBcFBPdUZGMkhXUE52WmxPMnVZSU9vcTFQQ05SeEJQRkxOWWtPTDVQTFFWWUEyVXBraklLdHpPcVB0anhjSlp3N2dhaWhnMlhGZ3A2MVVWWE5ydElxQmFJMTUzZWJEcTh4VGVXUk1lNzhKczJKU0tuSVVfTk12ZmQ?oc=5",
+    "title": "Storm Fighter: UK christens drone wingman program, unveils new designs",
+    "source": "Breaking Defense",
+    "published": "Thu, 16 Jul 2026 16:04:20 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The UK Ministry of Defence unveiled new drone designs and formally launched its Storm Fighter wingman program to develop autonomous aircraft that fight alongside crewed jets.",
+    "companies": [
+      "UK Ministry of Defence"
+    ],
+    "people": [],
+    "themes": [
+      "drone wingman",
+      "autonomous aircraft",
+      "crewed-uncrewed teaming",
+      "military drone"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWU5YaExSdHVqNVh4clJoNHpfQ3BGbk1IVklvcF9jTERLQXVMSC0tTGZfWHlIb0ZYMmpGTXpmZjE2anJoTnY3Q3VZbHVNaWtDekNDNUxpUWJLTE5Val8xbmdORThtb2ZLQ3hGSzRJSVFwQnJ5N1FsVU1xN1JORmNkR0tOZElxVlA0SENmbUlZcw?oc=5",
+    "title": "Anduril YFQ-44 Fires Live Air-to-Air Missile in Landmark CCA Test",
+    "source": "Air & Space Forces Magazine",
+    "published": "Wed, 15 Jul 2026 18:30:20 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Anduril's YFQ-44 drone successfully fired a live air-to-air missile during a collaborative combat aircraft test, marking a milestone for autonomous military aviation.",
+    "companies": [
+      "Anduril"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "military",
+      "weapons",
+      "air-to-air"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeU9UcHFMdGt1MllROFJiOE9WSjRkT3VPUHNVdFhBbGYwcnV5b1Nia3ZJZjZ5aVZXS2QzVGZUdDhGcG5FYzZTc1NxOUppazdTZ0lZNkEyS3picEVJX0dtSHFLQXN1QllURWNsVkdXRVpOeGxnODBMM2pZbVVqTWxrT29vVUhTQXJxWWFWc2JJRkhoVnV4eTlsbjlyNjJxblE?oc=5",
+    "title": "XTEND Supports British Army During Major Autonomous Strike Exercise, Advancing UK Operational Drone Warfare Capabilities",
+    "source": "Yahoo Finance",
+    "published": "Thu, 16 Jul 2026 12:30:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "XTEND has deployed autonomous drone technology in a major British Army exercise, marking a step toward operational integration of unmanned systems in UK military operations.",
+    "companies": [
+      "XTEND"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous systems",
+      "military deployment",
+      "UK defense"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS25pS003OWxLQzdydXhZN1hkLWM3b2pncGxUYXBRSWY0NGltNWQ0UDRDQmJEWEtTaHF1cjZ0R2NDa3FhU0lsV2drNTF5LXdpUmJEcmhINEc4M3ZVQ1hpS0s3RnFQZk5BSEVybXpoR1BxbkwzeTBja2kyZDhZQjRyd3ZHTzVxV3pmWGRibTdacmxaQWdUWTQ2TjhpbUc0TS05MXRDeUp5WTZxTWdqcHc?oc=5",
+    "title": "Austin drone boat maker Saronic picks Texas for high tech $3.2B shipyard",
+    "source": "Austin American-Statesman",
+    "published": "Thu, 16 Jul 2026 17:55:45 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saronic, an Austin drone boat maker, is building a $3.2 billion shipyard in Texas to manufacture autonomous vessels at scale.",
+    "companies": [
+      "Saronic"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous vessels",
+      "drone boats",
+      "maritime robotics",
+      "manufacturing"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://figure.ai/news/helix-02",
+    "title": "Introducing Helix 02: Full-Body Autonomy",
+    "source": "Figure",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Figure unveiled Helix 02, a humanoid that executes a four-minute kitchen task—unloading and reloading a dishwasher—using a single neural network to control its entire body from sensor input with no human intervention.",
+    "companies": [
+      "Figure"
+    ],
     "people": [],
     "themes": [
       "humanoid",
       "physical AI",
-      "education",
-      "robot teacher"
+      "end-to-end autonomy",
+      "visuomotor control",
+      "loco-manipulation",
+      "tactile sensing"
     ],
-    "first_seen": "2026-07-17T17:58:08",
+    "first_seen": "2026-07-18T15:52:46",
     "week": "2026-W29",
     "why": null,
     "duplicate": false
+  },
+  {
+    "url": "https://figure.ai/news/f-03-at-bmw",
+    "title": "F.03 Arrives at BMW",
+    "source": "Figure",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Figure deployed its latest F.03 humanoid robot at BMW's South Carolina plant to handle complex sequencing tasks—pulling weighted carts and selecting unaligned parts—work that would stymie traditional fixed automation.",
+    "companies": [
+      "Figure",
+      "BMW Group"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "industrial deployment",
+      "whole-body control"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://figure.ai/news/helix-02-bedroom-tidy",
+    "title": "Helix-02 Bedroom Tidy",
+    "source": "Figure",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Figure's two Helix-02 humanoids coordinate to tidy a bedroom using a single learned neural network, with each robot inferring its partner's intent from motion alone rather than explicit communication.",
+    "companies": [
+      "Figure"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "multi-robot coordination",
+      "vision-language-action",
+      "locomotion",
+      "dexterity"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://agilityrobotics.com/content/beyond-the-hype",
+    "title": "Beyond the Hype",
+    "source": "Agility Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Agility Robotics' Digit humanoid robot passed OSHA-recognized safety testing at an Amazon fulfillment site, clearing a major regulatory hurdle for commercial deployment in human-shared warehouse environments.",
+    "companies": [
+      "Agility Robotics",
+      "Amazon",
+      "GXO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "warehouse automation",
+      "safety certification",
+      "industrial deployment"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://agilityrobotics.com/content/digit-moves-over-100k-totes",
+    "title": "Digit Moves Over 100,000 Totes in Commercial Deployment",
+    "source": "Agility Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Agility Robotics' Digit humanoid has moved over 100,000 totes at a GXO logistics facility, marking the first six-figure commercial throughput milestone for the general-purpose robot.",
+    "companies": [
+      "Agility Robotics",
+      "GXO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "logistics automation",
+      "ROI validation"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://neura-robotics.com/neura-robotics-showcases-full-stack-robotics-platform-at-automate-2026/",
+    "title": "NEURA Robotics Showcases Full-Stack Robotics Platform at Automate 2026",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics will demonstrate its full-stack cognitive robotics platform and humanoid robots at Automate 2026, building on a record $1.4 billion Series C round.",
+    "companies": [
+      "NEURA Robotics"
+    ],
+    "people": [
+      "David Reger"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "cobots",
+      "full-stack robotics",
+      "autonomous transport"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://neura-robotics.com/neura-robotics-and-dassault-systemes-announce-partnership/",
+    "title": "NEURA Robotics and Dassault Systèmes Announce Partnership to Scale Physical AI Through Virtual Twins and Real World Learning",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics and Dassault Systèmes are linking virtual simulation with real-world robotics to train physical AI systems at industrial scale.",
+    "companies": [
+      "NEURA Robotics",
+      "Dassault Systèmes"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "virtual twins",
+      "industrial automation",
+      "sim-to-real learning"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://neura-robotics.com/neura-robotics-and-amazon-web-services-enter-collaboration/",
+    "title": "NEURA Robotics and Amazon Web Services Enter Strategic Collaboration to Accelerate Physical AI at Scale",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics and Amazon Web Services announced a partnership to integrate AWS infrastructure into NEURA's physical AI platform, with Amazon exploring deployment of NEURA's robots in its fulfillment centers.",
+    "companies": [
+      "NEURA Robotics",
+      "Amazon Web Services"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "cognitive robotics",
+      "fleet intelligence",
+      "cloud infrastructure"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://neura-robotics.com/neura-robotics-celebrates-bundesliga-premiere/",
+    "title": "NEURA Robotics celebrates Bundesliga Premiere: Humanoid Robot debuts at the Stadium",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics deployed its 4NE1 Mini humanoid robot at a Bundesliga match, marking the first on-field appearance of the company's cognitive machine in professional sports.",
+    "companies": [
+      "NEURA Robotics",
+      "VfB Stuttgart"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "cognitive robotics",
+      "deployment"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://neura-robotics.com/europes-largest-physical-ai-training-center-neura-tum/",
+    "title": "NEURA Robotics and the Technical University of Munich launch Europe’s largest scientific training center for Physical AI",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics and the Technical University of Munich are opening Europe's largest Physical AI training center at Munich Airport in mid-2026, deploying a fleet of humanoid robots to generate training data for the robotics community.",
+    "companies": [
+      "NEURA Robotics",
+      "Technical University of Munich"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "training",
+      "robotics",
+      "research"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://mimicrobotics.com/en/blog/solving-dexterity-a-full-stack-approach",
+    "title": "Solving Dexterity: A Full-Stack Approach",
+    "source": "mimic robotics",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "launch",
+    "one_line": "Mimic Robotics unveils the mimic hand M1, a tendon-driven robotic hand paired with an exoskeleton wearable for capturing human demonstrations to train general-purpose dexterous manipulation.",
+    "companies": [
+      "Mimic Robotics"
+    ],
+    "people": [
+      "Stephan-Daniel Gravert",
+      "Philipp Wand",
+      "Benedek Forrai",
+      "Julian Lotzer",
+      "Nicolas Längerich",
+      "Manuel Meier",
+      "Stephan Polinski",
+      "Aashna Majmudar",
+      "Stefan Weirich",
+      "Elvis Nava"
+    ],
+    "themes": [
+      "dexterous manipulation",
+      "robotic hand",
+      "physical AI",
+      "teleoperation",
+      "tendon-driven",
+      "exoskeleton",
+      "full-stack robotics"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://dexterity.ai/blog/instinct",
+    "title": "Introducing Instinct",
+    "source": "Dexterity",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "launch",
+    "one_line": "Dexterity has deployed Instinct, a force-sensing AI system for robotic manipulation that reacts to tactile feedback 10–100 times faster than human touch and achieves an 81% success rate packing boxes into truck trailers.",
+    "companies": [
+      "Dexterity"
+    ],
+    "people": [
+      "Shengjie Lin",
+      "Robert Sun"
+    ],
+    "themes": [
+      "robotic hands",
+      "manipulation",
+      "tactile sensing",
+      "force control",
+      "physical AI",
+      "touch intelligence"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://dexterity.ai/blog/dexterity-beckhoff-collaboration",
+    "title": "Dexterity Collaborates with Beckhoff USA on Advanced Automation, Networking, and Safety for State-of-the-Art Mech Robots",
+    "source": "Dexterity",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "launch",
+    "one_line": "Dexterity, valued at $1.65 billion and racing toward an IPO, has locked in Beckhoff USA as a key supplier for the control systems and networking that will power its Mech superhumanoid robots in warehouse and logistics work.",
+    "companies": [
+      "Dexterity",
+      "Beckhoff USA",
+      "FedEx",
+      "Sagawa Express"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotic hands",
+      "warehouse automation",
+      "material handling",
+      "industrial control systems"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://dexterity.ai/blog/dexterity-asrock-aisupercomputers",
+    "title": "Dexterity and ASRock Rack Partner to Deliver Physical AI Supercomputers for Superhumanoid Edge Intelligence",
+    "source": "Dexterity",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "launch",
+    "one_line": "Dexterity and ASRock Rack are embedding custom edge AI supercomputers into Dexterity's Mech warehouse robot to enable real-time manipulation without cloud dependency.",
+    "companies": [
+      "Dexterity",
+      "ASRock Rack"
+    ],
+    "people": [],
+    "themes": [
+      "robotic manipulation",
+      "physical AI",
+      "edge computing",
+      "humanoid",
+      "warehouse automation",
+      "computer vision",
+      "gripper/dexterity"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wing.com/news/elevating-healthcare-logistics-wing-apian-nhs-south-west-london-drone-deliveries",
+    "title": "Elevating Healthcare Logistics: Wing Partners with Apian and the NHS for South West London Drone Deliveries",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing deployed autonomous drones in South West London to ferry blood samples between hospitals in five minutes, cutting ground transport time in half.",
+    "companies": [
+      "Wing",
+      "Apian",
+      "South West London Pathology",
+      "St. George's Hospital",
+      "Nelson's Health Centre"
+    ],
+    "people": [
+      "Simon Brewer"
+    ],
+    "themes": [
+      "drone delivery",
+      "healthcare logistics",
+      "medical samples",
+      "autonomous"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wing.com/news/wing-and-walmart-seven-new-markets-drone-delivery",
+    "title": "Wing and Walmart name seven new markets for drone delivery service",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing and Walmart are expanding their drone delivery network into seven new metro areas—Memphis, New Orleans, Philadelphia, Phoenix, San Diego, San Francisco, and Salt Lake City—bringing their combined footprint to nearly 20 U.S. markets.",
+    "companies": [
+      "Wing",
+      "Walmart"
+    ],
+    "people": [
+      "Heather Rivera"
+    ],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "retail",
+      "expansion"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wing.com/news/wing-extends-service-hours-charlotte-dallas-fort-worth",
+    "title": "Wing extends service hours in Charlotte and Dallas-Fort Worth",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing obtained FAA approval to deliver after dark and is now operating until 9 p.m. in Charlotte and Dallas-Fort Worth, using infrared technology to navigate without human-visible light.",
+    "companies": [
+      "Wing",
+      "Walmart"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "regulatory approval",
+      "extended service hours",
+      "infrared navigation"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://wing.com/news/greater-houston-kicks-off-walmart-wing-expansion-year",
+    "title": "Greater Houston kicks off Walmart and Wing's biggest expansion year yet",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing and Walmart launch drone delivery across Greater Houston, expanding their partnership to serve one of the nation's largest metros as part of what the companies call their most ambitious growth year yet.",
+    "companies": [
+      "Wing",
+      "Walmart"
+    ],
+    "people": [
+      "Heather Rivera"
+    ],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "retail",
+      "expansion"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://skydio.com/blog/skydio-commits-usd3-5-billion-to-expand-u-s-manufacturing-and-secure-american-drone-leadership",
+    "title": "Skydio Commits USD3.5 Billion to Expand U.S. Manufacturing and Secure American Drone Leadership",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio commits $3.5 billion to expand U.S. manufacturing, positioning the company as a domestic alternative to Chinese drone dominance.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "manufacturing",
+      "national security",
+      "U.S. domestic production"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://skydio.com/blog/1000-skydio-docks-deployed",
+    "title": "1000 Skydio Docks Deployed",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio has deployed 1,000 of its automated docking stations in a year, reaching four million autonomous flights across police, utilities, and border security.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drone dock",
+      "autonomy",
+      "first responder",
+      "asset inspection",
+      "border security"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://skydio.com/blog/vancouver-police-department-drone-as-first-responder",
+    "title": "Vancouver Police Department Drone as First Responder",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Vancouver Police Department deployed Canada's first dock-based drone-as-first-responder system using Skydio's X10 and DFR Command software.",
+    "companies": [
+      "Skydio",
+      "Vancouver Police Department"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "first responder",
+      "public safety",
+      "automated deployment",
+      "Canada"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://skydio.com/blog/us-air-force-x10d-eod-follow-on-contract",
+    "title": "US Air Force X10D EOD Follow On Contract",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio won a multi-million-dollar follow-on contract from the U.S. Air Force to expand its X10D drone program for explosive ordnance disposal.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "EOD",
+      "national security"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://percepto.co/percepto-launches-next-generation-inspection-intelligence-for-energy-infrastructure/",
+    "title": "Percepto launches next-generation inspection intelligence for energy infrastructure",
+    "source": "Percepto",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Percepto launched a next-generation drone inspection platform for energy infrastructure, combining autonomous flight with AI-driven analysis to scale expert-level asset evaluation across oil and gas and utility operations.",
+    "companies": [
+      "Percepto"
+    ],
+    "people": [],
+    "themes": [
+      "drone inspection",
+      "autonomous inspection",
+      "energy infrastructure",
+      "AI-driven asset analysis",
+      "autonomous visibility"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.mrt.com/business/oil/article/epa-approves-percepto-ogi-drones-21143238.php#new_tab",
+    "title": "EPA approves Percepto’s autonomous OGI drones for federal emissions inspections",
+    "source": "Percepto",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The EPA has approved Percepto's autonomous optical gas imaging drones for federal emissions inspections, allowing the company's uncrewed systems to survey industrial sites for pollution without human pilots on site.",
+    "companies": [
+      "Percepto",
+      "EPA"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "emissions monitoring",
+      "regulatory approval",
+      "industrial inspection"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://dronelife.com/2025/10/29/autonomous-methane-detection-drones-earn-epa-approval-for-oil-and-gas-compliance/#new_tab",
+    "title": "Autonomous Methane Detection Drones Earn EPA Approval for Oil and Gas Compliance",
+    "source": "Percepto",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Percepto's autonomous methane-detection drone system wins EPA approval as an Alternative Test Method, clearing the way for remote optical inspections across oil and gas sites without field crews.",
+    "companies": [
+      "Percepto"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous inspection",
+      "methane detection",
+      "oil and gas",
+      "environmental compliance",
+      "optical gas imaging"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://dronelife.com/2025/07/16/percepto-ai-emission-detector/#new_tab",
+    "title": "Percepto’s New Solution Delivers Real-Time Emissions Insights at Scale",
+    "source": "Percepto",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Percepto launches an AI system to analyze drone-collected emissions data in real time, with Chevron running pilot tests in U.S. oil fields.",
+    "companies": [
+      "Percepto",
+      "Chevron"
+    ],
+    "people": [
+      "Udi Zohar"
+    ],
+    "themes": [
+      "drones",
+      "emissions monitoring",
+      "artificial intelligence",
+      "autonomous drones",
+      "methane detection"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://percepto.co/percepto-launches-ai-emission-detector-for-remote-drone-based-methane-surveying/",
+    "title": "Percepto launches AI emission detector for remote, drone-based methane surveying",
+    "source": "Percepto",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Percepto launched an AI-powered emission detector that autonomously identifies methane leaks from drone-captured video, now deployed across major U.S. oil and gas basins.",
+    "companies": [
+      "Percepto"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous inspection",
+      "methane detection",
+      "AI",
+      "oil and gas",
+      "emissions monitoring"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://waymo.com/blog/2026/06/waymo-premier",
+    "title": "Introducing Waymo Premier, an elevated rider experience",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches Premier, a $29.99-per-month membership tier offering priority pickups and cash-back rewards to frequent riders in San Francisco, Los Angeles, and Phoenix.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Sarah Paige Roland"
+    ],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles",
+      "pricing"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/ro-den-lv-sd-tmpa/",
+    "title": "Summer break is here, but we're keeping our prover",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching fully driverless operations—no safety driver required—in Denver, Las Vegas, San Diego, and Tampa, and has begun testing its sixth-generation autonomous system in Hyundai IONIQ 5 vehicles.",
+    "companies": [
+      "Waymo",
+      "Hyundai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi",
+      "full autonomy"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/nashville-june2026/",
+    "title": "Starting today, anyone in Nashville can download t",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo opens its Nashville driverless service to the general public, having ferried tens of thousands of pre-registered riders since April.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [
+      "James Brown"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "accessibility"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/growing-to-1400-sqm/",
+    "title": "The world's largest 24/7 autonomous ride-hailing s",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its autonomous ride-hailing service to 11 U.S. cities covering over 1,400 square miles, including new launches in Miami, Austin, Atlanta, and Houston ahead of the FIFA World Cup.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous mobility",
+      "ride-hailing",
+      "expansion"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+    "title": "Waymo is coming to the Rose City! Portland has alw",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will begin testing its autonomous vehicles in Portland, Oregon, starting with manual drives to map the city's infrastructure before pursuing regulatory approval for commercial service.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Keith Wilson",
+      "Candace Reid"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "urban deployment",
+      "safety"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://aurora.tech/newsroom/the-road-never-sleeps-auroras-trucks-go-driverless-day-and-night",
+    "title": "The Road Never Sleeps: Aurora's Trucks Go Driverless Day and Night",
+    "source": "Aurora",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Aurora announced driverless truck operations around the clock on U.S. highways, extending its Dallas-Houston route to overnight runs and planning a 1,000-mile Phoenix expansion by year-end.",
+    "companies": [
+      "Aurora"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "freight",
+      "long-haul",
+      "nighttime operations"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://aurora.tech/newsroom/aurora-delivers-my-ride-in-the-first-self-driving-commercial-truck",
+    "title": "Aurora Delivers: My Ride in the First Self-Driving Commercial Truck",
+    "source": "Aurora",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Aurora completed its first driverless commercial truck haul between Dallas and Houston, with CEO Chris Urmson riding in the cab as the rig delivered pastries at highway speed.",
+    "companies": [
+      "Aurora"
+    ],
+    "people": [
+      "Chris Urmson"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://nuro.ai/blog/uber-nuro-and-lucid-to-bring-robotaxi-service-to-houston-in-2027",
+    "title": "Uber, Nuro, and Lucid to Bring Robotaxi Service to Houston in 2027",
+    "source": "Nuro",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber, Nuro, and Lucid plan to launch a robotaxi service in Houston by mid-2027, marking the second market for the autonomous venture after San Francisco.",
+    "companies": [
+      "Uber",
+      "Nuro",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "robotaxi",
+      "autonomous vehicles",
+      "driverless",
+      "deployment"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://nuro.ai/blog/nuro-expands-to-germany-establishing-a-european-base-for-its-universal-autonomy-platform",
+    "title": "Nuro Expands to Germany, Establishing a European Base for Its Universal Autonomy Platform",
+    "source": "Nuro",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Nuro opens a German headquarters to test and scale its Level 4 autonomous-driving platform in Europe, extending its pivot from delivery robots to licensed autonomy tech.",
+    "companies": [
+      "Nuro"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomy platform",
+      "Level 4",
+      "European expansion",
+      "licensing"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://nuro.ai/blog/nuro-secures-cpuc-permit-for-testing-robotaxi-passenger-service-in-california",
+    "title": "Nuro Secures CPUC Permit for Testing Robotaxi Passenger Service in California",
+    "source": "Nuro",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Nuro has secured a California Public Utilities Commission permit to test its robotaxi passenger service, clearing a regulatory hurdle for its partnership with Uber and Lucid.",
+    "companies": [
+      "Nuro",
+      "Uber",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://jobyaviation.com/news/2025-impact-report",
+    "title": "2025 Impact Report",
+    "source": "Joby Aviation",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Joby Aviation logged over 850 test flights in 2025 and announced a Virgin Atlantic partnership to launch commercial air taxi services in the UK.",
+    "companies": [
+      "Joby Aviation",
+      "Virgin Atlantic",
+      "Blade Air Mobility"
+    ],
+    "people": [
+      "Claire Boland"
+    ],
+    "themes": [
+      "eVTOL",
+      "air taxi",
+      "electric aircraft",
+      "commercial launch",
+      "urban air mobility"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://jobyaviation.com/news/joby-aviation-and-toyota-motor-corporation-launch-initial-phase-of-a-strategic-manufacturing-alliance-to-realize-air-mobility-for-all",
+    "title": "Joby Aviation and Toyota Motor Corporation Launch Initial Phase of a Strategic Manufacturing Alliance to Realize Air Mobility for All",
+    "source": "Joby Aviation",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Joby Aviation and Toyota Motor Corporation establish a joint venture to scale production of electric air taxis, combining Joby's aircraft design with Toyota's manufacturing expertise.",
+    "companies": [
+      "Joby Aviation",
+      "Toyota Motor Corporation"
+    ],
+    "people": [
+      "JoeBen Bevirt",
+      "Akio Toyoda"
+    ],
+    "themes": [
+      "eVTOL",
+      "electric air taxi",
+      "manufacturing",
+      "air mobility"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://jobyaviation.com/news/joby-reports-first-quarter-2026-financial-results",
+    "title": "Joby Reports First Quarter 2026 Financial Results",
+    "source": "Joby Aviation",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Joby Aviation completed its first point-to-point eVTOL flights in New York City and was selected for FAA's integration pilot program across eleven states, positioning the air-taxi company to begin commercial operations in 2026.",
+    "companies": [
+      "Joby Aviation",
+      "Blade"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "electric air taxi",
+      "autonomous flight",
+      "urban air mobility"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://jobyaviation.com/news/integrating-evtols-at-commercial-airports",
+    "title": "Integrating eVTOLs at Commercial Airports",
+    "source": "Joby Aviation",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Joby Aviation is conducting flight demonstrations between Manhattan and JFK as part of the FAA's eVTOL Integration Pilot Program, moving airport transfers from concept to regulatory proof-of-concept.",
+    "companies": [
+      "Joby Aviation",
+      "NASA",
+      "FAA"
+    ],
+    "people": [
+      "Eric Mueller"
+    ],
+    "themes": [
+      "eVTOL",
+      "airport integration",
+      "urban air mobility",
+      "airspace management"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://jobyaviation.com/news/joby-brings-electric-air-taxis-to-new-york-city-in-week-long-flight-campaign",
+    "title": "Joby Brings Electric Air Taxis to New York City in Week-Long Flight Campaign",
+    "source": "Joby Aviation",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Joby Aviation completed New York City's first point-to-point eVTOL air taxi demonstration flights, operating between JFK and Manhattan heliports as part of the FAA's integration pilot program.",
+    "companies": [
+      "Joby Aviation",
+      "Port Authority of New York and New Jersey",
+      "Blade Air Mobility"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "electric air taxi",
+      "urban aviation",
+      "FAA integration",
+      "zero emissions"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://jobyaviation.com/news/reuben-brothers-unveil-joby-vertiport-at-century-plaza",
+    "title": "Reuben Brothers Unveil Joby Vertiport at Century Plaza",
+    "source": "Joby Aviation",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Joby Aviation and Reuben Brothers opened a vertiport at a Los Angeles residential tower, marking the first in-building air taxi service for a residential development.",
+    "companies": [
+      "Joby Aviation",
+      "Reuben Brothers",
+      "Blade"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "urban air mobility",
+      "vertiport",
+      "air taxi"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wisk.aero/newsroom/second-gen6-aircraft",
+    "title": "Second Gen 6 Aircraft Accelerates Wisk's Flight Test Program",
+    "source": "Wisk Aero",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Wisk Aero flew its second Generation 6 autonomous aircraft, doubling its flight-test capacity to accelerate toward a certified air-taxi service.",
+    "companies": [
+      "Wisk Aero"
+    ],
+    "people": [
+      "Sebastien Vigneron"
+    ],
+    "themes": [
+      "eVTOL",
+      "autonomous aviation",
+      "electric aircraft",
+      "flight testing",
+      "air taxi"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wisk.aero/newsroom/wisk-and-texas-selected-by-white-house-to-lead-the-safe-introduction-of-autonomous-air-taxi-flight",
+    "title": "Wisk and Texas Selected by White House to Lead the Safe Introduction of Autonomous Air Taxi Flight",
+    "source": "Wisk Aero",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Wisk Aero wins White House backing to operate autonomous air taxis in Texas as the FAA's lead eVTOL partner under a federal integration pilot program.",
+    "companies": [
+      "Wisk Aero",
+      "Texas Department of Transportation",
+      "SkyGrid"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous air taxi",
+      "eVTOL",
+      "Advanced Air Mobility",
+      "FAA certification"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.ehang.com/news/1375.html",
+    "title": "EHang EH216-S Completes First Pilotless Flights in Switzerland, Supporting Advanced Air Mobility in the Alpine Region",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang completed the first pilotless flights of its EH216-S eVTOL aircraft in Switzerland, expanding operations to 22 countries and demonstrating autonomous capability in mountainous terrain.",
+    "companies": [
+      "EHang",
+      "DroneVia"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "pilotless",
+      "autonomous aviation",
+      "advanced air mobility",
+      "electric aircraft"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.ehang.com/news/1371.html",
+    "title": "EHang Selected for Hong Kong's \"Low-Altitude Economy Regulatory Sandbox X\" Trial Projects",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang won a spot in Hong Kong's regulatory sandbox to conduct commercial eVTOL demonstration flights with its EH216-S pilotless aircraft.",
+    "companies": [
+      "EHang",
+      "Kwoon Chung Smart Mobility Co., Ltd",
+      "Hong Kong Cyberport Management Company Limited"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "pilotless aircraft",
+      "low-altitude economy",
+      "air mobility",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.ehang.com/news/1364.html",
+    "title": "EHang EH216-S Conducts First People-Carrying Flights in Mexico and Latin America at FAMEX Tulum Air Show 2026",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang's pilotless EH216-S eVTOL conducted its first passenger flights in Mexico and Latin America at the Tulum air show, demonstrating tourist and shuttle use cases in the region.",
+    "companies": [
+      "EHang",
+      "Air Mobility"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "passenger transport",
+      "aerial tourism",
+      "Latin America",
+      "pilotless aircraft"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.ehang.com/news/1351.html",
+    "title": "EHang, Türk Telekom and Argela Enter Strategic Partnership to Deploy Advanced Air Mobility in Türkiye",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang and Turkish telecom giant Türk Telekom announced a partnership to deploy the company's pilotless EH216-S eVTOL aircraft in Turkey, integrating telecommunications infrastructure and traffic management systems.",
+    "companies": [
+      "EHang",
+      "Türk Telekom",
+      "Argela"
+    ],
+    "people": [
+      "Ebubekir Şahin",
+      "Ismail Emanet",
+      "Victoria Jing Xiang"
+    ],
+    "themes": [
+      "eVTOL",
+      "urban air mobility",
+      "pilotless aircraft",
+      "5G infrastructure",
+      "unmanned traffic management"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.ehang.com/news/1346.html",
+    "title": "EHang Dazzle at China's Spring Festival Gala, Setting New Guinness World Record with 22,580 UAVs",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang set a Guinness World Record by flying 22,580 of its GHOSTDRONE 4.0 drones simultaneously in a coordinated light show at China's Spring Festival Gala.",
+    "companies": [
+      "EHang"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "aerial show",
+      "UAV",
+      "swarm"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.ehang.com/news/1344.html",
+    "title": "EHang Lights Up China's Spring Festival Gala with 16 EH216-S and 22,580 GD4.0 Drones in Aerial Tech Spectacle",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang flew 16 pilotless EH216-S aircraft and set a Guinness record with 22,580 GD4.0 drones in formation at China's Spring Festival Gala.",
+    "companies": [
+      "EHang Holdings Limited"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "passenger aircraft",
+      "drone swarms",
+      "autonomous flight",
+      "aerial performance"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUlmaXRnalhzcnpPaWYtR0czVmo0OFJDMm1FaEFreWpFOFpLb0dzRnRka3ZkMkNvNzFORkxNcWYyNnJxQWhfTjU1SWNRclV1UHZWWFFhMEFOQlZteVRJbEhoYUpyYmVGX1RCZ2pxMjBtX1N6SGMzaVpVZlZaNDNXNG44TnlBOHRlUzhEMlpUM21YZXk5RW1kU2dMVkZqQS1GenJZQXBkRl90V0FTZ2p5Ym8xQVhQSEJ4?oc=5",
@@ -1084,28 +2598,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXNfZENCV0Z4cElYQlB0czJ5d1h2ZWxrMkl3Z1FZU1B2T2J6Q0pkZTBZVnB6TUlKLWhreWhFZzlnVXdmZnp5N2l2ZHFTcGJKbVA4WktfYU90ZkV6U1Z3TW9WdVpWejk0dXRjU1NySjJZTmJ2YVZlUWxBcXotRUF6aWp6NGpVVllmTmxZdmpISDA2MHc?oc=5",
-    "title": "Uber promises to bring robotaxis to Houston in 2027",
-    "source": "Planetizen",
-    "published": "Fri, 17 Jul 2026 14:00:00 GMT",
-    "topic": "Driverless",
-    "category": "launch",
-    "one_line": "Uber committed to deploying robotaxis in Houston by 2027, extending its autonomous vehicle timeline beyond San Francisco and other early markets.",
-    "companies": [
-      "Uber"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "robotaxi",
-      "autonomous vehicles"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": false
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCOGdtN2ZuNlhuWDcxOUNlSHlpRjVocFc3S01CMV9IRjJyNmljTXZvMHFWbTBHRGhob2YxSmhfaVJrbEdGeHUwVmFZVzRuRlBPNWJTenJ2OWRFYlY1NTcwZFRXckZZcjdhT2VveDYxSQ?oc=5",
     "title": "L3Harris and Shield AI complete first autonomous DiSCO EW drone flight",
     "source": "Army Technology",
@@ -1123,54 +2615,6 @@
       "electronic warfare",
       "military",
       "unmanned systems"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": false
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakliSnpISEhWajlaRXlFblRhM1dhYTJGblZROUFrc3J1TkZGNk5lSXZ1b19LYkJ6TEZmclpWT0ppQVRRMXpEVlE1M2Y4NFc1LS1MeUVFRkdIeTlsVHVfWUx1MGJ3X1V4eU9VdlZrYndtdU1wTWlhTlZEeTJBTjhDTVBCNWdfcmFfdS1jTUFyLTZwR3h3V2FSQWNYMVRjYlB6RjdrYmNFVFE3WXhhSjlZclVDVVVoUDc3?oc=5",
-    "title": "Anduril Autonomous Drone Fires Its First-Ever Live Missile at a Target",
-    "source": "autoevolution",
-    "published": "Fri, 17 Jul 2026 10:48:57 GMT",
-    "topic": "Drones",
-    "category": "launch",
-    "one_line": "Anduril's autonomous drone successfully fired a live missile in testing, marking the first weaponized flight of the defense startup's fully autonomous system.",
-    "companies": [
-      "Anduril"
-    ],
-    "people": [],
-    "themes": [
-      "autonomous",
-      "drones",
-      "weaponized",
-      "defense",
-      "missile"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": false
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbF80ZloyaVJYN1lrLUJHdmZIVWxobUk1UkxxRE1iVUNVYkYwM0IxdUh2N0J4dzFrRFAtOUF1b2g3VTZDQkt4T3lDY2xhQ1RlNFdiRTgwQ0lteUhFQUVuWDh3NDRnSnhmelpSV2NOLVViUlQ0aThxSk5ad01VWGNSbTM3a21UQ2ZnVHMyeFh3R0V3cVRmM1dLT3hSaw?oc=5",
-    "title": "EVERYWHERE Integrates with Skydio to Enable Autonomous Drone Response for Lone Workers",
-    "source": "Yahoo Finance Singapore",
-    "published": "Thu, 16 Jul 2026 11:09:00 GMT",
-    "topic": "Drones",
-    "category": "launch",
-    "one_line": "EVERYWHERE, a platform for field worker safety, is integrating Skydio's autonomous drones to respond to emergencies faced by isolated workers.",
-    "companies": [
-      "EVERYWHERE",
-      "Skydio"
-    ],
-    "people": [],
-    "themes": [
-      "autonomous drones",
-      "drone response",
-      "field worker safety",
-      "lone worker support"
     ],
     "first_seen": "2026-07-17T17:58:08",
     "week": "2026-W29",
@@ -1221,7 +2665,7 @@
     "first_seen": "2026-07-17T17:58:08",
     "week": "2026-W29",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01VVYzeXMyNnpWdGpXdW91M3JuNnFYRnNFVENZQ2xmWl9DbEpHakVCMDhVdjNoNkV3aVpmbkFSbFp4Qm9ZdEx3alBpaGRaWnBRdGo1Y3Z1UklsNlZCZnRFZDVQaU9qcng2Y0FMX0laaEZXUXRlM29iTENR0gF_QVVfeXFMTUR1TWpzaXdFVVV6TVZzQ093ekdoa2sxQVhnX3NreHpNYWtjdkozQmR0dlVGckVXMzVEY1ppMWE5RXRxNDFCdE84T1dQYldBTTZoMTlYalFUSUwyQzhTcFE2VVZLbnRVa2RSc2hLc3ZOWW5XLTZjYTNKNk03bXA2cw?oc=5",
@@ -1246,56 +2690,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeW95UkQwcjBJcTRlWUNOT25ncFUwTVpXODN4OHc3bHVMaTRLTXpnSndZcklmcE9QVU9kWkgxdEN1SXA2UG5MRFlENlV6RHJVVC1rdjZWY0FfZmVCS19yQklVQ1VQak14Q00ybjBEd3BlRWpYVDlxYTVkWVMtMDJjNkhfWDRMc2FNT0FDRkZPVC0?oc=5",
-    "title": "Autonomous drone delivery company expanding into Austin: How drone operations are regulated",
-    "source": "AOL.com",
-    "published": "Thu, 16 Jul 2026 06:24:45 GMT",
-    "topic": "Drones",
-    "category": "launch",
-    "one_line": "An autonomous drone delivery company is expanding operations into Austin, where it will navigate a patchwork of federal and local regulations.",
-    "companies": [
-      "Autonomous drone delivery company"
-    ],
-    "people": [],
-    "themes": [
-      "drone delivery",
-      "autonomous drones",
-      "regulation"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": false
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1dkUXpoUlBQWWpuMnJud0daM0hIWHByZThvM1o4ZnFzV0g0djgtdFFQcURkc3pXTGg1c3VseDZXTHBkSjFNR0pHVmRnYmt1X1FmWkpMbzltRndhQWJ1VERYWUZBVVlMYnBtZmZTY3FNb0JVa0ViMG5kaXN5dzdUb0oxVU5nRzJTamM4MndvUnczRUk?oc=5",
-    "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom - New York Focus",
-    "source": "New York Focus",
-    "published": "Tue, 14 Jul 2026 09:00:00 GMT",
-    "topic": "Physical AI",
-    "category": "launch",
-    "one_line": "Realbotix will deploy a humanoid robot named Sally in a rural New York school district this fall, marking one of the first classroom uses of such technology in American education.",
-    "companies": [
-      "Realbotix",
-      "Salamanca City Central School District"
-    ],
-    "people": [
-      "Andrew Kiguel",
-      "Mark Beehler",
-      "Steve Wozniak"
-    ],
-    "themes": [
-      "humanoid",
-      "physical AI",
-      "education",
-      "robotics"
-    ],
-    "first_seen": "2026-07-15T21:14:55",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": true
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGcwdGFreWFsWGJKMGlXdGszbm9aZ3lNNlZHUzFUR0dpTm53QTVoOGNRUnQ2RnJvVWVRZVNfcEdjX2hVZFFULW10V1I2elJMR3AtaXlHTzlPWWdOQnMzMlRXdTlFTjcyY0NwUEF2QnEtbGh1XzdKTVZkQ2NoNUUwMUZ0c2xsWEc2cHJrWHVDV3ZTUFpWb19mNExfN2hjUlo2T0cwRWR3YmVPVXBxZ0k4R0JERGFuN05yNXZ5Um00X1ZQY2JHYVg1NXB1WQ?oc=5",
     "title": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier - NVIDIA Newsroom",
     "source": "NVIDIA Newsroom",
@@ -1317,7 +2711,7 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmtfRnFqX3NpZm5XNTgtNl81V3M5b1dJSUVqb3FSOEZDNDRzNWJvZF9FNFRTNEhRcHZnSjd2Y3RrT0JzeWs0UnZSTWZXWmJ4SDVydm5MUGFwclRkOHRCd2RIT0ZvVmw0MC1qb0FtMTVtb1hjQVRzeWRnR0Nqb1ZINExfMUctVzl1bFJkZUNR?oc=5",
@@ -1433,7 +2827,7 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYk1lbEhjM1lfemxkc1FBdU1xWnZ2NnNjdjJ4TUVoYmhSYzZKT1pFWVhFSTJTS2lkeERGZjMxZWhhMGpEU1RDb1R3cVZyaF9KSkZEVS16WXh0NFl3dkI3RmdyMThtdHZMd2xrTE9lYnpRZHF1U0N6TU1XVlVONFZVbVRHSC14STdBVl8xY1Z3?oc=5",
@@ -1552,7 +2946,7 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjNZV3Q0Y1k0N1pSZFpUQzZ1ZS1OeUpqa09VTm44TWJBSG1ReWZfY1ZwMnRLNTB3NF9DOVQ1MXIwSkI1Zms1a21yT0lLT0hTZXBldUxZWHJFWHpTRENWcXlSVTVCakFXamhLNWZkajlNd1p2MmtWU1ZhUmItMUNkVzlid09zZ9IBiwFBVV95cUxQUkI1aGFUdGU3T3o5Xy1TckFfNllaeGN2UTlVMFBDd2tfTzJOd1JUaFo1WTlmZXJTSmtOSFp4cUVZLXcxMUxhd0xCZlFxV1Z3Q3BzQVlfTElrZUdRQk9KMHdOU3ZCTDJYR21Ld0NmcVBLYkh1NnlfX1pZVWRNMXJhT3lpOG9pWUV4UXhN?oc=5",
@@ -1615,7 +3009,278 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": true
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHNjT3dJVTJtQTJfUnJRVVFZdVFHV2hSM1JOdVV2OUNXVmlYcmYwVDZ2T2w3UW94cjhrRWFSamMxSngtajdoa3JyYWhDNTl3SDNHTzlrTTlDeDBLWHlsUDhreVI1YzFYVTA1VzNGUlJZeElHTV9ZM3k5X1pyTXBETS1LWW81WUUtcmQw?oc=5",
+    "title": "Total monthly distance traveled by passengers in California’s driverless taxis",
+    "source": "Our World in Data",
+    "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo now dominates California's robotaxi market after regulators shut down Cruise's driverless service following a safety incident in October 2023.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "data tracking"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSnVjSERZU2JmVnp3eTZPQWVCb3F6aU5YNVZ2MjFCT3pvUDlZQVRfdTFGSEM5XzRGdE9nQUo0MjBmUW9RQzdYclp4SV96d0VTelV1enRHdDlYQTlnRko0Q3BuTEkybGx2a01qdDdFeGxycWtyMGhMWjdmNTY1LWgzYmRHUDBrb1k4N0k0LUFLQlc1X0h4SHFCclBOaTlHN0dUVWxLM3g4bEctMXBuSVVYRHI5UkJYbUFKWWFBUXpmcWJmc2I1N0h2T1hIbjNlbXhVUTJZZk85a1FRc0Jvc0ppVWZyV2tteUZDR0tWMjhzQTZ3bk9TR19CVUpJb1d2Q0pMblU2Z3h3SjJhckRPLVNwNUV6NFo0REpaZ20yLXJZUkdFc184bTFQVW9nUi1MQkR6dFlxOVhVOXFYMU9EV05RQVhoN2dLekwtN1g2XzNWazIwbFFBZjRkeGNyNnI?oc=5",
+    "title": "Autonomous micro-drone achieves first air-to-air insect kill on the way 'towards completely eradicating mosquitoes' — 40-gram unit uses car parking sensors, can eliminate insects at up to 26 feet",
+    "source": "Tom's Hardware",
+    "published": "Sat, 18 Jul 2026 09:00:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Tornyol Systems' 40-gram autonomous micro-drone achieved its first air-to-air kill, using parking sensors to hunt mosquitoes at up to 26 feet.",
+    "companies": [
+      "Tornyol Systems"
+    ],
+    "people": [
+      "Alex Toussaint"
+    ],
+    "themes": [
+      "autonomous drone",
+      "micro-drone",
+      "insect targeting",
+      "air-to-air engagement"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://thehumanoid.ai/?post_type=post&#038;p=8421",
+    "title": "KinetIQ Ascend: Toward 100% Reliable Manipulation and Superhuman Speed",
+    "source": "Humanoid",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "research",
+    "one_line": "Humanoid's KinetIQ Ascend framework uses reinforcement learning to push its humanoid robots beyond imitation, achieving 42% higher throughput in machine-feeding tasks and 98% success rates in bin-picking.",
+    "companies": [
+      "Humanoid"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manipulation",
+      "reinforcement learning",
+      "physical AI",
+      "real-world deployment"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.pi.website/blog/pi07",
+    "title": "π 0.7 : a Steerable Model with Emergent Capabilities",
+    "source": "Physical Intelligence",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "research",
+    "one_line": "Physical Intelligence unveiled π 0.7, a robotic hand model that generalizes across dexterous tasks and responds to novel language commands without task-specific training.",
+    "companies": [
+      "Physical Intelligence"
+    ],
+    "people": [
+      "Sergey Levine"
+    ],
+    "themes": [
+      "robotic hands",
+      "manipulation",
+      "dexterous tasks",
+      "language-guided control",
+      "compositional generalization",
+      "foundation models"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.pi.website/research/memory",
+    "title": "VLAs with Long and Short-Term Memory",
+    "source": "Physical Intelligence",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "research",
+    "one_line": "Physical Intelligence introduces a memory architecture for vision-language models that enables robots to execute multi-stage tasks like kitchen cleaning by maintaining coherent understanding of object locations and past actions across extended durations.",
+    "companies": [
+      "Physical Intelligence"
+    ],
+    "people": [
+      "Marcel Torne",
+      "Karl Pertsch",
+      "Homer Walke",
+      "Kyle Vedder",
+      "Suraj Nair",
+      "Brian Ichter",
+      "Allen Ren",
+      "Haohuan Wang",
+      "Jiaming Tang",
+      "Kyle Stachowicz",
+      "Karan Dhabalia",
+      "Michael Equi",
+      "Quan Vuong",
+      "Jost Tobias Springenberg",
+      "Sergey Levine",
+      "Chelsea Finn",
+      "Danny Driess"
+    ],
+    "themes": [
+      "robotic manipulation",
+      "vision-language models",
+      "memory architecture",
+      "multi-task learning",
+      "physical AI"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.pi.website/blog/olympics",
+    "title": "Moravec's Paradox and the Robot Olympics",
+    "source": "Physical Intelligence",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "research",
+    "one_line": "Physical Intelligence demonstrated its π 0.6 model solving three of five Robot Olympics manipulation tasks, including peanut butter spreading and lock-turning, showing progress on the hard-easy inversion that defines Moravec's paradox.",
+    "companies": [
+      "Physical Intelligence"
+    ],
+    "people": [
+      "Benjie Holson"
+    ],
+    "themes": [
+      "robotic manipulation",
+      "fine-tuning",
+      "generalist models",
+      "Moravec's paradox",
+      "dexterous hands",
+      "everyday tasks"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.pi.website/blog/pistar06",
+    "title": "π * 0.6 : a VLA that Learns from Experience",
+    "source": "Physical Intelligence",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "research",
+    "one_line": "Physical Intelligence releases π * 0.6, a visual language model for robotic manipulation that learns from human demonstration, correction, and self-practice to achieve high-reliability task execution.",
+    "companies": [
+      "Physical Intelligence"
+    ],
+    "people": [
+      "Sergey Levine",
+      "Chelsea Finn"
+    ],
+    "themes": [
+      "robotic manipulation",
+      "visual language model",
+      "learning from demonstration",
+      "robotic hands",
+      "physical AI"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.pi.website/research/real_time_chunking",
+    "title": "Real-Time Action Chunking with Large Models",
+    "source": "Physical Intelligence",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "research",
+    "one_line": "Physical Intelligence published a research paper on real-time action chunking for vision-language-action models, enabling robots to operate with lower latency by executing sequences of predicted actions while the model reasons about the next ones.",
+    "companies": [
+      "Physical Intelligence"
+    ],
+    "people": [
+      "Kevin Black",
+      "Manuel Y. Galliker",
+      "Sergey Levine"
+    ],
+    "themes": [
+      "robotic manipulation",
+      "vision-language-action models",
+      "real-time control",
+      "latency reduction",
+      "robot learning"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/safetydata-june26/",
+    "title": "Our latest analysis",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo released updated safety data showing its autonomous vehicle was involved in 94% fewer injury-causing crashes than human drivers across 220 million miles, including new operations in Atlanta.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "self-driving"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wisk.aero/newsroom/wisk-and-nasa-simulate-multi-aircraft-operations",
+    "title": "Wisk and NASA Simulate Multi-Aircraft Autonomous Flight Operations in Controlled Airspace",
+    "source": "Wisk Aero",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "research",
+    "one_line": "Wisk Aero and NASA completed a simulation showing that a single ground supervisor can manage three autonomous aircraft simultaneously in real-world airspace alongside conventional traffic, a critical step toward commercial eVTOL operations.",
+    "companies": [
+      "Wisk Aero",
+      "NASA"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "autonomous aircraft",
+      "Advanced Air Mobility",
+      "airspace integration",
+      "air traffic control"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYS1UQ1RLOHJLOExILXl3UHRXUHd5QW1FWVlOdlBtTllUUkxKZkpGQXN2NURmUmxrLUZkVEs5bkdndXJvT1BDUmxVNy1KMnJsU0hrYmJuMDl3TEdrV3BIdk5VcS1jSk0teTZKT05CSHV5dkZuZkJ0SndOYlpmMDBtLVl0NlFZWDBTcmV1ekdJU0NOcXg1YmM4NlNaLUY0NUd1OTNuRUlxalVGbVlSVWcycDZVUlV6X0h2cXcxSjB3?oc=5",
@@ -1813,7 +3478,7 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0pNS3pWRzdhWXQ1b3RfT2FjMnl3Nms5QjJDQ3VUZTZqTGdBOUdtYUtyQ0NVcmc1czFEc1lrYVhKc2taeFpnbG1RSjFlQXM4eElpLUozVnFaMEItTTMwRkYwMHhRZFFBVVpWcG5UcDZab0VkTjFNWkVLcVZvTDhtbFRCY2tLaktyWm5xd181RVVENWllRE5KT0kxbER4NVNzQk9ERWlhbWxnN3NaUEowSNIBuAFBVV95cUxQM3Y5RHVwc2RfWjhpTU5hTEZHdDJmWjJINnc0THVLcmNjei1pZGVDWUFxWm1OamhsMFZ5dEgxRUp4Q1JBdVZyRWZsX2p4VldPVDM2SUpTNkhueXlXU3ZvQUpMVFV5VUZieUlpaEo3OUpCQkNNZnBRalJZUnNCYi1qeEpmSUVDbmdnREJWZ1FXM29yYUVvUl9Bc3hqTkpxa2pCRzY1Qy1ocUxIdUJOR0QtZzROMTN4TXdU?oc=5",
@@ -1835,6 +3500,160 @@
     "week": "2026-W29",
     "why": null,
     "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YQWxuaTcxOUU5T1RZcEozekZTYmhUczlWYVZDbERWcFl2YXlhclU1TjZlVlljbk4zNGxYRXRuYnF0RVNfMUNncmxBeVV4dnRWcW5iWlh6RTU2ZjRrUUdCTmJR?oc=5",
+    "title": "China’s humanoid robot makers eye global expansion as 2026 WAIC highlights industry’s rapid rise",
+    "source": "Global Times",
+    "published": "Sat, 18 Jul 2026 07:21:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Chinese humanoid robot makers are racing to capture global market share, with AgiBot already deriving over thirty percent of revenue from overseas sales.",
+    "companies": [
+      "AgiBot",
+      "National and Local Co-Built Humanoid Robotics Innovation Center"
+    ],
+    "people": [
+      "Jiang Lei",
+      "Peng Zhihui"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "global expansion"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0NSOGtQQkx6Rm5xLUt5VzdsT2poNlZ6dDkzVXlKZVlwNFZqRTd6YnpzZTBUQ1VVVmFMa0RESEpodWhJRmNxZDVUX3BkelhZVm9ZRjhJZ0tjQmN3bG9jUFlxTXJSd194Q0tCS2d6U0VWa1YydmFQX2JtekJhOGpvYW0zMGVZSXVxbjJYWHNEMTZVaXpLanRRT2RxdTVIT016aUE?oc=5",
+    "title": "Waymo really wants to operate in D.C. But does D.C. want Waymo?",
+    "source": "The Washington Post",
+    "published": "Thu, 16 Jul 2026 17:00:01 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo pushes to expand its robotaxi service to Washington, D.C., but faces skepticism from local officials and residents over safety and equity concerns.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "urban deployment"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONmtKYW5nZkIwUE5rTXdzWTFCT01udU52bUxNX3hqaE1JWlRTXzdfUFNBU1JLT29WZ2xmeEtKNXlhaUozUXFJQjJoVUtEeUFSTzdlOGNmVFRBLUo0UWV0UEZFRDZNa3pEd3lybUN2VWk1UzdqelhDQjVBU1lRREF3OENWQ0pzMDduNzZneg?oc=5",
+    "title": "The mayor of SF has a message for AV companies: 'Prove it before you deploy it'",
+    "source": "Business Insider",
+    "published": "Sat, 18 Jul 2026 01:22:03 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "San Francisco Mayor Daniel Lurie demands autonomous vehicle companies prove operational competence in emergencies before deploying robotaxis on city streets.",
+    "companies": [
+      "Waymo",
+      "Zoox",
+      "Nuro",
+      "Motional",
+      "Apollo Auto",
+      "WeRide"
+    ],
+    "people": [
+      "Daniel Lurie"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "safety",
+      "deployment"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2F4eVliLXhFMFdRX2lXQjFzWURuNFNYU18tLVFwbmhmV0FCTy1zeUxzV3hpX2lyOU01OUpBYWxUVjFVdnZQZkhyU1JwXzBFcWZVU2pPWmdRLWxlWDA4UGZmUy1CYmFXV1V4aGJYY3JONk1VSTJIX1RVR2c0TkpnN1Y0VkdQZVlCd3J6V01xVkxWeml4d0Q0YVdZOFpzRWZmNkpGWmEtSy1nNGZQZnc?oc=5",
+    "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+    "source": "TechCrunch",
+    "published": "Mon, 13 Jul 2026 12:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Uber's push to shape robotaxi regulation is setting up a competitive fight with Waymo over the rules that will govern driverless vehicles.",
+    "companies": [
+      "Uber",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzFPRW9pMHNSQWE2bERvTmlXSmdsYlVwY0h3X1hNbUxjbEFTd1hlSzVuZWdsUkFZekxNRXc2cWdmbjFNLTlQV1RjWGtwVzZJX3g0dkUtSFpTdGdfNy1YZjJfZU8xREVIQ0U0QV82NE54N3h0Q3VDZjNGbzBvNlJfOGEtN2FQVE0zN3ZyYXNVOVp4RmVPR01UbTh4Y1VkdXpqanZtTmQ1Rzc?oc=5",
+    "title": "Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment",
+    "source": "War on the Rocks",
+    "published": "Fri, 17 Jul 2026 07:33:18 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The Navy's expanding unmanned fleet risks operational failure without a distributed maintenance network in forward overseas ports, not centralized bases thousands of miles away.",
+    "companies": [
+      "U.S. Navy",
+      "Theodore Roosevelt Carrier Strike Group"
+    ],
+    "people": [
+      "Dan Justice"
+    ],
+    "themes": [
+      "drones",
+      "military",
+      "logistics",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYW4tY1ZpbnFqN05wazAxNGlMQVAyZEk0TkI2cTVLSGVIdzlpcTV4b1JCRUduTGd4a29fU0FvZHVtbGx2Vm9hbW9nY1Eta0lxV0Y1TXliaVJad2VvM2dHbzduWmFZRmhrNlEzeFQ3Slc2clFZRGdPMWFBclhlSlVzQk1wWmE3UWFPZVd3SFRRN2dMbi1MdzhfV2JwVDZUOHNNNm5tSnVB?oc=5",
+    "title": "This autonomous drone eradicates mosquitoes — but before welcoming an AI-guided hunter-killer into the backyard, it's worth asking what else it could eventually be trained to target",
+    "source": "Yahoo Tech",
+    "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Tornyol, a Y Combinator-backed startup, built an autonomous micro-drone that hunts mosquitoes by their wingbeat—but the technology's adjustable kill criteria raises questions about what else it might target.",
+    "companies": [
+      "Tornyol",
+      "Y Combinator"
+    ],
+    "people": [
+      "Alex Toussaint"
+    ],
+    "themes": [
+      "autonomous drones",
+      "pest control",
+      "AI safety",
+      "dual-use concerns"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTdRMUJVdWwtZXc2UnhfT0RaSDJTb3NnaGw0c0tSYjFRU1FuaGIyUUlVM0dqLUNOR0owVkgxdklIQWZRRlRhMmMtcjFwcGUyTnNpZWxtZG82bllJbFRaQ2JNc0FHZXlxRzNWc2VrdllNVDRxVm5RWEdGWjhPeDJJbA?oc=5",
@@ -2076,29 +3895,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYm5FS0lBbERqcV9DZkZhYkVveFJ3NXRCbi1FSjMtd0RhdjVnTjQ2VDQtb2kwQzFTOHgwYWpQRDhxNlJmQkEwN1dEV3JTMlh0UFhGN1Z6dWltTXJRdlNhUkhoX1Z0NjFpRE12VkJ3aWdZSHc4U09vOEVmOERtLWk5bngyMENmVUctVnNtd2VQLUlJRThidmRXTHRrX2prMmN2cUZ3dnN4Z2JRNHVOaEY1RTdOWQ?oc=5",
-    "title": "Uber and Waymo Are Sparring. The Robotaxi Future Has Arrived - Bloomberg.com",
-    "source": "Bloomberg.com",
-    "published": "Wed, 15 Jul 2026 10:00:22 GMT",
-    "topic": "Driverless",
-    "category": "opinion",
-    "one_line": "Uber and Waymo are fighting over robotaxi turf as the technology finally generates real business disputes.",
-    "companies": [
-      "Uber",
-      "Waymo"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "robotaxi",
-      "autonomous vehicles"
-    ],
-    "first_seen": "2026-07-15T21:14:55",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": false
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXNVRGxvbGhUNWtWVnJacmVXaFNfSF9yZ3drOUJfS2QxWGJ4YnhzdzBBbTJoMTZ0S0JRNDFaelNqWU9mOXhiTnZhTTBxS1d3WUJnd283aGRNSWhEVkNpcUdFSU9RbnlFRlhnVWd3S191VWhSN3ZEUXVwMnFQQlpKQXJPTXdncDNWSkxDUDE0NksxZFdZZVAtbnYzN2dNZ3ZvY0RJeWxhaXNBcS1Dc21ndmpR0gG6AUFVX3lxTE9EVGFwaEFDcWxGc3E1cjNlN2NBU2FzM1E5UzZsQi1lQ2hLNnFoWEpYRDAyeHl0YnF1dzk4SHZDZTNMV0MwcVAxZk42RHB1dW9iaHY3QldkcEVaWjNxekZ3MHVrZHhwa0Q5RkZpQVMweVBGaWVfTTVzaXJfYXZsZ3dVWTNHbXBDXzFJcjJuYWoyZWxweXhhYXNVWTVWVkhVR2gya2tVNVlCM3g0T3JiTllMUmt5QzN2QklmZw?oc=5",
     "title": "What would Waymo mean for jobs and safety in DC? - NBC4 Washington",
     "source": "NBC4 Washington",
@@ -2168,7 +3964,7 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVNZZkgwd1ZRcnRNQ2xoR2tQRTRVWUk0YklYMUlzcjNkOHRuWkE3aW5jbXZBMERsUm9HTldUNWprQ0lPT1F2azJWemJXcmdVYmpZUnBIRHlIRk92UGtCOTJtQUhMaThKaWpTSWFOdnNzUnJJNVI3M3Y1X0pGUW42eg?oc=5",
@@ -2287,7 +4083,7 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SaXJubzh0T3pzSDVLelVrZjI2WmstamptV1NtdjJuZTgyQi1PcURkSllxR1JuMXhOQTFCdUhkZU9xOVItQmdidlptLXJpUkpmR3N6MVJKTF9yZGRHXzFUYXMySkRxZ1NNMEVjUGlHd3BCTnhlZnc?oc=5",
@@ -2360,23 +4156,179 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYlF1Z3preTVSaWptckZBMkoxRE93ZXdQMkc0d1dqWERQVndPaFQ5Z1ZHcnN0OWdmTk01d2RTLVVQU09hRDl6QjJJY01QVWlwbGQ5cG1TaWhoQWlHbEhLMmZDRHRIZzZUZ0ozV3J5ZUx2QXBxcnFPMkJrc2hZbHZ0UkFXdXVad3ZpX3c?oc=5",
-    "title": "Humanoid robot lands head-high kick during ‘world’s first freestyle’ fighting in China",
-    "source": "Interesting Engineering",
-    "published": "Fri, 17 Jul 2026 13:08:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlVRREN2QTJvZjdvRFNjR1lpc1c1LVI4V0ozRzE1RGx6YlZENkNrbUpTMnJiaFlWZHFCVEh6TFlMd2JsWWJDelpVeF95T2RIUWx2WXVJSkRzbEoxQW1zZmduaHFFcDZpdWo1eHZGV2o4dnJGa3JfYnNhSldRRi1PQk9PbDhiaENiYzVIV1MwWXJJZndZWDRQVg?oc=5",
+    "title": "Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots",
+    "source": "Futurism",
+    "published": "Sat, 18 Jul 2026 14:00:00 GMT",
     "topic": "Physical AI",
     "category": "other",
-    "one_line": "EngineAI's humanoid robot landed a head-high kick at China's first freestyle combat tournament, continuing to fight even after losing its head.",
+    "one_line": "Auto workers strike over deployment of humanoid robots at a car factory, forcing production to halt.",
     "companies": [
-      "EngineAI"
+      "car manufacturer"
     ],
     "people": [],
     "themes": [
       "humanoid",
       "physical AI",
-      "robotics demonstration"
+      "labor",
+      "manufacturing",
+      "automation"
     ],
-    "first_seen": "2026-07-17T17:58:08",
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYThJUVhZQjVORjlTMktCcTdkU21FcHhMV1pTbmw4V0swRWt0cEdzekZoNXFCYUkzRXBlWkxsWGZ6Um05TkRVTUhkMUNRS0F0ckE5SWVNWDdTbHhBMVpJanN1V1h4Ymh2d0ZYelJsMWdjUzRpUXJsMl9lRkNHYjhFYlBnVHNObXly0gGIAUFVX3lxTE16ZTl5UFZkMTNwaXBjak1VcGFqLXA3RlBJTU1rS01Jc0VkVHF6QWc0YW5vR0RJNjdRUk82R2Z5M1hrQmFZM1N5TnJZLUlYaDFUUERVcXNVOWNMRC0zN29PdVFoZXBQU2d6QWpXWVBVcUNBcUg0Z05KN0VRczVPUHloOWJPLUJjTVE?oc=5",
+    "title": "Here’s what to do if you get into an accident with a driverless Waymo car in Miami",
+    "source": "Miami Herald",
+    "published": "Sat, 18 Jul 2026 08:30:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Miami Herald publishes a practical guide for accident reporting with Waymo's driverless cars, now operating in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjVQS0xZYXBXb3RiRC1fN2pFczdIYzBHSnI4ZmRKVTFfTlp6Sk1yWFY4WVMtRHY4SHNyRE9KZDd4RzNkYWllTzV6LWRkSnR4eHc5bnc0UEZBUE9KTkVGdm1LWW0tZ1h6bnNERjJha2NUS3doMldiOVprZ2lXY2x4NXdObG1BTGxhVnpLYk1iUmxfNUxPZ0pna3FsSjFMMnJ2TTdFVl9teTdyOF9OcXNDbzlkS1jSAboBQVVfeXFMTjczbTlGQlpvRGZtakNWc2lkMnBnT0V3LWk1c0twZjdTVjlYd0E2NDZ3b05Kd1JuTDZ2eTYtdjhPTUJTMnptS2xOc3Y0dlRvS3RoaHZHWWx6Y3ZpaHVza283em5qUEVWaEVnczdlRDBGMzV0U1dBSUJSWlp3ak5wRDJTYlRoaUVoTDdScWF1ckN2QjlEcUp6T0RfMTdsal9TU0phOVRqQmFfcWg0SHZjVlBhS3dLaURsQmZR?oc=5",
+    "title": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
+    "source": "Al Jazeera",
+    "published": "Fri, 17 Jul 2026 16:50:57 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Amazon's Zoox is recalling self-driving vehicles after discovering they don't respond properly to emergency situations.",
+    "companies": [
+      "Amazon",
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "recall"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckJOQ2JpVnd5ZTJfUEhzcTVkMUNadmx0dERJakhBYTl1UEFSeFplVlpLRU1rMVZndW92Zlk4ODRSYmxJWGRDcWtiWnduSFYyeWNKN1R6dWVwbHlXZFlzZW5MbDc0azZ2a1hqU2pSemFnbnF4aVZhb0xIMFBBVEZWVGRaU1pMQ0MzVUxsRlNSX3NaM21rWTBQdVVtaDBUdGE4V3h4cXlEaDlNemtl?oc=5",
+    "title": "Robotaxi Riders Are Falling Asleep, Sparking Frantic 911 Calls",
+    "source": "Bloomberg.com",
+    "published": "Tue, 14 Jul 2026 09:30:20 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo and Cruise robotaxis are ferrying passengers into deep sleep, prompting alarmed bystanders to call 911 when drivers appear unresponsive at red lights.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "robotaxi",
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://skydio.com/blog/post-incident-review-for-degraded-connectivity-may-2026",
+    "title": "Post Incident Review for Degraded Connectivity May 2026",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Skydio published a post-incident review of a May connectivity outage affecting its drone operations, detailing the failure and remediation steps.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [
+      "Matthew Gast"
+    ],
+    "themes": [
+      "drone operations",
+      "connectivity",
+      "incident response"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://nuro.ai/blog/nuro-appoints-mike-mancini-as-chief-financial-officer",
+    "title": "Nuro Appoints Mike Mancini as Chief Financial Officer",
+    "source": "Nuro",
+    "published": "",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Nuro appoints Mike Mancini as chief financial officer as the autonomous-vehicle software company prepares to scale its robotaxi operations.",
+    "companies": [
+      "Nuro"
+    ],
+    "people": [
+      "Mike Mancini"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomy",
+      "hiring"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
+    "week": "2026-W29",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://www.ehang.com/news/1361.html",
+    "title": "EHang Meets with Thailand's Deputy Prime Minister, Ministry of Transport, and Civil Aviation Authority to Accelerate Commercial eVTOL Ecosystem Development in Thailand",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "other",
+    "one_line": "EHang founder Huazhi Hu met with Thailand's Deputy Prime Minister and aviation officials to explore commercial deployment of the company's pilotless eVTOL aircraft for passenger transport and emergency response.",
+    "companies": [
+      "EHang Holdings Limited"
+    ],
+    "people": [
+      "Huazhi Hu",
+      "Wang Zhao",
+      "Conor Yang",
+      "Li Xiaona",
+      "Wang Dong",
+      "Phiphat Ratchakitprakarn",
+      "Punya Chupanit",
+      "Jiraroth Sukolrat",
+      "Manat Chavanaprayoon",
+      "Kajonpat Maklin",
+      "Warayu Prateepasen"
+    ],
+    "themes": [
+      "eVTOL",
+      "Advanced Air Mobility",
+      "pilotless aircraft",
+      "urban air mobility",
+      "emergency medical response"
+    ],
+    "first_seen": "2026-07-18T15:52:46",
     "week": "2026-W29",
     "why": null,
     "duplicate": false
@@ -2436,9 +4388,14 @@
     "published": "Fri, 17 Jul 2026 02:32:00 GMT",
     "topic": "Physical AI",
     "category": "other",
-    "one_line": "A global humanoid fighting competition debuted in Shenzhen, with robots trading punches and high kicks while continuing combat even after losing appendages.",
-    "companies": [],
-    "people": [],
+    "one_line": "EngineAI's T800 humanoid robots threw punches and high kicks in Shenzhen's first global fighting tournament, continuing to battle even after losing their heads.",
+    "companies": [
+      "EngineAI"
+    ],
+    "people": [
+      "Zhao Tongyang",
+      "Donnie Yen"
+    ],
     "themes": [
       "humanoid",
       "physical AI",
@@ -2447,27 +4404,7 @@
     "first_seen": "2026-07-17T17:58:08",
     "week": "2026-W29",
     "why": null,
-    "duplicate": true
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DenVPODhZRVNyd3FJdWE1MU4xTTc4Vk9TeldmbW9COXg4SFhvcm5Fd2w2WDFKOVo5V1JPYkVTaHVnSHUwWVlwTTNVc3pSaUxjM2l2WVRBOV9zX3hoWkRIZDlQTFgtUQ?oc=5",
-    "title": "Amid Fears of Killer Robots, Humanoid MMA Fight in China Ends With Decapitation",
-    "source": "Common Dreams",
-    "published": "Fri, 17 Jul 2026 17:03:27 GMT",
-    "topic": "Physical AI",
-    "category": "other",
-    "one_line": "A humanoid robot was decapitated during a mixed martial arts demonstration in China, feeding anxieties about autonomous machines in combat scenarios.",
-    "companies": [],
-    "people": [],
-    "themes": [
-      "humanoid",
-      "physical AI",
-      "robot combat"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFR3N2k4ZDdwTEptMnV2ZkwzUkxVc2R6NzRzai1kei0tV0d5d3dDMHRSNi03N3podFNHekptMDVvd2RLcldqWDl5cE1lRktKa05BUDdHYXcwZ3g2bVluZnN6ODRYREZTU1k2em9JMEhHZmVoUEEyV1FBaG1ENk0zeDdGX09uLVA3eFE?oc=5",
@@ -2476,8 +4413,10 @@
     "published": "Fri, 17 Jul 2026 16:43:00 GMT",
     "topic": "Physical AI",
     "category": "other",
-    "one_line": "A humanoid robot grilled kebabs and attempted hand-pulled noodles during a live cooking demonstration in Xinjiang, mastering basic tasks after less than a week of training.",
-    "companies": [],
+    "one_line": "A humanoid robot grilled kebabs and attempted hand-pulled noodles in a live cooking demo in China, mastering basic tasks in under a week.",
+    "companies": [
+      "UniX AI"
+    ],
     "people": [],
     "themes": [
       "humanoid",
@@ -2489,54 +4428,6 @@
     "week": "2026-W29",
     "why": null,
     "duplicate": false
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ZlFzbzRDTE9iQlp0RXlZaEdKSm1OcE9CQi1jQWtkNDBKaTNjamRaMGRSQThySFRKazJ0S1cxZkVaNlZPc0txQ3FQdWo0S3E1cVJscktrNE82VmVwY19DNGhUdnZNSHNQekp2V3NXYkJHYWtkUDF4a3N5Z9IBgAFBVV95cUxQMTlVSE1qTTd5S082NU5UVGRXbnA1eUVEQWc4RVRxRWlBeFBfT2l1R2ZRYWprcGtMalZBQTJJbmxGWTNJdDZudmphdklSc2hYWWZINTdWbGdoX2hiSFVWWG5uNWNkX0J3Q0tJc1dkS2tGU1htbUdmSzh3NmhJcC15QQ?oc=5",
-    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-    "source": "CNBC",
-    "published": "Fri, 17 Jul 2026 14:40:39 GMT",
-    "topic": "Driverless",
-    "category": "other",
-    "one_line": "Amazon's Zoox recalled software after a robotaxi drove into smoke during testing, exposing early-stage perception limits in autonomous vehicles.",
-    "companies": [
-      "Amazon",
-      "Zoox"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "robotaxi",
-      "autonomous vehicles",
-      "safety",
-      "software recall"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": false
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0xycFYzWjNSc1J6Vlg5RWViLXFGR0VYem5HYWphVnVURmtUWDZ4MVcyMDVKaFkzNndzWlhYTmczMHBIU1JqX0hralMwTl9PRURGcDJjbzBfSDFnM0IyaHotUWk4SWdGYTZGT2d4T1pEMmhja3A2NkpNRnhsRE05aXoxdnJMc0E4aml4dkk3VUdYNHctcDJKVFEtWUpIU3RmSzYtRW9ObGh3UQ?oc=5",
-    "title": "Zoox recalls self-driving cars because they may not detect smoke",
-    "source": "Reuters",
-    "published": "Fri, 17 Jul 2026 16:50:39 GMT",
-    "topic": "Driverless",
-    "category": "other",
-    "one_line": "Zoox is recalling its self-driving robotaxis because the vehicles' perception systems can't reliably detect smoke, a safety gap that highlights how narrowly trained autonomous systems remain.",
-    "companies": [
-      "Zoox"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "safety",
-      "autonomous vehicles",
-      "perception systems"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEUxdWpxbFBkYjFrQ1ZJNU00alkzeExnNmoyWXcwNjR3MHpNS3V1bGdTclNzMG85c0JzSFJSYUZta3gtR1RVSzZkaFBXWlAwc0tHUE5fY192SkRJYjhxVE1sTjZteml4ZFFKR1FTVVJIWmRUZDBiZTI3ZlVEQTQ4TTI0VmF5UnRqRktoME1R?oc=5",
@@ -2585,28 +4476,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzh0Njk0dFJMVDJ0N2Z2Q2s1c2pNVVl6VHpERV9LcWpvVTBqRzdEUURqMkR0dkppVFVVV0F1eVRVV2pGeXplMURaMVJSSjNMb3RVYU04clhIZnpQNW9ZR1ExRmVIX1hEODh2eFpTTXZCNmV2anNTUzZ4Zmp1YzFLNG9TcUhJeElLc19ZR3hDWjlaM0MzU0VzNW4zSTViQ2VBRFE?oc=5",
-    "title": "Self-driving company Waymo replaces its fleet of Charlotte cars",
-    "source": "thecharlotteledger.com",
-    "published": "Fri, 17 Jul 2026 14:28:17 GMT",
-    "topic": "Driverless",
-    "category": "other",
-    "one_line": "Waymo is replacing its driverless fleet in Charlotte, signaling either an upgrade in its autonomous technology or a recalibration of its operations in the market.",
-    "companies": [
-      "Waymo"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "autonomous vehicles",
-      "fleet management"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": false
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkRCZmFRVWJpN3dqNTNYYTRnSnRPSktOZmU1VExWMmdwU2NXRHpiUE90NFN1SXI3clhwaGVFY1JnSmVQTm1ZUk44elpfSG9tdnFWSXI1aTNxeDFIWFpTQWhkRmgxX0xXbUZHUWpXV2FqNnk0SkZDSnNva1FPVko5eWVPcmhDMG00cVJhZ3JGQW9Lem9mcGZvMA?oc=5",
     "title": "Waymo enters next phase of testing in Charlotte",
     "source": "Axios",
@@ -2622,30 +4491,6 @@
       "driverless",
       "autonomous vehicles",
       "testing"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": true
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFdNM2tCaXlRQ1RVMEE4NXQ2N09RNGlPejJXLVFma1puY19KdHhkRzFrZDJJOFNiMk5Pay1aZ1czUXZsRUFzNmlrZktrZVd1ckw3UkJOa3FWemQ1RXQ1ajBMRUJTenN4WkN6RzgtTXNYV3Z2UG9JbWlxN0VRVTNGWkVrZVBKSEpJczJWNjJNXzlqOXItMVdsX01kcDBhS1hEb2RaVnF3aFJ4aWpFcnFFNk1BMk45UndVVGxvd0RteUYtcUZs?oc=5",
-    "title": "Sleeping robotaxi riders are triggering 911 calls and straining first responders",
-    "source": "Los Angeles Times",
-    "published": "Tue, 14 Jul 2026 13:44:34 GMT",
-    "topic": "Driverless",
-    "category": "other",
-    "one_line": "Autonomous taxi services are generating emergency calls when sleeping passengers trigger safety alerts, burdening 911 dispatchers in Los Angeles.",
-    "companies": [
-      "Waymo",
-      "Cruise"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "robotaxi",
-      "autonomous vehicles",
-      "safety"
     ],
     "first_seen": "2026-07-17T17:58:08",
     "week": "2026-W29",
@@ -2721,32 +4566,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFZsUUxZUjlwd1dYZk44MXg4dWQycU1TejdKZmpPRGJZRE9vSVA5b3N4NnREd0FPMHQweWJLLTQtei04MElyR3V6UjR0STNhQnQ0Z0c4bVR5NjF4NE50YWtPSUJib2h4WW1KQ3FOMEFVelFWZW9WNVphS3h0RU9Bbk9SMU83NXIzWU9MZDQyQzdCOGRXYk5hYzlR?oc=5",
-    "title": "US picks containerized drone system for next-gen autonomous warfare",
-    "source": "Interesting Engineering",
-    "published": "Wed, 15 Jul 2026 13:42:00 GMT",
-    "topic": "Drones",
-    "category": "other",
-    "one_line": "Kansas City robotics firm Tesseract Ventures wins Pentagon contract to build containerized drone platform that lets one operator manage multiple autonomous aircraft.",
-    "companies": [
-      "Tesseract Ventures",
-      "Defense Innovation Unit"
-    ],
-    "people": [
-      "John Boucard"
-    ],
-    "themes": [
-      "drones",
-      "autonomous",
-      "military",
-      "containerized systems"
-    ],
-    "first_seen": "2026-07-17T17:58:08",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": false
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3p6aHI4Y1lhcG1RSndpVy02eWk5bzBJM2pvUGpBZ01HbkNKZ1JXRW9TR1Z4b1BDcmM0RnRHdnJ1SU54VnN4ZU5oT1VEUmFYQkZhWndyTzltVENQVC1naGtENFVEZTUwNjFEdzVEbkd5d2NQTHF0Y0JvX1EySHJJSVlTTnFLdjVOUkxMbGwxUkRCYS1YMF9SSkFIeXNZN0phWUc5Z0FiUzEyUFJiNVEzLVJaNzlBeVBhd1Z5aGxB?oc=5",
     "title": "The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time - WSJ",
     "source": "WSJ",
@@ -2766,31 +4585,7 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": true
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkhZeXdjSkdPUjBDOGM3ZnUyV01pVGZ1T1BJN0xOSjA5TGRvQjZ2RWZ4ZDAzSV9zck1nRzBiYXZWNmtMemJJUVN6dU9XY2xfZzJRWEVuWmxWamFHMlJKRUZ0aTNsd0pYbVd0VTB2bm5tUDNHaG9nUzNZTktIemhuTFc5X25acVd0YWZXdXBsMDFfbTk5TFRqZnBn?oc=5",
-    "title": "South Korea’s Humanoid Robot Standoff Brings Car Factory To Grinding Halt - Yahoo",
-    "source": "Yahoo",
-    "published": "Wed, 15 Jul 2026 17:51:28 GMT",
-    "topic": "Physical AI",
-    "category": "other",
-    "one_line": "A labor dispute over humanoid robots has shut down a South Korean auto plant, raising questions about whether the technology arrives faster than society can absorb it.",
-    "companies": [
-      "Yahoo"
-    ],
-    "people": [],
-    "themes": [
-      "humanoid",
-      "physical AI",
-      "labor",
-      "manufacturing",
-      "automation"
-    ],
-    "first_seen": "2026-07-15T21:14:55",
-    "week": "2026-W29",
-    "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN1lqdVFzZXFMcElTTG1QYlpCcFZFZEJFZmNWelFKeVZUNDZraHFHTTBrUEZxOXFEWXJqaWNVQ2NYR19TZG5CY21Bc0IxS2pXZ21CcWlLRk1BZWRia3liNDl4NlIxMFlOSzJQbEs5T2FOSUhMMXoyblQwRQ?oc=5",
@@ -3080,7 +4875,7 @@
     "first_seen": "2026-07-15T21:14:55",
     "week": "2026-W29",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZTk1bmxLRmcxclFfbU01VlNSaHA3Y2cyNUNUYlNWb0RjbFRTamx3UVVoYTh4NGxTc2hIdzBaSnlxblhtckxTX29RNVczMms3OUhFd2x4SDlOV0s2ZXlHWHUyNG1lQUd3T3h5ZFpUUi1zZ0pId2pGUnhjeDk?oc=5",
