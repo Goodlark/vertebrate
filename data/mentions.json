@@ -990,7 +990,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "GeniusRobotics claims a manufacturing first that Tesla, Figure, and Unitree have all chased but not yet publicly claimed. The real test isn't the announcement but unit economics and reliability at scale — mass production means nothing if the robots can't hold up outside a showroom.",
     "duplicate": false
   },
   {
@@ -1014,7 +1014,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "A public school district putting humanoid robots in front of children is a real-world trust test that no lab demo can substitute for. Watch how Realbotix handles safety oversight and whether teachers actually find the robots useful, or just distracting.",
     "duplicate": false
   },
   {
@@ -1037,7 +1037,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "ACE Robotics is building a full-stack embodied AI system — data to deployment — that mirrors what Physical Intelligence and Figure are attempting in the US. It's another signal that China's robotics ecosystem is racing to own the entire pipeline, not just the hardware.",
     "duplicate": false
   },
   {
@@ -1062,7 +1062,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "BrainCo's brain-computer interface layer for humanoid control points toward teleoperation that skips joysticks and controllers entirely. It's early and gimmicky-looking now, but latency and accuracy improvements here could matter for hazardous or remote work down the line.",
     "duplicate": false
   },
   {
@@ -1084,7 +1084,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "EngineAI's fighting robot is pure spectacle, but the durability flex — a headless robot still swinging — is a marketing tactic other humanoid makers will feel pressure to match. Expect more staged combat as firms compete for viral proof of ruggedness.",
     "duplicate": false
   },
   {
@@ -1106,7 +1106,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "Tesla's robotaxi keeps expanding, but a tiny operating footprint in Miami underscores how far the fleet remains from Waymo-scale coverage. The gap between headline launches and actual usable service area is the real story to track.",
     "duplicate": false
   },
   {
@@ -1134,7 +1134,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "Airdropping an autonomous drone boat from a cargo plane into rough North Sea waters is a real test of rapid-deployment logistics, not a lab exercise. If it works reliably, it changes how navies think about getting unmanned assets into contested waters fast.",
     "duplicate": false
   },
   {
@@ -1157,7 +1157,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "Matternet's partnership with Beeline is a quiet infrastructure play to scale drone delivery across the US, competing directly with Wing and Zipline for logistics contracts. Watch how fast regulatory approvals and airspace integration keep pace with expansion ambitions.",
     "duplicate": false
   },
   {
@@ -1180,7 +1180,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "Anduril's autonomous drone firing a live missile is the moment lethal autonomy stops being a slide-deck concept and becomes a demonstrated capability. It puts pressure on the Pentagon's procurement pipeline and raises the stakes for how quickly regulators and treaties can catch up.",
     "duplicate": false
   },
   {
@@ -1202,7 +1202,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "A consumer preorder for a mosquito-killing drone shows autonomous flight tech diffusing into oddball civilian niches, well beyond delivery and surveillance. The obvious question is whether it can actually target mosquitoes without misfiring on anything else that moves.",
     "duplicate": false
   },
   {
@@ -1226,7 +1226,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "Tesseract's NOMAD software winning Pentagon selection is a reminder that drone warfare's next bottleneck is coordination, not hardware. Whoever controls the fleet-management layer effectively controls how swarms behave in contested airspace.",
     "duplicate": false
   },
   {
@@ -1249,7 +1249,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "The Pentagon standardizing on containerized drone systems is a bet on modularity — units that can be shipped, deployed, and swapped like cargo. It's infrastructure procurement, less flashy than a missile test but arguably more consequential for how fast autonomous warfare scales.",
     "duplicate": false
   },
   {
@@ -1274,7 +1274,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "Figure 03 is a redesign explicitly aimed at manufacturing scale, not lab demos, and it's trained on the company's own Helix AI rather than borrowed foundation models. This puts direct pressure on Tesla's Optimus and Unitree to show comparable production-readiness, not just impressive footage.",
     "duplicate": false
   },
   {
@@ -1299,7 +1299,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "A robot that learns new household tasks straight from video, without retraining, is the generalization breakthrough the whole humanoid industry has been chasing. If it holds up outside curated demos, it's a bigger deal than any single hardware upgrade this year.",
     "duplicate": false
   },
   {
@@ -1323,7 +1323,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "NEURA and Qualcomm's 'Brain + Nervous System' architecture is an attempt to standardize the chips-and-software stack that every humanoid maker currently builds in isolation. If it catches on, it becomes a real challenge to Nvidia's dominance in robotics compute.",
     "duplicate": false
   },
   {
@@ -1350,7 +1350,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "Dexterity's Foresight is a world model trained on 100 million real warehouse actions, aimed at letting robots predict physical outcomes rather than just react. It's a direct competitive shot at Physical Intelligence and Covariant in the race to make warehouse robots reason, not just grasp.",
     "duplicate": false
   },
   {
@@ -1381,7 +1381,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "Papa Johns betting on drone delivery, integrated into its own AI ordering app, signals fast food is ready to treat drones as a real logistics channel, not a novelty. Charlotte is the pilot; the real story is whether the unit economics survive scaling past one city.",
     "duplicate": false
   },
   {
@@ -1405,7 +1405,7 @@
     ],
     "first_seen": "2026-07-19T15:54:11",
     "week": "2026-W29",
-    "why": null,
+    "why": "EPA approval for Percepto's autonomous methane-detection drones is a rare regulatory win that could replace manual inspection crews across oil and gas sites. It's a quiet but concrete example of autonomy actually being adopted for environmental compliance, not just demoed.",
     "duplicate": false
   },
   {
