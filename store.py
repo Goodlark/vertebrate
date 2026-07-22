@@ -47,6 +47,35 @@ def iso_week_bounds(week_str: str) -> tuple:
     return date.fromisocalendar(year, wk, 1), date.fromisocalendar(year, wk, 7)
 
 
+# News outlets that the classifier sometimes mislabels as companies. A real company
+# will never be on this list, so dropping these is safe.
+OUTLETS = {
+    "techcrunch", "tech times", "the verge", "wired", "engadget", "gizmodo", "ars technica",
+    "the register", "wsj", "wall street journal", "bloomberg", "reuters", "forbes", "cnbc",
+    "business insider", "the information", "axios", "yahoo", "yahoo finance", "fortune",
+    "fast company", "venturebeat", "zdnet", "techradar", "cnet", "the drive", "electrek",
+    "insideevs", "defensescoop", "defense news", "breaking defense", "pr newswire",
+    "globenewswire", "globe newswire", "business wire", "businesswire", "seeking alpha",
+    "benzinga", "motley fool", "etf database", "interesting engineering", "dronedj",
+    "new atlas", "ieee spectrum", "the robot report", "npr", "fox news", "nbc news",
+    "abc news", "cbs news", "cnn", "bbc", "the guardian", "guardian", "financial times",
+    "nikkei", "south china morning post", "scmp", "gizmochina", "new york focus",
+}
+
+
+def strip_outlets(companies: list, source: str = None) -> list:
+    """Drop company tags that are really news outlets — those on the block-list, and
+    (when a source is given) the tag that just repeats the publication's own name."""
+    src = (source or "").strip().lower()
+    keep = []
+    for c in companies or []:
+        cl = c.strip().lower()
+        if cl in OUTLETS or (src and cl == src):
+            continue
+        keep.append(c)
+    return keep
+
+
 def normalize_tags(tags: list) -> list:
     """Trim, drop blanks, and dedupe case-insensitively keeping the first spelling."""
     seen = {}

@@ -47,7 +47,7 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
             mentions.append(store.Mention(
                 url=art.url, title=art.title, source=art.source, published=art.published,
                 topic=topic.name, category=assessment.category, one_line=assessment.one_line,
-                companies=store.normalize_tags(assessment.companies),
+                companies=store.normalize_tags(store.strip_outlets(assessment.companies, art.source)),
                 people=store.normalize_tags(assessment.people),
                 themes=store.normalize_tags(assessment.themes),
                 first_seen=now.isoformat(timespec="seconds"), week=store.iso_week(now)))
@@ -74,7 +74,7 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
             mentions.append(store.Mention(
                 url=art.url, title=art.title, source=art.source, published=art.published,
                 topic=co["topic"], category=a.category, one_line=a.one_line,
-                companies=store.normalize_tags(a.companies or [co["name"]]),
+                companies=store.normalize_tags([co["name"]] + store.strip_outlets(a.companies)),
                 people=store.normalize_tags(a.people), themes=store.normalize_tags(a.themes),
                 first_seen=now.isoformat(timespec="seconds"), week=store.iso_week(now)))
             added += 1
@@ -182,6 +182,9 @@ def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "dat
 
     enriched = 0
     if enrich:
+        # Sources that ARE our tracked companies (a newsroom's source == the company,
+        # so we must not strip it as if it were an outlet repeating its own name).
+        company_names = {c["name"].strip().lower() for c in config.load_companies()}
         live = [m for m in mentions if not m.duplicate]
         for i in range(0, len(live), 15):
             batch = live[i:i + 15]
@@ -190,11 +193,14 @@ def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "dat
                     m = batch[idx]
                     if it.one_line.strip():
                         m.one_line = it.one_line.strip()
-                    # Keep every real company; remove only flagged junk + the outlet itself.
+                    # Keep every real company; remove only flagged junk, known outlets, and
+                    # the source name when the source is an outlet (not one of our companies).
                     drop = {d.strip().lower() for d in it.drop_companies}
-                    drop.add((m.source or "").strip().lower())
-                    m.companies = store.normalize_tags(
-                        [c for c in m.companies if c.strip().lower() not in drop])
+                    src = (m.source or "").strip().lower()
+                    if src and src not in company_names:
+                        drop.add(src)
+                    m.companies = store.normalize_tags(store.strip_outlets(
+                        [c for c in m.companies if c.strip().lower() not in drop]))
                     m.people = store.normalize_tags(it.people)         # proper names only
                     enriched += 1
 

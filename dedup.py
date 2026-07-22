@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+import re
 from typing import List
 
 from pydantic import BaseModel
@@ -9,6 +10,16 @@ from config import CLASSIFY_MODEL
 from sitegen import rank_mentions
 
 log = logging.getLogger("pressmonitor.dedup")
+
+# Generic words that don't identify a specific company, so they must not group two
+# unrelated firms together (e.g. "Agility Robotics" and "Field Robotics" via "robotics").
+GENERIC_ENTITY_TOKENS = {
+    "robotics", "robotic", "ventures", "technologies", "technology", "inc", "corp", "llc",
+    "ltd", "systems", "labs", "lab", "company", "group", "holdings", "motors", "motor",
+    "aviation", "dynamics", "intelligence", "ai", "the", "global", "industries",
+    "international", "aerospace", "defense", "capital", "partners", "automation",
+    "mobility", "auto", "tech", "co", "and",
+}
 
 # Same-event de-duplication. Title-word overlap can't tell that "Waymo comes to
 # Tampa" and "Waymo to start rides in 4 more markets" are one event told from two
@@ -79,19 +90,60 @@ def cluster_events(client, mentions: list, model: str = CLASSIFY_MODEL) -> list:
     return clean
 
 
+def _entity_tokens(m) -> set:
+    """Specific (non-generic) name tokens of a story's companies + people."""
+    toks = set()
+    for e in list(m.companies) + list(m.people):
+        for w in re.findall(r"[a-z0-9]+", str(e).lower()):
+            if len(w) > 2 and w not in GENERIC_ENTITY_TOKENS:
+                toks.add(w)
+    return toks
+
+
+def _entity_groups(mentions: list) -> list:
+    """Connected components of stories that share a specific company/person token.
+    Same-event coverage almost always shares the subject, so this narrows the event
+    clustering to small, same-subject groups — reliable no matter how big the week."""
+    parent = list(range(len(mentions)))
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    token_first = {}
+    for i, m in enumerate(mentions):
+        for t in _entity_tokens(m):
+            if t in token_first:
+                parent[find(i)] = find(token_first[t])
+            else:
+                token_first[t] = i
+
+    groups = {}
+    for i in range(len(mentions)):
+        groups.setdefault(find(i), []).append(i)
+    return list(groups.values())
+
+
 def mark_duplicates(client, week_mentions: list, model: str = CLASSIFY_MODEL) -> int:
-    """Cluster a week's stories by event; keep the best per cluster, mark the rest
-    as duplicates. Returns how many were marked. Recomputed fresh each call."""
+    """Mark same-event duplicates. Stories are first grouped by shared company/person,
+    then the event clustering runs within each group (small + reliable at scale).
+    The best of each event cluster is kept; the rest are flagged. Fresh each call."""
     for m in week_mentions:
         m.duplicate = False
     if len(week_mentions) < 2:
         return 0
     dropped = 0
-    for group in cluster_events(client, week_mentions, model=model):
+    for group in _entity_groups(week_mentions):
         if len(group) < 2:
             continue
-        members = rank_mentions([week_mentions[i] for i in group])   # best first
-        for m in members[1:]:
-            m.duplicate = True
-            dropped += 1
+        sub = [week_mentions[i] for i in group]
+        for cluster in cluster_events(client, sub, model=model):
+            if len(cluster) < 2:
+                continue
+            members = rank_mentions([sub[i] for i in cluster])   # best first
+            for m in members[1:]:
+                m.duplicate = True
+                dropped += 1
     return dropped
