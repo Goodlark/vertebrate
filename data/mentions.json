@@ -5346,22 +5346,410 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcW1MMk85Qm4xbHZnU2NVZm00RDVmX3NlcHE1UUVwR2lYa0JPVWZnOGU5MmlrUHJfMjhjX2hnQXdCbGtURWpRYjVmcUVUX1l2d2tlUGNCYTgzaldxNC1MbGhaZkxjc2d0bl94Vm03b2FacUhTMHVmLWVfU0Y0U2tOQjRNbjExUG12NWxSQ2tmLU81b3I0WXBVeGRXV1hlLWdqNGtONWkzTzExLUtWV2VLQV92N0nSAboBQVVfeXFMUDF4dHlPaXFka19iOU5SSDhFel95dTQzcWNMTU9jSVRST3FpMDRaNHZheW9naE9ZMjRLb19QZmpZajFyZEFOUzRjNXU1YlVKS1g5RWprOXlXMk1VMFRfbTJaSjJKcmVNRWRlUk5uRmExTDZmZHp5dE9ZLWpaSkdURHl6djc2LTk2TXlQR2dHRkZLeURHTkRmdUlHdzA0WVo5b2M3a3JLM3ptVy0ycmd5TkQzdzhGZ2pfT0Vn?oc=5",
-    "title": "New York school district to deploy humanoid robot teacher this fall",
-    "source": "RochesterFirst",
-    "published": "Mon, 20 Jul 2026 23:09:05 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjQ0Zk8tUndkOW9EZTRxNXJINEZudEJKVU9oZ25oM2M4LUQwVDNkWXdfNTZ5M3hUSWVHdjVXWlZHeEgydWFPdDJDWnFla0ZJS1BnQmhua3pyaFAtbzNuZFluWTBBYXNuX0d6ZVVRdllUeWdxaWpmN2xGXy1oMGFXOVI2dmlLN1JsdnF1Q1RCSjd1VUNrZmh1X2hmZmttaU9aS0dORDRnOXhoTUlKM2RaM3RpcDg4RGVRdURVODlCNEhlcGxrWEZ3bjRaaU1icnAw?oc=5",
+    "title": "Chinese robot maker AgiBot starts Hong Kong IPO process, Securities Times reports",
+    "source": "Reuters",
+    "published": "Fri, 24 Jul 2026 10:27:43 GMT",
     "topic": "Physical AI",
     "category": "launch",
-    "one_line": "A New York school district will deploy a humanoid robot as a classroom teacher beginning this fall, marking an early test of physical AI in K-12 education.",
-    "companies": [],
+    "one_line": "AgiBot, a Chinese humanoid-robot maker, has begun the process of listing on the Hong Kong stock exchange.",
+    "companies": [
+      "AgiBot"
+    ],
     "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "IPO",
+      "physical AI"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdHd3WVFQdnhmUGNJVVJNeU9RN2pGSDJiaDZSVGZuUkJadDluZ2duWFQ2bXIxem04aDUwa2Z0SUhab0lSTDZyMWRMc1RNMG91RXljUWxuRDZNck51MnpWSkZRUnFPTjdVQWlFQ2I1MDRGa2ZmQzVpV2EyREMtenQyUWJUVk41VDJUQlhBRzlXeHRVZ2lCQVF1R0lPZGozUFdPa2tWSFI0eXNCTVJuanYzMFZoZW92ZnZucDYzcTVCanpyakNIVDM4dGpGcFJHYUh3?oc=5",
+    "title": "Samsung Launches Humanoid Robot Division With Robot-Brain AI Already Tested in Factories",
+    "source": "Tech Times",
+    "published": "Fri, 24 Jul 2026 11:28:55 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Samsung has launched a dedicated humanoid robot division with AI trained on factory floor experience.",
+    "companies": [
+      "Samsung"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM1lSWHNJNnpxVS1KeWtvOGl6WGlUdFNUend1NHFLSC11R25mR2R1bHFFdEFlRkZOazlXdDFIcS1ZV054TUhFV1dPMHlVNVViVXM5LWVZNWlvLS1hUi1ObW1CTU9WeUkwQU9YR0x4SzRZQzFISVZseFpObEJmdkxkZENPMERudEVNRVkxNnhDdl92SnZtYlFROWRKSEt2TzF3YXl1Y3RsM1dhRm9mY1JBTnh4cWJQTDZJRXk4TE1TU2JyZjNoWEdWX09DMDNhTnVhSDROcXJyTUNxcGVraVYzbzRRN1hEalIwUFRKMVRxVTFFempaaC1aVHRsaHFLd1luV3k5OVE5WUI?oc=5",
+    "title": "Fellows Participate in First Teleoperated Humanoid Robot Surgery",
+    "source": "The American College of Surgeons",
+    "published": "Tue, 21 Jul 2026 22:07:04 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Surgeons at UC San Diego used teleoperated humanoid robots to perform gallbladder removal, suggesting cheaper robotic surgery for rural and resource-limited hospitals.",
+    "companies": [
+      "University of California, San Diego"
+    ],
+    "people": [
+      "Garth R. Jacobsen",
+      "Ryan Broderick"
+    ],
+    "themes": [
+      "humanoid",
+      "teleoperation",
+      "surgical robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UV95cUUwX2psNExpcng1Ung5T1duR1FiQmp4ellYdllTZUdNUndka0NNcGNHdTBlODVTYzBkZlBETzIxOEdEbGtQVUpsSWtBRFdmVDVn?oc=5",
+    "title": "New York school introduces AI humanoid robot teacher Sally",
+    "source": "Fox News",
+    "published": "Tue, 21 Jul 2026 16:30:28 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A New York high school deployed Sally, a five-foot-two humanoid robot teacher, to assist eleventh and twelfth graders while insisting human teachers remain irreplaceable.",
+    "companies": [
+      "Salamanca High School"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "education"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNekp6ZklfYkstdy1RaHVSYy1GQUNRelBoS1VKVV9MRnlJTlBQN1FTNk95NUdzMWNLQlRKUUM4R1VfY1c1dVlUVDNwdkpqZnFxUzhLTi1wMEFRaG9ENlphZ0JYZFoxUnZxSFZmRGtkel9vUnVXNlNDczV0bHpjOFBpTW83b3VTWkYxaGZWbEMxQnRRZ1JzNUJ4Y1JoZ1V3NE1MbnNTZXNuRUFNTUJiOFNBbjdzaXZtSzBWM203Qk9iMDRsVnBQdU1NaS0zOVc5TUFJeFhrZ2x5M1lPeWVWVHpUWWVUNkxLT1FDX3ZISzVWR1J1UndVXzZ4NS1VWF90dnVEY2J4eW9fWjNOclI4NXctYkUzUzRkVDZfYjB5RzgwenY2TmliM2ZfR1Bn?oc=5",
+    "title": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military V",
+    "source": "Benzinga",
+    "published": "Fri, 24 Jul 2026 13:07:47 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Figure AI, backed by Eric Trump, is securing AMD chips for its humanoid robots and pivoting toward military applications.",
+    "companies": [
+      "Figure AI",
+      "AMD"
+    ],
+    "people": [
+      "Eric Trump"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military robotics"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1dkUXpoUlBQWWpuMnJud0daM0hIWHByZThvM1o4ZnFzV0g0djgtdFFQcURkc3pXTGg1c3VseDZXTHBkSjFNR0pHVmRnYmt1X1FmWkpMbzltRndhQWJ1VERYWUZBVVlMYnBtZmZTY3FNb0JVa0ViMG5kaXN5dzdUb0oxVU5nRzJTamM4MndvUnczRUk?oc=5",
+    "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom",
+    "source": "New York Focus",
+    "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Realbotix will deploy a humanoid robot named Sally in a rural New York school district this fall, marking one of the first classroom deployments of such technology.",
+    "companies": [
+      "Realbotix",
+      "Salamanca City Central School District"
+    ],
+    "people": [
+      "Andrew Kiguel",
+      "Mark Beehler",
+      "Steve Wozniak"
+    ],
     "themes": [
       "humanoid",
       "physical AI",
       "education",
       "deployment"
     ],
-    "first_seen": "2026-07-23T16:24:03",
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamhZeG8tZnFNUmpmTHY1NTE1Z0Vqa1JkRmJlZ094blhlc2pKZURRRF9sckhYMFkybzJpMGl1Si0yWEdiZHVka0hseTYyaFVHb09peUI3bWtoSUg4X09zV1psb29NazNDSXlMQy1XN2dyYXJweGdHbU1MZjhidjBnNE9PcWlXU09nc1ptNNIBkgFBVV95cUxOSVNlUTRoLW1aY1BqeDBfWWVwekZfZkpXS09IMkFHTzlFVVNQdFJNOENUSy0tX2lvUjRZT2R1cHRjMGV3QkZ0ZjdMclJhZE5OWFp5WV9aRVhyRXFReEhjV1hmUWlvMU8zUzduUTJaTkh2U05iZUxHQXJVUkQwdUt6RlFnM3ZFbGxiUVhicHJleldvZw?oc=5",
+    "title": "Tesla expands Robotaxi service to Tampa",
+    "source": "FOX 13 Tampa Bay",
+    "published": "Wed, 22 Jul 2026 12:54:37 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla expanded its Robotaxi service to Tampa, adding another city to its autonomous vehicle operations.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qYjRsUGVURmtkbDl2SEllS2NjUldtWGZEU21adTVXRmp3MlBSQTJXWWtlWHI5NW4ySWtRLWl1Qy0xWm1RSlV4bWdJY0NldkZUNTVfc2VFWTJTc3hXVHRYdmdDU0hGVzEtZ0FueE9kUkNaUdIBd0FVX3lxTE9FcEpqTzFiOHlvMXVEd2JMX0ZYVndpZVEzOEdHb2ZVNmpyTHZ1SXRaWW9KTlpHeUNpVkxDVU5yTGlTbFhVNm9kd1lIOUtUUjVkUTNxbkc1cnljdVJGVVNHcUZVSXlJQ2RCZUh6TEFXSURGWVIwZ2ZF?oc=5",
+    "title": "Portugal Debuts Heavy-Lift Drone That Can Carry 200-Kilogram Payloads",
+    "source": "The Defense Post",
+    "published": "Fri, 24 Jul 2026 12:39:10 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Portuguese firm TEKEVER unveiled the AR6, a heavy-lift drone that can carry 200-kilogram payloads across 500 kilometers without relying on satellite positioning.",
+    "companies": [
+      "TEKEVER"
+    ],
+    "people": [],
+    "themes": [
+      "heavy-lift drone",
+      "payload capacity",
+      "industrial drone",
+      "Portugal"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2ZhdXA2cWpxSDdmWUhjdE1XQlVtMEM4bGhac0pkeWh1dTUzazhwWWJKLUlSbmFwYXJob2FLVm4zUnBrd0FhcTdpaVVBYUV5R2hKcTdTNVBNSzBkVmFfLThOZ0phNGZ4Q2RQM21McF8zdVcwU1F3cjNiN3NRdGJ3OG50Y1lrU3F0UzNsbkpGUEZ6a2Joc1dreW5QdUplcHIzaFFJbktUT0U4OENtVFpvUERtMklIbzBn?oc=5",
+    "title": "Mobix Labs to Acquire Vision Aerial, Expanding National Security Drone Platform",
+    "source": "citybiz",
+    "published": "Fri, 24 Jul 2026 14:54:21 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Mobix Labs is acquiring Vision Aerial to expand its national-security drone platform.",
+    "companies": [
+      "Mobix Labs",
+      "Vision Aerial"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "national security",
+      "acquisition"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmUwdFc5bFNIenJTNTBCcVJuRi1ITHgyWTRrRDJHejJWQ3VxaFBWaGFlMGdSM2JneVRBRkNmTzZ1d2tkMUV5ekoxRlFEODFkbW9RX1gyTjVmZW5nbVZOSGxXMnowWnJpWEEyYmFWZElRRTJBeXpkS0p4a2JtdllDODdnWHB2ZEw5NVEyckRUdkc0NzhkYVMzd2M5QjRHZXR6NzM1OFhn?oc=5",
+    "title": "Archer Unveils Halo, the Commercial Autonomous VTOL Built With Anduril",
+    "source": "Dronelife",
+    "published": "Thu, 23 Jul 2026 22:43:57 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Archer has unveiled Halo, a commercial autonomous VTOL aircraft developed in partnership with Anduril.",
+    "companies": [
+      "Archer",
+      "Anduril"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous VTOL",
+      "commercial drone",
+      "aviation"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUxOTGFkeU9XX3NIQWNiUmNGNlMzTGdlNVZjNXNZamR6RjRwandteDZFNUxsWEoxVzBKenRoNF9ZVC0zQWFJS1BrSkNtTmkyTHBBVGlEUjlycS1nak1haUYzbEVfWTRUakMySlZMbEVlV0FOemNnZFZxMzJfcXJ1WlRBSW1qMUxPMGFvdGtvZjdZT1lEbHJsWHdLT3I2UVpEWVNtN1JzTENFNFZQSFZsTHdZSHpMcm9tSWIzbXFVbG45R1NZelhzQw?oc=5",
+    "title": "TEKEVER unveils AR6 – new, UK-built, heavy-lift autonomous drone family at Farnborough Airshow 2026",
+    "source": "sUAS News",
+    "published": "Tue, 21 Jul 2026 14:09:10 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "TEKEVER unveiled the AR6, a new family of UK-built heavy-lift autonomous drones, at the Farnborough Airshow 2026.",
+    "companies": [
+      "TEKEVER"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "heavy-lift",
+      "commercial drone"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN194MTNCdWhHVXE3SFZ1YlB5SlB4Zkl1NEk3Y2FfamxGQ0lLNmdtazRBZmF0bTdjcW01cEZteVFIM1FISElLN3ZTcFFFNnJkdVVnY0pIbkpEWDJSQjdsVVRqZGljT1pCSkEzdEFRbmFiUExxVXNhT215RUp6ZmtLNUt1b2RiS1BVTnk1clc4YldsOXJJVTNFN3lYXzh1dnNLMFE?oc=5",
+    "title": "Autonomous drone delivery startup Manna plots major US expansion",
+    "source": "TechCrunch",
+    "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Manna, an autonomous drone delivery startup, is expanding its US operations significantly.",
+    "companies": [
+      "Manna"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous delivery",
+      "drone",
+      "expansion"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://thehumanoid.ai/introducing-kinetiq/",
+    "title": "Introducing KinetIQ",
+    "source": "Humanoid",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Humanoid introduces KinetIQ, an AI framework that orchestrates fleets of robots with different bodies—wheeled units for warehouse picking, bipedal units for service roles—through a layered agentic system that treats each machine as a tool to be coordinated from above.",
+    "companies": [
+      "Humanoid"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "fleet orchestration",
+      "multi-embodiment control",
+      "warehouse automation",
+      "service robotics"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wing.com/news/elevating-healthcare-logistics-wing-apian-nhs-south-west-london-drone-deliveries",
+    "title": "Elevating Healthcare Logistics: Wing Partners with Apian and the NHS for South West London Drone Deliveries",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing's autonomous drones have begun regular medical-sample deliveries between London hospitals, cutting ground transit times from 40 minutes to five minutes in partnership with Apian and the NHS.",
+    "companies": [
+      "Wing",
+      "Apian",
+      "South West London Pathology"
+    ],
+    "people": [
+      "Simon Brewer"
+    ],
+    "themes": [
+      "drone delivery",
+      "healthcare logistics",
+      "autonomous drones",
+      "medical transport"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wing.com/news/wing-and-walmart-seven-new-markets-drone-delivery",
+    "title": "Wing and Walmart name seven new markets for drone delivery service",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing and Walmart are expanding their drone delivery network to seven new metro areas, bringing the combined footprint to nearly 20 U.S. markets and moving toward a planned 270-location coast-to-coast system.",
+    "companies": [
+      "Wing",
+      "Walmart"
+    ],
+    "people": [
+      "Heather Rivera"
+    ],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "retail",
+      "expansion"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://skydio.com/blog/skydio-blue-uas-cleared-list-2026",
+    "title": "Skydio Blue UAS Cleared List 2026",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio's entire commercial drone lineup, including its first-responder system, won clearance for U.S. federal use on the Blue UAS Cleared List in 2026.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "first responder",
+      "regulatory approval",
+      "unmanned systems",
+      "public safety"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wayve.ai/press/wayve-nissan-robotaxi-gtc/",
+    "title": "Wayve and Nissan to Exhibit Robotaxi Prototype Vehicle Powered By NVIDIA DRIVE Hyperion for Uber Trials",
+    "source": "Wayve",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Wayve and Nissan will showcase a robotaxi prototype running NVIDIA's Hyperion hardware, signaling the company's push toward Uber deployment in real-world trials.",
+    "companies": [
+      "Wayve",
+      "Nissan",
+      "NVIDIA",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous driving",
+      "end-to-end AI"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
     "duplicate": false
@@ -5531,28 +5919,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVU1GbnFiVDFOb1ExQzBQQ1ZRZk53emlBTHBTMzFJNnRIRmQtWXAyOGxJMmswaEdCc08xbkV3RUhWZVUwLWk4c3FYclpmTlNHQTVuQTF0SkJxOHBkenZNQlBNZEt3Qk82NkluUEdtZlBkRUJjTTNHV2x5UngwaDNGUmt0T2xEU3PSAYwBQVVfeXFMUFlieHFHWkdhaG53aklSS1NPMnJxWGVEUXdjYlhkZmRwSWM4UTN1MlRiclJ3ZDNmR19vcC14UGJOU1BsX1VPT0dVTXo5N05oMnlEVjczNS03Ry1ROGNxOUh2V3pxa1g0Q0ZIMzE4R05iNGdoTWxYaWlncHBETjVNMzZuVlBrNkcwNDAxYzI?oc=5",
-    "title": "Tesla Robotaxi service now goes to SFO",
-    "source": "KRON4",
-    "published": "Wed, 22 Jul 2026 17:20:42 GMT",
-    "topic": "Driverless",
-    "category": "launch",
-    "one_line": "Tesla expanded its Robotaxi service to San Francisco International Airport, extending autonomous ride-hailing beyond its original Bay Area footprint.",
-    "companies": [
-      "Tesla"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "robotaxi",
-      "autonomous vehicles"
-    ],
-    "first_seen": "2026-07-23T16:24:03",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": false
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZll6VVZBMWs3TTNWMk5qUmcwRGlPZ0ZGaVdGNExheDZibnRZdk5rT3BieDZ1S0FYeG1XZTZSbEFKaW9yNFNwNG9ucFRZek1aLXJpVzduVUVpeDVfVEc3V3dqMGk0dm92Q1p0V0p1dlhyWjFScnNwVXNGdEMyemphM1N5cjVabF9OeWFSempwYw?oc=5",
     "title": "Aurora prepares new driverless truck rollout across US",
     "source": "Zag Daily",
@@ -5620,29 +5986,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1NkV0pQVkhiUkZObndKeVRZbUZ0Q2szdlpVT1BCcVJSNlpQek5aTkhjcm5BekhpWngxV0NZVHpGakJpbGFQdkNwZUdUWk1wZzV1bVl2bUJDQk9lV2VfOXF1MjNxREFVSHVpS09FYTRZS0dic0VRNFFtV1F2OVJCNkJXc2JnWjJOMk1rMVdRaWlWX1BZSjJfamU4dDR0UGpCZ1U4?oc=5",
-    "title": "TEKEVER expands drone portfolio with new AR6 heavy-lift autonomous platform",
-    "source": "Air Cargo Week",
-    "published": "Thu, 23 Jul 2026 11:34:37 GMT",
-    "topic": "Drones",
-    "category": "launch",
-    "one_line": "TEKEVER unveiled the AR6, a heavy-lift autonomous drone designed to handle cargo missions without human pilots.",
-    "companies": [
-      "TEKEVER"
-    ],
-    "people": [],
-    "themes": [
-      "autonomous drones",
-      "heavy-lift",
-      "cargo",
-      "commercial drones"
-    ],
-    "first_seen": "2026-07-23T16:24:03",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": false
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREI4NklYVkRjUFZjX204S0ZLUDBtQ2ZtR0Z3eF9jNXpDcjZOQW9IVHJ0MmxrcHhkVElTT0VpclVveExRSEFCZGJZTnV4Y0RmMHM0MURVNXVOdTZWZVhHSUctNm0xZE9GU1hxSFVLSk5OMFhZMmRrTUhldlZfSnl0cVA5aERKTDcxNTJiZEFmNGpMdw?oc=5",
     "title": "Police Are Deploying 60 MPH Autonomous Drones to Read Your License Plate from the Sky",
     "source": "Yahoo",
@@ -5662,32 +6005,6 @@
       "law enforcement",
       "surveillance",
       "license plate recognition"
-    ],
-    "first_seen": "2026-07-23T16:24:03",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": false
-  },
-  {
-    "url": "https://thehumanoid.ai/humanoid-brings-voice-controlled-robotic-fulfillment-powered-by-kinetiqto-life-at-nvidia-gtc/",
-    "title": "Humanoid Brings Voice-Activated Multi-Robot Collaboration Powered by KinetIQ to Life at NVIDIA GTC",
-    "source": "Humanoid",
-    "published": "",
-    "topic": "Physical AI & Humanoids",
-    "category": "launch",
-    "one_line": "Humanoid demonstrated its KinetIQ AI system coordinating multiple wheeled robots via voice commands at NVIDIA GTC, showing task allocation and real-time fleet collaboration in a simulated retail setting.",
-    "companies": [
-      "Humanoid",
-      "NVIDIA"
-    ],
-    "people": [],
-    "themes": [
-      "humanoid",
-      "physical AI",
-      "multi-robot collaboration",
-      "voice control",
-      "fleet coordination",
-      "autonomous task allocation"
     ],
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
@@ -5736,58 +6053,6 @@
     "week": "2026-W30",
     "why": null,
     "duplicate": true
-  },
-  {
-    "url": "https://wing.com/news/wing-drone-delivery-bay-area",
-    "title": "Wing's homecoming: Bringing drone delivery to the Bay Area",
-    "source": "Wing",
-    "published": "",
-    "topic": "Drones",
-    "category": "launch",
-    "one_line": "Wing, Google's drone-delivery subsidiary, is expanding its residential service to the San Francisco Bay Area after proving the concept on Google's Mountain View campus.",
-    "companies": [
-      "Wing",
-      "Google",
-      "Walmart",
-      "DoorDash"
-    ],
-    "people": [],
-    "themes": [
-      "drone delivery",
-      "last-mile logistics",
-      "residential delivery",
-      "expansion"
-    ],
-    "first_seen": "2026-07-23T16:24:03",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": false
-  },
-  {
-    "url": "https://wayve.ai/press/wayve-nissan-uber-robotaxi-collaboration/",
-    "title": "Wayve, Uber and Nissan Announce Collaboration on Robotaxis",
-    "source": "Wayve",
-    "published": "",
-    "topic": "Driverless",
-    "category": "launch",
-    "one_line": "Wayve, the London-based autonomous-driving startup, is bringing its AI driver to Uber's platform in collaboration with Nissan, marking its first commercial robotaxi deployment.",
-    "companies": [
-      "Wayve",
-      "Uber",
-      "Nissan"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "robotaxi",
-      "autonomous vehicles",
-      "end-to-end AI",
-      "commercial deployment"
-    ],
-    "first_seen": "2026-07-23T16:24:03",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZnhGQ3p1alA5ZWppWl9nR2VlcXJyVVppai1NVkN0R0dwME1kRlFwWGVTOVQ3eEpXQTk4NW1BYW9GbGtWVnVDM3B4Sy1JUXNoZTFaOVVXSGItQ2F6UFU1Y1JXVTZ1QjAxdVRab2V4dWxvWmJZWmZpa2k4T0FmbWhFWFJfUEpLTmZzUnc?oc=5",
@@ -6228,7 +6493,7 @@
     "first_seen": "2026-07-21T16:20:25",
     "week": "2026-W30",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeDVXZTNsbzA1QlVNWk14ZERVQy0xcFNhaU1IbkdyNjFnb1lyMExYTFMzYWRKbDZJblhvdFExZEdSRUE4dy1HTjNUWFprOWlWcjVWMlkyekRqYzYxdG9vT1RIMWVlNjRsNU1UZmpaWXNCSjBDLTZpVXZ1bGFBT3pxMzM5QmtITkNIbUhsaWwwSlZPeVVjRTJMWjJwVHZwVFdRSWc0cWltMy1MRG5hTjk3UlVGbUlYWDBaTzRRLWlWOWw5QlE0cWZvMV85TDZkTVkyNXJDUFlMbjF3d3ZrcFNQRDJ5WllhX0xtd3dxQi0yaw?oc=5",
@@ -6252,28 +6517,6 @@
     "week": "2026-W30",
     "why": null,
     "duplicate": false
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtTlFTSERqcHVLNmFfV2JqWlpqbzV3TnRDaUpWZ05QWFk0ZUJHaTRzMFVpX0hFbEt6OWc2OVRseDJQSzNodEtqcms5bm8waU90al9VUXhwYmVWX3k3SXNYdDNnLWZ0ZXE2LUtKOTl2NUV6ZU1m?oc=5",
-    "title": "Samsung creates RX robotics division for humanoid robots",
-    "source": "qz.com",
-    "published": "Tue, 21 Jul 2026 12:33:53 GMT",
-    "topic": "Physical AI",
-    "category": "launch",
-    "one_line": "Samsung has created a dedicated RX robotics division to develop humanoid robots, signaling a major corporate bet on embodied AI.",
-    "companies": [
-      "Samsung"
-    ],
-    "people": [],
-    "themes": [
-      "humanoid",
-      "physical AI",
-      "robotics"
-    ],
-    "first_seen": "2026-07-21T16:20:25",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWxYcnhTdFVaVU5TNTQ5UENsOHp3bDJRV3FGNGJnODhoV3JSSjA5bWpydTBXeXVLTmZyNmhkTjhtWE5pNVBtNkppdVRvbHZiWWtnbDU5a0x5ZzdxVllBV0EzMmZJaWRtYU5PRUsyMF80dVN0N0tld3hwcC1LSGJXLUNLa0Rfb0xtV0UwemhWVVNFYWx0TVNkc0JXM0ZiRWxNY1EwVFBiRnVaWkJlZzRqNzFUZnlNZTZkUzNDX3daeUwtZk4xaGM5bkg0MDFTQQ?oc=5",
@@ -6393,29 +6636,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVm5jZG5rOXlISW1lYm5fS3lPRXNRLWZxWnBOc21GVXk2ZnZGa2ZudDVkQXBLc1FiMDNJMGhocWNNU09iLXpyNExEcENmaURZZ283OFVNWGFEVGh4VC1Da0hCY1NjSXJyOEdxOXlSeGFrQmlZZ0VDMUJaMVVRT1hrS0F3LVNnU0pRdnU3SnFsTmdmTXVpQzdDQ3VfLVlqai0xejdfSVdmRnI0bnR6OUc0ZHFDS1d1QWhi?oc=5",
-    "title": "Thunderstruck: Anduril unveils autonomous attack rotorcraft",
-    "source": "Defense News",
-    "published": "Mon, 20 Jul 2026 14:01:14 GMT",
-    "topic": "Drones",
-    "category": "launch",
-    "one_line": "Anduril has unveiled Thunderstruck, an autonomous attack rotorcraft designed for military operations.",
-    "companies": [
-      "Anduril"
-    ],
-    "people": [],
-    "themes": [
-      "autonomous drones",
-      "attack rotorcraft",
-      "military",
-      "defense"
-    ],
-    "first_seen": "2026-07-21T16:20:25",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": true
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcTJ4bVRmUHhGOGh4LWtDNEFncExxWnctVVI5MkswT0RVblJkc2RKWlJ4eVdpaDdKZXpxS0ZxTG5TSlVzUndPVDQwMG9qc0dUTk9WSnhKMkV0aW5YQlZidW9fZkZjUTZEa1lfUFVkMkotOUx1Ri1TRnhsRHFlWFdGRHhhMEs0STFwVElWU3QzeVA3Zw?oc=5",
     "title": "Archer Stock Soars on Autonomous Defense Drone With Anduril",
     "source": "Briefs Finance",
@@ -6436,7 +6656,7 @@
     "first_seen": "2026-07-21T16:20:25",
     "week": "2026-W30",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://thehumanoid.ai/humanoid-secures-partnership-with-bosch-following-a-successful-poc/",
@@ -6843,29 +7063,6 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1lHcF9nNGxNMEl3d0JWRzZjOU0wbXhsd1hST2U4UVByUHZ2bXBVc0NuZFQtazBaT2NlOW1UYzRxaVRBcnBpZzdqeEhLUWZxOUpHS19lRFNYdjBuOVFUR01qak9FZHZfakRQS3NyVnczeVhlZmdEaWVTd2UwLURPOTdJUWdhdDNqLTV3NlN0MVVzRDN5bTJLcm51aF85WmZsZ1pwaERUZlVxOVJ6VTBsbkREVlY3dnN5dlgwTGtn?oc=5",
-    "title": "Autonomous drone delivery companies Manna, Matternet expand US operations",
-    "source": "Unmanned airspace",
-    "published": "Wed, 15 Jul 2026 14:21:16 GMT",
-    "topic": "Drones",
-    "category": "launch",
-    "one_line": "Drone delivery companies Manna and Matternet are expanding their autonomous operations across the U.S.",
-    "companies": [
-      "Manna",
-      "Matternet"
-    ],
-    "people": [],
-    "themes": [
-      "drone delivery",
-      "autonomous",
-      "expansion"
-    ],
-    "first_seen": "2026-07-20T16:21:55",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": false
-  },
-  {
     "url": "https://figure.ai/news/helix-02",
     "title": "Introducing Helix 02: Full-Body Autonomy",
     "source": "Figure",
@@ -6962,7 +7159,7 @@
     "first_seen": "2026-07-20T16:21:55",
     "week": "2026-W30",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://figure.ai/news/production-at-bmw",
@@ -7089,26 +7286,56 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ1VROGdUb3BVVkdrUkVleU50TkhNY0dpMDlNSV9CTENBZ2hPOG5zQVJXcFJld2xZaExLbG5PMmFGMDFRMXpzakJERnlhaC1iRnF2bGQ0V2o2NXFFR2h5TGd0U2syUk1xRUJMbFpJMklxcnQ3NW9aZHc3Qjg1RC15a2hpcVdpMEp3cjlpckZKQlc3bEltd0lZVlhnUk9TZEh5VzA2RDBLNEcySjUzSTg2bXYwMHNhM2xTaGFVcVMwbV9uWmIwNVdSNlhnTnFfV2Fq?oc=5",
-    "title": "Humanoid Raises $152 Million At $1.35 Billion Valuation: Europe’s Newest Robot Unicorn",
-    "source": "Forbes",
-    "published": "Tue, 21 Jul 2026 12:00:00 GMT",
-    "topic": "Physical AI",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnpvYVpPd3JWZFVObjZVejh2dzF5blBMZVc4aC1rc3RETGNNODEwWDZ3dkFpakRIV253eE1UY1BQMklVQ21qX0FqMzJ4TlVzXzJpS0JlMktxd0VyR1gzRk41emdyQnFURGZMaDIxOG56bVBCUGd3YWxlNmJ4NFJTcThwcmpNU0hKUE9fYWZTMHBjTEF6X0FVdHdFS1BGd1NsX09pVkg0U1BiTFg1eTNMQ1hSYUFaYThlcnIw?oc=5",
+    "title": "Japanese Leasing Group Marubeni Backs Archer's Halo Utility Drone",
+    "source": "Aviation International News",
+    "published": "Wed, 22 Jul 2026 16:08:15 GMT",
+    "topic": "Drones",
     "category": "funding",
-    "one_line": "Humanoid, a European robotics startup, raised $152 million in a funding round that values the company at $1.35 billion, joining the ranks of billion-dollar robot makers.",
+    "one_line": "Marubeni, a major Japanese leasing company, is backing Archer's Halo utility drone, betting on electric vertical-takeoff aircraft for commercial work.",
     "companies": [
-      "Humanoid"
+      "Archer",
+      "Marubeni"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "electric vertical-takeoff",
+      "utility drone",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://thehumanoid.ai/humanoid-raises-152-million-at-1-35-billion-post-money-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn/",
+    "title": "Humanoid Raises $152 Million at $1.35 Billion Post-Money Valuation, Becoming Europe's First Pure-Play Humanoid Robotics Unicorn",
+    "source": "Humanoid",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "funding",
+    "one_line": "Humanoid, a UK robotics startup, raised $152 million at a $1.35 billion valuation to become Europe's first pure-play humanoid unicorn and accelerate deployments of its industrial robots.",
+    "companies": [
+      "Humanoid",
+      "Prime Movers Lab",
+      "Schaeffler",
+      "Bosch",
+      "Fubon Financial Holding",
+      "Aglaé Ventures"
     ],
     "people": [],
     "themes": [
       "humanoid",
-      "robotics",
-      "physical AI"
+      "physical AI",
+      "industrial robotics",
+      "funding"
     ],
-    "first_seen": "2026-07-23T16:24:03",
+    "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnBwajFmTzZhdjd2bmlnNTRnb1RNR3RTc25TRjJJTFh0b0ZEZ19BSmg4R2FqVlJ5WC1INEdYLXM0cG5vaVpDaXdVa3N5ZmJwcTg1ZGRYYmhISUdsM2pFbWoyZWV1dFZhZnJZR1pRenNYYXhEb1djSnBqTTJBM3pQMW54Umxydzc5bXotQnNydzU0LWhtSWVFcDdGYmxRNVdxbTRzTmpn?oc=5",
@@ -7207,75 +7434,48 @@
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNm5uZi1FcUF5MV9zX3paZFFUbEJaMWZVUk1HMTdRZEhIaEgtczNXdVVqeG1Bck53aURNVHBtdHhReEJoQlVyLThqekhmcmlXZzhxM3h4Rmw5ZG5aQVJ0c3hqb3NOcUZDOHd0OURmRlViY2dDTFQ5OGpHeXI2bTBTdm1hcWhfTUdqMXB4YndjdlhISUZKelBGbUZra3VQeW5PaWx3ajlLbWJXcENWN29TNThsUXVSZw?oc=5",
-    "title": "Surgical First: Humanoid robots perform gallbladder surgery in living animals",
-    "source": "The Brighter Side of News",
-    "published": "Thu, 23 Jul 2026 11:51:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVgyaW9QcXRtZTVaS0YxRXhoN05peE5YbTR5eDRvNExfakIwMjlfRVl3NFhESnpQRFBNSnFfSjlLTHV5S3dYelgtNVVIWlVqT2J3NXlKRDAybzNIQ25HN2JVY0hnYldJVy1JZzJESHhmY1k5TGNjaXBhYXhqNFZBalV3LW16cGRTM216QkpHRzhBck5VSXV6Unk3YlcxSURNQ2lmS1RIc0FyV0tlRmVjTFd1alIyQi1fYV9HU3lydjNiYUdLWVpGSXdOQ0dldlRV?oc=5",
+    "title": "First Humanoid Robot Surgeries Have Been Performed On Live Animals – Why It Could Make Spaceflight Safer",
+    "source": "IFLScience",
+    "published": "Fri, 24 Jul 2026 11:46:09 GMT",
     "topic": "Physical AI",
     "category": "research",
-    "one_line": "UC San Diego researchers used teleoperated humanoid robots to perform gallbladder-removal surgeries in pigs, testing whether compact machines could eventually replace expensive surgical systems.",
-    "companies": [
-      "UC San Diego"
-    ],
-    "people": [
-      "Shanglei Liu",
-      "Ryan Broderick"
-    ],
+    "one_line": "A humanoid robot has performed surgery on live animals, a milestone that researchers say could enable autonomous surgical capability for deep-space missions.",
+    "companies": [],
+    "people": [],
     "themes": [
       "humanoid",
       "physical AI",
-      "surgical robotics",
-      "animal testing"
+      "surgery",
+      "autonomous systems",
+      "space applications"
     ],
-    "first_seen": "2026-07-23T16:24:03",
+    "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
     "duplicate": false
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT1ZxSW9sbHlPQlJZRzdaaUlkZENwcXlXOGZ6MFM3Y19QSUZ1V0ZLWEx0QkFPZjFnNmpuUUpKT3hGWU1temI0dG5OZjRYRDRRdTZzWWhnNE1UUTRsREFvanB5ZlJSNTJ6SnpHV0hscE8zNWdzZ0t6Mld6THpSSmlsMnU3Z2RwdW95N2tuamo5Q1ZhRXlKWkJSTGkwT0FSSVF4a1o4X3piZ01XeUpvbTN6bjIyYl81MGpP?oc=5",
-    "title": "Waymo robotaxis had 68% lower crash rate than human drivers, IIHS study finds",
-    "source": "WUSA9",
-    "published": "Thu, 23 Jul 2026 04:00:00 GMT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSU1LRDhwMkxSWW5nTmp6eWVpbjlCQXJZcFZMdDg3MEp3UW9hRG5jXzZaZFJQUU04UzBiLU1kaGpPaTNYd0NfR1B2eVE4cFRQNzB0clh6dmw0Y1VVNXRwMC15OFJpeFpwZDhQV0ZhUmQ0WElZUGdzdi1HSHpDQVZuVi1TY0UyeWVzTl9QcFFIWUxJaGZnTjBlR3lMajU1eE9TRWZF?oc=5",
+    "title": "Report: Waymo Surpasses The Way-Too-Low Human Driver Safety Bar",
+    "source": "Streetsblog USA",
+    "published": "Fri, 24 Jul 2026 04:03:00 GMT",
     "topic": "Driverless",
     "category": "research",
-    "one_line": "An Insurance Institute for Highway Safety study found that Waymo robotaxis crash at a rate 68% lower than human drivers.",
-    "companies": [
-      "Waymo",
-      "Insurance Institute for Highway Safety"
-    ],
-    "people": [],
-    "themes": [
-      "driverless",
-      "safety",
-      "autonomous vehicles"
-    ],
-    "first_seen": "2026-07-23T16:24:03",
-    "week": "2026-W30",
-    "why": null,
-    "duplicate": false
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWEyOXQ5OHVHMEJwVWhrNXMtclVtMEh2OGc2RVBsLVByTzB1YUtqNE5RYkktXzdfVTJQUjVOdGZIMkJXd3hzeFRpbDdneHg3SEhmWjRKSE42amRFQktEWTRhZFpSUzVRaW52X0txQVZMbWVpUk5aT0JCUUhyQzJyN1dxeDgtTTJWZmo5eUp0RTcyRi14ZjhkZEV6clBIZzQwTFE?oc=5",
-    "title": "Waymo cars involved in 68% fewer crashes",
-    "source": "News4JAX",
-    "published": "Thu, 23 Jul 2026 15:42:47 GMT",
-    "topic": "Driverless",
-    "category": "research",
-    "one_line": "Waymo's autonomous vehicles are involved in 68% fewer crashes than human drivers, according to new safety data.",
+    "one_line": "Waymo released safety data showing its driverless vehicles outperform human drivers on key collision metrics.",
     "companies": [
       "Waymo"
     ],
     "people": [],
     "themes": [
       "driverless",
-      "safety",
-      "autonomous vehicles"
+      "autonomous vehicles",
+      "safety"
     ],
-    "first_seen": "2026-07-23T16:24:03",
+    "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZDRTSWZZUXFpdTdmWUFyQ1Mtc3VyZkRUck9UWDZYejZKaGkwSVNCYjFDQXZpRkdXNTAyNzJHaUxjcmJTOGtfeEpmQVY1VDBwMWNWaU1aVWo0cEpYT0UwdlNqX0JsODhIMk5UY3BFcm9WUU9ISEhNaTZyeUFZWTZCTkJ4QVVScl9iTXFaM2Z6X05PSDBRbTByMVNQcTZfQmNwNU44dkd4TXIzai16UTdZTWdvbTgwbUhFTWFoZXcwa1V5U0lwMDhvMm9LR0ZxUTVRMmJLM25DdmRaQQ?oc=5",
@@ -7406,6 +7606,159 @@
       "inference optimization"
     ],
     "first_seen": "2026-07-20T16:21:55",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUY0MHF5VV81TTNybXRNTnN2ZU96U1F6X2RMNlJaVjZreG4xck9oNUNPVXlubU9vVUhfNG4wSlpPLUVXRDg4S0hlZGR0STBndmVVRUZWNFdCNmFVQ1JBUDJOaTc5emI2SWdGT0w1ZmlyNndGbzRLa005LTY3V1dJdXVIRHVnZUdwNnFiRUdrQUhNSzhYZ2FqeQ?oc=5",
+    "title": "Elon Musk says Optimus could be Tesla's biggest product ever. It still has 3 huge hurdles.",
+    "source": "Business Insider",
+    "published": "Fri, 24 Jul 2026 09:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Elon Musk claims Tesla's Optimus humanoid robot could become the company's most valuable product, though a Business Insider analysis flags three major obstacles to commercialization.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSTJGOXlCY19ERE4wTkpaWnNTWkdHMjlsaFU3TEhuRVk2em5oZ0JkTE1xSlFPSXRNYTdlLTRZUjVEV2FtOExScGo2ekYwUkNHZzFneXlLZ2dELXNuOEFzRWNzMU5NdUh1MEJKNGtYYm5SSHdmOTB4OVFaTUhnVmRwcGM1T3hHbVhxY0pydkZJTWhhckNBRnpTZDNBMkxRbUlwTTFnR0I2cFFySVhZMmxnTGlNZWRMdGd0WDFBckpKOGo5eEx1eHduWldoSGdsRXdvS3pUeHRFM0xpdmk0QjdxUmRCdTdTdzU4MFlMQVVqYzA3R2Y0djFrWUplMklvNm9CQVBhSTVFN2xmTndONnp4TzhhVjR3Y3p5U2hmRjBxOVUteVNzM1E?oc=5",
+    "title": "Mark Cuban Predicts Humanoid Robots Will Flop on 'Latency, Processing Power, Dexterity,' and Specialized",
+    "source": "Benzinga",
+    "published": "Fri, 24 Jul 2026 10:29:48 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Mark Cuban argues humanoid robots will fail due to latency and processing limits, while specialized robots optimized for specific tasks will dominate homes and workplaces.",
+    "companies": [
+      "Tesla",
+      "NVIDIA",
+      "Samsung"
+    ],
+    "people": [
+      "Mark Cuban",
+      "Elon Musk",
+      "John Kakaley"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "latency",
+      "processing power"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2RBNEg2ekdORS1MRVRKZktfdTlqV08zYTV3eWl4Z0I1dko1dF9ZaTN5TEhJeGZla0lzdlJxYnZUYm9BWE9OeDlZemV1d2M2a05lZVFMMmpNUTBQbkVrNUk3OEhuMm1kZEo2cVFvMi1WTkV5WFBYMm5VZi1hQ3NTcjZCQUdtVmdMbjRpUkJxbEY3THVZN0c2eENtOVRBWjQwb0tMUUtkaw?oc=5",
+    "title": "New Restrictions on Advertising Self-Driving Vehicles in the UK",
+    "source": "Morgan Lewis",
+    "published": "Fri, 24 Jul 2026 14:13:57 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The UK government will ban eight terms like 'self-driving' and 'autonomous' from vehicle advertising starting January 2027, unless vehicles are officially authorized.",
+    "companies": [],
+    "people": [
+      "Simon Lightwood"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "advertising"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Md0RBSXdjbUd6ZFY1Y3N6V0xycS1QZVNnV2VwbjI4TW8xOUswWllnZ2NyMjhWZWgxZ1VscU1TaUNzMWhfQW9SNnFvRFhsNWxyeFQ5UnZPdVZWVUV5ZDBQbkpnZ2pwai1HS0dMTEd4UHJaS2NuM1gtM2tydw?oc=5",
+    "title": "Waymo Lead Over Tesla Jumps",
+    "source": "24/7 Wall St.",
+    "published": "Fri, 24 Jul 2026 15:38:09 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "24/7 Wall St. assesses Waymo's competitive position against Tesla in autonomous driving, though the article lacks new concrete developments.",
+    "companies": [
+      "Waymo",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "competition"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTBCVXhwaXJKQ1B1MFl1RlFHaXBFU3MwblJEbmZjZHVFS20tUUpTMXY4azlMX0g3WWJ0QzNfdGJrTC02djVyVmlEdVMwMzFZQ3E1Q2RPS3BTenFDSTRYVGFIZHdUMnU5bjZ1OHBZZnV1VGF5d3JYejh4QlBoOWJJQm1vS21uTDhid2NKZzBfRDNmOXFucU9oaC1rTElneThSdkI1U0U5bXdlbUR3Rm5OUHk4WHhZbi1ubWhjODZNWmxGVDRnWGIxX1Jn?oc=5",
+    "title": "Autonomous Police Drones Reach 1,000 Agencies With No Federal Privacy Floor in Sight",
+    "source": "Tech Times",
+    "published": "Fri, 24 Jul 2026 10:14:57 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Over 1,000 U.S. police agencies now deploy autonomous drones with thermal cameras and license-plate readers—and none require a warrant before launching.",
+    "companies": [
+      "Axon",
+      "Electronic Frontier Foundation",
+      "Federal Aviation Administration",
+      "Flock Safety",
+      "Aerodome",
+      "Chula Vista Police Department",
+      "NYPD",
+      "Brookhaven Police Department",
+      "San Mateo Police Department"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "law enforcement",
+      "privacy",
+      "regulation"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVpRVE9zUjc3b0RFam90eVF1NUxMVWdZVkFrSFh0aE1vSkpacEEwS3k3SFIxRTZKU29MYmYxUTNsTFN2a1VjYXZBeWVJbXlvX1M0ek5Iakx5QzE4Rm1iWDRCSFhzRmFhN1B6cGdoejBjVFZKSnlhMXMtV0xpVXZkZGdPU3NwZ0NrbWc?oc=5",
+    "title": "Australia is flying blind on Chinese drone data",
+    "source": "The Strategist | ASPI's analysis and commentary site",
+    "published": "Fri, 24 Jul 2026 05:10:37 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Australia faces unknown risks from Chinese drone data collection, according to ASPI analysis, with no clear government visibility into what information is being gathered.",
+    "companies": [
+      "ASPI"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "data security",
+      "China",
+      "geopolitics"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
     "duplicate": false
@@ -7740,7 +8093,7 @@
     "published": "Mon, 20 Jul 2026 14:45:34 GMT",
     "topic": "Physical AI",
     "category": "opinion",
-    "one_line": "An emerging robotics company explores whether humanoid robots could someday handle dangerous military tasks like breaching doors and firing mortars.",
+    "one_line": "A robotics startup explores whether humanoid robots could perform hazardous military tasks like breaching doors and firing mortars.",
     "companies": [],
     "people": [],
     "themes": [
@@ -7772,6 +8125,136 @@
       "regulatory"
     ],
     "first_seen": "2026-07-20T16:21:55",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0R3MmZvQm9Zdk1uVXVnZmI1SjhCNzJVbTdVamdMaHhtbkd3bmwyVFF1OGt2SEtFbGZ1VmpmbTFZdlV1RzIxVmJWM3I1V1ZETVpvQ0ExWVBkbnJjeUpMNUpwQk96RHk3c3VRcE4tbHZGV3VRM29kZ3NFS2llOGtjWGpwa2stMU4y?oc=5",
+    "title": "US moves to ban 'Made in China' humanoid robots from military use",
+    "source": "Interesting Engineering",
+    "published": "Fri, 24 Jul 2026 13:56:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Congress bars the Pentagon from buying Chinese humanoid robots, targeting Unitree and AgiBot as Beijing dominates the global robotics market.",
+    "companies": [
+      "Unitree Robotics",
+      "AgiBot",
+      "Figure AI",
+      "Agility Robotics",
+      "Tesla"
+    ],
+    "people": [
+      "John Moolenaar"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military",
+      "geopolitics"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeW5va3g1WDRIeldBVlp0RjZaT3VEeDZCZnVDWFBmZmNsRVluNzJXYk50cEtucFY4VVo4TURieDNhUl9uWXRCdkQxV0RsT29hMTJGcmQ1OGQ0b0J0SWNjYU9RRGFzdHNscGdKMTNGMlpWQWFQUGxSV0hFUk9iQTNibFJGbmJLVWpqV1hRaDlpM3pFRVRpR0lvTlo5ZU1zbndnTHFLaWFIaw?oc=5",
+    "title": "Kewazo joins wave of robotics companies advancing 'physical AI' in Houston",
+    "source": "The Business Journals",
+    "published": "Fri, 24 Jul 2026 09:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Kewazo is among several robotics startups clustered in Houston pursuing physical AI, a growing regional specialization.",
+    "companies": [
+      "Kewazo"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "Houston"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVFaWkFSVVdXX0x2ZWlzbzljMDFQTDlOUmJjeFdUeUlHakZwdXVQUm5RMDdBelBESXZSSjc3c1lKOWtidjFOVlU0WUQ5ZDFWTjJua0NURzNTSkhhZGt1enB4ZDZvbTJrRnlLV28wYklJRS04c2lsSWlmdG9OVDA5NXVEczFGQXQ4dEJDZTNpck84Wk9sMUhINHJvRzNhUWliOXVIbUlkNk54WTA?oc=5",
+    "title": "This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around.",
+    "source": "Business Insider",
+    "published": "Fri, 24 Jul 2026 08:11:37 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Fremont is emerging as a robotics hub where Agility Robotics and competitors like Tesla and DoorDash build humanoid and delivery robots in sprawling factory spaces.",
+    "companies": [
+      "Agility Robotics",
+      "Tesla",
+      "Meta",
+      "Zoox",
+      "Pony.ai",
+      "DoorDash",
+      "Sonic Manufacturing",
+      "Anyware Robotics"
+    ],
+    "people": [
+      "Jonathan Hurst",
+      "Raj Salwan",
+      "Torsten Schreiber"
+    ],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "regional clustering"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnl3VHNCQ010R3N5R1BaVjVOOW5wQ09NQ0k1ODEyYjdoLUlub2pUa2o0eTlqUVNHdnpDajJEUWlpaFlKM016aVRma1A4S3NaaWcyc0VVa1UxcjRPVXpCTkZiOGMyeWd2dkFDcFE1Z0V2UmttV2JfQ1FGcjMtc3FQX3Z2LVZ0d3JmNnNPODRDRzFVOW1jM3VJbmJ4WUZmYTROb2xBYUlXTlFVT1hySHhTMDNHRnBBSEk0a19HY1ptRTNMMGN6RGc?oc=5",
+    "title": "Inside 'Robot Park': The 90,000 Sq Ft Factory Where Humanoid Robots Go To Learn Real Jobs",
+    "source": "Interesting Engineering",
+    "published": "Fri, 24 Jul 2026 10:41:31 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A 90,000-square-foot facility is training humanoid robots to perform real manufacturing jobs, marking a concrete step toward practical deployment of physical AI in industrial settings.",
+    "companies": [
+      "Robot Park"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robot training",
+      "factory automation"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
+    "week": "2026-W30",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXJLNjVnR2E2aGxnZk56WUpNQ1laNlhFUUtEQl8yaFpiYXYzVVA3bzlGZWZpRmZxbXpGRlNGUTltbVE3NmsxaGFPNkNSNFRDTDJYanNPM0tsb2dYeHR5c0RjRUU3dk9iMzlYeThmS0laT3lZRUc3Mm1JZWZ4c3A3SlVwb2Y0V0x0SjZhYkI5ampmUlczOENIWDBYUzM2ZTR4VWNjR2hpeXg0a1BQbVc5WC1uZjRHNTBuelNiSDJUc3dsQTBmWmc?oc=5",
+    "title": "USPTO Selects small TX drone dock company as a Featured Innovator for America’s Next 250 Years",
+    "source": "sUAS News",
+    "published": "Thu, 23 Jul 2026 19:17:53 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The U.S. Patent and Trademark Office named an unnamed Texas drone-dock company a Featured Innovator, a recognition that carries prestige but no funding or contract.",
+    "companies": [
+      "USPTO"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "drone infrastructure",
+      "innovation recognition"
+    ],
+    "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
     "duplicate": false
