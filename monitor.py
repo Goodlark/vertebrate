@@ -176,8 +176,8 @@ def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "dat
     mentions = store.load_mentions(mentions_path)
     weeks = store.load_weeks(weeks_path)
 
-    # De-duplicate across the whole archive at once, keeping the earliest of each event.
-    dropped = dedup.mark_duplicates(client, mentions)
+    # Manual clean: recompute over the whole archive (daily runs use the 7-day window).
+    dropped = dedup.mark_duplicates(client, mentions, window_days=None)
 
     enriched = 0
     if enrich:

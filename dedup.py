@@ -158,31 +158,36 @@ def _recent_cutoff(mentions: list, days: int) -> str:
 
 
 def mark_duplicates(client, mentions: list, model: str = CLASSIFY_MODEL,
-                    llm_window_days: int = 10) -> int:
-    """Flag same-event duplicates across ALL stored stories, keeping the earliest of
-    each event so the same news never reappears on a later day. Two passes:
-    (1) a conservative textual pass over everything, then (2) a semantic LLM pass that
-    clusters recent stories sharing a distinctive company/person. Fresh each call."""
-    for m in mentions:
-        m.duplicate = False
+                    window_days: int = 7) -> int:
+    """Flag same-event duplicates within the last `window_days` (or everything when
+    window_days is None), keeping the EARLIEST of each event so the same news never
+    reappears on a later day. Only in-window flags are recomputed, so stories that
+    already aged out keep the dedup they got — and the run stays fast as the archive
+    grows. Two passes: a conservative textual pass, then a semantic LLM pass over
+    stories sharing a distinctive company/person."""
     if len(mentions) < 2:
+        return 0
+    cutoff = _recent_cutoff(mentions, window_days) if window_days else ""
+    window = [m for m in mentions if (m.first_seen or "")[:10] >= cutoff]
+    for m in window:
+        m.duplicate = False
+    if len(window) < 2:
         return 0
     dropped = 0
 
     # (1) Textual pass, earliest-first: a later story that clearly repeats an earlier
     # one (same event, similar headline) is flagged; the earlier one is kept.
     kept = []
-    for m in sorted(mentions, key=_keep_key):
+    for m in sorted(window, key=_keep_key):
         if any(store._is_duplicate(m, k) for k in kept):
             m.duplicate = True
             dropped += 1
         else:
             kept.append(m)
 
-    # (2) Semantic pass over recent, still-kept stories: group by a distinctive shared
-    # entity (small groups → reliable), then let the model merge same-event stories.
-    cutoff = _recent_cutoff(mentions, llm_window_days)
-    survivors = [m for m in mentions if not m.duplicate and (m.first_seen or "")[:10] >= cutoff]
+    # (2) Semantic pass over still-kept stories: group by a distinctive shared entity
+    # (small groups → reliable), then let the model merge same-event stories.
+    survivors = [m for m in window if not m.duplicate]
     for group in _entity_groups(survivors):
         if len(group) < 2:
             continue
