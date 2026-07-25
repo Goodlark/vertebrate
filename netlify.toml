@@ -1,0 +1,31 @@
+# Netlify config. The site is pre-built into docs/ by the daily GitHub Action,
+# so there's no build step — Netlify just serves docs/ and re-deploys on each push.
+[build]
+  publish = "docs"
+
+# Always make browsers revalidate the HTML (and the feed) so readers never see
+# stale news. Static assets that rarely change can still be cached for a week.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/feed.xml"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/style.css"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/og.png"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/favicon.svg"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
