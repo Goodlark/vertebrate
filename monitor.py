@@ -79,18 +79,18 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
                 first_seen=now.isoformat(timespec="seconds"), week=store.iso_week(now)))
             added += 1
 
-    # Collapse same-story duplicates within this week (other weeks left intact):
-    # first the cheap title-overlap pass, then the semantic same-event pass.
-    cur = store.iso_week(now)
-    this_week = store.dedupe_stories(sitegen.rank_mentions([m for m in mentions if m.week == cur]))
-    dedup.mark_duplicates(client, this_week)
-    # Fill in the company/people/fact from the real article for anything the
-    # headline+snippet didn't name (the reader needs the players up front).
-    _fill_from_sources(client, [m for m in this_week if not m.duplicate], only_missing=True)
-    mentions = [m for m in mentions if m.week != cur] + this_week
+    # Fill missing company/people/fact from the real article first (better signal for
+    # dedup), then de-duplicate across ALL stored stories — keeping the earliest of each
+    # event, so the same news never resurfaces on a later day.
+    today = now.isoformat(timespec="seconds")[:10]
+    _fill_from_sources(
+        client, [m for m in mentions if (m.first_seen or "")[:10] == today and not m.companies],
+        only_missing=True)
+    dedup.mark_duplicates(client, mentions)
     store.save_mentions(mentions, mentions_path)
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
-    summary = {"fetched": fetched, "relevant": relevant, "added": added, "stored": len(mentions)}
+    live = sum(1 for m in mentions if not m.duplicate)
+    summary = {"fetched": fetched, "relevant": relevant, "added": added, "stored": live}
     log.info("Daily run — fetched %(fetched)d new / relevant %(relevant)d / added %(added)d "
              "/ stored %(stored)d", summary)
     return summary
@@ -176,9 +176,8 @@ def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "dat
     mentions = store.load_mentions(mentions_path)
     weeks = store.load_weeks(weeks_path)
 
-    dropped = 0
-    for wk in sorted({m.week for m in mentions if m.week}):
-        dropped += dedup.mark_duplicates(client, [m for m in mentions if m.week == wk])
+    # De-duplicate across the whole archive at once, keeping the earliest of each event.
+    dropped = dedup.mark_duplicates(client, mentions)
 
     enriched = 0
     if enrich:
@@ -266,10 +265,8 @@ def run_backfill(now: datetime, week: str, topics: list, client, out_dir: str = 
                 first_seen=seen_stamp, week=week))
             added += 1
 
-    # Collapse duplicates within the backfilled week only (title pass + same-event pass).
-    this_week = store.dedupe_stories(sitegen.rank_mentions([m for m in mentions if m.week == week]))
-    dedup.mark_duplicates(client, this_week)
-    mentions = [m for m in mentions if m.week != week] + this_week
+    # De-duplicate across all stored stories (keep the earliest of each event).
+    dedup.mark_duplicates(client, mentions)
     store.save_mentions(mentions, mentions_path)
     log.info("Backfill %s — added %d stories", week, added)
     return run_weekly(now, week, client, out_dir=out_dir, data_dir=data_dir)

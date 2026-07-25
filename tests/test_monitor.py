@@ -110,8 +110,8 @@ def test_run_daily_dedupes_same_story_from_two_outlets(tmp_path):
         summary = monitor.run_daily(datetime(2026, 7, 15), topics, client,
                                     out_dir=str(tmp_path / "docs"), data_dir=str(tmp_path / "data"), company_list=[])
     stored = store.load_mentions(str(tmp_path / "data" / "mentions.json"))
-    assert len(stored) == 1                 # two outlets, one story
-    assert summary["stored"] == 1
+    assert sum(1 for m in stored if not m.duplicate) == 1   # two outlets, one shown
+    assert summary["stored"] == 1                           # "stored" counts what's visible
 
 
 def test_run_daily_keeps_company_news_drops_essays(tmp_path):

@@ -2,23 +2,34 @@ from __future__ import annotations
 
 import logging
 import re
+from datetime import date, timedelta
 from typing import List
 
 from pydantic import BaseModel
 
+import store
 from config import CLASSIFY_MODEL
-from sitegen import rank_mentions
 
 log = logging.getLogger("pressmonitor.dedup")
 
-# Generic words that don't identify a specific company, so they must not group two
-# unrelated firms together (e.g. "Agility Robotics" and "Field Robotics" via "robotics").
+# Words that don't identify a specific organization, so they must not group two
+# unrelated entities into one big blob. Excludes corporate suffixes AND common
+# geographic / institutional words (e.g. "Korea Advanced Institute of Science and
+# Technology" should link on a distinctive token or a person's name, not on "korea").
 GENERIC_ENTITY_TOKENS = {
-    "robotics", "robotic", "ventures", "technologies", "technology", "inc", "corp", "llc",
-    "ltd", "systems", "labs", "lab", "company", "group", "holdings", "motors", "motor",
-    "aviation", "dynamics", "intelligence", "ai", "the", "global", "industries",
-    "international", "aerospace", "defense", "capital", "partners", "automation",
-    "mobility", "auto", "tech", "co", "and",
+    # corporate / descriptive
+    "robotics", "robotic", "ventures", "venture", "technologies", "technology", "inc",
+    "corp", "corporation", "llc", "ltd", "systems", "system", "labs", "lab", "company",
+    "group", "holdings", "motors", "motor", "aviation", "dynamics", "intelligence", "ai",
+    "the", "global", "industries", "industry", "international", "aerospace", "capital",
+    "partners", "automation", "mobility", "auto", "tech", "co", "and", "solutions",
+    # geographic / institutional / governmental
+    "korea", "korean", "china", "chinese", "japan", "japanese", "usa", "american",
+    "america", "european", "europe", "national", "state", "federal", "navy", "army",
+    "air", "force", "marine", "defense", "defence", "military", "university", "college",
+    "institute", "science", "sciences", "school", "department", "agency", "administration",
+    "development", "republic", "ministry", "city", "county", "new", "york", "first",
+    "world", "us", "uk", "german", "germany", "french", "france",
 }
 
 # Same-event de-duplication. Title-word overlap can't tell that "Waymo comes to
@@ -126,24 +137,62 @@ def _entity_groups(mentions: list) -> list:
     return list(groups.values())
 
 
-def mark_duplicates(client, week_mentions: list, model: str = CLASSIFY_MODEL) -> int:
-    """Mark same-event duplicates. Stories are first grouped by shared company/person,
-    then the event clustering runs within each group (small + reliable at scale).
-    The best of each event cluster is kept; the rest are flagged. Fresh each call."""
-    for m in week_mentions:
+_CAT_RANK = {"launch": 5, "funding": 4, "research": 3, "opinion": 2, "other": 1}
+
+
+def _keep_key(m):
+    """Sort key that keeps the EARLIEST day (so old news never resurfaces later), and
+    within a day the most important / most complete story as the representative."""
+    return ((m.first_seen or "")[:10], -_CAT_RANK.get(m.category, 0), -len(m.one_line or ""))
+
+
+def _recent_cutoff(mentions: list, days: int) -> str:
+    dates = [(m.first_seen or "")[:10] for m in mentions if m.first_seen]
+    if not dates:
+        return ""
+    try:
+        y, mo, d = map(int, max(dates).split("-"))
+        return (date(y, mo, d) - timedelta(days=days)).isoformat()
+    except ValueError:
+        return ""
+
+
+def mark_duplicates(client, mentions: list, model: str = CLASSIFY_MODEL,
+                    llm_window_days: int = 10) -> int:
+    """Flag same-event duplicates across ALL stored stories, keeping the earliest of
+    each event so the same news never reappears on a later day. Two passes:
+    (1) a conservative textual pass over everything, then (2) a semantic LLM pass that
+    clusters recent stories sharing a distinctive company/person. Fresh each call."""
+    for m in mentions:
         m.duplicate = False
-    if len(week_mentions) < 2:
+    if len(mentions) < 2:
         return 0
     dropped = 0
-    for group in _entity_groups(week_mentions):
+
+    # (1) Textual pass, earliest-first: a later story that clearly repeats an earlier
+    # one (same event, similar headline) is flagged; the earlier one is kept.
+    kept = []
+    for m in sorted(mentions, key=_keep_key):
+        if any(store._is_duplicate(m, k) for k in kept):
+            m.duplicate = True
+            dropped += 1
+        else:
+            kept.append(m)
+
+    # (2) Semantic pass over recent, still-kept stories: group by a distinctive shared
+    # entity (small groups → reliable), then let the model merge same-event stories.
+    cutoff = _recent_cutoff(mentions, llm_window_days)
+    survivors = [m for m in mentions if not m.duplicate and (m.first_seen or "")[:10] >= cutoff]
+    for group in _entity_groups(survivors):
         if len(group) < 2:
             continue
-        sub = [week_mentions[i] for i in group]
+        sub = [survivors[i] for i in group]
         for cluster in cluster_events(client, sub, model=model):
             if len(cluster) < 2:
                 continue
-            members = rank_mentions([sub[i] for i in cluster])   # best first
+            members = sorted((sub[i] for i in cluster), key=_keep_key)   # keep earliest
             for m in members[1:]:
-                m.duplicate = True
-                dropped += 1
+                if not m.duplicate:
+                    m.duplicate = True
+                    dropped += 1
     return dropped

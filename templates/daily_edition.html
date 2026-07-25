@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}Robotics dispatch — {{ day_label }} — {{ site_title }}{% endblock %}
+{% block description %}The humanoid-robot, physical-AI, driverless, drone and eVTOL news of {{ day_label }}, compiled by {{ site_title }}.{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block head_extra %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"CollectionPage","name":{{ ("VERTEBRATE.ai dispatch — " ~ day_label)|tojson }},"url":"https://{{ domain }}/{{ page_path }}","isPartOf":{"@type":"WebSite","name":{{ site_title|tojson }},"url":"https://{{ domain }}/"}}
+</script>
+{% endblock %}
+{% block body %}
+  <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>DISPATCH</span><span><a href="{{ root }}daily/index.html">Archive ⤵</a></span></div>
+  <header class="masthead">
+    <h1>VERTEBRATE<span class="ai">.ai</span></h1>
+    <div class="editionline">{{ day_label }}</div>
+  </header>
+  <div class="stripline">· The day’s dispatches · read by machine, written to be read ·</div>
+  <div class="feed">
+    {% for m in mentions %}
+    <article class="item">
+      <div class="meta"><span class="cat{% if m.category == 'opinion' %} q{% endif %}">{{ m.category|capitalize }}</span></div>
+      <div>
+        {% if m.companies or m.people %}<div class="orgs">{% if m.companies %}<span class="orgs-co">{{ m.companies[:4]|join(" · ") }}</span>{% endif %}{% if m.people %}<span class="orgs-pe"> — {{ m.people[:3]|join(", ") }}</span>{% endif %}</div>{% endif %}
+        <a class="lead" href="{{ m.url }}">{{ m.one_line }}</a>
+        <div class="byline">{{ m.title }} <span class="src-name">· {{ m.source }}</span></div>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% if also %}
+  <section class="also">
+    <div class="sec">Also That Day</div>
+    <ul class="briefs">
+      {% for m in also %}
+      <li><a href="{{ m.url }}">{{ m.title }}</a> <span class="b-src">— {{ m.source }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+  <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTEBRATE.AI</div>
+{% endblock %}

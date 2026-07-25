@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Daily archive — every dispatch — {{ site_title }}{% endblock %}
+{% block description %}Every daily robotics dispatch from {{ site_title }}, day by day: humanoid robots, physical AI, driverless cars, drones and eVTOL.{% endblock %}
+{% block body %}
+  <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>ARCHIVE · DAILY</span><span><a href="{{ root }}weekly/index.html">The Weekly</a></span></div>
+  <header class="masthead"><h1>VERTEBRATE<span class="ai">.ai</span></h1></header>
+  <div class="sec">Daily Dispatches</div>
+  {% for d in days %}
+  <div class="entry">
+    <h3><a href="{{ root }}daily/{{ d.id }}.html">{{ d.label }}</a></h3>
+    {% if d.teaser %}<p class="fact">{{ d.teaser }}</p>{% endif %}
+    <div class="src">{{ d.count }} stor{{ "y" if d.count == 1 else "ies" }}</div>
+  </div>
+  {% endfor %}
+  <div class="foot">VERTEBRATE.AI</div>
+{% endblock %}

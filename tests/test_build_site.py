@@ -45,6 +45,30 @@ def test_build_site_writes_expected_files(tmp_path):
     assert "Read at The Verge" in feed            # source link inside the feed item
 
 
+def test_build_site_writes_daily_editions(tmp_path):
+    out = tmp_path / "docs"
+
+    def M(url, title, seen):
+        return store.Mention(url=url, title=title, source="S", published="", topic="T",
+                             category="launch", one_line=title + " fact.", companies=["Foo"],
+                             people=[], themes=[], first_seen=seen, week="2026-W29")
+
+    ms = [M("http://old", "OldDayStory", "2026-07-24T12:00:00"),
+          M("http://new", "NewDayStory", "2026-07-25T12:00:00")]
+    sitegen.build_site(ms, {}, out_dir=str(out), templates_dir="templates")
+
+    index = (out / "index.html").read_text(encoding="utf-8")
+    assert "NewDayStory" in index               # homepage = the latest day
+    assert "OldDayStory" not in index           # older day rolled off the front page
+    assert "daily/index.html" in index          # Archive nav link
+
+    assert (out / "daily" / "2026-07-25.html").exists()
+    old_day = (out / "daily" / "2026-07-24.html").read_text(encoding="utf-8")
+    assert "OldDayStory" in old_day             # archived on its own dated page
+    archive = (out / "daily" / "index.html").read_text(encoding="utf-8")
+    assert "2026-07-25" in archive and "2026-07-24" in archive
+
+
 def test_build_site_hides_duplicates(tmp_path):
     out = tmp_path / "docs"
     keep = _m("http://keep")   # title "Figure hits the line", week 2026-W29

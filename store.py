@@ -132,8 +132,8 @@ def save_weeks(weeks: dict, path: str = "data/weeks.json") -> None:
 # headlines. We collapse them by comparing the "significant words" of each title:
 # if two titles share most of their meaningful words, they're the same story.
 
-DUP_THRESHOLD = 0.6          # title-word overlap required when two stories share NO named entity
-DUP_THRESHOLD_ENTITY = 0.4   # lower bar when they share a company/person (same subject)
+# Title-overlap thresholds. We also require a minimum count of shared significant
+# words so a short headline sharing one word (e.g. "…at BMW") isn't called a dup.
 
 STOPWORDS = {
     "the", "and", "for", "with", "from", "that", "this", "into", "after", "before",
@@ -176,11 +176,15 @@ def _entities(m) -> set:
 
 
 def _is_duplicate(a, b) -> bool:
-    """Same story if titles overlap a lot, or overlap moderately AND share a subject."""
-    ov = _overlap(_title_key(a), _title_key(b))
+    """High-confidence near-duplicate by title. Deliberately conservative — the
+    semantic LLM pass (dedup.py) catches same-event stories this can't, so here we
+    only flag clear textual matches and never merge on a single shared word."""
+    ka, kb = _title_key(a), _title_key(b)
+    ov = _overlap(ka, kb)
+    shared = len(ka & kb)
     if _entities(a) & _entities(b):
-        return ov >= DUP_THRESHOLD_ENTITY
-    return ov >= DUP_THRESHOLD
+        return ov >= 0.5 and shared >= 3        # same subject + strong title overlap
+    return ov >= 0.5 and shared >= 4            # no shared entity: need a stronger match
 
 
 def dedupe_stories(mentions: list) -> list:

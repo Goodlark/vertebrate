@@ -88,6 +88,14 @@ def _rfc822(d) -> str:
     return format_datetime(datetime(d.year, d.month, d.day, 12, 0, 0, tzinfo=timezone.utc))
 
 
+def _day_label(day: str) -> str:
+    """'2026-07-25' -> 'SAT · 25 JUL 2026' (matches the masthead date style)."""
+    try:
+        return datetime.strptime(day, "%Y-%m-%d").strftime("%a · %d %b %Y").upper()
+    except ValueError:
+        return day
+
+
 def build_feed(weeks: dict, mentions: list, week_ids: list) -> str:
     """An RSS 2.0 feed of the weekly editions — one item per edition, newest first,
     carrying the full write-up so Substack (and any reader) can import it whole."""
@@ -178,12 +186,13 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     # the same ongoing story can still appear in each week it was news.
     ranked = rank_mentions(mentions)
 
-    # The homepage shows only the most recent ISO week; earlier weeks live on
-    # their own weekly pages. This keeps "Also Happened Today" honest and stops
-    # the front page from growing without bound as the archive fills up.
+    # The homepage is the day's dispatch — the most recent day we fetched news.
+    # Earlier days live on their own dated pages in the daily archive; each week
+    # still gets its editorial. This keeps the front page fresh and bounded.
     weeks_present = sorted({m.week for m in mentions if m.week}, reverse=True)
-    current_week = weeks_present[0] if weeks_present else None
-    home_src = [m for m in ranked if m.week == current_week] if current_week else ranked
+    days_present = sorted({(m.first_seen or "")[:10] for m in mentions if m.first_seen}, reverse=True)
+    current_day = days_present[0] if days_present else None
+    home_src = [m for m in ranked if (m.first_seen or "")[:10] == current_day] if current_day else ranked
     home = store.dedupe_stories(home_src)
     feed = home[:MAIN_FEED_LIMIT]
     also = home[MAIN_FEED_LIMIT:]
@@ -232,6 +241,24 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         f.write(env.get_template("weekly_index.html").render(
             weeks=week_views, **_common("../", "weekly/index.html")))
 
+    # Daily editions + archive — a permanent dated page per day (the homepage is
+    # the latest one); older days accumulate in the daily archive index.
+    daily_dir = os.path.join(out_dir, "daily")
+    os.makedirs(daily_dir, exist_ok=True)
+    day_views = []
+    for day in days_present:
+        day_items = store.dedupe_stories([m for m in ranked if (m.first_seen or "")[:10] == day])
+        label = _day_label(day)
+        with open(os.path.join(daily_dir, f"{day}.html"), "w", encoding="utf-8") as f:
+            f.write(env.get_template("daily_edition.html").render(
+                day=day, day_label=label, mentions=day_items[:MAIN_FEED_LIMIT],
+                also=day_items[MAIN_FEED_LIMIT:], **_common("../", "daily/" + day + ".html")))
+        day_views.append({"id": day, "label": label, "count": len(day_items),
+                          "teaser": day_items[0].one_line if day_items else ""})
+    with open(os.path.join(daily_dir, "index.html"), "w", encoding="utf-8") as f:
+        f.write(env.get_template("daily_index.html").render(
+            days=day_views, **_common("../", "daily/index.html")))
+
     # Tag pages
     tag_dir = os.path.join(out_dir, "tag")
     os.makedirs(tag_dir, exist_ok=True)
@@ -257,6 +284,7 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     with open(os.path.join(out_dir, "robots.txt"), "w", encoding="utf-8") as f:
         f.write("User-agent: *\nAllow: /\nSitemap: https://%s/sitemap.xml\n" % DOMAIN)
     paths = [""] + ["weekly/index.html"] + [f"weekly/{w}.html" for w in week_ids] \
+        + ["daily/index.html"] + [f"daily/{d}.html" for d in days_present] \
         + [f"tag/{t.slug}.html" for t in tags]
     urls = "".join('  <url><loc>https://%s/%s</loc></url>\n' % (DOMAIN, p) for p in paths)
     with open(os.path.join(out_dir, "sitemap.xml"), "w", encoding="utf-8") as f:
