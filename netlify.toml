@@ -2,6 +2,15 @@
 # so there's no build step — Netlify just serves docs/ and re-deploys on each push.
 [build]
   publish = "docs"
+  command = "echo 'Pre-built static site in docs/ — nothing to build.'"
+
+# Send www visitors to the bare domain (Netlify also enforces the primary domain,
+# this makes it explicit).
+[[redirects]]
+  from = "https://www.vertebrate.ai/*"
+  to = "https://vertebrate.ai/:splat"
+  status = 301
+  force = true
 
 # Always make browsers revalidate the HTML (and the feed) so readers never see
 # stale news. Static assets that rarely change can still be cached for a week.

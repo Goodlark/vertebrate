@@ -26,6 +26,7 @@ def test_build_site_writes_expected_files(tmp_path):
 
     assert (out / "CNAME").read_text().strip() == "vertebrate.ai"
     assert (out / "style.css").exists()
+    assert (out / "404.html").exists()               # branded not-found page
 
     weekly = (out / "weekly" / "2026-W29.html").read_text(encoding="utf-8")
     assert "The week the humanoid clocked in." in weekly

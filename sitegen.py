@@ -222,6 +222,10 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
             mentions=feed, also=also, companies=view_companies, topics=view_topics,
             latest_week=latest_week, latest_dek=latest_dek, **_common("", "")))
 
+    # Custom 404 (Netlify — and GitHub Pages — serve this automatically)
+    with open(os.path.join(out_dir, "404.html"), "w", encoding="utf-8") as f:
+        f.write(env.get_template("404.html").render(**_common("", "404.html")))
+
     # Weekly editions + archive
     weekly_dir = os.path.join(out_dir, "weekly")
     os.makedirs(weekly_dir, exist_ok=True)

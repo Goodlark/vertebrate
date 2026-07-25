@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Page not found — {{ site_title }}{% endblock %}
+{% block description %}That page didn’t make today’s edition. Head back to the latest robotics dispatch on {{ site_title }}.{% endblock %}
+{% block body %}
+  <header class="masthead">
+    <h1>VERTEBRATE<span class="ai">.ai</span></h1>
+    <div class="editionline">404 · Off the Wire</div>
+  </header>
+  <div class="stripline">· This page didn’t make the edition ·</div>
+  <div class="notfound">
+    <p class="fact">The story you’re after isn’t here — it may have rolled into the archive, or never crossed the wire.</p>
+    <p class="nf-links">
+      <a class="read" href="{{ root }}index.html">→ Today’s Feed</a>
+      <a class="read" href="{{ root }}daily/index.html">Daily archive</a>
+      <a class="read" href="{{ root }}weekly/index.html">The Weekly</a>
+    </p>
+  </div>
+  <div class="foot">VERTEBRATE.AI</div>
+{% endblock %}
