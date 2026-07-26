@@ -24,7 +24,7 @@ def test_build_site_writes_expected_files(tmp_path):
     assert "Figure" in index                     # tag index
     assert 'class="orgs"' in index               # company kicker on the feed item
 
-    assert (out / "CNAME").read_text().strip() == "vertebrate.ai"
+    assert not (out / "CNAME").exists()              # served by Netlify, not GitHub Pages
     assert (out / "style.css").exists()
     assert (out / "404.html").exists()               # branded not-found page
 

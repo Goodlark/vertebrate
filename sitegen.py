@@ -279,8 +279,8 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
     og_src = os.path.join(templates_dir, "og.png")
     if os.path.exists(og_src):                       # social share card
         shutil.copyfile(og_src, os.path.join(out_dir, "og.png"))
-    with open(os.path.join(out_dir, "CNAME"), "w", encoding="utf-8") as f:
-        f.write(DOMAIN + "\n")
+    # No CNAME file: the domain is served by Netlify (netlify.toml). A CNAME file
+    # would make GitHub Pages re-claim vertebrate.ai on every deploy and block Netlify.
 
     # SEO: favicon, robots.txt, and a sitemap of every page.
     with open(os.path.join(out_dir, "favicon.svg"), "w", encoding="utf-8") as f:
