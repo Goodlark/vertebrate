@@ -92,18 +92,22 @@ def build_linkedin_prompt(week_label: str, summary: str, lede: str, mentions: li
 
 
 def write_weekly(client, mentions: list, model: str = WEEKLY_MODEL) -> Optional[WeeklyRollup]:
-    try:
-        resp = client.messages.parse(
-            model=model,
-            max_tokens=WEEKLY_MAX_TOKENS,
-            system=WEEKLY_SYSTEM,
-            messages=[{"role": "user", "content": build_weekly_prompt(mentions)}],
-            output_format=WeeklyRollup,
-        )
-        return resp.parsed_output
-    except Exception as e:  # noqa: BLE001
-        log.warning("weekly rollup failed: %s", e)
-        return None
+    last = None
+    for attempt in range(2):   # retry once: a transient truncation/overload must not skip the week
+        try:
+            resp = client.messages.parse(
+                model=model,
+                max_tokens=WEEKLY_MAX_TOKENS,
+                system=WEEKLY_SYSTEM,
+                messages=[{"role": "user", "content": build_weekly_prompt(mentions)}],
+                output_format=WeeklyRollup,
+            )
+            return resp.parsed_output
+        except Exception as e:  # noqa: BLE001
+            last = e
+            log.warning("weekly rollup failed (attempt %d/2): %s", attempt + 1, e)
+    log.warning("weekly rollup gave up: %s", last)
+    return None
 
 
 def write_linkedin(client, week_label: str, summary: str, lede: str, mentions: list,

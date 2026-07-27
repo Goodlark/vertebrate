@@ -5418,7 +5418,7 @@
     ],
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
-    "why": null,
+    "why": "South Korea's navy is short on sailors, and a humanoid steering a ship without any hardware retrofit hints at a cheap fix for that crew crisis. It's also a clean proof point for humanoids operating unmodified equipment built for human hands — a capability defense planners everywhere will be watching closely.",
     "duplicate": false
   },
   {
@@ -5440,7 +5440,7 @@
     ],
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
-    "why": null,
+    "why": "Orlando joins Tesla's growing patchwork of robotaxi cities, each one a data point in whether Musk's camera-only approach can scale against Waymo's sensor-heavy fleets. The real test isn't launch headlines but incident rates once the novelty wears off.",
     "duplicate": false
   },
   {
@@ -5486,7 +5486,7 @@
     ],
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
-    "why": null,
+    "why": "Manna and Matternet quietly scaling across US metros is the unglamorous but consequential story: drone delivery is becoming infrastructure rather than pilot program. Watch airspace regulation and unit economics as the real bottlenecks, not the technology itself.",
     "duplicate": false
   },
   {
@@ -5512,7 +5512,7 @@
     ],
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
-    "why": null,
+    "why": "Coordinating a fleet of robots via voice command is a software problem as much as a hardware one, and NVIDIA's stage presence suggests it wants to own the orchestration layer the way it owns GPUs. Fleet-management middleware could end up being the more durable business than any single robot body.",
     "duplicate": false
   },
   {
@@ -5538,7 +5538,7 @@
     ],
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
-    "why": null,
+    "why": "Wing choosing the Bay Area for its next market, after 750,000 deliveries elsewhere, is a bet on dense, tech-tolerant suburbs as the proving ground for drone logistics at scale. Google's continued investment here matters for how seriously Alphabet still takes hardware moonshots.",
     "duplicate": false
   },
   {
@@ -5586,7 +5586,7 @@
     ],
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
-    "why": null,
+    "why": "A humanoid robot maker heading to public markets is a test of whether investors believe the category has revenue, not just demos. AgiBot's valuation on debut will set a benchmark that Figure, Unitree, and others will be measured against.",
     "duplicate": false
   },
   {
@@ -5634,7 +5634,7 @@
     ],
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
-    "why": null,
+    "why": "Teleoperated humanoids performing gallbladder surgery is aimed squarely at rural hospitals that can't afford a Da Vinci system or a surgeon on call. If the cost math works, this could democratize robotic surgery faster than any incremental improvement to existing platforms.",
     "duplicate": false
   },
   {
@@ -5659,7 +5659,7 @@
     ],
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
-    "why": null,
+    "why": "Figure AI locking in AMD silicon and openly pivoting toward military applications reframes the company from consumer-facing warehouse robot to defense contractor in waiting. With Eric Trump's name attached, expect scrutiny over political ties as much as technical progress.",
     "duplicate": false
   },
   {
@@ -5710,7 +5710,7 @@
     ],
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
-    "why": null,
+    "why": "A 200-kilogram payload over 500 kilometers without satellite positioning is a meaningful jump for heavy-lift logistics and contested-environment resupply. TEKEVER's timing, amid heightened European defense spending, positions it as a serious alternative to larger US and Israeli drone makers.",
     "duplicate": false
   },
   {
@@ -5733,7 +5733,7 @@
     ],
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
-    "why": null,
+    "why": "Mobix Labs buying Vision Aerial is another sign that national-security drone platforms are consolidating around a handful of players who can bundle hardware with software and clearances. Expect more roll-ups as the Pentagon pushes for domestic drone supply chains.",
     "duplicate": false
   },
   {
@@ -5802,7 +5802,7 @@
     ],
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
-    "why": null,
+    "why": "Blue UAS clearance is the gatekeeper credential for selling drones to US federal agencies, and Skydio getting its whole lineup approved cements its position as the default American alternative to DJI. It's a procurement win that translates directly into contract eligibility, not just marketing.",
     "duplicate": false
   },
   {
@@ -5826,7 +5826,7 @@
     ],
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
-    "why": null,
+    "why": "Humanoid robotics has no agreed-upon way to measure performance, and Fraunhofer's benchmark tries to fix that for cleanroom and industrial settings where certification matters as much as capability. Whoever's metrics become standard will quietly shape which robots get bought by pharma and semiconductor manufacturers.",
     "duplicate": false
   },
   {
@@ -5849,7 +5849,7 @@
     ],
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
-    "why": null,
+    "why": "Autonomous navigation through blood vessels is a much harder physical AI problem than warehouse picking, requiring sub-millimeter precision inside a moving, unpredictable body. Sentante's progress here could set the template for endovascular robotics beyond its own device.",
     "duplicate": false
   },
   {
@@ -5894,7 +5894,7 @@
     ],
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
-    "why": null,
+    "why": "A humanoid robot in an Upstate New York classroom is a small, telling signal of how physical AI is drifting into everyday institutions rather than staying confined to factories and labs. The real story will be how students and teachers actually react once the novelty fades.",
     "duplicate": false
   },
   {
@@ -5920,7 +5920,7 @@
     ],
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
-    "why": null,
+    "why": "Beijing pulling robotaxi licenses back off the shelf for Baidu, Didi, and AutoX signals renewed state confidence in autonomous driving after a cautious pause, likely following safety incidents. It also sets up a direct scale race against Tesla and Waymo, with Chinese firms benefiting from friendlier regulatory tailwinds.",
     "duplicate": false
   },
   {
@@ -5966,7 +5966,7 @@
     ],
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
-    "why": null,
+    "why": "Ford pairing its self-driving system with Apple Maps rather than building or licensing from Google is a quiet reshuffling of alliances in the autonomy stack. It suggests mapping data, not just sensors and models, remains a contested and valuable layer in the self-driving supply chain.",
     "duplicate": false
   },
   {
@@ -6033,7 +6033,7 @@
     ],
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
-    "why": null,
+    "why": "BETTA's underwater drone adds to a quietly growing market for subsea inspection and survey work, an area with less hype than aerial drones but real demand from offshore energy and defense. Watch whether it can compete on endurance and depth against established players like Saildrone and Boston Engineering.",
     "duplicate": false
   },
   {
@@ -9105,7 +9105,7 @@
     ],
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
-    "why": null,
+    "why": "When a car company with decades of manufacturing scale commits to mass-producing humanoids, it signals the sector has moved past prototype theater into industrial planning. Watch whether Mitsubishi treats this as a side bet or restructures factory lines around it, and whether other automakers follow suit.",
     "duplicate": false
   },
   {
