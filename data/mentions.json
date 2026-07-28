@@ -5370,7 +5370,7 @@
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcW1MMk85Qm4xbHZnU2NVZm00RDVmX3NlcHE1UUVwR2lYa0JPVWZnOGU5MmlrUHJfMjhjX2hnQXdCbGtURWpRYjVmcUVUX1l2d2tlUGNCYTgzaldxNC1MbGhaZkxjc2d0bl94Vm03b2FacUhTMHVmLWVfU0Y0U2tOQjRNbjExUG12NWxSQ2tmLU81b3I0WXBVeGRXV1hlLWdqNGtONWkzTzExLUtWV2VLQV92N0nSAboBQVVfeXFMUDF4dHlPaXFka19iOU5SSDhFel95dTQzcWNMTU9jSVRST3FpMDRaNHZheW9naE9ZMjRLb19QZmpZajFyZEFOUzRjNXU1YlVKS1g5RWprOXlXMk1VMFRfbTJaSjJKcmVNRWRlUk5uRmExTDZmZHp5dE9ZLWpaSkdURHl6djc2LTk2TXlQR2dHRkZLeURHTkRmdUlHdzA0WVo5b2M3a3JLM3ptVy0ycmd5TkQzdzhGZ2pfT0Vn?oc=5",
@@ -5419,7 +5419,7 @@
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
     "why": "South Korea's navy is short on sailors, and a humanoid steering a ship without any hardware retrofit hints at a cheap fix for that crew crisis. It's also a clean proof point for humanoids operating unmodified equipment built for human hands — a capability defense planners everywhere will be watching closely.",
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnRkTzJmaHNzQ3BMVUdPVW1NQUF0clNFaWlvdEJHWEVWVnhCRTNGQlBqMUdxNmlGMDJoR1JxemFEOGhpd0ptQkczclJNTE1hYUs3OVlIN2xUWlJuQTFDd1hRLWxWWGFPaDh2aGl4MWlRT0d2QUtaWDIwbHFGd0FFNnRKVzlpVm0tejRv0gGQAUFVX3lxTE1uSFZSQzBrR2RyVU8xempUNU5WbFFtNTNSdHRZNnNvRThxTlVWc2FTR1N0T0FIV2lBN0RRNmpsNkdmVkw5d0tHeGQ4c3VhTDJzQXZJMjY4QW9oTzNpekVEdkpGd3NOWHpTc1NneDlQSDU3emtPc2dwY0R5dzNMWWNYNUhCa2lpVWhTR0VFaDd2Vg?oc=5",
@@ -5513,7 +5513,7 @@
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
     "why": "Coordinating a fleet of robots via voice command is a software problem as much as a hardware one, and NVIDIA's stage presence suggests it wants to own the orchestration layer the way it owns GPUs. Fleet-management middleware could end up being the more durable business than any single robot body.",
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://wing.com/news/wing-drone-delivery-bay-area",
@@ -5944,7 +5944,7 @@
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaElLa1NpMFZLay1yNWFGZ0JJZDh5cnRjUkwwMzl6OFFWR3o3cllQbWtsOTdESGMtWWItaW5sVzJsOFpobFVLcUZkYTBNQUxoWnQxVmhLd2VQN19NT2RoMWtzZ0NpTXhXbTdpR0ZVUXpGbThaOVppbW4tM2Y5WGxjMy03TjByTzlR?oc=5",
@@ -6423,7 +6423,7 @@
     "first_seen": "2026-07-22T16:18:09",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://wayve.ai/press/stellantis-wayve-partnership/",
@@ -7357,7 +7357,7 @@
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXVKQkVfb3h2UVBzcDNFcG1RMHhydU04RmRHLTNsRjBxaE1TU3JIbWdSdkJlQ3hMcDFBbi1LOXE3cktRZERQSDB6aVZ5RXFtczF6Vnp1eFN4dElnNm1lbzl1cy1NbkZQbkdqU3JGajktVkp3UEoxTm1HZ2JsMDd4X0Z6d0JGeWN2UUQ2c01ud3JZSUM0NXRTSDM4T1lDbkRfb1VjVVpn?oc=5",
@@ -7849,7 +7849,7 @@
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2RBNEg2ekdORS1MRVRKZktfdTlqV08zYTV3eWl4Z0I1dko1dF9ZaTN5TEhJeGZla0lzdlJxYnZUYm9BWE9OeDlZemV1d2M2a05lZVFMMmpNUTBQbkVrNUk3OEhuMm1kZEo2cVFvMi1WTkV5WFBYMm5VZi1hQ3NTcjZCQUdtVmdMbjRpUkJxbEY3THVZN0c2eENtOVRBWjQwb0tMUUtkaw?oc=5",
@@ -8047,7 +8047,7 @@
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JWUlkZ0JMQnZRcmxrb2lJanhJRnFJb2tORmNFWUhsQVBzaFdWbnlFWkducC1uQnZiWDZWdTVaM0RneWZGQl9FQWtybmtSWkdlV19oR3JxNmtYMG8?oc=5",
@@ -8361,7 +8361,7 @@
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXA5Mmg4UmkxSlRsRlN2TVhtcWFKa0dXWHZRQ01Ba0xwNnc5dlhQbnZGX01LN1M0NXdfeG9adVpPand6c1R4U2VKWXh2UzdjNWRUQ0NUYjIxX3VqUUI5ZU9iQ2RFYXZaNG1zcFoxUjNDWWxTNXBOempBZ0tVdmVmZl91dEZTblhPY19jMnhwRzhzUF8tUUFVTGVrZVVIV01EMjJkU2FMeXpZbmc?oc=5",
@@ -8554,7 +8554,7 @@
     "first_seen": "2026-07-22T16:18:09",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM3JpTzBoWXhKTWdQWXFfRWkyYi02bWUyVWtRTEpFa1F3OVphNlFfY3gtZFNITFNIMjd3MU1tX0FqQ2lpZU5ZVWRnVVNBTGlzX29Pa2FpckVIT1pjdWtfTHh0TkJFMzJfUEhpWEU5aUMtTFZYQWFYS0l6cXVVNTh2cTJZcnI4RThJSVZJ?oc=5",
@@ -9587,7 +9587,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTJuNERuYzdIZVpxNjluWU9LeHV1dkxDVnVCSVBLVGc0VzdJdGJfdXV4U20zNFRVTUJLM2lpeURlN0JMcEZDVVlPSWJLQ3A3TkhlRzhjOVoyLWZMdUlEckNMVWZrMDQ0ajZVVG1kbzVLblEybnYyaG5uQmVaZEFNNnV0N1lla3hmdXpKdDFCSy1nQ2ZRemhWNHdrblc?oc=5",
@@ -9656,7 +9656,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm9ja1Q5eE1HMEU4QmVJMjhpa1MzRjVwNE1MZTAwZTN1b1FWMURpTmpNMkhvS21DejBXOEZEUFpEOWVyNnNxQzUyMXFmb211NmFkRUZPZHlFcnZsZHgyVllZOXp6Wmo3ekJDTmM5d21Kb1ZoazJELXI4NDVqbDFTNjktdU9qdzN2MmY5dVpBZjZxU19GZWdhOU1IY3h3SlVRRHUxRU1kWmNzSFZNU3plRHNkaXQwUQ?oc=5",
@@ -10577,7 +10577,7 @@
     "first_seen": "2026-07-27T16:55:14",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdV9xdU1lSWJ5ZVBkMjc2YmQzWnUwRTlYVzJlengtd05qSjZZZ1RneEJGUlJrOGNHV294b1lqMHdFVC10Z095QTc5aUlYMDJOSkFqSFQ0SFZRVHp1V0Nib3ltckdvWlFJX05FczlyU1Q4X0xMMDJlb3MzVHk4dWtrWUNXYXpDTmpha3RvNmNpNUpEQTlER3RDUWpUNGcxeTlORVNaWEMzWk9pTlk?oc=5",
@@ -10797,5 +10797,916 @@
     "week": "2026-W31",
     "why": null,
     "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXI5YWxwazBxY09yTUhWeENURzZDVWFaR0dWdUZuRG1TQVRHOG9jaGxkbm1oV2xqSm5GR25NeUdtY29VM1BaYmJNMEVUb3AzY3dmR3c2SXN6Y3ZBWnVOZDE2d1JQc3puVGxSLVBYY2JFeFRyYnBGTUZGLWJvTTc3Zy1ldnVqMTJfc0Q4dW0zazhQWHJaZ2lwRGN1Y2xfYzNMczdyZUN4cDZtOVU3WFJoUFphaFZSOThqYTl5OHc1d1NBZFZoSS03Z2t1b0ozQXJaS2p3WUtybmd2S1FxTlVV?oc=5",
+    "title": "WanJiYiZu Wins Bid for Humanoid Robot Leasing Project at DoubleTree by Hilton Hengqin",
+    "source": "Gasgoo",
+    "published": "Tue, 28 Jul 2026 15:01:25 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "WanJiYiZu won a contract to deploy humanoid robots at a DoubleTree by Hilton hotel in Hengqin, marking a commercial expansion into hospitality service.",
+    "companies": [
+      "WanJiYiZu",
+      "DoubleTree by Hilton",
+      "Hilton"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "service robots",
+      "hospitality",
+      "deployment"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTFBQzNDUUV5VFNrUndzam5mMEdjTzRiQl8zZnZYeXdnYm9sc0VUcXkzT0thc1Q1TmtNTGNSbmYxSVhDWngzT1NUTDlTT196LWpLSWNURzRBVDI0WDlmaThnaXRGVWZzc29NMF9tSGpTLUNKT0ZJY1JFeE1VX3hUU3JONjlPWlczOW00eDNMOEkzMmpsdktwV2lnWjJJTVlMQVhTckNR?oc=5",
+    "title": "Aborted plan for life-like robot in NY classroom alarms state teachers union",
+    "source": "Gothamist",
+    "published": "Tue, 28 Jul 2026 12:39:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Realbotix's plan to deploy an AI-powered robotic teacher's assistant in a Western New York high school collapsed after the state's largest teachers union objected to the company's ties to sex-doll manufacturing.",
+    "companies": [
+      "Realbotix",
+      "Salamanca City Central School District",
+      "New York State Teachers Union"
+    ],
+    "people": [
+      "Andrew Kiguel",
+      "Betty Rosa",
+      "Melinda Person",
+      "Kamar Samuels",
+      "Mark Beehler"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "education",
+      "automation"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EeURFdkdiVG9wWTQtLUNCWXkxQmEwd3JQOE1OaGNTanU0X25odDhnTVVMVFJ6RE5rWG1OQkhaUS1CQWliTUJNLWJuTThaVWg4TnBYdWxvNndYUnpZOTAyLTQyZEkyMnExX0NiZHc1STdrX3BqeHZRcA?oc=5",
+    "title": "BYD confirms plan to unveil humanoid robot in August",
+    "source": "CnEVPost",
+    "published": "Tue, 28 Jul 2026 06:38:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "BYD will unveil its humanoid robot in August, the Chinese automaker and battery maker confirmed.",
+    "companies": [
+      "BYD"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWZsUFhuWGZUbEpPeEc0MmRJLVNwUklOU1lQd2ZoeEhJVnl2TDhYTTBRZVFTZE9WT216aWtEeFo4VUpsWnNpemlIVjgtQzhUTEZRS0dXOHVHclduN0N3bVFjRHNGWmVDX2xVQWFFSkVib3RTWF84YWh5UTVkZ0lTMTlmcGZLNnVobi1zcTc0M0c1ZVpk?oc=5",
+    "title": "Humanoids loading crates and robot dogs sniffing out gas leaks",
+    "source": "Siemens Newsroom",
+    "published": "Tue, 28 Jul 2026 11:46:35 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Siemens showcases humanoid robots and quadrupedal machines in promotional material depicting warehouse logistics and infrastructure inspection scenarios.",
+    "companies": [
+      "Siemens"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "logistics",
+      "inspection"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ05TOWpZeWZ6a3ZmUlB4Y3JhOTJUSmJTX3F0LXpVdFdnbkVPQmtZOWk2YzIxSmlPeWdpOFFFc0ZJbWtodEhpSGR3TWQwVkF6RFRjcUk1T0phOVhJVjZNdTdrSERvVWduSjlJM2Q5djZZQ3lIRGwxR1V6YzBNSzZwSlBFQlVURU1JUm42TzFlVXFxZk1EcUY3dk5FQmRseDl5R2xib2haOGd4MFY4Tjh4dG5tTGZjdw?oc=5",
+    "title": "Fujitsu, Nvidia Are Collaborating With Robot OEMs to Develop Physical AI",
+    "source": "Assembly Magazine",
+    "published": "Tue, 28 Jul 2026 10:04:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Fujitsu and Nvidia are partnering with robot manufacturers to build physical AI systems that can perceive and act in the real world.",
+    "companies": [
+      "Fujitsu",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "collaboration"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMGZSUmhsb2wzbWdRaHdCNnNQUkk5LTNXUVdrcXFXc3BLcTB6SWZKa1AydG5uV0VVdnFvekZqLUZfMzhvQkhsTTBWTXpoNEt5cWx6alFlX3M2MDVxcFpVcW85NG81eXVoeEZfTE5FY3NhRnpfVnJpLWwtUTlDRFJONkVmNmlIdjRhLXVnYXo1WDc4MHRFYlF3cjVSQzc3S3VhS2FvMjh6RTU2VEJ0R1ZTcElXTTZRVUdxQ3gzRlVhQ2g?oc=5",
+    "title": "US airlines tighten rules, ban humanoid robots from commercial flights",
+    "source": "Interesting Engineering",
+    "published": "Tue, 28 Jul 2026 15:19:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Major U.S. airlines have banned humanoid robots from commercial flights, marking the first formal regulatory push against physical AI in passenger aviation.",
+    "companies": [
+      "American Airlines",
+      "Delta Air Lines",
+      "United Airlines",
+      "Southwest Airlines"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "aviation"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5",
+    "title": "A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release",
+    "source": "36 Kr",
+    "published": "Tue, 28 Jul 2026 10:53:09 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "A UCLA-founded startup building foundation models for humanoid robots has raised nearly 500 million yuan in an Angel++ round.",
+    "companies": [
+      "Hard Krypton"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "foundation model",
+      "physical AI"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWhOb2NlVFNoRllfa1hhYVhNS3FqczBIYU1KbGJNRktlbGtFd01RMGFITXh5dDJtbmVUbDBjMENVUk9WNnRseGJSeW9VNUlfSE4tX3JKaEVDLUlXaFk0OVpBd3ZfZFcwUXRwY1FXekRCMmtnajBfR2JvaWNWam40M2x6ckF4Z0k4dnVnN1dZbHEzcVVO?oc=5",
+    "title": "New York school district halts plan to use humanoid robot amid backlash",
+    "source": "The Guardian",
+    "published": "Mon, 27 Jul 2026 17:03:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A New York school district paused plans to deploy a humanoid robot in classrooms after backlash over the company's ties to sex dolls and data privacy concerns.",
+    "companies": [
+      "Salamanca City Central",
+      "Realbotix"
+    ],
+    "people": [
+      "Melinda Person",
+      "Lacey Pihlblad",
+      "Sierra May Abrams",
+      "Andrew Kiguel"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "education",
+      "surveillance"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcHlLV0c1WHJJY3hoUlhVRzNWODM5ZUtUM1RsQkhaVEZjM1VOYkMxLWRyTmNRZnBLU3VFNF8zQ2hxeW9MelpDbWdqNXhMeVZ4Tk5xUGlyVmlvc1VGaFpLSWtFcnhwTnlmQ19DREFqVHpNcnA5T3pYbDVHRlkzZXpvaW1CNDM3RXh2UGZNNGFOUURaVlMzWUlrZTdpWm9GcUhNU0trdnJJbENHV3JtREVXbVJLRmhydWF2SGRwakFHdEFHc0YwNWU1OXRTWEJQMGdETjZKb2ZwcUNOZTZJcUZxZUlTeU9VOGdNeGJkdVdRWkdQazFCZW4wR2RYblFlVlRyQzY3LWVXbUQ0RVdlTnFCTzhQMA?oc=5",
+    "title": "Xiao Zhi Weekly News | First batch of \"Henan-made\" humanoid robots rolls off the line; Mobileye founder shifts focus to robotics",
+    "source": "Gasgoo",
+    "published": "Tue, 28 Jul 2026 03:54:08 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Henan province begins manufacturing its first batch of humanoid robots as Mobileye founder Amnon Shashua redirects his attention toward robotics development.",
+    "companies": [
+      "Mobileye"
+    ],
+    "people": [
+      "Amnon Shashua"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics manufacturing"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5",
+    "title": "US startup's humanoid robot to help clinical labs handle daily task",
+    "source": "Interesting Engineering",
+    "published": "Tue, 28 Jul 2026 12:50:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tactus AI unveiled Elsie, a two-armed humanoid robot designed to automate routine tasks in clinical laboratories using existing equipment and procedures.",
+    "companies": [
+      "Tactus AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "laboratory automation",
+      "clinical deployment"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmtvcTF5T2FJVVVtTjRJX2lZcndreHp6cXNDdnZrbWctSlJ1Z3ZFeUVxR1R6ajh3MGlvNHNGWHpHZFU4bk5ZQUxOQ3Y2c0RDQmVXWUthTTBSUlktczV6Y2wyYXRFd1hfdGk0RXBiaG8xbXd1WnhQMEpITWoxbjVGMTNWMXZxU1JnM1BhX3ZSckNhZw?oc=5",
+    "title": "BYD to Unveil Its First Humanoid Robot in Early August",
+    "source": "eletric-vehicles.com",
+    "published": "Tue, 28 Jul 2026 07:51:28 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "BYD, the Chinese EV giant, will debut its first humanoid robot in early August, expanding beyond automobiles into physical AI.",
+    "companies": [
+      "BYD"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "manufacturing"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcG15QVF3MmtkZ2RTSkRSOGJVWkdvd0dkVVZCRHdQZ0x2UUtBWVJkSmZZTVlCdmstY3RFdkxEVHBpdERWLUVTTHlCV0gzLUYweE43azl4MTl0T2swTlRVYzFYT2s3QUpZLVVMcVJJb0xyb0JpZWdHdkYzY0pZUlhqeXBMS3lLbldxMmo3ejdSZ056cHhfVUdLU05hZTdiYTFoZTJfT3FSNk5wZWdvLUZWRXZhM2NRcHd2djgtZ1lFYkVYMXJuWkVxM3U1b3I?oc=5",
+    "title": "Lumos Robotics Unveils Next-Generation Embodied AI Development Platform",
+    "source": "Gasgoo",
+    "published": "Tue, 28 Jul 2026 12:45:46 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Lumos Robotics has released a new software platform designed to accelerate development of embodied AI systems.",
+    "companies": [
+      "Lumos Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "physical AI",
+      "development platform"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlQ0WU5vRFhVbDJIRVE3ME85MFdoWDdFcHJ1XzhQTEFpa0RKc1J6Sl9WVC1TdzFVOGdFR3V3WENFUmY4bXJ3NFUtZTB6M1FXZEZSOWU2LUktbWVrWXlISVRRQ1pXTTBWcE5ycmFUMFFuUkZhVDUzUGJWTmxOTFVlRTFHc0ZfM1ViSGVzazVn?oc=5",
+    "title": "Robot dogs and physical AI: the sci-fi tech coming to airports",
+    "source": "Airside International",
+    "published": "Tue, 28 Jul 2026 15:53:29 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The article content is not available to extract meaningful information about specific companies or individuals.",
+    "companies": [
+      "Verifying that you are not a robot"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robot dogs",
+      "airports"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejdFYmh6bDZacy1Gd3BQc21Qa05TWndRRkF6SC1YaDc3a083U2FtQnhuWll4c05pdFJBZEtDR2ZDamRCNmhYRVVpRVJfYmhXZk5UWlNQOTVZanZRREhUZWJ0d0hrZFA1WUFkOFRVN3B4MjRHRTVmWV82UEV4SkhLRmMxS2pnTWM?oc=5",
+    "title": "San Francisco mayor backs national robotaxi rules after Waymo meltdowns",
+    "source": "Politico",
+    "published": "Tue, 28 Jul 2026 12:05:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "San Francisco Mayor London Breed called for national robotaxi regulations following repeated Waymo service disruptions in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "London Breed"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2MwVzliU29UM0xfNUdabE53ZWw0ZVdaNVJkQXN0c1FBTzhDYkY0TDlDN2xRei1oX3U5YkhjYzRLVVY5eGpMSTg5QkQ0Ump5Qzg0THV0ZUFmaEdBLVYzVlhPUV9Od1BZcjU5ZDJOdEI4eHpWS1pvN0pLekdnZXdZbVQ1MFJmMTNIdEZWOWo1ZTZpQ0trc0JfT2tRRmFsTkoxQ2hvbk13?oc=5",
+    "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+    "source": "TechCrunch",
+    "published": "Tue, 28 Jul 2026 08:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lyft and Baidu have begun testing robotaxis in London, joining a crowded field of autonomous vehicle operators competing in the UK capital.",
+    "companies": [
+      "Lyft",
+      "Baidu"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "testing"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3l2cll3UFlUYUstZEQ2QkxpVzdaYjJiUUNTZU0zUnlaWEtOell3Nm16Qk5Bd19xRnVOSDZOT2oxV2luZnFxSzgwdXFPZFIxemdwcGgtTmNrUVFSYjJJb2huMUhsNUhTNVlqVFoxUXltX1VvU3B1anBpeXQ3M2V0M3kxLVJ3cXRqZWJWdXVSeVBLYzZIQ05ZLUVUUEhZUQ?oc=5",
+    "title": "Waymo robotaxis safer than human drivers: IIHS report",
+    "source": "Smart Cities Dive",
+    "published": "Tue, 28 Jul 2026 14:50:23 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "An IIHS study finds Waymo robotaxis involved in fewer accidents per mile than human drivers on comparable routes.",
+    "companies": [
+      "Waymo",
+      "IIHS"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTktNR2h6NUdCd3NZMmNaLTl2NWhlNEI3NEtWQzdqX2JPcjMyOHdGLUJQV2VLQUVOTEcweTJVZ0tQeGRhU3dqby1UWXJOSml3V0xidHBFeFNLZl9MUkZMNThhby1oVGM3c2RtUTZYR2R2RHFJUUV1LVprQXhpb1l2MVNtdEx2eldxV1k0dUhKZi0yVlFFV1U0?oc=5",
+    "title": "Lurie welcomes federal regulation of Waymo and robotaxi industry",
+    "source": "The San Francisco Standard",
+    "published": "Tue, 28 Jul 2026 15:46:18 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "San Francisco Mayor London Breed Lurie signals support for federal oversight of Waymo's robotaxi operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "London Breed Lurie"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CeUJMSDBiVDB4SGZrZlVxQVlwUUhWTldBXzltel9zWEJrVjZBTVpNMUpEVUU3cW8ydFBDWUQ2VGVqWjBIbHV5cVZVbnNYb0F3cVJGRVNWUzhrcldHa0lmSUYwczMxejRmZUZLbVFXYnRZekFRUDhr?oc=5",
+    "title": "Denver is becoming a Waymo city. Here’s how that has worked out across the country",
+    "source": "Denverite",
+    "published": "Tue, 28 Jul 2026 10:03:35 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Denverite surveys Waymo's expanding autonomous taxi presence across American cities, using Denver's growing fleet as a lens for assessing the company's track record.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "deployment"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXdjbWJRQ3dBNHhZajcyNUcwNTNhQlhVMUtJdFhNZ1dwNE53dmhtSHotdWpZWjRLNGpBZHZKMDVIeHk4c1NZMFpGOEJPUlo3U3JJUlBvSUVpY3BMR3JNNFVrUGlQUWVoMkxDTjN0X0pkcWl1bXNRa0pkZVRkaGNNUWdJR0laLXA2WkZvc29EZlLSAZYBQVVfeXFMUG9rUHpVaXlBREpwUmlHNmpiVmRycktoTVFtQzI1d2ZYMmFrQXBST000V01CZ0NVQldKZkdqWHRXU3lVWnRaLWg1TlMxQWdYeVFiOFllVWtFUEVvSC1YZll6eThDT09Iel9oUkdmbVFmTlgxS2lrMW9tLVR5WHIwQUdFVF9DdENRa0FaT3dCLVVhM20zdVJB?oc=5",
+    "title": "Atlanta Waymo burns after 33 mph crash",
+    "source": "FOX 5 Atlanta",
+    "published": "Mon, 27 Jul 2026 22:25:48 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo robotaxi caught fire following a 33 mph collision in Atlanta, raising fresh questions about autonomous vehicle safety and fire risk in crashes.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "accident"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3N3aW96UGdBQ1FfUGFtR05NWm9maGJaaGJ1ZXRZLUx3bVN4YTlaRjdaRHgtOWw4TWNHWmZTb2VOakdQamhBeVNhWDRMZVF3b3lObk1CY09zc25mR3J6QU40WGNEUTVQR2l1ZmVPdnFldTBsOGp0YXlkTEVYRWhtT1p0Q3Z4UUR6RFlKVks2RldtSXox0gGaAUFVX3lxTE5pUjhFam1USEVfcS1MMnJFTjljbUlaYTIwUlhCdUN2cGlha1A4MXJBU295TzdaQVZES0NtV2E5cXd5VEE5N3ZLZkoyZjcxcGlOMk4yUGNSUF83Ymw1eW9haW10QW1nVnZrQl9aeC0yTWNaZlpUUjVBS0dLY1o3VXNEVFlZbDNZQksySC1WX0NSZXY1V0RSRVNFRWc?oc=5",
+    "title": "Robotaxi Emergency Scenes Still Challenge Driverless Cars",
+    "source": "KRQE",
+    "published": "Tue, 28 Jul 2026 08:37:07 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Autonomous vehicle systems continue to struggle with emergency scenarios, a persistent challenge that limits real-world driverless deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety",
+      "edge cases"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXJ0a1VNa1pUamRTbURDU2tzYWo3emM1dmtCSjU1d2ZhOVlZdmJXcC1kcWMwbVczM3phUXUwWVNhY25CZ1dManlHQmlJR2phMF9VVEhOdWg2SFhCWGtWb1FwallmUnRCSm1icEl4QzZhdFRMVGhDLUs2a3gwYm5iT2xTODlOZUhDaC13bjhqN09hRWR0QW4za1F3VWZVN1prTUHSAacBQVVfeXFMTWUwRVVudlJ0emlUUlU4dllGWWlvUlJHZ3RZa1ZMdWc2bTFROGdWLXNVbkpsRjctOU1xdU0wWTBOa3FLQ1VXRHBaa1F5LVJnZzM5TjlFZ0h6b3h3clcyUzg5UW1wT0FUVE9BZWNtaXVENTlsWU92bi1adWxKLWhJM3BNYTNiYllQcWdRQ0FpMDM5emUyVkpvN2Jid2E3cExGUXRYcDB1a2M?oc=5",
+    "title": "Woman critically injured in 2-car crash involving Waymo vehicle in Pico-Union",
+    "source": "ABC7 Los Angeles",
+    "published": "Sun, 26 Jul 2026 19:32:07 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A woman was critically injured in a two-car crash involving a Waymo autonomous vehicle in Los Angeles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "accident"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHhfRlRCOHo2bUx4TVRmYmRJQkpOV3A4UnBJdURkZzB2eENqbjV0R1BqZjMwOG1PTkhwN01INUpDMnRFeU00cC00WVNSbHNrZFZYbzZXM1Y4Vjdwc2NFQXFQamdjY3I2ek5jM2J1VnVSbEdCMEFPQ1RIM1c2MzlnY04xTXl6WG1NSW9PSHo5d0lKalFFZEljamVnSTNUVDYzY25vbNIBuAFBVV95cUxNMHg1MmtiMXJINWdTdmVDZWhrQkJOMHdtcFdvZVJESU12N0lMYmE1MVh6enYtcmp2Wk0xVktac2VLd3doWm52djVPeWdhRjhiaTl2MjVmNmFlYW4yTDE4dEp1T29kd2tZMWZ1V0hwUERwSlV0U2NZeHAxZEsycHpVcW1WY1hmcnh1a1ZfeG4wY241QVh0UVBZUEtMZ1VmbGxtYVo3aVpHQ25LR19kQ1YtcVVDcDV3cUd5?oc=5",
+    "title": "Waymo goes up in flames after rear-end crash",
+    "source": "WSB-TV",
+    "published": "Tue, 28 Jul 2026 14:46:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless vehicle caught fire following a rear-end collision in what appears to be an accident rather than a product failure.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2tRUVBKcEl6OFhZTW5ReE9FVzlmbXNpb0l0LWNrbnFEbUFKTDktMkpKQ18wc20wM3V5RVA1SFZ2RnlVWWR5R1Z3Z3Z1NHNOVC1KVERBajkzZG5QWDhIZXRxWkQ2Z05pRFRaRzFTWTU1SERod0gybUszdzBFTkNSQTRuY2FhTEZtWkxkZFlVS0VDbnViTGYzT1VvQkZRdEQtZHJuMUowZlRxak45SFNGLUw3VkZfV1drZTZuRVhQd28zaTdqRFNheTlBS3kzWGs?oc=5",
+    "title": "I finally rode in a driverless Waymo in San Francisco. Here's what it was like",
+    "source": "Yahoo Creators",
+    "published": "Mon, 27 Jul 2026 23:32:52 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A journalist takes a ride in Waymo's driverless taxi in San Francisco and reports back on the experience.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUdBdHN6dU1wUVJlOThMbFMwSUQ1NFB5Y0NHVFdjanpEWkREdEhMeFpXMDFKNmthMm9TLXJCelo5MVNleGVKR09Xd2oyQUF5UVhXWS16UXhfWHh4YVUxUDR3QTJQNGh5RUpfMDNZM2FpOFFrWHBPRGUtNWR5aEZfQ2lQUnEzUmpaMVJOZVVfRFdRc2pRUUtmTVN6eFVHc2o0aUlQUzF5QWtYMnJLSjVobk53bHU1TkdDM09heHU2MUItZmswUnfSAc4BQVVfeXFMTm9sZWkyYmRtREtPZnJhZDdfZTNOblpGMU5xVnY1Q2dTazgwNG43U0p5YVlfaGNyUUVUTnRXYnUyVHRWd2NDdDI4dHExYzBoSnFrd1llU0wxaksydmppeElERnROWkxaRjNLS3Q1VUc5RmhSSnJsb0tlZXZMVHlIbkdBaVI3aHN1R1hGeVNaeDJKeTBzd2FHZ1Vfdk42c29lSW5oX2xzbnRDZ2ZOQWNiRVh0SWJlOFZQWXd3OGY4N0hKbkNiMWlNSGpLMlEyTUE?oc=5",
+    "title": "Study finds Waymo driverless vehicles involved in fewer crashes than human drivers",
+    "source": "NBC 5 Chicago",
+    "published": "Mon, 27 Jul 2026 22:54:30 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "A new study shows Waymo's driverless vehicles crash less frequently than human drivers, offering the first peer-reviewed evidence of safety gains in autonomous trucking.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety data",
+      "crash rates"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3MzNmExSnpYXzZRWXNSQlhlUVVRcjZTbFZhUnJ0UE9LVldKZ0xtZU9vZEhhR1pCdWh1ZERqSkZyZmJJQjFObkU0anhjeFZWYlQ2SVhMbnEzZWZraTFMRE9ZUzYxTzdPdzFicm5oZy0wTngwMjktU21mT3ltbnlZMWRmVFNjcFFfWVE?oc=5",
+    "title": "Waymo robotaxis have racked up almost $10K in parking fines in one Texas city — why their driving may still be too human",
+    "source": "Yahoo Finance UK",
+    "published": "Tue, 28 Jul 2026 10:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's robotaxis accumulated nearly $10,000 in parking violations in a single Texas city, exposing gaps between autonomous vehicle behavior and municipal code compliance.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi",
+      "regulatory compliance"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXNaaUlVZy00Z1l5UHFzTlZLMTRNRWRjSkk5VEU2SGFUdGRwOFBpQW1ZOWdmZWJpa0Z3elNlZllJbGpRS2RnbjRZMmNUTkN0N0V1aE40aDhZQWV1R0JfNkh0ZTN0c181aU5LV3U4b296Xy1veFk5bmJTNVhNNFVMUUJ4c2RuUFVIU0E?oc=5",
+    "title": "Baidu (NasdaqGS:BIDU) Starts London Robotaxi Tests And Wins Hong Kong Driverless Permit",
+    "source": "Yahoo! Finance Canada",
+    "published": "Tue, 28 Jul 2026 11:12:01 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Baidu is testing its robotaxi service in London and has secured a driverless vehicle permit in Hong Kong, expanding its autonomous-driving ambitions beyond China.",
+    "companies": [
+      "Baidu"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnItWDl2dUlFWlFaQnpmSVFHb01oRWgxdWRxbGlqbDdqTHZQaFB5eFZwMDJGeUFRRXNWcEtHVUQ5Sjg1enpUb1J1VmEwOVVWRmhfajNaVER3dEE3QUlldXRISTFfRE9vQXVWcktyUkNkaHZidHV4Y3NYRGdiN2M3MTJoYlNUNVpLbkR3dnlUMWFkMGpxazF3RWgtWGp2NjdtZmp1X1VRdGthUQ?oc=5",
+    "title": "Charger Logistics to Deploy Second-Generation Driverless Trucks",
+    "source": "Yahoo Finance",
+    "published": "Tue, 28 Jul 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Charger Logistics is deploying second-generation autonomous trucks, marking an expansion of its driverless fleet.",
+    "companies": [
+      "Charger Logistics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "fleet deployment"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWU5Lcm9sa3lfUnlzd3ZfMkliWFFCZm9GY202SFN5dGpVdWgySzExS3JKRXhnYzV4SkxwX3dnbkJoZTlxb19Cb0R2dHJQLV95SndmUi1McWxHY1J0R0ZNMy1SWnVLV1BSMkg4QzNPN1JZeUJxemNnOHh5d0Q3UDdnRHphdE5CNDBJcEI0WkFlbUZOWUFYUWFMcGxraDF2OU8zMzVV?oc=5",
+    "title": "Three-way crash with vehicle, Waymo leaves 3 injured",
+    "source": "NBC News",
+    "published": "Mon, 27 Jul 2026 17:52:15 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle was involved in a three-way crash in an unspecified location, resulting in three injuries.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "accident"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkE4RW02akJLdkVabU9iaGdqSm5xYm1mSDBLQktKU05MQWR3UVVmYzV6U3YtdlA2UnR0NTd1ZjRiMDRrY3ladjJraHR3UDZ1ODFZcHlMNDJvWHZocnVkbXZ0ZmVGZG11bENNREVacllpbkp4VmJsRmMxc0lCaGtsWGpfeGYzUnRBY1NycFU4Q0VzNFZyalQyakpIR2dvRTVlM1Y2eENCMVl4QjFycFVZZ2paX1lKWWJMLXdj?oc=5",
+    "title": "Anduril Industries shows off first Ohio-built autonomous drone",
+    "source": "The Statehouse News Bureau",
+    "published": "Mon, 27 Jul 2026 22:11:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Anduril Industries unveiled its first autonomous drone manufactured in Ohio, marking an expansion of its domestic production footprint.",
+    "companies": [
+      "Anduril Industries"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "manufacturing",
+      "domestic production"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CNGhNcVZsc0lPYVpkVUllWC0wcHFqRVRINjFHa3BRYTI0R044eGFjZXNNS1pvSUozVXc5ekFWVjJmNzJMdzMwR3l1em9OQzVwaFM3eEJLUFF6LVlEdUdrd1MyUQ?oc=5",
+    "title": "Autonomous Guard expands Asian presence as regional drone threats accelerate",
+    "source": "The Jerusalem Post",
+    "published": "Tue, 28 Jul 2026 07:42:39 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Autonomous Guard is expanding operations in Asia as drone threats in the region mount.",
+    "companies": [
+      "Autonomous Guard"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous systems",
+      "regional security"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRjl6OUhOMTVzcmlwWUR0RHNMelZJVHZlX0ZCM1lWVVQ2c2sxUkt5NnptMlY5OGtjVlNXTXd1TG11eVZVbnlKT1o4QUtlQzVvVC03UXp0Q1N6bGw0cUhWbUlzV05ONWlvSFdhTUdMd0s5MllaZ0p5bVE3bllaa2I3S3lQdDRLVlN3d2hwQ05Bd1NNaW1zVHliYll5ejZ6NS1uTDhQOFFCTmxoVFZzcFJaUElDUU03UkhDclJwQnBvZw?oc=5",
+    "title": "Anduril celebrates first military drone to come off Pickaway County production line",
+    "source": "WOSU Public Media",
+    "published": "Mon, 27 Jul 2026 19:52:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Anduril began production of military drones at its Ohio facility, marking the company's first units off the Pickaway County line.",
+    "companies": [
+      "Anduril"
+    ],
+    "people": [],
+    "themes": [
+      "military drone",
+      "manufacturing",
+      "production"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDI5bGE0blpBLVFYTi1UZ0JOR0U1YWZqY0NPRjM0S2hMeGM0Njd6MldxRExEWTFUQ1JZQVFOaktCQXJndkpfTkppellzYkpPckFzaXYwNlZucDUxaldWMDZaS3FPLXBoWHZQWFJhYUt3VFRKbGVGcVBjaTlsVnNkeG9WeldxUE5OUUVMaThaeXZOaE5La29XR2dIYnR2SU1H?oc=5",
+    "title": "Marines Just Added AI That Turns M240 Machine Guns Into Drone Killers",
+    "source": "Military.com",
+    "published": "Mon, 27 Jul 2026 07:00:12 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The Marine Corps selected Allen Control Systems' Bullfrog AI system to transform M240 machine guns into autonomous drone killers, offering kinetic defense at a fraction of missile costs.",
+    "companies": [
+      "Allen Control Systems",
+      "Marine Corps"
+    ],
+    "people": [
+      "Mike Wior",
+      "Robert Billard"
+    ],
+    "themes": [
+      "drone",
+      "military AI",
+      "autonomous targeting",
+      "anti-drone"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04VGtCZ2o4Y1FxbFcwNDlvblJEZS15NXB4WWpKMWFfTjQ2NFlLcFpVemdBc3drcVdZX00wVVlZb0lUU0Y4MXByYXBlX3lOR3VsRTAwRGlDODVPYVMxUjNKZW42SQ?oc=5",
+    "title": "Israeli defense‑tech firms fuse AI drone detection with autonomous net capture",
+    "source": "The Jerusalem Post",
+    "published": "Tue, 28 Jul 2026 08:53:59 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Israeli defense firms have combined AI-powered drone detection with autonomous net-capture systems to intercept unmanned aircraft.",
+    "companies": [
+      "Israeli defense-tech firms"
+    ],
+    "people": [],
+    "themes": [
+      "drone detection",
+      "AI",
+      "autonomous systems",
+      "net capture",
+      "defense technology"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUVhKZ3AtQzlkU3FQR3pORG44cWlSMTlKY1JCbWtsWVB1OUtwTXNuemlPS013WEZjM3AxVmh3bjMydWptOXk2d0YzWEItY25RelRhZGdvM0F1M1c4X3I4dklEdkRfRkg2eTBsV25ycVNEcndjT25XbmtITGUtTEFFNDlSc05neUJ4VWVfUVQwWmVpVTBVM2NmOFNWV3FQSUlzdUJHNWt1dWJoVTMzTWd0WDI5SkhNSThqeHoxay1scDlCaVNGX2lob3phY0hkc0xjM284T2pYRF9qUjlIeDEyQ2trRTZ6YUFfZXB5REp0NjRBNknSAfgBQVVfeXFMT0pkQmxlNXpENnREMVhrMGp1WkQ4WkRzSGxrcXlrM1VvbHpBQVcyM3Y0NDFkWm1HYWp4OEVCa0lyOWRlRnhwVzBnQjVGM215enN1emxaaS1oZlJ1NDY1aE5oMlViQWR4MHpBZ0xNREhuaTFnd3lEUmlDdjJqQ1NtaTNyQ0F1cVVaLWVncy1tdzBydHhxNFdsNi0wYU93Zjg3aTZISHBINFFvd011ZW8tSVh1S3RpQVhQcHczZEQ3cWpJaXJBVlNmSF9SbF9POWR3Sm5SSk1Cc0tFRWhHVS1LcWtvb21rT3pFbWg1M2dWNEt1OGhzWUJIbXE?oc=5",
+    "title": "ZenaTech’s ZenaDrone Begins Testing Phase for Interceptor P-1 Counter-UAS Drone Platform",
+    "source": "The Manila Times",
+    "published": "Tue, 28 Jul 2026 11:36:58 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech's ZenaDrone has entered testing for its Interceptor P-1, a counter-drone system designed to neutralize unauthorized unmanned aircraft.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "counter-UAS",
+      "drone interception",
+      "defense",
+      "testing"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTlFLc2cwdUNQUGpjNENHaG1VSWVqNGVJVHhES0lsczFrdWNqUFVHX2xTNjFsel9EYzJZOUtOM3BBYnItQTlLR2EtX1pZLU41Ym9fTmZqOU51d2E5TWsxbU9WelBiUGxSRTh2RkxQLVU0dGh0STJNaVE3WjN0d3prVGdRRWZkcTZPVkYwVUlJOUpWX3ZGMU1mVGItYU1lLTRVeHlSMGx0a1JTYmxPY2d6SWNOb1ZBcFFrYkFPaEhUMA?oc=5",
+    "title": "Quantum Cyber’s 80-Unit 3D-Printing Drone Farm Expected Soon",
+    "source": "Stock Titan",
+    "published": "Mon, 27 Jul 2026 11:30:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Quantum Cyber is preparing to launch an 80-unit drone farm capable of 3D printing, marking a significant expansion into autonomous manufacturing.",
+    "companies": [
+      "Quantum Cyber"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "3D printing",
+      "autonomous manufacturing",
+      "drone farm"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KTmN4eFZiYUhEbE1KeVhCdEp0WThNaTdCZmt2LXZsMXZCNG1GOW1nbDMyakRvaFZsOElDZDdBbzZDWmlKQ1MySlJzR1NqeHZWZDZCUENoYmJBUmZfSkRIeTJxMHZRNDZadTdn?oc=5",
+    "title": "Tornyol drone uses sonar to hunt and destroy mosquitoes",
+    "source": "New Atlas",
+    "published": "Sun, 26 Jul 2026 20:06:19 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Tornyol has built a sonar-equipped drone that hunts and destroys individual mosquitoes in flight.",
+    "companies": [
+      "Tornyol"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous pest control",
+      "sonar"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWh0WE9zdDhRdTlHczRGN1VkZVNUcVAyQlA3NWYtaU00RDRFS0IwTnVsU0hpQWszUHRaRS1NVkZlU1dZYjAyLUUyUDJYT1FpaWQ0UVBKUWZ1bWxvVXZsVXlJMlczYUJ3OHF5TXNMUE01Y1dZNzJ1WUFVNHg4ZW5aUDQwanNYOHlIaERscnBxNWxJMFgtUG16bnR2TEwyM19KYURsNnBSUld2ZVJiMlZVQmpZWTdSMVlQcFRaUlFpWEdHMmhHYlNIMWpRWGtKTGZ1M2RCeUk5ODdnZWw3TEpiTjhMTVZsV3lJeUlz0gHwAUFVX3lxTE9oTzR2NVlFT28xZ0pWSURTOVJfazBfbGhsZnpfU0xnTG54V3NZOU9MazFBSkhUUHFoNU55bmoxSEhFd2tjamphMmJlVHBJY09Vc2twZ1ZBSUFzenRyZzkxV2lLR1htQzVITWRvWTQ4cWdtcDB3NjZ1Q3Nha1ZtRTIwZ3hQSkxPRUx0TXpxa0tkUzZuM1lMTjl3bHRWUlpLTGZxa3VBWWUxSFZSRnZpeW9xYkI3VXd3c3FSdHR2UDVKdzFaa1BGWl9najE4bkV2a2syTVozelBPZWZPRlhaYWhuT0VsWWwzS0JwM1RoVTAyWA?oc=5",
+    "title": "Inside US navy's GARC kamikaze drone boat that breached a target warship",
+    "source": "The Times of India",
+    "published": "Tue, 28 Jul 2026 04:56:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "The U.S. Navy's GARC autonomous boat successfully breached a target warship in a test of kamikaze drone technology designed for naval warfare.",
+    "companies": [
+      "U.S. Navy"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "naval warfare",
+      "kamikaze",
+      "autonomous boat"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTRfVGFENWdjbFBmUlE0SmhOZ0NDcU02TUZjY1Z2b1c1SkQwWjBSYnpzWkhOU0JJMG5BNWlxMHpTbkFDd2pDdzZWUEt4Nkl6Ni1Ndm5HdU41bEZIY211Yk1zU0hac3N1Q1J1OXRKNW1xTzZiSUdBb2xlT3RpSURkYWRiWnBEOWVnTzB3VkpuNTJ6UVdxOEs3QlRB?oc=5",
+    "title": "Ukraine's drone experience goes global - Swarmer joins US AI defense project",
+    "source": "RBC-Ukraine",
+    "published": "Tue, 28 Jul 2026 08:10:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Swarmer, a Ukrainian drone maker, has joined a U.S. artificial intelligence defense initiative, bringing battlefield experience from the ongoing war into American military development.",
+    "companies": [
+      "Swarmer"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "AI",
+      "defense",
+      "swarm"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://skydio.com/blog/sub-inch-rtk-mapping-accuracy-proven-in-the-field",
+    "title": "Sub-Inch RTK Mapping Accuracy Proven in the Field",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Skydio demonstrated sub-inch RTK mapping accuracy in field tests, a capability that improves precision for construction and surveying work.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [
+      "Nikoleta Guetcheva"
+    ],
+    "themes": [
+      "mapping",
+      "RTK",
+      "surveying",
+      "drone autonomy"
+    ],
+    "first_seen": "2026-07-28T16:38:41",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
   }
 ]
