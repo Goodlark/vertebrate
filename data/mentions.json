@@ -5513,7 +5513,7 @@
     "first_seen": "2026-07-25T16:01:30",
     "week": "2026-W30",
     "why": "Coordinating a fleet of robots via voice command is a software problem as much as a hardware one, and NVIDIA's stage presence suggests it wants to own the orchestration layer the way it owns GPUs. Fleet-management middleware could end up being the more durable business than any single robot body.",
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://wing.com/news/wing-drone-delivery-bay-area",
@@ -5609,7 +5609,7 @@
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM1lSWHNJNnpxVS1KeWtvOGl6WGlUdFNUend1NHFLSC11R25mR2R1bHFFdEFlRkZOazlXdDFIcS1ZV054TUhFV1dPMHlVNVViVXM5LWVZNWlvLS1hUi1ObW1CTU9WeUkwQU9YR0x4SzRZQzFISVZseFpObEJmdkxkZENPMERudEVNRVkxNnhDdl92SnZtYlFROWRKSEt2TzF3YXl1Y3RsM1dhRm9mY1JBTnh4cWJQTDZJRXk4TE1TU2JyZjNoWEdWX09DMDNhTnVhSDROcXJyTUNxcGVraVYzbzRRN1hEalIwUFRKMVRxVTFFempaaC1aVHRsaHFLd1luV3k5OVE5WUI?oc=5",
@@ -5688,7 +5688,7 @@
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qYjRsUGVURmtkbDl2SEllS2NjUldtWGZEU21adTVXRmp3MlBSQTJXWWtlWHI5NW4ySWtRLWl1Qy0xWm1RSlV4bWdJY0NldkZUNTVfc2VFWTJTc3hXVHRYdmdDU0hGVzEtZ0FueE9kUkNaUdIBd0FVX3lxTE9FcEpqTzFiOHlvMXVEd2JMX0ZYVndpZVEzOEdHb2ZVNmpyTHZ1SXRaWW9KTlpHeUNpVkxDVU5yTGlTbFhVNm9kd1lIOUtUUjVkUTNxbkc1cnljdVJGVVNHcUZVSXlJQ2RCZUh6TEFXSURGWVIwZ2ZF?oc=5",
@@ -5757,7 +5757,7 @@
     "first_seen": "2026-07-24T16:32:08",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUxOTGFkeU9XX3NIQWNiUmNGNlMzTGdlNVZjNXNZamR6RjRwandteDZFNUxsWEoxVzBKenRoNF9ZVC0zQWFJS1BrSkNtTmkyTHBBVGlEUjlycS1nak1haUYzbEVfWTRUakMySlZMbEVlV0FOemNnZFZxMzJfcXJ1WlRBSW1qMUxPMGFvdGtvZjdZT1lEbHJsWHdLT3I2UVpEWVNtN1JzTENFNFZQSFZsTHdZSHpMcm9tSWIzbXFVbG45R1NZelhzQw?oc=5",
@@ -7973,7 +7973,7 @@
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY00yMzZzYmt4QTQ4dU9vRXI0c0VCVWgxQlQ0WENNb0FWM19ya0VOb2NvUXdFS2l2UWUtRi13N2hTcXppMWVXanRYcmI3VTYwaU9reGlBLTl5RHd6eVpkMmI4LXVWZEhtem5rRWI0WVZ0WmVrOFZ0UWJiTl9RbEVjZm9fZ2hMdkx4UF84a2hndlUyeVdEUFRHU0lzZFhEbUo2Z0o0SFo4ODd2TUVsS2ZUbVpfUQ?oc=5",
@@ -8047,7 +8047,7 @@
     "first_seen": "2026-07-23T16:24:03",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JWUlkZ0JMQnZRcmxrb2lJanhJRnFJb2tORmNFWUhsQVBzaFdWbnlFWkducC1uQnZiWDZWdTVaM0RneWZGQl9FQWtybmtSWkdlV19oR3JxNmtYMG8?oc=5",
@@ -9587,7 +9587,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTJuNERuYzdIZVpxNjluWU9LeHV1dkxDVnVCSVBLVGc0VzdJdGJfdXV4U20zNFRVTUJLM2lpeURlN0JMcEZDVVlPSWJLQ3A3TkhlRzhjOVoyLWZMdUlEckNMVWZrMDQ0ajZVVG1kbzVLblEybnYyaG5uQmVaZEFNNnV0N1lla3hmdXpKdDFCSy1nQ2ZRemhWNHdrblc?oc=5",
@@ -9656,7 +9656,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm9ja1Q5eE1HMEU4QmVJMjhpa1MzRjVwNE1MZTAwZTN1b1FWMURpTmpNMkhvS21DejBXOEZEUFpEOWVyNnNxQzUyMXFmb211NmFkRUZPZHlFcnZsZHgyVllZOXp6Wmo3ekJDTmM5d21Kb1ZoazJELXI4NDVqbDFTNjktdU9qdzN2MmY5dVpBZjZxU19GZWdhOU1IY3h3SlVRRHUxRU1kWmNzSFZNU3plRHNkaXQwUQ?oc=5",
@@ -9898,7 +9898,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://wing.com/news/wing-and-walmart-seven-new-markets-drone-delivery",
@@ -10063,7 +10063,7 @@
     "first_seen": "2026-07-27T16:55:14",
     "week": "2026-W31",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUVp1dVRfVGdTTFVCSUVESUlNUG02SkFpZjYzY09leW5hbWxxb203eThnWGV1eGVXb1Z3RVRULUNFWno3a3ZNRVdKN2szWnp6eFdLcFd0YncyTGlRb0loRkdfRWoxaVBfMzJmQlpVdw?oc=5",
@@ -10577,7 +10577,7 @@
     "first_seen": "2026-07-27T16:55:14",
     "week": "2026-W31",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdV9xdU1lSWJ5ZVBkMjc2YmQzWnUwRTlYVzJlengtd05qSjZZZ1RneEJGUlJrOGNHV294b1lqMHdFVC10Z095QTc5aUlYMDJOSkFqSFQ0SFZRVHp1V0Nib3ltckdvWlFJX05FczlyU1Q4X0xMMDJlb3MzVHk4dWtrWUNXYXpDTmpha3RvNmNpNUpEQTlER3RDUWpUNGcxeTlORVNaWEMzWk9pTlk?oc=5",
@@ -11385,7 +11385,7 @@
     "first_seen": "2026-07-28T16:38:41",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXNaaUlVZy00Z1l5UHFzTlZLMTRNRWRjSkk5VEU2SGFUdGRwOFBpQW1ZOWdmZWJpa0Z3elNlZllJbGpRS2RnbjRZMmNUTkN0N0V1aE40aDhZQWV1R0JfNkh0ZTN0c181aU5LV3U4b296Xy1veFk5bmJTNVhNNFVMUUJ4c2RuUFVIU0E?oc=5",
@@ -11614,7 +11614,7 @@
     "first_seen": "2026-07-28T16:38:41",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KTmN4eFZiYUhEbE1KeVhCdEp0WThNaTdCZmt2LXZsMXZCNG1GOW1nbDMyakRvaFZsOElDZDdBbzZDWmlKQ1MySlJzR1NqeHZWZDZCUENoYmJBUmZfSkRIeTJxMHZRNDZadTdn?oc=5",
@@ -11708,5 +11708,1106 @@
     "week": "2026-W31",
     "why": null,
     "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uVUJabGdkUnpOTmdmdnlqVmhndzNiWjJ6LUhUcG5sbDdjcjNsR25pUUd1MHVlc0VYTjBERGJ2bG5sSkl1ck5qdGRIdzk0M3BCckhpNmVaNDJvMjZzYWZfbmdLeTdzOFluN0NR?oc=5",
+    "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+    "source": "NPR",
+    "published": "Wed, 29 Jul 2026 09:24:52 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "An upstate New York school district has paused its plan to deploy a Realbotix humanoid robot teacher after backlash over the company's ties to a sex-doll manufacturer.",
+    "companies": [
+      "Salamanca City Central School District",
+      "Realbotix",
+      "Engineered Arts"
+    ],
+    "people": [
+      "Mark Beehler",
+      "Betty Rosa",
+      "Melinda Person",
+      "Steve Wozniak"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "education"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3JUMFFydWtDTXluS0Z3VHcteFJTMWpscXFqcWNGRDhWOVU1RndmNUpKZ0ZFRTVPODFDVHFHMTVyLWE2eEk4WmZVMTZkNmNKcjR3UFJReF9Rem5RRkNzSS1BZHNRb2gzOHNSeGh4dXpXWk0zNHpGTzQtSkZYZnVpZkw5NGxrYzJDUzFQS0UycUp0enk1eDM4Sg?oc=5",
+    "title": "US bans foreign-made humanoid robots, targeting China over national security",
+    "source": "AP News",
+    "published": "Wed, 29 Jul 2026 12:15:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The U.S. government has moved to ban foreign-manufactured humanoid robots, citing national security concerns centered on Chinese-made models.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "policy",
+      "national security",
+      "trade restrictions"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRk5NR3VtYWdfYjFCbUJSamdqMEgxai1EUjc4bVpQcGNiSkNNNjV1X0gwUUZTMHFtTk5raklhV2dRcXBXVEZ1Um4wUEdKR1o3aE9LOGRqNXM0RnRIVFVnTlJESkVMWFRtWmFqbGdmajQ?oc=5",
+    "title": "China’s humanoid robots have been taking over the global market. Now the US is banning them",
+    "source": "CNN",
+    "published": "Wed, 29 Jul 2026 04:51:05 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The U.S. is moving to restrict Chinese humanoid robots from the American market, escalating tensions over physical AI as Chinese manufacturers gain global ground.",
+    "companies": [
+      "Chinese humanoid robot manufacturers"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "geopolitics",
+      "trade restrictions"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUV3REY1FKRXJqTFF4ek5ZS0xqeXY0bU1pUkxkUGx5cFlaMklqWmM3NFk0ZzdVRlhPaEhBYTlTU0YyZ2tfSG0zZENjb1dmVWU2ZzdlMktkRDlFUQ?oc=5",
+    "title": "Trump administration bans new Chinese humanoid robots",
+    "source": "BBC",
+    "published": "Wed, 29 Jul 2026 02:30:50 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The Trump administration has banned imports of new Chinese humanoid robots, citing unspecified national-security risks to American supply chains.",
+    "companies": [
+      "Unitree",
+      "UBTech",
+      "AgiBot",
+      "Tesla",
+      "Boston Dynamics"
+    ],
+    "people": [
+      "Brendan Carr",
+      "Scott Bessent",
+      "Elon Musk"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "trade policy",
+      "China"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmxIYi1zdUZnRmhCWlNYY0x0LU9sUXRGWm1ka1c1YjljNFI5V0lfU3luYkRGU0NnREExTm9tTUV3bWFyX3EwbXpYa2tybDM3MWJ6em5Yd1A2LUZlMjNGeHNoOVVUT2RrNW9adTlmVm80OEVfYVZjZ3BrclN5Q00wVTNFVnlSWUFqXzZPQjZYM2JCeV8waHZsak9PcFZqYXluMEREVmxJUmpWQ1JaWUNjdUREd2Z2U01wVXc?oc=5",
+    "title": "Walberg Sends Letter to Sec. Lutnick Regarding Risks of Foreign Humanoid Robot Technology",
+    "source": "Congressman Tim Walberg | (.gov)",
+    "published": "Wed, 29 Jul 2026 14:18:39 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Congressman Walberg urges Commerce Secretary Lutnick to investigate national security risks from Hypserscale Data's partnership with a Chinese robotics manufacturer.",
+    "companies": [
+      "Hypserscale Data",
+      "Omnipresent Robotics",
+      "AGIBOT"
+    ],
+    "people": [
+      "Tim Walberg",
+      "Howard Lutnick"
+    ],
+    "themes": [
+      "humanoid",
+      "national security",
+      "foreign technology",
+      "policy"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbml6UUp3UkUyRHlUOGxKTjNPTnZvTlBxSmdid3BuRmFINnhzaHVmS1U3M1lrd1VGRkxWU3lyRnZUdUVuSjB6SnVJc1JaSGFWQ1lUOE9JZUhWeVlhNW1zaUx4U183NmtFaU1pSjZNcW03YnlaNFI1dUFRMGlfQ0RYVVUwMlpweGlDZDByT2ZXSldmVW9DV195Z2xGSGczQ3dHM3pHSDZoMC05R3dZOXdXNnFFQXBLYXFSV2RTMmtOMkNmeFU0MGNDbWRlakc?oc=5",
+    "title": "United States Bans Chinese Humanoid & Quadruped Robots, Citing National Security",
+    "source": "Forbes",
+    "published": "Wed, 29 Jul 2026 00:42:16 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The FCC has banned new Chinese humanoid and quadruped robots from the U.S. market, citing national security risks and effectively protecting American manufacturers from the current market leaders.",
+    "companies": [
+      "Federal Communications Commission",
+      "Agibot",
+      "Unitree",
+      "UBTech",
+      "Leju Robotics",
+      "Engine AI",
+      "Fourier Intelligence",
+      "Figure AI",
+      "Agility Robotics",
+      "Tesla",
+      "1X",
+      "Apptronik"
+    ],
+    "people": [
+      "Brendan Carr"
+    ],
+    "themes": [
+      "humanoid",
+      "quadruped",
+      "physical AI",
+      "trade restrictions",
+      "national security"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUk85S0d0cElnMzl2Q2JiNmtIblF5Q05YbmN1UWJ0NHZldkM3akF6UWRBZWEtY3dPV1MzQWo1OTF0ZXNNaEI3aGs0cHV4bzg0SkJwWWR0QjhEWmhzMFZsN2U0bDd2RGZsOVBQeFdRUWw1X1ZwYTFTeXJIbzRFYTlVa0N3WQ?oc=5",
+    "title": "US bans humanoid robots from China, citing ‘unacceptable risks’",
+    "source": "theguardian.com",
+    "published": "Tue, 28 Jul 2026 23:24:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The Trump administration's FCC has banned Chinese humanoid robots from the US, citing national security risks and accelerating its push to localize advanced technology manufacturing.",
+    "companies": [
+      "Federal Communications Commission",
+      "EngineAI",
+      "Sungrow Power Supply",
+      "Huawei"
+    ],
+    "people": [
+      "Xiang Ligang"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "trade policy"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGQ5Tm5mQWgxMlJDa1o5TmdqVzV3RXJabGF5NGVCQUNXTERITmQwdUY5eDRtS05yV1FMeXZibWotVjlvbnNJeEhvMnFTVkl6MFFDUTROUkpYdmdnSFVnRlAzdTJKVXRKTkstdXJMUDllVl9oTUJVUllYd2FCMTROQ0pWajZUbjVKMTZQZDI4SVUtSlZCQ3N6SEd0UTZsN2tUUUJjZS1WUGhLZzdaTC1pdGozSTUxeXVHNWJEWWU1ajljTmN2?oc=5",
+    "title": "FCC bans foreign humanoid robots, expanding campaign against Chinese tech",
+    "source": "The Washington Post",
+    "published": "Wed, 29 Jul 2026 03:53:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The FCC has banned foreign-made humanoid robots, escalating U.S. efforts to restrict Chinese technology in critical infrastructure.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "trade policy"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
+    "title": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout",
+    "source": "Reuters",
+    "published": "Tue, 28 Jul 2026 19:40:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The Trump administration has banned imports of new Chinese humanoid robots, citing protection of the U.S. AI industry.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "trade policy",
+      "China"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTRfSEwtcm45ZmVuMTdyZ0xlYlFTVFAwdmxNR1NRVmRZNWlzT19SXzFlUk0tMnFROXdKcmdvTzR1ZXBVdjFlelY3dkRGWlI1UVRncDhva21ZVkJNX3VqN2JyQ1VTZnowMy1PaC1FZTlLZ3pFMU9hODVpdWhwWGxBdHJ6OEU?oc=5",
+    "title": "'PR problem' is standing in the way of China's humanoid robot boom, says Morgan Stanley",
+    "source": "CNBC",
+    "published": "Wed, 29 Jul 2026 10:16:43 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Morgan Stanley argues that reputational concerns, not technical limitations, are slowing China's push into humanoid robotics.",
+    "companies": [
+      "Morgan Stanley"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zS3dCU2d3U295UUxjRnMwVmhGQjlFaG1MVGRDa0pZUmx1UnVjRHBIdnVNVEtYYk9JY0FzWlV6aWIwRllXNlM2OHppTVlFMmhsU0R3VEpOQVZfcnNVS2F5YmFpRE5aczJKU1FiaXA0UkE3eDRuYWF2clNB0gF_QVVfeXFMTm5WcHl3RjdqdTljZjVTYWlzYnc5TGNrVzNnY3RjbjNnNlVaZE9wd0lxdG9wUDFrSXFpWjhJaDMzamRXOWNhdnFCN0ZfbldpY1M1TXAxRlhDeUhrZFdfMHlpdG8ta0h3aVk2ZFdiT1N6cVEwa0I4S0lPdEIxNVBTTQ?oc=5",
+    "title": "Trump administration bans foreign-made humanoid robots in move targeting China",
+    "source": "The Hill",
+    "published": "Wed, 29 Jul 2026 14:24:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The Trump administration has banned the import of foreign-made humanoid robots, a protectionist move aimed primarily at Chinese manufacturers.",
+    "companies": [],
+    "people": [
+      "Trump"
+    ],
+    "themes": [
+      "humanoid",
+      "policy",
+      "trade restriction",
+      "China"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFZOMEFUSXRsTU01WEsyekdPRnc0VmpXOUtaZmkwUm83dC1TRXh2YmJLOGxQSlZpMmVXalRkWVNkMTd1dHZvdGVuSGs5TThWaHFLT3B2YXJXa0hicVY4dGkySThhR21TTEp6R0N6eUlUdWZzV29wYnJlODhnU3BJM3lLVUNzVGlWNDRVM2lrZEJQSHJsQVBiVURyeFExSFA5dk9KVzI4US1oRU1WdnptNtIBtgFBVV95cUxOeGJmRHZiOFFrbXRYMVI3RXJVRHoxdkpYcUFoRzBxWmphcm05cm5BbnBmU291NU1DcU8tal9JekZHV3B3TkNaeHFOSldKNmhWZzRpaVEzQ0pjWUpESVJ0YlhZT242VFlVNU5fMng3SXJDRWdaUWJfaEFQQ1ZzUGtXeE50eko2U2p5UUtJMDBRWFl0VUJWSEIzLTJYN0hMaXNBRVhBRHBjWUpCM2FWWG90S3hPcFhmZw?oc=5",
+    "title": "US bans foreign-made humanoid robots, targeting China over national security",
+    "source": "WFLA",
+    "published": "Wed, 29 Jul 2026 09:00:19 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The U.S. has banned imports of foreign-made humanoid robots, citing national security concerns and effectively targeting Chinese manufacturers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "national security",
+      "trade"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm9XeE03RGVrN2NOYXZ1N3VVenNrbWpSaXpuTVFmbDFvN0ZPY1p3eVJneEpCYjlFOHVOMjRMYThWV3E0SmRZaUl2Y3hxN2gya2t5MGtFZDBiVkJTY2ExSUExVFBnT21aR3pJb3NUellSbzR5RXNHOGZnbC1rLXRndFppSUJSZw?oc=5",
+    "title": "The FCC is banning imports of foreign-made humanoid robots over national security concerns",
+    "source": "qz.com",
+    "published": "Wed, 29 Jul 2026 12:04:37 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The FCC banned imports of foreign-made humanoid robots, targeting China's dominance and citing national security risks from data collection and supply chain vulnerabilities.",
+    "companies": [
+      "Federal Communications Commission",
+      "Tesla",
+      "Figure AI",
+      "Unitree",
+      "AGIBOT"
+    ],
+    "people": [
+      "Brendan Carr",
+      "Mao Ning"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "national security"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkVSMk9kbGxlMGZCeDRTLWY0b2JUdEFFUUFQM1pwTTRTYXRSNm5CcHQ0dXNsbFdpcDFJdzQ1SXA2ZjgwSzVaRzhmN1RvUUpQeFp6ZC0ydVVUSE1qSnZZSG41NXRzTFdwT2VOWC1EZk8zTThYUDRKbFBwZ1Z0YXRzZUMyUGltcnFkU2JjYktxLXVGZ1BWUlZUNmxCNnpuV0o1c0FaenBYVUl4dVRtWmp0QzJEZmlhOEptZFdIZtIBvAFBVV95cUxQUmZ4eEdSYXJaNjl5RXV0aWo0b1RBMnY1Q0hVMHMtVmVjVmdIZm04NHNDN1J2cnhHdk1wYjRGUENxM1FvOG1kY1pQQlprSWN5bEhlRDd5RDRxLWFNQmUzc1JISXJOVzB5ZUxUd3pJcHI5bGZJWUt5YWpudkRUeTJ2ZzJTSUFDOHkxYjItT2VPZmttZWg5ZlVtWnhmeXN2aDFGMWpiNS1Ya0hMaWg5MkU1VTBGSTFKdjdkc2VDcQ?oc=5",
+    "title": "China sweeps global humanoid robot start-up ranking as US imposes ban",
+    "source": "South China Morning Post",
+    "published": "Wed, 29 Jul 2026 02:59:49 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese humanoid robot startups dominate a global innovation ranking as the US tightens trade restrictions on the technology.",
+    "companies": [
+      "Fourier",
+      "AgiBot",
+      "LimX Dynamics",
+      "Pudu Robotics",
+      "Unitree Robotics",
+      "Leju Robot",
+      "Figure AI",
+      "Apptronik",
+      "Agility Robotics",
+      "Agile Robots",
+      "LexisNexis"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "geopolitics",
+      "startups"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3FfY0RzR2drY1ZMazlDZFc5SW9hNlg0TmM4RzRWMVczbVBNOWpyYWNWU29aNTl5VV9GT1g0OGhUM3ByN2NSWTk1UGtwbWxPbUtZZW5WWjBqT2R3YnNCSllfUnJab0FYdFVVMzBrNUdBc2hIZ3FuczRhUE1kNV9JVktMcjcxZFFwVFRKRk9KR0lvV1NIOWtYcFpGckVWS1FFeDAtaHd3UdIBrAFBVV95cUxPaHFzZ2VBOEhaNWpHM3IyS2xGV1JmNFo5ZzlYMzRYZktaSGtqc3BCd3I4Y3NPZFZ2SFhRd2dDS2UxbmxxNGNtZ2JBLUZFTFRUZVF5c0UxcGpyckZtay1ndWlUUlNXSF91RG1OMnVuZ2Jja2U1NHY0M1psRno0Z1hvblVuTGowdGhxR1ZsUVVLVjhYV0V2T0d5cEs3dWwtaTh4dTRLRVQyTHVDeTZS?oc=5",
+    "title": "US bans imports of new Chinese robots over security concerns",
+    "source": "Al Jazeera",
+    "published": "Wed, 29 Jul 2026 13:13:15 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The US has banned imports of new Chinese humanoid robots and power inverters, targeting Unitree and others over national-security risks.",
+    "companies": [
+      "Federal Communications Commission",
+      "Unitree",
+      "Nvidia",
+      "Huawei",
+      "Sungrow",
+      "Tesla",
+      "Figure AI",
+      "Agility Robotics",
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "trade policy",
+      "security",
+      "China"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazJNTmZ3ZlVWUjk4S0JMR1YxZUpZMlNKbWpCMk5EUlFhZm1hSjRmcVB0ZWQ2LWZJZnpaakdiZkVTbElIWDV2ZVFxQlRzMVlWRk1ONEZnaHlZdUVCN2ZGYlNydVJHNEdTQUxUbC1NUWJUS3pfU25uQU1IWURORnBGNnZTM2EzU2lVcVdNYnpPYV9jS2xU?oc=5",
+    "title": "Humanoids loading crates and robot dogs sniffing out gas leaks",
+    "source": "Siemens Newsroom",
+    "published": "Wed, 29 Jul 2026 14:00:17 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Siemens showcases humanoid and quadruped robots in industrial applications across warehousing and infrastructure inspection.",
+    "companies": [
+      "Siemens"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robot dogs",
+      "physical AI",
+      "industrial automation",
+      "gas detection"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWtQVjN1bUhydDRMRUZUbXdXVnBHaUxFZEpnNkJ1dlZZbUI5SmNsTEl3T0VpUHR6TW1OX0lyQ25qX2VDTExrT2FpWW5DR29RVmVwLS1ESldjOEhSZGtEMng5bU9GcC1xb3hqdTl2U2tGQTgyX28zNkl6aE9FeGI4dUdYQTVGdDg4UnRtbmJB?oc=5",
+    "title": "US: Donald Trump administration bans new humanoid robot imports from China",
+    "source": "Interesting Engineering",
+    "published": "Wed, 29 Jul 2026 07:51:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The Trump administration bans new Chinese humanoid robot imports, citing national security risks and reshaping a market dominated by six Chinese manufacturers.",
+    "companies": [
+      "Federal Communications Commission",
+      "United Airlines",
+      "Delta Air Lines",
+      "Agibot",
+      "Unitree",
+      "UBTech",
+      "Leju Robotics",
+      "Engine AI",
+      "Fourier Intelligence",
+      "Figure AI",
+      "Agility Robotics",
+      "Apptronik",
+      "1X"
+    ],
+    "people": [
+      "Brendan Carr"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "trade policy",
+      "China"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTVBSMHFBcFhuMFg4ejBUZ25WeTNXMG1VdUI2TXJZVVBMX3ZOajNFc0wxMWdqWDlHZFdzdXUzQ0o5b1ZJR2stMHR2bW1BWVViTmFRQ005NXB4M3lnTHNxVEFmVG5OSWdNTnVtb29PYkl3cFhkQ1l2OV94aWRQQTA5aGd3ZHVpV1poYVBndVIydlVEOXZyNEpubDZxbXN1VFNZNnIwNGtEeGJRNE45QkVGdFJLUmVJa3BTeERvZUY1Ukx1OFNnRU1UajNwV2lvbG82UjRSMzRYSFRMekRQX2xaY25SNG1pdmZqX0NWVTU5OEdBM0xpdGM1aA?oc=5",
+    "title": "US bans foreign-made humanoid robots, targeting China over national security",
+    "source": "The Killeen Daily Herald",
+    "published": "Wed, 29 Jul 2026 13:24:17 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The US has imposed a ban on foreign-made humanoid robots, primarily targeting Chinese manufacturers over national-security concerns.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "trade policy"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGcxd2FybDhud1QtNmd4UDQ1ZmRhQ2hOMzR2TmVtdDlMd2NPbjJqSXBhZGVkajNDUjEtX3FyaHV6TWlNR1hKM2JXT2xjT3ZpamRTdER3NVBkZ2sxS0VsbmZ0VHhMenFqanJESVU3aGNsTlR0THNTa2V1OEI2NV9nOTBvX3FkZjhGYWhic0pBQl9WMlJS?oc=5",
+    "title": "Trump administration bans new Chinese humanoid robots, power inverters",
+    "source": "The Japan Times",
+    "published": "Wed, 29 Jul 2026 00:38:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The Trump administration bans imports of Chinese humanoid robots and power inverters, citing national security threats to America's AI supply chain.",
+    "companies": [
+      "Federal Communications Commission"
+    ],
+    "people": [
+      "Donald Trump"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "trade policy",
+      "China",
+      "export controls"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS0V6NWxZOUJXVi1QUk45ZUcyYUlUdHZBeldZNEx1N3F0X0dHaTJYaUdFNWtyMFUtSDkyd2lSejBHd29oRjFydE9KLTE2QVlFRVhXdXZsd2lJSlBFME1kWEdXMU1OaFdNdkJYSWxybFh4Mk1kOTdhcjh2eklWUGFyVWM1UVFRbUVsY2pBQjFLYUxBUQ?oc=5",
+    "title": "San Francisco is taking its Waymo worries to Washington",
+    "source": "E&E News by POLITICO",
+    "published": "Wed, 29 Jul 2026 10:29:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "San Francisco officials are escalating regulatory complaints about Waymo's autonomous vehicle operations to federal policymakers.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "policy"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NY21FTUE1VlYyVDVYX21lb096bENzVmo4UXdPeXpfMGduZWVpNGI3eUdzVmJKNDVaYjVtZjhrUWVNQkRBVHdFOWZabmM3dUlDWEltU05TS0RQWk95YVRlTjc2OG9qcmV4bEtEWDEwWDVQVHdQV3A5RtIBeEFVX3lxTE00WTJtSHN3SHFKcFpxNlItNEpTOFBaLS11R3VmVkQ3TEhISXlTODREdWlJdFNlQS1kLUdhaXhQMVk3OFA0ODRZZXVaTHEwTy1OZ3lSYmFxaUNxc1pTN0E4aVNHMnpvSWVFcnhYbkUzbDFfejZzTWZGVA?oc=5",
+    "title": "Can Charlotte handle competing driverless robotaxi companies? We may find out soon",
+    "source": "Charlotte Observer",
+    "published": "Wed, 29 Jul 2026 10:05:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Charlotte Observer examines whether the city can manage multiple driverless robotaxi operators, a speculative take on infrastructure readiness rather than a concrete service launch.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR25ZdjVkakp3WEZDQ2c4R281QzJfazUyZnFHdHRhandaNnBsM0FIa0FlcWp6b0RWU1Q5dnVWVXU3ck1IckMzZ1FZZ0dIQTlLNnpHTUV3MEhxcUhqWWRjXzRPb3NoZGRDalpmTzl3LXNpV0lZOEk5b0lRV3h6bFpTY0FEb0JsWlU?oc=5",
+    "title": "Waymo says its robotaxis are ready for Bay Area freeways again. Here’s what changed",
+    "source": "sfchronicle.com",
+    "published": "Wed, 29 Jul 2026 16:03:05 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is returning its autonomous vehicles to Bay Area freeways after addressing safety concerns that triggered a temporary halt.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXA4bjFkYjdJSHhQSjVVVjhKSFgzV200Sy1abTBTX1pFcUp5em5TOFBWVlBIby0ybFdMTlFZWnk1b2JiSmlaM1VlOTdsOElfTmZxOUR4UXlYNXJwMlJST2JvNXBsMHpRcVBFNzc1eEVKWkkwd1NMMFVhUkJSUU5RbWVsVlRvSXRBNXdURl9Md3lWQW5SNkhIVzlnVUM0Q3F0NnpCTmt0dFctdGZBUy1RVtIBtgFBVV95cUxPQS1zVUtIZFBOMkdRSVc1QXMwYlVuTDdZR21CZ0NJbWlIMmVNVzdxcVhZbVpJUjY4Xzh4VkhFN1RlZE95TWk5QWp2N3FJdTR2a0dVMTVSWFhscnYxQ2JjaTl6UERpVjU0S1dhdzR3V1c0NVVHLVhtODcyMnQ4RzNGMGNqZW1NenpLM2xnSWxvQ08wbEptZ3hHTXJURVk1RlRLVUZHREtyMzJBT3duc2FjbVNCWVJzUQ?oc=5",
+    "title": "Judge orders Waymo to stop overnight operations at Santa Monica charging lots",
+    "source": "KTLA",
+    "published": "Wed, 29 Jul 2026 15:58:33 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Santa Monica judge has ordered Waymo to halt overnight operations at its charging lots in the city, marking a regulatory setback for the driverless taxi service.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGR6WmhYelF6V2pXRjBtOEw1RWhVUHc5MTdoRWlKaXVBS2pId0tYUWhxbjFqTHQ0MFRxRkRSSnVQVXdURFA1eWpUNWJNXzRvRUhaUmxRcVNnejVvV2pmTEV1VTZmTzZRZlhFWkJLOVB1QnlfZGdTSFZPWDI1UjB5aEd2WjlPazJIdTlkRnNfOUNITGdsOHZSck8yaHJrTldkWGRvNVBoRXdqZFRj?oc=5",
+    "title": "‘Waymo’ Coordination Needed: Bill Aims to Address Autonomous Vehicle Mishaps",
+    "source": "KQED",
+    "published": "Tue, 28 Jul 2026 21:26:02 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "California lawmakers draft legislation to coordinate responses to autonomous vehicle incidents as Waymo deploys more robotaxis.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTBhUVFETmxPZzZvQ0k5SGdXOEhyNUhOYW00WXFPODAtSk40bXNSQ0VhWGEwd0NfV2lGYU0tNVE4U2FXRzNxcUdUYUxCbFhyV28teURmeHpaZXZWcktkY1BycXVlRGE0NnhmMmpyZ0EweDN3NHlkNHAzbi1FVHhzNkVLV3ZwS2g4aEE?oc=5",
+    "title": "Tesla self-driving manager describes scary conditions in robotaxi testing",
+    "source": "Electrek",
+    "published": "Tue, 28 Jul 2026 20:49:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "A Tesla self-driving manager has publicly detailed unsafe testing conditions encountered during the company's robotaxi development.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle testing",
+      "safety"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2ludUhsYURhbW5aaGlta1NhY2x3aHFJS2ZtNFVJTlZSSjNTaW1KeEFIZFNLOE1RdUN5NkV6S0I1Z2E3bmFxYVF4QjJKZEY3OE1vSGtPWDI3cDY1U2pKSVhiZ2pxUVJCQVdKUGlNbFBOZV96RjZRNnFUaTdWa0MzbHJnSDBKdV9yYVdVV2dvNWLSAZYBQVVfeXFMTms4MTZGeUNUVUxib1NLNDhoX01ybGEzNU1BbmNlcXBDZ04zNEFGM01iYTc2TDZsNGJjb2tyMkprZXNYejJseVhXbmI2cVFYcV84TjBqWW5IUjgyQWNzeHlFdFZmRDF0cE5Qa2dnU012LTRrbkNnOTNYd3hfOTk0cWh6WkI5a25WZGFVYllQOGtFQkU5cjlB?oc=5",
+    "title": "Waymo banned from overnight charging in Santa Monica",
+    "source": "FOX 11 Los Angeles",
+    "published": "Wed, 29 Jul 2026 14:34:10 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's overnight charging operations in Santa Monica have been halted by local authorities, marking a regulatory setback for the driverless company's infrastructure expansion.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "charging infrastructure"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEt3OUJtQWk1Ti05SkIwb1VsbnUyX0tqcW5VQzhQMkMwSXdOS0VabkZLZzZXSGVYV0N6Ym9BZFVPckdvTTA1NmlCRHJIVm0xZEhtckY5cGRIdVN4bEVla2tQSWFWdTk1MXpRQ3dhSnVJV2RxV3Y4bnVQbXNXNU8wZTQ4ZFB4V0ZZbGdN?oc=5",
+    "title": "Federal lawmaker steps in after San Francisco’s Waymo fiascos",
+    "source": "Mission Local",
+    "published": "Tue, 28 Jul 2026 22:03:55 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A federal lawmaker is intervening after Waymo's autonomous vehicles caused repeated disruptions in San Francisco, signaling regulatory pressure on the driverless taxi operator.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "San Francisco"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDg2QjJPMDNWSkpJXzM1YlBOaE5KeXhQNlVSaDR6eTJqSms4RFN3SGU5ZFRMZzdkd25YLUJlWTNOalRBcG4xdXFHN3NXLWxhNDhoTkUwQllQU1BDNEd0NmFCTU1UUUdxczhRZ0RXZlRKNHlSZVNWZDZZbU9FTUxrTWt4THpUaUdqNXlwck5aeTJ1WnFrZTRaYXZvRQ?oc=5",
+    "title": "Waymo involved in fiery Atlanta crash, sparking debate over driverless car safety",
+    "source": "Atlanta News First",
+    "published": "Mon, 27 Jul 2026 19:58:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless vehicle caught fire after a crash in Atlanta, reigniting questions about autonomous car safety in real-world conditions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "crash"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWRQQzJBQ3JBNDRPQkNaT1ZjSUMwUEdSTE9ILTVaMmU0dTV5dDRiNWczeFg5dmRTUWR5UjlvWC1lSEU3b0lxbDhsSUFLV1NkVFVtdTFZTDdueU5malRJWDIyakdEUEp4dUVOSXptX3VCeW5zLUJOM2xVcjZRRUE1TlFSaDBWZDFxa3dEbm5ZRUtVUmJNSFhJ?oc=5",
+    "title": "Lucid-Uber Robotaxi Faces Next Major Milestone in August",
+    "source": "eletric-vehicles.com",
+    "published": "Wed, 29 Jul 2026 11:41:21 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lucid and Uber's joint robotaxi project reaches a significant development milestone in August.",
+    "companies": [
+      "Lucid",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNU9oN1NUT1BUaXlUQzdXV1E3VVczSERORFJjWlBDTGMxWGdmSVBObVNTa0M0M2pEVmNjajhVQmhybGNOeTRvcVJNT25wMjRQcW9MYmhMSkUwQzJsNUdWWXlaUFFJdHVON256ZVltb1hWVDZhU3dOMjZEaFZUV21TZVlEWGhhOWZacm00bWkxRUdHLXp5TVJwcE50SnpILWhQTGlHaFdXMkxvVEJ3VG1GNzJweW5mYWUydUhoaFc3N3c0WWNDdjRJ0gHbAUFVX3lxTE5DbFhIWDZCSUNkbzFhUGtnamVpRTFPNXhCc0RBUzFsZno4dkZDOU1tcWNXOTFfM0dlZUJjR1NibzFqQjNFQkRkWngwX0RNNTk5emVXc2hNd3dvNXBHa3k2V293dEFFTHFodDdFMG5sckpLOU90Y2JpMVUwLWh2UE1vRUdjLTBTN0xOeGFBT0NKb1RteFlmdUZ2aEgwVGVxSThQd0FfNElnNlYtdkl2VGJXdUVseVY3SzBuWFhLR19DQkZ6bnJ6UkZGc1BWclFTLWIzNFA5VjcwNlE5SQ?oc=5",
+    "title": "Driverless rides are coming to your city — and Tesla’s Florida expansion is just the beginning",
+    "source": "AL.com",
+    "published": "Wed, 29 Jul 2026 15:57:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "An opinion piece surveys the expansion of driverless ride services, with Tesla's Florida operations cited as one example among broader industry trends.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-sharing"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN29hRWNERVplZkc0T0dWMnVmTUUzZC1iaVVaRlRWdUdudDEzODdkcERHX3k1dzE5RWJGcWVaTHhudnNnQ3N3WTN4Y2pGcmtiampVMVlHVE1NMXUzbHpvZnpxdWZDQ1B0OEV1SkN2RmJvSXdJNnVpTzZocWRUaVlzN09mSEhkRnpQdm9OaGhWbm9DaWc5VFMyQzVCcDdVUWZMSGNNXzJCeldxNGF6NnBST2Fn?oc=5",
+    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+    "source": "TechCrunch",
+    "published": "Tue, 28 Jul 2026 19:06:33 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo and other robotaxi operators face regulatory scrutiny after emergency response failures raise safety questions about their autonomous vehicles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "safety",
+      "emergency response"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEMyZzJiSmtMT00wUWt5RU0wdUY2X3Q1SHgtYlo0THJETlcyaURubGw1Sjh1bDQ3enJDVFlhTTlfbTZEd1Jla2JHVVI0TS1rNDdvN2w4d1YtTWNJZGtMMzdRelhLNGR4bV9BaWN4WW1Gd0pUQUJWV3ExLUEyMk1NbTlHXzQ4MVBKckdDajBKbDEweUsybEtNUm1maXY?oc=5",
+    "title": "AV and Applied Intuition team up to bring collaborative autonomy to new Mayhem 10 drone",
+    "source": "DefenseScoop",
+    "published": "Wed, 29 Jul 2026 10:34:54 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "AV and Applied Intuition are integrating collaborative autonomy software into the Mayhem 10 drone, a military unmanned system designed to operate in contested environments.",
+    "companies": [
+      "AV",
+      "Applied Intuition"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous systems",
+      "collaborative autonomy",
+      "military"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjBiRkEySUljeW11dFVVRjNzd1J0NmRON2RRRFpQNzd3RjdmZHVzbE4yV2FJYVVka19kWWE0S3BpSjRELWV5ZXNpeWJ5RGFUR3FGMUo5cV9BS0kyZk5lY0lQNE1sMXczdTJGandFNHNZR3RLTWtWU3FyRm4wSGk1ZmphRHE1Y3F0a0d4ZncwdlA2LVVXT1IyVDU2UjZ0a2hVLVNiVDNR?oc=5",
+    "title": "Dynamic Aerospace Systems and Flightbox, Inc. Partner to Advance Autonomous Medical Drone Logistics for Healthcare, Government, and Commercial Markets",
+    "source": "newswire.com",
+    "published": "Wed, 29 Jul 2026 14:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Dynamic Aerospace Systems and Flightbox announced a partnership to develop autonomous drones for medical logistics across healthcare and government sectors.",
+    "companies": [
+      "Dynamic Aerospace Systems",
+      "Flightbox, Inc."
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "medical logistics",
+      "healthcare delivery"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQTFQTVl0bmEzVjBPcko1LXU3YWFOV1NKOVU3dVAxcWdTX3hHQ1JOZGVsUHlZNXlZaFMxT2JxTW5PYzJidDJnblhVZUZOVmFBSDVXTjhFNnp5UHZpQnlzSW4yN2hHQWlCSUVIUUpBVjlGdW5LMVZBYWMxZjBvR2lnOVVCTzZ0LUY1Qmt0TS1JNDZJX3htaFFfVWlvbWhhdnJyVkEyZDNOM0N6VTdvZlRXd3ZleGpZYjQzY0NTOVYwekc3MVduOXRjOGlVTG5qVUY0eTRXSnBSV2ZETm1sZ0xQSk8yZUNsRjZSVDBQZtIBgAJBVV95cUxPZUtsdHJyRUZoeGJiTDJ1QXMtWnYtcDVOeU1BRW5fRmgxbTd0MDI4UHdFMDVjbDBTeVBLMWFqQjBCV2RUMWM4YWJHbkVhNWxvR0pmbmdWNVBZOUU3UEhobjNqTEFBM2VpTGNtbVNBYUhVTlZDYVE0OUdGRDZ5RkgzcDZjQ1pFMHNNQ2p5NGF4NXVXSDhJYm1kQnZ3NjNFRmMzcV9tZmh0a0hicU1YaVFXYUxDN3Zlc2tuMmp1WDVqR29LSHE1UWd2djVIX3RzcHNuejhCMnItd3hCYWNYOHY2WXAxTU1xQjBJSE5DeGZKdjlhLUIxbXhNenRJbmVlR0s4?oc=5",
+    "title": "The $900 million Ohio factory that just rolled out its first autonomous combat drone for the Air Force",
+    "source": "Cleveland.com",
+    "published": "Wed, 29 Jul 2026 13:55:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A newly built $900 million Ohio factory has delivered its first autonomous combat drone to the U.S. Air Force.",
+    "companies": [
+      "U.S. Air Force"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "combat drone",
+      "manufacturing"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVklUYXlqN2tVRVRmR1hCcjFteE9DanBfMWF2aXlSMFdlbEJXcU1KaDdDNm1oMWFoYmFkZFJ1U09yZGtZdG9VRm1TV1FpcVZqYl9SZDZJX2l4N1p5blZLXzV5YjkyUGFGTGJQRzdncks0dWVqSzRlcGdrRWk3RlB2Zi1ZSmVPb0dvd0hzRVRjbzBGNEs5T0RwUGhMekdDakdmY3plenZYQ3FpdW5jVFdjOV9uZnZSSmN4OEtFd0NZZ2lOemtOOEVTRVJTUERCUTktSWFkQmN0VQ?oc=5",
+    "title": "Flytrex and Nash Partner to Build an Autonomous-First, Multi-Modal Delivery Platform",
+    "source": "Business Wire",
+    "published": "Wed, 29 Jul 2026 12:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Flytrex and Nash are building an autonomous-first delivery platform that combines drones with other transportation modes.",
+    "companies": [
+      "Flytrex",
+      "Nash"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "multi-modal logistics"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVNNRmhEOUROOGNXTFpaLWNUZEhEZGJGaF92bnJFbV8tTHhDNU40MzJGbkxKVk1JX1VMVnVacXJGY3ZsNndobS1TUGZsaXFkcy1hWkpBMUhseHZXNl9pajYyanlKa3VGdktxUDhKQ2VEMXdhRWgzR1FpWDdxRUljNDNhNkJsQmhFMXh6RmNtc0JqQVhCYXZIdA?oc=5",
+    "title": "Drones vs. Bears? JUIDA Spotlights Six Solutions Across Japan",
+    "source": "Dronelife",
+    "published": "Wed, 29 Jul 2026 14:25:57 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "JUIDA, Japan's drone industry association, highlighted six drone-based systems designed to deter or monitor bears across the country.",
+    "companies": [
+      "JUIDA"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "wildlife management",
+      "Japan"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUFNUYjZ6OTQyQy1tS2JBc05tN1dpQmk3SHE3Nkg0RTRheWFnRHg2RFZMRFY0ME5BMUZNeTlZVFJ4SE03WTI3dkN5UTBPTXlnZ3k3cHZRT3N4RzVDWWZob0JqVk5Ua2VhVnFGZU93cVJJLWx4OXMwNGN2TFNOaWdQcTFKaGFVc0kxNWE1ajdkWVM?oc=5",
+    "title": "DoorDash is building its own drone delivery business",
+    "source": "TechCrunch",
+    "published": "Wed, 29 Jul 2026 13:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "DoorDash is building an in-house drone delivery operation, moving beyond its reliance on third-party logistics partners.",
+    "companies": [
+      "DoorDash"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "autonomous delivery"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3BkWVJQa1J2Wm5DUjBYd01rOXgxUjF5bThYWlBnWkNCYkJfek00RlpsZEV1Z0RPbjNFOGM1S005RlZraC1lSWJBTW9rbE1CS0lkdm0zX2o3VGwtcmlZNE5pcUtsWVBKWE01d3pHUjhkYVJxMTF2Nlc4WVN5aWZIWFlvVExKQVdlZHViYU10LXI1UHdzTjZBLXZZMzlmaTBRLXZUUGc3MFdtelJxNHl1YmZKRDNKbG5JVktzNVhqRG8zZ3otSmswczVHaw?oc=5",
+    "title": "ZenaTech’s ZenaDrone Begins Testing Phase for Interceptor P-1 Counter-UAS Drone Platform",
+    "source": "EIN News",
+    "published": "Wed, 29 Jul 2026 10:49:51 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech's ZenaDrone has entered testing for its Interceptor P-1, a counter-drone system designed to neutralize unauthorized unmanned aircraft.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "counter-UAS",
+      "anti-drone technology"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQR0lmaXByS3U2SXlRdHpTSkZuMjRLTF95RlR6bUh6V2FfWlFWdGdzNGRSRHlQeDVqVVQyS3k4TzFGOUhMX1RJSGh0NGhEZ0djLTA0RE1DSHFUcThIelpOZWV2TGZfSlA1VDEtR25qZ1JYVFpabWRfdkZHcU5xWktSSzJaSWpXei13NjBjWUk4akZhc3lfM0lUUkEybnVNc00xUVlpeUU1aHdoWU9OdUREMjRaZGRzMjJMdEpZWUhrdXN4UXk5VDZmRm55ZXI3VDBGZEhnYkJYMHBEWG5WMzVNQzJlMHFiTGl1X1Q4ckF0ai1odHdhNlhnaTdZVi1NaDVYSTltbDlLSnBGZGlOWWtwUXZqNFRpT3ZVNE9pTVhLOVZmUEowSXdMcDB2XzNnQQ?oc=5",
+    "title": "Dynamic Aerospace Systems and Flightbox, Inc. Partner to Advance Autonomous Medical Drone Logistics for Healthcare, Government, and Commercial Markets",
+    "source": "The Herald Palladium",
+    "published": "Wed, 29 Jul 2026 14:01:31 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Dynamic Aerospace Systems and Flightbox announced a partnership to develop autonomous drones for medical logistics across healthcare, government, and commercial sectors.",
+    "companies": [
+      "Dynamic Aerospace Systems",
+      "Flightbox, Inc."
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "medical logistics",
+      "healthcare delivery"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxONmNLWkxhY2tWUkxLVXJiY2RWT0Fnck9FM1c3TGlCRVZOd2FTQzZSR0wwbWpIVWhhTlF0dDNLTnkyMXBCZnY4ejlZOXlqcUt5OEFDS0JTdFJmNkIxWU1RWC0tQ2pFNGF3N0FQOHFDNTNQeml5d2lrbnVCMmNhTjVpLThmREtucTNfOWVKRzBWMnRsdXl2bXhkdmthMkJrR0ZuNkNmVXBRS0ZvUXFzUUxQNm5fbGVFRXQ1aU1tNEs4WUluc2xDcTlINjBWTThFUkwxNjVhYW1lV2dPYzdyTEhUcFVRVUFHcHdCeG5GRE1CX1dyanJjT2hzY2NlS3JBN3dleHVRUEt3S3BZLXl3RS1iTktHQWFuenM4Q1FMZUVRckNPMm9GUWpwQjdweUhaWHBCNlZIMnAxSVVOWFNFVDhmMEJ2RVJ0bWM1V2d1MWdHWEViVE9xOUNn0gHcAkFVX3lxTFBEVTJmNHdwQnV1LTBwSnZuMkdhX0N5SlFZU0JsaFhELVEwS2lFcC1YZXJDQkpmRTJmZGFrWWF5dUFfYVdwUDloMWZLNkFUT0FIXzEwaGtmNEtURWpjR2QxaGt0ZkN4M1I2T1JuQVp0ZnFSVldhbjRIWS1rUDM2TEJzREdLeXdPM3dOY2s5U21DTzNYcXRjV3JGVmp0YVhELUdUY3Q0UklHVG8tSUd1ejhlcHpxTmZHOFQ0UUU3T1g3QUNETzY3NXZUMEFxLWVScUhZcDJSY0hYVURmOVBWTk0zcEFBa3lINUpNSDBNTFNpdGVycjVJWF9LTjdYWkllUjNVLXB6N0xoRkhxdy1ucEZDMUZPdC0xMzhzaktYaUl2MTV6S1B3RXRNd1JBdnJDWFotWlpqS2lHS0NJdlpGX290cFcxS0w3dE9reHpHNkRzQmVfWFJsZWxENEZRcQ?oc=5",
+    "title": "Quantum Cyber Applauds President Trump's Drone Dominance Program and Supply Chain Framework, Reaffirms Commitment to On-Shore U.S. Manufacturing of Autonomous Systems",
+    "source": "The Manila Times",
+    "published": "Wed, 29 Jul 2026 11:41:30 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Quantum Cyber issues a statement applauding Trump's drone policy and reaffirming its domestic manufacturing commitment.",
+    "companies": [
+      "Quantum Cyber"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous systems",
+      "manufacturing",
+      "supply chain"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZFZRZ2l4UGZsNS1pZHJ4WUpLa0oyMFA3b0EzRnM2N2l4UExVOXY4dHVHN183RkJBUFo0SGZDOTB5NFp0ODdUNzNWNktRRF82bkNadktvSHdHVlVYeWwtUU9RZEpTOHBIc1dTaDNDOXBCVHZmTDVScVZUVGNKWml4X2pSZnN5c3dBVzkxdFF2UzlQcXRwTS05dkFvSjQ2c1VZRmF2d1JpbzNoaC0wcHpEdHlYY0Y4NnRzRElUSDhlb29WRkcxRzRfQXRBTW8zMTZUMHhRVmI2THNCdUJjSFRsLTVGT0E2MG9iUGJSNU52dHZwc3Bwam5RUm4wWjZSd1JQNTdQX0pBZFozV0FWNmhobXlB0gGXAkFVX3lxTFBNWEtQTHZmbUI4RS1zZHBXcmtFQ0FUclA4Y0FaUG9YWWYyQjVubEJUcEhlWEZieDZ0TTRmUGdhcmxOaWN2S0lvaHJmcFBmbEFJdmVSbkpUZnlzRXMyOXlDMXRMOU42VkJZejBxSnNleUo1RGRwandKSVpWSjBRMVEtODM1X3NSZjVJMGlybkJwTVk5YmpiNHNPQWdnclZKZnM4VDhqZ1p2QlZmcEhjdmw2bXhMZXUxelZoajhIRWh5N0RMV0NHemU4R3o2V1lnbmRvSkVpQVA4RmZIR1BNU3U1S1l2bU81dndkYTVBb195bmU1eWswLXEtRngzbnhQMld6NzVZVVFiWEd1Y0QxZEVOR2dyM1gwSQ?oc=5",
+    "title": "Scientists have built a sonar-guided drone that can find and hunt mosquitoes in mid-air without using ins",
+    "source": "The Times of India",
+    "published": "Wed, 29 Jul 2026 14:45:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers have developed an experimental sonar-guided drone that hunts mosquitoes mid-flight by identifying their unique wingbeat signatures, eliminating them with spinning propellers instead of insecticides.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "sonar",
+      "autonomous hunting",
+      "pest control",
+      "biomimetic"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM3kxMk85NkZGUU04NV8tNTdnZkVjOW82QlNPZ1c1Yi13U25OVEdzTGlxbzVsZ3M0cXljSGRxRU9pUnluOTZCbjUtSWc5REVTd2JyWFNCNDRYQ1E1d0tSdTZXNHVCenNIM2VqeERSVlBBTXpULVY0Z1F1SkNFenEwSkZ6WnNMeEJ0aHhWalB2Wmc4alJkRXhoRGs0bW5vbHRmUmhiZU9PY3oyRWJ4SXd4Q3ZRbHlYSnFWamlRVTAwUm11TU41dmU5NV9EaS04UQ?oc=5",
+    "title": "Ukrainian drone boat deal to build in US could be ‘one of the most consequential partnerships’",
+    "source": "Washington Examiner",
+    "published": "Tue, 28 Jul 2026 17:54:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Ukraine and a U.S. manufacturer are partnering to build armed drone boats domestically, a move officials say could reshape weapons production for the war effort.",
+    "companies": [
+      "Ukrainian drone boat manufacturer",
+      "U.S. manufacturing partner"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "maritime",
+      "autonomous weapons",
+      "Ukraine",
+      "manufacturing partnership"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTdud1lxSG5xZ2JBZVFiNnhnMkpveVNtTWwwNGEtUWhVU1JISjRiNjE5bFlnM3B3LXN5ZU41YjBwREEwRVNkaXFOV19HUmhYMmZrVmFFNUVKUG9BbnV6Rms2QUlnR2MtRm9wZTJqSTJQR0FWb1pOUVJseHZvOWF5VnhnbFVaVDdSU1NpaF85aFZtZDNCMG9BdTFGejE?oc=5",
+    "title": "Autonomous Corsair maritime drone rescues US military pilots after crash near Oman",
+    "source": "DefenseScoop",
+    "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous Corsair maritime drone conducted a real-world rescue of US military pilots after their aircraft crashed near Oman, marking an operational debut for the system.",
+    "companies": [
+      "Corsair"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "maritime",
+      "military",
+      "rescue operations"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOeGU3Uy1nLV9SdkxFbXl3SEZhaEZvYldsZURBMmlOS0l4cElmd1RYUjZDVG9IS0xVMUIyOHdSRjQ2djlFek5JMDNVQjVEVjF2azh2OTJoUEdlQThQdnpMcVlWYVNFajh2cVVMUjhjVnZreEtvS09oX3dGam1lVi1sMzFiN3QzbFFrMkR4LUpBWFpxU25VdGZlbHpQVm5fQnMtUTJzYXVuVXhDd3ZnUHFYbzVJdHVtT0RUTFBRY29SRnNEUmlZTXBENUg5MFJrWllaTjVfUzR1LUtrOEpCd0RIaXdKb3FtS29wRGlDZS1vTWQ2V1EyNmNzY05KT3E1Y2YwanJ2aW82dUhWM2lTbXBkaXdJdXY1V2FGVXh4ZGpCTlRuRkhGT1VaUHF2Y9IBsAJBVV95cUxNTi1VTE0tMDd3cXhJc0lJa01zYUxSYko0SnVHWG85TlVza1d3aC1xY21uWHNTekdpRXNOMFBUdW5NQTh5TmlsRG9Bem9MX1BDUXNsWTJRSWxRa0NMaXE5VGNUbUdtUndMQWdHQVl5QkxTWGY2Rmt6V2JKLXZfcTJtQTN4NmVnSmFCNm9ZNVFJNks5WWk5MTFJVzA2NlhoZUpkMWpsdy1mVWFITXdMQXd4SnU0VnVBZXJ2VThfU2dWMUJQQ0dKNzJDVmdJemJiYXVFcWZFaGFBMXNlT0hTdjNOLTVfVC1NLWVMbXFzT1F4S0ZoeG9TcTNBUVVuZ21MUlZoMXVuYkdZTGlSSGdaWG0xTUJoQmlNU2d0YTJTN2tKZFZVaGIyQk5MV2ZqWGhZQ1JX?oc=5",
+    "title": "Nexera: KeepZone AI Enters into Exclusive Distribution Agreement for Fully Managed Autonomous Aerial Security Across Latin America",
+    "source": "The Manila Times",
+    "published": "Wed, 29 Jul 2026 11:41:14 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "KeepZone AI has secured an exclusive distribution deal with Nexera to deploy autonomous aerial security drones across Latin America.",
+    "companies": [
+      "KeepZone AI",
+      "Nexera"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "security",
+      "aerial"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://wing.com/news/wing-walmart-bring-the-power-of-the-nations-largest-drone-delivery-network-to-florida",
+    "title": "Wing and Walmart bring the power of the nation's largest drone delivery network to Florida",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing and Walmart launched drone delivery in Greater Orlando, where Heather Rivera's operation now serves over 50,000 homes from two Walmart locations with 30-minute delivery windows.",
+    "companies": [
+      "Wing",
+      "Walmart"
+    ],
+    "people": [
+      "Heather Rivera"
+    ],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "retail",
+      "last-mile delivery"
+    ],
+    "first_seen": "2026-07-29T16:18:15",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
   }
 ]
