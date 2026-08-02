@@ -9083,7 +9083,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SR3hxT3RFaXRrc2ZncExSdWpHcXRab0lTaEhyYmV1eUNNMUc4U1ZOMFJCS2R5cHIzY2RVSVZjWm9IQVZQcGc0emVJMXJuOGJhYm5MQU5FeHVLQQ?oc=5",
@@ -9133,7 +9133,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdjJ5eVY3cWhGc0FfeHBER3Z2NmdIOFRRanhod3diSW5fNEE1LUV2eEQzVjJkRVFiLTBjenNfOXYzVzFQZDNMT09WQ2J1Vmg0R1doS2hyS3c3VnFYN1FsdmZFNHA0ajBNOTBBUU44dlUybjc0NlBEVzJjWi05dG1PT9IBhgFBVV95cUxOdjBKY01XLWRQckdMLVFFeWxvSkxEMGs4NkMyRHlTczJzRnNmTTBVcm5DRHlyUk5XQVhoTVJvNkRwN3ZQWHhKR2RHd1BRVU15eGRpeE5RdlpaWEF0b2JnaXF5OXlSbkFsX3licGlCcUczOTlsRzVsaEtlNDZhQ3JRbEIxcmxydw?oc=5",
@@ -9412,7 +9412,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb19jdWZpdWowS09QV283VDNTSU9rb2xTTS03MWw4ZS1weVIzNGN2TTlpZFl4ZGxSclgzTkpPY1pjdXlFaWtsaURuSmJOY0VUZHJnellseWhLaW1PVnZLN1lJMWgxU2NaajZOQ3BYRXlrNGdKdFZsTG5vSkRBODdKaEp3aGw5d0RNMlQwdXplVXZQOEhRRVoyaDB1Yw?oc=5",
@@ -9458,7 +9458,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpEYlBvOGkyczMzRWQ0SnkzOGlldld3WXNCazROUkthNTNSR0NCeFphYmJEcEdzcXlneWF4RTdtaHJuaWdxVTl3SXZpNGtFbkhDQjBqMy11NzV1MURBcVA4dGFWdmYwanhqeHo2Z3BPVnlrRTQySTZLX3p6aFdHVTRR?oc=5",
@@ -9634,7 +9634,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcF82UXU5QnBKR2ZVdFZCa290aElNNW9XeXVjWnFWUlpjZURqeThqVEZrRnBYOWp6eXlEM3dlQnFjOXBzOWdFMFlJR2lkbktRVVlJZGRDUHI1dGE0SDIwMFVxWDZnV05vMUlBaURBekNPc3R0cW5CeFRVeUZNdnZycUl3UzJtblhtcjhsdXg0ZHpvN3FWbHBxVGdvUGE?oc=5",
@@ -9656,7 +9656,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm9ja1Q5eE1HMEU4QmVJMjhpa1MzRjVwNE1MZTAwZTN1b1FWMURpTmpNMkhvS21DejBXOEZEUFpEOWVyNnNxQzUyMXFmb211NmFkRUZPZHlFcnZsZHgyVllZOXp6Wmo3ekJDTmM5d21Kb1ZoazJELXI4NDVqbDFTNjktdU9qdzN2MmY5dVpBZjZxU19GZWdhOU1IY3h3SlVRRHUxRU1kWmNzSFZNU3plRHNkaXQwUQ?oc=5",
@@ -9769,7 +9769,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSU5VX0JFTk1MQThSMkt5aGF6T2hEZVhGSzJaMEhUZi1RZ3JVLTJfRnNnRzgtamI2Z1g5ZUxKTHNaZmtwaDd0NDVYckwwdjhETHRLYXJEYTVOZ2UxZFl4WFRfTkJzSjRqaExRTHdxQnRGWEk1dlNEWG9TVHpKUTZEQVdEaHE0RURTb0FMNjhVQmdrWW1qTzJVdWRuTXFyMGVoSTBGa0c5bW9XeWpjUVRQOGh2SDNzLUg2NWpINmM3WnJ3UjRkajB0ZEg0eVJsdVNsVUVTbnpWRFVzZXJtTUZTZ3daQlRMU08yVUs0?oc=5",
@@ -9822,7 +9822,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://thehumanoid.ai/kinetiq-ascend-toward-100-reliable-manipulation-and-superhuman-speed/",
@@ -9871,7 +9871,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://wing.com/news/elevating-healthcare-logistics-wing-apian-nhs-south-west-london-drone-deliveries",
@@ -9898,7 +9898,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://wing.com/news/wing-and-walmart-seven-new-markets-drone-delivery",
@@ -9924,7 +9924,7 @@
     "first_seen": "2026-07-26T15:58:24",
     "week": "2026-W30",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://wing.com/news/wing-walmart-expand-drone-delivery-coast-to-coast",
@@ -10041,7 +10041,7 @@
     "first_seen": "2026-07-27T16:55:14",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVdVejJmZVhGaVpPLTk2V1Y4TS1yYWcwakl5QkNDM0tja1NvblBFT0JkUlhlSHdESndmRzgwZlJaZXZ6NEQ3alc2RWQ0Z1lkYVdRQkwtVWphSndQQS1sWkVXZk8xeHQzbHZFb2w1UjJDYVhJcXZvLU85a1k1d2NCNjJRaVRkNTltcmFiUHpPNHpKaWNfZG5IRjdrR3R4cE9sREl3ZDNSS2xYbzNJTzhSN2NiSUk2NXFtYXpTN2FxUQ?oc=5",
@@ -10132,7 +10132,7 @@
     "first_seen": "2026-07-27T16:55:14",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajlTME1hMHNSaXBqbjNIWjRqWkdqU3RVRWRVSW5pTFRkck1JN1F6Smo0SXkxbHBucXc0TENPTl9WRHZwYTZPVHZMMHd1MGZyVWlYcDh2RDlwcjh4MDZPeG1lYUhXR3F4OEtVdDR4ZzhkMEtMQ2Eyd1dCSVZLMXlHRmhRWEhCR1k3ZkJKbmNzaEVUUW04MHEzX0xHRGNRVHNWMTZxdDlB0gGrAUFVX3lxTE9mZmNvM2VWMnFXcERNZUlYOVY0blNCdVZlbzJ5dHRIeDBPeHB1dno3ekdLWF8yOVdqVHVCY1NyOHpLdFB6aWpPaV9lQkl1VEwzdkE3TkJYdkxKbGdFaWNlQkh6cHM5RXNMTWlMV2E1SHlnbVluS0FwNDJCU0J0N0dRdzViQ3o2dHVBWVZLTWJpbmlpaW12Y2MwamJmU0d6b1YwSllrWlRJbkZvUQ?oc=5",
@@ -10796,7 +10796,7 @@
     "first_seen": "2026-07-27T16:55:14",
     "week": "2026-W31",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXI5YWxwazBxY09yTUhWeENURzZDVWFaR0dWdUZuRG1TQVRHOG9jaGxkbm1oV2xqSm5GR25NeUdtY29VM1BaYmJNMEVUb3AzY3dmR3c2SXN6Y3ZBWnVOZDE2d1JQc3puVGxSLVBYY2JFeFRyYnBGTUZGLWJvTTc3Zy1ldnVqMTJfc0Q4dW0zazhQWHJaZ2lwRGN1Y2xfYzNMczdyZUN4cDZtOVU3WFJoUFphaFZSOThqYTl5OHc1d1NBZFZoSS03Z2t1b0ozQXJaS2p3WUtybmd2S1FxTlVV?oc=5",
@@ -11473,7 +11473,7 @@
     "first_seen": "2026-07-28T16:38:41",
     "week": "2026-W31",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CNGhNcVZsc0lPYVpkVUllWC0wcHFqRVRINjFHa3BRYTI0R044eGFjZXNNS1pvSUozVXc5ekFWVjJmNzJMdzMwR3l1em9OQzVwaFM3eEJLUFF6LVlEdUdrd1MyUQ?oc=5",
@@ -11614,7 +11614,7 @@
     "first_seen": "2026-07-28T16:38:41",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KTmN4eFZiYUhEbE1KeVhCdEp0WThNaTdCZmt2LXZsMXZCNG1GOW1nbDMyakRvaFZsOElDZDdBbzZDWmlKQ1MySlJzR1NqeHZWZDZCUENoYmJBUmZfSkRIeTJxMHZRNDZadTdn?oc=5",
@@ -12393,7 +12393,7 @@
     "first_seen": "2026-07-29T16:18:15",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDg2QjJPMDNWSkpJXzM1YlBOaE5KeXhQNlVSaDR6eTJqSms4RFN3SGU5ZFRMZzdkd25YLUJlWTNOalRBcG4xdXFHN3NXLWxhNDhoTkUwQllQU1BDNEd0NmFCTU1UUUdxczhRZ0RXZlRKNHlSZVNWZDZZbU9FTUxrTWt4THpUaUdqNXlwck5aeTJ1WnFrZTRaYXZvRQ?oc=5",
@@ -12688,7 +12688,7 @@
     "first_seen": "2026-07-29T16:18:15",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZFZRZ2l4UGZsNS1pZHJ4WUpLa0oyMFA3b0EzRnM2N2l4UExVOXY4dHVHN183RkJBUFo0SGZDOTB5NFp0ODdUNzNWNktRRF82bkNadktvSHdHVlVYeWwtUU9RZEpTOHBIc1dTaDNDOXBCVHZmTDVScVZUVGNKWml4X2pSZnN5c3dBVzkxdFF2UzlQcXRwTS05dkFvSjQ2c1VZRmF2d1JpbzNoaC0wcHpEdHlYY0Y4NnRzRElUSDhlb29WRkcxRzRfQXRBTW8zMTZUMHhRVmI2THNCdUJjSFRsLTVGT0E2MG9iUGJSNU52dHZwc3Bwam5RUm4wWjZSd1JQNTdQX0pBZFozV0FWNmhobXlB0gGXAkFVX3lxTFBNWEtQTHZmbUI4RS1zZHBXcmtFQ0FUclA4Y0FaUG9YWWYyQjVubEJUcEhlWEZieDZ0TTRmUGdhcmxOaWN2S0lvaHJmcFBmbEFJdmVSbkpUZnlzRXMyOXlDMXRMOU42VkJZejBxSnNleUo1RGRwandKSVpWSjBRMVEtODM1X3NSZjVJMGlybkJwTVk5YmpiNHNPQWdnclZKZnM4VDhqZ1p2QlZmcEhjdmw2bXhMZXUxelZoajhIRWh5N0RMV0NHemU4R3o2V1lnbmRvSkVpQVA4RmZIR1BNU3U1S1l2bU81dndkYTVBb195bmU1eWswLXEtRngzbnhQMld6NzVZVVFiWEd1Y0QxZEVOR2dyM1gwSQ?oc=5",
@@ -13058,7 +13058,7 @@
     "first_seen": "2026-07-30T16:23:54",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZnF1WlBudkVJTG1KY3p0X241SnlNczhrZDc4amVGb25TRTlEdFllbmVnVVpNR01ZSmZSVjVoangxeGowOXpuUFo3c0MxakJ2Vm50V0NBTzM1dw?oc=5",
@@ -13309,7 +13309,7 @@
     "first_seen": "2026-07-30T16:23:54",
     "week": "2026-W31",
     "why": null,
-    "duplicate": true
+    "duplicate": false
   },
   {
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNFE1OElmS2xpNXl1YXhkRVlMSDFadk5rV3ZLVWJfZHZQbTFyQnJ1eGtrLVJWTTRSd1Y3MVlvNUdXbVliZklxNG1zMDdGei1CM2xveHpSczF0TFA2eHk4ZEk4emtIdXhfVGF2OEJBeUlLbXdkV251R3NIUl9nV0xEZ0hfSTc?oc=5",
@@ -14015,7 +14015,7 @@
     "first_seen": "2026-07-31T16:42:17",
     "week": "2026-W31",
     "why": null,
-    "duplicate": false
+    "duplicate": true
   },
   {
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVJlZl91c0RaN1dTM2g3RFBTb3VMN3laZy1EUmoxUUhPUlVPMUVYOEN4blJZMWg2RzRrcTdOU1Jub29HRlJybVU0WXEtNERacEFYeGctSEpDU2lrQWdSTnZtVmY2OGJhRFNrYktmRFFTTXBEWWdxbzVVSFJaOThway1LNGZsSGhXU1J1RXRMQl90ZS11RDFMN0FSQmFBOW9QZkZDOFNvUERaV05Vejdr?oc=5",
@@ -14897,5 +14897,391 @@
     "week": "2026-W31",
     "why": null,
     "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXRqU1lRXzA4eDJtRms5QUF0Mlp5UTBvUm5hWlVUWmgtYzNIaDctcm5RclB2RmV3TTBBdGk4Mmg1RVVWTkdXb2Y1aDUzSjdMQzZycm80Y0FfdXI0emE0ZGxhR2w1dmZmYUYyN0pmYU5vUXpOaW5LNEs2TkJHZFl6bk5mRdIBiAFBVV95cUxQcWt5SHN4cHItc3hwNEY5Mjl5aFUzTGpuMmVXeXlvdVZ1eVB2dGQyMlowRncyUHhMRUtxemd6dXQ4QVRHNjduYjV0V3Y2NWdHcFNyX2hsUVpfZ2JmdUhWTHBMQmEyUVFqSTlWdm8taWowdzFZMjFUYXdsZDhVc2wtVExlWi1Vbmtl?oc=5",
+    "title": "Humanoid robot skin senses people before contact",
+    "source": "Fox News",
+    "published": "Sat, 01 Aug 2026 16:30:40 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Italian startup Generative Bionics equipped its Gene.01 humanoid robot with sensor-filled skin that detects approaching humans before collision occurs.",
+    "companies": [
+      "Generative Bionics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "sensor technology",
+      "human-robot interaction"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR29VeVk5NTg5VWNEQjl3bmJ4Wnhzd2NLOVlhNlJqS0FMWk1rTVRTQmtLMk8tbTNJNWFQTUFaY2s2eFpkajY4S0dOMXdrZ0pSZGJ6QVA3MWM5RTg4X0ZLc0xvbmpoVXZvWEJFTnlyU3JVR0RwRjVULWFvSXp1LU90ckdZaTNLWTkzemlsMEVjVVpjV2IxSjFfMzRwWm9QemxuRFdINHd0dmRESDNyQXJsMENxRlA3dDduUVRGMFFYUUU1bjVVR2ZlenRwaEpCbFdMT3pwSUxwOEFZaHJzalFTZWZWSXl4YzQ2Z244OFVXcVN5aUpQ?oc=5",
+    "title": "Tau Robotics launches humanoid robot home cleaning service in San Francisco",
+    "source": "ABC10",
+    "published": "Sun, 02 Aug 2026 01:08:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tau Robotics has begun deploying humanoid robots to clean homes in San Francisco, marking a commercial entry into domestic physical AI.",
+    "companies": [
+      "Tau Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "home robotics",
+      "service deployment"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pX2FXM3J4aTNqRVhITTlUcXdiVWhIVVAyR0JYNFZhXzJrQUt6TXVOSkNHeFFvd0czWjJwb3ZqQXVhMmFBUUFvM0dRa1dMek1FLVdtNUVJcw?oc=5",
+    "title": "Hyundai’s big bet beyond cars: Physical AI in 2 minutes",
+    "source": "koreaherald.com",
+    "published": "Sun, 02 Aug 2026 10:33:11 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Hyundai positions itself as a Physical AI player in a promotional video rather than announcing a concrete product or deployment.",
+    "companies": [
+      "Hyundai"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFNBMElxSS1ENkMzZVMxV2hEWnpjOUwyQUIwVmJ2MTg5T21aSFdSYmZINW8xbGVqMFE3TkxoQjRSTWZXV0JDTTZKZWx3ZnB6V0NqdVc3YlVGbzNldHcwWEpvQ0VmOTVhUWwtcEJhU2RNYURyX3IzOWZaejVlS1lWMjZ0RGxzYVJfc19oMW5qR3JQQTBIUjA1TDh6QzRTNDRRRlhmWnN1UzJ6ZXZaV2xUcHViaVNvWFZsUXV3WQ?oc=5",
+    "title": "U.S. bans foreign-made humanoid robots, targeting China over national security",
+    "source": "NBC News",
+    "published": "Wed, 29 Jul 2026 08:59:37 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The FCC bans imports of foreign-made humanoid robots and power inverters, a move targeting China's dominance in the $15 billion market.",
+    "companies": [
+      "Federal Communications Commission",
+      "Unitree",
+      "AGIBOT",
+      "Tesla",
+      "Figure AI",
+      "Nvidia"
+    ],
+    "people": [
+      "Brendan Carr",
+      "Xi Jinping",
+      "Donald Trump"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "policy",
+      "geopolitics"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWW1LaDlqWk5vYUdfOFlpZVpRMTZwdEtyczdBTDVLd1dtdHpWR3NWRVVuc2p4SUp1bDJSOHBxVkVSUy15YmZiY0N0UEJjUWtVS0VDNnV5MWJLTm5HOEFMRE5EdERybTdRRHJFT2JaTUEzcTF5TUo1WVhTUTZlZVZsalR2ZzA3TzV2TXpnLWhLcG5lNkpxajRQZWtlRFFPaVB4QnU3OS1BbG90OWdYc084VdIBtgFBVV95cUxNMHFtSWUtTTZiNm8yWXc5RkpqV2wyWlpwTEhrQXFjanZxOHFmTWVnSTdsZUxFUTFHYkIzWS1SWUJROE5abXB6ckFVSGdNQ2JoVk40d2hoUG5TU3diLVQ1aDJrSnpscXJ2aVpjdnU5bjQ1dFRmNEtFQlIzcEJKZHphU1VGWk1Xd0RCZjdwcE1CeGgweWN3TDhIMFZfUGdNRnQ0TmY3VUZhY1ZZUWtzb0hMN2pNSzZWQQ?oc=5",
+    "title": "US bans foreign-made humanoid robots, targeting China over national security",
+    "source": "wkrn.com",
+    "published": "Sat, 01 Aug 2026 21:07:28 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The U.S. has banned imports of foreign-made humanoid robots, citing national security concerns and effectively restricting Chinese manufacturers from the American market.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "trade policy"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGhTUndQdUxFX3R6a1ZUTHV5ZkkweFE0bFAtSUE3cFF5QWU2NGg3N1VNRG4yRHgwNHhUR193VG1wcWIzLTExcE9aQnl1MFVtXzNaemt0MEhDS0doSGVvS2NLbGNEX2RXMWJieVh6SlR1SnpDcHFCVk5ZUS1fN1p6V1ctS1k3dUNlNWNjYzQxMWR2TlhEV1prajR1OUQ?oc=5",
+    "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
+    "source": "therobotreport.com",
+    "published": "Sun, 02 Aug 2026 12:45:09 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Google DeepMind released Gemini Robotics 2, a model capable of controlling a robot's full body rather than individual limbs.",
+    "companies": [
+      "Google DeepMind"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robot control",
+      "full-body movement",
+      "vision-language models"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWszTzlHLUNXQkJveDAwcGFGT1VMdll1SFNvVWdMdkVRTFVjS1dGd2NqTEpMQTMzRFpZSnIxT1hqdTVySkEtUXZES1hvLVEzQmZkUzgtTGJrLU5IN0hlU2Nza3drTXVUelBiREhBQUVOd0JXTmdLQVRZZV9QN21YVE00T1NEZFR5QXJhZGI3NFpwODh2VlpTTnRkZy1Ib19NWHQ5b1ZmSHVsSThlOUJKQ3M5b1N1RGdIR2hj?oc=5",
+    "title": "Humanoid Robots Are Coming To Factories. But Not The Way You Think",
+    "source": "Forbes",
+    "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Humanoid robots are entering factories, but at only 20-50% effectiveness—far short of the 99% reliability manufacturers demand before mass adoption.",
+    "companies": [
+      "UBTECH",
+      "Zeekr",
+      "NEURA Robotics",
+      "Figure",
+      "Apptronik",
+      "Agibot",
+      "Unitree",
+      "Agility",
+      "GXO Logistics",
+      "Humanoid",
+      "Unimation"
+    ],
+    "people": [
+      "Jeff Burnstein",
+      "John Koetsier"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "automation"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQ0c3RWtMNDRwaUtZRF94ODVMTzhVcEJmeEdVQl9rUlRZWXpsUXZ3X2FmdzRDZHVaNFhRdGFDWTNwVkZuVFo4RVZpbTE1NS1ydU5ITW9vekhIWGs0aTlkUkFWRHQ3WU5zbml2YjVoM0pfMlhqeVA4NGdKXzNiRW1KSVc3X1IwMGhpMGxJc1hZbmpSV3YxUXB4YVZ5QV9wWDZxa2hRcU4zTzF3cVpFNGFaSnhlcHRRWm44ekpJa0xOMVBSTnhYRlhIUjE4UDEzZmg5UmFxcF9ubU5XLVBrellpUVQ0V1VVSkF6WkVjR2pOZTBYb1AwY2FGYjJnVFRHTHhMTUEwN2x0MGV4ekZLZnpaQVlaX0c1SDI1TEZRbC03U2VtSFYw?oc=5",
+    "title": "Qualcomm-powered robot collapses spectacularly on stage during company's keynote — prepared stagehands rush to cloak and then carry off stricken humanoid (updated)",
+    "source": "Tom's Hardware",
+    "published": "Fri, 31 Jul 2026 15:25:49 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Qualcomm-powered humanoid robot failed catastrophically during the company's keynote presentation, collapsing on stage before stagehands removed it.",
+    "companies": [
+      "Qualcomm"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "keynote demo"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXJxQlhKeXN3X3o3Z2xLUkE1QjdUdmlYM3pBYUg3cW12OWNCZ3dBS3l5RnpoYWpybUFfUHlleUNPTWNVelFrY0I0eXM4TS1wMlJfX3Z5MVBwQkVmSGlRSUlxOGlpQzlRWHdmMmdTMVJ0T2dfVEJubWFpRnFYY05fbnZYYWpUdksxc1ZfVG8xTDVYb1RJdFRDVGdCa1F0WVAxT2MxVVJubkUzZjdmVDRneFNB?oc=5",
+    "title": "Americans Can’t Buy Chinese EVs. Waymo Is Importing Thousands",
+    "source": "Forbes",
+    "published": "Sun, 02 Aug 2026 10:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is importing thousands of Chinese-made Geely sedans to expand its robotaxi fleet in the U.S., sidestepping tariffs that block consumer EV sales.",
+    "companies": [
+      "Waymo",
+      "Geely"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "electric vehicles"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa1oxN3IyMHY2NEVKS1NGejRFenlGa2dtRWJGX1hrclBvckwxTU5mWWhEYS1ZM0RZUndvaHRnU2FtMmt1Q0h5YmsyaWgwWTMteEZNZk40cUtYQTkzTURYdUlMbG93LTZHMk9wcHVvWnhYZm1KMTktN3BMeEJHaGxHbVJONjNrWGlQVEFfb0RqTEQyUdIBmgFBVV95cUxOTXBFX1B0R1VlcEhPNFpqdW5oRUNObUo4VEFWMmFwdEtpZjNCWV83X2VwdWFCYTFVS1d4b1c4UmNQa3Vmakg5YVdNbVZwbkg4aXVaVGItMGpMNm0zbngzWDloZFF5NnhsWnField3NW40TVhRWndtVWtHNmpXakpXTkRjaEIzMFFBcjlRaDZWZ2xCUUJRN3NxWWln?oc=5",
+    "title": "Waymo appeals overnight recharging ban at 2 Santa Monica Waymo stations",
+    "source": "nbclosangeles.com",
+    "published": "Sat, 01 Aug 2026 22:50:23 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo is appealing a Santa Monica ban on overnight recharging at two of its stations, a regulatory clash over autonomous vehicle operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0E0bUhTOEdnZ0R4OHBIQ2pWS3N4Y0xlVUUxLTJabHB3X3BmS1F0UXVVZEY3amFXTUM3WGxyeFBVVjlmRXNCWE53SV9fTTRsVTZXQ2VDeUpmN0VtdVBXN0NscHc4cHFDYnF5dzRrVW9aZGxHV0p6dGMySGhsRmZJMk56ZVZ5NzV1U3JlT29sbEtNWFBqcnZjMg?oc=5",
+    "title": "Inside the Luxury Robotaxi Uber, Lucid and Nuro Are Testing",
+    "source": "CNET",
+    "published": "Sun, 02 Aug 2026 14:46:35 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "CNET reports on the interior design of experimental robotaxis being tested by Uber, Lucid, and Nuro, focusing on passenger comfort and cabin features rather than autonomous driving technology itself.",
+    "companies": [
+      "Uber",
+      "Lucid",
+      "Nuro"
+    ],
+    "people": [],
+    "themes": [
+      "robotaxi",
+      "driverless",
+      "autonomous vehicles",
+      "interior design"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVZOR3hHWE10Yl9DS2FBUlFjalZxVlV5N2tNQWNRenBCLVBXRU9nQ0FRcHo3dThXZTR3RGV1OUtGNFk2QkJ6ck9VeVVoYzN2eEc2dWZobDEyTjZPMHZDaFZaa3QxUk96U0VaRV84ZDVkYzhSVkxLdWZ6eUhRbHpxZ2J6RFI1ZzVHMXZOUW5YcW1NbkJLRkpNdDdaTHY2Q1l1aDh6NkptMENUaFBXNTQ0TDc4NEZ6Z9IBuwFBVV95cUxOOVlZTzJIdk1qd3JEemEweWhiSFg3NWR2ZFJzbEhTanY5RDdlazZHeW9zcC01aHFWVnJ2TFpoMUFKenoxU1pmT1JtNlF2MEt5MFo3S2xfb1NjampQTTlTd2JGVm9GaGVGaS1GMjhhXzZLZzAwODVzbmg1YTEybFJ3OXZ3cGxHcmhKUUR4NDhhdWhXbWpRR1JXT2Q5T2xFUFRsWGJlWkhra1VtSFZRN2U0bXdRRlpJR1BnODBF?oc=5",
+    "title": "Wrong-way Tesla Robotaxi in Tampa raises safety, regulation questions",
+    "source": "WFLA",
+    "published": "Thu, 30 Jul 2026 22:18:33 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla Robotaxi was caught driving the wrong way on a Tampa street, exposing gaps in the autonomous vehicle's safety systems and raising regulatory concerns.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUW5xaVBLbXpGTjg2dUZNN2pwT05sd1JwLS1yY0VDQTc5dWNlWURuZTdDTmcyVW5VVF9PbDlZZkFWOVRPcHF2bXNmV3k0TFBZOGtGMzBYNmtqblBZbllGdUt4T0VDU2ZxRGVndFhKY1drMWZNMGU5c2pwRlVVQ2JlTkRkTUplb3UyaTJn?oc=5",
+    "title": "100 driverless oilfield trucks planned for Permian Basin as US firms scale fleet by 2027",
+    "source": "Interesting Engineering",
+    "published": "Sun, 02 Aug 2026 13:05:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "US oilfield operators are planning to deploy 100 autonomous trucks in the Permian Basin by 2027, marking a significant expansion of driverless vehicles into energy infrastructure.",
+    "companies": [
+      "US oilfield operators"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "oilfield operations",
+      "fleet deployment"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2pObDVSMXRvMW5BUmFuVjZOVkxzUlA3aVdEeE5EemZOV09aWjV4RWRmZWFLUzhqUnVwbTRGY0JMZGNQRUJXelJpX3NYTjVFVlZvSjZ3VHpsVVBSUl9zS1BhdmtVekNrVGg4OC1nczJkbjVqMHEyMUw3ZmRYU3FaWlg5NE00MEEzWEU2RThZMTdzVzlvMGc?oc=5",
+    "title": "Portland moves to regulate robotaxis",
+    "source": "Oregon Public Broadcasting - OPB",
+    "published": "Thu, 30 Jul 2026 20:18:12 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Portland is moving to regulate robotaxis, though details of the proposed rules remain unclear from available information.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUk53bjl0SUt5WG5JTGRueTZPcVZSNHZkVUQ3RDl2bXBfUmtISjhvVFZFMDJJUTlRRHpBeFkzdGRxWUxrbFFSQUxEQmlUMUtNcHRuNnZ0aF93WnltNlBOQXgyS05KS0lnX05ZUzZJbVVDekdrZFNmQlRZSWRhQ1YycjRNbE12UGtyRXdR?oc=5",
+    "title": "Plans to bring Waymo to Washington, D.C., worry ride-share drivers",
+    "source": "prismreports.org",
+    "published": "Thu, 30 Jul 2026 16:34:30 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its autonomous ride-hailing service to Washington, D.C., prompting concerns from the city's existing ride-share workforce.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "labor displacement"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": false
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORG95TnMxcFQ5X1RiQjFhRlFaWTlPZGMtcF9rOWlfVFF2bkJQTTFwc3dPT1hudUFVR2pOVTZnVUFkTlpnQUhHR3RkNURyQXhFa0tidHk4SmpST0xiT3E0UDBVenZLRFFLUUM1cm9zYzdHY244N1hYQlR2b2xrV0xHVlcyVFJMLVpSa2otZkIxZELSAZYBQVVfeXFMTVYxQ2xTNkJ4aG81cFAxYzNISHRIVDFIV241emo1dFJ5LVk2WUNfNl94eVVCM0dVbm81OHZsSVZ3dUdNYXlSb3lhRXg2MUQyWS02MWZjaG5BTUZldDNmb0JOYWVtLVRNeHo5QTZ4SGVqOVgtWlpKU01Sb0NzWTQ5Ym9zNV9wRzJCdkpWTWo4VzhKNHhvbV9R?oc=5",
+    "title": "DoorDash launches in-house drone delivery program after FAA certification",
+    "source": "CNBC",
+    "published": "Wed, 29 Jul 2026 16:31:12 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "DoorDash launched its own drone delivery operation after securing FAA certification, moving beyond third-party logistics partnerships.",
+    "companies": [
+      "DoorDash"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "logistics",
+      "FAA certification"
+    ],
+    "first_seen": "2026-08-02T15:57:40",
+    "week": "2026-W31",
+    "why": null,
+    "duplicate": true
   }
 ]
