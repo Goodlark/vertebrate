@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}The Weekly {{ week }}: robotics & AI in review — {{ site_title }}{% endblock %}
-{% block description %}{{ summary or lede }}{% endblock %}
+{% block description %}{{ (summary or lede)|truncate(140, False, '…') }}{% endblock %}
 {% block og_type %}article{% endblock %}
 {% block head_extra %}
 <script type="application/ld+json">

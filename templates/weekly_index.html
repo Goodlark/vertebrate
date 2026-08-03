@@ -7,7 +7,7 @@
   <div class="sec">Editions</div>
   {% for w in weeks %}
   <div class="entry">
-    <h3><a href="{{ root }}weekly/{{ w.id }}.html">{{ w.id }}</a></h3>
+    <h3><a href="{{ root }}weekly/{{ w.id|lower }}.html">{{ w.id }}</a></h3>
     {% if w.summary %}<p class="fact">{{ w.summary }}</p>{% endif %}
   </div>
   {% endfor %}

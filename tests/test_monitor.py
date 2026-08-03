@@ -70,7 +70,7 @@ def test_run_backfill_stores_week_and_writes_editorial(tmp_path):
     weeks = store.load_weeks(str(data_dir / "weeks.json"))
     assert weeks["2026-W28"]["lede"] == "The week in review."
     assert "#Robotics" in weeks["2026-W28"]["linkedin"]
-    wk = (out_dir / "weekly" / "2026-W28.html").read_text(encoding="utf-8")
+    wk = (out_dir / "weekly" / "2026-w28.html").read_text(encoding="utf-8")
     assert "Old humanoid news" in wk and "It mattered." in wk
     assert (out_dir / "feed.xml").exists()            # syndication feed built
 

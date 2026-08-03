@@ -104,7 +104,7 @@ def build_feed(weeks: dict, mentions: list, week_ids: list) -> str:
     for wid in week_ids:                                  # week_ids is newest-first
         meta = weeks.get(wid, {})
         _monday, sunday = store.iso_week_bounds(wid)
-        link = "%s/weekly/%s.html" % (base, wid)
+        link = "%s/weekly/%s.html" % (base, wid.lower())
         title = "The Weekly — %s" % wid
 
         wk = store.dedupe_stories(
@@ -166,6 +166,9 @@ def _env(templates_dir: str) -> Environment:
 
 
 def _common(root: str, page_path: str = "") -> dict:
+    # Canonical/OG use the URL the host actually serves: "/foo/" not "/foo/index.html".
+    if page_path.endswith("index.html"):
+        page_path = page_path[:-len("index.html")]
     return {"site_title": SITE_TITLE, "site_tagline": SITE_TAGLINE, "site_desc": SITE_DESC,
             "domain": DOMAIN, "root": root, "page_path": page_path,
             "today": datetime.now().strftime("%a · %d %b %Y").upper()}
@@ -233,13 +236,14 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         wk_mentions = store.dedupe_stories(
             [m for m in ranked if m.week == week_id])[:WEEKLY_STORY_LIMIT]
         monday, _sun = store.iso_week_bounds(week_id)
-        with open(os.path.join(weekly_dir, f"{week_id}.html"), "w", encoding="utf-8") as f:
+        slug = week_id.lower()   # lowercase URL: Netlify serves it directly (no 301) and canonical matches
+        with open(os.path.join(weekly_dir, f"{slug}.html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("weekly_edition.html").render(
                 week=week_id, lede=weeks[week_id].get("lede", ""),
                 summary=weeks[week_id].get("summary", ""),
                 linkedin=weeks[week_id].get("linkedin", ""), week_date=monday.isoformat(),
                 groups=group_by_topic(wk_mentions),
-                **_common("../", "weekly/" + week_id + ".html")))
+                **_common("../", "weekly/" + slug + ".html")))
     week_views = [{"id": w, "summary": weeks.get(w, {}).get("summary", "")} for w in week_ids]
     with open(os.path.join(weekly_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(env.get_template("weekly_index.html").render(
@@ -287,8 +291,8 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         f.write(_FAVICON_SVG)
     with open(os.path.join(out_dir, "robots.txt"), "w", encoding="utf-8") as f:
         f.write("User-agent: *\nAllow: /\nSitemap: https://%s/sitemap.xml\n" % DOMAIN)
-    paths = [""] + ["weekly/index.html"] + [f"weekly/{w}.html" for w in week_ids] \
-        + ["daily/index.html"] + [f"daily/{d}.html" for d in days_present] \
+    paths = ["", "weekly/", "daily/"] + [f"weekly/{w.lower()}.html" for w in week_ids] \
+        + [f"daily/{d}.html" for d in days_present] \
         + [f"tag/{t.slug}.html" for t in tags]
     urls = "".join('  <url><loc>https://%s/%s</loc></url>\n' % (DOMAIN, p) for p in paths)
     with open(os.path.join(out_dir, "sitemap.xml"), "w", encoding="utf-8") as f:

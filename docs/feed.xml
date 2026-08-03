@@ -4,12 +4,12 @@
   <title>VERTEBRATE.ai — The Weekly</title>
   <link>https://vertebrate.ai/</link>
   <atom:link href="https://vertebrate.ai/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>VERTEBRATE.ai — the first AI-powered media covering humanoid robots, physical AI, driverless cars, robotaxis and autonomous drones. Daily dispatches and a weekly editorial on the robotics industry.</description>
+  <description>Humanoid robots, physical AI, driverless cars and autonomous drones — VERTEBRATE.ai's daily dispatch and weekly editorial on robotics.</description>
   <language>en-us</language>
   <item>
     <title>The Weekly — 2026-W31</title>
-    <link>https://vertebrate.ai/weekly/2026-W31.html</link>
-    <guid isPermaLink="true">https://vertebrate.ai/weekly/2026-W31.html</guid>
+    <link>https://vertebrate.ai/weekly/2026-w31.html</link>
+    <guid isPermaLink="true">https://vertebrate.ai/weekly/2026-w31.html</guid>
     <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
     <description>Google DeepMind's Gemini Robotics 2 gives humanoids full-body control, Amazon's Zoox becomes the first company cleared to run paid robotaxis without a human behind the wheel, and Waymo keeps scaling hard — importing thousands of Chinese-made Geely sedans while pushing into Napa, D.C., and six new cities.</description>
     <content:encoded><![CDATA[<p><strong>Google DeepMind&#x27;s Gemini Robotics 2 gives humanoids full-body control, Amazon&#x27;s Zoox becomes the first company cleared to run paid robotaxis without a human behind the wheel, and Waymo keeps scaling hard — importing thousands of Chinese-made Geely sedans while pushing into Napa, D.C., and six new cities.</strong></p>
@@ -104,8 +104,8 @@
   </item>
   <item>
     <title>The Weekly — 2026-W30</title>
-    <link>https://vertebrate.ai/weekly/2026-W30.html</link>
-    <guid isPermaLink="true">https://vertebrate.ai/weekly/2026-W30.html</guid>
+    <link>https://vertebrate.ai/weekly/2026-w30.html</link>
+    <guid isPermaLink="true">https://vertebrate.ai/weekly/2026-w30.html</guid>
     <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
     <description>Mitsubishi Motors' entry into mass-producing humanoid robots, Figure AI's pivot toward military hardware on AMD silicon, and AgiBot's Hong Kong IPO filing mark a week where humanoid robotics stopped being a lab curiosity and started looking like an industrial and geopolitical bet.</description>
     <content:encoded><![CDATA[<p><strong>Mitsubishi Motors&#x27; entry into mass-producing humanoid robots, Figure AI&#x27;s pivot toward military hardware on AMD silicon, and AgiBot&#x27;s Hong Kong IPO filing mark a week where humanoid robotics stopped being a lab curiosity and started looking like an industrial and geopolitical bet.</strong></p>
@@ -191,8 +191,8 @@
   </item>
   <item>
     <title>The Weekly — 2026-W29</title>
-    <link>https://vertebrate.ai/weekly/2026-W29.html</link>
-    <guid isPermaLink="true">https://vertebrate.ai/weekly/2026-W29.html</guid>
+    <link>https://vertebrate.ai/weekly/2026-w29.html</link>
+    <guid isPermaLink="true">https://vertebrate.ai/weekly/2026-w29.html</guid>
     <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
     <description>Figure unveiled its third-generation humanoid, Figure 03, alongside a Helix upgrade that lets robots learn new chores straight from video; NEURA Robotics struck a major chip-and-software alliance with Qualcomm to standardize humanoid 'brains'; and Anduril's autonomous drone fired its first live missile, quietly formalizing a new class of lethal, uncrewed weapons.</description>
     <content:encoded><![CDATA[<p><strong>Figure unveiled its third-generation humanoid, Figure 03, alongside a Helix upgrade that lets robots learn new chores straight from video; NEURA Robotics struck a major chip-and-software alliance with Qualcomm to standardize humanoid &#x27;brains&#x27;; and Anduril&#x27;s autonomous drone fired its first live missile, quietly formalizing a new class of lethal, uncrewed weapons.</strong></p>
@@ -289,8 +289,8 @@
   </item>
   <item>
     <title>The Weekly — 2026-W28</title>
-    <link>https://vertebrate.ai/weekly/2026-W28.html</link>
-    <guid isPermaLink="true">https://vertebrate.ai/weekly/2026-W28.html</guid>
+    <link>https://vertebrate.ai/weekly/2026-w28.html</link>
+    <guid isPermaLink="true">https://vertebrate.ai/weekly/2026-w28.html</guid>
     <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
     <description>1X gave its Neo humanoid near-human hands and Mitsubishi joined the android race with a 2027 factory plan, while Waymo pushed driverless rides into a half-dozen new cities and Ondas snapped up drone maker DZYNE for $875.8 million.</description>
     <content:encoded><![CDATA[<p><strong>1X gave its Neo humanoid near-human hands and Mitsubishi joined the android race with a 2027 factory plan, while Waymo pushed driverless rides into a half-dozen new cities and Ondas snapped up drone maker DZYNE for $875.8 million.</strong></p>

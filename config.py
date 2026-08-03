@@ -17,9 +17,9 @@ CLASSIFY_MAX_TOKENS = 400
 WEEKLY_MAX_TOKENS = 16000                 # headroom for summary+lede+caption+18 entries (long URLs)
 SITE_TITLE = "VERTEBRATE.ai"
 SITE_TAGLINE = "the first ai-powered media"
-SITE_DESC = ("VERTEBRATE.ai — the first AI-powered media covering humanoid robots, physical AI, "
-             "driverless cars, robotaxis and autonomous drones. Daily dispatches and a weekly "
-             "editorial on the robotics industry.")
+# Kept ≤155 chars so Google doesn't truncate the meta description.
+SITE_DESC = ("Humanoid robots, physical AI, driverless cars and autonomous drones — "
+             "VERTEBRATE.ai's daily dispatch and weekly editorial on robotics.")
 DOMAIN = "vertebrate.ai"
 
 

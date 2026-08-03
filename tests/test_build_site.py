@@ -28,7 +28,7 @@ def test_build_site_writes_expected_files(tmp_path):
     assert (out / "style.css").exists()
     assert (out / "404.html").exists()               # branded not-found page
 
-    weekly = (out / "weekly" / "2026-W29.html").read_text(encoding="utf-8")
+    weekly = (out / "weekly" / "2026-w29.html").read_text(encoding="utf-8")
     assert "The week the humanoid clocked in." in weekly
     assert "Because it matters." in weekly       # why-it-matters
     assert "sharing/share-offsite" in weekly     # LinkedIn share button
@@ -114,7 +114,7 @@ def test_build_site_homepage_shows_only_latest_week(tmp_path):
     index = (out / "index.html").read_text(encoding="utf-8")
     assert "ThisWeekStory" in index          # current week leads the homepage
     assert "LastWeekStory" not in index      # older week is not on the front page
-    weekly = (out / "weekly" / "2026-W28.html").read_text(encoding="utf-8")
+    weekly = (out / "weekly" / "2026-w28.html").read_text(encoding="utf-8")
     assert "LastWeekStory" in weekly         # it lives on its weekly page
 
 
