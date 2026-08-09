@@ -17861,7 +17861,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "An all-terrain bipedal humanoid claims to solve the mobility problem that has dogged most warehouse-bound humanoids, which mostly shuffle across flat, polished floors. If Lumo's claims hold up outside a press release, it puts pressure on Figure, Apptronik and others to prove their robots can handle anything rougher than a loading dock.",
     "duplicate": false
   },
   {
@@ -18102,7 +18102,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "Nine figures for welding and surface-finishing robots is a serious bet that shipbuilding, one of manufacturing's most labor-strapped corners, can be automated at scale. This deal is a major proof point for Path Robotics and GrayMatter, and a signal to other heavy-industry primes that robotic welding has moved past pilot projects.",
     "duplicate": false
   },
   {
@@ -18123,7 +18123,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "Turning robot combat into a ticketed spectator sport suggests robotics culture is maturing into entertainment the way monster trucks or MMA once did, giving hobbyist engineering a commercial afterlife. It's a small but telling data point on how publicly robots are now consumed as spectacle rather than just industrial tools.",
     "duplicate": false
   },
   {
@@ -18217,7 +18217,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "Rivian betting factory capacity on robotaxis diversifies it beyond consumer EVs at a moment when that market has gotten brutally competitive. It's a hedge that ties Rivian's fortunes to the broader autonomous vehicle wave alongside Waymo and Tesla, with Georgia jobs as the local political upside.",
     "duplicate": false
   },
   {
@@ -18463,7 +18463,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "Every new city Waymo enters becomes a live experiment in how traffic law, insurance, and enforcement adapt when there's no driver to pull over. Denver's approach will likely become a reference point for other cities bracing for their own driverless rollouts.",
     "duplicate": false
   },
   {
@@ -18781,7 +18781,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "A 40-mile autonomous transit without jamming or interference sounds modest until you consider it's a rehearsal for contested logistics in a real conflict, where GPS denial and spoofing are expected. The clean run is a quiet but meaningful data point for the Navy's push toward unmanned resupply at sea.",
     "duplicate": false
   },
   {
@@ -18804,7 +18804,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "Taiwan's defense establishment publicly demonstrating autonomous drone capability with Shield AI is as much geopolitical signaling as technical showcase, aimed squarely at deterring Chinese aggression. It also extends Shield AI's international footprint beyond U.S. contracts, an important diversification for the company's order book.",
     "duplicate": false
   },
   {
@@ -18850,7 +18850,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "Structural batteries that double as airframes attack drone endurance from the materials side rather than the battery-chemistry side, potentially unlocking meaningful weight and flight-time gains. It's the kind of unglamorous engineering trick that could quietly outcompete flashier propulsion or battery startups if it scales.",
     "duplicate": false
   },
   {
@@ -18877,7 +18877,7 @@
     ],
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
-    "why": null,
+    "why": "A $100 million facility and 1,250 planned hires by 2033 is Boston Dynamics putting real capital behind its transition from robotics research lab to manufacturer, with a third robot platform reportedly on the way. It's a strong signal, alongside the Hyundai joint venture, that the company is scaling for mass production rather than one-off showcases.",
     "duplicate": false
   },
   {
@@ -19181,7 +19181,7 @@
     ],
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
-    "why": null,
+    "why": "Driverless trucks running actual freight routes in Austin marks the shift from closed-course testing to public highways carrying real cargo. It puts pressure on Aurora and Kodiak's timelines and raises the stakes for how regulators and the public react once autonomous trucks become a common sight rather than a novelty.",
     "duplicate": false
   },
   {
@@ -19253,7 +19253,7 @@
     ],
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
-    "why": null,
+    "why": "Six million miles is a serious data set, and pairing it with Hertz's fleet economics and Uber's distribution reach gives Oro Mobility a credible on-ramp to commercial robotaxi service. Watch whether this three-way partnership can actually launch paid rides before Waymo further cements its head start.",
     "duplicate": false
   },
   {
@@ -19372,7 +19372,7 @@
     ],
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
-    "why": null,
+    "why": "Extending Hivemind autonomy from aircraft to boats shows Shield AI building a general-purpose autonomy layer rather than a single-domain product, which is the more defensible long-term bet in defense tech. It positions the company to compete for maritime contracts against specialized unmanned-surface-vessel makers.",
     "duplicate": false
   },
   {
@@ -19395,7 +19395,7 @@
     ],
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
-    "why": null,
+    "why": "Scaling a resupply drone from prototype to Air Force operations is the harder, less glamorous half of defense innovation, where budgets and doctrine matter more than demos. DZYNE's progress here is a bellwether for how quickly autonomous logistics can actually enter the military supply chain versus just appearing in press releases.",
     "duplicate": false
   },
   {
@@ -19418,7 +19418,7 @@
     ],
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
-    "why": null,
+    "why": "Better 3D perception is the unsexy backbone that makes every flashy drone capability actually work in cluttered, real-world environments. MicroVision's push here matters for anyone building autonomous navigation stacks, since vision quality is often the bottleneck rather than flight controls.",
     "duplicate": false
   },
   {
@@ -19486,7 +19486,7 @@
     ],
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
-    "why": null,
+    "why": "Incremental as it sounds, better low-light and autofocus performance is what determines whether a drone is useful at dusk or in a warehouse aisle, not just in bright daylight demos. Skydio's steady iteration on the X10 keeps it ahead of DJI-adjacent competitors in the U.S. enterprise and public-safety drone market.",
     "duplicate": false
   },
   {
@@ -19883,7 +19883,7 @@
     ],
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
-    "why": null,
+    "why": "Counter-drone security is moving from military bases to Sunday football, a sign that the threat of rogue drones over crowds has become mainstream enough to warrant stadium-grade defense. Ondas' entry into sports venues opens a new commercial vertical beyond its traditional defense and critical-infrastructure customers, and other leagues will be watching whether the Jaguars deal becomes a template.",
     "duplicate": false
   },
   {
@@ -19907,7 +19907,7 @@
     ],
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
-    "why": null,
+    "why": "This formalizes what had been an informal courtship since Hyundai's 2021 acquisition of Boston Dynamics, putting real commercialization muscle behind Atlas rather than leaving it as a viral video machine. It signals Hyundai wants humanoid robots on factory floors, not just YouTube, and pressures other humanoid makers like Figure and Tesla to show similar manufacturing-scale commitments.",
     "duplicate": false
   },
   {
@@ -19931,7 +19931,7 @@
     ],
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
-    "why": null,
+    "why": "Stretch is Boston Dynamics' pivot from spectacle to spreadsheet: a robot built to solve the unglamorous but expensive problem of unloading trucks and trailers. It puts Boston Dynamics in direct competition with warehouse automation players like Fetch and Locus, betting that logistics, not backflips, pays the bills.",
     "duplicate": false
   },
   {
