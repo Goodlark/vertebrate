@@ -89,7 +89,8 @@ aside{align-self:start;position:sticky;top:20px}
   text-transform:uppercase;color:var(--stamp);margin:15px 0 6px}
 .index-box .hd + .sub{margin-top:2px}
 .cloud{line-height:2.0}
-.cloud a{color:var(--ink);text-decoration:none;margin:0 7px 0 0;white-space:nowrap;display:inline-block}
+.cloud a{color:var(--ink);text-decoration:none;margin:0 7px 0 0;white-space:normal;
+  overflow-wrap:break-word;max-width:100%;display:inline-block;vertical-align:top}
 .cloud a:hover{text-decoration:underline;color:var(--stamp)}
 .co{font-weight:700}.pe{font-style:italic}
 .th{font-family:"Special Elite",monospace;text-transform:lowercase;letter-spacing:.02em}
