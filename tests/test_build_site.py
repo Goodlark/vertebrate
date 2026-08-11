@@ -70,6 +70,22 @@ def test_build_site_writes_daily_editions(tmp_path):
     assert "2026-07-25" in archive and "2026-07-24" in archive
 
 
+def test_build_site_renders_synthesized_story(tmp_path):
+    out = tmp_path / "docs"
+    m = store.Mention(url="http://rep", title="Waymo Expands to Denver, San Diego and Tampa",
+                      source="KTLA", published="", topic="Driverless", category="launch",
+                      one_line="Waymo launched robotaxis in Denver, San Diego and Tampa.",
+                      companies=["Waymo"], people=[], themes=[], first_seen="2026-07-15T00:00:00",
+                      week="2026-W29",
+                      sources=[{"url": "http://1", "title": "A", "source": "KTLA"},
+                               {"url": "http://2", "title": "B", "source": "ABC7"}])
+    sitegen.build_site([m], {}, out_dir=str(out), templates_dir="templates")
+    index = (out / "index.html").read_text(encoding="utf-8")
+    assert "Waymo Expands to Denver, San Diego and Tampa" in index   # informative headline
+    assert 'class="lead-title"' in index
+    assert "Sources:" in index and "KTLA" in index and "ABC7" in index   # multiple sources
+
+
 def test_build_site_hides_duplicates(tmp_path):
     out = tmp_path / "docs"
     keep = _m("http://keep")   # title "Figure hits the line", week 2026-W29

@@ -182,8 +182,9 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         shutil.rmtree(out_dir)
     os.makedirs(out_dir, exist_ok=True)
 
-    # Same-event duplicates are marked (not deleted) upstream; hide them from every view.
-    mentions = [m for m in mentions if not getattr(m, "duplicate", False)]
+    # Duplicates and stories folded into a synthesized briefing are hidden from every view.
+    mentions = [m for m in mentions
+                if not (getattr(m, "duplicate", False) or getattr(m, "folded", False))]
 
     # Importance-ranked, not yet deduped — dedup happens per rendered view so
     # the same ongoing story can still appear in each week it was news.

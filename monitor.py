@@ -16,6 +16,7 @@ import feeds
 import sitegen
 import sources
 import store
+import synthesis
 import weekly
 
 logging.basicConfig(level=logging.INFO, format="%(message)s")
@@ -87,9 +88,13 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
         client, [m for m in mentions if (m.first_seen or "")[:10] == today and not m.companies],
         only_missing=True)
     dedup.mark_duplicates(client, mentions)
+    # Synthesize today's per-company story threads into combined multi-source briefings.
+    today_live = [m for m in mentions if (m.first_seen or "")[:10] == today
+                  and not m.duplicate and not m.folded and not m.sources]
+    synthesis.synthesize_day(client, today_live)
     store.save_mentions(mentions, mentions_path)
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
-    live = sum(1 for m in mentions if not m.duplicate)
+    live = sum(1 for m in mentions if not (m.duplicate or m.folded))
     summary = {"fetched": fetched, "relevant": relevant, "added": added, "stored": live}
     log.info("Daily run — fetched %(fetched)d new / relevant %(relevant)d / added %(added)d "
              "/ stored %(stored)d", summary)
@@ -165,6 +170,27 @@ def run_sources(now: datetime, client, out_dir: str = "docs", data_dir: str = "d
     log.info("Sources — filled %d story(ies) from the article, %d could not be fetched",
              filled, failed)
     return {"filled": filled, "failed": failed}
+
+
+def run_synthesize(now: datetime, client, out_dir: str = "docs", data_dir: str = "data",
+                   days_back: int = 10) -> dict:
+    """Backfill per-company synthesized briefings over the last `days_back` days, then
+    rebuild. (Daily runs synthesize each new day automatically.)"""
+    mentions_path, weeks_path = _paths(data_dir)
+    mentions = store.load_mentions(mentions_path)
+    weeks = store.load_weeks(weeks_path)
+    cutoff = (now.date() - timedelta(days=days_back)).isoformat()
+    days = sorted({(m.first_seen or "")[:10] for m in mentions
+                   if m.first_seen and (m.first_seen or "")[:10] >= cutoff})
+    total = 0
+    for day in days:
+        live = [m for m in mentions if (m.first_seen or "")[:10] == day
+                and not m.duplicate and not m.folded and not m.sources]
+        total += synthesis.synthesize_day(client, live)
+    store.save_mentions(mentions, mentions_path)
+    sitegen.build_site(mentions, weeks, out_dir=out_dir)
+    log.info("Synthesis — combined %d thread(s) over %d day(s)", total, len(days))
+    return {"synthesized": total, "days": len(days)}
 
 
 def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "data",
@@ -281,6 +307,8 @@ def main(argv=None) -> int:
                         help="Fetch a past ISO week's news by publication date and write its weekly.")
     parser.add_argument("--captions", action="store_true",
                         help="Backfill LinkedIn captions for editions that lack one, then rebuild.")
+    parser.add_argument("--synthesize", action="store_true",
+                        help="Backfill per-company synthesized briefings over recent days, then rebuild.")
     parser.add_argument("--clean", action="store_true",
                         help="Re-clean stored data in place: mark same-event duplicates and "
                              "tighten summaries (company/speaker facts), then rebuild.")
@@ -307,6 +335,8 @@ def main(argv=None) -> int:
         run_backfill(now, args.backfill, topics, client)
     elif args.sources:
         run_sources(now, client, only_missing=not args.all)
+    elif args.synthesize:
+        run_synthesize(now, client)
     elif args.clean:
         run_clean(now, client, enrich=not args.no_enrich)
     elif args.captions:
