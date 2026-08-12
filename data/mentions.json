@@ -18587,7 +18587,7 @@
     "first_seen": "2026-08-05T16:28:55",
     "week": "2026-W32",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -18639,7 +18639,7 @@
     "first_seen": "2026-08-05T16:28:55",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -18836,7 +18836,7 @@
     "first_seen": "2026-08-05T16:28:55",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -18985,7 +18985,7 @@
     "first_seen": "2026-08-05T16:28:55",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -19010,7 +19010,7 @@
     "first_seen": "2026-08-05T16:28:55",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -19186,7 +19186,7 @@
     "first_seen": "2026-08-05T16:28:55",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -19312,7 +19312,7 @@
     "first_seen": "2026-08-05T16:28:55",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -19464,7 +19464,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -19748,7 +19748,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -20045,7 +20045,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -20069,7 +20069,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -20093,7 +20093,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -20726,7 +20726,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -20984,7 +20984,7 @@
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21514,7 +21514,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21928,7 +21928,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21977,7 +21977,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22144,7 +22144,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22195,7 +22195,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22220,7 +22220,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -22246,7 +22246,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -22381,7 +22381,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22465,7 +22465,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22712,7 +22712,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22737,7 +22737,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22924,7 +22924,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -22961,7 +22961,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23076,7 +23076,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23125,7 +23125,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -23549,7 +23549,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -23708,6 +23708,730 @@
     "week": "2026-W33",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmF6bEo5M0ppdnltakNQZW4td3dnYkJpMmFaTVZyVWVrVVJxVVdOLURSOVZuR3dfNWNFdEV4RGtXdWVCQWY4VkFXUlE5eFlISllNd3dTRGdldUpKWjdKRXNmRk1ObGo0c0hHTG1HaHVqdldhbjBncHUyWEI2dVhtSXdoVWFKZUN6RFF3d0lwZ090b29KUXZ6LUcyOEFQbno0T3RWSHBoNEVaU1pPUlBVX2RzVQ?oc=5",
+    "title": "San Mateo County Could Be First to Regulate Humanoid Robots for Commercial Use",
+    "source": "KQED",
+    "published": "Wed, 12 Aug 2026 14:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "San Mateo County moves to require permits for humanoid robots entering the workplace, making it the first U.S. jurisdiction to formally regulate their commercial deployment.",
+    "companies": [
+      "Tau Robotics"
+    ],
+    "people": [
+      "Ray Mueller",
+      "Ken Goldberg",
+      "Julie Lind",
+      "Richard Seguine"
+    ],
+    "themes": [
+      "humanoid",
+      "regulation",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZWpBN0FGMks3ZjRNVzJYbENIR3owM21DZlJjenNOYkl2RDlQQlRYcHlkY1dqeVFRM3I2ajVGT1dNMW1QeFFfdi01SUk5a3FBb0d4WFFrYUswYkF1dEJFaGhSQlJfdkx3WDFRZ0tqU1N1M2lxcjVrR1lROWNRV3dFSDJRUzlJb0dfejNfT09WNHRUNHhaMUVRclh4R3lXOWU4aE1pNldzczB4Z2FWUUc2VFhEWk9laE9tWnfSAb8BQVVfeXFMTnRFM1ZfazRkejlKLUxYOHhZVFpjeEVhVWxqZ2J6SmRwNjV4bEZJV1RGVWZpelUya1hLdDYyUnFNa0lYOUc4RmxuSTJ2dExORk8yRUREM0hDWGxBZ0lUMVEwNUNfR0xZQ1l0bldLWmxGYlZwUFBKNTA5aFBTZl9yTVlWVFE2Z1BKaENjXzM1Wkh4M2NGRTdsdVBXT0J6dy1kdi1YRm1zZmdqYlM0QTlNS2ZpR0NUNnQ1Y0VOODFMS2s?oc=5",
+    "title": "San Mateo County, California one of 1st places in US to pass resolution to regulate humanoid robots",
+    "source": "ABC7 Bay Area",
+    "published": "Wed, 12 Aug 2026 05:42:17 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "San Mateo County unanimously approved regulations for commercial humanoid robots, including permits and emergency kill switches, as Ray Mueller pushes safeguards against workplace displacement.",
+    "companies": [
+      "San Mateo County Board of Supervisors",
+      "Pause AI",
+      "San Mateo County Central Labor Council"
+    ],
+    "people": [
+      "Ray Mueller",
+      "Julie Lind",
+      "Holly Elmore"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1JkNER2cXVESTU3dFl5d09Sb29wbU5PdkpYX1YyTnNHcXREc2x4NWJLUVJTUjA4bC1FZDhtVXItNUFWaXRxSjJRb3FDM1NDczR6b0RscGhjejVadkUzUlRBQlNOeWEzalBMTm5SWjBFajZnb2hTakg1TGwtb1dtWjM0QW5GSXd2?oc=5",
+    "title": "Scientists develop 'RoboDojo,' a unified platform to evaluate embodied AI",
+    "source": "Tech Xplore",
+    "published": "Wed, 12 Aug 2026 12:40:02 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Researchers introduce RoboDojo, a unified benchmarking platform designed to standardize the evaluation of embodied AI systems across different robot morphologies and tasks.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "physical AI",
+      "robotics",
+      "benchmarking",
+      "evaluation platform"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUkJ3MVY0NE1qckhKYkZFNFZPUUdBSUJEMG5YY2YxZnpCMlhHU05XQXREVG5WdWNMLV9QNGdHbVZqZG93OTd4MVVkTHBzdTNhbG93SF9weUlFTnZjZFdTcExDWnJMb1A1b0hyWWktaFBaSzZDYUk2WjhxMHgyZHlVVVRNNmxNc2hHbEtaNkRBSnI0WjIz?oc=5",
+    "title": "China leads humanoid robot market with 97% of global shipments",
+    "source": "TV BRICS",
+    "published": "Wed, 12 Aug 2026 15:01:55 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Chinese manufacturers now dominate the humanoid robot market, controlling 97 percent of global shipments in the first half of 2026.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "market share"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQXdyS2dUbGlMRFRrejMzMEZBWlFvcEtvUUt6TGNnLVpBeWlZTFdreGVEWWw0azNGSEFnY1BHTUF0cVBoV3B1R3REYnJ3MHE0dWszZTludEktMnJyQWRuNHUxaXd4ZHhOWUJRek44enJTWGxlMlV6UUhlLW92aHRzWi14MXBtNEpmenJFb0tn0gGWAUFVX3lxTFBPYUlOYXdnQWx5SmVoXzlCbFFMTFFxclpDX0Z4UmFrd1E5SEpveWZheFNCeGpaSzRaaXB5c21mSWNQeTJZOTlsYmI1Z0RZZ3g3eTlGLWxmb3duMDhlRzE0djA2cE9OT2xMWjFEXzFNNFZrTVZqOUo3ZVBrbGtYbWdMbzNSelpnV0NRV1BsVEpPcUZ5bWliQQ?oc=5",
+    "title": "San Mateo County may require permit for businesses using humanoid robots",
+    "source": "NBC Bay Area",
+    "published": "Wed, 12 Aug 2026 00:54:04 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "San Mateo County is considering requiring permits for businesses that deploy humanoid robots, with revenue funding firefighting equipment for lithium-ion battery fires.",
+    "companies": [
+      "San Mateo County"
+    ],
+    "people": [
+      "Ray Mueller"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "workplace deployment"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xd1ZCamd1YVRuOHhCT25nWm9ZWUZGVTZXQ1ZOdU1Ud21hRG9udUtYSDBjU2hvUGJfd2VRcFlpUUJZM3dQS19iYWRFMGk1Um1PMFNkendIVEliYVdlQWtRcUZ4ck9mVVE2WGNHTVFB?oc=5",
+    "title": "97% of humanoid robots come from China: The crazy gap that worries the US",
+    "source": "ynetnews.com",
+    "published": "Wed, 12 Aug 2026 00:11:45 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Chinese manufacturers now ship 97% of the world's humanoid robots, a staggering gap driven by supply chain dominance and government backing that dwarfs American competitors.",
+    "companies": [
+      "Zhiyuan Robotics",
+      "Unitree",
+      "Figure",
+      "Tesla",
+      "Agility Robotics",
+      "BYD"
+    ],
+    "people": [
+      "Daniela Ginzburg"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "geopolitics"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWlqSHY3VWZZNjR6WmM2cmxlRTFYS2t2XzZIVDVTdWJrbHZUdDJWMF9aRlIzQWVJYzBHYTBIdlRqNFFybjZrRWNFX0lYa2NqRVpteDhqZlhGUHgzWTF4d090TWkwbFBxQ0VMUGpFM01icTVKSnN5bVZRb2hWb2p0ZUp3bnBtQlJmeWNZWGNwYUdpYk9jV2NSdW1qV2piNEFUYnp3MG9IdkxvQ1h0OC1iVnlRdVlUd2txZkJjanNtRTBOX1dWdGFpeA?oc=5",
+    "title": "Samsung Secretly Built Humanoid Outside RX Using Home-Appliance Motor Tech",
+    "source": "techtimes.com",
+    "published": "Wed, 12 Aug 2026 13:27:53 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Samsung has built a humanoid robot using motor technology from its home-appliance division, marking a quiet entry into the physical-AI robotics market.",
+    "companies": [
+      "Samsung"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "motor technology"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTYxMXF4SkZwc2xGQzJYUUxYZUZtd3E0aEhUMnlZR2c5b1djMWRZcTBzUGI0ZmNmZnE2ay1ZMm11Zkw0b0ZseVlYZFBRUlo5TTBJVHhnR1UxS0JKck5EV05HWmJXN3pabzFxUDNVX3VRYzhLb1FoV3dJN0hRamZ2MmxoTi1nYVVsODBQeA?oc=5",
+    "title": "‘Someone clearly lacked caution’: Chinese robot visits Polish Navy base",
+    "source": "TVP World",
+    "published": "Wed, 12 Aug 2026 14:48:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A Chinese humanoid robot made an unscheduled appearance at a Polish Navy base, raising questions about security protocols and the geopolitical dimensions of physical AI deployment.",
+    "companies": [
+      "Polish Navy"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "geopolitical risk",
+      "security"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRW1fUmViU25MV2NPbVlqVkVYVjRTWDF1ZU5HeFVnZnhNSVhxSkxJNHd5N2NEMlcxM204Nm1WNXd4RUNIZzdqVlo5OF9QYkNBLVZBODctY2FkN1B2enFaWFRvaHRWVHZrY2UtaUxvVjE5OUp6OGhHbWxpaDk0Zi14LWZWVU1ER0RNM1JKMHZNVmRMZkhLOXBXaG96TFFHVGN0YWs0YWxOTmJMS3p2ck5VcFl0Mnk1NW5UM2NyUU00Y1kweXBlRnNRaXJ3?oc=5",
+    "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
+    "source": "MarketWatch",
+    "published": "Tue, 11 Aug 2026 17:17:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "MarketWatch speculates that Unitree's IPO could spark broader investor interest in humanoid-robot companies, though no concrete developments beyond the listing itself are reported.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "IPO",
+      "investor sentiment"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcnhwNkR0VXRUWllmQlVhN18zbm53a1NuY2NOazdtNW1CU0FNVW5Ga0VFc3JIakxYVlZHQWw5UEVPWU9HQUNjd3Mxd0w3TV9uY3NMQzNnTkxnOE9ra3Y3TVE3enNER3BlMlQ3LWlXdkN3Z045ZTk4azdNbG1KdUN2aEZDbGNBSXhZMmZCZmwzTk9BUllMRXfSAZ4BQVVfeXFMTkNJT2ZnMk84SVdJZjJscDVZRzRnRzViR19qZWRNMXcxeHlKOGVEdWdkcktTa3hZeGp5Q05QQ0F1NXoydHBudXg0Y2FPQzZJM3Nvcnc0T1BJMGU5SHQwaXVBSlNFQS1WVTh5TVo3R1JrTHhOY0ZBZUdVQkdCa3llckRXSTU2T1pRcFFmbjRsemRicnk0S1dkMURsTjRDVkE?oc=5",
+    "title": "San Mateo County may require permit for businesses using humanoid robots",
+    "source": "NBC Bay Area",
+    "published": "Wed, 12 Aug 2026 00:54:04 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "San Mateo County is considering a permit requirement for businesses that deploy humanoid robots in their operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoVmNoVjNYa2d2TXFaaTJqT3JTdGZoVHZOeDhZbmRZZnNUdDlDT0RLNXFDX3doSEw5by1iZjlqWC10cXZkZ2F4NWJEYkx1ZHpxWVdLeDRlS2JXWEdjNmJLdDFR?oc=5",
+    "title": "China takes 97% of H1 global humanoid robot shipments; supply chains, vast market drive rapid scale-up, intl reach: expert",
+    "source": "Global Times",
+    "published": "Mon, 10 Aug 2026 16:04:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Chinese robotics companies, led by AGIBOT and Unitree Robotics, captured 97 percent of global humanoid robot shipments in the first half of 2026.",
+    "companies": [
+      "Unitree Robotics",
+      "AGIBOT",
+      "Smart Analytics Global",
+      "Cutting-Edge Technology Research Institute",
+      "China Export & Credit Insurance Corp",
+      "First Seafront Fund"
+    ],
+    "people": [
+      "Chi Jingyi",
+      "Zhang Weilan",
+      "Zhang Xiaorong",
+      "Yang Delong"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "supply chain"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSG1qM0t3WllsYVVocHhsQ1l3THBxaWR0Q2s5UFIybkdaUlJSM24yZGxGajgtTkhHX0xvZ0I0endDUWt5U0dPUG4tdzFoWnRubUx2ZU50c1RyY0lIcm94YTlkYlEwNVB6d0VGcDNMdXJXQ2ZhX3hMb2dwVi0zWllZUVQ1V3pUQk9NdlV0d255SDBrQQ?oc=5",
+    "title": "Waymo’s Wreck Crashes Its Driverless Car Lead",
+    "source": "24/7 Wall St.",
+    "published": "Wed, 12 Aug 2026 15:38:45 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo faces a setback in its driverless ambitions following a wreck that damages its industry lead.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEthSUFIdWswMlVSZy14TGZxLXcxeHpuU3V5MkU2QUtIOGdJM3BIb1h0cV83RWhxRk55Q1Vvb0JtbXc5WEN6aTZiUGstaHBSNmJ4Nkh3UVc4aU43Q3h1bGh4cEkyYi1zX0h0OHZyUFVFWURaS0syLWRTX0xYcUxhN3l0aEdpcjZ4MHhfN2Itc0w3eWptWWR2ZzRsVmZqZjRPZV9obDhn?oc=5",
+    "title": "Pennsylvania lawmaker wants to ban fully self-driving buses",
+    "source": "Planetizen",
+    "published": "Wed, 12 Aug 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Pennsylvania lawmaker proposes legislation to ban fully autonomous buses, signaling regulatory pushback against driverless transit.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "public transit"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3l6TFZ1WTVkV0xjMnJncThJYkZpT1BSMzY1bmxFOE82UmxoQTZCSVNGS2pBTEFzbjRlWmtZUVhlQXhvVVRaaUR0QzItS2xGNjJNRzhJR2NtazRmZGJxQ05qUWQtTzh0X2s4VFpsMWVsdkI3cVBleFhDVGhPOGkxUTU0UUF6b2lRVS1fV2dGX0JUR0xwNkpWR21zX0NJSXR2WFFyVkJrWjNkQ2tway1hU2t4dFZLQVN4SVZhUkpnbF8?oc=5",
+    "title": "Japanese Self-Driving Startup Plans U.S. Office, Targets $10 Billion IPO Valuation",
+    "source": "WSJ",
+    "published": "Wed, 12 Aug 2026 03:57:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "A Japanese autonomous-vehicle startup is opening a U.S. office and eyeing a $10 billion IPO valuation, betting on American adoption of self-driving technology.",
+    "companies": [
+      "Japanese Self-Driving Startup"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "IPO"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2dBN3VRQk1QSjU5Q1VMUm1nVjVKMjd0OGloa0NJNHk0UVBjY3gxQVNrUFdaN19uWG50TkVCTnhNYmd2a2JJMm84X29ZZFFlOWZndl9xVjBmRlFSZldtZ0kwVWs4NGpJYzdGcmxwdU1kbGV3NFJPMllZeWdCRTRBa1V3SHBnV3VFeXA0RFFZbXNLNGcxMkNpalcwVzJXZ3lhdC1yeTNR?oc=5",
+    "title": "Las Vegas taxi driver says earnings cut in half by driverless rides",
+    "source": "KLTV.com",
+    "published": "Wed, 12 Aug 2026 05:34:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Las Vegas taxi driver reports his earnings have halved since driverless services launched on the Strip.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "labor impact"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQelV1ZmhoclVqb2FsWkF6WUFWcVNadWxIVzdiOERGZjlUd2lVSC1uaHlnaTdWM1dobWUwOVdfM19mTzdPTGI4SXdYSDFESTJhSWY5NFNoN0tGR1FMZHNIT3pTa0FwajFaeHVxYVF6Vi1YalpKNUgxb1pRT1VLV0tBSVdGbHBBbl9McjU4VUYyQS1LRTlBWEVVcC0xRDdRaXNqYWVIbWJqR1pWYWx2VUkxRHhzZlBBV2FGNVdDT0ZLaThfc1pzS0FtZzh4elVkVjN5UWFDNG53Rm9Db3FfMDJZQXZ3am1iX0I5ZmNGNw?oc=5",
+    "title": "‘Why are we being replaced with a robot?’ Las Vegas taxi driver says earnings cut in half by driverless rides",
+    "source": "fox5vegas.com",
+    "published": "Tue, 11 Aug 2026 23:31:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Zoox has launched paid driverless rides on the Las Vegas Strip, undercutting taxi earnings so badly that one driver says he's now making half what he used to.",
+    "companies": [
+      "Zoox",
+      "Tesla",
+      "Waymo",
+      "Uber"
+    ],
+    "people": [
+      "Sonny Goodman"
+    ],
+    "themes": [
+      "driverless",
+      "labor displacement",
+      "gig economy"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NOXVpNkV6UnJaYS12dFdFYi01a21VMW81SHRkUkd5ZFdxblVuYUprb0FtOFByaXVDQWhaN1UyVVVIbTlrR3IyaEw3VjBXblZ3S0hoUWtnVFFQeTlDMFEtSHpKTjluMkp4RkYta1cyYjQ?oc=5",
+    "title": "Japanese self-driving startup Turing is planning a U.S. office and eyeing a $10B IPO",
+    "source": "qz.com",
+    "published": "Wed, 12 Aug 2026 12:28:57 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Turing, a Japanese autonomous-driving startup, plans a U.S. office and is targeting a $10 billion IPO.",
+    "companies": [
+      "Turing"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAweFNaTF9zYW5oTVhmWDU2cUx2SHdOU1BOYWhNRzhtQ1RDQWU5ZG9VbnNXSXRjYzJJWC0yYUtaTmRpZ2xQdFB0SWM1TWxMZ0IycnNpRnJSWXhTaXJ4TXg3UEN3RktiNXphWllQSzFQSkRkUHhOMlNVOW9yNA?oc=5",
+    "title": "Tesla’s Robotaxi Just Put Starlink Inside Its Roof",
+    "source": "Motor1.com",
+    "published": "Wed, 12 Aug 2026 09:59:26 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla integrated Starlink satellite internet into the roof of its Cybercab robotaxi prototype, adding redundant connectivity to its autonomous vehicle.",
+    "companies": [
+      "Tesla",
+      "Starlink"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle",
+      "connectivity"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVNZRjFHcnF5QnpOLXhLNmJHalBILTBFYzdiaV9tbVlBU2ZXX2RLdXJSTU1hREpOY1FFTlVUbC1WWXBEcW4wb0IxNHVFeUtsYktsRENxMnk3eDlCWHd2dzBQYjFKR2NhVXREZG1DMUlnZ0pOd3pIeGpMSmRGZXctTFN2OGxhQkRjdFdnYm5pQURyZXN4dTNEdTVOOGgxX0NzWms4NUEySE1jS2E1?oc=5",
+    "title": "Egg-throwing teens arrested in Atherton after Waymo joyride",
+    "source": "almanacnews.com",
+    "published": "Tue, 11 Aug 2026 23:23:42 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Teenagers were arrested in Atherton after throwing eggs at a Waymo driverless vehicle, a local incident that highlights public friction around autonomous cars.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public perception"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFlzZkNDcF91VTVOS3lUc1puMUJqMGhFbXJPSDZGQnNCMzhTZEpRa1NLOGJiMkVwNWdVQTBBbldiT1NwMnMyaWZTV2hmOENmQ20wc192TkdrMUNERVJsa1R6M3k5VEtWc0d5UkhLUXNQSWpEMlhxRkE5Z2dPRDByQWlrdXd5dkRhaGg0ZFlaVVhrYno3cjlVWVZVMA?oc=5",
+    "title": "Is Uber (UBER) Losing Waymo Partnership? What Does It Mean in the Robotaxi Race?",
+    "source": "Yahoo Finance",
+    "published": "Tue, 11 Aug 2026 19:10:41 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Yahoo Finance speculates on the state of Uber's partnership with Waymo amid shifting dynamics in the robotaxi market.",
+    "companies": [
+      "Uber",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTBUZHdtTC1Nb0Y1MjY4a2hNanNoSmRxUmV6bmdPdmh3T1NyelZ2Tmdfd1ZPdFoyellGX3M5bFlzaVloaUl3LWZqcTZ2WVphU2lKeUE4dmF2bFdiMmx3MUlJNjMxcEVJWTJvSDAwUFY3NHBFei04VGthQTQ4TklvQld6SlhsWWxMYVo3eDBPdVZQZEthOWVtVlFR?oc=5",
+    "title": "Waymo eyes expansion into Pinellas County",
+    "source": "Tampa Bay Times",
+    "published": "Wed, 12 Aug 2026 15:03:19 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is moving into Pinellas County, Florida, expanding its driverless taxi service beyond Tampa.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "rideshare expansion"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQTjdaNk1mcnNEZXBMX3MzM3VtVUtTdDVkUGg3a3FucTh1QVRKUjBtVTlVTl9PdHN0MDNKY2VRTDEtVGFaTUQwQzJUTHJoSjFfVndwb3lFaTdXQlo1TWpSQ3NkeHgwTUktcndfSXFNMHNkdngtMFVJ?oc=5",
+    "title": "Waymo Stockpiles Robotaxis in Arizona While Eyeing Florida Expansion",
+    "source": "Electrek",
+    "published": "Wed, 12 Aug 2026 14:01:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is quietly building out its fleet and footprint: nearly 1,000 robotaxis sit waiting at its Arizona factory, a stockpile that signals the company's readiness to scale fast. Meanwhile, on the other side of the country, Waymo is eyeing an expansion into Pinellas County, Florida, pushing its driverless service beyond its existing Tampa base.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "rideshare expansion"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQTjdaNk1mcnNEZXBMX3MzM3VtVUtTdDVkUGg3a3FucTh1QVRKUjBtVTlVTl9PdHN0MDNKY2VRTDEtVGFaTUQwQzJUTHJoSjFfVndwb3lFaTdXQlo1TWpSQ3NkeHgwTUktcndfSXFNMHNkdngtMFVJ?oc=5",
+        "title": "Waymo Stockpiles Robotaxis in Arizona While Eyeing Florida Expansion",
+        "source": "Electrek"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTBUZHdtTC1Nb0Y1MjY4a2hNanNoSmRxUmV6bmdPdmh3T1NyelZ2Tmdfd1ZPdFoyellGX3M5bFlzaVloaUl3LWZqcTZ2WVphU2lKeUE4dmF2bFdiMmx3MUlJNjMxcEVJWTJvSDAwUFY3NHBFei04VGthQTQ4TklvQld6SlhsWWxMYVo3eDBPdVZQZEthOWVtVlFR?oc=5",
+        "title": "Waymo eyes expansion into Pinellas County",
+        "source": "Tampa Bay Times"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wWlowYnpHR3Y2eTRoM0xBd0trTTV0VnFPUDlic2NyaHNXLXNLNWNiU0pWNnptYUIyS2NORERfUkxhUWFoWDIwQVdoYzlOY05rRXdPdGQwR2R1bVNMUVUwWmNILWhjd0pvX0c3SzFtX29GQ0HSAXhBVV95cUxQZDFvWml3U091U0ZBX1NDWkJJc3E3YlpXdExXMlBmcXJfNmF6MHZHMzBjdzFQZDVqa1VHVUtnRS1idnJSclJCcGdyd3psOVBhd1prLVVObEY0Y0ZLQnVPTlJFV1ctT1pPOUtTRWgtWUo5ZVQxMmQyd2s?oc=5",
+    "title": "Taiwan Adds a ‘Ukraine-Style’ Mid-Range Strike Drone to Its Arsenal",
+    "source": "thedefensepost.com",
+    "published": "Wed, 12 Aug 2026 12:02:24 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Taiwan's navy successfully tested a new locally developed, medium-range strike drone during exercises, expanding the island's autonomous weapons capability.",
+    "companies": [
+      "Taiwan Ministry of National Defence Armament Bureau"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "strike capability",
+      "Taiwan"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSE5ZTm8wRzM4eUExcThxSnI0LUVvVUlaSHJDcG1BdFNjaFFHR2JJbkRGN0JDaGpoYXZhVlBiMllSOUxnQ204M2JlcUhZOXRkaDIzbjBfXzNFRnlrR2RKeThaeW1TUzFKYVJ2a1ZxRG0wRlRrR1VmbkVnQzA4N1VaWko5eVlmbGJHb0RybTAwRWwzUnNHamgxb1pqYlN5MDVDSnNvYlI3UXRwWDJySHBQcmE1ZXdxNHZ4VDVwOVdsSmJVTTBFakpRRG9DcFd4a2otOWhQLWVIa0tZUQ?oc=5",
+    "title": "Ontario police and fire deploy Octave dispatch solution with advanced drone integration",
+    "source": "FireRescue1",
+    "published": "Wed, 12 Aug 2026 12:57:41 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Ontario police and fire departments deploy Octave's dispatch platform with integrated drone capabilities for emergency response.",
+    "companies": [
+      "Octave"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "emergency response",
+      "dispatch",
+      "public safety"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXRGM3ltNUJyZFZQZzh4ekZIVmdyZFo2NGlHblhJSGk3QVduWFQ2ODNncDhOVnRISXlEUFU5Ty1DcHVQRmh2YUhEbE1CUnVra0NnRm1vTFcxT25UOXFkTFA0MTBwX1ByLU1vSjhmUEZPZ2FubmR4dDZEVEkzTlp3VkVTU04xcEtEY0Ntb1RkOWhidTlVbHlWUkp3?oc=5",
+    "title": "FlybyOps Launches Platform Aimed at Scaling BVLOS and Autonomous Operations",
+    "source": "Commercial UAV News",
+    "published": "Tue, 11 Aug 2026 18:02:35 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "FlybyOps releases a platform designed to automate beyond-visual-line-of-sight drone operations at scale.",
+    "companies": [
+      "FlybyOps"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "BVLOS",
+      "autonomous operations",
+      "automation"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VbDdwNWtGei15STQxNDV2RHZ0bVlaX3ZtNkpHVXZTekpGLUhLVXJPNzlxbHR6TFdqWVg4TUhpQTZBSnV6YmctQ3RERVRlZVF6OWF5X3lXcTFKM3A2bElRUHNTamZiN0M0YXV3Z2JMME84N1J1dHNZ?oc=5",
+    "title": "FlybyOps Launches Enterprise Platform for Scaling BVLOS and Autonomous Drone Operations",
+    "source": "Dronelife",
+    "published": "Tue, 11 Aug 2026 17:32:09 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "FlybyOps has released an enterprise platform designed to help operators scale beyond-visual-line-of-sight and fully autonomous drone missions.",
+    "companies": [
+      "FlybyOps"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "BVLOS",
+      "enterprise"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNGl2c1FzYXRUVnowQWhRRDF5UHRPaEgzWnZxMVVwdUMtUWdqMnQ4ZTNmOUtJdm8ydmtfTkVBRV9NSnBtb3V2b0VBNnB4emc5X1NWVWoyd0x0M2JrZDY5N3ZSQmpTdHRVUzZzSVBRN3dULVh0NkIyWG9YdFlqTkMxVDlaUVc3bG8xTjhJMnJlUTBEOW4xV3BEV0tzOGlJdTMzMjZTTjlLTkFyWEs3RkVCMDlieUpyWnV4RDJ4QkFUeFdxTHhTVjhhYTd4Uk1pUVJxVDlwNURIZUJvQ1BXOFZ1U0dPSjBRVXNGX2VlTzY4ZGRzRjJLSll5U19qMXdoSGFpSTdsZkdJcnh5XzhnMm5F?oc=5",
+    "title": "South Korea Copies Ukrainian Hood Drone Protection for K2 Tanks, But Full APS, Combat Module and EW Upgrade Won't Arrive Until 2033 at Earliest",
+    "source": "Defense Express",
+    "published": "Wed, 12 Aug 2026 13:20:16 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "South Korea approved a $2.5 billion modernization program to equip K2 tanks with drone defenses, borrowing Ukrainian designs but won't deploy systems until 2033.",
+    "companies": [
+      "South Korea Defense Ministry",
+      "DAPA"
+    ],
+    "people": [],
+    "themes": [
+      "drone defense",
+      "military vehicles",
+      "armor protection"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT1g0VU5zQjV0YWpRMWI3QlBLcEY0Nk9SSlZ1M0pKenJaekJGNWxZN25tMktqUWlDc2ZndUJscFZsZVJFRTBNQzE3YlJHblpQUkdhYjZsd0FscEY5ai1kYjk2X2s2Z0tOcVVON2s0MUxlWGxhTldQT1JOMmlQTGR5ZnBoeWxsWWtpNVh3QnVXcV9jMEc1Q09WV3NaN24zQUx4QjlkU01RVERsLVpUaVZkZm5RSnlJMnhoZlFMekx2Nm85REJjUHAwN2ExbmdXbW5VT205d1FTMmowZ2NyY21RZjhtRTI0QQ?oc=5",
+    "title": "NEROS RAISES $250M SERIES C AT $2.5B VALUATION TO SCALE AUTONOMOUS AND INTERCEPTOR DRONE PROGRAMS",
+    "source": "PR Newswire",
+    "published": "Tue, 11 Aug 2026 17:06:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "NEROS closed a $250 million Series C at a $2.5 billion valuation to expand its autonomous and interceptor drone operations.",
+    "companies": [
+      "NEROS"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "funding"
+    ],
+    "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": []
   }
