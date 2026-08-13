@@ -19489,7 +19489,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -19822,7 +19822,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -19974,7 +19974,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -20343,7 +20343,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -20499,7 +20499,7 @@
     "first_seen": "2026-08-07T15:52:16",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21092,7 +21092,7 @@
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
     "why": "Six million miles is a serious data set, and pairing it with Hertz's fleet economics and Uber's distribution reach gives Oro Mobility a credible on-ramp to commercial robotaxi service. Watch whether this three-way partnership can actually launch paid rides before Waymo further cements its head start.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -21514,7 +21514,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22144,7 +22144,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22220,7 +22220,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -22381,7 +22381,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22712,7 +22712,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22737,7 +22737,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23549,7 +23549,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24246,7 +24246,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -24429,6 +24429,846 @@
       "funding"
     ],
     "first_seen": "2026-08-12T15:55:45",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1lkSjlMN0o2d1F5RXFqWU01THAwaGpSY0F4aXlLd0R2dlRZeThYeWdMMzU0cWZhYjl2TDBRS3ZIaUhjRXotcHAtdUpOa25xWG9fVVR4TmdHUWJwNExWVjlobFlsT09OWWJXVkdieHhRbWE3eTluS19aWkZrRFRCZkNia3hxMWtwVFMxV3JfWHc?oc=5",
+    "title": "Samsung advances in-house humanoid robot development with cost edge",
+    "source": "Interesting Engineering",
+    "published": "Thu, 13 Aug 2026 13:56:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Samsung is developing its own humanoid robots in-house, betting on manufacturing scale to undercut competitors on cost.",
+    "companies": [
+      "Samsung"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "cost efficiency"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd0xucTdjNG1pVmlIWE8ybmxWY2xNU2dwX3h4VHltYkNVN0YxcGRkR3p5QjdGcWNyR0hnU0pjVnRtanNQMXhMOTFjLXJ6a19rZTUwc1dHZURZZHF2ZURIMFh5bUp2S0ViUUZGYkVORzhDcDFzOGctX0hIbHZ4UEFkS0lIWUw1Q2tUZUE5WGxkc0d2VkU4Qzl0VEZqX1gzYlhoT3kzaTJvMUVyaDJ4dTl3a3BxN3FBN2VETG9NM1hpU3gwSHNFR3dOUU1hVS1GSldBSUprbmJuVDVmRzMxU0FVeWpMckg?oc=5",
+    "title": "San Mateo County eyes rules for commercial humanoid robots",
+    "source": "smdailyjournal.com",
+    "published": "Thu, 13 Aug 2026 11:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "San Mateo County is drafting regulatory guidelines for commercial humanoid robots operating in the region.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWEtSXy1Ec2huOE05WE90aF9qVUJFczd6NHpVdEJPcXJ2RzhVR1hQY2JpZ21RX3p3Z29BV1RSeTBBZlExMThZS1JKTE9taHRHRHJ0NmxEeE5GQjVscnBDQUNxRUlZWEVOSVkzSnd1ZU5JakNHSFZxU3hPWS1PaEF1bWlhVVpkaUpsdnFfY2JJYWJSSnl3YlRhaThCb0x4SG44MlJOX1ZmemZCNWVUNlJqMXZYZkVZaXVpU09ORUNXel95M283M0kxMC15bXpzVFQySUFVX3NkTVhqVjQwd21CZkd3?oc=5",
+    "title": "San Mateo County Votes First US Humanoid Robot Permits: Kill Switch, Fire Safety, Labor Tracking",
+    "source": "Tech Times",
+    "published": "Thu, 13 Aug 2026 12:14:45 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "San Mateo County unanimously approved the nation's first humanoid robot permit ordinance, requiring kill switches and lithium-battery fire gear after local deaths.",
+    "companies": [
+      "Robotera"
+    ],
+    "people": [
+      "Ray Mueller",
+      "Jeff Fielding",
+      "Rich Seguine"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "safety",
+      "deployment"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlF3QzRyZUZ1am1qTDZWMlpNeENWM3Y2MFVfeHctSXdrMlNNWmg3TzJ6RzNYalMtY3J4WXVNMFpYR3B6NFBrNkJTS1ljZG1jNXJtYlQtNTF4aWtuU3E5MUY3bkQxQ0hkVmZsRDd6aDY2VVNsNkJncnVSWVdVaFg2dmp2UGR6dXRjQXZNdFltdXRBX2dTdnotOWRNWWFSa3NqUEx3Q1lleDRfXzljOHpjWXdlR0hFZw?oc=5",
+    "title": "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech",
+    "source": "AI Insider",
+    "published": "Thu, 13 Aug 2026 12:39:30 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Westlake Robotics, a Chinese humanoid robotics startup, raised $14.8 million in Series A funding to advance its physical AI platform.",
+    "companies": [
+      "Westlake Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvOXJKX1E5cllya1k5OG93ZWRZT2dvM1BOUU1ET05qUmdTRW1RY0V1MFNCbzNfOXFia18xSWZMdG1ZdmVDSXF3RVJqVV9xRV9EWFRPR1ZuX3czZmRPU3o4cm9ZVkNoNW9CWUFnT1JyNkM?oc=5",
+    "title": "Hyundai Motor tightens grip on parts suppliers to scale up its humanoid robot supply chain",
+    "source": "KED Global",
+    "published": "Thu, 13 Aug 2026 08:52:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Hyundai Motor is consolidating its supply chain for humanoid robots, tightening control over parts suppliers to prepare for scaled manufacturing.",
+    "companies": [
+      "Hyundai Motor"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "supply chain",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbl9aUkc4SVY0ZUtJcTNqUmZFZElVdFh5UlZwMnVGaS1QZFk0MjBBVXhBLUdHR1dXWnduWkRGbUdBVGdtQW5SNkFFMjF1el9KV0RaeWYyRFV4MzdaazVrdml2TnJQYURjNGQxZmlBQjlrbTVJQ1gtR2F2UmdSQ1lfUFJQYnI3VGtBMWRkalBTSUJieDJ1U0EwMHh3bTNSSG41SlBHaGFiYUdoUkd6NTRqYVFnZ095MDZmUlVySG14QUp3MGN3?oc=5",
+    "title": "No sweat: Robots expected to smash records at Beijing's humanoid games",
+    "source": "news.cgtn.com",
+    "published": "Thu, 13 Aug 2026 14:33:52 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Beijing's second World Humanoid Robot Games expands dramatically with 666 teams and 2,056 robots competing across five days of practical challenges.",
+    "companies": [
+      "Beijing Municipal Government",
+      "China Media Group"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "competition",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1BfZUtSWWw1WEg5aklYS1drRkVEY2F6UzljTW9hTE5rSm1aLU15R0o5QTlNUDNvUGZGWGwxU0RFQjFlTU1fWG5DNlQtWENYM25QbS1ETDVCNk9ORmVPWWRtaGhBYXVoMElSZGw3bHJzNTRDUXBWV3pGdFRCR1o1N25aY2N5WjAwc0RZZg?oc=5",
+    "title": "Asteria invests $1 million in Figure AI, BMW robot supplier",
+    "source": "International Business Times",
+    "published": "Thu, 13 Aug 2026 14:27:50 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Asteria backs Figure AI with a $1 million investment as the roboticist ramps up manufacturing partnerships with BMW.",
+    "companies": [
+      "Asteria",
+      "Figure AI",
+      "BMW"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRkJCSWNfa1BFZW5uWEdBbjh2VmJmVllseVFXX3R4a0Nna0l5bDFvRVBMQ09FcVVwTl85WmhBZUdIaDdBWnY4RFhnZG1tOHRCSUZEakQ3elgwVjdkSW04ZWh1bXB6VTVoeVNSSFk4SnpudWljOEJEMEZZM1BYeWlQSDV6RHhURzMyeWtTQUF4ZmFqWWt5U0pxZnVBSmxMV0RaLWZFZ2p0aDVqbFdGbkpTRVpmWEUycXNRem8tamJpWk1sUnlPSklVSGlNeno3NWtqMjVN?oc=5",
+    "title": "Honda’s new ‘Avatar’ humanoid robot suggests the spirit of ASIMO is very much alive",
+    "source": "roboticsandautomationnews.com",
+    "published": "Thu, 13 Aug 2026 08:42:52 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Honda unveiled Avatar, a humanoid robot that revives the company's decades-long ASIMO lineage with a focus on remote-controlled physical tasks.",
+    "companies": [
+      "Honda"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "telepresence"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQS10VHhyem95ejltRkF5bHJKRFFkUXduamozMnVzMG1LNmFhVUtKc0x3UndBaWlGOXNWalhYVzY4b2VBcmhvNUVVSWhxeTJjS0tfRW8zX2JYb1hhWDNLZ1lLYno3Q2VtbkR1WEd0R19pWExjRHRFTTQ4a1VXY1htbFRZTTJnZw?oc=5",
+    "title": "BYD's new humanoid robot with 31 Degree of Freedom enters showrooms",
+    "source": "Interesting Engineering",
+    "published": "Thu, 13 Aug 2026 13:27:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "BYD's new humanoid robot with 31 degrees of freedom is now in showrooms, marking the Chinese automaker's entry into the physical AI market.",
+    "companies": [
+      "BYD"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNUZndFY3cVZlVlluMm14TmlkcXVRNEc4Ym9oV2Y1bzBWUUpUb0E3OU1sWGpYVzQ3ZHdlOGJfNEtacGwyYjhieTkxQnhjNFpVZno3Z3Z5U3c1OE5ad2p1NkY4OElPMUlKWF80TmVjT1NTNENKRnlrMGZvUjlGS0lkOC1vaFpidjhrTzVuNG9FZGlfTWJmVER6eGNCU1J1dXJIaHhnQzQ2aHlsZGF3NmVGN2JBTUctN0dY?oc=5",
+    "title": "Online investors waived subscription for 8,734 shares! Leading humanoid robot company announces results of its initial public offering and listing on the STAR Market | Post-Market Announcement Roundup",
+    "source": "Moomoo",
+    "published": "Thu, 13 Aug 2026 12:24:01 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A leading humanoid robot company completed its initial public offering and listing on China's STAR Market, with online investors waiving subscription for 8,734 shares.",
+    "companies": [
+      "Leading humanoid robot company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "IPO",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS24yTkI5dGF6OXZqb2p6a1YxYllrd0oya2ppblNmSUo0Q2NPX2lHU00xaEtGdG1rWlRZcEVrTlo5NWJ6QmVOTGM2ZDk0R0xjVWo5ZU5RYkxSSHlsWXpuQ0RlYjY2T3V0NURZaGtrckUwM2R0c3R0ZmhIdXpCLTRuVVRwNld5OGcwcjNLbXRLWFZLYkFsUU9LVFNHdGtGaE52Z3VTYl8yMzA?oc=5",
+    "title": "Las Vegas Raiders, Waymo bringing robotaxi service to Allegiant Stadium",
+    "source": "FOX5 Vegas",
+    "published": "Thu, 13 Aug 2026 15:22:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is deploying its robotaxi service at Las Vegas's Allegiant Stadium, expanding ride operations for Raiders games and events.",
+    "companies": [
+      "Waymo",
+      "Las Vegas Raiders"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "deployment"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUThVUVFkWEs3cDhIRTBtNXhXbERPdzhfRjdHdXNYS0x4dVdKdDFKUno2SFFHcjR3dTRZMWdodnBfY2dKS1lpVkc4VnBVeTlQSU1Lc25GSnFUaHJBbXk2bG5nYzJjQy1icTZSWXZzSTBNanNmSnVSejBTeFg3ZnFxV19Pd2o5WXczNlhxMGJaTHcwcmwxRURsNUcxVkR2d0lyeld3RzJRUkQ4X0JRblNQS1JkaEZyeXRTTHdNLS1zdW1LYUp6UlNxMlFkOVZGTzFXenl5VWQyV3RNU3c?oc=5",
+    "title": "Waymo Widens Phoenix Footprint, Adding East Valley and New Metro Neighborhoods",
+    "source": "12news.com",
+    "published": "Thu, 13 Aug 2026 14:35:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is pushing its robotaxi service deeper into the Phoenix area, adding the East Valley to its map and rolling out to additional metro neighborhoods, according to local coverage from 12news.com and azcentral.com. The moves extend a deployment that began in central Phoenix, gradually filling in the suburban grid where the company first proved out its driverless model.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUThVUVFkWEs3cDhIRTBtNXhXbERPdzhfRjdHdXNYS0x4dVdKdDFKUno2SFFHcjR3dTRZMWdodnBfY2dKS1lpVkc4VnBVeTlQSU1Lc25GSnFUaHJBbXk2bG5nYzJjQy1icTZSWXZzSTBNanNmSnVSejBTeFg3ZnFxV19Pd2o5WXczNlhxMGJaTHcwcmwxRURsNUcxVkR2d0lyeld3RzJRUkQ4X0JRblNQS1JkaEZyeXRTTHdNLS1zdW1LYUp6UlNxMlFkOVZGTzFXenl5VWQyV3RNU3c?oc=5",
+        "title": "Waymo Widens Phoenix Footprint, Adding East Valley and New Metro Neighborhoods",
+        "source": "12news.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFkzUWtTUHIxaE5jbEUxN0ViUHh4OEduMlpOd0k3ZFFwSjgxaXpBbWltaXhYU3lJZzByazUtSmVnQ2lWVXNpeS0yazhaVFh6Mk14WnRJRS1Ubm1QdkpTRnJJbWtYbTBoaWVSUTlQTl9ROTJoa1g2WExhX1VLSXNVS0IzYWRyVnc0ZEg1WWUxbXRkaFZlVnFTbWJocXFBY2Y2ZmN5NlNNUkk4ejZFbXptRTd5bGtvcEVoemJHMFFXS3NKRC1UV0F5XzRQWlg?oc=5",
+        "title": "Waymo is coming to these metro Phoenix neighborhoods. Is yours one?",
+        "source": "azcentral.com and The Arizona Republic"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb3JSUjh1U0tOMXpWMHQ1VHlpcG15VjRjTnE3UGppdnpoYzhiUzRqRHZEMnlQcmJidzdsOVJaNUQtQjFrbVB3RmdENFYwWnR1NHhaWUx1REtMLXRLaXV1OEVYR0kzVVVwYWpsOFlZQmxWNmFyWmt0dG9PWDEtbzZsZQ?oc=5",
+    "title": "Waymo expands Phoenix service area by 55 square miles into East Valley",
+    "source": "KTAR News 92.3 FM",
+    "published": "Thu, 13 Aug 2026 14:13:45 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expands its Phoenix driverless taxi service into the East Valley, adding 55 square miles of territory.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXVNcnh4OUJYRjVmVXliYVdjckZBTFFmTThxLVJILU94aFlJVEtLUkZTQnNudnluOUttMUN1dTFicTM3bGM3RFJoSlVpTUJTSHhaTlVrRF9TaXl2ckxPTE5FZGVPYmJ2d1hOakExLW50eEtLSzNDU2dRaVpGTkFKcHN6dmg0RExLdk5MVjhuNFdmUEQ0ZTF1Mlh6cHNOS2JhdWx5cmx5MjFCSllfOXRz?oc=5",
+    "title": "Waymo Speaks: We Have More In Common With Urbanists Than You Might Think",
+    "source": "usa.streetsblog.org",
+    "published": "Thu, 13 Aug 2026 04:03:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo argues its autonomous vehicles align with urban planning goals, though the company offers little evidence of concrete deployments matching urbanist priorities.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "urban planning",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGFFajVmX0s4Z1lSQjl1X0pxTFFDZUdrREpjcHluNDIzTi1vWndxcmR6akZteGctbzhCa0pfSE9oYWRXcTJfaHJXWUNoSmpGMTVwSjhwRzQzNFNGY2RKM3djM2xRcDIxNUFwR0VBLU0wV21CZ2N6eHlrZG1tZDBzZTgzYzB6bnBaSXdWaDdvWWppQlVCODF5NGVfWllzWW8?oc=5",
+    "title": "Waymo’s Wreck Crashes Its Driverless Car Lead",
+    "source": "Yahoo Finance",
+    "published": "Wed, 12 Aug 2026 15:38:45 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Yahoo Finance publishes analysis of Waymo's competitive standing in autonomous vehicles following an incident.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMUJlWlY2MXQ1RFpwc0IyT1dlR0VGeGI5WWJRMHBjV25nMmtXWE95emQwUUoyZDBwYUFzNnZPcUdpZlVWU085Wjhnc3BMd2UtSTljX3ZmVVFzOElVOTN0Q2s4cFZkVk96TmREc1l6ekZ0OEc3R3kta2w2SGRGRkZHUk00OFVmdGFzNVA2ZDUwY2kxdlpRTXhoWVZSYWF5QQ?oc=5",
+    "title": "Waymo could bring self-driving taxis to Pinellas",
+    "source": "Axios",
+    "published": "Wed, 12 Aug 2026 22:56:11 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is in talks to deploy self-driving taxis in Pinellas County, Florida, expanding its robotaxi footprint beyond its current markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXJSdUp1b3ZKbklia2ZHUURkX3JqZmt1ZE1yRU8wM1J5Q2dPTzNxbkN3eHdReW9DRzV6UFRidVUtS0YzdzctMUFVZGJxWUdFOVJvT25SOE92TG91cGktMWo1QmlRU2p3WnFQOVNiaWEycTJUaDZrN2dSZG9ESXFDWWR2eXZ0RThLWUdaRTloUUU3N19yRXNwSmtPRl9MTXNHUFA4UnpIYkpXay1yYnJhQ25n?oc=5",
+    "title": "Waymo announces new East Valley coverage for autonomous vehicle passengers",
+    "source": "ABC15 Arizona",
+    "published": "Thu, 13 Aug 2026 13:43:12 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expands its driverless taxi service into Arizona's East Valley, widening the geographic footprint of its paid autonomous rides.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkNWWlBWMmJ2cWpna2hnR0tUR19Wa2VfWnhzSnN6YUgzRllHTndEVENhckNsSnVYbTVVYTh6RUtmaUl4N0pCZmtGam4yYWMtZ1F0S2tiTWtmX2xQZ285T3JzS3pyODhCNVNsVDNtd1d5WGtsSzFhbjVvNkpQLVMtZVkzbWZLMGRlcFVRUEZWeVdnS0pLZXBZV0NqTQ?oc=5",
+    "title": "Waymo expands autonomous ride-hailing service by 55 square miles in East Valley",
+    "source": "The Business Journals",
+    "published": "Thu, 13 Aug 2026 13:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expands its driverless ride-hailing footprint by 55 square miles in Phoenix's East Valley.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15Rl9iT05YOEFBaEg0OTR6ZTZTV3hQUlQwdHVfbjZTaHg0NzRnZGllV1J1SUJUeGRyZEFwZVdkR1hzSC1tZGpxbWIwc1BESEJqRWlRcm1WLWlxbkQxUHRFRmlieThRRTdHYnFKYmxCQVNkaERVX2hSYUVTaU9ydw?oc=5",
+    "title": "I rode around Tampa in a Tesla Robotaxi. Here’s what I learned.",
+    "source": "Tampa Bay Times",
+    "published": "Thu, 13 Aug 2026 13:40:45 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Tampa Bay Times reporter took a ride in Tesla's robotaxi and reported back on the experience.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHS21YOERhWUdpa0dxa2JEMWhYM2ZkVTZlTmY3VHpHMXFkcUJZWXNsYmV6Z2VmdHNyLWI1ci1FVFphdEp1b1g2R0RfVTdJNUxTWTB0Q3NRNGpPRkJpYWN4WmxVLWF1UdIBa0FVX3lxTE1LQW4wRGtWcGpGdnd1VEJ0d0F3ZGxvS3RHaVVKaElaWFU5eEtwa3N0R0tINWY0V0hmbGh4OG1yUmV6X2R1RERXR19aM2J5NFMzdEZWT01ZT09qcnZYLUdpelFiYlFUU0FaNlpr?oc=5",
+    "title": "Waymo expansion: New service added in Chandler, Gilbert",
+    "source": "FOX 10 Phoenix",
+    "published": "Thu, 13 Aug 2026 15:41:48 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has expanded its autonomous ride-hailing service to Chandler and Gilbert, Arizona.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFkzUWtTUHIxaE5jbEUxN0ViUHh4OEduMlpOd0k3ZFFwSjgxaXpBbWltaXhYU3lJZzByazUtSmVnQ2lWVXNpeS0yazhaVFh6Mk14WnRJRS1Ubm1QdkpTRnJJbWtYbTBoaWVSUTlQTl9ROTJoa1g2WExhX1VLSXNVS0IzYWRyVnc0ZEg1WWUxbXRkaFZlVnFTbWJocXFBY2Y2ZmN5NlNNUkk4ejZFbXptRTd5bGtvcEVoemJHMFFXS3NKRC1UV0F5XzRQWlg?oc=5",
+    "title": "Waymo is coming to these metro Phoenix neighborhoods. Is yours one?",
+    "source": "azcentral.com and The Arizona Republic",
+    "published": "Thu, 13 Aug 2026 13:17:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless taxi service to additional neighborhoods in the Phoenix metropolitan area.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVZzRUhPWUY2ZWtUMWk2YWxibFN4b3FIamFMbXJYUGZCWS1LYlNVQWZ2emo3cGItRGtYRFdCbFJqbE05ajEwZWZwUFNBZmg5bkR3em1teXFBNHdtZkVYQUVuUG8zaXRqNW54NHhyYWtOYnVUMTVNZHZxcjlhZ2RoSjROS2ViZXVy?oc=5",
+    "title": "Spotted: Waymo in Metairie",
+    "source": "Axios",
+    "published": "Wed, 12 Aug 2026 20:52:03 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's self-driving vehicles have been sighted operating in Metairie, Louisiana.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXNZTllLclJUUVVnRW1pdXJ5VUltY2I5TDBCYUlOMkdvcm9EMFg0Nl9vUnJsMk4tOXcwcVBrSjhGRjhPbnhjM1gxUGdsVnd5cW5NTFFGNTJMYVZKcU41bktxdUFHcWI5dzZTbzJUeGxVTGFXeDlSVTZmdzBDRmtHdjFUNXZydlRrdFliT1VFSEdBT3F0?oc=5",
+    "title": "Zoox starts charging as the robotaxi race enters a harder phase",
+    "source": "Transportation and Logistics International",
+    "published": "Thu, 13 Aug 2026 14:19:11 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Zoox, Amazon's autonomous vehicle subsidiary, has begun charging for robotaxi rides, marking a shift from free trials to commercial operation as the industry faces rising pressure to prove profitability.",
+    "companies": [
+      "Zoox",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFhSYnE0Rkc4YzEzZ3R5cGhvd29HODIySksxUlpKMExSQXJPVHVLUERJa183RW9HeV9jZWR6OVlDeFdnM09OTG1Wcm5KdkN6ZFctQVJmVzFSWFpHYVV4MW1mdEFHSGZuQURiUWR3QXRONkwxcmktaDRDWnhxNy1BSUVqRW5UTVNI?oc=5",
+    "title": "Teamsters Sue California Claiming Driverless Semis Threaten 200,000 Jobs",
+    "source": "Carscoops",
+    "published": "Thu, 13 Aug 2026 12:12:40 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Teamsters sued California's DMV for approving driverless semis without assessing the impact on 200,000 truck driver jobs.",
+    "companies": [
+      "California Department of Motor Vehicles",
+      "International Brotherhood of Teamsters"
+    ],
+    "people": [
+      "Peter Finn"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "labor"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnlvZEhqZ3BiNE0xQWNGaXJsaVJNaGVuTWRTNENnTzZ4QkhHODNRQ2tMRWxpTktqS2RsTk5VRFduTXl4dFo0VHpyN0t2Uml4aE1jdHVySnUyRVA1bkZ4eVFkVGtYVU5nb3BXWHRhME9SQVpFRUZnT3pIclhiVWNUWXV5R3lfNUh0RkJqX1FmU2RBalpaLTlLQ2lzaVBDdw?oc=5",
+    "title": "More robotaxis mean more unusual failures — and more chances to learn",
+    "source": "AZ Family",
+    "published": "Thu, 13 Aug 2026 01:55:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo and Zoox are expanding robotaxi fleets across more cities, encountering rare failures that teach their systems—though rain still scrambles their sensors.",
+    "companies": [
+      "Amazon's Zoox",
+      "Waymo",
+      "Google",
+      "Tesla",
+      "Sidespin Group"
+    ],
+    "people": [
+      "Istvan Jonyer",
+      "Derek Staahl"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV2F2UkI5cWJCeThsMW1LUDg1ZjY5RllvaXJDNlRXU0k4Q05VcTBvRTVIMWFrZDY3dlZjd18zSml2UF8zSjNDSXFKUnQ1U3NiUi1FSVNIU2d3YmpVOE1BVjBfWW56d3RpZzVtaDU4ODJkNE9fSjF0SE9pcUtLc0tqdWN0UWJ0Mm1IT3I4Z055VG13MHNrdTNKdWNCNlNWdXBpVGFEb2huNTRmRlNTaUtzeTFCb3dBcU5QWW1oTnp0eE56RXN4X3J3TlRDQVNlS2NjX2FMSXNLMV8wQU9QbGVweHBxRU5CbE5VOFBLWA?oc=5",
+    "title": "XTI Aerospace's Drone Nerds Expands Public Safety Portfolio with DBOX Autonomous Drone Docking System",
+    "source": "PR Newswire",
+    "published": "Thu, 13 Aug 2026 12:30:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "XTI Aerospace's Drone Nerds division announced DBOX, an autonomous docking system designed for public safety operations.",
+    "companies": [
+      "XTI Aerospace",
+      "Drone Nerds"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "docking system",
+      "public safety"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DSUhfeTRURkFzWXZpTTlCb1N3RExURTcwSlpqRWZvdjB0a3FwQ3k4NHMzbEtKN005YXpGVEpUMGl6d0Z5eTBHNFkwVEl0WDkzSV94ODRqaEpOb2UtYm9NQzFOejRRSVViNThCNk9QdlJmdTjSAXhBVV95cUxPU3F5dVl3cm5mRVZ2MGZrZjgwSGhncDA4OWlFQzJRN1A1STgzTDlDOTRXTG9uVnhYeWhSZWpWNEdTYko3aWR2QWNBTUhSM19MclNSdjRQTVAxR09UNFBWZTM5SlRYZmo4V0tkNFU1NUV5YUJWRjhtSFc?oc=5",
+    "title": "Israel’s Next Tactical Drone Is About More Than Just Firepower",
+    "source": "The Defense Post",
+    "published": "Thu, 13 Aug 2026 12:30:36 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Israel's Ministry of Defense hired Ondas, a U.S. firm, to build next-generation tactical drones emphasizing autonomy and networked command over raw firepower.",
+    "companies": [
+      "Ondas",
+      "Israel Aerospace Industries",
+      "Israeli Ministry of Defense"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "tactical"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFEtMjNjSmtCbEk4VXF2Sk5iU2FWNV9IaFZhTVpLQkFlU1VxdkI3ano4VWttT3N2cTFfMXpaVmZDcUE3NFlVTHFfcTFOdnRpbFhIMjhKTERzN1l6THozVlB5dmRROXltdkFEOEk0cnZ1UHFkXzNYYlZvYmtJWE9RZEZoeDF0U0FUVzBaSXZ0UEdnRGVuM3Zr?oc=5",
+    "title": "Flytrex, Nash focus on flexible delivery, not just drones",
+    "source": "fastcasual.com",
+    "published": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Flytrex and Nash argue that drone delivery succeeds only when embedded in broader logistics networks, not deployed in isolation.",
+    "companies": [
+      "Flytrex",
+      "Nash"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "operations"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWxJOTVwTUdxNUg5bXJwZFROZ1F6LXpNcXBRbzA0NUJvVVRmVjR4UEV6QzcwZ3BLRnpDNFUtTHd0aTM5SmQtYTIxUm5DTTE2dXpJcjBxMGlqVGlpOXdWNUlpaTdoUkh1LThIazZsYjk5QUxYVElOQkpZYThfbXZyLVgtUklCa2V4UmhId1czTDAxbERsWEFTdFZ4bzN0RlN0VkpYNlVUSi15OEFmdHpQTkxYR0k0QzNLTWxaNlZ1TQ?oc=5",
+    "title": "Drone Nerds partners with DBOX for autonomous docking systems",
+    "source": "Investing.com India",
+    "published": "Thu, 13 Aug 2026 12:42:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Drone Nerds has partnered with DBOX to develop autonomous docking systems for commercial drone operations.",
+    "companies": [
+      "Drone Nerds",
+      "DBOX"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "docking"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1USHJOVkhyeDVxVl9vTUpQdnhNSnFxYmJjNmN4Rk1qVzFYNURaMTRhTElRUGs4X19QdkFzTmFrTVlOUHZLaTB5WE5PVDVpX2hlWUVjMng5ZFg?oc=5",
+    "title": "Taiwan's AIDC, Vantor complete Presidential Cup drone flight",
+    "source": "Taiwan News",
+    "published": "Thu, 13 Aug 2026 11:58:25 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Taiwan's AIDC and Vantor completed a Presidential Cup drone flight, marking a public demonstration of the companies' autonomous aerial capabilities.",
+    "companies": [
+      "AIDC",
+      "Vantor"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous flight",
+      "Taiwan"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://neura-robotics.com/neura-robotics-acquires-active-shuttle/",
+    "title": "NEURA Robotics acquires ACTIVE Shuttle from Bosch Rexroth and integrates the platform into its Physical AI ecosystem",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics acquires Bosch Rexroth's ACTIVE Shuttle autonomous vehicle platform and will integrate it into its Physical AI ecosystem for intralogistics.",
+    "companies": [
+      "Neura Robotics",
+      "Bosch Rexroth"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "autonomous mobile robots",
+      "intralogistics",
+      "fleet management"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://skydio.com/blog/skydio-hayward-iso-14001-certification",
+    "title": "Skydio Hayward ISO 14001 Certification",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Skydio's Hayward manufacturing facility has earned ISO 14001 environmental certification, signaling the company's commitment to scaling U.S. drone production.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [
+      "Kimberly Elliott"
+    ],
+    "themes": [
+      "manufacturing",
+      "environmental certification",
+      "U.S. production"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/allegiant-partnership/",
+    "title": "Las Vegas is a city built on unforgettable experie",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo becomes the official autonomous ride-hailing partner for Las Vegas Raiders games at Allegiant Stadium, offering dedicated pickup zones and VIP upgrades.",
+    "companies": [
+      "Waymo",
+      "Las Vegas Raiders"
+    ],
+    "people": [
+      "Sandra Douglass Morgan",
+      "Suzanne Philion"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "partnership"
+    ],
+    "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
     "duplicate": false,
