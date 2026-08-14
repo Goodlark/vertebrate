@@ -21928,7 +21928,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22220,7 +22220,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -22465,7 +22465,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22737,7 +22737,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22761,7 +22761,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -23076,7 +23076,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -23100,7 +23100,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -23290,7 +23290,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24933,7 +24933,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24958,7 +24958,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -25269,6 +25269,927 @@
       "partnership"
     ],
     "first_seen": "2026-08-13T15:55:17",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHowNUFfdlRvSktyMXpFaFVpS2pCUUpQZVp1N2QtejViZHJXMUJOSTc4Y2lxU2tSVWVkZUtpZ2RtZkt1TTZSWHNDNmg0bW9tQ3I1dGJiWkZBeUh6SklvckZvYWNqQm02VGlEM2JRaWMwVTkzVnlDa1NObnhLQ2xzdzVQcTh5ZGlVSzVfc9IBkgFBVV95cUxQb3NXTHJETk9mcWVwaTQ5aHBhX3RqVEplTzB4dWtfV2JTdzV6LUpkcFBaYjdXWkhrLW5XSnJjeE1aSUhwT2tnNGVNNXNfZ0ZvaTdYaXFXcGFVeFRlZVB5ZzN2bDA1dTM2NkJxaWpkdkM1bXlLM0FMWjFhVW9ZbS03TVNNejlIanNvalZHemNBdEhOdw?oc=5",
+    "title": "China built robots that can do backflips – but can they make money?",
+    "source": "CNBC",
+    "published": "Fri, 14 Aug 2026 04:11:33 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Unitree Robotics, China's leading humanoid-robot maker, priced its IPO at $9 billion despite skeptics questioning whether the acrobatic machines can actually do useful work.",
+    "companies": [
+      "Unitree Robotics",
+      "DeepSeek",
+      "AgiBot",
+      "Leju Robotics",
+      "LimX Dynamics"
+    ],
+    "people": [
+      "Hao Hong",
+      "Dominik Pross",
+      "Will Zhang",
+      "Linda Sui"
+    ],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "China",
+      "commercialization"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTlKWlU3YTAzRTFtb3lYMVgtLTZNLV9QVWpTQzJCdm4tTTN2akpLTlE4WWxsQTVaU2lIeXZjQi1KNEt1NTI2TVpqUW0zRmJPVExrR29rWFR5UElQeVgwc0pSTFR1RnlvMnVjNGE0Qzc2OVIyUnM5cHk1SVJoT3pUQVVHSXZQM3NfaUpZTE1ZMVY5Slk3emNSUW1fYnA5TFFwTmc?oc=5",
+    "title": "Over 2,000 humanoid robots to compete in Beijing games",
+    "source": "Anadolu Ajansı",
+    "published": "Fri, 14 Aug 2026 13:54:28 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Over two thousand humanoid robots from sixteen countries converge in Beijing this month for competitions testing machines on soccer, martial arts, and factory work.",
+    "companies": [
+      "Beijing Municipal Bureau of Economy and Information Technology",
+      "Smart Analytics Global"
+    ],
+    "people": [
+      "Jiang Guangzhi",
+      "Beril Canakci"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "competition",
+      "robotics"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSENjb1cza2hQbmdXeGo1MjBzZHNZYmV5aUVkWjF5Ump0LU5qdXZReXh6NTV2Z0RITE04ZTU2OHZRWjM1VTB2SHFlaFVwbGdVVlIzdUE3ZEkzWm5TY29INmVmVXBSS2l5dlZ4Znc1RF80N0pTdFVHWlUxUW50ZHpfTC1vb2NaZXJ3VTFMeGVHUVUteXF3UEs1SHZBMmZHcjJlTGR5SGNOMHo5YS1HOXNXM29zMU5mME1Ma3JMVzdpN0NkQQ?oc=5",
+    "title": "Chinese humanoid robot maker Unitree powers up for stellar Shanghai debut",
+    "source": "Reuters",
+    "published": "Fri, 14 Aug 2026 05:55:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree is debuting its humanoid robot at Shanghai's trade show, staking China's claim in a global race to commercialize physical AI.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "China"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXF1M3JkTTlRUVFiOFFCM0hKa1hpN0tEVW91RWdCVFBxcHZvMFVvRHYwS1ZFUVBWLWVvSGp6RTU1aEdKQVloMUtyMkFobDc3aGhVWjFWMVpLay03U2NnX2s5dGJHY1VranVQZ05LeXZCaW9rVmNkOFlUdWhrZ2xHMHNqaVBuMnpTbDRpQ2xEVTRNQjJLalBSeW1EZGxEZWRud3hSSWE1Y1B3ZWIyVzd0WmEwS29nVVV1RjJfcENDMGVOQdIBxwFBVV95cUxNbW1ydTBjdE1UNTA5Zi1CYnU1MGgxV0dPQUFLOFFHc0FPUWRSZ2NUenJ4eDNMSDhRVnhLNkJWeVFveExDcDVSZVh3TXQxd1JwTlpqa1hDczY1Y2lqbVQtaUVWZnViMHJrNkpvQXlib1FNQXVubXM4dHcyWk40S2RqRndlTkxHRDBhUHkzMkxBeHJHZmdUSjFtOEJNdWpEWldRUWNxU2wtanZSRHliV2lYQzd0cm9BVklLV1NKZlRPYmx3emtqWGlZ?oc=5",
+    "title": "Avatar Robotics Raises $6.5 Million To Build A 24/7 Humanoid Robot Workforce For Warehouses And Factories",
+    "source": "Pulse 2.0",
+    "published": "Fri, 14 Aug 2026 14:04:54 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Avatar Robotics raised $6.5 million to deploy humanoid robots for round-the-clock warehouse and factory work.",
+    "companies": [
+      "Avatar Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "warehouse automation",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWd5NWwwdVZ4RVNEMWJaUGhKeHFCZmQ5dEUxWmRpYWREOFBnenNxQ3ZiR05adl9JdWw3MVM0em55YXJacnZzMTk1WVFlTTV3SV95VmRxY3NaTF9meDE1cW9TYWxSYnpPNTdPdG9uN19oYXVudGdPYmtKVFg3RVRHQUNuY082VDFDLTlnaFllZ2lVOEc3Sl9BSUNZZnNGOEpwbnU2RHF5QjNuSzliVnBweVkxV0JuUQ?oc=5",
+    "title": "LG Group plans humanoid robot reveal in early 2027 - report",
+    "source": "Investing.com",
+    "published": "Fri, 14 Aug 2026 12:00:38 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG Group is planning to unveil a humanoid robot in early 2027, marking the conglomerate's entry into physical AI robotics.",
+    "companies": [
+      "LG Group"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM1RxajFpVzlqd2cwXzFiRlhULXBkSE5tQ2k4djJnWkJTNHhIeVp2ZGhLdXY0UXV3ZE5VYjNlcFdwOE9heG5KWkk1SDVUS2QtSUsyN0MxeG56c1ZOSUhUcWlZUzlLSV9CU01GZVpiMUdnbmI4RUQ4VkNxQzU5N21QMUxocEFrRHlocmIweXlicG5CMjdneTc1UVBNMXVQLXgyMlFJU0ZaQjkwaXJyOWpEVDNsbHNVbWN4NHZTVlF0T05VUQ?oc=5",
+    "title": "LG to Unveil Its Next-Gen Humanoid Robot, Built on NVIDIA Isaac GR00T",
+    "source": "PR Newswire",
+    "published": "Fri, 14 Aug 2026 06:19:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG will debut a next-generation humanoid robot powered by NVIDIA's Isaac GR00T foundation model.",
+    "companies": [
+      "LG",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "foundation models"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVR3SGktRDdRSHZKLXlna3ZvTlJncF8yVWp6QjRhV05Na08tX1NuLTRXd1NaMFJyb1pBcFV5NGhpaUxBTHJhRHk3RGFXQ3JNSmVSb0hISU5qY21QcXJDbGRDZWhMYmU2U1ljdFlsRU5GdGw5OWNrWDlua3Q4a0ppVHo0NDVQWWI4WGw1WlpibENnQmVKOU5xSjFKZW1IMzRYZldVd01jUGdmd0ZyMHJXMDdsRnZsMUlMeE5ieGVicHV6eWs?oc=5",
+    "title": "Unitree Robotics rolls out around 18,000 humanoid robots to date",
+    "source": "Gasgoo",
+    "published": "Fri, 14 Aug 2026 05:54:20 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree Robotics has deployed roughly 18,000 of its humanoid robots, marking a significant scale-up in physical AI adoption.",
+    "companies": [
+      "Unitree Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUtTalNHeFN3QkZxR3J2bVVuUm5qU2FCQmVWN3o0b0ZpN0hYdWNsQVh3Z3UtSzNsallXQXU2V1BKaDNnbUhvUmhyeGVRb1RyVE1OMnJBTzk0VFJXV0FMWWJlN2RXNEVUZnBfVVJWNDVSM3lQT1dyamM0SEF3NkJGMzdTcw?oc=5",
+    "title": "LG and NVIDIA to build 80-MW computing facility and humanoid robot",
+    "source": "Interesting Engineering",
+    "published": "Fri, 14 Aug 2026 13:23:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG and NVIDIA are jointly building an 80-megawatt data center in South Korea to power humanoid robot development.",
+    "companies": [
+      "LG",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "computing infrastructure",
+      "robotics"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyMWNwUWpzd0FjeUhXUHRSa3FHaGF1U1RyV184NlpnQ0QyR29PVUxIcVhzZm0zTzRKYkpGRl9fWVQ1cWRDLS1iXzV1SEtLanAyRGZBRjJfVWJkbnBwaGlfand1OVZGbXNmS1k4?oc=5",
+    "title": "LG to unveil 1st bipedal humanoid robot in Q1 2027 in stepped-up alliance with Nvidia",
+    "source": "kedglobal.com",
+    "published": "Fri, 14 Aug 2026 08:18:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG plans to unveil its first bipedal humanoid robot in the first quarter of 2027, deepening a partnership with Nvidia to build the machine.",
+    "companies": [
+      "LG",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "bipedal",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDA5Y1FxbFB3cExYbnZJa09xR3FMRzRkQUVlT1NUTHJreEZ4bURUOHIyUTEwRVlxaXg3aDNwVGJBcFl4R0Z6UzctSHJHZElIOGpWOWZlaHp6M00yOUpBUHRNaVNIeUNZRTdKNkQxdGpfaElWWEF4ZWlfY0FaMEVfbFk4bWhscUlHZWJQc3BvZ25CX1BTWWgybDVBTnlNemV4aDVOQWlqZ1JMTU0xd3hmaTFSeTFudklqT3hRVEctWjMtdVFwSlpXYzFGdlZKdw?oc=5",
+    "title": "Unidata Launches a Network of Data-Capture Stations for Humanoid Robots",
+    "source": "The Des Moines Register",
+    "published": "Fri, 14 Aug 2026 15:13:10 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unidata is deploying a network of data-capture stations designed to train and coordinate humanoid robots in real-world environments.",
+    "companies": [
+      "Unidata"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "data capture",
+      "robotics infrastructure"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOTY1cFF0TkN6b0FFTzZ2MWloLXNEMmJUeGZ0SWtva1VTdWFqb2FUTTFsS2VMME15dVg4XzNNSXVvNUxVaDAyRFlmZ1oxZm1PSzU3UWNmT0htZG9fMVplcmtmTWZ4VzVjOElCTk1Wa0tQblFLbnBFcTB4X0xPNEl6Q204MllON3BVZWtoMi1lWjl6WlkyRzdLX0FlcXk2U0NnT193RG0xWGw3alFQaTF3d2FnX2VEaTJ1ZGY1b1JTSERaeGhV?oc=5",
+    "title": "See robots play soccer and table tennis at World Humanoid Robot Games",
+    "source": "usatoday.com",
+    "published": "Fri, 14 Aug 2026 14:15:07 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "More than two thousand robots gathered in Beijing to compete in soccer and table tennis at the World Humanoid Robot Games.",
+    "companies": [
+      "World Humanoid Robot Games"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEJ2d1Q1UTV5Nk90c3Y1amhVcGFmLVVuVU9TdXFYSTkyLVRVcWNva3BoWGFMWGRfMHlGVjlxQjF6QnM2STkxcTdyS3pnNEpNNnBQZFBXMkE0LUNGS1lFRS1mUjFJU3dPcmllNHdYUWF6c3NTRWlyRGdZMEVUVXBNcHNGeklEMnMwV2xieWZVTDd5aWpleFJJ?oc=5",
+    "title": "2,056 droids set to compete at World Humanoid Robot Games in Beijing",
+    "source": "Interesting Engineering",
+    "published": "Fri, 14 Aug 2026 10:48:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Beijing hosts the second World Humanoid Robot Games this month, with 2,056 robots from 666 teams competing across 51 events in newly expanded competitions.",
+    "companies": [
+      "Beijing Municipal Government",
+      "China Media Group"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnJhWGkzZE9IWHVCREo0R2tJb1dXMGZ0T0NkT0RrZHpxMTVLNjlEbm8yM01hYUg4cGhTY25CdUV0YVJmRDM2VUt5ekJqdThTWkVudEtvZ0tOazJ4R0xZb1ZzOHZOZU9MRy1EOEdfdGtLZjJiX3VxTFFKZjRldjlSZ3E1MUQ0azdpSGNxZmpXZVJ2TGxGREhJc1MtSnFFWERYejhSVGxiTmQ3ZWJSTnlZV3lOSjBjUQ?oc=5",
+    "title": "LG, Nvidia Expand Robotics Collaboration With New Humanoid, Factory Robot Plans",
+    "source": "theaiinsider.tech",
+    "published": "Fri, 14 Aug 2026 10:55:07 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG and Nvidia are expanding their robotics partnership to develop humanoid and factory robots, marking a concrete step toward commercializing embodied AI.",
+    "companies": [
+      "LG",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "factory robotics",
+      "collaboration"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEpoMWpDZ0RBeUpKWkpaVVN4QWxmR0NydDNxN0puOUxyQkJyNC1HMTMwMVpyQTRjTThKemV3MzBKWFNxMEUwRjMtemZad0R1U0o0WGJUaHJzSktCcnBLUTN3bnBRS3JNY19tQ01MRUkydXN6NTQybzZQTHRLNGFHaVFVaVNtem9s?oc=5",
+    "title": "LG, NVIDIA to Unveil Humanoid Robot Powered by NVIDIA Chips Next Year",
+    "source": "chosun.com",
+    "published": "Fri, 14 Aug 2026 06:36:48 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG and NVIDIA plan to unveil a humanoid robot powered by NVIDIA chips in 2025, marking a significant hardware partnership in the physical AI race.",
+    "companies": [
+      "LG",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "hardware partnership"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCLW9XT2JXWll5Z2d1NnpmWVdNS0RaX0dYdy1YNVhvLUZhcnJqVm5TN1RFRTRHbjVWeGgyM21kSjEwRklvZ1ZCTWJSQ2RpQkptenZDOWZpdw?oc=5",
+    "title": "LG humanoid set for 2027 debut with Nvidia AI brain",
+    "source": "The Korea Herald",
+    "published": "Fri, 14 Aug 2026 05:30:51 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG will debut a humanoid robot in 2027 powered by Nvidia's AI platform, targeting domestic and industrial tasks.",
+    "companies": [
+      "LG",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkpUaUFJdDNySDFnenkzQmFVRVV5cTktN0ZSakp5enc0UFp2T3VWc0lHU2taWHFCTV9uRmMwSUpKTU1vYTc1Q2YwbzZsYk5FcVE1bWtCVmZnRmRwbUFObmJoRHlzRnBqajRBQ1RzZHBwSTRrSlBpSkJUT3dFemQ5dkRzbzJqdWczWHo2S0wwaUpIX194cU44RGFTeWtLZjTSAaQBQVVfeXFMTm1FdkFRcy1fQzRXNlVUdHJmTDZaYVZiYjJ1MElheWpXejI0bnBpZ2JNcS0wNC0ySkczMVFJcHBRMFVvZHF5TWVVSnEyN0F0N2thbmRYbVhtaE1NTXg0Q29MUFNvVGtEblVvLUViQ2xXb1VIdEFfMzBPNF91WkF1eTNYdUZyWXpBS296X09HVTFidlNOVDAtcWpZTm52bG9PeXgzZ2E?oc=5",
+    "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+    "source": "CNBC",
+    "published": "Fri, 14 Aug 2026 01:02:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber is deploying 2,000 robotaxis across Europe in partnership with Pony.ai, bringing Chinese autonomous-vehicle technology into a major Western market.",
+    "companies": [
+      "Uber",
+      "Pony.ai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2lzZV9vX1ExU2tLU08xcGJ6MEFRTVdINElUNUpPQmo2TnJ3UjhDUFRwOGJ5bzB3R2hlTEk0MXVZWGF0WmdjaWhuQ3pMa3RCUDBBU0pkb1k1WUdZODlWeDVUcVU1ajBIOHN5eFFqRGs2RFpuWXVpcnBmZU1zQmtJZ0pDeXJMblpHcm9PS1AxTzQ?oc=5",
+    "title": "NSF-funded researchers push driverless race cars to the limit to improve the performance and safety of autonomous vehicles",
+    "source": "U.S. National Science Foundation (.gov)",
+    "published": "Thu, 13 Aug 2026 20:56:34 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "NSF-funded researchers at the University of Virginia won the Indy Autonomous Challenge by pushing a driverless race car to 171 miles per hour, proving high-speed testing accelerates autonomous vehicle safety.",
+    "companies": [
+      "National Science Foundation",
+      "University of Virginia",
+      "Indy Autonomous Challenge",
+      "Indianapolis Motor Speedway",
+      "Cisco",
+      "Indy NXT"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "high-performance testing"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObmwxbjJ6ZEtxd21qTFJNeHhEa2ViQ2ZDYUlaWWE4Umx0VGtaSEE3YlVKcVAzRnN0QkZmZ0FlOXZIY1l3RHFfbmtDRFhxakFpZUJCUlJ6YmdERmszWnNISVRfcWZrNm1PUXlONzUxT3pRbkg3MjJ2STdraHg4ODFvaEdwaW9oblJpbjVQOURHQWFORnE4VldmRlcwZDZhVV9HSDNJWA?oc=5",
+    "title": "Metro Police can pull them over, but who regulates Waymo cars in Nashville?",
+    "source": "WZTV",
+    "published": "Fri, 14 Aug 2026 15:32:06 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Nashville news outlet examines the regulatory gray area surrounding Waymo's autonomous vehicle operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVnNfY3RfU1RpVUhXaFc2LTlIMHZXeVE2T2haUGU2XzVqZ1IzQWNjdW9jTjhiYU9hbFJ4N1pxeWFxclJNbWQtRllicXNWNGR0dFRTZTFyNUh2WHB4emU1emdWRUUyOUdQVlc1V2xJcFo?oc=5",
+    "title": "Exclusive: How Zoox decided its robotaxi was safe",
+    "source": "Axios",
+    "published": "Wed, 12 Aug 2026 16:02:47 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Axios reports on Zoox's methodology for validating autonomous vehicle safety, without announcing a new product or deployment.",
+    "companies": [
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "safety validation"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVTJmQmljZUVDcFJzTzRzel80dlBtcmlpNkN5NG1CQk9JMTNDUWI0WFplT0VIX09nUlJkbTlwdUlyX05BdUlVX1pFM2dGdnFoQUVuZHY0QlNmNlVpLUE2TGxsN3JlZXV1c3Fmd0JEOFFiVUM2SHRBektOcDBxaldYZW91NTE5NGVaWm5pVUduWVowcXBZdHFFWUhad293aVlYVVJVdS1vSVFvOUFzOEhUaFFZT1pkTmtD?oc=5",
+    "title": "WPP Wins Waymo Media, Includes International 08/14/2026",
+    "source": "MediaPost",
+    "published": "Fri, 14 Aug 2026 15:12:30 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "WPP won Waymo's global media account, expanding the advertising giant's footprint in autonomous vehicle marketing.",
+    "companies": [
+      "WPP",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "advertising",
+      "media"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0OXRqRHVQaDRiQ1FGU3NrUE5UVmRIQXFrSDV2X05KTEowTlZGQnl3QmptaThGQkg1NmdhUFZjUndSbmxRQThCQzRTLUtCWjlSRW15WmM2YzRYZTZxWTd5OFpxNWZ4dVJTajVrX1QwSk02ZU1NU2tXQzJhZV8?oc=5",
+    "title": "Here's How Zoox's Robotaxi Safety Testing Will Work",
+    "source": "InsideEVs",
+    "published": "Fri, 14 Aug 2026 14:01:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Zoox outlines the methodology for its robotaxi safety testing regime.",
+    "companies": [
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "safety testing"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUjdlMElTcW5PbF9BN1ptVENMelo0d3BIUGEwR2lNV09pM1JzcUlfT0x6THRJcHQ4YnpPV1hFMjlTYWpLUF9fcjJvZzhOSi02UzV0RXotd3prZjJqUjdWU0tQdE5USldTT2NVQnJGeWRXZWFjaE1RdmtGanVkOWNiN0ZaRzg5ZUZ3VzhMTXNQYmNaeHZaWjJ1blRiYUlsMk55MWhqZmZaQzdWU21aVkQ5M0NMLWVTbTBXTFl6YUJhOE9BYXZUZGpuQWo3eXpDa2xpcGNxRE1PMNIB3AFBVV95cUxNVTR1SGVvbkVJbm1iT1J0cldUMTJlRHpYcmo4S0NDSTEtUU1yZ0lWemROMWxRYmJiY09BcjhuQkxDUnJjS3V3ZThQLXFKZE80MFh0cDE5VzV6dVJ2dzdtUUR1TFF3RzgtOFBvbmVweno5WFFpWjllM1ljMXdHT3BaMlF0YkxzTjYxTmUzMTZYRzFDb2REZFlndG9ScE9BT1E3X2Q2dnZvYjJGbHV2Y203YlA0TW40WndjY0QyMmdMdlRHd0FGVkp6dlpqeVZPaXRrSVppYTVSdDk3UkdR?oc=5",
+    "title": "Uber's Robotaxi Blitz: 2,000 Pony.ai Cars for Europe, Plus a Tokyo Push",
+    "source": "simplywall.st",
+    "published": "Fri, 14 Aug 2026 13:36:38 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber is moving on two fronts at once: a deal with China's Pony.ai to deploy 2,000 robotaxis across Europe, and an expansion into Japan, where a Tokyo pilot is underway. CEO Dara Khosrowshahi called Japan a 'terrific' market for the company, framing the rollout as proof that Uber can scale autonomous rides globally by stacking partnerships rather than building its own self-driving tech. The strategy bets that sheer fleet size and geographic reach can outpace the regulatory and technical snags that have dogged robotaxi rivals.",
+    "companies": [
+      "Uber Technologies",
+      "Uber",
+      "Pony.ai"
+    ],
+    "people": [
+      "Dara Khosrowshahi"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUjdlMElTcW5PbF9BN1ptVENMelo0d3BIUGEwR2lNV09pM1JzcUlfT0x6THRJcHQ4YnpPV1hFMjlTYWpLUF9fcjJvZzhOSi02UzV0RXotd3prZjJqUjdWU0tQdE5USldTT2NVQnJGeWRXZWFjaE1RdmtGanVkOWNiN0ZaRzg5ZUZ3VzhMTXNQYmNaeHZaWjJ1blRiYUlsMk55MWhqZmZaQzdWU21aVkQ5M0NMLWVTbTBXTFl6YUJhOE9BYXZUZGpuQWo3eXpDa2xpcGNxRE1PMNIB3AFBVV95cUxNVTR1SGVvbkVJbm1iT1J0cldUMTJlRHpYcmo4S0NDSTEtUU1yZ0lWemROMWxRYmJiY09BcjhuQkxDUnJjS3V3ZThQLXFKZE80MFh0cDE5VzV6dVJ2dzdtUUR1TFF3RzgtOFBvbmVweno5WFFpWjllM1ljMXdHT3BaMlF0YkxzTjYxTmUzMTZYRzFDb2REZFlndG9ScE9BT1E3X2Q2dnZvYjJGbHV2Y203YlA0TW40WndjY0QyMmdMdlRHd0FGVkp6dlpqeVZPaXRrSVppYTVSdDk3UkdR?oc=5",
+        "title": "Uber's Robotaxi Blitz: 2,000 Pony.ai Cars for Europe, Plus a Tokyo Push",
+        "source": "simplywall.st"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkpUaUFJdDNySDFnenkzQmFVRVV5cTktN0ZSakp5enc0UFp2T3VWc0lHU2taWHFCTV9uRmMwSUpKTU1vYTc1Q2YwbzZsYk5FcVE1bWtCVmZnRmRwbUFObmJoRHlzRnBqajRBQ1RzZHBwSTRrSlBpSkJUT3dFemQ5dkRzbzJqdWczWHo2S0wwaUpIX194cU44RGFTeWtLZjTSAaQBQVVfeXFMTm1FdkFRcy1fQzRXNlVUdHJmTDZaYVZiYjJ1MElheWpXejI0bnBpZ2JNcS0wNC0ySkczMVFJcHBRMFVvZHF5TWVVSnEyN0F0N2thbmRYbVhtaE1NTXg0Q29MUFNvVGtEblVvLUViQ2xXb1VIdEFfMzBPNF91WkF1eTNYdUZyWXpBS296X09HVTFidlNOVDAtcWpZTm52bG9PeXgzZ2E?oc=5",
+        "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+        "source": "CNBC"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFViSUdQV0xkNXlSSTdkcERSUVJzYnN4aUZZTVJsU2NRMUp5Q0gtR2hsdGg1S2xLMHZnMkpkZFMzSXpveTN6Yk1YYmhzbDVUTUNoQW1fUGQzMlVhSEl2RzVVZWlFVDFSTDYxd25jQ3RiN01JczVsa2NLaEY4VkNBVkhWVEd3OWxfT3J4ZGd6ODRGUTJIQlBRSkhFOTE?oc=5",
+        "title": "Dara Khosrowshahi Hails Uber's Japan Robotaxi Expansion, Says Country Has Been a 'Terrific' Market for the Ride-Hailing Giant",
+        "source": "Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnI3Nm5odXVIMzFaVkxIcUhVUjFqMlE3U3Q4YnlrNU1FTXRBSjM3VDNoQ2cxSmNxWW1tejhxMVhOOXBNLUttQkVIMk1tcUM5UnlGb1d5NTJZR2JjT2NBTkVwbFItRTFYa1VlWnFuQlE4b2xpX09kV2k3T1piTmRGekRrZzlPcnphb0tYOTdPX1ZPN3R2d1B5cWlRRnFtMDdua3o4b2ZKVnBwRlJ2S0ZVVkc3QW9pNGM40gHAAUFVX3lxTFB0S1RKcmhxWFAwSzJyU3BVRHk1SVNwSGlIVHN4SVh0ZEZyZ180OTJNTzF3WklQLUlBbEp5NGNNc2otYzBIb1hVR2x3Xzluel9QM3c1N19MeURKMDR3enhIUW1veWRTV1VROXBvYzlDZmVyamotel9MRzlOLXYzeWZKSWxoekFLcGItR3ZQb3VBM25aRDJ6VXNDRVM5Y3NCYy1FWkZxWUVVZVJjcEFObEJ4OXB1alVVYVRvajVEOXN3Yg?oc=5",
+    "title": "San Diego EV drivers frustrated over Waymo vehicles filling up charging spots",
+    "source": "NBC 7 San Diego",
+    "published": "Fri, 14 Aug 2026 01:26:57 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's robotaxis in San Diego are monopolizing public electric-vehicle charging stations, leaving human EV owners stranded.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "infrastructure conflict"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXl1ZnFRYW1pRmZwY29xNHdsa0lpUURQai14ZkJCZUo2SWtHaFRXVV9fVjhPa0NWMm1NQi1kR1FDZXdCQkdaZmJZVnAzSWRoRndfeURQRnpfbnBaOXZYMUJNVVo0WkZhODRyRG9NYUQ5YnYzdXVPeVFabHZHUUhMNFo2dkVUeklqTTY3cmFiZy04dVdKLXRtRWhQdVU3VjlTdl9FX2didS0wMXowOTRB?oc=5",
+    "title": "Waymo's Local Friction: Charging Spots in San Diego, Regulatory Gaps in Nashville",
+    "source": "WZTV",
+    "published": "Fri, 14 Aug 2026 15:32:46 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "As Waymo's robotaxis spread into more cities, they're running into the mundane realities of shared infrastructure and patchwork governance. In San Diego, human EV owners are grousing that Waymo vehicles are hogging public charging stations, leaving them stranded. Meanwhile in Nashville, Metro Police can pull the driverless cars over but aren't sure who actually has authority to regulate them, exposing a gap between the pace of deployment and the laws meant to govern it.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles",
+      "infrastructure conflict"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXl1ZnFRYW1pRmZwY29xNHdsa0lpUURQai14ZkJCZUo2SWtHaFRXVV9fVjhPa0NWMm1NQi1kR1FDZXdCQkdaZmJZVnAzSWRoRndfeURQRnpfbnBaOXZYMUJNVVo0WkZhODRyRG9NYUQ5YnYzdXVPeVFabHZHUUhMNFo2dkVUeklqTTY3cmFiZy04dVdKLXRtRWhQdVU3VjlTdl9FX2didS0wMXowOTRB?oc=5",
+        "title": "Waymo's Local Friction: Charging Spots in San Diego, Regulatory Gaps in Nashville",
+        "source": "WZTV"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnI3Nm5odXVIMzFaVkxIcUhVUjFqMlE3U3Q4YnlrNU1FTXRBSjM3VDNoQ2cxSmNxWW1tejhxMVhOOXBNLUttQkVIMk1tcUM5UnlGb1d5NTJZR2JjT2NBTkVwbFItRTFYa1VlWnFuQlE4b2xpX09kV2k3T1piTmRGekRrZzlPcnphb0tYOTdPX1ZPN3R2d1B5cWlRRnFtMDdua3o4b2ZKVnBwRlJ2S0ZVVkc3QW9pNGM40gHAAUFVX3lxTFB0S1RKcmhxWFAwSzJyU3BVRHk1SVNwSGlIVHN4SVh0ZEZyZ180OTJNTzF3WklQLUlBbEp5NGNNc2otYzBIb1hVR2x3Xzluel9QM3c1N19MeURKMDR3enhIUW1veWRTV1VROXBvYzlDZmVyamotel9MRzlOLXYzeWZKSWxoekFLcGItR3ZQb3VBM25aRDJ6VXNDRVM5Y3NCYy1FWkZxWUVVZVJjcEFObEJ4OXB1alVVYVRvajVEOXN3Yg?oc=5",
+        "title": "San Diego EV drivers frustrated over Waymo vehicles filling up charging spots",
+        "source": "NBC 7 San Diego"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFViSUdQV0xkNXlSSTdkcERSUVJzYnN4aUZZTVJsU2NRMUp5Q0gtR2hsdGg1S2xLMHZnMkpkZFMzSXpveTN6Yk1YYmhzbDVUTUNoQW1fUGQzMlVhSEl2RzVVZWlFVDFSTDYxd25jQ3RiN01JczVsa2NLaEY4VkNBVkhWVEd3OWxfT3J4ZGd6ODRGUTJIQlBRSkhFOTE?oc=5",
+    "title": "Dara Khosrowshahi Hails Uber's Japan Robotaxi Expansion, Says Country Has Been a 'Terrific' Market for the Ride-Hailing Giant",
+    "source": "Yahoo Finance",
+    "published": "Fri, 14 Aug 2026 05:50:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber CEO Dara Khosrowshahi announces a robotaxi expansion in Japan, marking the company's push into autonomous ride-hailing in a new market.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [
+      "Dara Khosrowshahi"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejNuRHUxRWNpb19NTG1Ob25KSV9HZEg4YU4xaWxRT1g3Vy1XSXg4VndNSjdNWjliUHZZdUpKQ2VrUThKYncxdzZaVlRiRXRIYjM1ZGhDaVkzX0R4YjZSVF9CT25kVHlGMmFEM084Y05GbVRpSmZXT1dicXo4RzVVRlJ6V2RKMUZCVDBCaU43d1h0czVBRVcyUXZGMWZqbzJF?oc=5",
+    "title": "Uber, Pony.ai to scale robotaxi fleet past 2,000 in Europe",
+    "source": "Türkiye Today",
+    "published": "Fri, 14 Aug 2026 08:39:04 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber and Pony.ai are expanding their European robotaxi fleet beyond 2,000 vehicles, a significant scaling of their driverless ride-hailing operations.",
+    "companies": [
+      "Uber",
+      "Pony.ai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQXZOYkF4UEZVOEtEc1lCRERIYkVFZF9HTXFQbDV2ZTZmTHBPaW5fWlZMNTRYdS14SVdOdm9XYU5kR2xFTVNoTjh6Mk0yRUFmWWg1T2t0Sm0tQzJQbEJKVnAwUTcta29IdDEtcHV0akdjdENETklNa1Vpb2tSc1BtaGVUeTU3ZXlkUGpuQWRMV09SS1Niemc?oc=5",
+    "title": "Pony.ai and Uber scale robotaxi rollout across Europe",
+    "source": "Automotive World",
+    "published": "Fri, 14 Aug 2026 05:00:55 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai and Uber are expanding their robotaxi operations across European cities.",
+    "companies": [
+      "Pony.ai",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3pWMzZXVEhlM3EzMkd3TU5aOWlsWDhJUUhOMk12dXp4S0dsSnhSSDBiVlNKejBSWWV5VGpWaU1lXzJVSGJUYU8yejZZYmo2bWVnWEpaSlNEX214NDNVN2JDZFV5cHZZUExfTDFjT0ZQdXozNkpqZXpZU3B5RUQ3T25lWUFudC01VXhZdktIT29hVE5fQVM0cA?oc=5",
+    "title": "Waymo Partners with Las Vegas Raiders & Allegiant Stadium",
+    "source": "CleanTechnica",
+    "published": "Fri, 14 Aug 2026 00:28:47 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will operate autonomous shuttles for Las Vegas Raiders fans attending events at Allegiant Stadium, expanding its ride-hailing footprint into sports venue logistics.",
+    "companies": [
+      "Waymo",
+      "Las Vegas Raiders",
+      "Allegiant Stadium"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous shuttle",
+      "ride-hailing",
+      "sports venue"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWc4aWw2YzZwdnNUNVpuRFV2cVJtX1BQS2dJLVMxNE4wdm9jWXF1eFVhNWJMOHR3aDA2MW5iT3BWVVR1M1pmNHo1Zi1sS2VpOVlYUXVLUFJDRDlVNExuR216a3c0WldjQU1tU2VpbGNuV09GdzVodlZZZ0JRNXo1YU9MajNRN090Q3F1VlZXSjIzMFdvWmxHV0dPdVNoU1plX0xYV2ZaT3lxTXF0RjNZdFlfYw?oc=5",
+    "title": "What a Killer Drone Swarm Looks Like Up Close",
+    "source": "bloomberg.com",
+    "published": "Fri, 14 Aug 2026 08:00:16 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Bloomberg publishes analysis and imagery of military drone swarm tactics without reporting a specific new deployment or development.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone swarms",
+      "military drones",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTWtxXzFzY3ZzV1NSMGpQLVkyby05SkxVbzRjdEF2QWo3RTVYanNySXhvdFk1dDdTR19xVVVFMWhSWFAyX0tQc1JCUEdaOXV3VldJYXBIT2NxOU5kRE9wUHQ1VFVZal9IUXhZYm9ILUVQY3MxVmxlRHdYU2Jlb3JlazVSWDJtWXhrbUd5a1p6MTRQNTRvVWhUV0RIUm83eThhSncxVDJBMHNwX3ZNOFdUTEdDNjNUVkJTSmJTQmxWV2o2bFBNcVZWXzAyMEl1ZkF4NXZxMFpPSDRmQVRGdEE1RDJxMTJXcWl4?oc=5",
+    "title": "Anduril unveiled an armed drone gunship to fly with Apaches, and the crew it replaces was the one taking the most risk",
+    "source": "OkDiario",
+    "published": "Fri, 14 Aug 2026 15:35:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Anduril revealed an armed drone gunship designed to operate alongside Apache helicopters, targeting the most vulnerable crew positions in attack formations.",
+    "companies": [
+      "Anduril"
+    ],
+    "people": [],
+    "themes": [
+      "armed drone",
+      "military drone",
+      "crewed-uncrewed teaming",
+      "gunship"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kNHBFcDFzV2txN2tTSEhJUTk1MnJWa2h2MVR4ZlVXWXdjUWlYUVBSUWREcDRZa3pMUlUyXzAycFBaclU2UXdTV2ZBelRNUVRYQWM4cWJVcXJmRGE3cGFGWGV5bWpjY1JtT3U2M2tPY3RzSFhUbTdmOV84UG4?oc=5",
+    "title": "FlybyOps wants to solve the biggest headache in scaling autonomous drone fleets",
+    "source": "DroneDJ",
+    "published": "Thu, 13 Aug 2026 18:02:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "FlybyOps frames fleet management as the key bottleneck in scaling autonomous drone operations, but the piece offers positioning rather than a concrete product launch or deployment.",
+    "companies": [
+      "FlybyOps"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "fleet management"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGpoUVdPWUxxckNhN3NENkpoeC1FZjkzam1PR0RoZG5udDdFWDBvcW5yWl9XQzh1cDY5dXBiTlFLSlJPS2FaVk5PbEwtSjNJVUg1UkpDQjZJcHlneDdGWjR4d0Z4eHhtbmZzNkh5QjE5MFlhY3NQSy1CWFVuRzdDUmxyUDFud3F6MldGTA?oc=5",
+    "title": "Shield AI Flies Taiwan Drone Swarm Without Human Pilots",
+    "source": "Dallas Innovates",
+    "published": "Thu, 13 Aug 2026 21:14:56 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Shield AI deployed an autonomous drone swarm in Taiwan that operated without human pilots, demonstrating the company's advances in fully autonomous flight.",
+    "companies": [
+      "Shield AI"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone swarm",
+      "unmanned flight"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CZE1FYU5Uc0d0WE1LLVA3QUtJc2RDbThwUWdYSFU4UWJYYUJqQjhaTFN5Z2MxWkRUYnJPaFIyTHhTU1NBclVuc1pNaGVHcWJwYVhoR0N6TG9kOGIwaVVydHRMMzRIVmFMOVUxaWw0ZkpmZw?oc=5",
+    "title": "Greek Shipyards and AI Firm Join Forces to Build Autonomous Sea Drone",
+    "source": "GreekReporter.com",
+    "published": "Fri, 14 Aug 2026 08:25:26 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A Greek shipyard has partnered with an AI firm to develop an autonomous sea drone, marking the country's entry into maritime robotics.",
+    "companies": [
+      "Greek Shipyards",
+      "AI Firm"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "maritime",
+      "sea drone"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGF2OVVqQ3J5R2ZRLUR3cHZ5dGpUOGFqUUlrYkNLa18wOWMtYkVGTGZKSU9OT0VlNjVTNTBOUEowQ1NBQ0ZPLWNfdUpRX1doQ0pkaThsZnV2QUE5bzRVM2FkRWxRaklwMFlydl9KMFVfNi0xbUtnWVVpd0w0Zmw1Y2g3bWc4RUw3QUs3S0RkRU1CWEp2Y3V3YmpOSXo4QnQtMVdVelhrN1Q3bFRJQWhlMUs3N0VWUVA0c3daZnVqOTBnYzJGcGh6cHVnSUNINUlibjdwSGttU2NreWh2YmFJ?oc=5",
+    "title": "Japanese Start-Up Creates Drone That Hunts Mosquitoes and Zaps Them Mid-Air. We're Not Convinced Yet",
+    "source": "ZME Science",
+    "published": "Thu, 13 Aug 2026 18:54:56 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A Japanese startup has built a drone that autonomously hunts and electrocutes mosquitoes in flight, though the technology remains unproven at scale.",
+    "companies": [
+      "Japanese start-up"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "pest control",
+      "insect hunting"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://skydio.com/blog/skydio.com/blog/2026-fifa-world-cup-public-safety-drone-operations",
+    "title": "2026 FIFA World Cup Public Safety Drone Operations",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio conducted over 10,000 drone flights during the 2026 FIFA World Cup to support public safety operations, demonstrating scaled deployment of its autonomous systems in a major sporting event.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [
+      "Mira Marquez",
+      "Ryan Blinn"
+    ],
+    "themes": [
+      "drone",
+      "public safety",
+      "autonomous flight",
+      "first responder"
+    ],
+    "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
     "duplicate": false,
