@@ -20852,7 +20852,7 @@
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21092,7 +21092,7 @@
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
     "why": "Six million miles is a serious data set, and pairing it with Hertz's fleet economics and Uber's distribution reach gives Oro Mobility a credible on-ramp to commercial robotaxi service. Watch whether this three-way partnership can actually launch paid rides before Waymo further cements its head start.",
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -21181,7 +21181,7 @@
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21232,7 +21232,7 @@
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
     "why": "Extending Hivemind autonomy from aircraft to boats shows Shield AI building a general-purpose autonomy layer rather than a single-domain product, which is the more defensible long-term bet in defense tech. It positions the company to compete for maritime contracts against specialized unmanned-surface-vessel makers.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -21307,7 +21307,7 @@
     "first_seen": "2026-08-08T15:25:23",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21763,7 +21763,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21815,7 +21815,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": "This formalizes what had been an informal courtship since Hyundai's 2021 acquisition of Boston Dynamics, putting real commercialization muscle behind Atlas rather than leaving it as a viral video machine. It signals Hyundai wants humanoid robots on factory floors, not just YouTube, and pressures other humanoid makers like Figure and Tesla to show similar manufacturing-scale commitments.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -21878,7 +21878,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21928,7 +21928,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22595,7 +22595,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22737,7 +22737,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23076,7 +23076,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23227,7 +23227,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24027,7 +24027,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24732,7 +24732,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -24933,7 +24933,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -25006,7 +25006,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -25685,7 +25685,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -25739,7 +25739,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -25880,7 +25880,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -25942,7 +25942,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -26193,6 +26193,842 @@
     "week": "2026-W33",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BMWs1b2kzUklBS0RLWFFyQ0JsTUtCdFVQOVd3V1RaQ3E2c2tnaTJrQzJVRUlGQjUwZWVWaXF6cVlmV0NFMy1PdVNvMHZ2QW52VVk4cEJwXzBrcEdFdk1URnJrMmU2ZzRLVXVQeWY0UkxiSU5VM1JkaF9aZHI?oc=5",
+    "title": "America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.",
+    "source": "The New York Times",
+    "published": "Thu, 13 Aug 2026 09:09:25 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The New York Times surveys the obstacles facing American efforts to build humanoid robots domestically, as policymakers worry about dependence on Chinese manufacturing.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "geopolitics"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT09vMGJySjBnQ3FORG56SURneW5iTGxsRV9paXhKUE1GSGFHY1ltd09iZlRkZjJ2MEk4MWNjbTRxd1pVVmhKVl9vTnZPMVlNaGFxSWY4Q3BMQ0xmM2MxR1NuZ0hZWHlTTFJPUzZWN1o4RWhSQmFVb2NZUmU0X2hucVZPT0VsVHlpdGpqaEYxUXJNQ3VlZnNhaG5RZm1aMDlfRWJpTGR6ZXhldHJ6RGhlMkdlOHh6cTd0U0E2YzRTeUd5dG1PM0U1WllCX2FPNXpzS0dwSlBtajRSUGIzU1lxV3JQWEk?oc=5",
+    "title": "The \"Schism\" in Humanoid Robotics: Hype Goes Viral, But Practical Application Has \"Short Legs\"",
+    "source": "Gasgoo",
+    "published": "Sat, 15 Aug 2026 06:42:09 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Humanoid robot shipments are soaring to nearly 100,000 units this year, but most sales are internal ecosystem trades and research purchases—fewer than 15% actually work factory floors.",
+    "companies": [
+      "Smart Analytics Global",
+      "Gasgoo",
+      "AgiBot",
+      "TARS",
+      "Tianhai",
+      "Xiaomi",
+      "Longcheer Tech",
+      "StarDance Epoch",
+      "SF Express",
+      "China Post",
+      "IDC China"
+    ],
+    "people": [
+      "Wang Xianbin",
+      "Li Junlan"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVBQTXZHOFhQRTdoR0M2ZXhPa1NJbnU1Z0NnX1ZKNlhUWFdUTGphZnVWa1FGOHgyY3drbC1RVFd2N3lQMlpha1lCRnUxX3V5MWpfV3FudWV5Z3ZkR0VaaFNSZjlVdGY5WXpNdmQyTm50dnV6N3A2aXFnWkhXQjdaM1RZaVJzazk5OXY3eWR2WjBvRGdSS0FOR2NUVlFFZWxiRkN6VXZxa0V1WUVsZ3htU2p4djM?oc=5",
+    "title": "Study Explores Impact on Trust When Expressive Humanoid Robots Make Mistakes",
+    "source": "AI Insider",
+    "published": "Sat, 15 Aug 2026 12:05:17 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "A Drexel-led study found that expressive humanoid robots earn stronger initial trust but suffer steeper penalties when they fail, suggesting likeability without reliability breeds disappointment.",
+    "companies": [
+      "Drexel University",
+      "Pepper",
+      "George Mason University",
+      "University of Southern California",
+      "U.S. Air Force Academy",
+      "University of Hawaii Cancer Center",
+      "U.S. Department of Defense Air Force Office of Scientific Research"
+    ],
+    "people": [
+      "Hasan Ayaz",
+      "Frank Krueger",
+      "Ewart J. de Visser",
+      "Shawn Joshi",
+      "Nina Rothstein",
+      "Adrian A. Franke",
+      "Xingnan Li",
+      "Jonathan Gratch"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "human-robot interaction",
+      "trust"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzlucUc0NGxBWWx2cnJDT1VNdmg0bVVtVjBEUHpsZGprN1N3NzVrTUk4WTNFMjIxNkZfUG15TFd5NUQ3Z2dBMDQ3T0lqa0JsU29Wem1GanViaWhFUll1T2tYa2hqYU4yLWpQeW1YemR1eUgwVnhVaWdTZFU1dTJVSEd0eDVPSVBKZzVzTVh2a1pldUozUWdnbElfU2RHLXBUR0FVYzhwUEdiWnNKdFVZd1hsZlFNUdIBuwFBVV95cUxPM0JMXzctZkJhbU1FNXdaRDh5Ri1yMUROVGNSNFdGV1pPdkVxWm54MWpPeTVBZVZXUDdKUWREdEMtY2xQaUpQenZoM0x5SEVnc0xRTFJlZUxQRXBtTXd5bjFSZ3hRcW5vYkhHdUVacDdJUkhyS0Z3VFNiUXQ3NGRDRTJuZmttb3FDajZjTHloUDIya0w4RW5TN2hDTThjQUwySlhWUFdMdm5GTmNHX3hxTFlfdFhxOUFENmNF?oc=5",
+    "title": "LG, Nvidia expand alliance in robots, AI factories and mobility",
+    "source": "upi.com",
+    "published": "Fri, 14 Aug 2026 21:22:45 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "LG and Nvidia are deepening their partnership to collaborate on robots, AI-powered factories, and autonomous mobility systems.",
+    "companies": [
+      "LG",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "autonomous mobility",
+      "AI factories"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVNJemt1SE1WRmxBb2thNFJZVWNBbWZKcm9lWjJtYWM3UUh5VUc2MGlxdlRLSTZQOUlHcGVGOFZyWkdlM0IxUmxjcDNIbnJMMFg4NWhYSUx1eGxyRi12ZnB4OW5sdGxLN3RoUFdkai16WjliZ0pocWRKRXhwcnJwVUlaQ1lZVV9iWE5RUTBkSEx5ZFJ6?oc=5",
+    "title": "Research Insight: Unitree IPO reveals humanoid robot commercialization still in early innings",
+    "source": "digitimes",
+    "published": "Fri, 14 Aug 2026 22:50:18 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Unitree's IPO suggests the humanoid robot market remains nascent despite the company's rapid growth trajectory.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "IPO",
+      "commercialization",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mVjFlV0FNSkpnSGNsdjhjenBERlFvMWFfRWhJa2JBd2hsX3RFRDFMa3FnOHpUN004elh4dGJvOWlqZUplVFFybTRwVnRCeTZJNXJ3bTVBWDNnSjVTaFpsOHJpU2UwdkFWS2Q0REIwWTd2U3hTTEE4?oc=5",
+    "title": "Nvidia’s (NASDAQ:NVDA) Next Big AI Bet Is Humanoid Robots: NVDA Teams Up With LG",
+    "source": "Stocks Down Under",
+    "published": "Sat, 15 Aug 2026 09:32:53 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Nvidia is partnering with LG to develop humanoid robots, positioning itself as a compute provider for physical AI hardware.",
+    "companies": [
+      "Nvidia",
+      "LG"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWxSRl9aV0dyUVl1MXF3aTc4VEFHRWtuYmRMeVFwUlhXcVYzeFkyVV9Hdmp0Mktpd0EzeWwtbFdyV3pOQk1LWFNtMFFVSkhOSjlNZzQ4NkZUcVB2dWRURDE3QXpQQmN0ZHI1eF9wdlk3eGhfQ1FVWjRUSEtlX0tqWUo0X3UzWTg3?oc=5",
+    "title": "LG, NVIDIA Unveil AI-Powered Humanoid Robot",
+    "source": "chosun.com",
+    "published": "Sat, 15 Aug 2026 00:43:22 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG and NVIDIA unveiled an AI-powered humanoid robot, combining the appliance maker's hardware expertise with NVIDIA's computing platform.",
+    "companies": [
+      "LG",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWZHdC1EUG9fTEZMcF9VV1UyaDJHSl84ZUdHQzYyem9meThMNFBaemREaGU3a3lRb3pGaWpEYWRsRmxsbml2WkRkd05SUnRzUXBQOUplSHFyR0twWVZEcVo4MUxTZjMxQ1dVTFEzZi1hMERwamloUTdnY2JFY09meFhIVU5uY3RXSnVscER6X0E?oc=5",
+    "title": "LG, NVIDIA Announce Bipedal Humanoid Robot",
+    "source": "Tomorrow's World Today",
+    "published": "Fri, 14 Aug 2026 19:30:37 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG and NVIDIA have unveiled a bipedal humanoid robot, marking a significant step in the commercial deployment of physical AI systems.",
+    "companies": [
+      "LG",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "bipedal"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16cjVkazc5NWEwSHA2UzJLNUl5UC1ZV1lFWDN2Sm1rY2dPaHBHMDBrN2dPQlFTZk1pQ3QwUHZjeUlMWEV6SUVZRUhBZVczaEJEb01VMkxVRmZmb0ZwZVc3UWphd21yV1ZxQ1I2bURBYlBGN3BFeG9BUlhESQ?oc=5",
+    "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "source": "wired.com",
+    "published": "Fri, 14 Aug 2026 20:59:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Unitree's affordable G1 humanoid robot, piloted by Polish developers, has become a viral social-media star with over a billion views.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Bartosz Idzik",
+      "Radosław Grzelaczyk",
+      "Jake Cooperstein"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "social media"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVl2d043djV5VWlPMlNfS3dTUWplUmJzSHh3X3FaOUxLYnZ0QjNCQ3VxYXVzTTBYNG9xMlFIWGpUUk94MF9PdS1aTWthUlZCTjV5UXdZTWphSHllRWQ4bWFTdEo5a1M3YjZNVlNxWWVOUXJmaG80bWc3OW5rbFpkQXZQNGVjYWJhV1JSNEtNcVFtbmM5S1lORGQ5dXRJV1dxZHZoVV9TMVppWG5aYjhj0gG0AUFVX3lxTE8yX2hvUHlxRGNpeHd5RlJ0YmE5ZXBnd0h0OE1YWER4Z2RManRZRklmYjNFQTRRYUVCczhIWGs2OGdFcVFTdTRZWTR2cHRiVm9pYUExaG56T0Y4anVON2hNanlVSGRRdXR2TFMzeWVhcVNWajB4R0c0TC0tOTZRNEttaDA4VUJUMUxEZUN1TVNibjJ6SlhGOFQxVGo3elhLRkw0NVFHWWs0WUpCaFdVVnRqeGVEWA?oc=5",
+    "title": "Waymo announces big California service expansion across Bay Area, Los Angeles and more",
+    "source": "ABC7 Bay Area",
+    "published": "Sat, 15 Aug 2026 01:34:38 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its autonomous ride-hailing service across the San Francisco Bay Area and Los Angeles, enlarging its footprint in two of California's largest markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BWXBERlMwSUJlMmRvQXlzc2JSck9rRzlmcXBZcFNYMVhQS0NDQUtHdHl4aXBQc1BReHVySF96UjVfUHBzandnRjR1Z040SDFzUFpTSXVOMU12TnV1NkxpTVJ3NVBiZWpEUHRzaGg1aVZldlpMWUVF?oc=5",
+    "title": "Waymo gets green light from state regulators to operate in Sacramento, company says",
+    "source": "KCRA",
+    "published": "Fri, 14 Aug 2026 23:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo wins state regulatory approval to begin driverless operations in Sacramento, expanding its footprint beyond San Francisco and Los Angeles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbktNSHcza1drUVdPY2xOc0VTQ3ppeVlnWnM1bWU3SWdmdEw0b2d4cGFlbzJoZTFKSFFPblV5ZWJBYWR5eHFnVkY5N3J6T09zVDRLME51c2dIQk5sbWgtSEVVaDNJQnVXcE9HU1dBc0I1Z2IzaDRNMEtLM0IyNThQbTRXNGNCbTdOcjI3UEFMNVdFSlV6XzR1NE5sazlCOVdZdlpjaVdtd1hnd3dpaFF4cW5kcTVheHVuUTc2NzNsTFQ?oc=5",
+    "title": "Waymo wins approval for drastic expansion in Los Angeles, Bay Area regions",
+    "source": "Los Angeles Times",
+    "published": "Fri, 14 Aug 2026 23:39:14 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo secured regulatory approval to dramatically expand its driverless taxi service across Los Angeles and the Bay Area.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTRJaUVScUdrNVJDS2hNbUd6OUROQnBZNWF5WVVNcWtOUktZOEJOejVNblFlVjZTOE5SOUNTc1VlX3lZOUd5eUNBcThKdTYzMG1MZ2REbU8xVFNveGFONzVlemlJMV8xa21hNWtKLUVhaHJKWXR6dlpJcEFVVVlZV1BYSWNsQ0I3bGUzUA?oc=5",
+    "title": "Waymo wins California approval to expand robotaxis across 18 counties",
+    "source": "Electrek",
+    "published": "Fri, 14 Aug 2026 19:47:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo wins California regulatory approval to operate driverless taxis across eighteen counties, significantly expanding its geographical footprint.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDJWSU5ycmhWOVp6MDlvcTRfZVpEYUxSRUFjZ0VFMGcweE5FYXpNeVdTLXhIZXl6SU5aUC1xbWJJN2ozV1dlSVAwVlZ5RkFWeklZdmIyZ1BVT3ZyWUZmclhIemRVd3NOc1VYLVl2bEpjYVpOcUhvS3FLbHhNeTFaM0M5OVRYTm5HcDhUeEZhanXSAZYBQVVfeXFMUDJKYndMNUJZYzNwRXdnYnZtcnhOaUFmYVdyZEIyUHBXcVdxQzlDZUpRbVlHdFV0NXpqdjY0T1gwN2dyTmhFLUFQRTBkeDdjbDAzY21kaUVhU3U2aFBwaXFmR3BNNlpWOHFlS2l6SHZVUFJqUUpvTGx2ZGZzeDJrWjB3UTlQZnZvVm85Zkp6bERURDdaMldR?oc=5",
+    "title": "Waymo expansion approved for most of Bay Area",
+    "source": "KRON4",
+    "published": "Fri, 14 Aug 2026 19:33:58 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo won regulatory approval to expand driverless operations across most of the San Francisco Bay Area.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "expansion",
+      "regulation"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMnVGWEhGMjRjdGtBVUxMTmpyaUYxRDItVUVfQnROblRJN25PdUVxeS1pQ2h2TFNmYTk4V1lzT2RWVkFiU1BrZ0t4aVNMOU9FTG1XQzFQSzVGc0dzNFZKVmo0alZ6aFlweGs0N1lVdHVKNWJWb1E5RDd6dDFseWh4NXplSTkwd1FsWmVENHpRbHhxM3RGWEJDdFFLSTBhNUlDTC1iN2o1UV9VUQ?oc=5",
+    "title": "Waymo expands into Gilbert, Mesa, but West Valley not in plans yet",
+    "source": "yourvalley.net",
+    "published": "Sat, 15 Aug 2026 15:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its robotaxi service to Gilbert and Mesa, Arizona, while signaling no immediate plans for the West Valley.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnppU3kxNE9ibFBKZzkzX0tSMG5OSWp3TG1iQ2dpcEJoOGlheEI4Nkl5S1hNWUx0VllGM2ZPNWlUaktMTDBMdEd3R2kzaGN1Xy0zZkxlMGNDYi1EZWlzQk1UYTBfLVRYQWc5bDRhZ3paMzN3bVBfWkpmOVBmMUFtWnFmR2p2Wm1YWjVkOGhxbDJQTXV6Ml9FZ0E2bzRCSHV2OGhVV2prNmNnUdIBrwFBVV95cUxNbm1hcDVxeWdxSG1GY2ZaTE9yeHBselBQRDNtZDZ5bXVCUmZseGZ2Y3hXVWM4d1VmUWEwVmNtSF9mVWtuWGVsUW1aRk42Vk9ZdUpPekw1NjZORmtVaGFOQnJuMUlhWVNXV1dvWWZCVV9uUTJIVzZLVGRGTjlGZENHeUtzMDVTcWRXYzAxb1VSNHJ5cGhnOHRQVkc3UUpqeUZCN0o2RDJDYU56WU96VDVJ?oc=5",
+    "title": "Waymo announces big California service expansion across Bay Area, Los Angeles and more",
+    "source": "ABC7 Los Angeles",
+    "published": "Fri, 14 Aug 2026 23:54:04 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless robotaxi service across the Bay Area and Los Angeles, widening its footprint in California's two largest metros.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekUwMmtHOW5XZDI3eThwRjBjQmpJdUNrWGlZSndscWFHdTVPY0ZEZ1dMcVZNOWZ5NE5hbDZSTVpCa3B5TnpfWEFhZ0ktZFItQ2ZZSkVqZ2FrVko4X29PR09UeHJJdFZsUnlSTHByMWJnVUttd0ZVVEFXVHkzRHQzOGdlQmNwWXg5alNnV2EwazBMOVhIOGlqNDR2cHk4bjg3Tnc?oc=5",
+    "title": "Self-driving trucks are officially testing on California highways",
+    "source": "TechCrunch",
+    "published": "Fri, 14 Aug 2026 20:37:49 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Aurora Innovation and Kodiak AI have secured permits to test autonomous heavy-duty trucks on California highways, ending the state's prior ban on driverless vehicles over ten thousand pounds.",
+    "companies": [
+      "Aurora Innovation",
+      "Kodiak AI",
+      "California Department of Motor Vehicles"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "trucking",
+      "highway testing"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3ZSLVVJMlkzOVJrY0htSEUydDh0cEJoY1RyX0N6QjlBeEJyY1JhQjI0aVk0Qko4elRNeTh2SUNHM1V4TVVVOU5qeFFjdXlSTzlqNjlaVTVxd2tRN0FPN2J3WGVqVEtyWmx0QzM5dzZLSUVQX1RKYThFSnprd3lFSFhPVWhtSU9EQjlxctIBkgFBVV95cUxOSjl2b0UtQS05RE5HLVJWaTl2ekFKSHl0ekh2UnNFNHl0b0p3VWFaQWg2bHZFZ1lyYmRqX2JxdFh1V2JRS3pCWkxUaGhFVnBFMzVKdk51N1pZVXYxc0pfNlpiUHowUXFkRkNraUFORnFHMHloTjNBSzhIb1lBNlBfUkdjbWRKMXVlVVVDai16Q25Gdw?oc=5",
+    "title": "Waymo Widens Its Map, Adding Arizona Suburbs and Sacramento",
+    "source": "FOX40",
+    "published": "Fri, 14 Aug 2026 20:47:50 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo keeps filling in the blanks on its robotaxi map: the company is rolling into Gilbert and Mesa, Arizona, though it says the West Valley isn't next in line, while in California it has secured regulatory approval to begin driverless rides in Sacramento. Together the moves push the service well beyond its original San Francisco and Los Angeles strongholds into a patchwork of new suburbs and state capitals.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "deployment"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3ZSLVVJMlkzOVJrY0htSEUydDh0cEJoY1RyX0N6QjlBeEJyY1JhQjI0aVk0Qko4elRNeTh2SUNHM1V4TVVVOU5qeFFjdXlSTzlqNjlaVTVxd2tRN0FPN2J3WGVqVEtyWmx0QzM5dzZLSUVQX1RKYThFSnprd3lFSFhPVWhtSU9EQjlxctIBkgFBVV95cUxOSjl2b0UtQS05RE5HLVJWaTl2ekFKSHl0ekh2UnNFNHl0b0p3VWFaQWg2bHZFZ1lyYmRqX2JxdFh1V2JRS3pCWkxUaGhFVnBFMzVKdk51N1pZVXYxc0pfNlpiUHowUXFkRkNraUFORnFHMHloTjNBSzhIb1lBNlBfUkdjbWRKMXVlVVVDai16Q25Gdw?oc=5",
+        "title": "Waymo Widens Its Map, Adding Arizona Suburbs and Sacramento",
+        "source": "FOX40"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMnVGWEhGMjRjdGtBVUxMTmpyaUYxRDItVUVfQnROblRJN25PdUVxeS1pQ2h2TFNmYTk4V1lzT2RWVkFiU1BrZ0t4aVNMOU9FTG1XQzFQSzVGc0dzNFZKVmo0alZ6aFlweGs0N1lVdHVKNWJWb1E5RDd6dDFseWh4NXplSTkwd1FsWmVENHpRbHhxM3RGWEJDdFFLSTBhNUlDTC1iN2o1UV9VUQ?oc=5",
+        "title": "Waymo expands into Gilbert, Mesa, but West Valley not in plans yet",
+        "source": "yourvalley.net"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUk1aQURuMWxxOVg3LU90dnJwdDNEU0pHYm95TmVPdUVZRE9IUl9ueUxGeEJzdW9yX2xNenN0UG5vc3pkVjUxaHVnQXNQQW9ta05VeDV4dmU4OWdQci01d0xMbktkTDdkUXdxQk5uRHliTEJpSVJFRG9yajh1ckF5bDl4dFFyS1B2VjFtekY4TmtZRDZGTnJNTkNvVGtIM3BjMWFRUA?oc=5",
+    "title": "Waymo Receives Permission To Offer Rides In Sacramento And San Diego",
+    "source": "Engadget",
+    "published": "Fri, 14 Aug 2026 22:50:04 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo won regulatory approval to operate its driverless taxi service in Sacramento and San Diego, expanding beyond its existing San Francisco operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzZXbFRVNU1NRmpWRzVQT2tVRU5STVBkdnJQLXdJMm9BU1NfOEpzWlEzWVlibjBQVFpmQms4dlpPbmRkRld3NERKSkl1SkI3OEV4Y1k0Y0xDZFNsX0l6YjV0TmhsWHd6M24tX0JZa3JseUpNeHNCV0dyTk1pN2l1ZDBDZl9OamVxNHhlR2ljOVZDNjU4LUpaRFFWSHNKazhLakUyRE4xSE9VeEthQUVn0gG3AUFVX3lxTE1uTWlSVkkxOGg1QlhYSU5tNG5wN2hJZjFRcExHWVZtUFpKT1BMdkJZb1NMTGlNSDlzTzhyeXF1WVdNWERCMUlOUjRwTVJiX3V0b3N1X2tpTUpLUk9QbTYtZ3Y5WUtZc3pmbnppRTlacllubi1WNkhpYjhQVnRUTG9fMjBnUEFPRmo4TVloNFNmYS1PUnZkcmRvUkZBRHFTdHk4eTM1aTVxQldiZUhlZmhjY3BWVG0zQQ?oc=5",
+    "title": "Waymo gets approval to expand driverless service in LA",
+    "source": "NBC Los Angeles",
+    "published": "Fri, 14 Aug 2026 22:31:02 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo wins regulatory approval to expand its driverless taxi service across more of Los Angeles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uOWRVVl9EUHhwN3RwNTMyaW9pOG5GN21IZzM3TWY2el9iOE5RUkpZaV82Z0cyM1NTOWxfX0twcHNldnVxWlVDWEtiZHBoSm1WeDFLMUNVdFB2VWJyTWxaNE9BT3U0UdIBZkFVX3lxTE5uR0JEN0lQVTg0Z1FFT2hPMVVuY2g1MDV1bHJ4ZVc5MWVnRTBuaXRsWnJZQmc3ZExZVnRkNVZ6cWlUUFRseUhxZEtCQzJLTGE0QUM0R3dRdmJ6SzB1NmtYdW9VM3NVdw?oc=5",
+    "title": "Waymo just cleared key hurdle in Sacramento. Where robotaxi rides could come first",
+    "source": "Sacramento Bee",
+    "published": "Fri, 14 Aug 2026 21:27:56 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has secured regulatory approval in Sacramento, positioning the city as a potential early market for commercial robotaxi service.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUzh1eXFsR1VhZmlOUnVZN203YURyWVdsMzY1ejFsTlJMNVRlOEtnQ1pHWExBY3RuR05idHZybXplbTNfakhwRFI5Q09QaE9OZGdFUUh5dFcyMGtOaTJ1U29RNjRhTThIUE9xX3k4UE5IVjdRMGpnMjEwVExPZk00NHQxTkdUSHd5UVM2ZFZ6Tm9pUXVuRGlZMTk5eUtDUGRfUlF6NWRjR3EzZVl0MDFOSGxPUTJ2em9ybi1uLXdFZHFXMndtM1lSRDlBaEgzUkNScHpKSk9Lekd0bXRZRTZKZGxBSjk5cG1BWGF1eEptV2dlYkZXalVfT0hQSQ?oc=5",
+    "title": "Waymo gains approval to launch fully autonomous ride-hailing in Sacramento",
+    "source": "ABC10",
+    "published": "Fri, 14 Aug 2026 21:08:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo won regulatory approval to operate fully driverless taxis in Sacramento, expanding beyond its established Phoenix service.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "deployment"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWZ4VzdmX25ZYmE4c09yMlZINzVhSWN0bUpJcDdydlBwVG1FM1ZPZE5TS3NVcHFSbW9FV3liR3M3bDRRZllmNWNfV3BDVW1pUkREYWc5cGFoR3h2ZjdzWmJKaHozRWJ2bnpuVHBNYXVqdVp3aDc5S0pMZUZpNnZwOEJ1RV9TTDlrSWVvVjFucmljVE94a01IRVhpNkJJdmZuc0tkb29BOA?oc=5",
+    "title": "Waymo approved to start rides in Sacramento, San Diego and expand in Los Angeles, Bay Area",
+    "source": "CBS News",
+    "published": "Fri, 14 Aug 2026 20:07:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo won regulatory approval to expand its driverless taxi service to Sacramento and San Diego, and broaden operations in Los Angeles and the Bay Area.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREhURjRZeGNzY0ZkUTg1LUlCcDgyWHJxV2JaVzhCcjc0bnp1eVZSSkxQR1lvVmJaLUFFR05XaVRPOG9QaGgybl90emxNeVUtVTF2c1pCZldBOS1aNVFETmp6cDBJUWdaaFpaeW92TnU4SG9Namd1QTJSUzFqTWV5aXRsLW5GVGFSSGpfSWxnNFhIQnpxNDB5c1RaWjhNYjE1ZTNSMTVEYnJtNjBoZDN5WHhzbFV3aHIzU2IwM0hR?oc=5",
+    "title": "'It almost hit the car' Parent raises concerns over Waymo driving through Heights school zone",
+    "source": "KHOU",
+    "published": "Fri, 14 Aug 2026 22:09:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle prompted a safety complaint from a parent after the car nearly struck another vehicle in a Houston school zone.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHh1UVNJdjBIMlZBRUtiaS1lMjd0SXdoYjZoLV8yYlhPSnZuR0JCS2pPSGJWblB1RFJ0anMwUWxuWENrbUlJSVAxUGtlZmYxajluZFVRVmFBQlJUYkYzNTdBNzF2emV5aks4TnNLYUpFb1F2VHFPbnNwaGtnSGxGaDdEYmE5c1A2WlF1OW5BVWkxX3puZXVHWtIBmAFBVV95cUxNMHh1UVNJdjBIMlZBRUtiaS1lMjd0SXdoYjZoLV8yYlhPSnZuR0JCS2pPSGJWblB1RFJ0anMwUWxuWENrbUlJSVAxUGtlZmYxajluZFVRVmFBQlJUYkYzNTdBNzF2emV5aks4TnNLYUpFb1F2VHFPbnNwaGtnSGxGaDdEYmE5c1A2WlF1OW5BVWkxX3puZXVHWg?oc=5",
+    "title": "Waymo CPUC Approval Clears Sacramento and San Diego Rides",
+    "source": "Tech My Money",
+    "published": "Sat, 15 Aug 2026 09:45:49 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo wins California Public Utilities Commission approval to operate driverless rides in Sacramento and San Diego.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGV6bnpRU0g3WExMZ0owdzgyRzY2SGxKejBjVVNYYy1RN0lyaWtRRVc4SHkzdk1BVkw0bmt3TDY3MF9lM2dHUjFzOTljMlloQ044dTUtNHJBWlhIdExRak9TaVFQcnRvUEQ4djBjU1hFMlZ0b0czRWlGYjU3VUN6bWY2R19hcUxOeHUyTDRkY183WjZLS1ZYUnZ6M0FpTC1wcTUzYQ?oc=5",
+    "title": "Watch Drone Swarms Push AI Deeper Into Modern Warfare",
+    "source": "Bloomberg.com",
+    "published": "Sat, 15 Aug 2026 15:08:52 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Bloomberg examines how autonomous drone swarms are reshaping military tactics through artificial intelligence, tracing a trend rather than breaking a specific development.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone swarms",
+      "autonomous systems",
+      "military AI",
+      "warfare"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wSlFITVp5UlNrUXFQaDdJU0hXX3Y1LW51dEFhSGxsd2FWaDFqTGZleGVvNy0tUFppVkVLdkxtcVI4dmhGYkRvdE5aNnlQc3dTMmtGNUpqWS1URnAySFpfbTNvdVlXYkZXcTlrZzRWRWJ6Wld3V0VPdjkwTlZiQQ?oc=5",
+    "title": "AI helped me (almost) build a killer drone",
+    "source": "Bulletin of the Atomic Scientists",
+    "published": "Thu, 13 Aug 2026 10:43:18 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "A journalist tried and largely failed to build an autonomous attack drone using AI chatbots, discovering the technology's limits in physical reality.",
+    "companies": [],
+    "people": [
+      "Matt Smith"
+    ],
+    "themes": [
+      "autonomous weapons",
+      "AI safety",
+      "drone design",
+      "dual-use technology"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmdUE3TEgyN0txbV8tWHBENUZrVGJURlU5eTd3RXFHWFA3UG85dmV2OUdCejI3blBoUUxFVGU1Y1NvTExGQ0dPRUJzNEN4OXZPSFhIMXZKR3VNNVFYWXMwYTlVT0cyZnhaMWJ3blFxNi1HaTlIYnZtWg?oc=5",
+    "title": "Off Denmark, a drone flew around a wind turbine while its blades were still spinning and inspected them without forcing the machine to stop generating electricity",
+    "source": "Energies Media",
+    "published": "Sat, 15 Aug 2026 11:40:15 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "RWE and Danish startup Quali Drone tested an autonomous drone that inspected offshore wind turbine blades while they spun, avoiding costly shutdowns.",
+    "companies": [
+      "RWE",
+      "Quali Drone",
+      "Energy Cluster Denmark",
+      "Rødsand 2 Offshore Wind Farm",
+      "Technical University of Denmark"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "wind energy",
+      "inspection",
+      "offshore",
+      "maintenance automation"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04Nk54N01QRlJsYWdrTzVDbzgyWTItRlkzTFJVd3RFMWE1NmdfOFhDWmc5ZGFFUkZOeEtlU0hvTF84S1VWN2ZkQ3JRNlVUUGxvdWp1VVE3ZjgyV05GMzVJM1ZxRTFtZEU1QWFqZVV2QU1Pd9IBd0FVX3lxTE5ZMjFpUVE5RmU5YnFwLXlFcC1hWnR4VlBNbzBwSXRSSkZERVM3UUVWUkJjb1ZBc1hOTnFLVVFUNTJfdjBkY2wzdEU5Q1BMdjVXNGRURGlwa1BDNndiMW9Pakw3U2ktakJYV3JXaE1ERUxSYndpclRR?oc=5",
+    "title": "New British Drone Tricks Enemy Radar Into Seeing a Target 20 Times Larger",
+    "source": "The Defense Post",
+    "published": "Fri, 14 Aug 2026 12:00:04 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A British defense contractor has deployed a drone equipped with radar-deception technology that amplifies its perceived size by a factor of twenty.",
+    "companies": [
+      "British defense contractor"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "radar",
+      "military",
+      "deception technology"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUJpVVNrVktkTVFYLWFUU0E4RlVxN3N6QzFEajVjUFpJbjVRX2FRak5IV05FZ2NobldPZzBJQVRSeXA1Y1I4SE5tVUl1WHAydGtiREFKOGp4YnB1RGlWbWtrdV94X1dkSVk1WHZiUHBXc1FRdm9IUENmMVl0OUNzeEFHVzR5TmNuZF9ITDNrYUxQMEc1M0VKXzF3?oc=5",
+    "title": "Watch What a Killer Drone Swarm Looks Like Up Close",
+    "source": "Bloomberg.com",
+    "published": "Fri, 14 Aug 2026 08:01:02 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Bloomberg publishes video of a military drone swarm demonstration, illustrating autonomous coordination technology with lethal applications.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone swarm",
+      "military drone",
+      "autonomous coordination"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00ZjlyMHhheDdhUXJxZXNzVlJHWnhjOWRYd2pYVk45Y0U5aFpibzVTeWF4cERXdllENExqQUdpZk9hVTdBTzNPZDJ6ZDlQQm4yU21KTmJ2R3NtdXh1cVhkZ2c0enlja1gtOXJIWGJrMXZGalN1QW5JYtIBfkFVX3lxTE5qa25yWEdRdkVVWXdKb3JwSEhTM2J6UDNEVWtTaTh4NXZBNVU5b3E0STc2bWRjZEpqTWJ5OEpWX1YzUzNXRnRuZVR2SUFIbWFMTDVuMGtjcTI3cDJ2blFfb0RNamUtaV93MjdzclVBR0FtX3lyaTRRXy1NNDgwQQ?oc=5",
+    "title": "BAE, Turkey’s TUALCOM Team Up on Autonomous Defense Tech",
+    "source": "The Defense Post",
+    "published": "Fri, 14 Aug 2026 08:16:35 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "BAE Systems and Turkish defense firm TUALCOM announced a partnership to develop autonomous systems for military applications.",
+    "companies": [
+      "BAE Systems",
+      "TUALCOM"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "defense",
+      "drones"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://skydio.com/blog/2026-fifa-world-cup-public-safety-drone-operations",
+    "title": "2026 FIFA World Cup Public Safety Drone Operations",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio deployed drones for public safety operations at the 2026 FIFA World Cup, conducting over 10,000 flights.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [
+      "Mira Marquez",
+      "Ryan Blinn"
+    ],
+    "themes": [
+      "public safety",
+      "drone deployment",
+      "first responder",
+      "large-scale operations"
+    ],
+    "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": []
   }
