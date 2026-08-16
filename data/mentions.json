@@ -21489,7 +21489,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21562,7 +21562,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21641,7 +21641,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21689,7 +21689,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -21815,7 +21815,7 @@
     "first_seen": "2026-08-09T15:26:37",
     "week": "2026-W32",
     "why": "This formalizes what had been an informal courtship since Hyundai's 2021 acquisition of Boston Dynamics, putting real commercialization muscle behind Atlas rather than leaving it as a viral video machine. It signals Hyundai wants humanoid robots on factory floors, not just YouTube, and pressures other humanoid makers like Figure and Tesla to show similar manufacturing-scale commitments.",
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -21977,7 +21977,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -22306,7 +22306,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22465,7 +22465,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22712,7 +22712,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22737,7 +22737,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -23200,7 +23200,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23227,7 +23227,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -24125,7 +24125,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -24222,7 +24222,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -24682,7 +24682,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -25006,7 +25006,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -26114,7 +26114,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -26669,7 +26669,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -27026,6 +27026,386 @@
       "large-scale operations"
     ],
     "first_seen": "2026-08-15T15:16:09",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91MUFhTDVnRWRYb1NCOVpXUXZjZ0drbnVuNUFUWnloSXZmaF9ralJfZUlVUU9fOTZlZ2IzdWZENll6OGhYRzZVWlpVaEt0dVdXRHI0WFVTUXR5LWdaanNwQ1dR?oc=5",
+    "title": "23 humanoid robot teams compete in rescue missions at 2nd WHRG, facing real-world complexity beyond dancing in coordination",
+    "source": "Global Times",
+    "published": "Sun, 16 Aug 2026 11:46:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Twenty-three humanoid robots competed in a real Beijing firehouse, exposing how rain and unpredictable environments still trip up even the fastest machines.",
+    "companies": [
+      "UniX AI",
+      "UBTECH",
+      "Tiangong"
+    ],
+    "people": [
+      "Yang Liqi",
+      "Jin Chenran",
+      "Zhao Weidong"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition",
+      "rescue",
+      "real-world deployment"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTzJlaVNtclZOcURnQ1dJVG1XQk16bjlwUEJyd2hnQ2VYMnM4NmRCRFpOUzFqcEJyZjBXWGF4d0ZMelJvek1XZG9xMm9lb1Bmd0F3cENxaTlDMlhIbmVVV2Izd1FTNVNtb3B0M3otemd6TG5IUHluNmktbjB4U3V3RFpHSTdQUkJPcVJPLVBuWGZBeks5ZllwVDMyQ1BBWTh3Uy1lOExuajFxSklzOHNnZmhsLVVfRGUzRy1IbjEyTUhtWU5Ob2RMMU1wNDU5QzZtRGY3bVdfM19sdzk4YXBv?oc=5",
+    "title": "Detroit Free Press. . The World Humanoid Robot Games in Beijing brought together more than 2,000 robots capable of playing sports and performing other tasks.",
+    "source": "facebook.com",
+    "published": "Sun, 16 Aug 2026 00:30:12 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "More than two thousand humanoid robots competed in sports and task-performance events at the World Humanoid Robot Games in Beijing.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEQyWFE3dUhTM180TDBBOFJUanF2aVplV1FVZW9XTkRVeXhoX2FrVnZmdUtKdGlDMnoxcXpRRkFIR1V1Mnh3a2owZHZmeFltM2xpRDJDNWlqclNtSTd2QTNYT3c2WkNsWkZxNnBTbHktNnhVbmwwdUplQnN0cllZV3ZhemdGcmtPNXFLZXQ1WjZaaDlsb2M5WEJUdWtIZHZmSzVCUTVOSjY1U3hycEE?oc=5",
+    "title": "Robot participation quadruples for 2nd World Humanoid Robot Games in Beijing",
+    "source": "The Business Standard",
+    "published": "Sun, 16 Aug 2026 04:40:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China's second World Humanoid Robot Games in Beijing attracted 2,056 robots from 16 countries, quadrupling participation as the competition expands into real-world tasks.",
+    "companies": [
+      "Beijing Municipal Bureau of Economy and Information Technology"
+    ],
+    "people": [
+      "Jiang Guangzhi"
+    ],
+    "themes": [
+      "humanoid",
+      "robotics competition",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZllBTGtxd3RrMGQ0d0hvSVJGWldhX2xWOWZuZVRtZUJneURfVGRpTmFHd2NlZzM1bUxSX3hDLTF3SS1CWHVmTzFManZJZVhwdU5tbkdYdTAzQWZ5ZjBsWEdlZGZTU2N2MVB6UUtDZzJNSzJZYjFTTnpuSWdsdnlRN1FGMjBoM3pLSk9BelRBZVVySlZTX2pwMGhyajVIb3k4VWhvNEgwZmdVcW5KNURmeWJxby1pb0dXM28tNkMtSGt4UU9iLUQ0VXZzWG1GZFRCV3c?oc=5",
+    "title": "Humanoid robots test hospitality skills at 2nd World Humanoid Robot Games in Beijing",
+    "source": "bastillepost.com",
+    "published": "Sun, 16 Aug 2026 14:47:07 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Over a dozen humanoid robot teams competed in Beijing's hotel scenario contest, completing luggage transport and housekeeping tasks within thirty minutes.",
+    "companies": [],
+    "people": [
+      "Li Ziye"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition",
+      "service robots"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPUndBemZTV1R3XzZ6UGYwMHlaclQ5eEpmM3hhMHVqdEo3Q19HSDhqcjV6U2JYdUo5d2d2Qk5sMFVDX0UyMU5pZkUzUzlOcFZqajNZbDZsOGtISTRITGNHajdR?oc=5",
+    "title": "The Fire‑Scenario Challenge at the 2nd World Humanoid Robot Games",
+    "source": "Global Times",
+    "published": "Sun, 16 Aug 2026 13:44:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Humanoid robots competed in firefighting simulations at the 2nd World Humanoid Robot Games, testing their ability to navigate and respond to emergency scenarios.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "emergency response",
+      "robot competition"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSWt0M2g1VTVDeU0zaDlZY0h5Y2VlZmtCWFJjVUctLTd5YW9ra0hGMjgxSENoQ3p2ekQyTmdqdHdkaC1rT1dEc202UC1kT205c2JDSGdxT1A4VVpVX25KY1FB?oc=5",
+    "title": "Beijing’s 2nd World Humanoid Robot Games to see robot players stay at athletes’ village-like ‘Robot Home’",
+    "source": "Global Times",
+    "published": "Sun, 16 Aug 2026 03:33:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Beijing's second World Humanoid Robot Games opens Saturday with 666 teams competing in a newly built 'Robot Home' that charges and deploys over 1,500 mechanical athletes.",
+    "companies": [
+      "AGILINK"
+    ],
+    "people": [
+      "Wang Peng",
+      "Chen Jing"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEZCOGVKUGQ2bm9MNnJqcXVuWkRvSjVFc25TVEdueEFwM1ZjSlctc1FRVXBsNERoV2VKcTFXeW1FTWFGRURlNkIxOTdvNHhodmdmaDV0Ri1uZTVXbkxTTmRJYTA1eGtmNW12UGtIV1hacHhVUEVULUhHdFVMaDdMY2dRNkp5U1I4eHJhZUkyYWM0b2VhakRKZnMyeERJS2JkOWE0WlJWb2hUdw?oc=5",
+    "title": "Humanoid robot traffic officer patrols the streets in China",
+    "source": "WPLG Local 10",
+    "published": "Sat, 15 Aug 2026 16:45:05 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A humanoid robot has begun patrolling streets in Wuhu, China, taking on traffic enforcement duties.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics deployment",
+      "traffic management"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hQb3FHVEhvNkRaUEFsRzh3UWlUdFdlR3FVUno2ZFRxSG4tLXd1SVJkSFcwQzI4MDBZQ1FWX0RldmRtMUhKOG1RUFlrWEk5dl9SNXM1elk4Yjlremppa3BhMjdSUUFNU1h0LUJZVEZwcmdBNXJBa1FVcnNyYmtLZ2s4TE1pMkV6bldqRV9BaXVSWExuY1Z3WFpxdjJ5WmRHVmhOdVFSaGdyeWc?oc=5",
+    "title": "Waymo is winning over riders while the fallout for human drivers stays fuzzy",
+    "source": "businessinsider.com",
+    "published": "Sun, 16 Aug 2026 07:12:37 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo's autonomous vehicles are gaining rider acceptance in San Francisco and Phoenix, even as the employment impact on taxi and rideshare drivers remains uncertain.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "labor displacement",
+      "rideshare"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLW1IUmRTRmN4OTllQWUtRkRIcU9TaEVmSTNtV244ZDV2WlVqNXhURGNha2FLeWI2NnV0VkFHY05EVzNtd0FFeVM5M3JtNlZPc1h3Wi1HTE5OdEZNMWJyRHV5dnE4WTF6RXRHS21rWExWR29Nc0ppb0F6dUFaQ3lvb2xVYmtrYkVwcGhmY1JlOUYxdnZBSno5Q2sxWlJwTGtPLTJIUzR4cUtGRlRSR21Ed3g1MFBrS3RaZ0ZOSmVIdlN6M1RiUnF1ZUdwRzFrZ9IB0wFBVV95cUxQMW1rUjhKS1NBU01mV1ZEdUJmZjhydC11dmk5dkwyY3JYUFp1eGZPb1Y0S1l1WXBIclZQM25fVVJUeXF0cmN1ZXhnVS1UUkQ1WTluZ2xEaGtKMmlmZzlSdjQ0b1p5VW44ZEdiVi1vSlRZc29HeEdQaFRXc1kzWTR1T0dSSU9raDhCS09pWTZxSF9odDJSWUsyeUZ2eXpYQmFUMlJRMFlqejQyd0FsRDR4ak56ZVBBdGVEM2JmMGp6MU5DbnI4c1AzcC1Fc18tSkd6UFd3?oc=5",
+    "title": "Waymo gets regulatory approval to scale up robotaxi service across California, enter 2 new markets",
+    "source": "Fox Business",
+    "published": "Sun, 16 Aug 2026 03:52:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo won California regulatory clearance to expand its driverless robotaxi service statewide and into two additional markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOOVZHQWFjbmh5SWJqR0V2SDJwYUhkcWtTX2Y1ak5qUUZ6Z1BndnJhTFItT2dHVTJ5RVBpY3lSWm44SkxUSU9Yd0dWcU5HQ1NCZ1JGZ19TdFM0bG1UM1YybXk0Tm0zbk9rajc1SzdYX1gxMjJxT2ZxRHJKQVFIVVhfb2VSZGNaMnVBdTVQa2U2eGNSLWp0akZ0SkNBdC15MTMzTzJtSEJpeFZqc0E4dlE2U0dyeUpmamdDZkNVTzJfTjhtd1JvcDNPZlhRRDZ2X3ZfMUpsSlFneHZjM1Npd1UzZWhHM2tnSmRxc2lvRVdJUVBXbzEtRFdLeHpUQ19KUjBxV3A2b1R6WlNacWphSG5yVVdWWE1aTmRfRXdfVVRrakpsVUw0VS02OElONG9rQ0tvSmFmM3F6Qk00Q0pROE81TTNMdFZOQVpn?oc=5",
+    "title": "Waymo's Big Numbers Meet a Prankster's Traffic Jam",
+    "source": "ScienceBlog.com",
+    "published": "Sun, 16 Aug 2026 14:59:15 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo touts 20 million paid rides and a 92% drop in pedestrian injuries versus human drivers, with an eye on 1 million weekly rides by end of 2026 — fueling bullish takes like Seeking Alpha's 'buy' call and Business Insider's look at growing rider trust in San Francisco and Phoenix. But the week's more memorable image came from a San Francisco prankster who summoned 50 Waymos to a single street, exposing coordination glitches that undercut the company's safety-first narrative even as human-driver displacement remains an open question.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles",
+      "safety metrics",
+      "labor displacement",
+      "rideshare",
+      "robotaxi",
+      "autonomous ride-hailing",
+      "cybersecurity",
+      "autonomous vehicle coordination"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOOVZHQWFjbmh5SWJqR0V2SDJwYUhkcWtTX2Y1ak5qUUZ6Z1BndnJhTFItT2dHVTJ5RVBpY3lSWm44SkxUSU9Yd0dWcU5HQ1NCZ1JGZ19TdFM0bG1UM1YybXk0Tm0zbk9rajc1SzdYX1gxMjJxT2ZxRHJKQVFIVVhfb2VSZGNaMnVBdTVQa2U2eGNSLWp0akZ0SkNBdC15MTMzTzJtSEJpeFZqc0E4dlE2U0dyeUpmamdDZkNVTzJfTjhtd1JvcDNPZlhRRDZ2X3ZfMUpsSlFneHZjM1Npd1UzZWhHM2tnSmRxc2lvRVdJUVBXbzEtRFdLeHpUQ19KUjBxV3A2b1R6WlNacWphSG5yVVdWWE1aTmRfRXdfVVRrakpsVUw0VS02OElONG9rQ0tvSmFmM3F6Qk00Q0pROE81TTNMdFZOQVpn?oc=5",
+        "title": "Waymo's Big Numbers Meet a Prankster's Traffic Jam",
+        "source": "ScienceBlog.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hQb3FHVEhvNkRaUEFsRzh3UWlUdFdlR3FVUno2ZFRxSG4tLXd1SVJkSFcwQzI4MDBZQ1FWX0RldmRtMUhKOG1RUFlrWEk5dl9SNXM1elk4Yjlremppa3BhMjdSUUFNU1h0LUJZVEZwcmdBNXJBa1FVcnNyYmtLZ2s4TE1pMkV6bldqRV9BaXVSWExuY1Z3WFpxdjJ5WmRHVmhOdVFSaGdyeWc?oc=5",
+        "title": "Waymo is winning over riders while the fallout for human drivers stays fuzzy",
+        "source": "businessinsider.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVElveGR3aTRJc09kUi1EaTV3LU9pVzFTRGN1VXZxQmlsOUYzc01SeUxCS1NEWE0wQy1Gd3E4UjNYeTMtN0hzTGxKdmp0bGI1ZzJBSkFuSmMyYTdQd3lCcUlmRXhRYWZNUTFVblYwaGQ0QlhYRHp2SUw5cTRrQnFLRFU2eWxiNFY0QlFVbnRNX21kaUNHSVF4b1BFakdiM2JtcWVOY0FFMTVGVlp3TnAzdTVCSjREeUVtOHc?oc=5",
+        "title": "Projected Robotaxi (Autonomous Ride-Hailing) Growth By Company And Why I Rate Waymo A Buy",
+        "source": "Seeking Alpha"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbWF2UTJmb1RvRHFFdExrV1AtbXJWT3N1VW1fTGs4Mjd2Q1o3ZnU5WTVqQTB1WXhTSGZaeUg2QXpnMWh1Wjl0dTdFWGJFbmtaanFWU3RXU3dMWWpXX0xUdDhkanVRcVZhZGlFWDFUY1FaUlNDYTlBNGZLRXl6NjFBVldOSElJbHZXOEdPaUgyZlJ4V0d6R1V4cHhQcHRNY25jMHZCM1R0YmJrenE5LUdKU1diaEFjcHRRZXYtRVVOYVVBNlJKNkFnYm1ocUtqaDJEbHI1TGZhcDh5bFR4bVE?oc=5",
+        "title": "A San Francisco 'tech prankster' got 50 Waymos ordered onto the same street, exposing robotaxis' cyber/airbag problem",
+        "source": "Fortune"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVElveGR3aTRJc09kUi1EaTV3LU9pVzFTRGN1VXZxQmlsOUYzc01SeUxCS1NEWE0wQy1Gd3E4UjNYeTMtN0hzTGxKdmp0bGI1ZzJBSkFuSmMyYTdQd3lCcUlmRXhRYWZNUTFVblYwaGQ0QlhYRHp2SUw5cTRrQnFLRFU2eWxiNFY0QlFVbnRNX21kaUNHSVF4b1BFakdiM2JtcWVOY0FFMTVGVlp3TnAzdTVCSjREeUVtOHc?oc=5",
+    "title": "Projected Robotaxi (Autonomous Ride-Hailing) Growth By Company And Why I Rate Waymo A Buy",
+    "source": "Seeking Alpha",
+    "published": "Sun, 16 Aug 2026 13:13:40 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Seeking Alpha analyst argues for Waymo as a buy based on projected robotaxi market growth across autonomous ride-hailing operators.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous ride-hailing"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbWF2UTJmb1RvRHFFdExrV1AtbXJWT3N1VW1fTGs4Mjd2Q1o3ZnU5WTVqQTB1WXhTSGZaeUg2QXpnMWh1Wjl0dTdFWGJFbmtaanFWU3RXU3dMWWpXX0xUdDhkanVRcVZhZGlFWDFUY1FaUlNDYTlBNGZLRXl6NjFBVldOSElJbHZXOEdPaUgyZlJ4V0d6R1V4cHhQcHRNY25jMHZCM1R0YmJrenE5LUdKU1diaEFjcHRRZXYtRVVOYVVBNlJKNkFnYm1ocUtqaDJEbHI1TGZhcDh5bFR4bVE?oc=5",
+    "title": "A San Francisco 'tech prankster' got 50 Waymos ordered onto the same street, exposing robotaxis' cyber/airbag problem",
+    "source": "Fortune",
+    "published": "Thu, 13 Aug 2026 19:45:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A San Francisco prankster exploited Waymo's ride-hailing system to summon 50 robotaxis to the same street, revealing vulnerabilities in the company's coordination and safety protocols.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "cybersecurity",
+      "autonomous vehicle coordination"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzdzUndwdjB6X0MwUVVzVnJIUmZiZTJEdHl1YndkRFY3cWtYdUtOZE5hYXRFWXlNUGZvRGQzaGxkZjF5cXRRRFp0TlhtMGEzdFdaeUlIcFUxSmJ5eFhXSlp0ZGt5b2ZlWVRWY1U1UWJwUkRpMDRhV2taQ3JyTkpFYXdoVHBNZUVPQU9lSy15eFg3TVZEMEpsTmRGUHdIektFUWtyeEhmb1A?oc=5",
+    "title": "Big Labor seeks legal roadblock to driverless trucks in California",
+    "source": "Orange County Register",
+    "published": "Sat, 15 Aug 2026 19:00:45 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "California's Teamsters union sued to block the state's new autonomous truck rules, arguing regulators underestimated the economic hit to drivers.",
+    "companies": [
+      "Aurora Innovation Inc.",
+      "California Department of Motor Vehicles"
+    ],
+    "people": [
+      "Marc Scribner"
+    ],
+    "themes": [
+      "driverless",
+      "trucking",
+      "regulation",
+      "labor"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
+    "week": "2026-W33",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVAzbVFWMzR5cEVhZVJVb3JiNE5pVjBnSjVPSVNPREowdjJhQ2hpTWxCcFZ4d2FfRnFKeU11UC1YdTNKRmhDdmthMGFFWVo0MGItWkxMOXBxdWtaRGN5NnpUa0QtVHlVcmNCYVRST2N4blg4NkJQVDJGX2NTMkc2cHBkalJzdHFTTHI4R3EtcVllalNCYmVYM0VORVpZcHNWYmVOTDEtTHNsZXBNMUdoLW1Vd1VOT0puWnc?oc=5",
+    "title": "Drone Nerds partners with DBOX for autonomous docking systems",
+    "source": "Investing.com",
+    "published": "Thu, 13 Aug 2026 12:46:30 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Drone Nerds has partnered with DBOX to develop autonomous docking systems for commercial drones.",
+    "companies": [
+      "Drone Nerds",
+      "DBOX"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous docking",
+      "commercial drones"
+    ],
+    "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
     "duplicate": true,
