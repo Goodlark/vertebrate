@@ -21977,7 +21977,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22144,7 +22144,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22432,7 +22432,7 @@
     "first_seen": "2026-08-10T15:56:42",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22712,7 +22712,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -23039,7 +23039,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -23076,7 +23076,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -23766,7 +23766,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23968,7 +23968,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -24027,7 +24027,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -24682,7 +24682,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -25033,7 +25033,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -25271,7 +25271,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -25905,7 +25905,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -27286,7 +27286,7 @@
     "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -27384,7 +27384,7 @@
     "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27409,6 +27409,1000 @@
     "week": "2026-W33",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaXdTREx6aVUwamlrNnVuWkk4ZjF3YUx2MTFTRGc1TGYxNk9RTEFKb1NRcWlINDRyZkJyV3VGOUdoTy1tdEVlQ182VHFuSjRRYjVIbElNTThDVDlvd213cVFlb1RtMU51YTgya2cwdkItYndoMnk3RTIxalNpdjdCWmFTY3NwRVBiRVg5S3hxTEo5XzJSdk9xbTR1dnd4djBhbHluQ0JBMmdxMzFjdjBOYmQtaGxKdE45YS11WTFBd21MeXAyd0V3MFg2NWFJTGtQOVEwR2VWTER2LXlTS0RPUHNYa3M?oc=5",
+    "title": "VMR Robotics' 500th Humanoid Robot Dedicated Chassis Officially Rolls Off Production Line",
+    "source": "Gasgoo",
+    "published": "Mon, 17 Aug 2026 14:16:18 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "VMR Robotics has produced its 500th humanoid robot chassis, marking a production milestone for the company's physical AI platform.",
+    "companies": [
+      "VMR Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnNhSnVxWm9qdEhnUThPOU0yMGlfdTNkX3pzMU9tSnFsdGh2dURudDVOV1UyUTJIblpEV19iMUdqMGJITVc1eUI3SVA4MDRpOTNhQVo3RThxVWdNaHc2SjQ3ejBvOU05ZU1FWkhkbjZRN0NjUmVwWDZackZCYkhIZ2ktVjJFR1QzRzRBaEF3aTc2bVJHOUptOW43QkU0clBsc2FCREQ0Mm12cmMydWk3RHZzRkVfQQ?oc=5",
+    "title": "Unitree Unveils 'Superman' Humanoid Robot, Touts Record-Breaking Speed",
+    "source": "Reuters",
+    "published": "Mon, 17 Aug 2026 13:50:15 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese robotics maker Unitree unveiled its new 'Superman' humanoid robot ahead of its Shanghai debut, part of a crowded field of companies racing to commercialize humanoid robots. The company claims the machine can run faster than Usain Bolt's top sprint speed, a bipedal locomotion benchmark meant to generate buzz as fervour builds around China's physical-AI ambitions.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot launch",
+      "robotics",
+      "locomotion"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnNhSnVxWm9qdEhnUThPOU0yMGlfdTNkX3pzMU9tSnFsdGh2dURudDVOV1UyUTJIblpEV19iMUdqMGJITVc1eUI3SVA4MDRpOTNhQVo3RThxVWdNaHc2SjQ3ejBvOU05ZU1FWkhkbjZRN0NjUmVwWDZackZCYkhIZ2ktVjJFR1QzRzRBaEF3aTc2bVJHOUptOW43QkU0clBsc2FCREQ0Mm12cmMydWk3RHZzRkVfQQ?oc=5",
+        "title": "Unitree Unveils 'Superman' Humanoid Robot, Touts Record-Breaking Speed",
+        "source": "Reuters"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXM0Wjl6bWRBbmlHWENoTmNJN2RuRFprSmhOTnNpZ2hUNFZkZzVQcE9saThyWTBRazBLVTh5Y1pYWHpJWncxMlE4WGIwb2VfWnpxdXlXcWtEaXNyLTJKTE1lVGxuelRKZ0Z6ZXZJNWladFZQTW9aZ3pkVVpnb2RZdTdhU1l5ZkFmSUxMd2U5TnVobmhidXFhU3NHNDR1bFpDNUxFZk9kQW5SZlREUmtMTA?oc=5",
+        "title": "Unitree’s new humanoid robot just claimed a speed Usain Bolt never hit",
+        "source": "Interesting Engineering"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxS0oxVzJCOVVQQ0hLcVNOV2hfSW11ZWtfNW1mQ29qSWRzR1pMSU00T0NjTHp4Y29Fa3lraEhmVzdUM192dlZha1NqSk4wbzBqaHRBTkU4bHA3Sy1ydm1mUmExbFdqTENXbHZCSTkyRm4?oc=5",
+    "title": "Unitree, China’s humanoid robot champion, lists in Shanghai on 19 August after record demand",
+    "source": "The Next Web",
+    "published": "Mon, 17 Aug 2026 15:13:18 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, China's leading humanoid-robot maker, goes public on the Shanghai exchange after surging investor appetite for its physical AI machines.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "IPO"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjVnaUd4emF1SlEyUnBVaHI5andBR3lVU1Jad0J2TzZocjZjNWVQWHgzOE9RUzU4bXIxMXIyMEtNZml6bVR6UEdhN0ZKMy1tNlZYMVk1UGFETEtkVUNlQlhHeEYzV0dtdmo4bktyNGtpbDNQZkRBcWg3dFpERS0xU3BkZ3BpODM0eWsyNWpFRnQzdmZaSVlWbzNDbW1wbVJuMERIeUlzaTN6dTN2dmNSck9aRU5FakRBVjJF?oc=5",
+    "title": "Brain-Inspired AI Enables Humanoid Robot to Learn Complex Caregiving Tasks, Japan Study Finds",
+    "source": "International Business Times",
+    "published": "Mon, 17 Aug 2026 13:29:27 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Japanese researchers at NCNP and Waseda University trained a humanoid robot named AIREC to learn caregiving tasks using brain-inspired AI based on predictive processing.",
+    "companies": [
+      "National Center of Neurology and Psychiatry",
+      "Waseda University"
+    ],
+    "people": [
+      "Hayato Idei",
+      "Yuichi Yamashita",
+      "Tamon Miyake",
+      "Tetsuya Ogata"
+    ],
+    "themes": [
+      "humanoid",
+      "brain-inspired AI",
+      "caregiving",
+      "robotics",
+      "learning"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVdNd05wMDVyOFM5WWNRdjRoazBpSjJPSHFDUksxejg3SmpvaUdaNEw5ZU8yZ2VIby1jWUJtVF9raDM1bEVkaS1vdmdtTDN4aWRPR0MzR29hMXZ4SUxPd216bExYdHVwanZmaTJYRXIxY0JwS2lPcFpkdGNWWEplM2sxM3lWWjhqcFBKaGkyRU16R2JWLU1QSzM3clpIWVk?oc=5",
+    "title": "Chinese humanoid robot maker Unitree to list in Shanghai on August 19",
+    "source": "WSAU",
+    "published": "Mon, 17 Aug 2026 13:20:48 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, a Chinese maker of quadruped and humanoid robots, is going public on the Shanghai stock exchange on August 19.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "quadruped",
+      "robotics",
+      "public listing"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDlNRlRlbnQ4dzZmMGxmaVVQMlBJa2R6RV9FMTVILUhScndwUThUWnVKRkJES0kwOW5fSEFVVlItMHBaMkNWNE5iQmJNUndxUmptSExTSEJjWXBmZVNRYzZlbkdTZ3lVM01BZE9BdGYxYWdDS3F6bFQ1RUQ2aUZTSlhGY2lrR0FQY085STNkMFkzX1RETTNOSDc3TnowVnZD?oc=5",
+    "title": "Celanese and Vigor Partner on Robot Joints",
+    "source": "PlasticsToday",
+    "published": "Mon, 17 Aug 2026 15:17:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Celanese and Vigor are partnering to develop advanced joints for industrial robots using specialized materials.",
+    "companies": [
+      "Celanese",
+      "Vigor"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "industrial automation",
+      "materials science"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2xRZjZMZlVvbDJCUGczY3RId0U5WWFlUGRrYTNCWURyX3BPX3RMRUNoaE9nNU5kMWNudHAtVkJIRmRQXzdTN056TlJWVU5mTXRxRnU0bXBBakxXdTVFOGlrbFlrV1Jpc0pKWTE3NE5najh2OW55VThEN3F4NVVhRjdtRXVqd05VQ084OVJPSVduMUQ5UktuanFBX254SUxtUG1fR2lwdmhsY1YtTHRpYTZFMFhqY1lYXzNBTWYwaWUzLTdW0gHKAUFVX3lxTFBZLU9hMDdLenBERndXUUlJdUhHSjJPem02SnBZSTN1c0NhWV9ERXBfU0J2QUpVVmZEN1BYWVRtdzRtczR1Y045YnJSbWxSOWJDWi0ycmFfeGtvdW84YjA1X2RNX0JRWnU5RmZIZXZkUWo2WUdzY2dwSUFaNkFmOEIxR0VMdEJxOE1BUk5ncXZTVUZodUxyT3ZaUnhaeVh3UDY3TzBJVm14STV6ODg3bUp3aFBld2N2MUdwcW41ZnVGbmZRZzgtamtfSGc?oc=5",
+    "title": "Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality",
+    "source": "Fox News",
+    "published": "Sun, 16 Aug 2026 16:06:54 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Foundation CEO Sankaet Pathak pitched humanoid Phantom robots as potential border patrol assistants, positioning the technology for national security applications.",
+    "companies": [
+      "Foundation"
+    ],
+    "people": [
+      "Sankaet Pathak"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVHpVTWpVNWxXSUpzLWZyMFRaNXJ4UVYzQ1cxX1NESjFlUVdmVmFLQ1FZdXk1clZ6WU5BdlBhSGxZWTZ3OTRmYUtMU09oMmstREduRlBHZHNkSlhHR2pfRzF6WldWZ2V6QlVFazJwaWFWWEFwTFhwMXhJdWpDM1k?oc=5",
+    "title": "LG to Release Nvidia-Powered Humanoid in 2027",
+    "source": "AI Business",
+    "published": "Mon, 17 Aug 2026 14:03:47 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG plans to release a humanoid robot powered by Nvidia's technology in 2027.",
+    "companies": [
+      "LG",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVnRMMWlseVVmb0R3d1hVQUJqX29yZW5KdGI2NURicVBXV3JlZ2JHcEJVdHNYVldpQUlEVWQ5MnZwMmRqeFl1RDYxYlpGRlBzSkRMa3IyZHY2N0o0dUlTeUkxNUsxQTNEUlRPbTMtZ1FSSURHdW5RaGRRc3Z0QTBjN1dFR282R1FtYVNiekw0c2k?oc=5",
+    "title": "Humanoids move beyond dancing in real-world firefighting challenge",
+    "source": "Interesting Engineering",
+    "published": "Mon, 17 Aug 2026 09:34:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Twenty-three humanoid robots competed in a Beijing firefighting challenge, with only three finishing as rain and outdoor conditions exposed the gap between lab demos and real-world reliability.",
+    "companies": [
+      "UniX AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "firefighting",
+      "robotics challenge"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMWxVWGN2aVl0Z0ZPX0wzRTdPOTVINkRpMVpmQWswZXllLWtFbHdxSXgwdmhoeUw4YlZIQ3lDNkhkLUtyRnU4OVZqTC1fcXBjRVF4bFlCV2ZZckpXQzhhUkRjMERlQjZBMXlyTHJoNEJ2Qmo2VWpmMzc1Z0J1VUFRUFltY05yYzRlRjladkVFejdIRFFuS3NDR0lNSERiU01jVWtxblhXZU42V3V2a0NPZFAwX1VjcFZ2YU9SOFpKYUs1VGxfemVXNVdNUVZsUFhiN2JZeW9IXzU2STVsTGc?oc=5",
+    "title": "NVIDIA and LG are building a next-generation humanoid robot that will make its debut at CES 2027",
+    "source": "TweakTown",
+    "published": "Mon, 17 Aug 2026 06:32:13 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NVIDIA and LG are collaborating on a humanoid robot scheduled to debut at CES 2027.",
+    "companies": [
+      "NVIDIA",
+      "LG"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UN0p3MVF6RzMweWNsRUFkMWJEaXRpWFM3QWZpWmlYd3RSek9WMnNUWU9oYzRmX1RpZVJPUnBldVZTTlRoZzdVelotQ2RZY05RalhpOGY2cjc?oc=5",
+    "title": "Tech firm releases new humanoid robot, eyeing HK’s promotion role",
+    "source": "chinadailyasia.com",
+    "published": "Mon, 17 Aug 2026 12:32:48 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A tech firm has released a new humanoid robot aimed at taking on promotional roles in Hong Kong.",
+    "companies": [
+      "Tech firm"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWhBejRHdjNveGd6VzJTdzZZV2Eya3Rpa1ZhT2JnT3ZQZGx6bG5uczdwZmlrTUdQMEozbVUzYnBrc2JFaUFxajNpQmdEa0R2QUJOWHhDWU1PLUNJLXlZUV93bnRSdFZiM1U1VGFBRXZsYzNSX1N3dlVOZXc5VE53WTlrS2Y4aWxpUFFFNTlkajJlQy15ZEMtTXktVGR5cndMbnUzRnhUUGJHd2I2bDBlM3d6MVZnWHM3bGpXMWI5XzY5XzBYblNhTy1BUkJjcDRMbWpuMG5R?oc=5",
+    "title": "Chinese humanoid robot maker Unitree to list in Shanghai on August 19",
+    "source": "TradingView",
+    "published": "Mon, 17 Aug 2026 12:16:48 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, a Chinese maker of legged and humanoid robots, is going public on the Shanghai exchange on August 19.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vSVhRTnFDWFlxamlxVnktYU9aRjBKSHI3M1NwcTZMUVZyR3VrQWo0MWNfdTVraDdYWUk3U3RxcmxLQl9jbXFiZDRiSkhwcjNxMVFyUGxSRURXUDFQVzhnOWYta3FNUE43aUVlRkY0QWxIMzhXbG9iMmQ5d3o?oc=5",
+    "title": "Unitree unveils \"Superman\" humanoid robot",
+    "source": "Xinhua",
+    "published": "Mon, 17 Aug 2026 10:58:17 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled Superman, a humanoid robot designed for heavy-duty industrial tasks.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1NS1KQURsYmJRRDF3dF83RW1oVWFvLW1RNWhVNzBlQ1U2TWlKeDVUQ0ZMSjBNWDlvX0VGLXkzY2JUUXdjajFNaTZnUHRYM2tWX0pNT2U5anY4WklIVjlTQV9tOEFQbzU4Tkc0elZzejVPT1hmZEo1U3VB?oc=5",
+    "title": "Humanoid Robot News: Unitree's Record IPO Subscription (Aug 17, 2026)",
+    "source": "blog.robozaps.com",
+    "published": "Sun, 16 Aug 2026 22:55:20 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree's initial public offering subscription sets a record, signaling investor appetite for humanoid robotics amid the company's push into physical AI.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3pMQ3RuMU14TXBPN01iVW5vSVM4dGswSnJ6MzhhS1VyRWFocXQ3cW16RFZhY3dJcXBOdkZ5VW01eVU2dWhfaXUxZTNyVmt0TmV2UFF1VENDX2pCYXFoSEJKRGJSVmRoMVBPcTdPNHFEcEtZR1FNb2o0NXc2XzBnYlotU3lhZlJqeEhCSy1KOHJUS0dvWmtOYmdLQ2d3WlU?oc=5",
+    "title": "Celanese, Vigor partner on plastic joints for humanoid robots (CE:NYSE)",
+    "source": "Seeking Alpha",
+    "published": "Mon, 17 Aug 2026 13:16:41 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Celanese and Vigor have partnered to supply plastic joints for humanoid robots, moving materials engineering into the physical AI supply chain.",
+    "companies": [
+      "Celanese",
+      "Vigor"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "materials"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXFFU3RWaHZBeUhZMHZ4Uk5oTDE5Z3dMdTVCN0hOWVVuVVozNjgyUDdtNFpUaVd6Z24zQkI3VV9BY2E3N2c3OFBFRWlkaGZ5Y25iZ0U1bm1tUlg1eUp5Z1JVdkp5RWVRRTRjMmVCVnJ0UzVmemdVUmluRWhuYVZJVFpOdS1pVDVkSFpsaVBvVEh1TU1aLW1tMElWZnZ2eGRnaHdWVDhja3dSeXMzSk1VdUV3Tl9LZGtMOHAzdV90NDd3bUNtVlpYdjZUdw?oc=5",
+    "title": "5.11-foot humanoid robots could help monitor rugged terrain along US southern border",
+    "source": "Interesting Engineering",
+    "published": "Mon, 17 Aug 2026 12:57:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Foundation Robotics is pitching its Phantom humanoid robot to federal agents as a tool for monitoring the difficult terrain along the southern border.",
+    "companies": [
+      "Foundation Robotics",
+      "Department of Homeland Security"
+    ],
+    "people": [
+      "Sankaet Pathak"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "surveillance"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXM0Wjl6bWRBbmlHWENoTmNJN2RuRFprSmhOTnNpZ2hUNFZkZzVQcE9saThyWTBRazBLVTh5Y1pYWHpJWncxMlE4WGIwb2VfWnpxdXlXcWtEaXNyLTJKTE1lVGxuelRKZ0Z6ZXZJNWladFZQTW9aZ3pkVVpnb2RZdTdhU1l5ZkFmSUxMd2U5TnVobmhidXFhU3NHNDR1bFpDNUxFZk9kQW5SZlREUmtMTA?oc=5",
+    "title": "Unitree’s new humanoid robot just claimed a speed Usain Bolt never hit",
+    "source": "Interesting Engineering",
+    "published": "Mon, 17 Aug 2026 14:18:24 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled a humanoid robot capable of running faster than Usain Bolt's top speed, marking a new benchmark in bipedal locomotion.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "locomotion"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXlSVDAzaHN5My1SLUpqQnpxcmdzUXZyU2Zia3M2eHZTM1VuY0hOOVRuWG9LRkkxTERQZ3ZMOE93WGtEVHc5NXk5azIxYTFuS2NCZ082SlpiVFAxNndySXBZcmJrTEFFTFVNOEx1aGQtazZqTnBwWEZSQXA2UDRuRXFMNFA2Ni1tMjBvcA?oc=5",
+    "title": "Are humanoid robots ready to scrub your kitchen and take out the trash? Not quite.",
+    "source": "cbsnews.com",
+    "published": "Tue, 11 Aug 2026 15:23:08 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Tau Robotics is charging San Francisco residents $30 an hour to send humanoid robots to clean their homes, though human technicians still control most of the work.",
+    "companies": [
+      "Tau Robotics",
+      "IX Technologies"
+    ],
+    "people": [
+      "Alexander Koch"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "domestic robots"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcS1SZFhOVll4WlNLX0xDaG12dE13Zm5PS09MeEtEZjZnZzRsWUNiMnBCVE03RGNoNF94UXVlSGJLZUZfakpCZ0RLdVhyUWJiSWh4ZDVtRU5TQUdxbTMybnRsSDdKZmcyS0NwMHBQd2R0c0E0Wk9MZzVJcjlBc19Pa2c5THlFeXFFT214NnEzbHBxWnJ4RU1BRkY3WXM?oc=5",
+    "title": "Waymo receives green light for expansion across California",
+    "source": "electrive.com",
+    "published": "Mon, 17 Aug 2026 13:33:04 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has been cleared to expand its driverless taxi service across California, a significant step toward operating in the state's most populous regions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVElSTnN0ZnF3aDV0LVhJQktPZGQ5bEFRMGhqZ2ZqZDFpX053aEw2LXhncUFmakxFVHhlV0NfLURmTzR5bE1hb3JGdDBTSjFoNm1GWUtnQkI1TTB3cmZRWm9kRklJc1F6aVp3amZkUUVFWnQwbWE5ejk1SnJEOG9DRFFpSQ?oc=5",
+    "title": "Tesla FSD v14 swerved and try to drive me into a ditch for no reason",
+    "source": "Electrek",
+    "published": "Mon, 17 Aug 2026 14:14:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Tesla driver documents a dangerous malfunction in FSD v14 that nearly forced his car off the road.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "safety"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVFpCb0xoUlFYcnh2V09KVjl0ejVjUlJLRDdjZ3h2UV9mTEhISXlKSTB6V01iNHZ1OURkOW1MUUc1bVotUXBxRVUtUlg0WlQ5d1JxcVBGbXBQY2FBT0g4OU1Vd3RiQWdxTW1fbTNUNFJ6eHNtdjJTMGVoNndvaHpLSnU4cjZBZEhGRENQSXNXenA1YXJIMi1vZV9iMTI2TmQ4SWZKQVFmd1dvYWpUUzJMRllrVzZjamxLVjZMLXFZRE4?oc=5",
+    "title": "Gravis Robotics gets $200M from SoftBank to retrofit excavators with self-driving AI systems",
+    "source": "SiliconANGLE",
+    "published": "Mon, 17 Aug 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "SoftBank has invested $200 million in Gravis Robotics, which is retrofitting excavators with autonomous AI systems to automate heavy equipment on construction sites.",
+    "companies": [
+      "Gravis Robotics",
+      "SoftBank"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous vehicles",
+      "construction automation",
+      "AI",
+      "heavy equipment",
+      "self-driving"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYV9Hd1Z4enFnRGJVOWhON2V3b2JuakcyVGFVVGtYMFRKUUJjSGFpVVVtaUY5WVJ4M3VoOG94Z3VwWWlZaldnTTlmMkc4YmFtU3VzV3hpcmtlRGdRLTZrTEtJRzhpU2ZoVG1PVlJiV3BzMnozNXAwX1hRVEQycXNLY2JpXzRoWTVfWm8ybXNIV3BEanNfRTBEcWhGQ2VrYUF3dHcxYWNncU9ZMzN0aXNwMzlkcm11bmVXT1ZmbzhrTENiUHREdmpBMC0xZGxyc3BIbnA4?oc=5",
+    "title": "The Las Vegas Raiders and Waymo announce first-ever autonomous ride-hailing partnership at Allegiant Stadium",
+    "source": "Raiders.com",
+    "published": "Thu, 13 Aug 2026 15:35:27 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching autonomous ride-hailing service at the Las Vegas Raiders' Allegiant Stadium, marking the company's first sports venue partnership.",
+    "companies": [
+      "Waymo",
+      "Las Vegas Raiders"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "deployment"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMThpMW1tQkU0RzJOV2lwU0ZKcnVCRmkxZVZaVHgySG8ycEQtTUdGUFBHLVFYWkdITG00ZHAwZGpsWldaWTRHbzBYN2RGSUR3MFRrVjNuRDZLaHhKTHRhVFBzeFMwQ08tdmcxTGc4QmRxV1VHTTZSZDNKWVlTVUNvblZjMDVGZWFDU2VwQ1VUX0tkZw?oc=5",
+    "title": "Waymo's Los Angeles Operations: Chinese EVs and Charging Access",
+    "source": "Yahoo Finance",
+    "published": "Sun, 16 Aug 2026 16:30:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo quietly imported 3,200 Chinese-built electric vehicles to Los Angeles for its robotaxi fleet, sidestepping the 127.5% tariffs that would sink the same purchase for an ordinary consumer. Meanwhile, up the coast in Santa Monica, the company patched up a smaller but telling dispute, regaining overnight charging access at municipal lots after losing it earlier. Together the items sketch the unglamorous plumbing behind a robotaxi expansion — sourcing cars and juice — that rarely makes it into the marketing copy.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "electric vehicles",
+      "charging infrastructure"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMThpMW1tQkU0RzJOV2lwU0ZKcnVCRmkxZVZaVHgySG8ycEQtTUdGUFBHLVFYWkdITG00ZHAwZGpsWldaWTRHbzBYN2RGSUR3MFRrVjNuRDZLaHhKTHRhVFBzeFMwQ08tdmcxTGc4QmRxV1VHTTZSZDNKWVlTVUNvblZjMDVGZWFDU2VwQ1VUX0tkZw?oc=5",
+        "title": "Waymo's Los Angeles Operations: Chinese EVs and Charging Access",
+        "source": "Yahoo Finance"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcENVTU1zMkNxQVEyYlBQbVkteTdra2JGZ00wem8wLWxPWWhXaTlmLVNPYk1hdllkcVp6UkhIM1VCUjVuNFFUcUZ6RGZqRXpnWXZJeUNJWkttZlRxNGY0MGF1dWJvSlJsc1BXWnR5T2J6T1RHSFpvRkx5MWtJU2FhalVYaEJkNXJLLTVYZGJsRXRMSDBEZzZ6Um5CV0E1YVZrSkVmcHRWZVBNc0xHMDNFeTFRMU5XbkQ4UWE0WEJNX1ZKZU54MnZnZ0wtTFIyWE5lT2RmQ25QQXdVcDkyV2VoRDNmU1pLcEEtRjl5RXFB?oc=5",
+        "title": "Waymo Gets Overnight Access Back at Santa Monica Charging Lots",
+        "source": "westsidecurrent.com"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uS2czUll1bzYzZGZQY2hoTFJfSWo1bUhpWXVjZVhKc3puNDJQLVFScEhacmVrRUJHOFVuY29OV0oyQmdENXZNRXJKaDdndklSMVVhRzNpcVY3aTBUN3ZvajZwbWZlUXpCRlFPV0xKbXp1RC05NWlIUkpR?oc=5",
+    "title": "Self-Driving Trucks Are Already Hitting The Road In California",
+    "source": "InsideEVs",
+    "published": "Mon, 17 Aug 2026 09:57:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Aurora Innovation and Kodiak AI received the first California permits to test autonomous trucks on public roads, lifting a ban on heavy self-driving vehicles.",
+    "companies": [
+      "Aurora Innovation",
+      "Kodiak AI"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "deployment"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFVUekNfUzdtZzJWY0tqdXUzNVE3WTBaamhSZDFnWmR0R2MycmxqMnFEWVZ2cTJJXzBPSXVJelRaR0FBUzJtZWhRZ05OcDBZcDBlWWFGbHozLXFaYlRINl81d3ZYMWs1bU5pODFjUG94YTVYLURkYkpEMHdUR21iNy1pU1lCbFl1ajRMdkJhaUhMMUdxSEpCRmhrZTZwNDFrSnBCYzcwOWRLa3hCekxvRkw5aEdvMDBQOEZMSFJFZ3p5bTVPVVlUV0JNaklQRFJYck9V?oc=5",
+    "title": "Waymo Robotaxis Could Expand to St. Petersburg as Tampa Launch Nears",
+    "source": "NewsRadio WFLA",
+    "published": "Mon, 17 Aug 2026 13:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is preparing to launch robotaxis in Tampa, with expansion plans already underway for nearby St. Petersburg.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2tfcjFfLWU4YThaSjhyOFRfVkpHc3ZuZmQzbGhoWHBjWHU1WE1GNWZfMVQ2ZUtIME9xbTA2d2dLNjFJYmY3dnp0N0c1dXZCUy1FekJMM1E4ZzV6MzRvSmNCdHpaVjZSSzlMQWFUZHIya0JMRjhYTk5KR1RvVFlzd3B0OWRqVlFKVEVNTG55Z1BWOFJNYm0tcVJzVWZ4cXZSUVFBUHZ0YlVLR2gydnFNeEJETHVDMndfTGlpYndzbndVRFdrcjlPVGdubnBsU2RId2hvbHJnTnc?oc=5",
+    "title": "Waymo Gets California Green Light for Robotaxi Expansion Across Bay Area and Los Angeles",
+    "source": "Benzinga",
+    "published": "Mon, 17 Aug 2026 07:52:30 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "California regulators approved Waymo's expansion of driverless robotaxi service across the Bay Area and Los Angeles, clearing the path for the company to operate beyond its current San Francisco footprint.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdlFUMjRRYTN5dGZKX2h6TUFMRUgwT0FMQjBRcTAxQnNjZVN4RjRJbmJkb3hzU2stVndDSHlsQjQ1T2xweTBsamJ4RFBqX2haTnpNQVNxc3BvckJyMVcxNnp3ZXZiT0xIb1Jya2J0SmdfWU5Ua2NTVktVNWtGaUZHRjRCV3g3WkxOQXlXcVBOdVlwclRVRXEzeWdnSmN2dkRQWEZlTmwtZDhaQ3kxdjRXRlg4S1E0YTZaNk5uVlFQelBBQzRkdDZsZWliT1BIemtXMzFaUGpRTlVQajhIRG9v?oc=5",
+    "title": "Waymo Scales Toward 1 Million Weekly Rides After California Approval For Expansion",
+    "source": "Stocktwits",
+    "published": "Mon, 17 Aug 2026 12:49:37 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo won California approval to expand its driverless taxi service, putting the company on track to hit one million weekly rides.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi",
+      "expansion"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcENVTU1zMkNxQVEyYlBQbVkteTdra2JGZ00wem8wLWxPWWhXaTlmLVNPYk1hdllkcVp6UkhIM1VCUjVuNFFUcUZ6RGZqRXpnWXZJeUNJWkttZlRxNGY0MGF1dWJvSlJsc1BXWnR5T2J6T1RHSFpvRkx5MWtJU2FhalVYaEJkNXJLLTVYZGJsRXRMSDBEZzZ6Um5CV0E1YVZrSkVmcHRWZVBNc0xHMDNFeTFRMU5XbkQ4UWE0WEJNX1ZKZU54MnZnZ0wtTFIyWE5lT2RmQ25QQXdVcDkyV2VoRDNmU1pLcEEtRjl5RXFB?oc=5",
+    "title": "Waymo Gets Overnight Access Back at Santa Monica Charging Lots",
+    "source": "westsidecurrent.com",
+    "published": "Mon, 17 Aug 2026 09:30:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo regains permission to charge its autonomous vehicles overnight at Santa Monica facilities after a previous access dispute.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "charging infrastructure"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclNPVTE0M0xWUGpKVlMwT2VXLU9SaVBKbjdDOWRtTjhBelVBYnBwSzUzemlXVHBuQ3IybU1aQWZuZUZBZ2FJZEV4bFFkSGN0c0o0cE1tZ2MteUMxRU91RW03LVFKaE9faTBQaW54TWFtdFJ4WEcxQlcxaDFiSl8taWRwWEJyX1B2X25DakI1SmRFU1ZSdjh1NVBHOTMtckJzX183R181bUtQdDI1VkZSQmc2OWctMVZCcnJkWDNsaHFiMlVLX3JEZVVfX3VXenVia3FZZ1ZaV2RoVWQ2dl9uZGxhcjhZcjlFcUozSQ?oc=5",
+    "title": "Uber Technologies, Inc. - Uber and Zipline Partner to Bring Drone Delivery to Millions of Americans",
+    "source": "Uber Investor Relations",
+    "published": "Mon, 17 Aug 2026 12:30:49 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline announced a partnership to deploy autonomous drone delivery across the U.S., beginning with select markets.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb0JRb0hVZkp0cVpBVkRYZFZ1M2NsMWJldWhHc2NxME4yVGJyU2VGXzRZZDIxOTNaU3FQeG0wX0VoRnI1cGpGQnpjaWpHWmpWYWFUNXJGb04tWkc1TTlGQlZuWU5JbHFtUjdrODltLXlyU2tPYlg5ZUVlU1Bhbm9vMmV3dFRRSGVERTBvSQ?oc=5",
+    "title": "Uber, Zipline partner on US drone delivery for Uber Eats",
+    "source": "whbl.com",
+    "published": "Mon, 17 Aug 2026 13:32:33 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline have partnered to begin drone deliveries for Uber Eats in the United States, marking the first major integration of the air-delivery startup's technology into Uber's food platform.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "food delivery"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWW9faWZoSEdrSWl6Y2lYYmdNOEgtclhFR2hTNXlNdU85Vk9UUWYtczdXMTlGaWNSSFZkYnZ1azFSRTF2d0xnaFZtQmdLel9tSmtTQWxxUXFSZVJJYXZSMUUxVkJ4eTluQmtubldyUkRpbTlWZEMwdHhEZ1kza19kbkdvRXVUeXFWMUpWQ1JGc3plOXh3UGtzb3Q2NGJRYzd1akN4NEhUNkdMYlZDVUFwa1U3Rkg1WlU1VGFDWlZvREdLUQ?oc=5",
+    "title": "Uber is partnering with drone-delivery firm Zipline and targets a million drone deliveries a day",
+    "source": "The Next Web",
+    "published": "Mon, 17 Aug 2026 14:59:17 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber has partnered with Zipline to scale drone deliveries, aiming for a million flights daily.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "autonomous aircraft"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmk2bHdDTTFBTm5qMGNBRTltZUdVRmhxSkQyM2RLemdEaWtaRFRlZzVVR0JPNE5xZFVhd19vMHdkNVpfdkVsaEEzYXFtWVVUQ05hUmR3bG4xTkRfU3I2MDJrc28xX0JYdUZpMmdQaEs0S090REMxM19xU1ljN05DMUZPcmVZS0FGXzNvREpjUXY?oc=5",
+    "title": "Video: 489-mph stealth drone spotted flying with jet-powered combat UAVs under its wings",
+    "source": "Interesting Engineering",
+    "published": "Mon, 17 Aug 2026 13:37:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Turkish Aerospace Industries' ANKA III stealth drone demonstrated carrying two smaller jet-powered UAVs beneath its wings, enabling airborne deployment of autonomous systems for electronic warfare and strike missions.",
+    "companies": [
+      "Turkish Aerospace Industries"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "stealth",
+      "combat UAV",
+      "jet-powered"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2x1dmFqOGJQSnFrZ1QwVEV4TmphWWdlMDhkOVB3LXhCclRBRnR0MWxSb0ZSSzBhLVVTTTN0V2c0N0hrVzN3N1RWNGM1Nzg3eEIzeGltWTVuSktLN2FNMU01OG5xTGp4cUFKQ1NyQ1AyMEtQUm80MEd0OHctV3pEM3VpemUtYUlCMjFwYThOVG9KUmdRZ3JBYUw3RQ?oc=5",
+    "title": "Skydio Scales Drone Swarms Even as Cloud Reliability Cracks Show",
+    "source": "startuphub.ai",
+    "published": "Mon, 17 Aug 2026 14:08:15 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Skydio pushed its multi-drone detect-and-rescue technology further, adding coordinated swarm operations meant to let police and first responders manage fleets of drones at once. But the ambition collided with reality this week when a cloud service outage exposed just how much of that autonomy depends on infrastructure Skydio doesn't fully control, raising questions about resilience as the company races to scale.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "multi-drone operations",
+      "DFR",
+      "swarm",
+      "drones",
+      "autonomy",
+      "software reliability",
+      "cloud infrastructure"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2x1dmFqOGJQSnFrZ1QwVEV4TmphWWdlMDhkOVB3LXhCclRBRnR0MWxSb0ZSSzBhLVVTTTN0V2c0N0hrVzN3N1RWNGM1Nzg3eEIzeGltWTVuSktLN2FNMU01OG5xTGp4cUFKQ1NyQ1AyMEtQUm80MEd0OHctV3pEM3VpemUtYUlCMjFwYThOVG9KUmdRZ3JBYUw3RQ?oc=5",
+        "title": "Skydio Scales Drone Swarms Even as Cloud Reliability Cracks Show",
+        "source": "startuphub.ai"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0pzU2VCUjBQZDZtbHJsYzl6MV9jV0pVbHB3RFdMMFVxX1RSVTV4eExXWGRJQzZjRWh4bWxaeXNQeUZxWHkwSHNpT2M5V2RkNVBrQnlWZmdBZFExWTFBZDJtVzhIejBSbWRLQjJhRzhQWFlRcXhtRzZUN2lKT2FabHFTNVRNMDYxazVMSVZ1dGctdENoUHNlbUwwdzRqNDRTM1ZXOTJpYUEwM090Unc?oc=5",
+        "title": "Skydio Cloud Incident Highlights Autonomy Software Reliability",
+        "source": "startuphub.ai"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamNsRTlHYmN5RG94U2o2dnNULVdMRGdLamFDR0EtaXNpTDEtbHRldkdISWV4eHpCcU0zYzJza0lsTU1aa2YzYXdOWnZXbElUamhybDBBWUJSclp1cUFPeExoM2NrdVZ5X25RUFJvcF9qN1I0bWVWZ1NZcGJpZGxiU3NZOEUzR2VEb3JsYzF4SkdicTBHbWc?oc=5",
+    "title": "Uber, Zipline Partner To Launch Drone Delivery For Uber Eats Across US",
+    "source": "Arise News",
+    "published": "Mon, 17 Aug 2026 15:07:44 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline are launching drone delivery for Uber Eats across the United States, marking a major expansion of autonomous food logistics.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "logistics",
+      "food delivery"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wMWNyWVM4TERxalhCd212dkgtWHc3a3lsRUFaZ2ZQTGNFWnpraUpUYlhBeVpIMUxnaW5zZk9jMnlOSW00WEZFQ1NuUlZ1OU1PMVA2Z0tvS29DUm0xR1JweXlZbVpHRThqdC1YTnFvNGlTTmRfR3c?oc=5",
+    "title": "Uber Backs Zipline in Push to Make Drone Delivery a Daily Reality",
+    "source": "finance.biggo.com",
+    "published": "Mon, 17 Aug 2026 13:35:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Uber backs Zipline with fresh capital to expand commercial drone delivery beyond its current foothold in Africa and Asia.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "autonomous delivery"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGIzWWw2MVJEdzZzOU5QbnN6ZWVNbUdxZ2pKQUxqM1RWLU55eDN0RmRUZ3d5VjNXMG94LVAtVDA5anRXSl82Q1lyczdlWXpoSlZpdU01d0dteWhtdjA1SDBjWUgzM0xnRnNsRTZiMGFUMEQ3RHM2N3hYRm1scVdGb2dPNk9ubGM4Ti000gGQAUFVX3lxTE1kUWQ5akliQ2NmN3h4Um1XTUNabW93SE5uN21RUkhNeWxRWE5WaTQzSXlzcnkwLVBxNldWTWZwU1pqU016b0FxeDQ1UnA3WWpQWEVRVVFaRVZaOUNEOEY4a2x1RmlpNzdpUkpzYkFkRlMxUFV0bTZOaVZXTHg1X3NETmRiN2ZsVWZQY2t1bnFNaQ?oc=5",
+    "title": "The British have unveiled an autonomous interceptor drone that is being tested in Ukraine",
+    "source": "Оборонка",
+    "published": "Mon, 17 Aug 2026 06:44:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Britain has deployed an autonomous interceptor drone in Ukraine, marking the first operational test of a new class of AI-guided aerial weapon.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "military drone",
+      "Ukraine",
+      "interceptor"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0pzU2VCUjBQZDZtbHJsYzl6MV9jV0pVbHB3RFdMMFVxX1RSVTV4eExXWGRJQzZjRWh4bWxaeXNQeUZxWHkwSHNpT2M5V2RkNVBrQnlWZmdBZFExWTFBZDJtVzhIejBSbWRLQjJhRzhQWFlRcXhtRzZUN2lKT2FabHFTNVRNMDYxazVMSVZ1dGctdENoUHNlbUwwdzRqNDRTM1ZXOTJpYUEwM090Unc?oc=5",
+    "title": "Skydio Cloud Incident Highlights Autonomy Software Reliability",
+    "source": "startuphub.ai",
+    "published": "Mon, 17 Aug 2026 13:46:31 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Skydio experienced a cloud service incident that exposed gaps in its autonomous drone software's reliability.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomy",
+      "software reliability",
+      "cloud infrastructure"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa1lRVFdoSTNLTWlGUG9sempVbVlkbmpoaS1vMmVWWFFGZ0FZODg4UnZrSEJLanRkNDlGZnI4SGVOV29xTmlOWGpnTjl1VHVSUHpVaDFCRmF0dTdScnJ0eFFqSk8zR29FbFNIZ0FUcUR0T29WWk91LThfM294MmZsUXptdFRhRlJyOXJzdTY4YmlmWlduV2VlSDZuVVZjbmd1ZS1WT0hDczVsbXk3MmlueFZBTmlDNThBOFplYk5VWXlTVFZnVUcwOC0wcEo3cEdqX0NvUXNWTjRXUEt1aHJGMTJxNl9uRW94MDQ2cGJ2bzg?oc=5",
+    "title": "Lockheed Martin unveils layered counter-drone architecture combining JAGM missiles, AI command systems and MORFIUS microwave weapon",
+    "source": "Defence Industry Europe",
+    "published": "Sun, 16 Aug 2026 21:34:47 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Lockheed Martin rolled out an integrated counter-drone system layering JAGM missiles, AI command software, and MORFIUS microwave weapons to defeat swarms and fast-moving targets.",
+    "companies": [
+      "Lockheed Martin"
+    ],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "military drone",
+      "AI",
+      "weapons system",
+      "microwave"
+    ],
+    "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": []
   }
