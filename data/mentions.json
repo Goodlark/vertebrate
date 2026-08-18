@@ -22712,7 +22712,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22737,7 +22737,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22799,7 +22799,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -22924,7 +22924,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -23011,7 +23011,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23039,7 +23039,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -23076,7 +23076,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23227,7 +23227,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -23493,7 +23493,7 @@
     "first_seen": "2026-08-11T15:57:13",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24027,7 +24027,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24125,7 +24125,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24682,7 +24682,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -25271,7 +25271,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -25905,7 +25905,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -26593,7 +26593,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": "Waymo's Phoenix-area sprawl keeps growing, but the deliberate skip of West Valley shows the company still expands street by street, not city by city. As Uber leans on Pony.ai for scale, Waymo's slower, wholly-owned rollout is the strategic counterpoint to watch.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -26644,7 +26644,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -26704,7 +26704,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27384,7 +27384,7 @@
     "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -27850,7 +27850,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -28064,7 +28064,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28137,7 +28137,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -28376,7 +28376,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -28400,6 +28400,1195 @@
       "microwave"
     ],
     "first_seen": "2026-08-17T15:20:40",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMURhQ1ZiVnFudEdPTmtkWV80WXJoXzBIVWdPUXBJOWxQcUFCSnY2SXdTSmUtWUwtTGh0a0hGU3FBYkgydG9CUXFMTndWYWV5NkFKVzJCR1JROU5la0d5XzF0ZXdPR1FEY1V2VkJ0d0U3bHJxWkxDZ3A4RnpydW0teTdGZmVTNkJROVdSS3ktcDR6bk9kTXl0cnZwd2Z0Zlhqb1VIRdIBqgFBVV95cUxQN3c1ZTN3YW95b3FfOWV6RTh3VzFSNlJsSzJQZE1IOFZoTXVnZG9vSXI1c0poMFVrdi1QUHhhb1R4UkQ0MmdKMnBPWHJCRWZ6LVRCN2pINWVtUXpSMFlIVi1hUDdieVl5MzN0dU5hRlBPQm9qcUhJMTN3c0ROSURKaFBkTUlCcThidmpGLUdWZWJXN2Z6OERLQVl6aUNWWTBqMzI2cHNDVzkzQQ?oc=5",
+    "title": "Chinese company unveils new ‘Superman’ humanoid robot",
+    "source": "Al Jazeera",
+    "published": "Tue, 18 Aug 2026 08:18:47 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese company has unveiled a humanoid robot called Superman, adding to the global race to commercialize physical AI.",
+    "companies": [
+      "Chinese company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zZVJGVUFoSDcySWg5a01lc3otc2t5elFfaVNXYkUwNVZuV0xXcFJVazQ2eDlpSFozSmtEdktkMXdlSTgwaHZfN1pSd3JnbnRZcmltUFVDQk83cTJJXzEzNUVEcmdVUk5HVmJoazE5UQ?oc=5",
+    "title": "World’s top humanoid maker and its dancing robots waltz towards record IPO listing in China",
+    "source": "CNN",
+    "published": "Tue, 18 Aug 2026 06:44:37 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China's leading humanoid robotics maker is preparing a record IPO listing after gaining attention for its dance-capable robots.",
+    "companies": [
+      "Chinese humanoid robotics maker"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO",
+      "robotics",
+      "China"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
+    "title": "Beyond marathons and backflips, China's robots face a commercial test",
+    "source": "Reuters",
+    "published": "Tue, 18 Aug 2026 13:16:11 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese robotics companies are shifting from viral stunt demonstrations toward real commercial deployments and revenue generation.",
+    "companies": [
+      "Chinese robotics companies"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "commercial robotics",
+      "humanoid robots",
+      "China robotics"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelhGajB6Ry1rQTgxNFVrcnU2Y0llV0xuX2JqQmE1RlVVRm5TX1kyekxXemFSUElmODBwVGYyVU14SzRuODZDWmNtSHg2N1ZUOU9mM2N4dVdjb2ZFOWJCWHVZWGN2SDNmejR4Y3FDdXlLdEQxSGRzT043Q3ptaTZ1RHNoV3dvS09NUktzQk5UWXdwOFRxRTFqcnZQcjFCc0RQMDRyenBORVg3MGVJNzB5bQ?oc=5",
+    "title": "RoboScience Launches REX G1 Wheeled Humanoid Robot",
+    "source": "Gasgoo",
+    "published": "Tue, 18 Aug 2026 14:18:18 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "RoboScience unveiled REX G1, a wheeled humanoid robot designed to move and manipulate objects in industrial settings.",
+    "companies": [
+      "RoboScience"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "wheeled robot",
+      "industrial automation"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTV9FTm5Lb2ZqN3ZhWjR6ZGFLbUd6ekU2WVZXUWU3alZWR25pM0dVcS0xT0hnUWZrS0hyV3p6aWN2b2RyaGlpc1NSUmhSd2VqeFA3WkwtN05rdTJOSjI5ekp5Sk91SlZJSzNadW03ck5KM2kxSDB4ZUN4U2lyZ0xSVlZFYjczU3BjeG8xSW9KWTBmX1oyZi1LNw?oc=5",
+    "title": "Unitree unveils a robot it says can run faster than Usain Bolt ahead of its IPO",
+    "source": "Business Insider",
+    "published": "Tue, 18 Aug 2026 11:38:59 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled a quadruped robot capable of speeds exceeding Usain Bolt's top velocity, amplifying its profile as it prepares for an IPO.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "quadruped",
+      "physical AI",
+      "speed"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzNjOUJyekhIcXNFcHY5NVhWYW1vLTVxTGpEaFRpYS1NNGNNZU9Fb1RKZjZ1bXB1eDVhanEyVlRydy1iUFprVVdOVlJCOWk2OV9JNGJSa21XR1JMWDNGdVBGdWdiNXcyV19lTjZ6Tnc5SkdhcFQxdUZQVVpfQmFXam1zUm5RemxFSjJyS0dMTkFhSDhzaVlpYQ?oc=5",
+    "title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+    "source": "therobotreport.com",
+    "published": "Tue, 18 Aug 2026 13:00:33 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unichem acquires Loomia to build electronic skin for humanoid robots, betting that soft-touch interfaces will matter as much as the metal underneath.",
+    "companies": [
+      "Unichem",
+      "Loomia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "electronic skin",
+      "tactile sensing"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1JfUXNIeW5uTG9JMFBxVnZGNTZ4RV9OaW9veDk3T1dvMm42cThRU3J3Z0Jvc2FzMExBOVlUMjBFZm5xZlMyd3NVaGRxci0xWS1EOXZIci1JRWRfVDNkSUlpNnhiUTN0RzNmREpqbXpYU3R4aF96NVgwT1dzRDVoTDdYelYyMjFnWHJ2S2VmVG10NEJYTzBjdzVLMHFvWEFpY1QxWVZqQW0?oc=5",
+    "title": "Unitree's IPO places a bright spotlight on the humanoid robot sector (ROBO:NYSEARCA)",
+    "source": "Seeking Alpha",
+    "published": "Tue, 18 Aug 2026 11:03:53 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree's IPO debut shines a light on the maturing humanoid-robot market, signaling investor appetite for physical AI.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "public markets"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUEhrZGlsMU9iRmhVNFpDZjk1ejFUamExT2QtVTJxcUJLSzU5QVVoLUtlYzFXbWxPRjVUekpFT3BQUFlTcWJJUVowRWV6dzR3MHpza1hHcTNJOEZNQmE2QTRmTEVtWHc5MTRGck5PTUZlajM2aXdnQUFXXzVNbFN3eTBiT3pZLUJvWFgxdFF5eWdybnpUOTdBTHdWSjVjZEtBbWZOdzk3aVVNQQ?oc=5",
+    "title": "Humanoid Robots Need a Supply Chain in North America",
+    "source": "Bloomberg.com",
+    "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Bloomberg argues that humanoid-robot makers must develop domestic supply chains to compete with China's manufacturing advantages.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "supply chain",
+      "manufacturing",
+      "North America"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWtTMXlmR2lQOFd5MElqVUJBVjU5dWdhUDJZTjVPMktOU2FyRnREanVwM1g1UjdOZjNlX0p2NDVRYTNQVjFOMnlLbW43NzdjNU15U3N3M1ZaTnVPbG1YaEJhNWpTa25HdHV1RU53dHg4S1BxZ181VGZsN3hFN1hhRWxvRWFjMW1fdFRPYk9pcC1BZEdWQXBuUnhnUkdsN0JyVlB1dzUzQmlFVjhXVnBTUnBUcVZmX2RBdFpEdEpMcXE1X05ubXZ0V2xZdktnVzdfY2J2RHlydmJYNEFOS2xvYw?oc=5",
+    "title": "DW News. . Meet \"Superman\" - a new high-speed robot from China's Unitree. The reveal comes just days before the company makes history as the first general-purpose robotics firm to list on mainland China's stock market. #dwnews",
+    "source": "facebook.com",
+    "published": "Tue, 18 Aug 2026 11:44:19 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled Superman, a high-speed robot, days before becoming the first general-purpose robotics firm to list on mainland China's stock market.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "high-speed robot",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzl0alI1eUZjVFJkYkhFbzVxMlBMX1BnYnJQZU1RQjY5MC1XRV9KaU1VNE40MjdxVmtZS21tYW8tZEZPbmt4Z0liOFN0cXpSZF9zU0NMOGFUYWRac0xiVU9aeE9wU2lSYmoxTlByaEo4a04tSWw1UGVIbUlLdXdnVVJlQ19KZEtua2o0?oc=5",
+    "title": "Why humanoid robots may not replace industrial robots in factories",
+    "source": "Interesting Engineering",
+    "published": "Tue, 18 Aug 2026 13:33:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Humanoid robots promise factory flexibility, but industrial robots' proven productivity and established ecosystems will likely keep them dominant for decades.",
+    "companies": [
+      "International Federation of Robotics",
+      "Unitree",
+      "Mercedes-Benz",
+      "Apptronik",
+      "GXO",
+      "Agility Robotics",
+      "Spanx"
+    ],
+    "people": [
+      "Atharva Gosavi"
+    ],
+    "themes": [
+      "humanoid",
+      "industrial robots",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMFJXTzdFa1hORjBjUlpzS2dzcVlBakV3cTgteG1mcjVCcm9peTB1TXBSWXNGRm9kWWNtajMweGI5Z0VrQ3lCMmkycW5iOHd3Q1dzcVRkVnRpOHBnMjNYSElKalRvRllaNmJkbXBRQXA0YVpjZTB6bnIwQy1SNVRzSjlCYXUzRjh2dWR2NVh5WFZFZWRzR2dYOFBjZVlQQW9tYnk3QjBYLWhKbDdnbXVtNDAzekNUMER6enpRR0dwYW9MX2RtTHVNbGc4c3cwQQ?oc=5",
+    "title": "Seeds | DIGIT Robotics Completes 100-Million-Yuan Pre-A Round of Financing",
+    "source": "Gasgoo",
+    "published": "Tue, 18 Aug 2026 13:48:08 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "DIGIT Robotics, a Chinese humanoid roboticist, raised 100 million yuan in a pre-A funding round.",
+    "companies": [
+      "DIGIT Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2hwZVFLaU02OUZMY3RWUGhYcUtkRktFTmFBYTBxcWFPX1BoOUVFSDBkY1JhelVqWXRQMldNajItU0RJczVhX3NRRVhTdkM4ZDBPdHBDR09LYVZUaXR3Vlh2X2NxVVdmczJxb3V3S0Y3TEhDTnVpZGp6Wjd2Q0EzQ1Jua2Z2ZlZa?oc=5",
+    "title": "Unitree Superman Robot Claims Human-Beating Speed",
+    "source": "Technology Org",
+    "published": "Tue, 18 Aug 2026 14:44:33 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled the Superman, a humanoid robot it claims can run faster than elite human sprinters.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "locomotion"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDE1TzFCOTBnVkZzQ0Z6RXFacFVEYTZnYmhJLTh3cGRZblNiVDNnSERSS0kxd0R0Wl9qZGczYUxDMGV0RkRWOGl5UURKUV94UmdIOERZWFN3Um5CNUZqMnhmU2Nid20yc0lEekFDWmZPdC1QOWpOOW43cHQ2OFRXZ2JtSnFvYXl5MUVuS1ZqcU0zV3JlWlpjTFR3?oc=5",
+    "title": "Unitree IPO Could Mark New Era for China’s Robotics Sector",
+    "source": "WSJ",
+    "published": "Tue, 18 Aug 2026 07:09:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, a Chinese humanoid and legged robot maker, is preparing to go public in what could signal growing investor appetite for physical AI hardware in China.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "legged robots",
+      "physical AI",
+      "Chinese robotics",
+      "IPO"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14X3pIU2dmRDQyQW45NmdvUGloSXZHOUljU1MteTFhWXNlVzNFei1VYzBHQzdEaUY4V2E3b2NPVGJHbC1kTDZNVG50RUExa19BUW4wTVdyRmxpY1BuamNuc1NB?oc=5",
+    "title": "NORINCO to debut Fuxi special-purpose humanoid robot, enabling remote human control and on-site robotic operations",
+    "source": "Global Times",
+    "published": "Tue, 18 Aug 2026 13:59:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NORINCO is unveiling Fuxi, a humanoid robot designed for remote operation in specialized industrial tasks.",
+    "companies": [
+      "NORINCO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "teleoperation",
+      "industrial robotics"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORVFQdlRwWlQ1UUZXODBITjc4c0pBSkw2QTBsMUdIekp6VlBTVERLc0M2QjlmbmRON3B5dlBaYTRXY3lYRVNiTHJXRXpsbmhLaG14dFpJSzdYeGsxUGxxRy14a2VaZmVRUzVXOXJqVXpsQUo4VG10VnU3emEtVTRRQXpYc2x6Tnl5akJqbU4zRUU4SlRt?oc=5",
+    "title": "Humanoid robots could get 30% lighter joints with new plastic tech",
+    "source": "Interesting Engineering",
+    "published": "Tue, 18 Aug 2026 12:58:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Celanese and Vigor Precision are partnering to develop lightweight plastic joints that could reduce humanoid robot weight by over 30 percent compared with metal components.",
+    "companies": [
+      "Celanese Corporation",
+      "Vigor Precision"
+    ],
+    "people": [
+      "Todd Elliott",
+      "Hoi-sang Chan"
+    ],
+    "themes": [
+      "humanoid",
+      "materials science",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUlFHd0lwLTJOZ2JDaEYtWFNwZ2haSFpka0NsZUNpa2k1eWhKcG9oWFVmVzNkYi0xMzROVEJMRmVTa04yTnRKX1p0bTNHMnItODdfOVZiOHRaU3pNUTgwVGRoTW11ZDAtVk1md0ZCZnNLSEg3R19ZVTBQSU9ISkdCempoMTVMOWoxZWNlQmNyV21MUnJQcEVIZnNKbVY0TkZDSWxiTHZzN2FmSlJx?oc=5",
+    "title": "Tesla Readies August Launch of Cybercab, Its Robotaxi Without a Steering Wheel",
+    "source": "The Information",
+    "published": "Mon, 17 Aug 2026 19:26:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is preparing an August launch of its Cybercab robotaxi, a steering-wheel-free vehicle designed for autonomous ride-hailing.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZjB5bE5VRE5jNUJfU3lnb3VkTXpuVjFrVnJVWXJhRHZXNjUwMlZldlJ0ajBtZGttWUs4UzhjOWd4dWhpeTN3eW53YU5TRWhOMzRIVDAweVdvWE50cUdtUkNhSU1jdnUzWTZsejFoSDJRbElVSnFCbjB6WmdqV041aXRyZXMtMnNXclNlRDd5cEM2YXNzUnlmckVrdGVwZ3UwaHhfc1BRSmxtR012MUlCMWZveHNneVo5dngtQjJiV1FFcTRXUGJ0TWI4REVpXzdaNkFxQUxB?oc=5",
+    "title": "Amazon's Zoox Is Expanding Its Robotaxi to San Francisco and Las Vegas. Tesla Should Be Worried",
+    "source": "24/7 Wall St.",
+    "published": "Tue, 18 Aug 2026 14:00:12 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Amazon's Zoox is expanding its robotaxi service to San Francisco and Las Vegas, marking a concrete territorial play in the autonomous vehicle race.",
+    "companies": [
+      "Amazon",
+      "Zoox",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXROU2thT3NtUUhpb0RlQVNwWFJqVUx0bWxMNUd2RlV6VEdwaDdYLVR1WTAxVkxVYXVYeHFGRVJvSkV1a1JzMnFhNjJxNWwzSmpSNGpTczJRNVJ2VmZJXzhsUmFka0R1OUpXeFllVHdRTFRnTHBEVVR1VWtwQlBLODdndTM0VUdNWWc?oc=5",
+    "title": "Tesla's Robotaxi Ambitions Meet a Reality Check in Vegas",
+    "source": "electrek.co",
+    "published": "Mon, 17 Aug 2026 17:55:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is gearing up for an August launch of the Cybercab, a robotaxi built without a steering wheel, even as its existing Robotaxi service hits turbulence on the ground. Nevada's gaming regulator approved the car for Las Vegas streets but slashed the company's requested fleet of 5,000 down to just 10 vehicles, a stark signal of how far Elon Musk's rollout ambitions have outpaced regulators' comfort level.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle",
+      "regulation"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXROU2thT3NtUUhpb0RlQVNwWFJqVUx0bWxMNUd2RlV6VEdwaDdYLVR1WTAxVkxVYXVYeHFGRVJvSkV1a1JzMnFhNjJxNWwzSmpSNGpTczJRNVJ2VmZJXzhsUmFka0R1OUpXeFllVHdRTFRnTHBEVVR1VWtwQlBLODdndTM0VUdNWWc?oc=5",
+        "title": "Tesla's Robotaxi Ambitions Meet a Reality Check in Vegas",
+        "source": "electrek.co"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUlFHd0lwLTJOZ2JDaEYtWFNwZ2haSFpka0NsZUNpa2k1eWhKcG9oWFVmVzNkYi0xMzROVEJMRmVTa04yTnRKX1p0bTNHMnItODdfOVZiOHRaU3pNUTgwVGRoTW11ZDAtVk1md0ZCZnNLSEg3R19ZVTBQSU9ISkdCempoMTVMOWoxZWNlQmNyV21MUnJQcEVIZnNKbVY0TkZDSWxiTHZzN2FmSlJx?oc=5",
+        "title": "Tesla Readies August Launch of Cybercab, Its Robotaxi Without a Steering Wheel",
+        "source": "The Information"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHpJM25kNEZpNlI0U084VGRobDN2T0RZeWg2UDB1YTNhc0l1a3lKSlRqaVNwcjd2NEVONDE3NlN4VERJSnZFUF9LU3k4Mk82ZUpyaENkSng0TjFvS1FkTTFDQUZibTRnU1QxcnB4YnhpN19jNWlMNVNyeGg1OS1WcjZkVWRlc2FLVW9QbTlxQTRqMmR6RG1ubk81OVlOSldv?oc=5",
+    "title": "Amazon’s Zoox Is Expanding Its Robotaxi to San Francisco and Las Vegas. Tesla Should Be Worried",
+    "source": "Yahoo Finance",
+    "published": "Tue, 18 Aug 2026 14:00:12 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Amazon's Zoox is expanding its driverless taxi service to San Francisco and Las Vegas, testing the company's commercial robotaxi ambitions beyond its existing markets.",
+    "companies": [
+      "Amazon",
+      "Zoox",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeTVZU2hTSXRfVHFndTJQODJoajFaT1dCNkM1d0V3SjRQOGcwU3dlTk5HUWY1V3JhZXFTUTZkTGxJbmdMdGQxckREb3VkMk4wa2t3RExPbkRlLW8yR05pSldZWXp5cnAwc3BnUld1a3dkMENRc2MteXlTQVJNMnZWcmJYYWhkMDNQQTRBMjJBb09NTkZNS0JwUQ?oc=5",
+    "title": "China’s Pony.ai’s overseas robotaxi pipeline expands to over 4,000 vehicles",
+    "source": "srnnews.com",
+    "published": "Tue, 18 Aug 2026 09:11:58 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai has expanded its overseas robotaxi fleet pipeline to more than 4,000 vehicles, marking a significant step in the Chinese autonomous-driving company's international expansion.",
+    "companies": [
+      "Pony.ai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaUZLRVdHWnB1NFFOenZ4SHRKYmljRV9HWE9OTFMzSlBmaXNlNnFaQVNpclJjRXFCQ3V4LWxuTThwaHROd0NmeU5yc1l1QTQtOEVUNGYyX1lTM0dueHZkVGE0Y3lqbUk5QzR4d3NQZzhkcjdvWlhmMEpGd3BsRFJwd2EwMXhtWUV2a0RCMkFKei1hRUwzOGlndnlDcjBJOVlNQ19fTXJLMTBVLVVMMml4UjA2VHdQUWx5d3dtLVFxc1drc3VSVG14cGJQLXRXa2s?oc=5",
+    "title": "China's Pony.ai plans to deploy more than 4,000 robotaxis abroad",
+    "source": "Reuters",
+    "published": "Tue, 18 Aug 2026 10:54:22 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai, China's largest autonomous-driving company, plans to deploy more than 4,000 robotaxis in international markets.",
+    "companies": [
+      "Pony.ai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzVBNnZrSURBVnpwTXlTc1U0RzExWVZwNnQyYjAzZDhjZ2l4QWpJb2xpcXNJZDRxY2UtOENXeFhnb2lqdmZCbnNvWFhreHZMMVpwVjkxZlZTQWlLa1pfRFB2OHN2TXpySUc4alc0MFI0bVJmOW94Z0UwM093Ym9ld1l3?oc=5",
+    "title": "Stellantis Has A Creepy Idea To Make You Trust Driverless Cars",
+    "source": "CarBuzz",
+    "published": "Tue, 18 Aug 2026 15:23:49 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Stellantis explores design strategies to build consumer trust in autonomous vehicles, though details on the specific approach remain unclear from the headline alone.",
+    "companies": [
+      "Stellantis"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "consumer trust"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW84MlY3VVNtaG1QYjdubXR4VnZaVHJqQW9wd2UyWDUtYUc5OGYyU1N5WklRdEpWQlE3dzhMUlJJMkVoblltdjdmOG9uNHF3RUNnd21hZHNuYTZwQTFNWVh5VlU2eUJSRmk1UmFUQUdNaV8zcGRBdmswRUh3Zm03ODJGMVRxN09ZWlNaWlpfUW8tRTBqcGJNbTlkQXRJVnRlY19Famhxa2s2My13MXc?oc=5",
+    "title": "Pony AI’s Robotaxi Revenue Reaches Record as Sales Jump 69%",
+    "source": "Bloomberg.com",
+    "published": "Tue, 18 Aug 2026 09:47:26 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Pony AI reported record robotaxi revenue with a 69% sales jump, signaling growing commercial traction in autonomous ride-hailing.",
+    "companies": [
+      "Pony AI"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWm94c24xeGcyMlA5MGZnNE8zWmJqX0JaU1YyV3Jqb1Q2VGJwaGJ1Q2NjNG5QZnBweHpGdkRWUjFxUWFqMG1HYWtzNEtkQzdSZVpzUDlqTm5uZk1EZmpXV3BuUHRIaXg0Z3JRZjJHWlVHSWl0d2EzTm00QWhKODVoeDhqTG5DSnBraEpCMG5MZjVFcmpRdEJiWlh3?oc=5",
+    "title": "Pony.ai Expands Overseas Robotaxi Pipeline Beyond 4,000 Vehicles",
+    "source": "Yahoo Finance",
+    "published": "Tue, 18 Aug 2026 10:27:08 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai said its international robotaxi fleet has exceeded 4,000 vehicles, expanding its driverless operations beyond China.",
+    "companies": [
+      "Pony.ai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wdTlQdnV4V3M3TDd4R2FfblNiME1fREx4Tm1BVFMzSHMyb0RCMmxIMkhOdXN6Vng3ZjlqcGRHSDdDNHV5b2JtZ3QteTRiVjBaeFBycFhsanlIZDVGMm5OSVZrWW1LVDFIVlNHbnBiU1k?oc=5",
+    "title": "State OKs Waymo trips to East Bay, wine country",
+    "source": "The San Francisco Standard",
+    "published": "Mon, 17 Aug 2026 17:53:22 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "California regulators approved Waymo to expand its driverless taxi service to the East Bay and wine country, extending the company's footprint beyond San Francisco.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "expansion"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBpNjZDT21jcEF1ZW45ZF9BSnhmbnRuenZfS3cxLTBFUG9xVnFXN3ROZERiaG1fQjRiNmZ6N0RDOHJhS3ZJaXBuYjdLNFQtd1F2cGFLRGNMSWRFQkM0dlFJQndYcWthc2R4QlFTT1hzc3dIWmMxWjJWcV83TmpxYWV1UWJuMF9ETTZDVm5OajB5bnFDU3dMM01LQTFUMTFKakwwZ1hjQ2ZXeDNyTmfSAbMBQVVfeXFMTjZJcmpaNEdockd5dU1HMFlMVWlyNFM4N19uaWJOdUh0eW11cHF0ZjNWeUFidlV3bHFPdHRnTE1xU1BNUTBhSlJweTBYc184ZndSWlJhWUxxZ0hWZm44VzNiWXQ0T0drTXNVdzVlU2V3T3JLWGZHb2p1TnhIcm14UERPRmVPR1UyclhTcndjQUYzRTFzU1psMDVEWjhUekFyRVY3VDhBNGFzb2pEZEhOalBMRlE?oc=5",
+    "title": "Waymo announces huge expansion across Bay Area, but when will it start?",
+    "source": "The Mercury News",
+    "published": "Mon, 17 Aug 2026 23:50:08 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo announced a significant expansion of its driverless service across the Bay Area, though the company provided no timeline for rollout.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "expansion"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXpNRjRKSWFKWWZBMWdldFpNdzNEdU11ZWhoSERPaFdXalBxLXo3Y3VPOEtuMTl0R3B5aF9tSG90Nlc5QkxpTnZIWlBaZ0dvWG1sUUsyU25ETVNPaE5iaFVGYkVJVWJxY3lhY3BXc3h1VXI0OW8yZ2t0OUxMU2tfVmkzQjV6WllXWlNzVGxR?oc=5",
+    "title": "Waymo expanding to Sacramento, San Diego",
+    "source": "KALW",
+    "published": "Mon, 17 Aug 2026 23:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its robotaxi service to Sacramento and San Diego, extending its West Coast footprint beyond San Francisco and Los Angeles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkprMTBlalluck9xU3FnTXdCekxKbmJRUFlyYk1ySUhpU21GNzV6OGJMVEhHOEx1OWxBX3lNdGFlbS14ZjhGTHZUZVI0OEJFZ252eWhrYk9UdVJMUmdtNWZLM0xSS0pRenRUZGk5MUc4SGNJd1RSb1lDU2hlMS0tNkhVaTBwc0V2RnlZMVBYMGY1aUU3ZVpQZjcxSER5ay1IMlE?oc=5",
+    "title": "Waymo Gets Approval To Bring Its Full Driverless Ride Service To Sacramento",
+    "source": "Folsom Times",
+    "published": "Tue, 18 Aug 2026 01:06:42 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo won regulatory approval to expand its fully driverless ride-hailing service into Sacramento, extending its footprint beyond Phoenix and San Francisco.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51am84dU1oTjJWTTNWRGNHaUxfdzJSVVFTd1FMTXNmek5pYTdCVTFIV21yOThUTjl3dnRLRTM1SWIyVE1QOXdiOUZTOWxGdTBkNnNsanI1UVBTTkRocVNnOGdVcXJqQnZVcTBwQWkweUhoeU5xY3lybzVRLW5TWkU?oc=5",
+    "title": "Uber and Zipline partner on drone delivery",
+    "source": "Just Auto",
+    "published": "Tue, 18 Aug 2026 10:34:34 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline are partnering to expand drone delivery services, combining the ride-hailing giant's logistics network with Zipline's autonomous aircraft expertise.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous aircraft",
+      "logistics partnership"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSlRRX20ycUk3eXQ5d0JpZjdkYTgtZ2lBMTE2Rm5ZY0ZFdnBUYWtiUllSaWVvMUJZN3BjUUlCRHNIZTY0MU1pUkdOUXFHMkE5RENjc0NoVGtXTERJTTZCQkQ3MDhhT1FPV3NaVlFYbUtzRk02WTF0RFRET0lPR2dPajFnR0g0NkdiQ2dDSDhvVExzLUs5MjBramFHZTBycmc1bE8tVVVxdw?oc=5",
+    "title": "Uber to roll out autonomous drone deliveries to US Uber Eats customers",
+    "source": "Retail Systems",
+    "published": "Tue, 18 Aug 2026 14:04:07 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber is launching autonomous drone deliveries to Uber Eats customers across the United States.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous delivery",
+      "last-mile logistics"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2VtSkpqdXRmT0o2eGcySHFKV3k4WjNLYmh2OUN5bk85aC13VUtyQkJWSTNtMm1UZ1ZIMDEyQWZjNWtPdXEtM3daYWNPZzlOS19JbmxVZ2ZORXdHWW1IVjNZTHBxSGNZNDhYaUhobjQ3ZmtnT0IzU2EtQ0I4Vi1kTmRla1diRmVSbmc?oc=5",
+    "title": "Uber Eats partners with Zipline for US drone deliveries",
+    "source": "Retail Insight Network",
+    "published": "Tue, 18 Aug 2026 08:30:17 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber Eats and Zipline are launching drone deliveries across the United States, bringing autonomous aircraft to food orders in major markets.",
+    "companies": [
+      "Uber Eats",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "food delivery",
+      "autonomous aircraft"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOaDNqbHBqUXd6SENuT3k5WWlQQlo3WDc5aVhzZnQ3U1VCX3EwS1RtYTI5elZCQy1mWUUtMDNJTjFZeEoyUFQzeEZmMXl3QWx6QzdmNVZic2h1WDBtVjcwT05MRjlGa21meGxYZmpIMmdwUWJiUWIwbVdtRXZEOXVvQlFiTXpTWHNLZEU5SzNydjV5YWFBclc5c1dxXzAtNk1HdndjajhZeWdYZDBaZ3ZqcGN1ZktnNzB4RjdRX1NGMWdXSzhETUZCMWQ2TUUxZzZPR0hFMXNSbkI3OEgtbV9FalJINVg3NDNiWDFWYjJxUXFrX0NkRjgxYlVUd0U2QU5veDgyVGNvLXpEb0FWLWY1VEVGdXN4Y2F6SVloU1Y3aThrZHhaNnc?oc=5",
+    "title": "DefendEye Secures Major Investment Led by NovaCapital to Scale Production of the World's First Autonomous AI Drone Designed for First Responders",
+    "source": "PR Newswire",
+    "published": "Tue, 18 Aug 2026 12:43:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "DefendEye raised a major round from NovaCapital to mass-produce its autonomous drone for first responders.",
+    "companies": [
+      "DefendEye",
+      "NovaCapital"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "first responders",
+      "AI",
+      "drone"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSEUyQ0Q1enVMNFJrSWR3OTVLT1ctWnlOVDYzR3k3ZjVZTzJBeEpRSm8zUDlDRGxBem41T2hjcUgtcmhMT0c0SnB1X0M1QVlmMUVNbmdrMUtxbE9mTUc4UzU5QjRUcWJtaXJJTUREU1FBN3RRUEHSAXtBVV95cUxNODlHakMtcjcwT25LMHFFSDN2bUZZczliTzhFeHZGcHI4aWhELXZWRXVDeUF0dGRYc0kyMk9aR1BMQUxSSUM5d3NVZGxBb3kwNjZJN1hpdmdTZ0lHUHNLWktWTG8yYzlYQk1TbVh1d3Bfb2FKVUdvM3FBNms?oc=5",
+    "title": "India Puts Jet Power Behind Its New Loitering Munition",
+    "source": "The Defense Post",
+    "published": "Tue, 18 Aug 2026 12:46:14 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Kawa UAV's Divyastra Mk3 loitering munition, powered by DG Propulsion's jet engine, completed its maiden flight in India's push for indigenous strike capability.",
+    "companies": [
+      "Kawa UAV",
+      "DG Propulsion"
+    ],
+    "people": [],
+    "themes": [
+      "loitering munition",
+      "weaponized drone",
+      "autonomous",
+      "military"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTm4tUlZWUUhHT1lUbVlMNWNkaFZNbTFsc1NKdkotdlZuWnFybWNMTUR1ZXEybms2QkJaNFhwSER6RGFaY1B1OXItbnNUdEZWZ0U3MjVHVU9URXpSdTlOTFRBc1ZqVUZQQXcwSXJodzBJMDE4QS0zUmI3NWxxSUM5b0dBSmtZNDhWbjIzX19ha3p5YmhkOWtWX1E2dGlzajN1REJRUUNFdC0?oc=5",
+    "title": "DJI Neo Is One of the Cheapest Ways to Get Into Autonomous Drones",
+    "source": "imaging-resource.com",
+    "published": "Mon, 17 Aug 2026 18:23:45 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "DJI's Neo drone positions itself as an affordable entry point for consumers interested in autonomous flight.",
+    "companies": [
+      "DJI"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "consumer"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSU1NdE1oYzlUUWJRVXFfOFdFVUNUY0ZJNjU1TW9aT3oyZ2lzTnkxU3o2MUYxMU5ONVNqV2E0d1NiWld5d1cyaVBhTEUzQWRoaEJ1T0d5NmJlcWdLQVlSdnVVZGFwcFR4Q3F3X1dDb3c4LTlaX3k5d0EtZ2ZtZ2UzTHllWGcza3pGMW9jM01GcW5qd28xdkNHZDFQZDZxRzRh?oc=5",
+    "title": "Uber Teams With Zipline to Expand Drone Delivery Service",
+    "source": "PYMNTS.com",
+    "published": "Mon, 17 Aug 2026 16:31:34 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline are partnering to expand autonomous drone delivery, combining Uber's logistics network with Zipline's long-range aircraft.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous aircraft",
+      "logistics partnership"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0tRY0o2ZUZYcFhnM19MSW03b255LUtNR25VcGxER0RYUElPS29GVXdOcWdHeFpsNlpjUkVJdDRZaEZObzhnaDh6WktqaUNLenF6dEI4X2xxRWpPZFhEVFRjVld6MC1VVWZ4dDN5d2ZiV2I3S1FlQkFETzQ1M29pLW13alM?oc=5",
+    "title": "Uber Partners With Zipline for Uber Eats Drone Deliveries",
+    "source": "Progressive Grocer",
+    "published": "Mon, 17 Aug 2026 18:45:14 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline are joining forces to deliver Uber Eats orders by drone, beginning commercial operations in a market still learning to trust flying packages.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "e-commerce"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CS2thWEpNLUpKdWVDUTYxM0Rud3kxaFRKZGhrZWVocmlhU1hKb1owYTBaSGZyMmw4TDQ2UEFNYVdlTFhOZDdzY0poZ2pCTWt6WGdZT1ExdUVoTVF1SU5tSmVIMVduVnloY0lv?oc=5",
+    "title": "Uber is partnering with Zipline to bring drone delivery to Uber Eats customers",
+    "source": "qz.com",
+    "published": "Mon, 17 Aug 2026 16:57:39 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber partners with Zipline to begin delivering Uber Eats orders by drone, marking the ride-hailing giant's entry into autonomous delivery logistics.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "autonomous delivery"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWVvdzJUSE1PeW8ycnpBWkFnRFRlem0ybGo5a2sySVJFNnFuQUhjbVRKYkR5VTZ0cFltcGFWT1JvLXBZX2M0eER3Xy15QzY0aVBkMFdCRVhlSHdDbHVHLUwtcTdGTUVXWDdNRTZldGdFbUI2emJ1aFpTUHNKeHg1Nkd4d2g3d0tBT2s5aXNERDEwTjNjTXUzME12em1NUVpSMk82SGFmNUNCME5EYUHSAbYBQVVfeXFMTzNSR0hpWk9OamNHNDY4a0x5aF85ZXZTS2lQWEJzQUhxeUNXbkZmSDhjRlZRMlY0NnlnU2pkNHZhNm16VWRsX1pxenBiVTVjTVdpN0FZU3IxbkJiTHFyVkR0M0NDZUNaMlBOVFM0NXI2QXhwYWhBcThXd09SS0x4N2RGb25GMWMtQkVsOWlDU3BqSG9SMnU5NEtWODVTdFZhU05EZmdoS1dTRFU5bi1pSVMwWEN6NWc?oc=5",
+    "title": "Uber Eats and Zipline team up for drone delivery across U.S.",
+    "source": "NBC Bay Area",
+    "published": "Mon, 17 Aug 2026 17:37:41 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber Eats and Zipline are launching drone delivery across the U.S., marking the first major expansion of autonomous aerial food service beyond initial test markets.",
+    "companies": [
+      "Uber Eats",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "last-mile logistics"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDNnaUU2ZTVOc2VocjhVUEpVZm1BTmFXeEZEbG5GWnVCVUdEU0hGd0c4RFVWaE9nNHJlblE4dzNsN21uT2Q5UFlXZXpaOFAzMWdSNHhxd2d5bEtuS1kwdjJ3dXBlUnljOGNncDJZVXcwZWVQMzF1OWZ6SHhxYk13OGhPaEtMNzJ4Rm1WMUxmd2E1cGxYc1FpbmVTNkNPVFU2TXZjZ21XWmh3TGIzU1hCeXFrQ3NOZw?oc=5",
+    "title": "Uber, Zipline Target 1M Daily Drone Deliveries by 2029",
+    "source": "wwd.com",
+    "published": "Mon, 17 Aug 2026 21:27:12 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline announced a joint target to reach one million daily drone deliveries by 2029, marking an ambitious expansion of autonomous delivery infrastructure.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PSmhxNjhZN2kzOWd3eWphbzR2bnVQcG5XZ2ZvVXBSSTRta29XUUlXenhSdTEzQ05TMjI4TzctVG1WOTRiMkd3WFRFNFd1LUNXSjRaZWFlM1lxSE5xUTM2SEZCWW1VT3JOSTN3N01FMVYwdw?oc=5",
+    "title": "Uber Eats adds Zipline drones for ultra-fast deliveries",
+    "source": "DroneDJ",
+    "published": "Mon, 17 Aug 2026 17:13:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber Eats has partnered with Zipline to deploy autonomous drones for food delivery, expanding the ride-hailing company's logistics footprint beyond ground vehicles.",
+    "companies": [
+      "Uber Eats",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "logistics",
+      "last-mile"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDdTbXRlQ3YwaGdYT2pZYVAtdVU0SVVJTmMwbWprZDVtZXhTS1hpMGlVNWdXWk96TlpmbFpZYUlCcy1tcFVkMFJOb0hJM0xWRk5SRWp3dGcwSWEtOG1tVDMyVVN0RU1rdzBwTXJDOGlrWjQ5QTlxUE83REpSb0R5d1A5UkJ2UktjdEc5OXNhODktUlhrWUJ6MHpRR3ZKMUhNMnhR?oc=5",
+    "title": "Uber Rises on Zipline Drone Delivery Deal",
+    "source": "TradingView",
+    "published": "Mon, 17 Aug 2026 20:17:25 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber has struck a deal with Zipline to integrate drone delivery into its platform, betting that autonomous flight can speed up last-mile logistics.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "autonomous flight",
+      "last-mile"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYk0xYXFudC1DNmZZU2RWZTJWNmFEaWN1dHNVcFJTcVBNMUU1QWJDdERsUlVMX3hmRm04X0EzRVRoWXNEQUE5NEpRX1puaEtidXYyUWtZZzVkQVhtM1VReDNlcUNqdHFEUW1ncXBoT3htV1JxM19YbHI4cHFkMzJycGQycWVMdkcyVnA2RTNIejlmVnc?oc=5",
+    "title": "Uber seeks 1 million daily drone deliveries via Zipline partnership",
+    "source": "Chain Store Age",
+    "published": "Mon, 17 Aug 2026 14:51:21 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline are partnering to scale drone deliveries to one million daily shipments, expanding the logistics startup's autonomous flight beyond humanitarian missions.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous logistics",
+      "partnership"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWxhOWJERGVJblh5OTYxVk90dnYwcU5wVEdFUkQ1dXVZNVlDRGtFYTluRW5ZUk5VYndxMjFDWVdJN0VmV2dlZWd0WmRsYlEzRjNTcEt3bE55VXB0WjJKdDFtczItRHpVWUQ2dmxBenVPQ0FJMDBoNlAtY2lRUVpJMkdsYXpmN0dwdmNxX2VMdDRmZi16TnhhUlZHWko0ZTBmOENNYUJDc3lkdDhMUjdwcGZiUWNpX2M?oc=5",
+    "title": "Uber and Zipline Target a Million Drone Deliveries a Day",
+    "source": "TradingView",
+    "published": "Mon, 17 Aug 2026 20:08:43 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline are jointly targeting one million drone deliveries per day, marking a major scale-up in autonomous last-mile logistics.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous logistics",
+      "last-mile",
+      "scaling"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlRoMk0zczYxVEdvRV9rc2tTQTZ2Mmw1THl6WjZPVW1WS3VNTVBNczI3MkxZTzNpQTBRLVhXZ3FsbWpRcG9MYkdKSnl0WGhZbUJBVTBDZ3BNX0tEdlVTbTZwWGVXRnY4ejAzOG1XLUJZZm9YMVVuNk5ST2FvcnVzVE96d042T0djZDJ2Wm5hOXRFdF9x?oc=5",
+    "title": "Uber invests in Zipline to scale drone delivery on Uber Eats",
+    "source": "Dealroom",
+    "published": "Mon, 17 Aug 2026 14:12:39 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Uber invests in Zipline to accelerate drone delivery integration into Uber Eats, betting autonomous flight can narrow the last-mile problem.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "last-mile logistics"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LVnJGVFpZOFptZXFHeXduR1JKNEVSenlhS09lUjJQRFgxX01PSVBQU3lNbHo1QktPcE4tT0swZVJ3MlV2a1dqakhOX0JNdnZEanU0b2J0QnBYVkdtY2M0YlU4eDNmYmczR3FGLWpsc2RQM3ppTUNOdkNuWjdpUQ?oc=5",
+    "title": "Uber and Zipline scale drone deliveries",
+    "source": "Logistics Manager",
+    "published": "Tue, 18 Aug 2026 08:00:40 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline are expanding their drone-delivery operations, moving beyond pilot programs toward commercial scale.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "scaling"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVpQWjFWN29YQUljZDd5ZGItNFpZRXdUX1huUWpCSXpVdW9uNk5ta0N0RW9OQVNtT01CSEt6Wnk1OEZWZ0tSN3J0YjVmbE13eTVDNlhkM1BYRDBnN0ZYbHg3V1RYOU5VMFpiNUZ3Smx0NTBEQU9Ca0MyR280RVoyWldZVlBOZlFHV2NLNVZSeUExUDIta2wtXzc4MA?oc=5",
+    "title": "Uber, Zipline partner on US drone delivery for Uber Eats",
+    "source": "93.3 The Drive",
+    "published": "Mon, 17 Aug 2026 13:36:01 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline are launching drone deliveries for Uber Eats in the U.S., partnering to fly meals to customers instead of relying on ground couriers.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "last-mile delivery",
+      "food delivery"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://nuro.ai/blog/nuro-expands-to-germany-establishing-a-european-base-for-its-universal-autonomy-platform-2",
+    "title": "Nuro Expands to Germany, Establishing a European Base for Its Universal Autonomy Platform",
+    "source": "Nuro",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Nuro opens its first European base in Germany to test and operate its Level 4 autonomous driving platform abroad.",
+    "companies": [
+      "Nuro"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "Level 4",
+      "international expansion",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
     "duplicate": false,
