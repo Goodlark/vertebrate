@@ -23946,7 +23946,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24003,7 +24003,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24222,7 +24222,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24382,7 +24382,7 @@
     "first_seen": "2026-08-12T15:55:45",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24682,7 +24682,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24732,7 +24732,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -24933,7 +24933,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -25359,7 +25359,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -26494,7 +26494,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27286,7 +27286,7 @@
     "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -27356,7 +27356,7 @@
     "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -27458,7 +27458,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -28004,7 +28004,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -28064,7 +28064,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -28137,7 +28137,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -28655,7 +28655,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -28807,7 +28807,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -28895,7 +28895,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -28991,7 +28991,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -29589,6 +29589,1275 @@
       "robotaxi"
     ],
     "first_seen": "2026-08-18T15:26:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDlFR3ZmOFh2SnJLU2xTMjRvTGFIR0phcjdza0FlTUJSaHdHdktFTHJ5aFlCWmxSOGhLRUxmUHZhaFRNYjFISkVBM3YyYmt2Z3g1SEJNdjVYU3h3TVZkQnR4ZGRROURpd1dVSVI2bm9GNUNfVmd1Z1dwblh3S3BkSXByNVJaOVpoS2htbXRIbnZCU284SVpTeU45Z0NGTmd4d01MdzJlcVhJTU93aFFBZERrNWhPalhCbEE?oc=5",
+    "title": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
+    "source": "The Guardian",
+    "published": "Wed, 19 Aug 2026 13:37:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, a Chinese humanoid-robot maker, saw its shares surge 600% on its first day of trading on a Chinese stock exchange.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnJpWGtUWXdtakI2SUpQRFZhbHhqT2FKaGQ0TkRyMjVaWk9VOGZhRV9RcUYxbnE1dDZDVTloS2NEZTR1MkRfVTRHM2dDZkxpUjRRWG9IZHlQd1VSdEtYX0RmMjJYZHJILTZ1M3l3SDdWQlNTeER1SHl0ZkVnYlhwcExtZ29UU2pnOHc?oc=5",
+    "title": "Unitree unveils ‘Superman’ humanoid robot",
+    "source": "NBC News",
+    "published": "Wed, 19 Aug 2026 09:48:15 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled Superman, a humanoid robot designed to perform heavy industrial tasks.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial robotics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWNvZUFDY0ZxTUxqSGticHRlV2J1ZUw2RmNaTWdwWjNPdmFab2tNQWdWNnE5TFNneV8wLThRSHdjNTVIcWxYOVZjZUk2d1VXTUtOdXphall3SUxsLXNxWkxGM3FwX2haM080Q2I5cmREeTlYbGVCMWN3X19wV09wLWljbFk?oc=5",
+    "title": "Chinese humanoid robot maker surges 600% in trading debut",
+    "source": "Financial Times",
+    "published": "Wed, 19 Aug 2026 09:15:57 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese humanoid robot maker surges 600% on its trading debut, signaling investor appetite for physical AI amid the country's robotics ambitions.",
+    "companies": [
+      "Chinese humanoid robot maker"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "China"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktnNC1kMTFZTU5YWEI4RmxxZmRCMndOcV9vZVVqa2pjU2hmbkI0bFpYUVlGTDl2ZFNjTVpsam1jNHUzT2s1a3RNdWRobVdBMnpydDU1SVBJZGp6bGtRQThxSzJiNUMtN1YzVlBaTk9aWkZGajFzNEVHeUUzRnFuVExWZFhod1hYWXhydDB3a19ndVJ2Mm5lN19EN3Q?oc=5",
+    "title": "Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban",
+    "source": "WSJ",
+    "published": "Wed, 19 Aug 2026 10:44:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese humanoid roboticist Unit goes public in Hong Kong, climbing sharply on debut despite U.S. restrictions on the company's technology.",
+    "companies": [
+      "Unit"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO",
+      "geopolitics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5",
+    "title": "China robot makers flock to Beijing show, seek path to mass adoption",
+    "source": "Reuters",
+    "published": "Wed, 19 Aug 2026 09:23:32 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese robotics companies are displaying their machines at a Beijing expo in a bid to move beyond prototypes toward commercial deployment and consumer adoption.",
+    "companies": [
+      "Unitree",
+      "Boston Dynamics",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "mass adoption",
+      "physical AI",
+      "manufacturing",
+      "consumer robotics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0ZwVGtGQW5JT3l6eG40S05hY3piWGNSYTNadG9ka25WMUJmTWVvX0xXNTJxUTdONDc2Y2dPS1V4UWRXQm5lT3lSSDhjejBKQTJ4cWZKUllyMTI4N2Z5U041eTlyNGxkcVlhczVjV193NDlPMl9vTzhQZHE1b2R2T2YyYVo1RHlZaHNvMU1JR3cxSnp4dWs4VUd1ZEgzZTdyNnJoVWlpelZCbWpuZnN5SEk0TlI3MUnSAbwBQVVfeXFMTkZOOEJUUnJmTGZIUC1lRk01RHVab01LbnZubFRtWHplWWdkMDcwUGVybVFERFlzbC1KTGs0bXVSNVJuSGVKMUpkMFdtcjBsUGZOaVBMaDdFYzB1bWJUZHJMT2lxT0lSbmxjblVidHV6ZklJMmdpVEwtWGNwYWdCSWVFeHlVTXdfMHoxazdUU1dXZ3VaR2JVTjVFa1dfUTllXzVwVy1mckRwaTdYQzQ2QUk1cFZLRVZiQks2dFU?oc=5",
+    "title": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+    "source": "Al Jazeera",
+    "published": "Wed, 19 Aug 2026 11:55:39 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree's market debut in China signals investor appetite for humanoid robots as the company goes public.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWG4wT2h3aVU2NDRZQ3k1Z0RSZk13TkRfMTFRdktyRHIzaVNJMzZTdjYwX3puZEhkTmhidFVYWlYtRG5famxCc3V5U3hZck1kVHBZbG12QkdSX2dKZThGSmNFNkZLY1lkcDBoTFdWdURrS0UtcGVBRkQ2LVhwZktRUEpqUkM3ZUhCX3FhcVR3X3I2QXpIektzSmhySjFCZHFnallxQ24yb1BLMGfSAbABQVVfeXFMT2FqcFVSQnFuQ1R6OExzQi1uX2U1bFBpYkF0TTVDY3VTbkExMkVDbjVEdHR4ZlZUajRPQjVOZGdVRXowWUV4NWxGVjBmVHo4Q0RQY3ZQb3V4OWpFVW82RWFDQ0dVZTl6UHhwQk1VTTZzazBpMEQxMWc3WHRPZUNRbU52aU5mZHpTYlRhX2N5V1hxVXZSZGFScGhPNWJMTXd0Y0xaV2xXb1FUZUZjNXUyaXU?oc=5",
+    "title": "From robot dogs to helpers, China puts robotics ambitions on display at world conference",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "Wed, 19 Aug 2026 13:34:55 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China showcased its robotics ambitions at a Beijing conference where Unitree and UBTECH unveiled humanoid robots and industrial models, even as a robot struggled to fold a shirt.",
+    "companies": [
+      "Unitree",
+      "UBTECH"
+    ],
+    "people": [
+      "Jiao Jichao"
+    ],
+    "themes": [
+      "humanoid",
+      "robot dogs",
+      "physical AI",
+      "industrial robotics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDlKS21PamkzYWJOci1zNHcxTGlhQ1NSaGtqUVVvZ0RaNkhESjJOT3dXdEJJSkQ0Snlabkhuek9YU1laLUJOOUYwV292NW56NW4tb1FjekY1X2xxdjJHaXZZeTFoWTNvdjJPd1h1MHFaQkdzTUlWSnpSV3FPRG9UVFlVVzRyaFUtVVUtckplelQxYkhjd1dfLQ?oc=5",
+    "title": "Shares in Chinese humanoid robot maker Unitree soar in its Shanghai trading debut",
+    "source": "AP News",
+    "published": "Wed, 19 Aug 2026 09:32:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, a Chinese humanoid robotics company, went public on Shanghai's exchange with surging share prices on its debut day.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "public markets"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVVBM2wtRVJvOTI5UmZWdl8tTDVQX2gyV2tCbzZGNmhjd25WN2hUTGpRb1ctZTFobVZtcU90c0VVbGtnNTB5S2w2THd6VlJDMDFqZmpablpjVEh2ZFNBcGx0VnhJZTZEbldDb1BlSDYzMVBfT2FvWWtZRk1MVVdFSTYtWnJGNFlCQUdMUG9KOGw5THVSNy16aTQ1Z0hGVXdGWVVoRlVyRjZNM3lLREVuUFdNVG52UQ?oc=5",
+    "title": "Shares in Chinese humanoid robot maker Unitree soar on debut in Shanghai",
+    "source": "CNBC",
+    "published": "Wed, 19 Aug 2026 10:43:57 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, China's humanoid robot maker, surged on its Shanghai stock market debut.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMUxQelplaGZmak5LSWhOQk40eVJ3TDRZQXp1dGJUSDEzTTd3WFRaaHdsUEoyZ1JRaWxRbmxpUm1ORGlqdEtXMU5DSFh5VjdrdXdYM3R6QkZWZGktUEo4SGprSnZFRjdfRWxDcVZsWFM3ck5YZUt6alRzUHIzcGtNbUZDaHROT3RjQ29SVHkzd3dUTDh5X0o4RjAzcUxHekxJTlREM2pFOE04NDFxVk1vOGFKb1hLNldQLWJxNkxTSjBoRENmSW1menpTSnhRbmcyaXBIVHl5aWQ4VDlnR1Y0YS1NaXc5bnJ5cUktVUx3?oc=5",
+    "title": "Georgia Southern University unveils state-of-the-art humanoid robot to redefine engineering education and research",
+    "source": "georgiasouthern.edu",
+    "published": "Tue, 18 Aug 2026 19:30:20 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Georgia Southern University deployed a humanoid robot in its engineering program, betting that hands-on work with physical AI will prepare students for a workforce that increasingly demands it.",
+    "companies": [
+      "Georgia Southern University"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics education",
+      "engineering"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTWxqWWVuYWhaMUZGSGRrTUZ4aDVpRWpyeVdkb1d0c21aX1pHUklnMlBRZF9fQWRSUHNqQVAyVDBqT3VfVWRwOFpsc3JHdV9iVkQ5ckRWRGdVdml5UEt1ZmNkRnB3N0s5by13cV81YXlTeHBXVTlhc0ZsY2F5RllTMVB5bVh4clN6ZXNyOXZZSG15bTNkQnhYbHpiSkpTSk1GS2dhUWEyMnlhVmhldWl2aUY1cHI4TnhTLWlKUGlnQlAyUFpDSXh6VG1POXN2akJ4WXpJejJFaVpFZGlNQ0U2cQ?oc=5",
+    "title": "National‑Local Joint Innovation Center for Human Launches Fire-Fighting Humanoid Robot",
+    "source": "Gasgoo",
+    "published": "Wed, 19 Aug 2026 10:45:51 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese innovation center has built a fire-fighting humanoid robot capable of operating in extreme heat and hazardous environments.",
+    "companies": [
+      "National-Local Joint Innovation Center for Human"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "fire-fighting",
+      "robotics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1RsYktrN2RLSjRmcGxheWNxa0hIX0V0Q3hkRENYQmNqY0UxX2d4TWxlMERoQlExRktBdUs4WGp3TGlybVQ2aEd6WnM3OEg2RHhxN3FJWm1nRWZuaTlpWVNZLWJGT1FLSVhTV1E5VkF6YVNRNURFWWxnbnBFdFRJblRncDV3aHVpNGRfRXNnNWxhUGhXQWtNdnJKdThyUUlxU1lYaXppblY2Tllidk93TFoyOE1ncDBfMjR3?oc=5",
+    "title": "Why China’s First Humanoid Robot IPO Has Investors in a Frenzy",
+    "source": "bloomberg.com",
+    "published": "Wed, 19 Aug 2026 05:03:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China's first humanoid robot company went public, triggering a retail investor rush that has left analysts wondering whether the fervor reflects genuine progress or speculative mania.",
+    "companies": [
+      "Chinese humanoid robot company (unnamed in snippet)"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "IPO",
+      "physical AI",
+      "China"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcl81NGYzdHJFTlVLbF9JMDZ2WHU4RGtQTHpjRTVOV0ZlWFN0Q1FqS1d2d2ZISTVGSnNhYV94cU5WaDlQS2VnUC1ZTHJIVjA4YngxckNEcnZiSGVXUE1ZZVN6d1FiTWNnZ0NfMHlYSjVGZ0hQdUcwOUpVNXlCOFlnWXZzZVhnTnZtTFJNYnhWNFlzekoyNUNRckxuNjUwU2pUVGlDWE5IUEdNX1RQSklzRjBtUEdtVXB5QnQxQzBaMVRrZ0JwVnR3RTFPZS03VVVSbnMzekUwU2tpT2xMcWFpaFIxNFRmS01hUFV2ZHNpSjA2SnhXcG1YU0xKRXJPNVFlUWZ0Qm9mMEhIT0E?oc=5",
+    "title": "Shares in Chinese humanoid robot maker Unitree soar in Shanghai trading debut",
+    "source": "bozemandailychronicle.com",
+    "published": "Wed, 19 Aug 2026 05:01:52 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, a Chinese humanoid robot maker, debuted on the Shanghai stock exchange with surging share price.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0pzN014Mm10emZneHNXYjBENjZ0VXFKamZHVUNpQ3hkYjdmU05wRWR5VW96TFowS21LYU5hd3poMUJJWnR3VHJIYVJQM0U5QktkWS1hS19OWlNDbjdGcFhUbV93d2ZKa2ZzdzBWTmJJYV9yNk1VNGlqVERldF9zVWVQS2RrX3FxYTJ2QW9NZERpSXZycl91TGxFUG1ZZUw4bmJIS2YyWWhaTGlDY0h6TXh5WGVYb0VVV0V6TjJGTkd6UQ?oc=5",
+    "title": "Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector",
+    "source": "Reuters",
+    "published": "Wed, 19 Aug 2026 01:27:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree's Shanghai stock-market debut signals China's bet on humanoid robotics as a commercial sector.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China",
+      "IPO"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?oc=5",
+    "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
+    "source": "CNBC",
+    "published": "Wed, 19 Aug 2026 01:37:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, the Chinese robotics maker known for acrobatic quadruped robots, surged 542 percent in its Shanghai IPO debut.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "quadruped",
+      "robotics",
+      "IPO"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc01mMTVZOGREN1lkSVh5cmI0X2FYY0dXeXFzNnV5SnpSV3M2VFM1OExocG1JQld3U0FxcXB3djl3amFrMHBQTWlPeVVldV9DZjVFVnZ6c1RBOTkyRW1wYjJNVmZCWlZRYVhnWkF3eUFObHhSNDVkWjAxNXpVMmxqTExSekk4QlhTc1g2X3RBRElQTWdINE5ndXJtUHRwWVlNdHB2dl8waWItYllG?oc=5",
+    "title": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom",
+    "source": "NBC News",
+    "published": "Wed, 19 Aug 2026 09:54:09 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese robotics maker unitree Robotics went public on the Shanghai stock exchange, riding momentum from viral videos of its humanoid Go2 robot doing backflips.",
+    "companies": [
+      "unitree Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "IPO"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNU5PdHpHM3pFSVNVenROTkdDMGpZX0RMdlAyb2NfQmxmM1c4eHZSR0xGbUlZNWJfbVZ5QlRzSHVqWWgwQVBHdXFpN2lNOHNfSFZrNTlPUkljTmVhdHFBd3o0VlpxbE54V0hfT0dlT1gzNUFNdnJKb0k2TzVfM3NVWElsbm9INE5rNXZhRTNWUmVjVmVEcjM1RjFpUVZGSXZyS2hpdDJLMVVCekVkT2I2Y0FTVW5nakZqUFpVYnRyQS1aWF91cmVnVGhmQ1owTzVFXzFhT3U0OFo?oc=5",
+    "title": "American Humanoid Robot Launches For Just $1,688, Delivery This Fall, Made In San Francisco",
+    "source": "Forbes",
+    "published": "Tue, 18 Aug 2026 22:04:01 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Figure announces its humanoid robot will retail at $1,688 with autumn delivery, undercutting rivals in a field until now dominated by six-figure machines.",
+    "companies": [
+      "Figure"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa09KR19Pb2hRX0RBRWE2MGRmUXpoSmo5Y0pEdDFBaUMtU0VIRnhzaUVNQmluY201ZEY4MXV3M3pDVHIwWGVqOUJyUzRDTlY1VV9JeUQweDg5UnZ3QVZZV1hSYllmLU9vZ1BJX1h4Sk1sSjZWOWhYSHhfZlBMX3lkdXJQUHp1SEJFcW5hV0VHMA?oc=5",
+    "title": "Chinese robotics giant Unitree surged as much as 629% in its blockbuster market debut",
+    "source": "Business Insider",
+    "published": "Wed, 19 Aug 2026 11:48:53 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree, the Chinese robotics manufacturer, saw its stock surge 629% on its first day of public trading.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "IPO",
+      "market debut"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3ZpOGZBV3JuVUQ0N1M0Wk9YcjU1S29lRzRJTGhxVVUwRmhXMjBqN2p6Y1JqRnhyN0RBbVpGN2FNQkxBSVYxRmdLdU00SE1EMlozTS1HMV9nRFowYkI1TEkyQm5MTzJQTmZObld1bnBZSV8xbjlTaHZ5NHhNNDYyNFRwdkdsR2Y3dENPc19CMFV1dw?oc=5",
+    "title": "China's new humanoid robot can mirror human movements remotely",
+    "source": "Interesting Engineering",
+    "published": "Wed, 19 Aug 2026 12:46:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China's NORINCO Group unveiled Fuxi, a humanoid robot that lets operators remotely control its movements for dangerous missions like firefighting and reconnaissance.",
+    "companies": [
+      "China North Industries Group Corporation (NORINCO Group)"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "teleoperation",
+      "remote control"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EemdmZHpsQUVVQjVyb2kzRV9RQ0haaHRlaWtSeUViTmtrbUdpcGcwR3lkZW1YNUpRMF9ORDZuS0R2cjJxTU9ETDNxVlV5c2ZiajRRTkNpbGpNQWg0ek1jbjF0MGFlYmFC?oc=5",
+    "title": "Unitree Robotics stock soars 460% in Shanghai IPO debut",
+    "source": "qz.com",
+    "published": "Wed, 19 Aug 2026 11:15:33 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree Robotics, a Chinese maker of quadruped and humanoid robots, nearly quintupled its stock price on the first day of trading in Shanghai.",
+    "companies": [
+      "Unitree Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "quadruped",
+      "physical AI",
+      "IPO"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGpNRks1cEFrMkVKVGlZbjdSR29PZTRuOVZFTWxpT0cycENaNEI4aTRtYUw1QmQ4WnI0ZHlDeDRRODNvSDRGOWRsNGd3alI0YndYOUwzZmhWZDdwMnBPMkl0c2pKM21OMzZmYXpQSHFxWFVRZmtOV3pPOGJwZ2JqLVVsd3Q1Nlk5dXFtaXozRV9YaGNOMEtteGZQWUk3MGNHQmhuR3RR?oc=5",
+    "title": "Rides In Waymo’s Ojai Help Reveal Robotaxi Future",
+    "source": "Forbes",
+    "published": "Wed, 19 Aug 2026 12:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Forbes rides in Waymo's autonomous vehicles in Ojai to examine the state of robotaxi technology and deployment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM29zWG16ejdJdWlDMGx5Ul9PZDdQS1BkaE9GaDJfY19SQXBVdlNIaEduN0d5VDMybXctWDF0WHhrV0xWTEpoNXBOWVRCRjM3aTZOUzBJYm9qZXRRaFh2cjhmWjkwRjk5dU54N3FWdVFNRVdiMjJiS1J1R3dvdUJtWDhycHJTODJLLTFtQkZ4aFVKd3FsMGszajhBTFRHOS1BS1h6OA?oc=5",
+    "title": "German startup launches driverless cars in Estonia",
+    "source": "dw.com",
+    "published": "Wed, 19 Aug 2026 12:35:42 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "A German startup has begun operating driverless cars in Estonia, marking an expansion of autonomous vehicle deployment in Europe.",
+    "companies": [
+      "German startup"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "Europe"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VUXVkOERrU3BUTV9KTHRYYU1zc1lIeUZyaEM0M0hMbmJINU9DTVg0c1FlMy15OWxGU3Fwc2hGS2g1RmZkR0dtZ1g1TmhIRU5PRXQ5N0RSM05scEs0QXo3WmM5U3Y0aTZUclJHX2NfLVVPSmFpNEl6eC15aw?oc=5",
+    "title": "Tesla's Robotaxi Ambitions Collide With Ground Reality",
+    "source": "Motor1.com",
+    "published": "Wed, 19 Aug 2026 13:21:53 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's driverless push hit a string of speed bumps: a Robotaxi test vehicle in Austin was filmed shoving through bollard barriers, raising fresh doubts about the software's readiness. Meanwhile, the company pushed back on reports pegging a near-term Cybercab debut in its fleet, and Las Vegas regulators handed Tesla just 10 of the 5,000 robotaxi permits it sought — capping speeds at 45 mph and banning airport runs. Together the episodes suggest Tesla's robotaxi rollout is advancing on a much shorter leash than the company would like.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VUXVkOERrU3BUTV9KTHRYYU1zc1lIeUZyaEM0M0hMbmJINU9DTVg0c1FlMy15OWxGU3Fwc2hGS2g1RmZkR0dtZ1g1TmhIRU5PRXQ5N0RSM05scEs0QXo3WmM5U3Y0aTZUclJHX2NfLVVPSmFpNEl6eC15aw?oc=5",
+        "title": "Tesla's Robotaxi Ambitions Collide With Ground Reality",
+        "source": "Motor1.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMXNXcm1tVGxoNW1WZ0h5RUtfWWU5QW94VnBhbXJ4dDdmVk4zakxBMU5mVEdLempRYllzcnRmQmdLQVprbFg5YlN1bWx6U3dPT3VDLTRzb1Rxa3FRMFRPUDJOaElqNm9lWE5CenN6LVROanEyd2pmak02T3V6TFRGakU0NThST0R5dUtaVW5xaXE?oc=5",
+        "title": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mph, and banned airport trips",
+        "source": "Yahoo Finance"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLS1fVFdOOWdUSVdIRmluTW1pYzJxMFBkM2l2cDZGYnpSV05CdmtJR1J5Vm9qeHMyUDV5c2g0Sm9RaFBFVXhZRWt4T0ctTklnWjdkekZROVBmVVJnVF9GcmZhR2NPUzV6ZFY1WUFGZG0xU0hDUUpVbGEyTWRSX1NiNTZXSXc5eDdmQnNfUmhselJ2Q2RucUZscUhXcVdZNFVnWVJ0V2RaQXpHWlU?oc=5",
+        "title": "Tesla: Media Reports Cybercab Will Join Robotaxi Fleet in Near Term",
+        "source": "Morningstar"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQm9RcUxFTjFWWFd6dWJXUmRNWjNMQkRGdnVqN0EyVXE2Rjd1LUdLRkRkd3pLYklDY2w2UDR1dEhqT1JhVEtVd0ZkMDl0SmtCek5ud1FmUzFxTldBdlJPTkNqeEV5LXRfQ1d0MWR2NjluMENTREJjOU9FZ0tjcjB6eA?oc=5",
+    "title": "Tesla ‘Robotaxi’ rams through bollards weeks after ‘impeccable’ claim",
+    "source": "Electrek",
+    "published": "Tue, 18 Aug 2026 17:04:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Robotaxi struck bollards in San Francisco weeks after the company claimed its autonomous driving was impeccable, raising questions about the vehicle's safety capabilities.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "safety",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR25vZHV4Q29uLXlwaDFjOEgwYlJ1NWtDTzlEOXBMSUtEcWMxTnlSdC0tMkxMQ2p1WkMxZHlCTnQ4cVVVVUg0UTRfWXdfZUFiSXlrRW1XMXNvZDN4YXhwN1gzZlpISC1yYnVhMkdvQW1uMmtSZTBzSy1OOXNaNklXTGNsaG1hX3FEM3kyaTlqNFB0LUpnWWM2MlVVdE9MRnp5dmhtdnJ4bmlOWE1rZDBEaDBOck4yZXNhUnJ1SVJBTkc2S1ZMbkZIVkRJYw?oc=5",
+    "title": "Waymo nears public launch of self-driving cars in Denver",
+    "source": "9News",
+    "published": "Wed, 19 Aug 2026 04:35:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is preparing to begin public robotaxi service in Denver, expanding its autonomous vehicle operations beyond its established Arizona market.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGFzWHdjM19rQnZZZ09Uc1ZLTDRIY0ZZOVFhaXVZVXBIQ1J0aEFBTVdqTjVYb2cxQWlBZTY1OUIwSmh0NlRtMnZHcjdoNlZiZXlHVUNITHJnbzZNRFBWZnVobzBjaE8yVDJGUnltamFoWS1lQWNmdmZZTi1yUU9jaFdKbDgwN1dTS2NUazlYX28?oc=5",
+    "title": "Waymo Pushes Its Robotaxi Map Outward, From Denver to Evanston",
+    "source": "CBS News",
+    "published": "Wed, 19 Aug 2026 00:25:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is quietly widening its footprint beyond San Francisco and Phoenix: the company says a public robotaxi launch in Denver could arrive later this year, while in Evanston, Illinois, its vehicles have been spotted doing the unglamorous groundwork of street mapping that precedes any service rollout. Together the moves suggest a company still in expansion mode, city by city, block by block.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "mapping"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGFzWHdjM19rQnZZZ09Uc1ZLTDRIY0ZZOVFhaXVZVXBIQ1J0aEFBTVdqTjVYb2cxQWlBZTY1OUIwSmh0NlRtMnZHcjdoNlZiZXlHVUNITHJnbzZNRFBWZnVobzBjaE8yVDJGUnltamFoWS1lQWNmdmZZTi1yUU9jaFdKbDgwN1dTS2NUazlYX28?oc=5",
+        "title": "Waymo Pushes Its Robotaxi Map Outward, From Denver to Evanston",
+        "source": "CBS News"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VbDAwaUtEZGlFeDRZZDI3QXJNVVZVaDZFNW45RkJ1a2VzV2VOTXhtQnI3Z25zSG9UcU5rU3ZrTTRqdWQ2VlZzd29CMURoTU5adXg1ZHowRVdRVmw5YUN3TU42elpLc3FCN29MV1lERFVpWFNmM3c0bHFYRDc4eTA?oc=5",
+        "title": "Waymo vehicles sighted in Evanston amid mapping efforts",
+        "source": "Evanston RoundTable"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLS1fVFdOOWdUSVdIRmluTW1pYzJxMFBkM2l2cDZGYnpSV05CdmtJR1J5Vm9qeHMyUDV5c2g0Sm9RaFBFVXhZRWt4T0ctTklnWjdkekZROVBmVVJnVF9GcmZhR2NPUzV6ZFY1WUFGZG0xU0hDUUpVbGEyTWRSX1NiNTZXSXc5eDdmQnNfUmhselJ2Q2RucUZscUhXcVdZNFVnWVJ0V2RaQXpHWlU?oc=5",
+    "title": "Tesla: Media Reports Cybercab Will Join Robotaxi Fleet in Near Term",
+    "source": "Morningstar",
+    "published": "Tue, 18 Aug 2026 20:33:47 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla issues a statement pushing back on media reports about when its Cybercab might enter service in its robotaxi fleet.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcXpiaElQMHVobjJRSHNlMkhPNlRrN1NWNmFFYUl1MjkxeXFmalhHcWdMWVB1NFlFbUlSMHR5b0ZfTFBtTkNUeW9jWlhVUXVHbkk3UFNrcFFaMnFNWnNDc3lhcjdMU1l6?oc=5",
+    "title": "USC finds new trends in Waymo data",
+    "source": "Daily Trojan",
+    "published": "Wed, 19 Aug 2026 07:06:15 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "USC researchers analyzing Waymo's driverless data have identified new patterns in autonomous vehicle behavior.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "research"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VbDAwaUtEZGlFeDRZZDI3QXJNVVZVaDZFNW45RkJ1a2VzV2VOTXhtQnI3Z25zSG9UcU5rU3ZrTTRqdWQ2VlZzd29CMURoTU5adXg1ZHowRVdRVmw5YUN3TU42elpLc3FCN29MV1lERFVpWFNmM3c0bHFYRDc4eTA?oc=5",
+    "title": "Waymo vehicles sighted in Evanston amid mapping efforts",
+    "source": "Evanston RoundTable",
+    "published": "Tue, 18 Aug 2026 18:40:53 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo is conducting mapping operations in Evanston, Illinois, expanding its geographic data collection for autonomous vehicle development.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "mapping",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc2p1NWZkSTRJRmlLMlY0UmFRTWNJUWk5RUJTZ0pHUTZwRUl4TXVtU3c2TENNZ0dNcDhlTk1RNWJ5eGxzZmdXTUE4RTdLOHZ6Ul9hek5senNfSllsc0hJODg0LVRPYnhWWjRMZXhISjlMc2xKMlBweHNKYkI5YjRPSDBnWkxTU29ORERsZDZOcFNYWUtHd3JpaFotSXFpem8?oc=5",
+    "title": "Op-Ed: San Francisco Should Not Give Free Curb Space to Waymo",
+    "source": "Streetsblog San Francisco",
+    "published": "Tue, 18 Aug 2026 23:18:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Streetsblog San Francisco argues that the city should charge Waymo for curb access rather than providing free parking space for its autonomous vehicles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "urban policy"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQXlraDY3VTlRRmo2amR5NTV5R3FqVkwxY1NBZ3J0MV9CZWVFVzJFQVh3OXp4R1JRd1hmWmVqR2dENl9kSGtFUkx3ZW5CaDJRSERONDdHTV8xU2hHOHd2YS1EWWFZUzlfVElfQUlXV3dQVGxqUDZtajBacjE3SnRyWHIzWExfVkxBTGNITzBkQVFiRzZ6X3d6TDRPV29tQk5RV19EWHVvRUpzbmFRTkhwM3l4d0tlbFZ2amhVOGtXbFJXUdIBxwFBVV95cUxOblFiOXVjLV91T1pNejBFQXo4LV9MNFdwdUEwWGY4bTc3c2htWWNTSHk4RlpiclIwNXdaZDFQTldLZjhEajQ0Wi1xaVlKcVZ5MlJ3cVJVZ0NVOUM1U0g1NUhwVGdwZ1VESHBwMHdZeWVPLTFwWmtIVmR3eTZLUWVTYkxvSGZkUWFlNV9BNy15NXhSbUdOdnFXN01rVGFoMmxIR1RWdmtfMGkzcFdRYkRmeFl3bWhxZnVQaGFLb2thWEhvYXViNUNN?oc=5",
+    "title": "Tesla (TSLA) Plans Austin Cybercab Robotaxi Debut In August",
+    "source": "simplywall.st",
+    "published": "Wed, 19 Aug 2026 12:38:51 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla plans to debut its Cybercab robotaxi in Austin in August, moving closer to autonomous ride-hailing service.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMFJDSzljV2FqMi1MQkJGYXRwZC1QcUJFczJnaVIzVnZaS1hTUm83VTFnUHNvN1UzanJqQWhVWk5tSnRRX2lrcTlFamJrNWR1S3ZSN2hIYjRNRW5abVZWZ2g0bTh6OXdTWGEtLUNoaWFXd2xHeXJ0dHhuYkwwb2NHc2p6eS03bFNtZm5BREhjVV9HVXBTYnVfN2xGcWY?oc=5",
+    "title": "Tesla prepares Cybercab launch as robotaxi fleet remains limited",
+    "source": "Zag Daily",
+    "published": "Wed, 19 Aug 2026 14:13:51 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is preparing to launch its Cybercab as its existing robotaxi fleet struggles to scale.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcGt4bThjM0xDN3U0OW9nWjRjbGFyd3hGN2xyZDBYSEZFYzd6dEt0NU5qLWxfcnZXWXlHamtGd1lra3FTSXcyNDFyU0dMVGgwellKVUpUYWlnMklFbWxvUGhrSWxtYWFpaWtkRzV1Qmh3b0Z2OW0wYXhkdFgwbjlZX1E3X0pmd3FqV1FpVGd0Zk5Gc3Z4RGlLZWczNmY5NUFlWjAzN3BsRVhmbEtmMHZLTHc0cWxlSnk0Z21wSDJaWUI2QjZLaXU5YjVkN1NtbWFKMnN3QUhqWTZON2RIakFSUWV1OFNXWE5NQXhyS0tMY3U2S2g4THZ3a2RR?oc=5",
+    "title": "Pony.ai Q2 Robotaxi Revenue Up Nearly Sevenfold; Breakthroughs in Commercialization and Overseas Expansion",
+    "source": "Gasgoo",
+    "published": "Wed, 19 Aug 2026 10:55:52 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai's robotaxi revenue surged nearly sevenfold in Q2, driven by expanded commercial operations and international deployment.",
+    "companies": [
+      "Pony.ai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "commercialization"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMXNXcm1tVGxoNW1WZ0h5RUtfWWU5QW94VnBhbXJ4dDdmVk4zakxBMU5mVEdLempRYllzcnRmQmdLQVprbFg5YlN1bWx6U3dPT3VDLTRzb1Rxa3FRMFRPUDJOaElqNm9lWE5CenN6LVROanEyd2pmak02T3V6TFRGakU0NThST0R5dUtaVW5xaXE?oc=5",
+    "title": "Tesla asked Las Vegas for 5,000 robotaxi permits. Sin City gave it 10, capped the speed at 45mph, and banned airport trips",
+    "source": "Yahoo Finance",
+    "published": "Wed, 19 Aug 2026 07:03:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla requested 5,000 robotaxi permits in Las Vegas but regulators approved only 10, capped at 45 mph and barred from airport routes.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3hsNVhlaDdGc0hrTUhLZGRTNzZ6S05OVDRHT2lNb01ZWlgyZ21iSUF2al81RHIzT05uQmxnalZPVEZ5Zlh6Vm1qYnF6akhVeDF4RW12aW56Z0pXMHJ1VXFidF9qUmp6ZDc3UGNVeWtNUV9iWHNjU0NxcVhLZ0RyWGRRRDF0LW5yY0xEUWZoTHhjSldYU1djTnJ6V2RHY0lCWlo1U3p5TFlMTjQ?oc=5",
+    "title": "California Just Handed Waymo Its Biggest Robotaxi Expansion Yet — 18 Counties, No Driver",
+    "source": "Yahoo Autos",
+    "published": "Wed, 19 Aug 2026 12:08:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "California regulators approved Waymo to operate driverless robotaxis across 18 counties, the company's largest geographic expansion to date.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSGY3bHRCczlYLUNJMndmaHBLaWcxSkZMdXF5QUhmdnlMbXFFWkI2WWZHSWVzajdveE16LVFtbzl5M3FwMkhKT0cybVdmaURtM3hLck5ETFFCcWNncEg4dnRHUldZWXFXZEZsS0hCdTlnT0pqdUJpVTZwakwweWthZDFCNWpLLXRGSUROZVZ4UzNacmdELUFtR01SSG1xSy1hS3c3bkl1QTZJSUVQS0ZkN3Y4U3Q1V1V5OV9YQTVIRGFENHFBR2pfbm81VWVmcVBWd0x0andR0gHWAUFVX3lxTE81TWQ1TU1JZFVpZmVhZ1k1cVpUaUh3dndvVGJpbXNUMXg0My1fYWxkbWd3d1lQTHZZNWdJMFhIOG5qbU1nZTJpcVJSWFhHb1phZVJCc2c4QllWVTNNNUdSVEUyNEZCU0phcnRWVGIxdTBwMC1XS3VyZ1I4clZKa2ZXWGdmdkNCUElpaDRvYlB6S0FhemdHTEZjRVV3SnFJWUNpOUotU1BXdXlPaFBxb3hmdDI0d3lMSXlFcGNYUUYyOENTR3VaOGNHXzNEb013WXpBX3RKRnc?oc=5",
+    "title": "Chinese robotaxi firms see reduced red tape in Europe as deployment picks up",
+    "source": "South China Morning Post",
+    "published": "Wed, 19 Aug 2026 06:39:59 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Chinese robotaxi companies are accelerating European deployments as regulators ease restrictions on autonomous vehicle testing and operation.",
+    "companies": [
+      "Chinese robotaxi firms"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjBkWkJlUlJCUUdETlJNQzhjN1BpNENVNFFiTG1lZmd4bERwaWdtTjN1Q3VaQlhIMWVfMEI1UnYzR1Rmc2IzcUlDVHBYSFdWRFFVcjJaNG1VV3lIVHc3Z25PVzdmV3pjV2lHZ1FJV1V5bEdFdWpGWWZhdlZ6bDZTQ2t2RVBnMmg2VEZOeHJkOU1jVzlZa0YtZFNJZ3FmeFZnMGlTYzZtc0l1ZkI3V0V1ZHVyeUlDdUhibHFHT0Y1UQ?oc=5",
+    "title": "FlybyOps Launches Enterprise Drone Platform to Scale BVLOS and Autonomous UAS Operations",
+    "source": "uasweekly.com",
+    "published": "Wed, 19 Aug 2026 10:45:31 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "FlybyOps has released an enterprise software platform designed to manage beyond-visual-line-of-sight and autonomous drone operations at scale.",
+    "companies": [
+      "FlybyOps"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "BVLOS",
+      "autonomous",
+      "enterprise software"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4YTNZOEVCRThZYzNaMG9ZRUhjaTRWaWhOVktqVXVHNDB5eF9HVlM1MVNWTFZCeDBjLXRNZm5YT2pEVkNtQmtrWUpPOEszSUlZZjJiZUllTW5EaVBxVHotSFlsRzRKSHRndHdmNDRBZmpnc1nSAXhBVV95cUxONFh5X0hDOHBnZ3diWjcwc2hHdFliM0huWmlsN2tNeGR2T3lEWmIwdmFhSEsxUXBuUzAyRkUwMXFHaXpBby15LW5zaUpFNHVyWlNadkZfT182bTBWcEdwVnB5Sm9fVGpOd0RMU201b3RXRHpETWRKVmg?oc=5",
+    "title": "Rocket One Creates Synthetic AI Drone Swarm for C-UAS Testing",
+    "source": "The Defense Post",
+    "published": "Wed, 19 Aug 2026 12:42:55 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Rocket One has built a synthetic AI drone swarm for counter-UAS testing, simulating adversarial drone scenarios without physical hardware.",
+    "companies": [
+      "Rocket One"
+    ],
+    "people": [],
+    "themes": [
+      "drone swarm",
+      "AI",
+      "counter-UAS",
+      "synthetic simulation"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82dUhNZVBTRjIxb3FkTGJycGY4TVRLSUl3VG1oX2R1WTlOSlBhcDN6bFBPVVNOOTdfb01ac29nRDZpaExmNnVRS2V0aFVkbzlRQmRyWVFlT2RQVWk3VnE5R1ZZYmJtVUk?oc=5",
+    "title": "Israeli drone maker XTEND lands up to $15 million NATO contract as allies seek alternatives to Chinese drones",
+    "source": "calcalistech.com",
+    "published": "Wed, 19 Aug 2026 06:54:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Israeli drone maker XTEND has secured a NATO contract worth up to $15 million, as Western militaries move to reduce reliance on Chinese-made unmanned systems.",
+    "companies": [
+      "XTEND",
+      "NATO"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "military",
+      "supply chain",
+      "geopolitics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY0dYZVI3Q1NmcUZEb0N6bWRpZ0NKMDhsbjlEWU92cUNOUlpLRFgwMkRVYjNjRG5uRUR0ZzVNU2NoOGRpajVLVU9NNFJ2bFplOS15SzFIcDctcVRESmx6dXYtWHkyY2lLT1FVRXV6MWxLbl9Dc3FwaWZhNnBpam1VRmo3U3YxR0RCVGhBUGRTYjloZ1hwWUxsbi15UHQ4WFVCQV9jeTFvcmt1ckRsblFlVU5qZ0dlVkRWc1BZdFhzZm1hM3g1a29fcWQ5T3prVUxmT0ZvRzVFVno5TFBpVk1iLWRRRjN0R2ZSM28xaHNkVU14VllHUXN2SHpEQjV1YTAxQ2g3dDBIbw?oc=5",
+    "title": "Uber and Zipline partnership targets one million autonomous drone deliveries per day in the US by 2029",
+    "source": "Parcel and Postal Technology International",
+    "published": "Wed, 19 Aug 2026 09:40:09 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline announced a partnership aiming to scale autonomous drone deliveries to one million daily shipments across the United States by 2029.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdGprV2diZzE4S3ZhcXNpUzBCa2tjNmp3QVhtcHBJZEtoMTA3dGpoLWRhWkh6OWk5b2o2WkNiSC0zVjdGek00RGMtTEp3cDZ2OWllT0lOdjFoNlBtZ3piRWpXSUN6RnZfSXJFY2QxNnBhNW9NSnZKa1RTVklib3VWTWM2OWQ0aUQ3YVU2a1A0Y3RhdVlUNVhKekxQMUIwTE9XOE1wYU0tR1RTODQzd1Q3Vmc2SFdsX0xKRlNJQXBqc2xoNU9fVXJLWi1uMkI5TGtEVkI0T0ZJS1BxdFVSeXd2TDN4Z1VtMThBcG9OYktwVU5Jc2g3VWhmWC03blh6OTZsZHNQajVabnBrVnVu?oc=5",
+    "title": "New White Paper Examines the Growing Risk of Deliberate Misuse in Autonomous Vehicle, Delivery Robot, and Drone Networks",
+    "source": "The Des Moines Register",
+    "published": "Wed, 19 Aug 2026 14:02:38 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The Physical AI Report releases a framework for assessing deliberate misuse of autonomous vehicles, delivery robots, and drones before bad actors exploit them at scale.",
+    "companies": [
+      "The Physical AI Report"
+    ],
+    "people": [
+      "David Knight"
+    ],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "security",
+      "misuse"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTERsa2pzWnhXcVNRRlY2UEp5NWZqRXpMOWVucGFyTEwyZjlYUnlzd3RDRTlYMUs1Zzl0NEVaVDFYNzc2VDZMdE85SHpCRkZ5djlaeFYzRUhoQXpTSnd2alR1amowcklzWm5OenJaQUpiYmtVc01fOHh0WS1rMWppemVNck14dl9MWDhxSktvRjJNY0pkMnFDZWd3c2xzUHU5amt6ajNueHktU0VfRXd2NEN0THZScHNyVl9mUzZpQkE?oc=5",
+    "title": "AlgoFET Raises Rs 15 Cr From Piper Serica To Build Autonomous Drone Infrastructure",
+    "source": "bwdisrupt.com",
+    "published": "Wed, 19 Aug 2026 12:23:16 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "AlgoFET raised 15 crore rupees from Piper Serica to develop autonomous drone infrastructure for India's airspace.",
+    "companies": [
+      "AlgoFET",
+      "Piper Serica"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone infrastructure",
+      "airspace management"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVZ6aHF3bFpXWEUzd1dfMjBnTUtDMmQ2MFRXSUJ6RFRrZWpPaFFhWkMwUk51aEQxY3Bya2dMSjNVY1dkblJsOEJmM3lxZ2cweGZHSWxWYkUySGh2UzJnVUgxT1RiRFZYcTd0X2VLMGVyQnN3Y0NWTktGYXdJSVFpQjA0SndRZDQ?oc=5",
+    "title": "Runway-free autonomous Valkyrie drone flies alongside 1,200-mph F-35 stealth jets",
+    "source": "Interesting Engineering",
+    "published": "Tue, 18 Aug 2026 20:50:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Aurora Flight Sciences' Valkyrie drone completed a test flight in formation with F-35 fighter jets, demonstrating autonomous aerial refueling capability without requiring a runway.",
+    "companies": [
+      "Aurora Flight Sciences"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "aerial refueling",
+      "military aviation",
+      "runway-free operations"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbG5BbkNsbVhUNTFrcWw4bGZNMmM3WFl0YUpqb2lLamtFM1IyVXdka1VsQTc5bHdNY0REak1vNzVxdnduWXZLaHM5X2FfdGVPUUhvaHZrYURHQ3JqWlRvcEUtRXpsRHZXZFlPNC1ORGk5ejU5LWY4dFUxMFpRWDg0V2dsdUtiMFVOZmdJMW5TdHRlREpDbW94TGxKQTRrTTBxa05kYjVFOU82Y2ZDUDRz?oc=5",
+    "title": "Bengaluru’s AlgoFET Raises ₹15 Cr to Scale Autonomous Drone Infrastructure",
+    "source": "analyticsindiamag.com",
+    "published": "Wed, 19 Aug 2026 12:42:56 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "AlgoFET, a Bengaluru autonomous-drone infrastructure startup, raised 15 crore rupees to expand its operations.",
+    "companies": [
+      "AlgoFET"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "infrastructure"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONmlKRVhsMWVyOVJyeDdRdXBDaWhIWEhRWjVUT2tYS2M5ZkdCeDgzNGlEZF9OQndnYy0waWFDZ1lpQ1dEajg1ajJQZDNPeXdmaFRaSkdrR1prLXRtcjFmbU5DRHJGbFpoZHBjLTdoakFZS0FBMXEtTjAweVVqSVJ3NklubEhPWkZPZlJBLTZuakl0VWZRT0NYMTAxd00xZ0tPSGtvSks0aDRwVndBeGJDbXhjQ3RULUlyN0Q2V21PM2NXQzdwZnpkMlpjdTNTNk5JMU5CblFiVEloa3BUbUVSM3V2dVZTaU9n0gHuAUFVX3lxTFBHczBKSmhEY1MyeFl3bmh1ZElHZmM5bkVucUJIZHZySC1XMjNoa3l1MFMzWnQwUDd4OVQ2ZklpX1ZaNkVVNEg1cDFudWJSblhYNjF0V00waFRETndiTHlsLVdXUE9ua0d4ZHhobDIwYXFzejFYVmF4TjFGTklLSlRZY1JBTG1iTUZ0N3dUaXVzbldkM3lDMEp1dlVDZXR6QVdEcHVCRWdxMnNyN3I2WF9uRURaRzZ1Z0VKY0U5dHhjRGlIY2hZLUVRQUMycms2eXg0M2phNlFSM2NLRTNQWnM4bkVic1JIc0FLMXRTUnc?oc=5",
+    "title": "AlgoFET secures Rs 15 crore from Piper Serica to scale autonomous drone infrastructure",
+    "source": "The Economic Times",
+    "published": "Wed, 19 Aug 2026 12:39:35 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "AlgoFET raised 15 crore rupees from Piper Serica to expand its autonomous drone infrastructure platform.",
+    "companies": [
+      "AlgoFET",
+      "Piper Serica"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone infrastructure"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRW9JZFdPbUdrQ2EtWWstS0dvUTVSa2l2dTdpX1Z3MXBsajRIV185b250X2l5NElpZnZ5a25laDcwTDhSUndGTlcxcmRSNE1SXzFTZDRoWGVmbTRrQlM4LWdsMlRUYzdOaUVZYTEwSU12WE1TMWkwUXRPSU5Yc3ZUSmFiQWhoR001aG96UUFJSm9HMDhhQXVsdjU2WC1QN0NzdWs1VDJn0gGzAUFVX3lxTE9jYjRua3N5dV9wak8yeDBSRmlHX1NvRFBEeHVpSXRuYjRGUzBiTTNhbElQXzF2UTl3WVliMXhnUUFTcktWQlhOVHdZYUNNckU4TlM0d1V6RElqNDNiY0RPM0s3cGFPVzVXNmpCaktZblNBUFEteU5taU9TVXFEeDBnbVkza1BHVzlhUFR6TkZnREVfdXYtcDZ2bGVPU0FGSlpjM1JvNXVtS3FpTlNlVS1JN3pZ?oc=5",
+    "title": "AlgoFET Raises ₹15 Cr To Scale Autonomous Drone Infrastructure",
+    "source": "outlookbusiness.com",
+    "published": "Wed, 19 Aug 2026 11:46:41 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "AlgoFET closed a ₹15 crore funding round to expand its autonomous drone infrastructure platform.",
+    "companies": [
+      "AlgoFET"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone infrastructure",
+      "funding"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa2dwVWhjREJDZzRnTXhfNzFCUDdzeHVhS2RHS0dtdVdGcEQ3ZmpCQUszeFRrZElIVG1qMEV6aGpRV1c1RTZ0RklVekZiQ09HMDVxUXptWTJXYm5TYzMxY2dmQXdMY2g4U0Q0X3BVQU9ER2JDSzBoSk5fUS1fTW9PRWJWNzdTdUxxNTFwRkxsLXotZ19lOXBTcm9mYjdraTdJcEV3RDE1MHZpcDJuZDI5aUtqbzludU1xX3hsQWVWU1V4Tjc2XzBDbEtWeXFkb3dmUGZ2N2VKanlMdw?oc=5",
+    "title": "Uber Stock Pauses Tuesday as Autonomous Delivery, Robotaxi Moves Take Center Stage",
+    "source": "Benzinga",
+    "published": "Tue, 18 Aug 2026 19:15:37 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Benzinga reports on Uber's stock movement amid the company's autonomous delivery and robotaxi initiatives, offering market analysis rather than concrete developments.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous delivery",
+      "robotaxi",
+      "drones"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTlIzbnp2cllEVXhxeUFCQmV6NzVtWHRfZnEwVDlvc0MzWG11T0NWbHVpekJCdHBHYTAyX2Z6VXRNdHg0OF9UblVnNlRJRl9HTnJXNGN3MFR4NWNmQmRDSFJSWlUtTHpjZlQ4MDRKazRaR1ozZGNpLWhSTXUzSEE5MmdFYXlPanBFLUFZUE02R1h2aHR4SnVYWUNENmt2LXRNcjdnWDEyRndneXpJelNKazF6RXYxMTg?oc=5",
+    "title": "Uber and Zipline Partner on Drone Delivery: More Growth Ahead?",
+    "source": "TradingView",
+    "published": "Tue, 18 Aug 2026 16:09:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline announced a drone-delivery partnership to expand logistics coverage across new markets.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "partnership"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://wayve.ai/press/alex-toshev-joins-wayve-labs/",
+    "title": "Alex Toshev Joins Wayve Labs to Lead New General Robotics Intelligence Effort",
+    "source": "Wayve",
+    "published": "",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Alex Toshev joins Wayve to lead a new robotics intelligence division as the autonomous-driving company expands beyond vehicles.",
+    "companies": [
+      "Wayve"
+    ],
+    "people": [
+      "Alex Toshev"
+    ],
+    "themes": [
+      "driverless",
+      "embodied AI",
+      "autonomous mobility"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://www.ehang.com/news/1382.html",
+    "title": "EHang Launches Global Fast Track Program to Accelerate International Commercialization of Pilotless eVTOL; Sri Lanka First to Adopt",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang launches a Global Fast Track Program to accelerate international commercialization of its pilotless eVTOL aircraft, with Sri Lanka becoming the first country to adopt the regulatory pathway and targeting commercial operations within four months.",
+    "companies": [
+      "EHang",
+      "Civil Aviation Authority of Sri Lanka"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "pilotless aircraft",
+      "urban air mobility",
+      "international expansion",
+      "regulatory approval",
+      "commercial operations"
+    ],
+    "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
     "duplicate": false,
