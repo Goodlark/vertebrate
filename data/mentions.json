@@ -24456,7 +24456,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24508,7 +24508,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24814,7 +24814,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24838,7 +24838,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -24933,7 +24933,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -25006,7 +25006,7 @@
     "first_seen": "2026-08-13T15:55:17",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -25305,7 +25305,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -26090,7 +26090,7 @@
     "first_seen": "2026-08-14T15:46:58",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -26494,7 +26494,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -26593,7 +26593,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": "Waymo's Phoenix-area sprawl keeps growing, but the deliberate skip of West Valley shows the company still expands street by street, not city by city. As Uber leans on Pony.ai for scale, Waymo's slower, wholly-owned rollout is the strategic counterpoint to watch.",
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -26669,7 +26669,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -27772,7 +27772,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28004,7 +28004,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -28064,7 +28064,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28655,7 +28655,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28730,7 +28730,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28895,7 +28895,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28991,7 +28991,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -29039,7 +29039,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -30016,7 +30016,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -30165,7 +30165,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -30206,7 +30206,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -30337,7 +30337,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -30858,6 +30858,1110 @@
       "commercial operations"
     ],
     "first_seen": "2026-08-19T15:26:41",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTy1WY2ZsN0tZSW5sYUpRdmNoeC1lc2tsM2xIZXlqelZSZUMzLTBUM29oNHFuU2ljNUxEelN3UlJnT1ZCS3AyWjRxd2FTemR2LVlTaFZqNjgxTERXOUdGeW9ac3pqWHlGeGdiTzBCSlhsQTdZTkJKeVhoZXBpSmxNb9IBhgFBVV95cUxNOXJaVm5kdzI1akwzd3hXdWtKclgzMWtBMmNMRnhzdURsNGF5UGYxUzlLdGRQX19HbHMxRm9Ud0Z6U1lNWXJueGVaVXF1bE5xeTdMY004Ml95N1FZSlFyZGlKLTI2bUZ5WURvYm5XVE5wM2gyTDdVeDVrS2JaTHl5ZEZ2Umlkdw?oc=5",
+    "title": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
+    "source": "CNBC",
+    "published": "Thu, 20 Aug 2026 08:21:59 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Unitree founder predicts humanoid robots will reach a transformative inflection point roughly a decade out, comparing the potential breakthrough to large language models' recent ascent.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Unitree founder"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "inflection point"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2d2YVVlRE1idGpzRnBVaHJPY3NTdk1SVU8wZmlVVU05ZVEyQzZDVlRGcXJmdlJzNGZiOTlsS2JKLXdhVjZld1BlNzNhZWpMbjNKQmhJdHpBRGU3QmhNLTBnVVdNSHV1NW5DTEJpV0IyYloxZFdjZ0hMeGExOXdGZHQ0ejA?oc=5",
+    "title": "Who is really buying China’s humanoid robots?",
+    "source": "Financial Times",
+    "published": "Thu, 20 Aug 2026 02:01:57 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The Financial Times investigates the murky market for Chinese humanoid robots, where buyers remain largely hidden behind corporate veils.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "market analysis"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYjFtSC0yZ3FPbWVFNWlDRU5yOE5LR0EwNEI3X3ZWLTV5Q0t4MWxGU0pESE9pU0hiMVA2a3hmczBfM01WZkhxa1FYTF84U0dZNFpWUEdOQ0pqRGRRdnhScmF0ajBvTENPRUdOXzhMdnpxbTItRjBram9vb0tfS2JDUFNJdm5wTjhGMk9PX1hsSG9oUWx6T2JCbUZZc0paZkQtaFUtTGlaMGdzaWU0azR4VlVNSnpYejRMZ1BodHRoUkhfamh3WGdKVWt2by1ycG5v?oc=5",
+    "title": "The World Humanoid Robot Games are back -- what feats can they pull off this time?",
+    "source": "PR Newswire",
+    "published": "Thu, 20 Aug 2026 13:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The World Humanoid Robot Games returns with 2,056 robots from 16 countries, introducing autonomous racing and real-world job simulations to move machines from arenas into industry.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "competition",
+      "robotics"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmlxdF9ZbkxBalFGcmlRelctMXdsbE1Xbk9uNHNuOU16TGNaVnV3YVcxRXBJajJoeGZUZGVBN1o5X1VOS19QanRmWVRlUDhTTE1aY1h4dEhRVkg2TEJINEI3bXNVck9UYko1V1FhME1aZGRLeUU0cVBNSHdQTW81WTZuNTVmbUhUUDk3RUtoSTVRUQ?oc=5",
+    "title": "China robot makers seek to turn humanoid hype into useful work",
+    "source": "New Orleans CityBusiness",
+    "published": "Thu, 20 Aug 2026 15:17:49 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Chinese humanoid robot makers are moving beyond flashy demos to real factory work, with Unitree Robotics' IPO signaling serious commercial momentum.",
+    "companies": [
+      "Unitree Robotics",
+      "Lumos Robotics",
+      "Chery Automobile",
+      "NVIDIA",
+      "RealSense",
+      "Leju",
+      "Robotera",
+      "DexForce",
+      "Lens Technology"
+    ],
+    "people": [
+      "Madison Huang",
+      "Jensen Huang",
+      "Mike Nielsen",
+      "Xin Guobin",
+      "Zhang Dapeng",
+      "Nicole Yang"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China",
+      "robotics"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54NnhnM25VZ1RXblFsTzJwVnI3YnFsclMtTEFjRU9YOWpiRXFsd3dNc0l3amRINGVmcDV1aElON1ZUZEozemFrSFl2dUNYUzY3VjR0V0FPU1VaM1o1MkE?oc=5",
+    "title": "AGIBOT Ranks No.1 in Global Humanoid Robot Shipments in H1 2026 According to Counterpoint Research",
+    "source": "AgiBot",
+    "published": "Thu, 20 Aug 2026 09:38:45 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AgiBot leads global humanoid robot shipments in the first half of 2026, according to Counterpoint Research.",
+    "companies": [
+      "Counterpoint Research"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics shipments"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXlIazlNQ2ZSLU91OTlmYTR4Y0RnZVR1R0JyLVdfUklDNzFMXzBySGd3Mkh5d1ZWemxvZWZTSVRRNVRRdk1FZ3hRRG9hNndEU0kwRkVLYldmdFFxblYwUXJOMGRRcGQ4M0U2eWFnY0dzQ04waWxLUG5XZ1Y5a1E0aDd4a3dJWXV5NWxMeWZsX25kQzdYekdQZkJCNWVJZXNPM0xmbEQ2VQ?oc=5",
+    "title": "Watch China Humanoid Robots Shift to Industrial Utility",
+    "source": "Bloomberg.com",
+    "published": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese humanoid-robot makers are repositioning their products away from consumer showmanship toward factory floors and warehouses, where the economic case is clearer.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial deployment",
+      "China"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckxfNUFQMEdMTXFxdS1ubDFRRWM0amZIcmJERDg5d3JTSFJ1U2tqc0d6aUt5elZoRUF1WnF1aC1obG5zRVFSSHhuVVNpaFlKTS1XZHIyVElOanRJdWM5UnE5eDE0QlFhb2ZsR1FhSFlsTWx1dnhfYm9KSmJrTlhXQ05GbmNfY2N3OFhIQkpLWUpTRExIcHE0NmZCclRPLWd2aFhJTFJuOWluaFNHbFBKVlRBMWE?oc=5",
+    "title": "Physical AI Model Learns New Robot Tasks From Seconds of Demonstration",
+    "source": "Assembly Magazine",
+    "published": "Thu, 20 Aug 2026 11:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Generalist AI's GEN-1.5 foundation model learns new robot tasks from seconds of video, adapting when tools or conditions change—potentially transforming how factories retool for different products.",
+    "companies": [
+      "Generalist AI"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robot learning",
+      "few-shot learning",
+      "task adaptation"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nVkdnZ3haZWVtcjltMU1qRFlxUnlmb09YcEdQaGxRMWFUUlVKbVF0aTh1dzFDdVhXUXE3UXY1NnFMcC1QWTRsTWZhRnhPNGF4a2VjWm9EQmZ1V01KTldCdnBtc3lWNDJHQmN5SUpNcVdLWWo0X3FJa2tycnJRZw?oc=5",
+    "title": "Unitree unveils 'Superman' humanoid robot with vertical jump of 2 meters",
+    "source": "China Daily",
+    "published": "Thu, 20 Aug 2026 12:16:23 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree has unveiled Superman, a humanoid robot capable of jumping two meters vertically, marking a leap in the company's hardware capabilities.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV04xY0dmblBmTGNva05NUG9oZ0REcGo0bTFkVnppcGZqdWxydUl0M0RnZUU0U2w3WjdtZkE1bXdmV3ZIZzU1X3Zzd1QwVENaQUpNV2w0eDFSd1RFX0xGQjNCZ2hJOUxLNFkwdlBYeV9ZdWhuWkV4M2swWmdTV0xJejc0V1JxbUNia3ZkTnJ2UjJkMEZVQUd1STBvbExzZkNUSTdwYWNrSmR2UQ?oc=5",
+    "title": "Why Unitree became the first humanoid robot company to go public in China",
+    "source": "TechNode",
+    "published": "Thu, 20 Aug 2026 09:16:14 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree became the first humanoid robot company to list on a Chinese exchange, marking a milestone in the commercialization of physical AI in Asia's largest market.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "public markets"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWENSYzd1bHZFeVRETkQ4LVo5RHJBaUpDMUdJc2w5OHdSYk0zTkNpc0pKSWh4TWhTTl9JMUpCRHRXeE1qQlMwMUVYYWZiZTREZWtIU2dKZVJObjByU3g1cURoOUMwdHdmTFhxRTNMeDh3dzdzOXJlTy1XWVVQN3MxMDMzX3FIYlJ1cC15UF9nLUFPMEl5WUN3T0pBNy1QaGJQOVBF?oc=5",
+    "title": "Chinese companies to watch at the World Robot Conference",
+    "source": "Reuters",
+    "published": "Thu, 20 Aug 2026 12:11:02 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Reuters previews Chinese robotics firms expected at the World Robot Conference without naming specific companies or announcing concrete developments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43NGRPRTkyNE80bHQxb2lPM0FaMlliZkxMNW9oUjNTbEZIUm5VSUVEanA4RHhrMWZ4TUVpR0FqTmNfNkMxZ3NCUVdiSmVFQjlQeS1kRU4zYmZlTTU4WU8wRDhYQWZOb3VJ?oc=5",
+    "title": "“We are marching towards a ChatGPT moment”: Unitree CEO sees robots nearing AI breakthrough",
+    "source": "calcalistech.com",
+    "published": "Thu, 20 Aug 2026 06:53:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Unitree CEO Wang predicts robots are approaching an inflection point comparable to ChatGPT's impact on language models.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Wang"
+    ],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "AI breakthrough"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwUUpGYTMtMG5yLTYzVFVwNEZMUTZ5YTE3a0lldnl1bmpNSllLSWhtMFhYWnB5SUhDUldIZ1BtY3pyanRIMWVyc2pPUEdzV1VOMGN3cjVldzl6ampCUkVDSkhIb0tMOU5uM2ZzN0pId2V4Snp2OG5rVDBuVE8?oc=5",
+    "title": "Nori A3: New US-made humanoid robot with just $1,688 price tag for house chores unveiled",
+    "source": "Interesting Engineering",
+    "published": "Thu, 20 Aug 2026 08:56:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Nori unveiled the A3, a US-made humanoid robot priced at $1,688 for household tasks.",
+    "companies": [
+      "Nori"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "consumer robotics",
+      "home automation"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT09FY2pxMTl5RlkxN1NjdVEzbFJlMWxwMnJzNnJOMGlnTE1waW9RZU1jLXJQdDlua1ZQX3VMQ1lnYVVJUTRzdHgxTkV2M3lDcWlmdlk5VmF3TmZHYUZQZXB2WlNuYVJvZEh0WllaalAwdjQyX1FldjZQc3ZDTndKYjBkRVMxXzdydWZEeS1zVmp5T1oxRnVxNHFiQ3FNWERmNFlhTUdXcDlaODJYYm5XMkFR?oc=5",
+    "title": "The Most Important Part of Unitree’s IPO Wasn’t the Robot",
+    "source": "InvestorPlace",
+    "published": "Thu, 20 Aug 2026 13:02:29 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "InvestorPlace analyzes Unitree's IPO, arguing the market significance extends beyond the robot hardware itself.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "IPO",
+      "physical AI",
+      "humanoid"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenVOanBMVGQwX2VrRlQ2Z3FJeURyd25zS253MlM2S1hPeVRBQ1hhemdWUl9NdjkxMDByX3o2U2p2dy0tZTZEOWtaQ0lHNTZWY3V2N2hwVVhJYzJWQ09PRXV2UnJwT3JWdVBmcUl3QmRRSm5TU3ZXVkl6cUI3ZWk2alMwSEdZVklZZ3NmU3NJaXY3aW1OUGNyd2V2bDF3cEZZTk1vdm96dkxGbkJNcFFReDA4UjBEUQ?oc=5",
+    "title": "Unitree's IPO Fuels Debate Over China's Humanoid Robot Ambitions",
+    "source": "Diginomica",
+    "published": "Thu, 20 Aug 2026 09:05:02 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Unitree Robotics' IPO is being read by analysts as a bellwether for China's push to move humanoid robots from flashy demos into paying factory work, with commentators from InvestorPlace and Diginomica arguing the listing's real significance lies beyond the hardware itself. Even as the market frenzy builds, Unitree's own founder tempers expectations, telling CNBC that humanoids' 'ChatGPT moment' — a true leap in general capability — is likely still a decade away.",
+    "companies": [
+      "Unitree Robotics",
+      "Unitree",
+      "Lumos Robotics",
+      "Chery Automobile",
+      "NVIDIA",
+      "RealSense",
+      "Leju",
+      "Robotera",
+      "DexForce",
+      "Lens Technology"
+    ],
+    "people": [
+      "Unitree founder",
+      "Madison Huang",
+      "Jensen Huang",
+      "Mike Nielsen",
+      "Xin Guobin",
+      "Zhang Dapeng",
+      "Nicole Yang"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China robotics",
+      "IPO",
+      "inflection point",
+      "China",
+      "robotics"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenVOanBMVGQwX2VrRlQ2Z3FJeURyd25zS253MlM2S1hPeVRBQ1hhemdWUl9NdjkxMDByX3o2U2p2dy0tZTZEOWtaQ0lHNTZWY3V2N2hwVVhJYzJWQ09PRXV2UnJwT3JWdVBmcUl3QmRRSm5TU3ZXVkl6cUI3ZWk2alMwSEdZVklZZ3NmU3NJaXY3aW1OUGNyd2V2bDF3cEZZTk1vdm96dkxGbkJNcFFReDA4UjBEUQ?oc=5",
+        "title": "Unitree's IPO Fuels Debate Over China's Humanoid Robot Ambitions",
+        "source": "Diginomica"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTy1WY2ZsN0tZSW5sYUpRdmNoeC1lc2tsM2xIZXlqelZSZUMzLTBUM29oNHFuU2ljNUxEelN3UlJnT1ZCS3AyWjRxd2FTemR2LVlTaFZqNjgxTERXOUdGeW9ac3pqWHlGeGdiTzBCSlhsQTdZTkJKeVhoZXBpSmxNb9IBhgFBVV95cUxNOXJaVm5kdzI1akwzd3hXdWtKclgzMWtBMmNMRnhzdURsNGF5UGYxUzlLdGRQX19HbHMxRm9Ud0Z6U1lNWXJueGVaVXF1bE5xeTdMY004Ml95N1FZSlFyZGlKLTI2bUZ5WURvYm5XVE5wM2gyTDdVeDVrS2JaTHl5ZEZ2Umlkdw?oc=5",
+        "title": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
+        "source": "CNBC"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmlxdF9ZbkxBalFGcmlRelctMXdsbE1Xbk9uNHNuOU16TGNaVnV3YVcxRXBJajJoeGZUZGVBN1o5X1VOS19QanRmWVRlUDhTTE1aY1h4dEhRVkg2TEJINEI3bXNVck9UYko1V1FhME1aZGRLeUU0cVBNSHdQTW81WTZuNTVmbUhUUDk3RUtoSTVRUQ?oc=5",
+        "title": "China robot makers seek to turn humanoid hype into useful work",
+        "source": "New Orleans CityBusiness"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT09FY2pxMTl5RlkxN1NjdVEzbFJlMWxwMnJzNnJOMGlnTE1waW9RZU1jLXJQdDlua1ZQX3VMQ1lnYVVJUTRzdHgxTkV2M3lDcWlmdlk5VmF3TmZHYUZQZXB2WlNuYVJvZEh0WllaalAwdjQyX1FldjZQc3ZDTndKYjBkRVMxXzdydWZEeS1zVmp5T1oxRnVxNHFiQ3FNWERmNFlhTUdXcDlaODJYYm5XMkFR?oc=5",
+        "title": "The Most Important Part of Unitree’s IPO Wasn’t the Robot",
+        "source": "InvestorPlace"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPTU5GZnpnbXlteTNKV250bFZfaWpnZ0lrX2RZQ2laRVpOdjV4eEpxQnFzWHUwWHJNbGZ2SjB4MGFsZ25WYnItTF9GaDZfYVJMQjlPb19kbzl5a2VXanN3REkyUG0yaDdDNUQ0Q1JwVGx5Y2N2ajZ0dE04NndWSzZPdXZwMmJBTVA0b3NXSzE0aXl5TTAwSERaeGJEQlU2U0puSVE2X1hZNlFsaDdQSkNUMDN0Mm9melpPMTJtYkwzMTIxLURxNzRqTTVBRkszN3pKVDAtVTVTV1dvakZMUHZqYVhiUHBKNUtMUS13emVpZHFld0pxMkloUHgxN1dpVVY0YmJ6MEM2THVDWU9iYTRKU0pQS0tpWlhaUGVkSko3cVBJbGpMMkxHVVBibHA?oc=5",
+    "title": "Uber Launches Baidu’s Fully Driverless Apollo Go in Dubai, Establishing the First Multi-Partner Autonomous Network Globally",
+    "source": "Uber Investor Relations",
+    "published": "Thu, 20 Aug 2026 06:34:59 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber is operating Baidu's Apollo Go driverless robotaxi service in Dubai, marking the first commercial deployment of the Chinese autonomous platform outside China.",
+    "companies": [
+      "Uber",
+      "Baidu"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUhTU3JNbkpUd0hlWEZXSUk4OFZUYV9rUnNPd3NDeEtFbDlTVEN6eVVucWF0MXVwcnJCYUdDOGd2cldnM3djMlFIZ1RKRkNHbTZ4aUVacVBmSGQtNEUzbWR1ZGJGdlg1Tnk2aFhPek9ZcGJSR2VsaVhld3ViUVJrMlh5MUdhMGVuZ2ZpSE9vQ203a0IzdC1vZ3Q4U0o2SzN6LWRoaVRZdWhwUkM0bXlsX1NRLTVmdXVidXpDU2R5OFM?oc=5",
+    "title": "Waymo’s Ojai Is Now Open To Public. My Experience Spoke To The Future",
+    "source": "Forbes",
+    "published": "Thu, 20 Aug 2026 12:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has opened its Ojai autonomous driving service to the public, expanding beyond previous pilot phases.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public deployment"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlBIcjVwN3NMcS0zUUtHZDZxNl9YcVdHbHZfYUFUQVNXSjR6UVVOR2NRQ0w4ZzlFMkhmekNHNmdVams5QmpULWhQZEk4UWozRG1iLU9QbEpmYzY2VEVqYWlhbUdQZFY3WlFqVXU4enlOZ2NSeEY5R0UzUG5LazlGWUJqQlhiNDFlY0FkaTFhQmZOM2RlWFlJSGUyUW8tWVdxb2MtdkFFcDF1OVFFbk8zdVN1SGtOUQ?oc=5",
+    "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "source": "TechCrunch",
+    "published": "Wed, 19 Aug 2026 22:25:01 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expanded its next-generation robotaxi service, which costs less than the current fleet, to all riders in three cities.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2tFQUNDRVZCa18yamxYcDJYc1FvTWJJQjBnZTZjbkFTWE5iUlBETmhWV1l3dHpLaVZuZkF5WG9NMDdBMmVyTURQWUpRSzllSnBjNmxkVzlpOExrSngtb2FuOUdjMmZqTnlvX3V5TzFMZzdWVzBTZmJISDUzZFNsenZhdVpIc1FXaUg3Vi1ObzhFMFhZd08wMmJCdTMwRm9FVy05TXRKVTZvRE0?oc=5",
+    "title": "Alphabet’s Waymo Has Built a Custom Chip for Its Robotaxis",
+    "source": "Bloomberg.com",
+    "published": "Thu, 20 Aug 2026 14:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has designed a proprietary chip to power the computing systems in its autonomous vehicles, betting on custom silicon to outpace the commodity hardware rivals rely on.",
+    "companies": [
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "custom hardware",
+      "autonomous vehicles",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BZHNCQk5KeGJyS2VTblYyYWlRS1g1cVdmbklEeGRWaEZnUnNMc3FUNHRxSU52dElVakwzaURPTGRDY1hRZEtJNlNKcVptT0FLYzJOZHF6RDVKTV96X2JGajc5cHdoWEVtcDJ1ZE9sLVMySEhyODJCWVcwZWtjUQ?oc=5",
+    "title": "Tesla Robotaxi With No Driver Spotted Smashing Through Traffic Barriers",
+    "source": "Futurism",
+    "published": "Wed, 19 Aug 2026 17:03:08 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla robotaxi was filmed hitting traffic barriers, but the incident appears to be unverified viral content rather than a documented autonomous-driving event.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NUm9SZ0ptWmZDVG5EVEZzbjB0aUlpQndhZFBZeVJTcjN0ZUhsV2xTTDhMcWpyX0VxSVJ3UVdMTGVPa2VuMjh0MXdXczVnTndGNU1nS0dlM29UdC1oZTFJVDhLa0FPRFViMzQ2TFFUVUdiQU5FWGc?oc=5",
+    "title": "Waymo robotaxis will start picking up Denver riders soon. Here’s what it’s like.",
+    "source": "The Denver Post",
+    "published": "Thu, 20 Aug 2026 10:00:52 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its robotaxi service to Denver, marking another geographic expansion for the company's autonomous vehicle operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGtWZEU4YXNxMmVqYUVzclZ1MU9ua0xtWEhTd20xMTM1Q2lTVWpITTVXMjQzRGpvaTNPanYwaEUybE1tOUNRb2VEcVZVazlzZzBpaEpUYno1dVFzbU1PcDBoZVRKeVRMOUJJcDRDemtraHYxbkxEQzZTUm9SZWdTOUV0c3pySzZRbXNTdkpCODRJVl9XTEFOTDlaUE0?oc=5",
+    "title": "Alphabet’s Waymo Has Built a Custom Chip for Its Robotaxis",
+    "source": "Yahoo Finance",
+    "published": "Thu, 20 Aug 2026 14:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has designed a proprietary chip to power the autonomous systems in its robotaxis, moving beyond off-the-shelf hardware.",
+    "companies": [
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "custom hardware",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDhGNXdBalN0NnRpQnNxQnNKam9UYW1jYmNMa29UNkpYMzN3RmpoSHZ2TlBSMTJpWU9qdVpnWVBHRmlMOXB0dTJRMDA1ZXU2a1ZsZ3BtdW9LSmxXTkhiVUR4eWtCT2t1ZndHdmZWZEZXZW9vOHhQclFpWjV6VVotUUxacF9EbjFVbXY5MkV3Z2E?oc=5",
+    "title": "Tesla 'Intentionally' Not Adding EVs To Robotaxi Fleet; Semi Truck Set For Europe",
+    "source": "Investor's Business Daily",
+    "published": "Thu, 20 Aug 2026 13:17:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is deliberately limiting its robotaxi fleet to purpose-built vehicles rather than converting existing EVs, as it prepares to deploy its Semi in Europe.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZEhTaXZ5TzZ3SzZKVzZPb2hUTHFkaWxhVHZoeHp5eW16NWljMGtLNUpGR3hNUmNsQ2JhZnRjakJ1NTItZEdReTV3anBvUlpvZTNJRWNkN2hpZUpzMExub1Q5SWdoa1BYZXJrb1Izd01kYjFBUXRaM3BuYWx2U213VzgtWFpmR3oxOXNPRlZwdXdFWEo5TkJTMFg3NXREVndZQlF5VHNoc1VfX01Ed1Z4ejZaSU5XZ1pIbUZYdGJDU3I5M1R4aEc3cDhOVWtMNHM4aUhuZ2pkWTJlbXMwdmZXelVLZUdzb0E?oc=5",
+    "title": "Waymo to arrive in Berkeley, promising improved safety amid concerns",
+    "source": "Daily Cal",
+    "published": "Thu, 20 Aug 2026 12:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless taxi service to Berkeley, California, marking another city deployment amid ongoing safety debates.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "expansion"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlpzMFVSNVJUUmgtT2lDUUtKcFdBbWpldWJnaW80OVJBWjRFVHh2WC1RRklyVTZlS2p2LWhTNndjclFXVjQzSHB6aDlUb0tEQ0REQVNTeUdpR2pjMEREblNjVmJ1ZjB3dFNKM25rbXRBOVo4RHh3SlFJc0lIR0o2QUJuc2xCbVI3U1pBSUpScE0tMkFjUE5KNndvX1lTSjJsd1JTbVhxaDJmRnd2N0l3aQ?oc=5",
+    "title": "New kind of Waymo arrives in Phoenix",
+    "source": "12News",
+    "published": "Thu, 20 Aug 2026 14:48:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is deploying a new generation of its driverless taxi service in Phoenix.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PQ0ZoeHlkeWprQXZDU3RuVGtKalBfX1JzZGM1NDUwTFhncGpDLUJBaU5yejNxal92RC1LeTJ5TnNRV3FJT0pQcENORmZvSnZ5ZGhnazhhcjcyZi1abzhvWHQtOURmSUk?oc=5",
+    "title": "I rode in a Waymo for the first time. Here are 5 things I noticed",
+    "source": "Denverite",
+    "published": "Wed, 19 Aug 2026 21:26:34 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Denverite columnist shares personal impressions from a Waymo robotaxi ride in Denver.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MEZsLVFPcEY4Q0ZsVmZ1QVRucDF4UGUzbjEtVnQyUWJMd01PWF8tSGZBR3dPSnpGMVFiNENQdlZaOUVMVi1lYXdUUnY3UE9kSXdrSW9DY3FfWW93LXBCMnRsWDZEN0R3TjE4VzFZTVd0Z2lwSHpIdTRRVQ?oc=5",
+    "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+    "source": "blog.google",
+    "published": "Wed, 19 Aug 2026 17:47:50 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is integrating Google's Gemini AI into its Ojai autonomous vehicles, expanding the bot's role beyond mapping and navigation.",
+    "companies": [
+      "Waymo",
+      "Google"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "AI integration",
+      "Gemini"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUlDcWdadDVyOXFJeWdWdVdweHd5alFYMW5iSmtwME9kNnptX2piSlNzbC1GQ3JUVWJMTnhUQzdtTlpaNl9PTG9ybk1xendDSW9QUEszMk54V2d6aXB2cl9jZTBjYi1yZldCajVNNWJXdDE5WjMwbUpoRXZfN1NtVDQ1MzlQbjBwSVNodnAwNUJnNzlCcFdrSnJIQXFSTTQ?oc=5",
+    "title": "Waymo's Ojai Minivans Go Fully Public, Gain Gemini Brains",
+    "source": "Engadget",
+    "published": "Wed, 19 Aug 2026 21:07:58 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has thrown open its Zeekr-built 'Ojai' robotaxi vans to all riders — no more waitlists — across three cities, and begun accepting fares from paying passengers. The company is also wiring Google's Gemini into the vehicles, letting the AI take on chores beyond mapping, from route chatter to trip planning. It's the clearest sign yet that the vans, once a curiosity, are becoming Waymo's workhorse fleet.",
+    "companies": [
+      "Waymo",
+      "Google"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "AI integration",
+      "Gemini",
+      "robotaxi",
+      "public deployment"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUlDcWdadDVyOXFJeWdWdVdweHd5alFYMW5iSmtwME9kNnptX2piSlNzbC1GQ3JUVWJMTnhUQzdtTlpaNl9PTG9ybk1xendDSW9QUEszMk54V2d6aXB2cl9jZTBjYi1yZldCajVNNWJXdDE5WjMwbUpoRXZfN1NtVDQ1MzlQbjBwSVNodnAwNUJnNzlCcFdrSnJIQXFSTTQ?oc=5",
+        "title": "Waymo's Ojai Minivans Go Fully Public, Gain Gemini Brains",
+        "source": "Engadget"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MEZsLVFPcEY4Q0ZsVmZ1QVRucDF4UGUzbjEtVnQyUWJMd01PWF8tSGZBR3dPSnpGMVFiNENQdlZaOUVMVi1lYXdUUnY3UE9kSXdrSW9DY3FfWW93LXBCMnRsWDZEN0R3TjE4VzFZTVd0Z2lwSHpIdTRRVQ?oc=5",
+        "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+        "source": "blog.google"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnp3bXU0V00zRFBuRkRJa1ZOM0hVLVhWNUxVbm4yZWNUbnZNMGVIN1R6aXVib2Q3NThkT1g2QnFlRnZROXFTdmd2QlJGMU1scG1vNHpxNjVJSFlkalh2SE04dVp6cXdGWWpyejdjVHlnM3FtUUYwaGdNYVhPalMtMXJWY3NINThfLVdDa0d5OHRCUlpvOUk1VmllM0RheU04eE9B?oc=5",
+        "title": "Waymo’s New Robotaxi Minivans Are Now Taking Paying Passengers",
+        "source": "Yahoo Autos"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUhTU3JNbkpUd0hlWEZXSUk4OFZUYV9rUnNPd3NDeEtFbDlTVEN6eVVucWF0MXVwcnJCYUdDOGd2cldnM3djMlFIZ1RKRkNHbTZ4aUVacVBmSGQtNEUzbWR1ZGJGdlg1Tnk2aFhPek9ZcGJSR2VsaVhld3ViUVJrMlh5MUdhMGVuZ2ZpSE9vQ203a0IzdC1vZ3Q4U0o2SzN6LWRoaVRZdWhwUkM0bXlsX1NRLTVmdXVidXpDU2R5OFM?oc=5",
+        "title": "Waymo’s Ojai Is Now Open To Public. My Experience Spoke To The Future",
+        "source": "Forbes"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWl9zM0NZYmM4aXphMURWb3ZtcUh2RmRyUXhkQWg2clM2QW9GbktKTGVsaGRTV251SGNCMVZyTWlZdFIzVUVZX3JKalc3OFptamd5Qi1BR3QtNmN3ZUM0a29YXzg2ZF94NlloeGREblp5LVR0R20ybjJqOFNCYXJQQzBPTUZ1OUt1Y0dOcm51MVlWSFhDdHJfeWRfbHhFVkh6UXdWLWlwVnFqYzNqN3NlNl9ldElael9ZNnZGdmxfWU1vRlhJMmxqNnhPVFdwMXBNUTRyVUlNUjExc0ZmTnhLNDgxX2hmbzhlYkhvbDVBcVlNanNh?oc=5",
+    "title": "Waymo's Robotaxi Map Keeps Growing: Denver, Berkeley, Phoenix and California Regulators Sign Off",
+    "source": "coastside buzz",
+    "published": "Thu, 20 Aug 2026 01:14:20 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo continues its city-by-city creep, with rides set to begin soon in Denver and Berkeley and a freshly redesigned sixth-generation vehicle rolling out in Phoenix. California's Public Utilities Commission, meanwhile, cleared that same sixth-gen robotaxi for the Coastside as well as San Jose, San Francisco and Sacramento — a regulatory green light that unlocks yet more turf even as safety questions trail the expansion.",
+    "companies": [
+      "Waymo",
+      "CPUC"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "regulatory approval",
+      "safety",
+      "expansion",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWl9zM0NZYmM4aXphMURWb3ZtcUh2RmRyUXhkQWg2clM2QW9GbktKTGVsaGRTV251SGNCMVZyTWlZdFIzVUVZX3JKalc3OFptamd5Qi1BR3QtNmN3ZUM0a29YXzg2ZF94NlloeGREblp5LVR0R20ybjJqOFNCYXJQQzBPTUZ1OUt1Y0dOcm51MVlWSFhDdHJfeWRfbHhFVkh6UXdWLWlwVnFqYzNqN3NlNl9ldElael9ZNnZGdmxfWU1vRlhJMmxqNnhPVFdwMXBNUTRyVUlNUjExc0ZmTnhLNDgxX2hmbzhlYkhvbDVBcVlNanNh?oc=5",
+        "title": "Waymo's Robotaxi Map Keeps Growing: Denver, Berkeley, Phoenix and California Regulators Sign Off",
+        "source": "coastside buzz"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NUm9SZ0ptWmZDVG5EVEZzbjB0aUlpQndhZFBZeVJTcjN0ZUhsV2xTTDhMcWpyX0VxSVJ3UVdMTGVPa2VuMjh0MXdXczVnTndGNU1nS0dlM29UdC1oZTFJVDhLa0FPRFViMzQ2TFFUVUdiQU5FWGc?oc=5",
+        "title": "Waymo robotaxis will start picking up Denver riders soon. Here’s what it’s like.",
+        "source": "The Denver Post"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZEhTaXZ5TzZ3SzZKVzZPb2hUTHFkaWxhVHZoeHp5eW16NWljMGtLNUpGR3hNUmNsQ2JhZnRjakJ1NTItZEdReTV3anBvUlpvZTNJRWNkN2hpZUpzMExub1Q5SWdoa1BYZXJrb1Izd01kYjFBUXRaM3BuYWx2U213VzgtWFpmR3oxOXNPRlZwdXdFWEo5TkJTMFg3NXREVndZQlF5VHNoc1VfX01Ed1Z4ejZaSU5XZ1pIbUZYdGJDU3I5M1R4aEc3cDhOVWtMNHM4aUhuZ2pkWTJlbXMwdmZXelVLZUdzb0E?oc=5",
+        "title": "Waymo to arrive in Berkeley, promising improved safety amid concerns",
+        "source": "Daily Cal"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlpzMFVSNVJUUmgtT2lDUUtKcFdBbWpldWJnaW80OVJBWjRFVHh2WC1RRklyVTZlS2p2LWhTNndjclFXVjQzSHB6aDlUb0tEQ0REQVNTeUdpR2pjMEREblNjVmJ1ZjB3dFNKM25rbXRBOVo4RHh3SlFJc0lIR0o2QUJuc2xCbVI3U1pBSUpScE0tMkFjUE5KNndvX1lTSjJsd1JTbVhxaDJmRnd2N0l3aQ?oc=5",
+        "title": "New kind of Waymo arrives in Phoenix",
+        "source": "12News"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0oxZE92cmNScVl3T2NfNTRtbF8taGFEeEtFZVB4U2RMR1E2Y2NmN3VhZ1BRSURRUnJVamhxZl8wUWV2X3R3VU9zLVVEUV95Y2pHMnpEbHBlbHpWSlJlaGd0dHctTXVHcEp1a0swV1E1dGw1ZEFKNEFIWlhYOE1kX09yVWhpUQ?oc=5",
+    "title": "You can now ride a Chinese EV in the US as Waymo opens Zeekr Ojai to all",
+    "source": "Electrek",
+    "published": "Thu, 20 Aug 2026 14:46:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has opened its driverless service in Ojai, California, using Zeekr electric vehicles from Chinese parent company Geely.",
+    "companies": [
+      "Waymo",
+      "Zeekr",
+      "Geely"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVkySFBPTm5OQ3pFc3NMZWNPb2t2SnBmUElORFBxaG9ER3BBZzNoQU5Jc0g2bUN1clVIYzhhcVhvRC1yNUZGTVd2YnEzZFAzckkxaWN1U1p5MTJjaElrcm95MjQ0TjA3R0VfSVJ2ZEc5Xzlfa2xiYzEyYmZndmltMQ?oc=5",
+    "title": "Tesla's Driverless Robotaxi Debut in Austin Hits a Snag—Literally",
+    "source": "The Next Web",
+    "published": "Thu, 20 Aug 2026 14:45:36 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla began running robotaxis in Austin with no human in the driver's seat, pushing its autonomous fleet beyond the tightly geofenced routes it had used before. Almost immediately, footage surfaced of one of these empty-seat vehicles plowing through traffic bollards, though the clip's authenticity remains unverified. The juxtaction—bold expansion, chaotic viral evidence—captures the shaky optics around Tesla's leap to fully driverless operation.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle",
+      "testing"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVkySFBPTm5OQ3pFc3NMZWNPb2t2SnBmUElORFBxaG9ER3BBZzNoQU5Jc0g2bUN1clVIYzhhcVhvRC1yNUZGTVd2YnEzZFAzckkxaWN1U1p5MTJjaElrcm95MjQ0TjA3R0VfSVJ2ZEc5Xzlfa2xiYzEyYmZndmltMQ?oc=5",
+        "title": "Tesla's Driverless Robotaxi Debut in Austin Hits a Snag—Literally",
+        "source": "The Next Web"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BZHNCQk5KeGJyS2VTblYyYWlRS1g1cVdmbklEeGRWaEZnUnNMc3FUNHRxSU52dElVakwzaURPTGRDY1hRZEtJNlNKcVptT0FLYzJOZHF6RDVKTV96X2JGajc5cHdoWEVtcDJ1ZE9sLVMySEhyODJCWVcwZWtjUQ?oc=5",
+        "title": "Tesla Robotaxi With No Driver Spotted Smashing Through Traffic Barriers",
+        "source": "Futurism"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uV1JJQU1sYy1FTm5EMUFCQmxMd2NHZkdGRFhITmlJbUtTamVxd1hGT0JKZVBKYU93Sjg4Tm1WYzB4YXdtQ2pVY1dkQmVnaHlLU21OYk1FdlN2Z1pncnRVYkZsLTl6TWlEM1pNYWVjaXF5Zw?oc=5",
+    "title": "Waymo's custom chip decides what the car sees",
+    "source": "The Next Web",
+    "published": "Thu, 20 Aug 2026 15:11:15 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has developed a custom chip that filters and processes what its autonomous vehicles perceive from the road.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "hardware",
+      "perception"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnp3bXU0V00zRFBuRkRJa1ZOM0hVLVhWNUxVbm4yZWNUbnZNMGVIN1R6aXVib2Q3NThkT1g2QnFlRnZROXFTdmd2QlJGMU1scG1vNHpxNjVJSFlkalh2SE04dVp6cXdGWWpyejdjVHlnM3FtUUYwaGdNYVhPalMtMXJWY3NINThfLVdDa0d5OHRCUlpvOUk1VmllM0RheU04eE9B?oc=5",
+    "title": "Waymo’s New Robotaxi Minivans Are Now Taking Paying Passengers",
+    "source": "Yahoo Autos",
+    "published": "Thu, 20 Aug 2026 12:54:32 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has begun commercial service with a fleet of autonomous minivans designed to carry multiple passengers.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFQ0VUdabmtfNWpZbkE1c05zZzc4SzM5YXBSQXZlVnZSYVpBTnlWblBWczN6bXNUVk40NmMyQmktV1pwaXptUHo1RmpEUnR5SlVaZElRTFQxYWJxVXdlSGgwOFFqbFVlRmkyQWxibUFCMG83NE5xNF9wLVVWVGJYTDNJWWhEV09VaDB3eExVODgxWlU?oc=5",
+    "title": "Production of world’s first autonomous AI drone designed for first responders to be scaled up",
+    "source": "Interesting Engineering",
+    "published": "Thu, 20 Aug 2026 09:50:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "DefendEye, which makes autonomous drones for first responders that deploy in seconds from weatherproof tubes, is scaling production after closing a major funding round led by NovaCapital.",
+    "companies": [
+      "DefendEye",
+      "NovaCapital"
+    ],
+    "people": [
+      "James Buchheim"
+    ],
+    "themes": [
+      "autonomous drones",
+      "first responders",
+      "AI",
+      "production scaling"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0lQR1EtZkk1UV91ZnNMQ01rOGxveWk5NlZSQXVnS3R5bkhINnNpOE9pOVZMMUNvV1R4c1kxdnVOSHNmVlRhMWpwREhoTEtXRXRyZ1dGamxucnhzVW1Lb24tcHJzRU5sa2l5d2dqX0lBamE4cm5KMzhteUMxU3V6TEduNVJxVmM?oc=5",
+    "title": "REGENT seaglider drone joins US military exercise",
+    "source": "Aerospace Global News",
+    "published": "Thu, 20 Aug 2026 14:44:58 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "REGENT's seaglider drone participated in a U.S. military exercise, marking an operational test of the hydrogen-powered aircraft.",
+    "companies": [
+      "REGENT"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "seaglider",
+      "military",
+      "hydrogen-powered"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XRlJjSHQtX054YkkyV1pWOWR4VXBvSHg5RlA5RllCQ0ZBMDE3NVo2aXVrN1VFZ1JYbW5UeVI1TDI3bHJSSV9ZRm1lY05hR0t3ZF9DODQ4WkNFQmxYcTVuLTVQZzRrdDktMzhmVnV0djB3MEFaSnR2Rm1teDNsQQ?oc=5",
+    "title": "Army Drone Battalion to Refocus on Airborne Infantry Role",
+    "source": "GovCon Wire",
+    "published": "Thu, 20 Aug 2026 09:45:45 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The Army's drone assault battalion, established to study autonomous warfare after Ukraine, is abandoning the experiment to return to traditional airborne infantry duties.",
+    "companies": [
+      "U.S. Army"
+    ],
+    "people": [
+      "Christopher LaNeve",
+      "Dan Driscoll"
+    ],
+    "themes": [
+      "military drones",
+      "airborne operations",
+      "Army doctrine"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUNsMDk3bGVEcXA5dzV4ZWVOb3NqdzdGTkRxV3ZHRlNONFN2WUM3dThnQWVvNWY2N01FNmZja3BMUWVNa3EyeEF6UUFrRlhXbzRrSFZGdm81QkJ3R09acDYyLWFEdUNfXzhob19reWRDdE1VaXRkRDYydTFkYTVFMTMtSlIxTWRFV2wxeEs4QWxRYlh1aG5keXVXem9xZ1p6ZVE?oc=5",
+    "title": "REGENT Demonstrated Autonomous Seaglider At Navy Drone Event",
+    "source": "Defense Daily",
+    "published": "Wed, 19 Aug 2026 22:59:07 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "REGENT showed off its autonomous seaglider—a craft that skims just above the ocean surface—at a Navy drone demonstration.",
+    "companies": [
+      "REGENT"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "seaglider",
+      "maritime",
+      "naval"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEhrQ2YyeFpMZlAxOVkxMV9lNUdKTE43eHdGZkZ5VmRfWm9fNzR2dk8wa3ZCdVJfOWMyd3hwclBoaW1KMTVjX3V1anc2NVZTMThMOUNMT2J5SmhkWGFZQnVFODJyMm1FWGRRS2xraWRwcDJlY2FTNEFZLWVEa0Z2RlNvUTJISzNwelpRRVkzUHZjUURQNnFZZHpXVEdCX0gwQWw0MkdYRVEybm1J0gGyAUFVX3lxTE03dHRuTDVzdXZGYThjVkFkbk5Lem9Qb0ZvWVdyUHpTSjBUZEZvY1JvSkEzaXM0UUdWT08xSjViRlV6T3J6Z185S0NGLUIzVXBraFhjdW9TQ25fd0xKcmVta2FENUNXbEEyZ3ZVOWhFZ1VmUXJLT0lEWF9aNFpoS3ZfdW9Xc21HbE9yeURuM1kyVFkzRExmODlJYjhiYXRDMlp4V1BVcWVGQnZvRWNEQnZWY1E?oc=5",
+    "title": "Inturai Ventures To Acquire DomeCommand Drone Swarm AI Platform For Up To C$6.025 Million",
+    "source": "Pulse 2.0",
+    "published": "Thu, 20 Aug 2026 04:33:46 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Inturai Ventures is acquiring DomeCommand, a drone swarm AI platform, for up to C$6.025 million.",
+    "companies": [
+      "Inturai Ventures",
+      "DomeCommand"
+    ],
+    "people": [],
+    "themes": [
+      "drone swarm",
+      "AI coordination"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHJ6SWxkRUJaaE4yVi1CRFk2anlzeVllOERvZG9NVzlTVHl3cENpNVMycjQzby1vLXlFT2kxYXJYQ0VqRXg4aVN4aGxMdDViTmRvX1loVFRnRGpLU3N2THF3YkhfTjlTN3RmeWdDX3QxZVdueDVoeHZPZWdJRFNlT283NWxCUjh6bUxHUEQzZTdZdmpZdnpkSHFhc0FBWGN0eGcxMXczb0VRRVdtVDlDV1QxdjBfN0U?oc=5",
+    "title": "Karmic Beauty Joins Early Adopters of Drone Delivery in Partnership with Skye Air",
+    "source": "The Financial World",
+    "published": "Thu, 20 Aug 2026 12:51:38 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Karmic Beauty has partnered with Skye Air to begin delivering beauty products by drone, joining a small cohort of retailers testing aerial logistics.",
+    "companies": [
+      "Karmic Beauty",
+      "Skye Air"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "retail"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdm0wd2FkTl9XVi11cDA5Ym1MbTlOcENyM3AwT0tWUVFVX1Vla1FRV29OdURoNjhwTTVZaTd4cWdZM1p5bmZsOWdSb29sd0VWTVd0blN0dHBkb1JTUkZDV1BLeXQtSVl0VzZsR3d3QTgyWEN3WEVZX0lZempNM1c0eXc0YVlTd1BDTmVJVzl2OG5QREZNeEJiSnJoNzNXLUhqZlg1UTJmR1RoUjRPVmp5eUtDWG9icDlwTUh4ZFpfNzU?oc=5",
+    "title": "uAvionix and Airwise Solutions Advance Real-Time UTM for Drone Operations at Skyway Range",
+    "source": "uasweekly.com",
+    "published": "Wed, 19 Aug 2026 10:45:31 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "uAvionix and Airwise Solutions demonstrated real-time unmanned traffic management at Skyway Range, advancing the infrastructure needed to safely coordinate multiple drones in shared airspace.",
+    "companies": [
+      "uAvionix",
+      "Airwise Solutions"
+    ],
+    "people": [],
+    "themes": [
+      "UTM",
+      "drone traffic management",
+      "airspace coordination"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://www.ehang.com/news/1384.html",
+    "title": "EHang Partners with CSCEC Sixth Engineering Bureau on Low-Altitude Infrastructure, with Hainan Lingao Corridor Project Underway",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang and China Construction Sixth Engineering Bureau are building vertiports and low-altitude infrastructure in Hainan to establish a framework for commercial eVTOL operations.",
+    "companies": [
+      "EHang",
+      "EHang Holdings Limited",
+      "China Construction Sixth Engineering Bureau Corp., Ltd."
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "vertiports",
+      "low-altitude infrastructure",
+      "urban air mobility",
+      "China"
+    ],
+    "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
     "duplicate": false,
