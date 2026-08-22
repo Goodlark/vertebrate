@@ -26342,7 +26342,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -26392,7 +26392,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -26494,7 +26494,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -26704,7 +26704,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -26975,7 +26975,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27028,7 +27028,7 @@
     "first_seen": "2026-08-15T15:16:09",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27108,7 +27108,7 @@
     "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27432,7 +27432,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27458,7 +27458,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -27651,7 +27651,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27978,7 +27978,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28919,7 +28919,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -29689,7 +29689,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -30115,7 +30115,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -30458,7 +30458,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -30532,7 +30532,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -31186,7 +31186,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -31325,7 +31325,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -31497,7 +31497,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -31575,7 +31575,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -31964,7 +31964,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -32078,7 +32078,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -32289,7 +32289,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -32476,7 +32476,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -32828,7 +32828,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -33006,6 +33006,592 @@
       "food delivery"
     ],
     "first_seen": "2026-08-21T15:28:04",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0pUU2xqbUpWRzRZUDQyUXJTVTgzQlFwYkNCVy1LV2JjUHhvb24wZUZ5eFZlQ2NaRWVCeFQ4QnpxNHg3X3VXTzZaTllFRFNLNDNjM3hyMWZvcFNpc1k0QXFFbzNoQWZQMmVqRXlUU2s1OW12TmFDbmJDMF9Sb3BUZnFGSER4dXpQemlnZGtCNElFWnlBRXByajVDSmhPZVcwVmR2RlAzNnBEN3hP?oc=5",
+    "title": "Chinese robot runs 100m sprint quicker than Usain Bolt’s world record",
+    "source": "The Guardian",
+    "published": "Sat, 22 Aug 2026 13:28:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese robotics team has unveiled a bipedal robot that completed a 100-meter sprint faster than Usain Bolt's world record of 9.58 seconds.",
+    "companies": [
+      "Chinese robotics team"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "bipedal",
+      "sprint",
+      "locomotion",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkxSaGRkN0pLVkx0RzF4SkhNeVNxbmRJSTlNMnZPelBIZ2N4SnhCOUU0M0hxQTgyXzl2eFdSMWk0ZUE3anVXTjljamJDeFBoczFFaHNSY2ZIREY0eUtiSF9hSjg3VzNVWXpiQkd1T2xQZHpPazZxUmlJOWVrNXlEeVc1bmlXRXNyVHV5WFhHY0E5cTlBb0p5QkVMM3g0Qlk?oc=5",
+    "title": "2nd World Humanoid Robot Games open in Beijing",
+    "source": "Anadolu Ajansı",
+    "published": "Sat, 22 Aug 2026 12:30:04 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Unitree's humanoid robot achieved a top speed surpassing Usain Bolt's record pace at Beijing's expanded World Humanoid Robot Games.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics competition",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0xvd0lXUkNHOUptbzdPdk1lRF9ac2dqOGstTVNhX3VvcHRiTlpmQkdqd3F3bjIydXhqLVZrcWc4ZDRPQVZOd0dZUlRjdW1TT0lIRkRYODljYnRYaHQ3TXN6NDBsZXd3M3hhcllKbDJPY3JFenZmV2wtbWRXY2hjVlo3eWtTZU5WNW0yVzd6cFRyRmp3bXZHOF8yby1oLXd4NlduVUtR0gGrAUFVX3lxTE1qQUo0bndBSlNXWEhwR3NJYWluVWp5WWxqWWsyX1Y1WnJFUU9ZMlB5b1FPLVQwajVkUWRqNTc3bktZRVBlSlpvcEJQV1c2UGYyV0hVSEJjUm1mQUg2TDhHcnNSbFVuc1d2TlNmenAwSjB3dVlYMEx0Z3kxZ2pPNU1oNlFsMWtsdU1tc2g3UGdhTk53TmZYQnkyRnNiRVg3eUFXcE5IVmE5b2Nnbw?oc=5",
+    "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+    "source": "Al Jazeera",
+    "published": "Sat, 22 Aug 2026 11:41:27 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Honor's humanoid robot Lightning ran 100 meters in 9.32 seconds at Beijing's World Humanoid Robot Games, eclipsing Usain Bolt's human record.",
+    "companies": [
+      "Honor"
+    ],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0l4S1k3Nlc4RmNrVVRSQko2YmlxTDJEcExBUTJ1aXJ0OGp5RXhCNFZjNlRSdTZPdmppRXhxUThtY2s1WlVFYnBqSzN2VGR0TkRMQXZ6SzFmVGUxU0EybWlYRW9GbmhNVnZJMEJHUmpuTWoxWktYczd4ei1Ca1Bfc1doaGUydlotYWZwSG1maEplRW1OYnFnY2ItMkFIUGJDS0E?oc=5",
+    "title": "Schaeffler plans to mass produce gearboxes for humanoid robots in 2027",
+    "source": "The Robot Report",
+    "published": "Fri, 21 Aug 2026 19:57:03 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Schaeffler will begin mass production of gearboxes for humanoid robots in 2027, betting on the nascent market's maturation.",
+    "companies": [
+      "Schaeffler"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbHBzWk4wS08tVTdrT25yM1gtWjZyaVFZVzVhVnE2SFVyU2tBOUUxWXRQLVVPeTZ2dm00eTJiY1QtYWUyNGE2RWJTblk4eWphZXQ1WjFiSlBPbnBqNGR5WWhmWDFxRThWWUljdy1sUUJ6SFhkTUhQOFVoTW5ObHhHX1RudTlfdDRaZ3RtNkdQMnE0UWtSYXpKOEVVOEZWWENKS2J1QnRVV0hDNTdEZVI5TjdBSDBpRTd4QlRlb3FzR1JGVzg4eVBjRXlCVkI1dk5salpYWFRxdzkzY0JuSXF4QW50YzU2YVRhRzlZaVRtbGZrT211NGRhMUxpWkdVeEV5MW5qNC01S00?oc=5",
+    "title": "Chinese humanoid robot 'Lightning' beats human 100m world record, state media says",
+    "source": "The Lufkin Daily News",
+    "published": "Sat, 22 Aug 2026 10:09:22 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Honor's humanoid robot Lightning ran 100 meters in 9.32 seconds, eclipsing Usain Bolt's human record by a quarter-second.",
+    "companies": [
+      "Honor"
+    ],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot locomotion"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SOEx0RHVSMHhQRi1vVVh5alBocmdtN0NDTm1NRHNUWDBic01oTEdPUkZYQkNMamdvNTZKMWo3T1hUTGlMbmtIQlVoa2tWblc5MkE1LTZCMWdpeWRhdE0zNGdR?oc=5",
+    "title": "Robot archer lights up ‘Zhixin’ as 2nd World Humanoid Robot Games open in Beijing",
+    "source": "Global Times",
+    "published": "Sat, 22 Aug 2026 13:06:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Beijing robot maker's humanoid archer lit the symbolic flame at the 2nd World Humanoid Robot Games, which opened with machines outrunning Usain Bolt.",
+    "companies": [
+      "X-Humanoid",
+      "Booster Robotics",
+      "Galbot",
+      "Noetix Robotics",
+      "Taishan Sports"
+    ],
+    "people": [
+      "Man Fangfang"
+    ],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "physical AI",
+      "competition"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblBRUGY1M25naThFSWZBcXlmR1JmWkMtUHRMbE5PWU80cmoxZ3ktb1N4M0dnbzFCa2xGOWRzem5WS3hLdjFMY1dzYzVqTnFxY24wZlRCMGVPMy1SYU9Hc0doMEZsbjdRaC1hUG9jT2djTE10eWprTmgzcGYzd3BoVFJVemcxeEd0a24ydklfa0Q1enhNSWx3SkdNbUo2VlhHRXoyRDk1UkM4Z2FVaWxnNVB3?oc=5",
+    "title": "From science fair to strategic showcase: a decade of China’s robot games",
+    "source": "Reuters",
+    "published": "Sat, 22 Aug 2026 05:35:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China's robot competitions have evolved over a decade from grassroots events into state-backed showcases of industrial and military robotics capabilities.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "China",
+      "competition",
+      "industrial automation",
+      "policy"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmViby14SmZkdUE1WDdUMGRwWENwckc5cEc1NVhzNnpXbmFmY28xUWZLMWM3OHlWTFo5YUZBaXZDZ3I0bTM5blJrd0NzQUJIR0JiUzgzUkt4T1ZhN0R4SGZxMERrSldRckdId0xzbkRmX2pjRHQydzdodjFUMnRubWVCMFRvX29vTjRSbzJHWjlZV1M1MElac1VHUUtza1lIZElYWGpUOEJFdERxcDZUOVRMcEhORDQ?oc=5",
+    "title": "Chinese humanoid robot beats Usain Bolt’s 100-meter record in test run",
+    "source": "Anadolu Ajansı",
+    "published": "Sat, 22 Aug 2026 13:03:26 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese humanoid robot has run 100 meters faster than Usain Bolt's world record in a controlled test, marking a symbolic milestone in bipedal locomotion engineering.",
+    "companies": [
+      "Chinese humanoid robot manufacturer"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "bipedal locomotion",
+      "robotics"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfcThsS2RsclE4MzZtRVN4Rk1OTVFnZV9LN0VEOWpacFpTUVNkWGFOUXp6eWxzNmItRnhkb29lYlRxSFloWGJjMEMxZC1oMHVBWDU2LVM3NVVObU9FTnRhRmdR?oc=5",
+    "title": "Humanoid robot breaks human 100m record with 9.39 dash at Beijing robot games, surpassing Usain Bolt's world record",
+    "source": "Global Times",
+    "published": "Sat, 22 Aug 2026 14:13:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Tianzhuo humanoid robot ran 100 meters in 9.39 seconds at Beijing's robot games, obliterating Usain Bolt's human record.",
+    "companies": [
+      "Tianzhuo",
+      "Wind-Fire Lightning"
+    ],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "benchmark"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRHZoM0M3c2I2cWxkSmoyNFZCQVR6bkl1ZHBpODVldXNpbmV1ODBfd3dhQzdTZGoxZC1GOEFoN0J4VUZVS3M0YkJLZEd2Q1VrZktMM1BKREhMT0xxbGtSSXpxQ3lXVUw4YXhHaW1HRWlRWEQ4Yl8tNDlyX3lNNS1HS0YwWFNxeHU4N2hr?oc=5",
+    "title": "China’s Fuxi humanoid robot mirrors human movements in real time for high-risk missions",
+    "source": "Interesting Engineering",
+    "published": "Sat, 22 Aug 2026 13:11:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China's Fuxi humanoid robot can mirror human operators in real time to handle dangerous tasks.",
+    "companies": [
+      "Fuxi"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "teleoperation",
+      "hazardous operations"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xSmJiQTZlcDZxWFp5RlAyOHY4RUNmUXIyalFRbm9XTHJ6V0MtYURqM19ub0FSR2NZem40YzFwYnFJeDctX21sZDFjeXd1OWt5aGpNNDhUbW1ialFZcUNLQVc3Y1M0T0FLSV9BTmdzc1lQY2ZENEs1cVlNSXRhZw?oc=5",
+    "title": "World Humanoid Robot Games open in Beijing",
+    "source": "China Daily",
+    "published": "Sat, 22 Aug 2026 14:08:34 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Beijing's second World Humanoid Robot Games opened Saturday with 2,056 robots from 666 teams competing across sports, rescue, and logistics categories.",
+    "companies": [],
+    "people": [
+      "Zheng Jie",
+      "Ding Ning",
+      "Yang Chen"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlZ3aFFXTm9WdEtLUmZLeGlQOFFncURzUFl0ZGMwR094c20tTVloc2RFM1hsU0o5NF93VGxUSGVJS3BnLVdQR1ZjY2NxbnMtc0kzX0JQZFhsSHR0Z2xxZkVqVjNaVXpPWE1PaENjdHFTSm4xdXFQdzMtbDdoMV85ckE5R2tmUjFBLXZ1OThMSDFYWEdiRTZzMA?oc=5",
+    "title": "Waymo hands over documents in NHTSA’s child collision probe",
+    "source": "TechCrunch",
+    "published": "Fri, 21 Aug 2026 17:49:58 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo complies with a federal safety investigation into a collision involving a child, according to NHTSA documents.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzdseWJJbUl4M25RWm52TGd6NWZFbVpuUHJWRGpVNkNNTUlfbENEZXJYQkdndkJnYmo3c0tUdXBrbEl3UDE1U2Rjb1doSFFpT0VTc01hTEQ3WDdUUFhDMFFrZXJ0TVhWTVNjU0RFOFZxX3JDTmM1TWNrd0xxYnJxSmZqaFJHNHE2ZEI5bmNWVDJhM3AwRTdFTWc4VWdBV2Rp?oc=5",
+    "title": "Waymo’s Ojai robotaxis from China now able to pick up all riders",
+    "source": "Planetizen",
+    "published": "Sat, 22 Aug 2026 14:48:48 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expanded its driverless taxi service in Ojai, California to accept all riders, marking a milestone for its Chinese-manufactured robotaxi fleet.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEllcWZsQnUtd0xCZGdubHFxWmlkQjdzSFJBVkFpY1F0S2tMcUY1N1NocDhyMmZJc0NldDYwRkt1TEo4b1g2YUxBc1p3cjd5OE40R1E1U0Vlc1N2V1ZpdkcxaWJibFlmblF3WWczc2poZV9iWnlyYlpfNEFWUFA3ZC1JeTdraW1VcDIwTWVBQ1FCT1EtNFRLcWhodjhPdzh0ZF9tN9IBrAFBVV95cUxPNDBLVUYtdVU4NlBmU3ZXcE1ReHlyUXpjVUMybDhqMl9JRHQwTWkwMFZ5UEEtdnFHVlYzOU94bkI5eV92am5IXzlvdkdSTWhBZ05mTDlaLVpLclNiWGN6SjJtVkZDY0IyMHZZeTkxRnMwazJmY3A2SG9KQnpVTC1PUmQ2Z2l1S0JGM1FDRi1oT3pQRnh2UjVfQXBwVlNBMEQwSGtNTk11ejNlV2Rn?oc=5",
+    "title": "Waymo prepares to launch driverless rides in San Diego",
+    "source": "NBC 7 San Diego",
+    "published": "Fri, 21 Aug 2026 23:12:33 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is moving into San Diego with a driverless robotaxi service, expanding its footprint beyond Phoenix and San Francisco.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2M5eXFFQzNlb1dEVy0xLUo3MmdMOEd4UUhwWkZVUUMtX2pWOXhybXpJMzVpWU9YRVk0YURfM2hscVFPWWJIdkVCWGxoNE9yR0JNUUctQldCZHpTc1BOSWxnTENHYnVtOVYzTDBQMXplSFNtN2t4OUJtOTFOcjR2VF80YW1KNVc1VXB0YVdYcHRXZlhaTlF5VzMzT29MSjBEY3JFaUtlNGRObUY4M3Y2NVZn?oc=5",
+    "title": "Tesla, Uber and Waymo permitted to operate thousands of Robotaxis in Nevada",
+    "source": "electrive.com",
+    "published": "Sat, 22 Aug 2026 09:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Nevada regulators have cleared Tesla, Uber, and Waymo to deploy thousands of robotaxis on public roads, a milestone that grants the three companies operational licenses after years of testing.",
+    "companies": [
+      "Tesla",
+      "Uber",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2xlTG5rdS1TcmhORlRVdXEyR0lyWFNLSERBaGd4YTU2QmRCOGFncWJRLXg2eldsb19VbVdTQVJjRG5yeG05S1VlSlo5U2R1a0xmX2ZiaHhweEs3bFN5QnFjMHF1TmN4cU1sYjdXWVYzME1jSDA4UnRBWkVWeW1hWXc2SzhXdThsS3RJN0FZN0RJeXRKdjMtQ1hEa1M1ZnJTY1VZS3BqN1BVbVZPZk1yaUxDNllMWURzSUpLSUlQaElxUUJXWDVlU1dvNVZMR1JycTl6QkF2MzhBbXZaZXpB?oc=5",
+    "title": "Waymo’s 3,200-vehicle Zeekr buy signals how urban policy is becoming an IT and facilities spec",
+    "source": "MarketScale",
+    "published": "Sat, 22 Aug 2026 15:00:30 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo acquired 3,200 Zeekr vehicles for its autonomous ride-hailing fleet, signaling how municipal transportation policy now hinges on AI infrastructure and fleet management capabilities.",
+    "companies": [
+      "Waymo",
+      "Zeekr"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "fleet deployment",
+      "urban mobility"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMC0xSnRkYXlsR2xPTHdDNGpmOXZ5dzJscUc2cEtqR2JvQ1VqSEt0MFY0SjNJeUt3bVRMMzMyUDBTYnI4aEdiMjluZlJIczhLcnd5bGtURGZpTGR4eDRWc3BsM0lwQ2tEVVFONDZ5SjJ4bC00N0Q2R0VFelY1bVJuNUFkMlJIWXhqbVRjM1ptZUZSRTREdUE?oc=5",
+    "title": "Who Was Right About Tesla Robotaxi Deployment in 2025?",
+    "source": "CleanTechnica",
+    "published": "Sat, 22 Aug 2026 03:55:58 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "CleanTechnica reviews competing predictions about Tesla's robotaxi rollout in 2025, settling a year-old debate over Elon Musk's timeline.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTU5MR2pXQlZoMDgzSWFXVEZsNEZpcEg1ei15RkNOQkpPaXRYLW8xbEswb1VQa0ZlWFNBcGQwamtuMEZ2dUgtUnp0RHllYWI2WnBTMjhDVVRCM05PUGhaZ25zNm9pdDRGOV95TzZ3bTdtUF9TY19BRVY1d2hJajNjT2taTW0wMjFDMmNGUGE4dEdaVmdjU050WkdnRkZWVmQycndBdi1VcW40c3M?oc=5",
+    "title": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+    "source": "MarketWatch",
+    "published": "Fri, 21 Aug 2026 20:34:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla won regulatory approval to launch robotaxi service in Las Vegas, sending its stock higher.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHZCYTZTSzBHcWgwLUh1TjNJa2VWWU5Ua2xKUm1DVkpjV0pOZ21Cc3FHdnRhWmJPOEFuTEVfclVoSWx0OVN1Wmx1VFNLUFhpX3lLQ3lWdWhQQTlodk5ET0JTZmdvVGlLQ0pKbWJzMTJkRXNvN3VJbDdLV0tCc0pxV3hsVFJ3T1VPV2k5NzVLUUtzWkNvUWFtWEw1TUVEN1paYmJYOTQ2aElkcHhZb2F6NEdwQ2I?oc=5",
+    "title": "Like it or not, Waymo is ready to fully launch in San Diego",
+    "source": "KPBS",
+    "published": "Fri, 21 Aug 2026 18:10:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless robotaxi service to full commercial operation in San Diego.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmlGY1FEZVRySUs2MllzV05pN19ncUFsM1FYWHNUbDF6MWd2dnZYYjYyV3RyazhXVnF4X3h6SkJ6cWN5cTVIbkt5bGdTUnU3NVREVEhfSi1yRTFkd0I4ZnBXeUZubEJHU1k5SE9GNy1CYmF2alRwenV0amt6ZDVtUEtDT3JmREg0WW0xMnlZUDNLRExDQ3BB?oc=5",
+    "title": "Nevada opens roads for Tesla, Waymo and Uber's Aviari driverless rides in Las Vegas",
+    "source": "Las Vegas Sun",
+    "published": "Fri, 21 Aug 2026 19:54:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Nevada has formally opened its roads to driverless ride-hailing services from Tesla, Waymo, and Uber's Aviari division in Las Vegas.",
+    "companies": [
+      "Tesla",
+      "Waymo",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "Las Vegas"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeVZiMHZlM0hlQTlSMTdqaDN5UG5GdkNtM3ZnTXg0U1BRRlNtNU1pSkpBZVlmNW5QRnVtNkRDemtsRkxibkZkNDlIVUNKOGVsc0Y0S25jb2tZV2llUWNlTVplTGE3VFk0UVVtR1RvMG1iSzRLZjVyZk5HY0NjZWIwV0tZQktfNjlocFBtWDhQMU5QMjTSAacBQVVfeXFMUEVDSExuRVlmSTJiYjk3Uzg0Y215WnN4dDVldW9QVEF4bGdZZWszN2UxSlN3R2l5WkFHWk1VWkFzdkFQSVZLdmdOMERtQnZOakRrNHBOd3dsVXlqSXFqbEZCRzBXSjZJeWhwY2p6dWt2S2w3ckwyOXBLaXNtNVAzQy1iRi14N25vWnZxNllPOXBaMXZSYmJoWkRIeFNiX3E0LWxyVzFjUTQ?oc=5",
+    "title": "Nevada approves Tesla, Waymo, Aviari for driverless rides",
+    "source": "FOX5 Vegas",
+    "published": "Fri, 21 Aug 2026 19:06:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Nevada's Public Utilities Commission approved Tesla, Waymo, and Aviari to operate driverless robotaxi services in the state, clearing a regulatory path for three competitors to begin commercial rides.",
+    "companies": [
+      "Tesla",
+      "Waymo",
+      "Aviari"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRmJiamVQVTExQVdWcXh6bEtFbnA3eTN2di1HdlFFcmR0LWhCRXdjQ1NFMW5MSk03VE9ITEdLOGc3U052X1lHZXB4VnNKSFc5S2lMcFliclQ4SmhDY0JMaDh1M0VfZW94bTBQeU9XSm9XaXF5Nkpz?oc=5",
+    "title": "Drones Set to Deliver Burritos as Zipline and Uber Eats Soar Skyward",
+    "source": "freeyork",
+    "published": "Sat, 22 Aug 2026 15:10:57 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline and Uber Eats are deploying drones to deliver burritos in a pilot that marks another step toward routine food delivery by air.",
+    "companies": [
+      "Zipline",
+      "Uber Eats"
+    ],
+    "people": [],
+    "themes": [
+      "delivery drones",
+      "food delivery",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFo3emxTTHNfcWdmUWRfNy1XWmxTMHBxVWtaamJadkZYS2U2WDNpUkNZc0lOZXZidC1lY29XQno4NzA2ci1leFk2ZEJZaGNXTlJVVFNPVExCMGpJeFhLSkF3ZGdhc3FVWUlnTVI0bzRIeDZrdmYwTkpJNVRNb1ZOWXNrOHZ0RWwydXF5UnZ2cXhVUmFiY0lRNkRrejB2UUgxZGlqUk1UMjVxSU0?oc=5",
+    "title": "Uber and Zipline Partner to Bring Drone Delivery to Millions of Americans",
+    "source": "sUAS News",
+    "published": "Fri, 21 Aug 2026 14:44:44 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline announced a partnership to deploy drone delivery across the United States, combining Uber's logistics network with Zipline's autonomous aircraft.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous aircraft",
+      "logistics"
+    ],
+    "first_seen": "2026-08-22T15:16:19",
     "week": "2026-W34",
     "why": null,
     "duplicate": true,
