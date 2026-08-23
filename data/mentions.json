@@ -27255,7 +27255,7 @@
     "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27384,7 +27384,7 @@
     "first_seen": "2026-08-16T15:17:03",
     "week": "2026-W33",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27676,7 +27676,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -27772,7 +27772,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28040,7 +28040,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28576,7 +28576,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28730,7 +28730,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -30115,7 +30115,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -30255,7 +30255,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -30289,7 +30289,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -30458,7 +30458,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -30886,7 +30886,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -31186,7 +31186,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -31448,7 +31448,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -31497,7 +31497,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -32627,7 +32627,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -32828,7 +32828,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -33490,7 +33490,7 @@
     "first_seen": "2026-08-22T15:16:19",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -33595,6 +33595,42 @@
     "week": "2026-W34",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://www.pi.website/research/human_to_robot",
+    "title": "Emergence of Human to Robot Transfer in VLAs",
+    "source": "Physical Intelligence",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "research",
+    "one_line": "Physical Intelligence reports that its vision-language-action model π 0.5 achieves roughly 2x performance gains on robotic tasks by learning from human video data at scale, demonstrating emergent transfer capabilities in robotic foundation models.",
+    "companies": [
+      "Physical Intelligence"
+    ],
+    "people": [
+      "Simar Kareer",
+      "Karl Pertsch",
+      "James Darpinian",
+      "Judy Hoffman",
+      "Danfei Xu",
+      "Sergey Levine",
+      "Chelsea Finn",
+      "Suraj Nair"
+    ],
+    "themes": [
+      "robotic manipulation",
+      "vision-language-action",
+      "foundation models",
+      "human-to-robot transfer",
+      "emergence",
+      "robotic hands"
+    ],
+    "first_seen": "2026-08-23T15:17:44",
+    "week": "2026-W34",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": []
   }
