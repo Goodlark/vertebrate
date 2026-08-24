@@ -28064,7 +28064,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -28088,7 +28088,7 @@
     "first_seen": "2026-08-17T15:20:40",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28452,7 +28452,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -28576,7 +28576,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -28730,7 +28730,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -28807,7 +28807,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -28991,7 +28991,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -30458,7 +30458,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -30886,7 +30886,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -30930,7 +30930,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -30970,7 +30970,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -31186,7 +31186,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -31325,7 +31325,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": "Opening a cheaper, next-gen robotaxi to all riders in three cities suggests Waymo is finally addressing the unit-economics problem that has kept its service a curiosity rather than a mass-market product. Lower fares could be the wedge that pulls Waymo past the novelty-ride phase and into real transit competition.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -32021,7 +32021,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -32361,7 +32361,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": "One state greenlighting three separate robotaxi operators at once is the clearest sign yet that regulators are shifting from cautious pilots to open competition. Nevada becomes a real-world proving ground where Tesla's camera-only approach, Waymo's sensor-heavy stack, and Uber's aggregator model will be tested head-to-head.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -32627,7 +32627,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -32775,7 +32775,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -33134,7 +33134,7 @@
     "first_seen": "2026-08-22T15:16:19",
     "week": "2026-W34",
     "why": "A humanoid robot beating the fastest human alive over 100 meters is more theater than benchmark, but the engineering behind sustained bipedal sprinting is genuinely hard. State media's framing turns this into a national showcase moment, and rivals will now feel pressure to stage their own speed spectacles.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -33417,7 +33417,7 @@
     "first_seen": "2026-08-22T15:16:19",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -33631,6 +33631,975 @@
     "week": "2026-W34",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPek9ZZW5EX2pnSHNVa0lGbUx0MmVYR3pETHNLMzZPbmtUZHdEYXRwSUxxMlI4b3dvQ1h5LW9WZXJfLXh0UHJtakVRalFVazVLazlySXRDNlY0NU05S1phYm9PVUFYbklpenFWLXNsN1I1VDJLRmR3Ukg0cDY0X2Nfc2NQOA?oc=5",
+    "title": "Chinese robot beats Usain Bolt's 100-meter sprint world record in humanoid bot games",
+    "source": "CBS News",
+    "published": "Mon, 24 Aug 2026 14:17:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese humanoid robot outran Usain Bolt's 100-meter world record at a domestic robotics competition, marking a symbolic if not practical milestone in athletic AI.",
+    "companies": [
+      "Chinese robotics company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLThZc2RpYjJRZmxkdnRacVZDSnZZdFIxSUNLSl81aU1hOTlnRWY0YV9xUHJ0V2x2V0Jsd2t4cWlycXU3MkF0ZjJnUUI4ZHdmdjVhS2t5MHdTTl9jd0x6QkZkbWZ5eFVjTWZYSGFxdmF4TWVuQ2dBNTRPSmY0MXA3RUNWNVZMRzBkeVBEQkJR?oc=5",
+    "title": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?",
+    "source": "The New York Times",
+    "published": "Mon, 24 Aug 2026 11:04:52 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A Chinese robotics team built a wheeled robot that completed a 100-meter sprint faster than Usain Bolt's world record, raising questions about what speed benchmarks actually measure in physical AI.",
+    "companies": [
+      "Chinese robotics team"
+    ],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "speed benchmark",
+      "locomotion"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVFTN2txVGRLR3FwdDYyTkxzX2lmbXFZdHdTSFBpalgxSFhvVXVTTS0xbjdvSlVweVozWk10bUk0QVF5eUwtaUtsbDI1N0Etd0dUdkFWd1JWOFRWZHRhU2FFSzVEcTlwMXVINTdoY2FfMEFNalNPWkViOFlhNG1JZU5QUUVXQTQxRk1ZVFJPWjFITm5sR0lEd1RnbEJSNE50UjR6bzNITmMxdFlaZkE?oc=5",
+    "title": "Inside the global humanoid robot competition in China",
+    "source": "NBC News",
+    "published": "Sun, 23 Aug 2026 23:15:39 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Humanoid robots are already breaking human records at Beijing's World Humanoid Robot Games, a global competition testing the limits of machine performance.",
+    "companies": [
+      "World Humanoid Robot Games"
+    ],
+    "people": [
+      "Janis Mackey Frayer"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition",
+      "China"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1NmNjdUNkVTOHBDNG9JM2dQUGdkTzFxSUxoU0p5ajZPRHNWY3hzUGZzckJKbVlHcEhLbVFsaUNuZlY4d3V1cGFCWGwxTWhRN0FCcXJuQXRwVm9Ya0puVkRmZjZ3NmNLTFl1M1UxOW1qaGlNQUZmMUZoeUZ1NUIzTWVfZDBXQU9jNXlWQ2JIN2NaQXBKMzY4?oc=5",
+    "title": "World Humanoid Robot Games continue in Beijing",
+    "source": "Anadolu Ajansı",
+    "published": "Mon, 24 Aug 2026 14:24:18 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The World Humanoid Robot Games in Beijing drew 2,056 robots from 666 teams competing in sports and real-world task scenarios across five days.",
+    "companies": [],
+    "people": [
+      "Emre Aytekin"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1VwWGZhNnhGcUd3d0lydlNVaUE3ajFsMGVsMjFXaktIOVdxV2YyR1hxSjllS2o5VXVUVF93dG5RSFMxaDRMTHU2VDJQSFFmNHRwaWhTMzFwTmYzRjNjLWxpanN6MmZvX2dya1U1Q09LMjdTWTRnZU14akRJalptb3hyN3dYNFN5MW9oV2FRdHU4bWo4WmpCT003NEZ4ODhzQk9pZGo4ZkwwcWs?oc=5",
+    "title": "The New York Times. . A humanoid robot beat Usain Bolt’s 100-meter dash record at the World Humanoid Robot Games in Beijing on Saturday. It ran into a wall to stop and was carried away on a stretcher. Read more: https://nyti.ms/3S4iEuU",
+    "source": "facebook.com",
+    "published": "Mon, 24 Aug 2026 11:25:03 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A humanoid robot clocked a 100-meter dash faster than Usain Bolt's world record at the Beijing World Humanoid Robot Games, then collided with a wall because it couldn't stop.",
+    "companies": [],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oR2hURlZHSjJDaUZYdDgwMllyZVJrb1VzWWgwRzRVVEdEMDlQTi1rMjhBdTNjWmZ2OVdSblNYSXlaVElkM1UyVC1oSm1vN0I0R0FHZGsxQzlHRGp3UldZUFJfNE9Gdllh?oc=5",
+    "title": "China Unicom Beijing and Huawei Power the 2nd World Humanoid Robot Games with 5G-A GigaUplink",
+    "source": "WebWire",
+    "published": "Mon, 24 Aug 2026 15:12:02 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Huawei and China Unicom Beijing are powering the second World Humanoid Robot Games using their 5G-A GigaUplink network infrastructure.",
+    "companies": [
+      "Huawei",
+      "China Unicom Beijing"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "5G",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?oc=5",
+    "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
+    "source": "AP News",
+    "published": "Sat, 22 Aug 2026 20:42:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese humanoid robots set new records in sprinting and high jump at Beijing's inaugural robot games, signaling a leap in athletic machine engineering.",
+    "companies": [
+      "Beijing World Humanoid Robot Games"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "athletic performance"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTNwLV9LV01XWXZOdXc4dnFtZ2VvSTRBVHVsa28zdVVQT1NiV200Z24tSFhia1B6dTJyS0RDYnVHTmhfVXJONWZROEstUkpWSkdPc25wVEVIZDhJaERUaXVxVlBhc3lJbkxNYjlreDR6elhFQXNnbXV2UkduU0xIcUlOal9TMi1i?oc=5",
+    "title": "XPeng robotics raises $900M at $6.3B valuation for IRON robot push",
+    "source": "Electrek",
+    "published": "Mon, 24 Aug 2026 12:35:00 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "XPeng Robotics raised $900 million at a $6.3 billion valuation to accelerate development of its IRON humanoid robot.",
+    "companies": [
+      "XPeng Robotics",
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONm1kSWxfelF3NHR6SFd2SnJkWHRRUEl5c2cxZVFMdHFvajdOMDAydUlXZW5ySTJObk5jV080R3lLU2Zscng1WlhiVl83UEtzZGc3U1NBakhfRXNRN2ppV3d2bUpUeHJHeEJYcDZYVG1icFQ0MmlWcG9PZEhhdU9DRmZtT0RxbEZYa2pGUHM1dENzNmhNbGU4VmtmT090QQ?oc=5",
+    "title": "Humanoid robots sprint, play soccer and set records at Beijing games, in photos",
+    "source": "CTPost",
+    "published": "Mon, 24 Aug 2026 09:25:19 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Humanoid robots competed at games in Beijing, running, playing soccer, and setting records in demonstrations of their physical capabilities.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
+    "title": "Robots can outrun humans, but can they plug in a cable?",
+    "source": "Reuters",
+    "published": "Sun, 23 Aug 2026 04:50:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Reuters explores the gap between robots' athletic prowess and their struggle with fine-motor tasks like cable insertion.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "dexterity",
+      "robotics",
+      "manipulation"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0tGbm9Yb2tfRUp1b1RqaHNLUjZ4ZTA0elZSUGw0amNDZ09abHdfZ01GMF9EZnJVSU9qYk1BSTBobFR0ZGpJaXZsUmZuNlpxb3JwUEVUeHVRTW9BZDc2aEQ1V1hjU252RWxndWxRNTJmU2RSaTVLRHRzeEhUMFhROVJzdGo2c05mcGVKdVFNTE5ZV3h0MVJBcmRSTk5RazBxdjBjdndoU1pvYUNiZlNn?oc=5",
+    "title": "Watch Scenes From the 2026 Beijing World Humanoid Robot Games",
+    "source": "Bloomberg",
+    "published": "Sat, 22 Aug 2026 19:15:53 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Bloomberg publishes video scenes from the 2026 Beijing World Humanoid Robot Games, a showcase of humanoid robotics competition.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "competition"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVNUWTZUUFRMSWJGemltTmNtb3c2ZXFXZkNtQ25kTXhNbDZQenhuYVBEUnduQTZsRndFWnBkXzByLWJRSVF0ZXl3Zl83eDJDNXRGMG9tYkxxSnhiU253RDBldWNlQ19DQUVLZ2hNZjQydlIwTURKdWFjZnpUTFFGSzFSd2VObFNMejlDY3pTWHZ5aGhza09ISUJxbFZqbDBvVVE?oc=5",
+    "title": "Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News",
+    "source": "CBS News",
+    "published": "Mon, 24 Aug 2026 14:09:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A Shanghai robotics engineer says China is five to ten years from deploying humanoid robot soldiers, speaking from Beijing's World Humanoid Robot Games.",
+    "companies": [
+      "AG BOT"
+    ],
+    "people": [
+      "Yang Kun"
+    ],
+    "themes": [
+      "humanoid",
+      "military robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2c1ajduVF9VOGUzMXhCbUJlOEZNNjI5UkdLZm5rUzZZSkZQRHpZU3lhdWJpX0NzZ2lGRVY1WF9ha0hBNlhWZHotMTBWeVVqWTUtNFRkc1JibFZ6NGkzWTc4ZHFJSHNKNW9URlJqZGYtZnZrdjJYRzYtV002ekx6VmJJYmJiUDBOaVhHWDB1ZHhPdw?oc=5",
+    "title": "Can kung fu robots actually help humans do chores? A Beijing showcase has clues",
+    "source": "NBC News",
+    "published": "Mon, 24 Aug 2026 14:43:28 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese humanoid robot makers, including EngineAI, showcased acrobatic abilities at Beijing's World Robot Conference, raising questions about practical household applications.",
+    "companies": [
+      "EngineAI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "household tasks"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
+    "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
+    "source": "Reuters",
+    "published": "Sat, 22 Aug 2026 10:07:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese robotics teams unveiled sprinting robots that eclipsed Usain Bolt's 100-meter record at a Beijing competition, demonstrating advances in legged locomotion and real-world performance benchmarking.",
+    "companies": [],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "legged robots",
+      "locomotion",
+      "benchmark"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1Z6Qm5VdDA3NTNSbThxSTVGMUVMbExYa1VDOXBfRUxlOUE3VmVYVVZxWVlSVXVJVWY4WFlJb2Z4RGxWUzYzRlc4eWIzRTBhVlZJaVV1c2Q5a1hmQTdQZVllbmNBeW1MemxkRjAxMXRTY0lUdjF1SlMzRzRZYUdRVHJ6TEpiYzU0S1oyYmVWTFRvbWJiV1Jr?oc=5",
+    "title": "At China's robot Olympics, the finish line comes with a padded wall and a stretcher",
+    "source": "Business Insider",
+    "published": "Sat, 22 Aug 2026 19:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "At Beijing's humanoid robot competition, machines sprint faster than world records but crash violently into padded walls, requiring stretcher teams.",
+    "companies": [
+      "Unitree",
+      "World Humanoid Robot Games"
+    ],
+    "people": [
+      "Usain Bolt",
+      "Elon Musk"
+    ],
+    "themes": [
+      "humanoid",
+      "robotics competition",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFhUQS1Mblp0SGczbElBQVpRUzhHVmRBRkdtVV93SFBnZVhzeGdjckFRU0ZWQ3JhRzlMQVg2Y0R1WW5mNjNmRmp3N3FPcjZweEkwekNzZ0EybGFZTDlYczRqYXVNdGY4czE2eFRJeUk0bUQtcU0tQWVBNmF0NjUwSXd5YzJINEt1aWc?oc=5",
+    "title": "Chinese humanoid robot beats Bolt’s time",
+    "source": "Semafor",
+    "published": "Sun, 23 Aug 2026 22:40:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese humanoid robot ran the 100-meter dash faster than Usain Bolt's record, though it crashed into a wall upon finishing.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics performance"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVzlPOERmR1JKMVdxWWE4d0VjWUZFNE85bzRNWlpvRWFkV0ZWMjd4eGV4OTRrYzJxTzZ2eTdqSmxoaDByel8tN0FRTW92YmxpRTBhQllkU2tQelF6QWVuZHE4cFpobHVZcGRMNVJHM2dTNjlOUzNkYTZxeDZiN1JKdDd0WlM0VFFYMjVjZEZnVTM0ZWdUU0R0M2ZoQ1dfWE1LUlYxbWFqVEhMMXp2NTVKYzRLUzF6OU1EVGo4VHlPYU85OXA1b0ZCRlNnT1QxaFpSMnRUdQ?oc=5",
+    "title": "XPENG's humanoid robotics unit raises over $900 million in first funding round",
+    "source": "Gasgoo",
+    "published": "Mon, 24 Aug 2026 11:58:46 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "XPeng's humanoid robotics division secured over $900 million in its first funding round, signaling the Chinese automaker's pivot toward physical AI as a standalone business.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRlg4azFJUThkTDZqR29rQThERXdYNVJfbHI4anFMRU9SUkMwSzlkOGtyanNuTnBGTkFnVlJyNE8zUW5nRkI5ckhkMDFaV1lJc2FhU0pDcEN0LW55bGlHcWU5Y2hsbnlOdUc2TTF6RDhIQnhpRG1ZTzBJanRJRGFnWTFPM1U0bjNMVXR1RlB5TFdKRHJBTkJ5NURicnRrT091MTJ5Q1lsUUdYWlNCV0QzQ2FMVm1GV252c1dqMW5raHdrTnpFV1luTWVSdGh6OWtWcDF2eWdzWVYwVVhxbHItRHJIVWxXcnlNVDhGVWdEWWxuRVk1M2c3SG42a9IB-wFBVV95cUxQRlg4azFJUThkTDZqR29rQThERXdYNVJfbHI4anFMRU9SUkMwSzlkOGtyanNuTnBGTkFnVlJyNE8zUW5nRkI5ckhkMDFaV1lJc2FhU0pDcEN0LW55bGlHcWU5Y2hsbnlOdUc2TTF6RDhIQnhpRG1ZTzBJanRJRGFnWTFPM1U0bjNMVXR1RlB5TFdKRHJBTkJ5NURicnRrT091MTJ5Q1lsUUdYWlNCV0QzQ2FMVm1GV252c1dqMW5raHdrTnpFV1luTWVSdGh6OWtWcDF2eWdzWVYwVVhxbHItRHJIVWxXcnlNVDhGVWdEWWxuRVk1M2c3SG42aw?oc=5",
+    "title": "Georgia Southern University unveils state-of-the-art humanoid robot to redefine engineering education and research",
+    "source": "Grice Connect",
+    "published": "Sun, 23 Aug 2026 21:39:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Georgia Southern University deployed a humanoid robot for engineering education and research, marking an institutional move toward hands-on physical AI training.",
+    "companies": [
+      "Georgia Southern University"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "education",
+      "robotics research"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3hyQ3VNUWppVWQ2RHcydV9ra29iQ0Zyb0t2cXVEYURFRG45WU5BeWxxOTF1djBWNHpkaUJRelJpZ3J0c21JM0d3eWZwQ0ZfWFV0OWRDbXVpaG91RS1ObHV4RjM5Z3J4b1ZNcnFoMXhMdFhOQThBTVdUVDVBaXF2SFNMa01xclVmM01YcC1kRUR1WnBkNUI0bDc0U2JSdndGaTdFT015SG4?oc=5",
+    "title": "What San Diego's Waymo rollout will look like at first",
+    "source": "Axios",
+    "published": "Mon, 24 Aug 2026 13:29:41 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless service to San Diego, marking another metropolitan market for the company's commercial robotaxi operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0REMkZkSk1McUoxWVR0NzlPZkk3RGVjZGNDVzhtVmFVc3N5aHhoOU5GS0RrMTZsenl4NGlzNjc0eU96TkJlT0JhUDFfQXdyTmJsWjFyRFNEeFZNRXJqUFcwd1doTlU3Z2U5QVpWcnlWejBHWHNpYm4zOHJxeFBnam9vbmlHTVpWWnJyZHhrN29KQUpvN1N4MGttbm1EZjkzN1ZIOEdoUQ?oc=5",
+    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+    "source": "TechCrunch",
+    "published": "Sun, 23 Aug 2026 16:03:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo is building a custom chip to power its autonomous-driving stack, betting that proprietary silicon will give it an edge over competitors relying on off-the-shelf processors.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "custom hardware",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd3pKSW1aX2QwSmxvejhTTXFLWXE4aG5KQlkxeS1xM3EzUG9POHlZYWtja2FGYVlQLVlLNFU2eVpGRTFFZjNSRTBQUUdZQ1dkM1Y3ZExYLWJqdlVsZzdFamlKMUJGNlBFejVEeV9RWmU5Z2lpazA1cjYtTVBoS3RSYVJIeEQ3SlhmZ2tRN2IyNmdnZDRySGxwU1Vlb2dfSlNjMmNoLXRLVUZRNUxOUVZxWkxNTW14ejMtUG1lTQ?oc=5",
+    "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
+    "source": "Yahoo Finance",
+    "published": "Mon, 24 Aug 2026 13:55:57 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla will unveil its Cybercab robotaxi on September 3, betting the stripped-down, steering-wheel-free vehicle can compete in autonomous ride-hailing.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1hUOWhRekc1aGY5V1F4Sk8xZHo2OXRzN01RYlpEWmU0ZWs4aF9jNy10ckN4dmx1aW5oRVZKMEJyQ05ZM08yc2NndjZTZjAtaVlEWDVCbFpyeS1JbGhYQzVuQ2VER1Y1c3NfZGM1X19PSGdMNTlrMjZFM25la3N0Sy1EN29ZbURJbmF2c25BWQ?oc=5",
+    "title": "If Waymo Cars Are Level 4 Automation, What Does It Take To Be A Level 5?",
+    "source": "Engadget",
+    "published": "Sat, 22 Aug 2026 21:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Engadget explores the technical and practical gap between Waymo's Level 4 autonomous vehicles and the theoretical Level 5 standard.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "SAE levels"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbmhxcWl2blMzUlpJRGZIbVlIYUtodzFWZ1NCajRCWkgwV3k2TTZYNnNoczlTSHRwcEJKVGFZNjBORmd2akdMd3VsbXZuX0t6QkJBN3dIZ1lZTWhXcHdPckdDbzdOWHZBaXNqenZtQlNmRTTSAXhBVV95cUxPYlZEa3JjSVk0Yko1bncwaURTR3E5UDFPRlVWYkVBcURNbFhuSmVNSW5lSmtMTWtTNEozYlVRNUtnSHRzYlRXcTlZOWJZMTNoczlkOGpzcExYRWc2cGlrdDY4S0RtSWIwV0lhNVZqaF92U21aUVJpTFc?oc=5",
+    "title": "US Army Tests Self-Driving Ford Truck With Drone-Killing Turret",
+    "source": "The Defense Post",
+    "published": "Mon, 24 Aug 2026 12:26:41 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "The U.S. Army has tested a self-driving Ford truck equipped with an anti-drone turret system.",
+    "companies": [
+      "Ford",
+      "U.S. Army"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous vehicles",
+      "military",
+      "driverless",
+      "drone defense"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcW9UN0Y4WUtqVVhFUkljbGstNWN4d2Y4S0VVNXkwZ1pyeVNtTGdpdnc3dmlHTmlnU3VRS0loQ016bFdmaDdHZmRmbExkVm5ZTDR6RFFtc1o2emo2eE00UkVDTS1zNUhSQVJqTnRQanJBck8tWFBoSDBUNFFURzRUclRqeHdlTUk5bVRNak1iaUliYk9fYXphVkVrVDFWT0JwSnFEU1d3?oc=5",
+    "title": "Uber and Waymo Have Spent More Than $15M This Year Lobbying New York Pols",
+    "source": "Streetsblog Empire State",
+    "published": "Mon, 24 Aug 2026 04:05:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Uber and Waymo have together spent over $15 million lobbying New York officials this year, underscoring the financial stakes in winning regulatory approval for driverless operations.",
+    "companies": [
+      "Uber",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "lobbying"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Oc3ZxUFVFU3lTZjdhNzdlWFZFYnpXbE5KVndTeTdLdEtyRVV0UjBSNHpaT19OWWNqOHJSWWNydVpxZ0tMcFQwMTNadkNpU0N6SkIzdF91V29PNUNqeGZCTkI1SE83S1BCdVJVUk1Jaw?oc=5",
+    "title": "Auto powerhouse South Korea falls behind in driverless tech race",
+    "source": "KED Global",
+    "published": "Mon, 24 Aug 2026 10:29:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo, Baidu, and Pony.ai prepare to enter South Korea's robotaxi market as local leaders like Hyundai Motor lag behind regulatory hurdles and taxi-industry resistance.",
+    "companies": [
+      "Waymo",
+      "Baidu",
+      "Pony.ai",
+      "Zoox",
+      "Hyundai Motor",
+      "Kakao Mobility",
+      "Socar",
+      "Kia",
+      "Motional",
+      "Nvidia",
+      "Aptiv"
+    ],
+    "people": [
+      "Kim Heung-soo",
+      "Rishi Dhall"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "automotive industry"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RemlQQ1piOEVrQ0hDQUhUN1lOOEVCRlBjd1lpaGV3dUVyczExRjNpc0dPNUE0aXNNZzdMWTU5WVJrUTBVS2Q1YlZMdnRickFKTmU3M1Fxb0Ezb2RXN1NLVnJQalE3WjRfRFV5OGZZWVd6SDN1Y0NJSzBkN3VHdw?oc=5",
+    "title": "Tesla’s Steering-Wheel-Free Cybercab Hits Austin September 3",
+    "source": "Motor1.com",
+    "published": "Mon, 24 Aug 2026 10:56:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla will debut its steering-wheel-free Cybercab robotaxi in Austin on September 3.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
+    "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+    "source": "The New York Times",
+    "published": "Mon, 24 Aug 2026 09:29:32 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "The New York Times reports that an autonomous AI-guided drone killed three Ukrainians in the first documented case of an AI system making a lethal targeting decision without human intervention.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "AI",
+      "military",
+      "drone",
+      "Ukraine"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xUUhkcUNnbHhhbTU3WkFCajZtOWVmZG5FN094TFVCZ0dkMWU2LVlwN25wTC1ESTl5dUdZaEFEWk81ZEZMZXZSeGlfdHpoY01FR3JqRmJxVHBzS2ZwMG1kRXh2SG9IRF9pMnpfd1NKdWVLOUVCRTBrRNIBfkFVX3lxTE5WNUJhZUJuMGFQcDFMdXRpeEgwU2NrRHdJdnY0TkYyRVlNaUo1cGl0YWF0bVIzdlZ1djlxM296OWVRMEhxUnRsdUI3aFl5OWstcmd5T0piOWFyb0RsZlV1Q1lmSXJQOUpCdzRBNm1PMGtYaUtacEwyUE55emp5Zw?oc=5",
+    "title": "Saab Gives First Look at New Stealthy Supersonic Drone Concept",
+    "source": "The Defense Post",
+    "published": "Mon, 24 Aug 2026 12:31:38 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab has unveiled a concept for a stealthy, supersonic unmanned aircraft, marking the Swedish defense contractor's entry into next-generation drone development.",
+    "companies": [
+      "Saab"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "stealth",
+      "supersonic",
+      "unmanned aircraft",
+      "defense"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXVTU1F6MkdzekFrbWc5QXN5ZmxGb25NQ0JXajlxXy03eGlEMFBEUlFRNy1XYVV5YnczaWlwT3BNWUM2bFFacHl6TFB5UlNQd3VhYjR1anZyUU5JUTZteUdFOGpEQWFGeFV3dzFlbFdMVjJ5X0ppNmxqVm0xR3A3UERweE8tM3FfcjR1b3hUc2RCd2p2U0h6MV9GR0NvT2xjYlI2MVJhSXdhdWpMaDJlb1I5YnlMTXhkak5XMW1n?oc=5",
+    "title": "Saab Unveils Stealth Supersonic Fighter Drone for Next-Generation Autonomous Air Combat",
+    "source": "uasweekly.com",
+    "published": "Mon, 24 Aug 2026 12:28:25 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab has unveiled a stealth supersonic fighter drone designed for autonomous air combat operations.",
+    "companies": [
+      "Saab"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "fighter drone",
+      "stealth",
+      "supersonic",
+      "military"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1pRRFBNN2JHYmUxSHZZSHJ3QVpxR2lMdUl5ZF90dmp2WUFwUzRlU25uQl9IdVpTWGYyUEFUZWQ0ZS0tYWs4bUZGUXQ5TmtVX0R1M2dqVl9oYk1YVjhYNjhseDFkLS1zTmZxV0VRN0hmV0JkODZkdk9LbENhVzRQMmwyWHhFd25tN28xam5MVThEdzI2ZXhGQmoxcDBOeldGMnNKdW9uOXBKYkFuTWlj?oc=5",
+    "title": "Partners to Deploy Multi-Vessel Autonomous Maritime Systems",
+    "source": "Unmanned Systems Technology",
+    "published": "Mon, 24 Aug 2026 06:05:43 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An unspecified partnership plans to deploy multiple autonomous vessels for maritime operations, though the snippet withholds company names and deployment details.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous vessels",
+      "maritime",
+      "multi-agent systems"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUU9tU1BFQW9CZVlsa3MyRmZpUnVqSWk2ZmRzaWYzRkQtMkwxM0hqbXJhZjl4NHpKV3RZaFdtTW1OMHhiRk8tclFfdHlPVEp6cllpQWV0SDJ5Y1E4S2xNeGNFSUFMWkVGbTl5bkZ6OUR4cVJOaE1sX0c1bnlFSnR6T3VmWkd4U0xJczh1eHlDNjVoTDh3eHBYSWl4RHY?oc=5",
+    "title": "Startup wants to use autonomous drone swarms to clear clouds and boost solar farm output",
+    "source": "TechSpot",
+    "published": "Mon, 24 Aug 2026 13:08:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Meteoric Technologies, a Y Combinator-backed startup, plans to deploy autonomous drone swarms into clouds above solar farms to boost power generation by as much as thirty percent.",
+    "companies": [
+      "Meteoric Technologies Inc.",
+      "Y Combinator"
+    ],
+    "people": [
+      "Mete Karslioglu"
+    ],
+    "themes": [
+      "drones",
+      "autonomous swarms",
+      "solar energy",
+      "weather modification"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeXR6ZDdGV2VzZUpUYUJETEU3SzhrVW9Ucm1jeEE4UjRJSkt5R015LWFjS3lnS2dYWktwRTZQVU94cmdoLW5xSWxVTHlnTWd6aHVoYWF6aW93RF96bU1GbFg5NjRLRS1aWml0Z3BLMjNnUk5KS2JQcENZeTBlcDQ5djRjTmdYTnpmTW9RVmk5WXNoa3N3Mm93?oc=5",
+    "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+    "source": "The New York Times",
+    "published": "Mon, 24 Aug 2026 11:19:29 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Ukrainian officials say Russia is equipping AI drones with Nvidia microcomputers despite U.S. export controls, revealing a gap in the sanctions regime.",
+    "companies": [
+      "Nvidia",
+      "Russia"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "AI",
+      "military hardware",
+      "sanctions evasion"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1FIZVdwZWpWd2FwTHliRUprMC1IVl9DWnpzVmNTeTFvUHh0NEZGNFVvNGk0aHh0NFUtV0pNNjQyZFp5ZG1BZkVnYVlMQlk2ZWJOSWhvSHdPTk92SHdNN0tGWnVEV1dNcEplYzBvNVpoWl91Y2hHdnVpWF9zWDE1UUpNU2dWREVsQkxsSXRNbXhUUXc?oc=5",
+    "title": "Amazon Prime Air drone delivery is expanding to nearly 500 US cities and towns this year",
+    "source": "About Amazon",
+    "published": "Wed, 19 Aug 2026 09:52:42 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Amazon Prime Air is expanding drone delivery to nearly 500 U.S. cities and towns in 2024, scaling a service that has operated in limited markets since 2022.",
+    "companies": [
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "expansion"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPR0VFbjZBZ2dyZ3hWOC1KdkF3NnhKNnNBeWtrQzVGajRtT3ZqWUNUb0ZLMFVNRU1EYjFhejJGVjZobi1fSk1sTnFjMDQ4M09pNThnNGxjNmdGaWRYZUpsbEcyUTlpaER2bnpSUGVFSWdpRTFEamx6UE9QcW9YbHhQSkU2Umpjb2JtZ193andXdUV6YVF2aGlPS3hQYnFTV0FkUDBfcFR2X2xTR0hKMGtzbHpoNkRyRm1iUVJRbXg0dHgyU1BhVjJ4c3kxVTM4U2c3YThoZmQ3dWgzVnQ5S3VJVzR2eUhUcDFyaHl0blczcmlkb3FqQXM2SGtWTGR3R2tHQ09UV1NGeER4RUFWdE9GZUVQMi1zNkZad25HRkZfVVpFRzlWSHRXZk5ZX1lCWnRXYnhHWGdsbC0yZHdvejQxQWZ5MFlIVjVWWFVrQzV4RQ?oc=5",
+    "title": "Self-driving Ford F-250 truck with shotgun-equipped drone-killing turret tested by US Army — autonomous system designed to blast fast-moving drones at between 10 and 100 meters range",
+    "source": "Tom's Hardware",
+    "published": "Sun, 23 Aug 2026 13:19:17 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The U.S. Army tested an autonomous Ford F-250 equipped with a shotgun turret designed to shoot drones out of the sky at close range.",
+    "companies": [
+      "Ford"
+    ],
+    "people": [],
+    "themes": [
+      "drone defense",
+      "autonomous vehicle",
+      "military",
+      "counter-drone"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fNDVyTEpRbUx0TkYtSWp0bDJ5YU5lNEtFdjIxUDZBcV9oT0dhSU13NktWa2RKZlItQ2tNamQ5MDAzSFFqR1NJS1hYRFFIMDFtYnFPTEdyZkVfYTVFRUZyWjg4ZW9TZHdISTljNjJINmloSDBQc0poLXN3?oc=5",
+    "title": "Defense autonomy at risk if drone budget is stalled",
+    "source": "Taipei Times",
+    "published": "Thu, 20 Aug 2026 16:00:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Taiwan's defense establishment warns that annual budget cycles could cripple domestic drone development, threatening military autonomy against China.",
+    "companies": [
+      "Legislative Yuan",
+      "Executive Yuan",
+      "Chinese Nationalist Party",
+      "Taiwan People's Party"
+    ],
+    "people": [
+      "Chen Yun",
+      "Jonathan Chin",
+      "Hung Yu-hsiang"
+    ],
+    "themes": [
+      "autonomous drones",
+      "military",
+      "defense budget",
+      "Taiwan"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay1IenRlNk55UG9Kd29WeE5BTW5MM0dnYlZ5UlAyMUt3UG9IS2hSSkg5UzhHdDF4eWl1RmcwWEpsWU5xV3NPYThIVnVWODYxODQwYWpJVkxZbE1sWGNXWkN5aVJTalR0TEQ4aEJqNUhjS0xhS011RndnRUVaZWFKcFROZDI?oc=5",
+    "title": "Saab Unveils Stealthy Supersonic ‘Fighter Drone’ Concept",
+    "source": "TWZ",
+    "published": "Fri, 21 Aug 2026 22:40:10 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Saab has designed a stealthy supersonic fighter drone concept, an early-stage visualization rather than an announced product or deployment.",
+    "companies": [
+      "Saab"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "supersonic",
+      "stealth",
+      "fighter",
+      "concept"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://neura-robotics.com/neura-acquires-adlatus-robotics/",
+    "title": "NEURA Acquires ADLATUS Robotics, Bringing Physical AI to Professional Cleaning",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics acquires ADLATUS Robotics, a German maker of autonomous cleaning systems, to expand its Physical AI platform into professional cleaning.",
+    "companies": [
+      "Neura Robotics",
+      "ADLATUS Robotics",
+      "Bosch Rexroth"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid robotics",
+      "autonomous cleaning",
+      "platform integration"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/houston-open-to-all/",
+    "title": "Starting today, anyone in Houston can download the Waymo app",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo opens its Houston driverless service to the general public after six months of operating on a waitlist, having ferried more than 100,000 riders since February.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Raul Gallegos"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "accessibility"
+    ],
+    "first_seen": "2026-08-24T15:34:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": []
   }
