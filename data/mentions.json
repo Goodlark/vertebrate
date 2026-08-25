@@ -28426,7 +28426,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28452,7 +28452,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28623,7 +28623,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28730,7 +28730,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28783,7 +28783,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -28807,7 +28807,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": []
   },
@@ -28991,7 +28991,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -29039,7 +29039,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -29464,7 +29464,7 @@
     "first_seen": "2026-08-18T15:26:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -30115,7 +30115,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -30206,7 +30206,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -30255,7 +30255,7 @@
     "first_seen": "2026-08-19T15:26:41",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -31448,7 +31448,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": "Tesla sticking with purpose-built robotaxi hardware rather than converting its existing EV lineup is a deliberate bet on specialized design over fleet flexibility, diverging from how Uber and others typically scale. Pairing that with a European Semi truck launch shows Tesla spreading its autonomy ambitions across passenger and freight simultaneously.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -31575,7 +31575,7 @@
     "first_seen": "2026-08-20T15:28:57",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -32021,7 +32021,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": []
   },
@@ -32361,7 +32361,7 @@
     "first_seen": "2026-08-21T15:28:04",
     "week": "2026-W34",
     "why": "One state greenlighting three separate robotaxi operators at once is the clearest sign yet that regulators are shifting from cautious pilots to open competition. Nevada becomes a real-world proving ground where Tesla's camera-only approach, Waymo's sensor-heavy stack, and Uber's aggregator model will be tested head-to-head.",
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -33569,7 +33569,7 @@
     "first_seen": "2026-08-22T15:16:19",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": []
   },
@@ -34225,7 +34225,7 @@
     "first_seen": "2026-08-24T15:34:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": []
   },
@@ -34602,5 +34602,1042 @@
     "duplicate": true,
     "folded": false,
     "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xd3NzSEpnM2x4Ym1QRFl1WURzQ3lVVVdBQnVoRzh6M2dlWi1jSVNCUVZFZFgzSlVoVWp5QUk2N095SDJLSnNVVEJBMXVYYWdUVXRjX2pqV2o1SEVGRnZDVERMMDJaWGgxMV90aUxJOUE?oc=5",
+    "title": "Humanoid 'Olympics' reveal why the US can't compete with China's robots",
+    "source": "New Atlas",
+    "published": "Tue, 25 Aug 2026 04:27:44 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Honor's Lightning humanoid shattered Usain Bolt's sprint record at Beijing's World Humanoid Robot Games, exposing America's disadvantage in China's integrated robotics ecosystem.",
+    "companies": [
+      "Honor",
+      "MirrorMe Technology",
+      "Unitree",
+      "UBtech",
+      "Xiaomi",
+      "Xpeng"
+    ],
+    "people": [
+      "Jin Yongbin"
+    ],
+    "themes": [
+      "humanoid",
+      "robotics competition",
+      "US-China competition",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzFKaDJiSDR3NkR3VnJPbHBaUFpkWkZ5cFg2dG0zUjQwV19sQ2NTMzZaTUcyUU5ob3JtaXFxaEdvUHVZai1FY2xHNE56OElmZXNtc25PVFltRGIzMlpsejM3TDFld2xuOEJGWkdtVm1DRXEzM29lOFNiLXFBaDdqVlYxbV81Zy1XM0dxamp0UEFfLUg2czU3RV9zcXNiSWI5dTY2dXZpaHpiYlNx?oc=5",
+    "title": "The humanoid robot ‘Olympics’ is as ridiculous as it is impressive",
+    "source": "Scientific American",
+    "published": "Tue, 25 Aug 2026 11:40:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Humanoid robots shattered Usain Bolt's sprint record at Beijing's games, though most crashed into walls immediately after crossing the finish line.",
+    "companies": [
+      "X-Humanoid"
+    ],
+    "people": [
+      "Rodney Brooks"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFR5YUFPa2FZQmFzbXUwLTBPQkIzRXhQZnlnM0M3NmVkbXUzTDFudVFRbVFEZXZBUE04NjYyVXRCVFVfTHFxVzRqbVVVUjNhclBuWHRyRWJKQnBvR3NGVmlzQnl0bF9FdXZzZXVoeXI0RmZqWnFqSzZFbjEyYm9hUzhWSmNDZDB5Zk5FS2hYTGdyVGxEVVIyamVCRlBndXJOMFdUbEFnMG5NS2pXcjJEVVN4MTV0VFk?oc=5",
+    "title": "Chinese robot Tiangong clocks sub-9 second 100 metres in Beijing",
+    "source": "Reuters",
+    "published": "Tue, 25 Aug 2026 13:24:24 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese robotics firm deploys humanoid robot Tiangong that runs 100 meters in under 9 seconds, marking a speed milestone for physical AI.",
+    "companies": [
+      "Tiangong"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "speed benchmark"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SZHBnN1RmUlFKTjhzYjJSTnF5ekYtRndMZ2dMLUhOUlRSQkpMSHNLU1BQWFNGTndrSlBhYkxSNDNGM2xweWVSUDFnNjk1dXZ2YUhycGZjQWEwbzlpMUZvX1Jfd3JSTVBoc1hDazFmVXFzOWczNi1hdw?oc=5",
+    "title": "JPMorgan predicts booming humanoid robot demand in U.S. manufacturing",
+    "source": "qz.com",
+    "published": "Tue, 25 Aug 2026 12:25:45 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "JPMorgan's equity research team projects strong future demand for humanoid robots in U.S. factories, citing labor shortages and productivity gains.",
+    "companies": [
+      "JPMorgan"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNck5rN3FSMW5kaUxSd1JxNHRGcUlpZ0dHR2ZLbUc4UmRtTkVkVkswVkltLWhLR2R5TEZwRVRtRmRkWVN3ODJuc0ZITDBnOXJLclVETUgtR1hJTTc1ejdYdE92ZVU4UW1YYkZRdDZjS2c1T3ZzbUp0dndPMUVFVThybzZ5OUtMSXl6c042aTNacGlWbE5PVERMNzhsOUFYZTdQYVZ1NWpkMnhVVVVDSmfSAcIBQVVfeXFMT3J5Rm9GckY1VlhhN0FtLTBPMDlpYnRxdVpJZXFCOVlSQ2ItNVhfSkxPRG9nY2JkR2trVWxOVDkwTjViV3MtSlJKZnBRX21reDIwcENLRFJhUXNud19IRElKZUVQV3l1MHJ5UTZZUEZJY2J5R1BNcUpYTklHaVpaTUNNUXNYS0RRbk15VldoQlhmMkFZQkZIQWtrU2d5Y0YxNW1QWk12ZVN4QTR3VXZ1ZE5FVFc5SEtrbzA2UWFteDBNVEE?oc=5",
+    "title": "2,000 humanoid robots take part in robot olympics",
+    "source": "KIRO 7 News Seattle",
+    "published": "Tue, 25 Aug 2026 02:48:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Two thousand humanoid robots competed in Beijing's World Games, with machines from X-Humanoid and Honor shattering sprint records while others caught fire at the finish line.",
+    "companies": [
+      "X-Humanoid",
+      "Honor"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtYRnNON1pEMV9mM3dBNlQtV2dqQlhlQWRlYW5PcGdQQTRPQUpET1pfS0k1OXpvS3dkZjkxQ0ZRMHJ5b3M2bVl6US1LQzJXWTRPTVJycnFJWWtaRzdlMlVBd1R0S0ZDVVNSS1JBUEg3aGkwT2liNU5qYzlLU2wySkgtRkJibHB5TFFuQ0RJU081c1JKeC1EUEo5MktyY0xSSnc?oc=5",
+    "title": "China will struggle to make money from humanoid robots",
+    "source": "The Economist",
+    "published": "Sun, 23 Aug 2026 13:52:45 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The Economist argues that China's humanoid-robot manufacturers face structural challenges in turning prototypes into profitable businesses.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "profitability"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPajljR25VanhjNUFoaWF2TVhfUEh0a2owdlN3eHp1SHlCeUZ0d0lSR19OVVV3R1ZmamtLRzNNc1VjTnBPbl8zaFFpX0xEdFhJLS03RXYtY0c3U2ljRF84R3ItLXBkSE5tQUJPTEtBdlJxTGpZUTg4WmdWRjR0TzdlSVNkWVM2M2lzZUEybm5vXy1vQmZyOVExZXFOd2NTQVE0Q1FLY1ROVVE0TDVnU1FSSHI3bUlCUl84WjlWTkVDdDgtLXN6Rk9RMmFLV0ZJOWxXbWlCT1g2MVZRMmpHSmk4YXN2aw?oc=5",
+    "title": "Why hire a warehouse worker for $30 per hour when a robot costs $10? JPMorgan expects booming humanoid demand.",
+    "source": "MarketWatch",
+    "published": "Tue, 25 Aug 2026 11:49:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "JPMorgan analysts project surging demand for humanoid robots as an alternative to human warehouse labor, framing the economics of automation through a cost-per-hour comparison.",
+    "companies": [
+      "JPMorgan"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "warehouse automation",
+      "physical AI",
+      "labor economics"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5",
+    "title": "China robot maker Unitree's post-listing slump sparks bubble fears",
+    "source": "Reuters",
+    "published": "Tue, 25 Aug 2026 10:38:51 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Unitree, a Chinese robotics manufacturer, has seen its stock price decline sharply following its public listing, raising concerns about a potential bubble in the sector.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "market valuation",
+      "IPO"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGRSMFJBdFBacC1FN2VWT3pNaGNhQWI5TUlBTktlN01MNGtCa3ZHR0lkckI5eEN1RUs5LU5idS1oeUpLNlRGRDJSX040dWE1bDJSbjc4YWY0eTBFbmFXRk9wZE9KUS1WM1JRUnlMbFlFS1ppbHVRa3Ezbi0yc1hBeG5EZ3NzN0NQdUlMVkJxMVlIZDFDV25WSEJtWnhwLVZyUG16RjFPbTZTQVFuVkp4YVZQWkFqNEtCN3c?oc=5",
+    "title": "Robots Now Outrun Humans, But Still Need a ChatGPT Moment",
+    "source": "Bloomberg",
+    "published": "Tue, 25 Aug 2026 11:02:01 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Bloomberg argues that while robots have surpassed human speed in narrow tasks, they still lack the generalist breakthrough that would unlock broad physical AI capabilities.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "generalization",
+      "capability"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4RHBBQ0pDREN6aVFYU3RwX1cyTEhJN3g2dDVQS0Q4OFBSeThrQU56ZHlpUUQxWW9OY1ZFNTA2QXFBdEtkb3lsM0dEaUlybzhoWmxmNlBwRVAwSEIwekhkZFFRQVg3eFZ2QlRz?oc=5",
+    "title": "XPENG Robotics Raises US$900M for Humanoid Robots",
+    "source": "XPENG",
+    "published": "Tue, 25 Aug 2026 09:42:07 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "XPENG Robotics secured $900 million in funding to accelerate development of its humanoid robots for industrial and consumer applications.",
+    "companies": [
+      "XPENG Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "funding"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFE4ekg1T3ZRV1lvQ0lWNnpHZE1BVjlIU1BIcEFyWU9OclVGMWpTUVR5c3A4SkZzSGNjdXB0M2MtSE1wMnpCUW9ocU9VNjlQR0dYWDgtVTI3Q2hzQzNqSmJDaEFIUWx2ZGo2MnNsSUFJVnVkdGI0WnJFTXRmbF83X1NnSDE4dldmb0E?oc=5",
+    "title": "They Were Lyft Drivers. Now They're Cleaning Waymos.",
+    "source": "Business Insider",
+    "published": "Tue, 25 Aug 2026 08:13:31 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Former Lyft drivers have found work cleaning Waymo's autonomous vehicles, illustrating the human labor still required to maintain a driverless fleet.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "labor displacement",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWU9uRnhkclpmekkyMk1TeXZ3VF8zT01CNVRvdVBfSUdFdmd5SmdwbTJNNldHRW5VNlQ4N2ZSU1M2LUg2czhmX0Y2cHZHSXpuWlFWamZDLTRZMUF1MkplRGlTVnVjQVQ4NklwVFp4SjJYZjZOeHNuS3c1aThCQmsyRkpHVmZyVVdZNk5STHpnSVVNYmV3cXhhOFVUZE1OZTVFWEktTQ?oc=5",
+    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "source": "TechCrunch",
+    "published": "Tue, 25 Aug 2026 14:10:26 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Gatik, a self-driving truck startup with a PepsiCo delivery contract, raises $200 million in Series C funding.",
+    "companies": [
+      "Gatik",
+      "PepsiCo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "logistics"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbmhNTU1wYUdsNEFvam1Ccm5jak9RS1dONTR0cm9tZUNtNnprNjJIWDZUQTJEVy03bzU5T05jMUhGTTdmZWF4aXhxMXpEenFFenBhMWh3aHJVNC1JczJrMmdYWGVGeDJvdWl0dEJ4QjY0TFJkYlMzbw?oc=5",
+    "title": "Robotaxis Face Rising Pushback Just as They Scale Up",
+    "source": "The San Francisco Standard",
+    "published": "Tue, 25 Aug 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Even as Waymo and its rivals expand, the ground beneath them is getting rockier. The Verge documents mounting regulatory friction and public skepticism toward robotaxis in cities where they now roam, while a San Francisco Standard opinion piece frames Tesla and Waymo as America's last real shot at not ceding the autonomous-vehicle race to Chinese automakers. Together the pieces capture a company caught between domestic backlash and a geopolitical narrative that casts it as a national champion.",
+    "companies": [
+      "Tesla",
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "competition",
+      "robotaxi",
+      "regulation",
+      "public opposition"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbmhNTU1wYUdsNEFvam1Ccm5jak9RS1dONTR0cm9tZUNtNnprNjJIWDZUQTJEVy03bzU5T05jMUhGTTdmZWF4aXhxMXpEenFFenBhMWh3aHJVNC1JczJrMmdYWGVGeDJvdWl0dEJ4QjY0TFJkYlMzbw?oc=5",
+        "title": "Robotaxis Face Rising Pushback Just as They Scale Up",
+        "source": "The San Francisco Standard"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT1FKcWw1VnIxUWJkY1BnWWVXTS1QVjdaOU5sd2p0WGk1MTdYeHc4MWtCMUFqSDgxMmdUMFJUVG9oZEZGYXdtaEN6ckxuSzVQMFpoTnRHQnRRZW92ell6a3FnN2hTdTJVQ3hqSXpXLUwtNmg5OTBseE4tUGVuYS1udlBXRU5qUGxQMW5uTU10bEYzWFRuZTJ4YQ?oc=5",
+        "title": "Robotaxis are real now — so is the pushback",
+        "source": "The Verge"
+      }
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLW5heC03MkJBNWpzS3VaN0lkNUFJRFpRZVVHVm5kUUtmUUdxcUZPbEhldjEzbXUxQkxVbWhUdDBXZ1VnekFzdDFMRlhYS29ZMzZtcGNTSXIxa1hyYmwzNFpyaHI1dmpKemtNUE1FTEE1b3NqeUtGNENFTzU5M0NzbGNoVQ?oc=5",
+    "title": "Waymo Sensor Fusion Processor at Hot Chips 2026",
+    "source": "ServeTheHome",
+    "published": "Mon, 24 Aug 2026 23:00:40 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will present its custom sensor fusion processor at the Hot Chips 2026 conference, signaling a move toward proprietary silicon for autonomous driving.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "hardware",
+      "sensor fusion",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbnNKbXNNejJZWlVoQWdodFo0N0FsSXEzMUFuMG9YZ1h2ZW9UM21BdXNQYXQ0dndNRGo5cVIyVjdiUy03QmktZ0JYQ0Z6LXVCa2NBbEUtMW1Zekg0WnJleW9Xc3dSa1BTRGItMEtQODkzd25Id29aeXdNTkFkRnlpS19acUFDdHNaVzUySmpKc3ZyckVkQWpzWWlzWlJWVkpfcV91RlplX1NMbHVDOElwSXA0NE0?oc=5",
+    "title": "Waymo Expands Driverless Rides to EU with Germany Debut in 2027",
+    "source": "Bloomberg",
+    "published": "Tue, 25 Aug 2026 14:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will launch driverless robotaxi service in Germany starting in 2027, marking the company's first European operation.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "international expansion"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW1yZTFhT3V2RWcwY0t0dnBWMF9pNThva2lrakRuNnhVVE5MVnRfZmRKNjZGVXRCODZDZk4ydWVyak1MaVZOM3lYZUJnQW1ra28tOFl2WDRIVks5c29RNDc4RTRJZ0hrcWlYT0NPaThra2NTYlZad1QybTl3RUdzVl9ZOUk?oc=5",
+    "title": "Waymo picks Munich for first EU robotaxi launch",
+    "source": "Financial Times",
+    "published": "Tue, 25 Aug 2026 14:00:09 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching its first European robotaxi service in Munich, betting on Germany's automotive engineering culture and regulatory openness.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "Europe"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemdxT2EtS1FTOGlnRzJnTmlqRmRMajl2Y1FTeGtpbnVzT2RVZ2JoTzdQWUlHazNZM2RmTHQtcUhaNmhBZHlWR3BlNWtNRm44MUhZNzB2dXB2WDU2U1h1U2lBeDFEV0lGbjY5S3FRb0xzWGlJUmwzeDhZcU9QT2FhVmFyZkNPOERTREg2dHgzbkx0ei1fb3JDdzNsU1FBNGZqbXJySVdR?oc=5",
+    "title": "Amazon’s steering wheel-free robotaxi expands to more cities",
+    "source": "NBC News",
+    "published": "Tue, 25 Aug 2026 01:29:25 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Amazon expands its driverless Zoox robotaxi service to additional cities, pushing past the autonomous-vehicle graveyard where most competitors have stalled.",
+    "companies": [
+      "Amazon",
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmhxak5ZVmZoUkQzU1NnMFpoYXZDZDkxLUlOcDdnUGZnVnpaQmFXaHoyN0pGcnhwYllJSnRUbUVEMjE4Z2FqZGtfZXk2ZnEtdGxQZVJXTEVHVnRiVU5XdXFaeEJSVFhXSDlEOU5vZ0R2Q1FEcUhob2RUS1Ytc091VnRQamVSSS04dmx5ZzFjQVl2VDJOUWJjeWMxUGg?oc=5",
+    "title": "Waymo puts Zeekr-built Ojai robotaxis into regular service",
+    "source": "electrive.com",
+    "published": "Tue, 25 Aug 2026 12:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has begun regular service with Zeekr's Ojai vehicles, expanding its robotaxi fleet with a Chinese automaker's purpose-built platform.",
+    "companies": [
+      "Waymo",
+      "Zeekr"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUJsOWxmUFBDRVN5azVhVlo4WHV3Ym1Pb2E5QTFKUVdWUXJ2NG9MSE9xZXBORHhvNEZ1ZmlyQ0hic0M5Vk1TU1FwdmUyUURrY0E0RGFsYTRDeS1RNXJGM1A4SmhxV1lZNFlfMVlCUHhRMWgtVHU1eGhOVE1tU2pobDluVXVTckpqWEQ2QjkwZ1BCekZmOHllanZWOA?oc=5",
+    "title": "Humans in the loop are still needed for robotaxi fleet safety, says Guident",
+    "source": "The Robot Report",
+    "published": "Tue, 25 Aug 2026 15:16:24 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Guident argues that human oversight remains essential for safe robotaxi operations, challenging the industry's push toward fully autonomous fleets.",
+    "companies": [
+      "Guident"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEx4RzZNOFEtSXhla29mN2oxQmRoN2pPeGFCOGxQVUhQM1U1U29tQTdaVElZbElwai1Jb0pMTUcwcDlCRHpvQnRQc25XZDdCclItczFMRmZrdHhlbzU0a0NDVjNBUWdLSE9JUWw0ZjlkRlR5NEo1b2pnZ0hLZF9rRmdQUFU1d0xVRE5VTEVYNHZ6RXc1OGhvLTVmN0VYZjIyb0M5cF9tVW9lUEp4ZFNCZV9tc2VFVjlqcVduR2cyaXg4TWkycVNLQ0Q1dw?oc=5",
+    "title": "Waymo has the green light to hit Sacramento’s streets. How will it impact street safety?",
+    "source": "capradio.org",
+    "published": "Mon, 24 Aug 2026 17:40:40 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has won regulatory approval to operate driverless vehicles in Sacramento, marking the company's expansion into the state capital.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory approval",
+      "safety"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDhiYk1NS0VCcUp2ajZaU1FhdW1xNzMzNXpZNWpVUU02Wk5rVWs3Mkh6aUVKNW91eHRWdFREczZsQ19WZmtIMXEydDhSb2VWZlBNMkRSR21hQUdacnRZSlBIYzIxdVZHOE1VdHB5dWVpQzV3eENvQWVaNXR1UUNEYUc2TTdtWm1aZEZWclYzVzNteWpqQlhaUjFKNkRzTXR2bms0V0pRZVg4YU9Sei1BN3NzU21MXzM1WUdmVw?oc=5",
+    "title": "Gatik Scores New $200 Million Investment For Its Driverless Truck Tech",
+    "source": "Forbes",
+    "published": "Tue, 25 Aug 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Gatik raised $200 million for its autonomous trucking platform, extending its runway in the crowded middle-mile delivery market.",
+    "companies": [
+      "Gatik"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "middle-mile logistics"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlFZa0Y4UXhIeTVRR0JrSWVONmVRZ051cUp5YkRKdUZPcndPRE5TZERUemF3TjJrTV81OTktcmZXbG1Dc04zTWx3WjdlcEFhVVNoN1c4VDhhTE83djdBQWRzSW8xR2RPLUxYM2d5VXJicFRtX2FUWFJ0bk5QQU5na2lLN3ZtQ2hHSWFlWjRKSnItNVUtYV9hcnVJRHVTdmlneVdnWHdJck5uV0I4eTFCQQ?oc=5",
+    "title": "Waymo announces European expansion with robotaxis in Munich in 2027",
+    "source": "Yahoo Autos",
+    "published": "Tue, 25 Aug 2026 15:03:37 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo plans to launch robotaxis in Munich by 2027, marking the company's first European deployment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "European expansion"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZng3SWpSSmhpTHRKZFZORWF0eExkWk1xTmhDdlNzaWVEZndCZFE0emcxWEE4LWpmRTN1UnFkVGtwMnlKcEZSYUxaMFFxWUY3UU1SN2tnbkZiLTBWOFFQOGhUakxqVGdOdDBiY09MZU1pOThrMy1FVlFTdVVzVVZWR2ZmdVkwVXBCTGhWRkxPVkFteUZFVmxRQw?oc=5",
+    "title": "Gatik raises $200M for driverless freight after PepsiCo deal",
+    "source": "Dealroom",
+    "published": "Tue, 25 Aug 2026 14:54:12 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Gatik closed a $200M funding round on the back of a commercial driverless freight deployment with PepsiCo.",
+    "companies": [
+      "Gatik",
+      "PepsiCo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "freight",
+      "autonomous delivery"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT1FKcWw1VnIxUWJkY1BnWWVXTS1QVjdaOU5sd2p0WGk1MTdYeHc4MWtCMUFqSDgxMmdUMFJUVG9oZEZGYXdtaEN6ckxuSzVQMFpoTnRHQnRRZW92ell6a3FnN2hTdTJVQ3hqSXpXLUwtNmg5OTBseE4tUGVuYS1udlBXRU5qUGxQMW5uTU10bEYzWFRuZTJ4YQ?oc=5",
+    "title": "Robotaxis are real now — so is the pushback",
+    "source": "The Verge",
+    "published": "Mon, 24 Aug 2026 16:42:37 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The Verge surveys the growing regulatory and public resistance to robotaxi deployments as autonomous vehicle companies expand operations.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "public opposition"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUhLNkhvazlFYno5SllrM1V3Q0xSNndNT2IxY2lteGF1VXNvMzBqbU5DekJqM2xlN2kwc1o4TEk1c0dzWVVBN05JeVBwSFIxTXFRUkRFWVZ0LTVFUGdWT0dNSDQxTHV1UUp2T3NLMEdsSlM3RlJfR3ZJRzl4Z2gzc0VrR2VXS0pUR2YxbjhubnUyWXNPSkRhd2VaVzBOeWM?oc=5",
+    "title": "U.S. Army Testing Autonomous, Drone-Killing Ford F-250 Super Duty",
+    "source": "Ford Authority",
+    "published": "Tue, 25 Aug 2026 14:21:38 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The U.S. Army is testing an autonomous Ford F-250 Super Duty equipped to detect and neutralize hostile drones.",
+    "companies": [
+      "Ford",
+      "U.S. Army"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous vehicles",
+      "drone defense",
+      "military deployment"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGZlRWk1WmJnZ3JZSlQ2Tm5KS0w2V1dUTklxbHBNMXdWZDZvV2R1cVlzY0N3OFU0bTRyNy1sV2x4WTBoMkNYZXlUOUo0Z3lWUTh0MUp1ek94ZnhMWVhZb3daZ0o1TzZiZTBFc3pMcWdiR3lRU1JhUFZQQ05uUjNZYjNITU1aUnNKUy00?oc=5",
+    "title": "Airbound raises $37M for autonomous drone delivery network",
+    "source": "IoT News",
+    "published": "Tue, 25 Aug 2026 12:04:01 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Airbound raised $37 million to build out an autonomous drone delivery network.",
+    "companies": [
+      "Airbound"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTE2SkRVaFFORmp6RUIwMFBuTUt6VHlQc3lhN3pkNzhOdHZMT2hrZE4zVDZRUm1CUFhjX0gyVXk0emp4WEhmTkZjXzhybWV4N3ViSWE3NmJRajNJUm1EVUR6dk9oNUM2N0lValNaRzlNcFhWc2hzTFRzcHBNejBfaXRlRWpvNWJ2SGVFQXBqWHhOUFFPRUVfaVBjLUU?oc=5",
+    "title": "Fully autonomous Russian drone kills three Ukrainians",
+    "source": "Semafor",
+    "published": "Mon, 24 Aug 2026 22:23:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "A Russian drone powered by Nvidia's minicomputer killed three Ukrainians in what experts say was the first fully autonomous strike without human oversight.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "military",
+      "Ukraine",
+      "combat"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnRscTRzM1ZhT2k4c1JOZkpsSGNURkNuUHJyWjFfT2IybzFMM0I2d1NXZTNYWUJXNDQtcUtVVldWRnQtVDJKc0NuRmhLNlh1OWZjb1hwMVRFeS13aU5HMXRITWR2TjMxM2NZLTh3SC05aVB4RXI5U2VPbDA1YlkzTkdkRdIBiAFBVV95cUxQUHJvNHJ2Vl9MWE41bmpnV3d0c052ak9BU0pqOFBodXJKQzNpeFFlNGVTWlM0R1ptQkt2SnBuLXVJZi1vV3h4Q3BYMWFiUFk1OTFSOTRJRzZQQmVPSmxiZGR5b2RBa2ZfWkxKSTBSTUV6dzd6Vjhqb1JSNWg5WHFhdkR2OVpDbUox?oc=5",
+    "title": "‘Fully Autonomous’ Russian Drone Kills Three Civilians in Ukraine Attack: Report",
+    "source": "The Defense Post",
+    "published": "Tue, 25 Aug 2026 11:43:40 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Russia deployed its first fully autonomous AI-powered drone in a Zaporizhzhia attack that killed three Ukrainian civilians, with Nvidia minicomputers found in the wreckage.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "military deployment",
+      "civilian casualties"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdy1vV0RTOFNNVUdOQjRweUpabzBEYTJNQzRLMEdTYnlIN25SS0psV2pJdkZFWVFuSVJ4LWFOcUctenVEX1JsNWpwSFIySUdncWN1alk2dDdNWDV1Q0lfcVFrV2ctTHdHRmV6Z1hYcWJtTG1SODRZQVJBQVJFY2J0Z01aMUtQSWQxblBVSEV5TUFjamNQN1c3bWtEMTJ5YjA?oc=5",
+    "title": "Wartime First: Autonomous Drone Kills Civilians",
+    "source": "Newser",
+    "published": "Mon, 24 Aug 2026 18:49:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "An autonomous drone has killed civilians in active combat, marking the first confirmed autonomous lethal strike in wartime.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "civilian casualties",
+      "military drones",
+      "accountability"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVHBZTjFQWXBwcUVoMjZHb2RFRnZSZVZ1Zm1SbzJUeTlBa2tzX0VyMVVGVzJobXVwb09SeUJPdk5qMjJCY3RrSGdqQklGQ1Z4bjctMjVoejVpZTlGM3loeXhZLXFKMXpyeWVqNHdnQ3d4clViU3ZaVkg3VW1pNzAtQVRMeXUtVGlUUFJXUF9qX0NxdURyS3dteUs0Z1dLZWY2RGl5a1VqV0dJaUx4ZUtVM0tEZ0h6U0xMR040?oc=5",
+    "title": "Indian startup Airbound raises $37m for autonomous drone expansion",
+    "source": "The Daily Star",
+    "published": "Tue, 25 Aug 2026 14:33:32 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Airbound, an Indian autonomous-drone startup, has raised $37 million to scale its operations.",
+    "companies": [
+      "Airbound"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "funding",
+      "expansion"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ2xwOU0tV3dNSVVGV0t0ZHJjR0ZEaWxiY05nbk1OdGl3My1SWXJBWUk4ZjhwTHJIdERZY0VaWklfZEtycG1TenpkX0VRcHgzcDk4MHBqQTZQcEVLak8xVUhueWg3bXJzcjdNcGZqX2dpMmMzSU1SaXY2QWU3LUI3N2JZZkZyQXRfaWpSTDlXbFVSSC14aGJMcUlyZ3RWalh4TjZkVDg3bHdlVGN5YkVwNXV2NFB5SlFqVGRWZnJCVVNWRUl3RGdpNHF2RHNYYXlKaXRON0RFQnF0d01UMnhWZUlfZTFnU0RLakMycTJHalNlR1ZTMmhjWmVn0gH_AUFVX3lxTFBMMzlMYnBxSzJHOTR3d2J3blhBNWRTOE41WXFpTmJwa2FaTHRHU25WNTVYWG5yRlN0ekdvOFZmMElEXzJnc292NHdxcXF3WThzdUlJNWttUVF5Z0RlRFpybzFGb1FWdU9wbzV1OFo3MlJ2V0dLUzI5eG1VVDhfY0V1VlA3SU1jVGVzSEUtOW1Cdzc4TGJjNjZNQVhMaUpRWGFxUTVEc3NyaTVHd3hQTzFQeWJteHgtYnM2R3l1Yk1uQVk5RUNIVnM4U2h2NC0zbm12VEZqdUJEYjhhUVlsSDNoM1UzWTBSeG5pRlI4bmc0dTRiaTByLWdUbGU1aG1zSQ?oc=5",
+    "title": "NYT: A fully autonomous Russian AI drone run by an Nvidia minicomputer killed 3 civilians in the Ukrainian city of Zaporizhzhia",
+    "source": "Meduza — Новости",
+    "published": "Mon, 24 Aug 2026 20:22:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "A fully autonomous Russian drone powered by Nvidia hardware killed three civilians in Zaporizhzhia, marking a documented use of AI-driven autonomous targeting in the Ukraine conflict.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "AI targeting",
+      "military deployment",
+      "civilian casualties"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQalp2XzFJNXhiMnFKTTBvYTRYZ01DUGswLVdwQkxIdVh3UlFrNlR2b01DNVBERHdKZm5EXzJIeFpZMGlWcktkWTVGZGd2Z3lWenQ4RTJla1NyMG1pRGtPTE00ZllBZXpMa2d5MnVFNjh5VHdmckd1RHJTd2dQaURkUHhHSXlPOFF4TWdSczZIbUkwSGpVMmduVVFn?oc=5",
+    "title": "Airbound raises $37M to scale autonomous drone delivery in India",
+    "source": "YourStory.com",
+    "published": "Tue, 25 Aug 2026 05:36:50 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Airbound, an Indian autonomous drone-delivery startup, has raised $37 million to expand operations across the subcontinent.",
+    "companies": [
+      "Airbound"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone delivery",
+      "India"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4bXFOemcxbHRhRnpqRkc0MUdNczRGSGktVFNIdUx4OFlmVkVfbmJOWXlCOXpYck5CbWlPbU9YMDk1N0g0WDlmeENIWjdZWkpjdTBXcW5leHBENjJuRXdyVUR3TW5JRlpaaElUbEluXzZSTzBVeGc?oc=5",
+    "title": "Russia Deploys Fully Autonomous AI Lethal Drone in Combat for First Time",
+    "source": "finance.biggo.com",
+    "published": "Tue, 25 Aug 2026 06:55:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Russia deployed a fully autonomous AI-guided drone in Ukraine that independently selected and struck a civilian target, killing three people including a university student.",
+    "companies": [
+      "Russia",
+      "Nvidia"
+    ],
+    "people": [
+      "Kateryna Bondar",
+      "Serhii Minaiev",
+      "Mykhailo Fedorov"
+    ],
+    "themes": [
+      "autonomous drones",
+      "lethal autonomous weapons",
+      "military AI",
+      "combat deployment"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzkzZy14clBrMDRQcGhBNF9vZGFTOEJtX1M4RHhfNDBTaG1zc3E3bzNScGVNRVFZckVVUDdGWDVkNE96RXZhUXBNVTF4WFFQUVl5TGEtVlJlQjhaaTlvSEtxLWoweXFBeENKbTNqVlZ1dmQ4amdjOWplcmVuaWJ6MXpOcGlZRFhiZEt5cGNvVGlGWUFHYWl6V2o2S3dRb0RnNUZhZV9ickxVN19CNl9RS0RRbm7SAcgBQVVfeXFMUEZoZ2NIZzg4Q2lWUXdWWUkwNFV1Z01mNmNYRDROZVJVcUdSdzVVdkhfcEQ5R19NYkEtOTdLQ2lSejhsdzllR1lxaWp1MU16d1pSdldkb2ZGbnNsYVhrWEtOVE5SQ09Sc2RORXpIdjlKcGo2Rmc5YlptdWpoOURhbDdwQkk5T18wQURVVHhtSTRvbE40MV85cVVWNW9QMVBPdWlzVjhSemxlNU91ZzY4NDVrNmMyVHlQcE03WGsxcVlpd1c1cGNTbkw?oc=5",
+    "title": "A new Ukraine battlefield milestone is raising alarms around the world",
+    "source": "Cleveland.com",
+    "published": "Mon, 24 Aug 2026 18:46:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Ukraine has deployed drones in a novel combat role that is alarming military strategists globally.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "warfare",
+      "Ukraine"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFM0R3d2Vl9SQ2U1bk1GTXJRUjExdEl3Q0t6N3VvekU2NExyVmFJRW9QN2U3UDNqSTdfUWh2NzhHQkhkYjBxZXNSVGRFQjRjWE56ZG82OEl6bjRxeEFWVlVERlkyQzFLM2NGSmVNSURFQW05bEs1TEJvN0czOVlhRHMzXy1scVFYaWFJbTlFd0NYcEdkMndlcHd3Yw?oc=5",
+    "title": "Airbound Raises $37 Million to Scale Autonomous Drone Logistics",
+    "source": "CXO Digitalpulse",
+    "published": "Tue, 25 Aug 2026 12:13:23 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Airbound has raised $37 million to expand its autonomous drone delivery network.",
+    "companies": [
+      "Airbound"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous logistics",
+      "delivery"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BRUo2SWlScXFQa080S2VSc21qVWU3bWcxcGtsN2dCMUMxWVZNY2NrWlJrNFBFbndEc3BsRlhxb3NEODRBMGxWZkc3QVBwZTlPSFpXZUF0RTNjY0s1T0pDOExPNngxbndlbFNMMFVXamNwVkxvblFn0gF8QVVfeXFMT3NYRXpGTmpzd1M5X0N1QnYzbmJjMVRCdU13bGpLeFVqb0NGcG05czVuejc1LXVqRDFRVWhkTDdxX2RXWEhrWmR0VGxEaDJ6ZXhISkFPZUZmTFhsZmFlUjY1czVzcE4wWjRQWURYRkcyYUo5cjhrVno2dEZheg?oc=5",
+    "title": "New Indian Hybrid Robot Can Drive, Then Take Flight to Bypass Obstacles",
+    "source": "The Defense Post",
+    "published": "Tue, 25 Aug 2026 11:55:59 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Two Indian firms, ArcanumSpace and Quetzalcoatl, built a hybrid robot that drives around obstacles, then takes flight when the ground route won't work.",
+    "companies": [
+      "ArcanumSpace",
+      "Quetzalcoatl"
+    ],
+    "people": [],
+    "themes": [
+      "hybrid robotics",
+      "autonomous navigation",
+      "aerial-ground transition",
+      "obstacle avoidance"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkczS1JGakVjUXJ6clJDUHBKdHBLNkRNY2xnMmFNekUwSFNyVzVabzlNaEFROGs2NDBFeWlSY1NTdDdGUXlXVzNibHZJZFRCbzhGamNKbVJoTS15STV0cTcxdkV4b2Z2dy1jd0RpcDBvY0VTZDU2cUN5Tk9FUXlpODYwNHBDdk1CYUJFUWhXTl84dw?oc=5",
+    "title": "Saildrone, Lockheed Martin Advance Autonomous Naval Firepower with RIMPAC Demo",
+    "source": "Saildrone",
+    "published": "Thu, 20 Aug 2026 18:32:02 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saildrone and Lockheed Martin demonstrated an autonomous maritime drone system at the RIMPAC naval exercise, marking a step toward weaponized unmanned naval operations.",
+    "companies": [
+      "Lockheed Martin"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "maritime",
+      "naval",
+      "military",
+      "RIMPAC"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1NRSlNPTWc5cV9ER0N6NFk4Z1pSSFJ3YVdYWXN0RUFDTmttUkVVVHNiY3JycTlQeTJhLTlYb3RCdDFrdlUwMjRqTExNaDFvRVljTUVRa2RDc3o0SUZWLUo5aFktS3UzMkRFMDVfanpWbFluTFhRNTNJLVMxa21abUdUMkFKSkk?oc=5",
+    "title": "AI-guided Russian drone kills three civilians in Ukraine",
+    "source": "Computing UK",
+    "published": "Tue, 25 Aug 2026 08:23:52 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "A Russian drone equipped with Nvidia's Jetson Orin computer killed three Ukrainian civilians in Zaporizhzhia, marking the first documented case of autonomous targeting in the war.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Tetiana Bubynets",
+      "Roman Karpiy",
+      "Oleksiy Svirin"
+    ],
+    "themes": [
+      "drone",
+      "AI-guided",
+      "autonomous weapons",
+      "military"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVVZd2ZFRmlYZ0ZvOUZ5Y2prNnhIc1haWTIxdmVmYWNvR0pNcEFwNlVLX3p0RGVkQk80WHBoWkxXTXZkOXZrRXRxcnNkZWc0NE5ZZWlmOEJUbzFDaHVJY3d0Z0ZzUzFGWF9WWVVOTGJFM2VSb3Z0alZ5S0V5Sy1CdUlsdDZYODZf?oc=5",
+    "title": "Russia Deploys NVIDIA-Powered Autonomous AI Drones in Ukraine",
+    "source": "조선일보",
+    "published": "Tue, 25 Aug 2026 04:35:07 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Russia has deployed autonomous drones powered by NVIDIA processors in combat operations in Ukraine, marking an escalation in the use of AI-enabled weaponry.",
+    "companies": [
+      "NVIDIA",
+      "Russia"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "military",
+      "AI warfare"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": []
+  },
+  {
+    "url": "https://waymo.com/blog/2026/08/waymo-in-munich",
+    "title": "Waymo Expands Footprint to Sacramento and Munich",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo keeps unspooling its map: state regulators cleared the company to run driverless cars on Sacramento streets, even as officials there weigh the safety implications, while across the Atlantic Waymo announced it will start mapping and test-driving Munich, aiming for a commercial robotaxi launch by the end of 2027. The German expansion marks Waymo's first venture outside the U.S., a sign the company sees its geofenced, sensor-heavy approach as exportable.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Tekedra Mawakana"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous ride-hailing",
+      "international expansion",
+      "autonomous vehicles",
+      "regulatory approval",
+      "safety"
+    ],
+    "first_seen": "2026-08-25T15:37:56",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://waymo.com/blog/2026/08/waymo-in-munich",
+        "title": "Waymo Expands Footprint to Sacramento and Munich",
+        "source": "Waymo"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEx4RzZNOFEtSXhla29mN2oxQmRoN2pPeGFCOGxQVUhQM1U1U29tQTdaVElZbElwai1Jb0pMTUcwcDlCRHpvQnRQc25XZDdCclItczFMRmZrdHhlbzU0a0NDVjNBUWdLSE9JUWw0ZjlkRlR5NEo1b2pnZ0hLZF9rRmdQUFU1d0xVRE5VTEVYNHZ6RXc1OGhvLTVmN0VYZjIyb0M5cF9tVW9lUEp4ZFNCZV9tc2VFVjlqcVduR2cyaXg4TWkycVNLQ0Q1dw?oc=5",
+        "title": "Waymo has the green light to hit Sacramento’s streets. How will it impact street safety?",
+        "source": "capradio.org"
+      }
+    ]
   }
 ]
