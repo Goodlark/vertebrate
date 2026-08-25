@@ -85,6 +85,19 @@ nav.sections a:hover{text-decoration:underline}
 .item .sources{font-family:"Special Elite",monospace;font-size:11.5px;color:var(--muted);letter-spacing:.03em;line-height:1.7}
 .item .sources a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--rule)}
 .item .sources a:hover{color:var(--stamp);border-color:var(--stamp)}
+.item .lead-title a{color:var(--ink);text-decoration:none}
+.item .lead-title a:hover{text-decoration:underline}
+.item .sources .readfull{color:var(--stamp);font-weight:700;border-bottom:0}
+/* Full article page: sources + "previously on" */
+.story-sources{font-family:"Special Elite",monospace;font-size:12px;color:var(--muted);letter-spacing:.03em;
+  border-top:1px solid var(--rule);padding-top:12px;margin-top:22px}
+.story-sources a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--rule)}
+.story-sources a:hover{color:var(--stamp);border-color:var(--stamp)}
+.related{margin-top:30px}
+.related .rel-item{padding:10px 0;border-bottom:1px solid var(--rule)}
+.related .rel-item h3{font-size:18px;margin:0 0 3px;font-weight:600}
+.related .rel-item h3 a{color:var(--ink);text-decoration:none}
+.related .rel-item h3 a:hover{color:var(--stamp)}
 
 aside{align-self:start;position:sticky;top:20px}
 .index-box{border:2px solid var(--ink);padding:12px 15px 16px;background:rgba(255,251,238,.4)}
@@ -151,6 +164,26 @@ aside{align-self:start;position:sticky;top:20px}
 .briefs a:hover{text-decoration:underline;color:var(--stamp)}
 .briefs .b-src{font-family:"Special Elite",monospace;font-size:11px;color:var(--muted)}
 @media (max-width:760px){.briefs{columns:1}}
+
+/* Human Touch columns + contribute form */
+.column{max-width:680px;margin:0 auto}
+.col-title{font-size:31px;line-height:1.16;margin:16px 0 6px;font-weight:600}
+.col-byline{font-family:"Special Elite",monospace;font-size:11.5px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--rule);padding-bottom:12px;margin-bottom:16px}
+.col-img{width:100%;height:auto;border:2px solid var(--ink);margin:0 0 16px}
+.col-body{font-size:18px;line-height:1.7}
+.col-body p{margin:0 0 16px}
+.col-body a{color:var(--stamp)}
+.contribute{max-width:640px;margin:8px auto 0;display:flex;flex-direction:column;gap:14px}
+.contribute label{display:flex;flex-direction:column;gap:5px;font-family:"Special Elite",monospace;
+  font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.contribute input,.contribute textarea{font-family:"Source Serif 4",Georgia,serif;font-size:16px;
+  color:var(--ink);background:rgba(255,251,238,.6);border:2px solid var(--ink);padding:9px 11px}
+.contribute textarea{resize:vertical;line-height:1.5}
+.contribute button{align-self:flex-start;font-family:"Special Elite",monospace;font-size:12px;
+  letter-spacing:.14em;text-transform:uppercase;color:#f6ecd2;background:var(--stamp);border:0;padding:10px 22px;cursor:pointer}
+.contribute button:hover{opacity:.9}
+.form-msg{font-family:"Special Elite",monospace;font-size:12px;color:var(--muted)}
 
 .notfound{text-align:center;padding:26px 0 10px;max-width:640px;margin:0 auto}
 .notfound .fact{font-size:19px;line-height:1.6}

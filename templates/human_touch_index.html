@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Human Touch — a human weighs in — {{ site_title }}{% endblock %}
+{% block description %}Human-written columns on robotics from {{ site_title }} — argument, doubt and a point of view the AI feed can't provide.{% endblock %}
+{% block body %}
+  <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>HUMAN TOUCH</span><span><a href="{{ root }}human-touch/contribute.html">Contribute →</a></span></div>
+  <header class="masthead"><div class="kicker">HUMAN TOUCH</div><h1>VERTEBRATE<span class="ai">.ai</span></h1><div class="tag">where a human weighs in</div></header>
+  <div class="sec">Columns</div>
+  {% for p in posts %}
+  <div class="entry">
+    <h3><a href="{{ root }}human-touch/{{ p.slug }}.html">{{ p.title }}</a></h3>
+    <div class="players"><span class="pe-list">By {{ p.author }}</span>{% if p.date %}<span class="src-name">{{ p.date }}</span>{% endif %}</div>
+    <p class="fact">{{ p.excerpt }}…</p>
+  </div>
+  {% endfor %}
+  {% if not posts %}<p class="fact">No columns yet — check back soon.</p>{% endif %}
+  <div class="foot">VERTEBRATE.AI</div>
+{% endblock %}

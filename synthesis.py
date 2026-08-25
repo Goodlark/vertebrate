@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+import hashlib
 import logging
+import re
 from typing import List, Literal
 
 from pydantic import BaseModel
@@ -11,6 +13,47 @@ from dedup import _entity_groups, _keep_key
 from weekly import VOICE
 
 log = logging.getLogger("pressmonitor.synthesis")
+
+ARTICLE_SYSTEM = (
+    "You are a robotics-industry reporter writing a full news article for a serious outlet. You "
+    "get a headline and the source items it combines. Write the article, about 350-500 words:\n"
+    "1. Open with the news itself — what happened, WHEN, and WHERE — naming the company and the "
+    "concrete specifics (numbers, cities, people, partners).\n"
+    "2. Then explain why it matters: the impact on the robotics industry, and where relevant on "
+    "the economy and on people's lives. Be concrete and grounded in the source items; never "
+    "invent facts, figures, or quotes.\n"
+    "Return clean HTML paragraphs (<p>...</p>) only — no headline, no markdown, no lists.\n"
+    "Voice: " + VOICE
+)
+
+
+def _clean_html(text: str) -> str:
+    text = re.sub(r"^```[a-zA-Z]*\n?|```$", "", text.strip()).strip()
+    if "<p" not in text.lower():   # model returned plain paragraphs — wrap them
+        text = "".join(f"<p>{p.strip()}</p>" for p in re.split(r"\n\s*\n", text) if p.strip())
+    return text
+
+
+def _slug(title: str, url: str) -> str:
+    base = re.sub(r"[^a-z0-9]+", "-", (title or "").lower()).strip("-")[:60] or "story"
+    return f"{base}-{hashlib.md5((url or '').encode()).hexdigest()[:6]}"
+
+
+def write_article(client, title: str, summary: str, items: list, model: str = WEEKLY_MODEL) -> str:
+    """Write the full HTML article body for a combined story from its source items."""
+    src = "\n".join(f"- {it.get('title', '')} — {it.get('one_line', '')} ({it.get('source', '')})"
+                    for it in items)
+    try:
+        resp = client.messages.create(
+            model=model, max_tokens=1500, system=ARTICLE_SYSTEM,
+            messages=[{"role": "user", "content":
+                       f"Headline: {title}\nSummary: {summary}\n\nSource items:\n{src}\n\n"
+                       "Write the article body (HTML paragraphs)."}],
+        )
+        return _clean_html("".join(getattr(b, "text", "") for b in resp.content))
+    except Exception as e:  # noqa: BLE001
+        log.warning("article generation failed: %s", e)
+        return ""
 
 SYNTH_SYSTEM = (
     "You are the editor of an AI-and-robotics news brief. You are given several news items "
@@ -76,6 +119,9 @@ def synthesize_day(client, day_mentions: list, model: str = WEEKLY_MODEL) -> int
                 continue
             members.sort(key=_keep_key)                              # earliest/best = representative
             rep, rest = members[0], members[1:]
+            items = [{"title": m.title, "one_line": m.one_line, "source": m.source} for m in members]
+            rep.slug = _slug(story.title, rep.url)
+            rep.body = write_article(client, story.title, story.summary, items, model)
             rep.title = story.title.strip() or rep.title
             rep.one_line = story.summary.strip() or rep.one_line
             rep.category = story.category
@@ -87,3 +133,18 @@ def synthesize_day(client, day_mentions: list, model: str = WEEKLY_MODEL) -> int
                 m.folded = True
             count += 1
     return count
+
+
+def write_missing_articles(client, mentions: list, model: str = WEEKLY_MODEL) -> int:
+    """Backfill full article bodies for combined stories that have sources but no body yet."""
+    n = 0
+    for m in mentions:
+        if m.sources and not m.body:
+            items = [{"title": s.get("title", ""), "one_line": "", "source": s.get("source", "")}
+                     for s in m.sources]
+            if not m.slug:
+                m.slug = _slug(m.title, m.url)
+            m.body = write_article(client, m.title, m.one_line, items, model)
+            if m.body:
+                n += 1
+    return n

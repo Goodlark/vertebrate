@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ecdcb6">
+<title>Contribute — Human Touch — VERTEBRATE.ai</title>
+<meta name="description" content="Humanoid robots, physical AI, driverless cars and autonomous drones — VERTEBRATE.ai&#39;s daily dispatch and weekly editorial on robotics.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://vertebrate.ai/human-touch/contribute.html">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="VERTEBRATE.ai — The Weekly" href="https://vertebrate.ai/feed.xml">
+<!-- Open Graph / social -->
+<meta property="og:site_name" content="VERTEBRATE.ai">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Contribute — Human Touch — VERTEBRATE.ai">
+<meta property="og:description" content="Humanoid robots, physical AI, driverless cars and autonomous drones — VERTEBRATE.ai&#39;s daily dispatch and weekly editorial on robotics.">
+<meta property="og:url" content="https://vertebrate.ai/human-touch/contribute.html">
+<meta property="og:image" content="https://vertebrate.ai/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="VERTEBRATE.ai — the first AI-powered media">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Contribute — Human Touch — VERTEBRATE.ai">
+<meta name="twitter:description" content="Humanoid robots, physical AI, driverless cars and autonomous drones — VERTEBRATE.ai&#39;s daily dispatch and weekly editorial on robotics.">
+<meta name="twitter:image" content="https://vertebrate.ai/og.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Special+Elite&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css">
+<meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+<div class="wrap">
+
+  <div class="topbar"><span><a href="../human-touch/index.html">← Human Touch</a></span><span>CONTRIBUTE</span><span></span></div>
+  <header class="masthead"><div class="kicker">HUMAN TOUCH</div><h1>VERTEBRATE<span class="ai">.ai</span></h1><div class="editionline">Write a column</div></header>
+  <form id="contribute" class="contribute">
+    <label>Title<input type="text" name="title" required></label>
+    <label>Your name<input type="text" name="author" value="Svitlana Rahimova"></label>
+    <label>Image (optional)<input type="file" name="image" accept="image/*"></label>
+    <label>Column — Markdown welcome<textarea name="body" rows="14" required></textarea></label>
+    <label>Password<input type="password" name="password" required></label>
+    <button type="submit">Publish</button>
+    <div class="form-msg" id="msg"></div>
+  </form>
+  <div class="foot">VERTEBRATE.AI</div>
+  <script>
+  const f = document.getElementById('contribute'), msg = document.getElementById('msg');
+  f.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    msg.textContent = 'Publishing…';
+    const el = f.elements, file = el.image.files[0];
+    const image_b64 = file ? await new Promise(r => {
+      const rd = new FileReader(); rd.onload = () => r(rd.result.split(',')[1]); rd.readAsDataURL(file);
+    }) : null;
+    const payload = {
+      title: el.title.value, author: el.author.value, body: el.body.value,
+      password: el.password.value, image_b64, image_name: file ? file.name : null
+    };
+    try {
+      const res = await fetch('/.netlify/functions/publish', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload)
+      });
+      const data = await res.json().catch(() => ({}));
+      if (res.ok) { msg.textContent = 'Published! It will appear in a minute or two.'; f.reset(); }
+      else { msg.textContent = 'Error: ' + (data.error || res.status); }
+    } catch (err) { msg.textContent = 'Error: ' + err.message; }
+  });
+  </script>
+
+</div>
+</body>
+</html>

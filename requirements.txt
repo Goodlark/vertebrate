@@ -7,3 +7,4 @@ Jinja2>=3.1
 requests>=2.31
 googlenewsdecoder>=0.1.7
 pytest>=8.0
+markdown>=3.5

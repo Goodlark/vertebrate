@@ -36,6 +36,16 @@ companies:
   - {name: Nuro,    url: "https://nuro.ai/press",           topic: "Driverless"}
   - {name: Pony.ai, url: "https://pony.ai/press?lang=en",   topic: "Driverless"}
 
+  # --- Brain-computer interfaces ---
+  - {name: Neuralink,              url: "https://neuralink.com/blog/",         topic: "Brain-Computer Interfaces"}   # best-guess URL
+  - {name: Synchron,               url: "https://synchron.com/news",           topic: "Brain-Computer Interfaces"}
+  - {name: Precision Neuroscience, url: "https://www.precisionneuro.io/news",   topic: "Brain-Computer Interfaces"}   # best-guess URL
+  - {name: Blackrock Neurotech,    url: "https://blackrockneurotech.com/news/", topic: "Brain-Computer Interfaces"}   # best-guess URL
+  - {name: Paradromics,            url: "https://paradromics.com/blog/",        topic: "Brain-Computer Interfaces"}
+  - {name: Science Corp,           url: "https://science.xyz/news",             topic: "Brain-Computer Interfaces"}
+  - {name: Onward Medical,         url: "https://www.onwd.com/media/",          topic: "Brain-Computer Interfaces"}
+  - {name: Neurable,               url: "https://neurable.com/blog",            topic: "Brain-Computer Interfaces"}
+
   # --- Flying cars / eVTOL ---
   - {name: Archer,             url: "https://archer.com/news",              topic: "Flying Cars & eVTOL"}
   - {name: Joby Aviation,      url: "https://jobyaviation.com/news",        topic: "Flying Cars & eVTOL"}

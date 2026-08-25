@@ -35,6 +35,26 @@ def test_synthesize_day_combines_a_company_thread():
     assert not fig.folded and not fig.sources          # a singleton company is untouched
 
 
+def test_write_article_returns_html_body():
+    client = MagicMock()
+    client.messages.create.return_value = SimpleNamespace(
+        content=[SimpleNamespace(text="<p>Waymo launched in three cities.</p><p>It matters.</p>")])
+    html = synthesis.write_article(client, "Waymo Expands", "summary",
+                                   [{"title": "a", "one_line": "x", "source": "KTLA"}])
+    assert "<p>" in html and "Waymo launched in three cities" in html
+
+
+def test_write_missing_articles_fills_body():
+    m = _m("http://rep", "Waymo Expands")
+    m.sources = [{"url": "http://1", "title": "A", "source": "KTLA"},
+                 {"url": "http://2", "title": "B", "source": "ABC7"}]
+    client = MagicMock()
+    client.messages.create.return_value = SimpleNamespace(
+        content=[SimpleNamespace(text="<p>The full story.</p>")])
+    assert synthesis.write_missing_articles(client, [m]) == 1
+    assert "full story" in m.body and m.slug
+
+
 def test_synthesize_day_ignores_singletons():
     ms = [_m("http://a", "Waymo one story")]            # only one mention -> nothing to combine
     assert synthesis.synthesize_day(MagicMock(), ms) == 0

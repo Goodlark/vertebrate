@@ -187,10 +187,14 @@ def run_synthesize(now: datetime, client, out_dir: str = "docs", data_dir: str =
         live = [m for m in mentions if (m.first_seen or "")[:10] == day
                 and not m.duplicate and not m.folded and not m.sources]
         total += synthesis.synthesize_day(client, live)
+    # Backfill full article bodies for any combined stories that still lack one.
+    filled = synthesis.write_missing_articles(
+        client, [m for m in mentions if not m.duplicate and not m.folded])
     store.save_mentions(mentions, mentions_path)
     sitegen.build_site(mentions, weeks, out_dir=out_dir)
-    log.info("Synthesis — combined %d thread(s) over %d day(s)", total, len(days))
-    return {"synthesized": total, "days": len(days)}
+    log.info("Synthesis — combined %d thread(s), wrote %d article(s), over %d day(s)",
+             total, filled, len(days))
+    return {"synthesized": total, "articles": filled, "days": len(days)}
 
 
 def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "data",

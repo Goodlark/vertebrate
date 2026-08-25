@@ -3,9 +3,9 @@
   <div>
     {% if m.companies or m.people %}<div class="orgs">{% if m.companies %}<span class="orgs-co">{{ m.companies[:4]|join(" · ") }}</span>{% endif %}{% if m.people %}<span class="orgs-pe"> — {{ m.people[:3]|join(", ") }}</span>{% endif %}</div>{% endif %}
     {% if m.sources and m.sources|length > 1 %}
-    <h2 class="lead-title">{{ m.title }}</h2>
+    <h2 class="lead-title">{% if m.slug %}<a href="{{ root }}story/{{ m.slug }}.html">{{ m.title }}</a>{% else %}{{ m.title }}{% endif %}</h2>
     <p class="summary">{{ m.one_line }}</p>
-    <div class="sources">Sources: {% for s in m.sources %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.source }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</div>
+    <div class="sources">{% if m.slug %}<a class="readfull" href="{{ root }}story/{{ m.slug }}.html">Read the full story →</a> &nbsp;·&nbsp; {% endif %}Sources: {% for s in m.sources %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.source }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</div>
     {% else %}
     <a class="lead" href="{{ m.url }}">{{ m.one_line }}</a>
     <div class="byline">{{ m.title }} <span class="src-name">· {{ m.source }}</span></div>

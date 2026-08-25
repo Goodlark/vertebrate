@@ -28,6 +28,8 @@ class Mention:
     duplicate: bool = False   # set by the same-event dedup pass; hidden from every view
     folded: bool = False      # rolled into a synthesized multi-source story; hidden individually
     sources: list = field(default_factory=list)  # [{url,title,source}] when this is a synthesized story
+    body: str = ""            # full HTML article (synthesized stories only)
+    slug: str = ""            # URL slug for the article page (synthesized stories only)
 
     def to_dict(self) -> dict:
         return asdict(self)

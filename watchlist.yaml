@@ -7,3 +7,5 @@ topics:
     keywords: 'Waymo OR robotaxi OR driverless OR "self-driving"'
   - name: Drones
     keywords: 'autonomous drone OR Skydio OR "drone delivery"'
+  - name: Brain-Computer Interfaces
+    keywords: '"brain-computer interface" OR "brain implant" OR "neural interface" OR Neuralink OR Synchron OR "brain chip"'

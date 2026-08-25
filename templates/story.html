@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}{{ story.title }} — {{ site_title }}{% endblock %}
+{% block description %}{{ story.one_line|truncate(150, False, '…') }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block head_extra %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"NewsArticle","headline":{{ story.title|tojson }},"description":{{ story.one_line|tojson }},"url":"https://{{ domain }}/{{ page_path }}","datePublished":{{ story_date|tojson }},"author":{"@type":"Organization","name":{{ site_title|tojson }}},"publisher":{"@type":"Organization","name":{{ site_title|tojson }}},"isAccessibleForFree":true}
+</script>
+{% endblock %}
+{% block body %}
+  <div class="topbar"><span><a href="{{ root }}index.html">← Today’s Feed</a></span><span>THE AUTONOMOUS DESK</span><span>{{ story_date }}</span></div>
+  <header class="masthead"><h1>VERTEBRATE<span class="ai">.ai</span></h1></header>
+  <article class="column">
+    {% if story.companies or story.people %}<div class="orgs">{% if story.companies %}<span class="orgs-co">{{ story.companies[:4]|join(" · ") }}</span>{% endif %}{% if story.people %}<span class="orgs-pe"> — {{ story.people[:3]|join(", ") }}</span>{% endif %}</div>{% endif %}
+    <h2 class="col-title">{{ story.title }}</h2>
+    <div class="col-byline">Compiled by machine{% if story_date %} · {{ story_date }}{% endif %}</div>
+    <div class="col-body">{{ story.body|safe }}</div>
+    <div class="story-sources">Sources: {% for s in story.sources %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.source }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</div>
+    {% if related %}
+    <section class="related">
+      <div class="sec">Previously{% if story.companies %} on {{ story.companies[0] }}{% endif %}</div>
+      {% for r in related %}
+      <div class="rel-item">
+        <h3><a href="{{ root }}story/{{ r.slug }}.html">{{ r.title }}</a></h3>
+        <p class="fact">{{ r.excerpt|truncate(220, False, '…') }}</p>
+      </div>
+      {% endfor %}
+    </section>
+    {% endif %}
+  </article>
+  <div class="foot">COMPILED BY MACHINE · EDITED FOR THE CURIOUS · VERTEBRATE.AI</div>
+{% endblock %}

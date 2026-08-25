@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}Contribute — Human Touch — {{ site_title }}{% endblock %}
+{% block head_extra %}<meta name="robots" content="noindex, nofollow">{% endblock %}
+{% block body %}
+  <div class="topbar"><span><a href="{{ root }}human-touch/index.html">← Human Touch</a></span><span>CONTRIBUTE</span><span></span></div>
+  <header class="masthead"><div class="kicker">HUMAN TOUCH</div><h1>VERTEBRATE<span class="ai">.ai</span></h1><div class="editionline">Write a column</div></header>
+  <form id="contribute" class="contribute">
+    <label>Title<input type="text" name="title" required></label>
+    <label>Your name<input type="text" name="author" value="Svitlana Rahimova"></label>
+    <label>Image (optional)<input type="file" name="image" accept="image/*"></label>
+    <label>Column — Markdown welcome<textarea name="body" rows="14" required></textarea></label>
+    <label>Password<input type="password" name="password" required></label>
+    <button type="submit">Publish</button>
+    <div class="form-msg" id="msg"></div>
+  </form>
+  <div class="foot">VERTEBRATE.AI</div>
+  <script>
+  const f = document.getElementById('contribute'), msg = document.getElementById('msg');
+  f.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    msg.textContent = 'Publishing…';
+    const el = f.elements, file = el.image.files[0];
+    const image_b64 = file ? await new Promise(r => {
+      const rd = new FileReader(); rd.onload = () => r(rd.result.split(',')[1]); rd.readAsDataURL(file);
+    }) : null;
+    const payload = {
+      title: el.title.value, author: el.author.value, body: el.body.value,
+      password: el.password.value, image_b64, image_name: file ? file.name : null
+    };
+    try {
+      const res = await fetch('/.netlify/functions/publish', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload)
+      });
+      const data = await res.json().catch(() => ({}));
+      if (res.ok) { msg.textContent = 'Published! It will appear in a minute or two.'; f.reset(); }
+      else { msg.textContent = 'Error: ' + (data.error || res.status); }
+    } catch (err) { msg.textContent = 'Error: ' + err.message; }
+  });
+  </script>
+{% endblock %}

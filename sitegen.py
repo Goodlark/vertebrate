@@ -10,6 +10,8 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape as xml_escape
 
+import markdown as _md
+import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import store
@@ -86,6 +88,36 @@ def rank_mentions(mentions: list) -> list:
 def _rfc822(d) -> str:
     """RFC-822 date (RSS pubDate) at noon UTC on the given date."""
     return format_datetime(datetime(d.year, d.month, d.day, 12, 0, 0, tzinfo=timezone.utc))
+
+
+def load_human_touch(content_dir: str = "content/human-touch") -> list:
+    """Human-authored 'Human Touch' columns: Markdown files with YAML frontmatter."""
+    posts = []
+    if not os.path.isdir(content_dir):
+        return posts
+    for fn in sorted((f for f in os.listdir(content_dir) if f.endswith(".md")), reverse=True):
+        with open(os.path.join(content_dir, fn), encoding="utf-8") as f:
+            raw = f.read()
+        meta, body = {}, raw
+        if raw.startswith("---"):
+            _, front, body = raw.split("---", 2)
+            meta = yaml.safe_load(front) or {}
+        body_html = _md.markdown(body.strip())
+        posts.append({
+            "slug": fn[:-3],
+            "title": str(meta.get("title") or fn[:-3]),
+            "author": str(meta.get("author") or "Svitlana Rahimova"),
+            "date": str(meta.get("date") or ""),
+            "image": str(meta.get("image") or ""),
+            "html": body_html,
+            "excerpt": re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", body_html)).strip()[:180],
+        })
+    return posts
+
+
+def _first_paragraph(body_html: str) -> str:
+    m = re.search(r"<p[^>]*>(.*?)</p>", body_html or "", re.S | re.I)
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", m.group(1))).strip() if m else ""
 
 
 def _day_label(day: str) -> str:
@@ -268,6 +300,48 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         f.write(env.get_template("daily_index.html").render(
             days=day_views, **_common("../", "daily/index.html")))
 
+    # Human Touch — human-authored columns + the password-protected contribute form
+    ht_posts = load_human_touch()
+    ht_dir = os.path.join(out_dir, "human-touch")
+    os.makedirs(ht_dir, exist_ok=True)
+    ht_img = os.path.join("content", "human-touch", "images")
+    if os.path.isdir(ht_img):
+        shutil.copytree(ht_img, os.path.join(ht_dir, "images"), dirs_exist_ok=True)
+    for p in ht_posts:
+        with open(os.path.join(ht_dir, f"{p['slug']}.html"), "w", encoding="utf-8") as f:
+            f.write(env.get_template("human_touch_article.html").render(
+                post=p, **_common("../", "human-touch/" + p["slug"] + ".html")))
+    with open(os.path.join(ht_dir, "index.html"), "w", encoding="utf-8") as f:
+        f.write(env.get_template("human_touch_index.html").render(
+            posts=ht_posts, **_common("../", "human-touch/index.html")))
+    with open(os.path.join(ht_dir, "contribute.html"), "w", encoding="utf-8") as f:
+        f.write(env.get_template("contribute.html").render(
+            **_common("../", "human-touch/contribute.html")))
+
+    # Full articles for synthesized stories — their own SEO pages, with related coverage.
+    articles = [m for m in mentions if getattr(m, "body", "") and getattr(m, "slug", "")]
+    by_company = {}
+    for a in articles:
+        if a.companies:
+            by_company.setdefault(a.companies[0].lower(), []).append(a)
+    for lst in by_company.values():
+        lst.sort(key=lambda m: m.first_seen or "", reverse=True)
+    story_dir = os.path.join(out_dir, "story")
+    os.makedirs(story_dir, exist_ok=True)
+    for a in articles:
+        related = []
+        for other in (by_company.get(a.companies[0].lower(), []) if a.companies else []):
+            if other.slug == a.slug:
+                continue
+            related.append({"title": other.title, "slug": other.slug,
+                            "excerpt": _first_paragraph(other.body) or other.one_line})
+            if len(related) >= 3:
+                break
+        with open(os.path.join(story_dir, f"{a.slug}.html"), "w", encoding="utf-8") as f:
+            f.write(env.get_template("story.html").render(
+                story=a, related=related, story_date=(a.first_seen or "")[:10],
+                **_common("../", "story/" + a.slug + ".html")))
+
     # Tag pages
     tag_dir = os.path.join(out_dir, "tag")
     os.makedirs(tag_dir, exist_ok=True)
@@ -292,8 +366,11 @@ def build_site(mentions: list, weeks: dict, out_dir: str = "docs",
         f.write(_FAVICON_SVG)
     with open(os.path.join(out_dir, "robots.txt"), "w", encoding="utf-8") as f:
         f.write("User-agent: *\nAllow: /\nSitemap: https://%s/sitemap.xml\n" % DOMAIN)
-    paths = ["", "weekly/", "daily/"] + [f"weekly/{w.lower()}.html" for w in week_ids] \
+    paths = ["", "weekly/", "daily/", "human-touch/"] \
+        + [f"weekly/{w.lower()}.html" for w in week_ids] \
         + [f"daily/{d}.html" for d in days_present] \
+        + [f"human-touch/{p['slug']}.html" for p in ht_posts] \
+        + [f"story/{a.slug}.html" for a in articles] \
         + [f"tag/{t.slug}.html" for t in tags]
     urls = "".join('  <url><loc>https://%s/%s</loc></url>\n' % (DOMAIN, p) for p in paths)
     with open(os.path.join(out_dir, "sitemap.xml"), "w", encoding="utf-8") as f:

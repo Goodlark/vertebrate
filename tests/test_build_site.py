@@ -86,6 +86,26 @@ def test_build_site_renders_synthesized_story(tmp_path):
     assert "Sources:" in index and "KTLA" in index and "ABC7" in index   # multiple sources
 
 
+def test_build_site_renders_article_page(tmp_path):
+    out = tmp_path / "docs"
+    m = store.Mention(url="http://rep", title="Waymo Expands to Three Cities", source="KTLA",
+                      published="", topic="Driverless", category="launch",
+                      one_line="Waymo launched robotaxis in three cities.", companies=["Waymo"],
+                      people=[], themes=[], first_seen="2026-07-15T00:00:00", week="2026-W29",
+                      sources=[{"url": "http://1", "title": "A", "source": "KTLA"},
+                               {"url": "http://2", "title": "B", "source": "ABC7"}],
+                      body="<p>Waymo launched robotaxis in Denver, San Diego and Tampa.</p>",
+                      slug="waymo-expands-abc123")
+    sitegen.build_site([m], {}, out_dir=str(out), templates_dir="templates")
+
+    article = (out / "story" / "waymo-expands-abc123.html").read_text(encoding="utf-8")
+    assert "Waymo launched robotaxis in Denver" in article   # the article body
+    assert "NewsArticle" in article                          # SEO structured data
+    assert "Sources:" in article
+    index = (out / "index.html").read_text(encoding="utf-8")
+    assert "story/waymo-expands-abc123.html" in index        # feed headline links to the article
+
+
 def test_build_site_hides_duplicates(tmp_path):
     out = tmp_path / "docs"
     keep = _m("http://keep")   # title "Figure hits the line", week 2026-W29
