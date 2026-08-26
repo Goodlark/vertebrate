@@ -4,6 +4,10 @@
   publish = "docs"
   command = "echo 'Pre-built static site in docs/ — nothing to build.'"
 
+# The Human Touch contribute form posts to netlify/functions/publish.js
+[functions]
+  directory = "netlify/functions"
+
 # Send www visitors to the bare domain (Netlify also enforces the primary domain,
 # this makes it explicit).
 [[redirects]]

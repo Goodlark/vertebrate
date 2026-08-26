@@ -197,6 +197,17 @@ def run_synthesize(now: datetime, client, out_dir: str = "docs", data_dir: str =
     return {"synthesized": total, "articles": filled, "days": len(days)}
 
 
+def run_build(now: datetime, out_dir: str = "docs", data_dir: str = "data") -> dict:
+    """Re-render the site from stored data + content — no fetching, no API key.
+    Used to publish Human Touch columns committed by the contribute form."""
+    mentions_path, weeks_path = _paths(data_dir)
+    mentions = store.load_mentions(mentions_path)
+    weeks = store.load_weeks(weeks_path)
+    sitegen.build_site(mentions, weeks, out_dir=out_dir)
+    log.info("Rebuilt site — %d mentions", len(mentions))
+    return {"built": len(mentions)}
+
+
 def run_clean(now: datetime, client, out_dir: str = "docs", data_dir: str = "data",
               enrich: bool = True) -> dict:
     """Re-clean stored data in place: (1) mark same-event duplicates per week,
@@ -323,10 +334,17 @@ def main(argv=None) -> int:
                              "(resolves Google News links), then rebuild.")
     parser.add_argument("--all", action="store_true",
                         help="With --sources, re-read every story, not just those missing a company.")
+    parser.add_argument("--build", action="store_true",
+                        help="Re-render the site from stored data + content (no fetch, no API key).")
     args = parser.parse_args(argv)
 
+    config.load_env()
+    now = datetime.now()
+    if args.build:                       # render-only: no API key required
+        run_build(now)
+        return 0
+
     try:
-        config.load_env()
         config.require_api_key()
         topics = config.load_watchlist()
     except config.ConfigError as e:
@@ -334,7 +352,6 @@ def main(argv=None) -> int:
         return 1
 
     client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from the environment
-    now = datetime.now()
     if args.backfill:
         run_backfill(now, args.backfill, topics, client)
     elif args.sources:

@@ -140,3 +140,16 @@ def test_run_daily_keeps_company_news_drops_essays(tmp_path):
     urls = {m.url for m in stored}
     assert "https://figure.ai/news/x" in urls        # the news post is kept
     assert "https://figure.ai/news/y" not in urls     # the culture essay is dropped
+
+
+def test_run_build_renders_without_api_key(tmp_path):
+    import store
+    data_dir = tmp_path / "data"
+    out_dir = tmp_path / "docs"
+    store.save_mentions([store.Mention(url="http://a", title="T", source="S", published="",
+        topic="T", category="launch", one_line="o", companies=["Foo"], people=[], themes=[],
+        first_seen="2026-07-15T00:00:00", week="2026-W29")], str(data_dir / "mentions.json"))
+    store.save_weeks({}, str(data_dir / "weeks.json"))
+    monitor.run_build(datetime(2026, 7, 15), out_dir=str(out_dir), data_dir=str(data_dir))
+    assert (out_dir / "index.html").exists()
+    assert (out_dir / "human-touch" / "index.html").exists()

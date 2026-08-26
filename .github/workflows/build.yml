@@ -1,0 +1,39 @@
+name: Rebuild site
+
+# Triggered by the Human Touch contribute form (via the Netlify publish function) to
+# re-render the site after a new column is committed. No news fetch, no API key.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pressmonitor-publish
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Render the site (no fetch)
+        run: python monitor.py --build
+      - name: Publish if changed
+        run: |
+          git config user.name "vertebrate-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing to publish."
+          else
+            git commit -m "build: content update"
+            git push origin HEAD:main
+          fi
