@@ -37706,7 +37706,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -38713,7 +38713,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -39650,7 +39650,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -41047,7 +41047,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -41081,12 +41081,12 @@
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95amNiLVdxRVFSVzVsRWdJVHQ0UTh4bjBDUlNZeGhXcE5KMXNRbTJoTjY3bWV2V25lRnRjSVFtcHB5N0R0dnNkb0NZV2tpM0RjaTJBTEhwZXhrR0tua2RNaQ?oc=5",
-    "title": "Martha Stewart is the face of Waymo's new Ojai, a 'living room on wheels'",
+    "title": "Waymo's New 'Living Room on Wheels' Rides on a Chinese-Built Chassis",
     "source": "Mashable",
     "published": "Thu, 27 Aug 2026 22:34:38 GMT",
     "topic": "Driverless",
     "category": "launch",
-    "one_line": "Waymo unveiled the Ojai, a self-driving living-room concept, with Martha Stewart as the campaign face.",
+    "one_line": "Waymo unveiled the Ojai, a self-driving concept it's branding as a living room on wheels, with Martha Stewart fronting the campaign. The vehicle is part of a fleet built on Chinese-made EV platforms, a sourcing choice that's drawing scrutiny over supply chains and what it means for the 'American' robotaxi story.",
     "companies": [
       "Waymo"
     ],
@@ -41096,16 +41096,29 @@
     "themes": [
       "driverless",
       "autonomous vehicle design",
-      "mobility experience"
+      "mobility experience",
+      "supply chain",
+      "electric vehicles"
     ],
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
     "duplicate": false,
     "folded": false,
-    "sources": [],
-    "body": "",
-    "slug": ""
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95amNiLVdxRVFSVzVsRWdJVHQ0UTh4bjBDUlNZeGhXcE5KMXNRbTJoTjY3bWV2V25lRnRjSVFtcHB5N0R0dnNkb0NZV2tpM0RjaTJBTEhwZXhrR0tua2RNaQ?oc=5",
+        "title": "Waymo's New 'Living Room on Wheels' Rides on a Chinese-Built Chassis",
+        "source": "Mashable"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQk9CUTA1dHAyaHV2UUFCTk1xWHVkZFUtZ0Q0X3JIYV9tanZHNi1RWlAtQlluWUFBckh2eXhzYW81eWtSZ3V4WDNOV2lRYUN1YlBHZWxCRkh5UVFhUkI4NHhlRnM2cXdkeUdqY0Q2dnlkcTFFQUNZLXZTWmNCWFJWQU9GRlJERjQwdkE?oc=5",
+        "title": "How Waymo got Chinese EVs onto American roads",
+        "source": "Fast Company"
+      }
+    ],
+    "body": "<p>Waymo introduced the Ojai this week, a self-driving concept vehicle the company is pitching not as a car but as a \"living room on wheels,\" complete with a marketing campaign fronted by Martha Stewart. The image Waymo wants you to hold in your head is soft lighting, maybe a throw blanket, certainly not a steering wheel. What the company has been less eager to advertise is what's underneath the upholstery: the Ojai and much of Waymo's expanding robotaxi fleet ride on EV platforms built in China.</p>\n\n<p>The chassis sourcing, first detailed by Fast Company, traces a path that starts far from Mountain View. Waymo has been integrating its sensor suites and self-driving software onto vehicle platforms manufactured by Chinese automakers, then finishing and adapting them for American roads. It's a practical choice — those platforms are cheap, plentiful, and already built for electric drivetrains — but it complicates a narrative the company and much of the American autonomous-vehicle industry have leaned on for years: that robotaxis are a homegrown technological triumph, Silicon Valley software married to Detroit steel.</p>\n\n<p>That gap between image and infrastructure is the real story here. Stewart, a lifestyle brand unto herself, is doing the cultural work of making a driverless car feel domestic, aspirational, distinctly American — the kind of thing you'd want idling outside your house. Meanwhile the hardware underneath tells a more globalized and more awkward story, one where the \"autonomous vehicle revolution\" runs through Chinese manufacturing capacity the same way so much of consumer electronics already does.</p>\n\n<p>For the robotics and AV industry, this matters beyond branding optics. Waymo has positioned itself as the adult in the room of self-driving — the company that survived the hype cycle that swallowed Cruise and others — and its sourcing decisions function as a signal to the rest of the sector about where the money and manufacturing scale actually live. If the most credible player in American autonomy is quietly built on Chinese EV platforms, that's a data point about global supply chains that competitors, regulators, and investors will have to reckon with, especially amid tightening U.S. scrutiny of Chinese-made vehicle technology and components.</p>\n\n<p>It also lands at an odd moment politically, with Washington increasingly wary of Chinese hardware in critical infrastructure and consumer technology alike. A \"living room on wheels\" sounds cozy; a supply chain running through Chinese factories sounds like the kind of thing that ends up in a congressional hearing. Waymo's bet is that riders will care more about the ambiance than the axle. Whether regulators, or rivals eager to make an issue of it, let that distinction hold is the next chapter of this story.</p>",
+    "slug": "waymo-s-new-living-room-on-wheels-rides-on-a-chinese-built-c-2019b5"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejNFUlJNSzh2Uktac1dpT3hQaUZZeWUxbWVPaW5HNEtvZ25EbllHaklxX1g3bGVhbU5oeVFsQ2dNT0ttOGFTX0VwWkdFVHlOLUZ2aDZySWRsdU9mVHlDVEJGUWVtRmlOWk5tUXJnTTdEUktHTS1ITDVKR1Z1T3p0SEdfdlY4YVBQMkxnQ21UbkhBM3RweWxuY2NzZjQ?oc=5",
@@ -41331,7 +41344,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -41640,7 +41653,7 @@
     "published": "Thu, 27 Aug 2026 06:24:00 GMT",
     "topic": "Brain-Computer Interfaces",
     "category": "research",
-    "one_line": "Researchers have developed an internet-connected brain implant that delivers electrical stimulation and drugs remotely, opening possibilities for treating neurological conditions from afar.",
+    "one_line": "Researchers have developed an internet-controlled brain implant capable of delivering both electrical stimulation and pharmaceuticals to specific neural sites remotely.",
     "companies": [],
     "people": [],
     "themes": [
@@ -41716,8 +41729,10 @@
     "published": "Wed, 26 Aug 2026 21:50:35 GMT",
     "topic": "Brain-Computer Interfaces",
     "category": "research",
-    "one_line": "A survey of paralyzed adults reveals that restoring bladder and bowel control ranks higher than hand movement as the brain implant function they'd most want.",
-    "companies": [],
+    "one_line": "A U.C. Irvine survey found paralyzed patients overwhelmingly want brain implants for bladder control, not the hand movement that neurotechnology companies prefer to demo.",
+    "companies": [
+      "University of California, Irvine"
+    ],
     "people": [
       "Adrian Hayes"
     ],
@@ -41791,7 +41806,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -41947,6 +41962,905 @@
       "industrial automation"
     ],
     "first_seen": "2026-08-28T00:12:43",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURxNldrZFI4VWJWMEQ1bGhaVEVNZk9ObXpXaC01dHFNTm5INFFhOHlxSTZmNXpTdGw4ZF9SNWdvaGsyYTJFNXBhMmtqbGNKMHp1cFlpQXZrYUxBV1RhRWdJV0ZVbzJXWkxycjZHdEtsZ2hoSG9LM25QVHBTd25oTFlsTzF1bTJ1NUM1ek0zWGlwWVZwVloxUjEwbFNJeHZxZUJua2x0SEVoSE5r?oc=5",
+    "title": "China’s record robotic strides show the limits of human speed",
+    "source": "Reuters",
+    "published": "Fri, 28 Aug 2026 05:48:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Reuters examines China's advances in robotics as evidence of where automation outpaces human capability.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "automation"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWJBZ1ZiVU83NDBoLVNscTJUdG5uWmJmNkM3b3A0cklSbklNQmhKWlhvUGNRdmlOaEU0TTVuSXlYX3RwSzBYWF9Mc09MX1RENnR6M05LRkJkM3NuNmdFWWtjRkZ6VHlKclkzeE1vYnFaZHpyQUFQN25tdnp5UjBzdGx1TXZib3Ayd2pUT1dobmF0XzNNWXkxYWxNaWNPT0RYRnRpWnd1b2VPN2s?oc=5",
+    "title": "Photos: Humanoid Robots Compete in Beijing Games | Photos | U.S. News",
+    "source": "U.S. News & World Report",
+    "published": "Fri, 28 Aug 2026 18:14:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Humanoid robots competed in a games competition in Beijing, demonstrating physical capabilities in a public event.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVA3b240N3Z2WGlfV3FfNkt6RExGSjBIQl9HMkE1RkFaNDhVYkFxZVRCRHpQcXBWaURHVnA4a1Yza3BjLS16MXpCdm1BN2JIVi1pNFN6WkRxNVFNZ25JN0lHZ2YzMzQ4cVloTm16WFMzU3gzaU5TMHVJbWdKM2w1RHFLazI0aFpoMVVxczN0dklYQdIBqwFBVV95cUxONVJSZzljZFJUVnVOMV9VcGZCdUVVVG04WTh1cEs0Y3RKU3pkTkZPZmpMVHB3cDNyRVdmZFdURWxLbHpJY1J4bUdqZ0FfejFTZ3o1TkVxelJVSG5rVHExZjhOMl9uRW1ZWXo1cTdtUlVac205ZmxvRFNVc0ZYQWY1X21DN1JjTlpJbVBRRGNSTEpiNkpHRkRIb2xHN21fekVUSDhJRHhGTG1PM00?oc=5",
+    "title": "If you give a bot a body: China’s ‘embodied’ push for AI dominance",
+    "source": "The Christian Science Monitor",
+    "published": "Fri, 28 Aug 2026 18:27:49 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China is racing toward artificial general intelligence by embedding AI in humanoid robots, a strategy its manufacturers believe will outpace the West's text-dependent models.",
+    "companies": [
+      "AgiBot",
+      "China Southern Power Grid",
+      "UBTech Robotics",
+      "Morgan Stanley",
+      "Georgetown University Center for Security and Emerging Technology"
+    ],
+    "people": [
+      "Zhang Jianxin",
+      "William Hannas",
+      "Michael Tam"
+    ],
+    "themes": [
+      "embodied AI",
+      "physical AI",
+      "robotics",
+      "China"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzRMQ0szYVBMcTAwZnlFanJBX2gxTVI1bUhWSlBMeVBOT3o5UW1EcDFXS2IyYUJCTFVtN05OVlBEeEJOOXgyUmFBemtOZ2pWN1dfdGZJcXRYUVJyUGMyTm5xWmgwTE9jLURaVkpZUkhJSEIwRVBBcVUyYmxtUk5zZDJ3UHM?oc=5",
+    "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+    "source": "The Hacker News",
+    "published": "Fri, 28 Aug 2026 12:07:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Security researchers discovered two critical remote code execution vulnerabilities in Unitree's G1 EDU humanoid robot, including one exploitable over Bluetooth.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "security vulnerability",
+      "RCE",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSkxiMHgyajlBUGV6STV4dDVMVU1HQ0NZV0ZuejNjc1BBdVItME1Zcnc0NC1iLUpGYVNFTy00Ti10eWZLVHFlR2ZQOG9BcXc5VUlNczhxZzhVWnJMSWNMUjhWV29wdUQ0MmtRUDdVOGE4ZDVjQ19pZUVrdzVYb2wzNi1Tcm9YQTF5bElNbEpNOHFGVmEzem1oRHlfaWRIQ1RoMnNOOHNNREc3X24zdC16WlZGcWYwbkItR0o4OEdZTHBPSG8yQjBrd0JJWnJxSU5mVmhDekhYNmR0R3YyQjZ1QVR0NkdHbXc?oc=5",
+    "title": "Renesas Opens Physical AI and Robotics Lab in Beijing, Targets 70% Humanoid Robot BOM Coverage",
+    "source": "Gasgoo",
+    "published": "Fri, 28 Aug 2026 15:59:31 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Renesas opened a Physical AI and Robotics Lab in Beijing and committed to supplying 70% of the components in humanoid robots.",
+    "companies": [
+      "Renesas"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "robotics",
+      "manufacturing",
+      "semiconductors"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TMmdaeXV5cUg1c0Q2ODNocWdrVk5VSmFjNi04X2dkeTNVdlZiXzB0NHRFbXBKMm1Qek9TSF9OQklvSVc5bWI1TEdZcHBIdjBGYjlsRzdtWFdpaUppRUJzTFgtODhRdFY4aG1odnFpTk1DbXVER2pTVWtMdXk?oc=5",
+    "title": "Galbot Unveils ET1 Humanoid Robot, Can Already Return Tennis Serves",
+    "source": "TechEBlog -",
+    "published": "Fri, 28 Aug 2026 22:24:45 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Galbot has unveiled ET1, a humanoid robot capable of returning tennis serves, marking a milestone in physical AI systems that operate in unstructured environments.",
+    "companies": [
+      "Galbot"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "dexterity"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVJHUmVTVHpxY2VUcTM4UW5CMWdvOTM1YktPYlM3cThNN3FCQXhmVkEtdk9PTzRocnJPQmtzVTJNaVI5WTJiZHVyN3NwX0tlTEdoWWtFbThkTWtMT3FiUU55NENkV1R1cFpzZ0ZMVUZuSXp2cnVpdy1Sb19Obk82UEZLeHJJUUZ5YzdwRHFmWS1vaTVWbHgwbUl3M1Y1ek12MjA4MXYyTFRyUQ?oc=5",
+    "title": "Robots compete in World Humanoid Robot Games",
+    "source": "KVUE",
+    "published": "Fri, 28 Aug 2026 22:52:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Humanoid robots from around the world competed in the World Humanoid Robot Games, a major showcase of the latest advances in physical AI.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSXVFRnc5NHc4UUpPZGlzU1ZYOVg1aGpYbU9BWTBMNDI1N2VjSXpjcnNNV2VGVGhkSk1pWVhnTW1KOVpERnpCNVJIZktQWmI3SW4wYXZBa1NNTDNGUUtVT0RqSmV3WURuaXIzQ2FtUEdZX3o4VWc1cmtqMzl0WjVrQ25kYktmQQ?oc=5",
+    "title": "EXL acquires physical AI model developer iMerit",
+    "source": "The Robot Report",
+    "published": "Fri, 28 Aug 2026 18:00:12 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "EXL acquires iMerit, a physical AI model developer, in a move to expand its machine-learning and robotics capabilities.",
+    "companies": [
+      "EXL",
+      "iMerit"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "acquisition",
+      "machine learning",
+      "robotics"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemdlMWpjMWlzSjh1MDM0dzJmUGZXY1RXcmNSZmV0TC14VWQxNVMzNy1aZnZrTElNcDFtSUcySVJ6bElwR2tPTjZjVDY5Z2EyOXktQzlYeUUwRmR3QWNuOXpfT0lyd2p2TlJaT2syUlloZDIxLWVNT1UxNklENHVJZkZJLWg0NUxIM0t4d2Z6ZHliN3RKTkxwanZjX3d4TE84c1NoSTlUSUNsOE5UMENnLUNXcXIyWnRweWc?oc=5",
+    "title": "Hyundai seeks to diversify revenue with its latest robotics acquisition",
+    "source": "Manufacturing Dive",
+    "published": "Fri, 28 Aug 2026 17:01:51 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Hyundai acquires a robotics company to expand beyond automotive manufacturing into the physical AI market.",
+    "companies": [
+      "Hyundai"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "manufacturing",
+      "acquisition"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHo2ZHNHek1MOFgxa1lWZ1E4RUJUUnEtdmVtb20wbnFRVFBrYU02OG01WEtaYklkLTZnaC1DbS0tNUdVcmpKa01Hb1drNXRuaHRBVmxTYXc2ZmkxYmFzTnFUM0o1bHJiak9kaVJTaFpTdHZaTUdOWHB5WWxDWldULVVnd2Q0bV9LLTJoN1pJaGx0d1EwY0UydFVkYkhuY2tONzdKSzV4QXMzdDUwcUlzR01qQThTa0NQOUUw?oc=5",
+    "title": "Robot Olympics ends with humanoid's 8.64-second 100m, nearly a second faster than Bolt",
+    "source": "Reuters",
+    "published": "Wed, 26 Aug 2026 15:13:43 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A humanoid robot ran a 100-meter dash in 8.64 seconds at a Robot Olympics competition, outpacing Usain Bolt's human record by nearly a second.",
+    "companies": [],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qZ1FrdjZ1UFVYUDVrVVZiblJ1WC1KdFQ3NDVNS1hJTnp6Sk4zWUtpUWVsVFl5Q2MydDFSU3lubV9NbVJuQVltN0QtQmNBQktnWFZ6RTRsMG9sazVIT0l2LWZtSnBTWGdEaktGLWpER09IWTVCbTA0dzE0RQ?oc=5",
+    "title": "A humanoid robot's social expressiveness may backfire when it makes mistakes",
+    "source": "Tech Xplore",
+    "published": "Fri, 28 Aug 2026 12:00:03 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "A study finds that humanoid robots with expressive faces may trigger stronger negative reactions from humans when they fail at tasks.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "social robotics",
+      "human-robot interaction",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TRGRuSWVFNHV0OUlFbVFkak9FOTVia3E0YTU5UFNtM0NWNzkxZFpIZlJwOHBubE95MkxFdFdLd2JjaUVkRVVCNVdGaVk?oc=5",
+    "title": "Video World Humanoid Robot Games open in Beijing",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "Thu, 27 Aug 2026 19:31:01 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A humanoid robot competition launched in Beijing, marking a high-profile platform for physical AI demonstrations in China.",
+    "companies": [
+      "Video World"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXRGQmdfREhta085ZDhQRFJpanlVM19TUF9ldzZSZkJQelZlb2RBNEtzalhmZDR4UFNXY0U0YjlxcXdjMXhRc2tULVJLYTYtYXlsRzh6dEtCcl9lM1NaV0hhN041UkZYdlcycHJ2dFVsXzZUUGFES0d2OVdoQjhZOGFKSUxDV2h6emZialRRallWUGtFMzBKVkp3cllsUnM?oc=5",
+    "title": "Humanoid Robot Company Figure Reveals Crowdsourced Robot Training Tool",
+    "source": "ARC Advisory",
+    "published": "Fri, 28 Aug 2026 12:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Figure AI has released a crowdsourced tool to train its humanoid robots, letting outside contributors help teach machines physical tasks.",
+    "companies": [
+      "Figure AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot training",
+      "crowdsourcing"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzBocXVzbkVfLVZiMU4tNjM2MEk4akpybXQzejVPNjE2U2Q1dzJYUGQ0dHFPcW1tNGs0czhIejVVRTdzM1RjdW5zeW43eXR2Si10SWpfY1VDSkdHQ0xlRDRkVl9lUWdpT2M1dmFUQjYtT3VRRG5zTFE1VmoyZDBaV2xlRDhWbHc?oc=5",
+    "title": "I let Waymo drive me around Denver. Here's how it went.",
+    "source": "Axios",
+    "published": "Fri, 28 Aug 2026 21:01:46 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "An Axios reporter takes a ride in Waymo's autonomous vehicle in Denver and reports back on the experience.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWi16TDlhXzFWSV9WbGtTblVWX0pjamhfNDNRbzZpVmZ5UFRDT0JRMXlseUFtQjFoa0tsMFVycGJ5dElnWDM3MVZEMWRvNHF2eUc2cThpejVyRDhNcHgyTVJGVUZPLU5JaHRFNjVRTVZEMFBtcTBpZms0M1RWU1IzQ0lPS1hMLUx4QWw5bEZFR185cmxzRFRIOUFNYnN0QTFDbU43S1M4UWxuZw?oc=5",
+    "title": "Denver police investigate crash involving Waymo driverless vehicle",
+    "source": "CBS News",
+    "published": "Fri, 28 Aug 2026 13:47:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless vehicle was involved in a crash in Denver, drawing police investigation.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1RieTdsdGVISGM2S2Fqa2RnbDBGMjVDRmdxcTVZQmtsR1VLQmxBR2lIQy0wV1NnODlrbk1JTFRDblZIdDdITkx3dDIyay1IMmNmbUNvbEhRLUlMdUNvR3UyT0RsZldpc0hfUGl5S1dFdEFobjlnTVVraG9GZEtMTG11c2hReEFkWWQyVg?oc=5",
+    "title": "Denver’s first Waymo crash happened but the robot wasn’t the problem",
+    "source": "98.5 KYGO",
+    "published": "Fri, 28 Aug 2026 22:10:49 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's first accident in Denver involved another vehicle, not driver error by the autonomous car.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QWEpFXzdOZ2liZ0puQmZTQ1pJeDczcFdYYlQ5ZUFHTXR4aWdVZWNfOGl0OHFrdU1fWG5rbWE1YWlRR0Q2RGV5TFplMC0?oc=5",
+    "title": "Video Waymo driverless vehicle collides with car in California",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "Fri, 28 Aug 2026 20:50:14 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle collided with another car in California, raising fresh questions about the safety record of the company's growing fleet.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle safety",
+      "collision"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVB2bHlMejRLRlFFUUdXVno4N0hWa0ZUVlFBTFZIRXlrdjhtcmF1cHA1TmVMNFozODMwUDNKX0NFLUsteWJJQVpQNUtmSTdIV1FRTWFsU2NuejNsUER5b0JBSVAwdE8yZ1pJOFlSNFd4VXo0R3FTZmdhNWpEdVhkRlN1WXlpMnczUFYwdHJnMW1tNHFJaHZtZTFyRnB5TGZsYVJhVkFNTXpNcFhpWDZ3?oc=5",
+    "title": "Self-driving Waymo involved in crash in Denver, police say not at fault",
+    "source": "Westword",
+    "published": "Fri, 28 Aug 2026 19:46:15 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle was struck by another car in Denver, with police determining the self-driving car bore no responsibility for the collision.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3FnZHAtQllsY0t0VmQ0VFFsR09peVg0QXFCMzdvTXQ4X0tTMk16WkFkb1AyV0VHUXNSeGVkVzdVeC1abDY5dTYzZlNXcjZ6NzZUVkFvb2FZUU16dFFkX0Zpa01IWkVwd1NiaGZkUHI2akFncGhkRTNRWnJoWU5GREJrN1NnMTJsQVE5WQ?oc=5",
+    "title": "What Tesla “Full Self Driving” V14 Still Can’t Do",
+    "source": "CleanTechnica",
+    "published": "Wed, 26 Aug 2026 22:49:08 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A CleanTechnica analysis catalogs the persistent limitations of Tesla's Full Self Driving system at version 14, finding the technology still struggles with edge cases and complex driving scenarios.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "Full Self Driving"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0h0VHFheHdBRGRtem9acjdPaEt0U2FET3c1ekxQdnR6TTZ3YVFxVmdTdjBpNEcyR0V0SndnOHo1enhIQXNfZEM1bzYwbGF3MlZlMnlkV0dFY0oxZEpQRXdURXE2WDBCckUtN3g4bHE1Y0JwZTJoSXhkRnBVZjV1bGhnMTlYWmI0ZG1EWDVILWM2bXYwZW1YU2dIYV9HVjZtaE15Tg?oc=5",
+    "title": "Former Lyft drivers in Nashville are cleaning Waymo robotaxis — and say they prefer it to driving",
+    "source": "Yahoo Finance",
+    "published": "Fri, 28 Aug 2026 21:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has hired former Lyft drivers in Nashville to clean its robotaxis, a shift some prefer to driving for gig platforms.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "labor"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQk9CUTA1dHAyaHV2UUFCTk1xWHVkZFUtZ0Q0X3JIYV9tanZHNi1RWlAtQlluWUFBckh2eXhzYW81eWtSZ3V4WDNOV2lRYUN1YlBHZWxCRkh5UVFhUkI4NHhlRnM2cXdkeUdqY0Q2dnlkcTFFQUNZLXZTWmNCWFJWQU9GRlJERjQwdkE?oc=5",
+    "title": "How Waymo got Chinese EVs onto American roads",
+    "source": "Fast Company",
+    "published": "Fri, 28 Aug 2026 11:13:07 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo's decision to use Chinese-built vehicles in its robotaxi fleet raises questions about supply chain, manufacturing, and the American autonomous-driving narrative.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "supply chain",
+      "electric vehicles"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWG1pQVNwRVluVDUwRkRnZ3FiVFFhT0tFd1NKS1BmMzdHVVRWOVBxOElLRnl0UWZkUlYyRkxkRmNxcmIwUm1JWng4ZGpnZFVqQ0tCSGoxYnlrenBSdS1DOE5Ud0RIeVg3dV9zblkyQXJRVDFvVXd2Sjg2cHZGeTQ0SlJkdWxZTHJVeE9yUjczR2xkeWt6T0NhcWh2TTRPTTQ?oc=5",
+    "title": "Denver drivers question Waymo behavior after chain-reaction crash",
+    "source": "CBS News",
+    "published": "Fri, 28 Aug 2026 04:03:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicle was involved in a chain-reaction crash in Denver, prompting local drivers to question the company's safety practices.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2c1SXlKdTFSVW9zWFpESWxvMHNYS2dvVE5wRG94QTdrNWVPbTFCUlRmY1EzYlNacENCVWhFNU1JM1A0amdWYmU5Y21wT09XamtPRWpwZEJ1ZnZJSF8wVGZfQ1RSZXR2VTRnN2N4X0pqWmJxR0UyYmtIZWlxeEFDOEMwUDdxcnMwaXRUSFktMUJvaWU5cG5EbkhKZzBkWVBsSVcxQmIwUXdVRlE?oc=5",
+    "title": "Waymo and Zoox Robotaxi Testing Linked to More Than Two Dozen Worker Injuries",
+    "source": "MotorBiscuit",
+    "published": "Fri, 28 Aug 2026 16:27:14 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo and Zoox's robotaxi testing programs have resulted in more than two dozen worker injuries, raising safety concerns around autonomous vehicle development.",
+    "companies": [
+      "Waymo",
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ05NeUNPUFA1YTQzNU0xREw5NTR1d0tOMkl1ZUFoazdUU2dGZ0xxOUd3VUwzcVZyRGVLaWlCZDFXSzJvdXF2LWhrUmxDanhocU9JU1VPZHcwU1Rya2RvRnkwTkg0amdTLVhOY01GenNCSHFPczZ2bGZKWU9ISHFhXzhzQ0JjaE96M0kwb1JlT2tIQ2NZV1AzeW1sUGx4cXByVmNWcFdDeElVb1E?oc=5",
+    "title": "Waymo in Munich: Could autonomous vehicles make Europe's roads safer?",
+    "source": "Euronews.com",
+    "published": "Fri, 28 Aug 2026 13:27:08 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Euronews examines whether Waymo's arrival in Munich signals a path toward safer European roads, in a piece that frames autonomous vehicles as a potential solution to traffic fatalities.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "Europe",
+      "road safety"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU0xsN3lCZkt5YmVCUGtjOWNoSmFKd1p1a2hjY2VJLXBTLVp4eVdsVS1tOURPNl9od2QzSld2TExtYThYbkJIVVhjVVh3LTRNaE1aUFNOcWJhMmxmSjFmQ3NwOGZlN1JmeDViVWxiWmNkQ3UzcTA3R3V4MW9LX0JiTmFoSE5DQ2NFWG5rUExROExHU2dkekhpUjU3aktOc1JPWVJwdzBUdHJQNlVaXzJCX0pSeGVZNDZuTlFIbThXbTFsR1FRaGs0MmxLWVliM1BucWF6aVNRb1d3SUdwN1ZxWThkTlJmdjlFWWRqU2dR?oc=5",
+    "title": "Waymo driverless vehicle collides with car in California",
+    "source": "Central Oregon Daily",
+    "published": "Fri, 28 Aug 2026 21:26:21 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicle was involved in a collision in California, adding to the mounting traffic-incident record of the driverless industry.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle safety",
+      "accidents"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjZFlLalF2YUg4dGdRRkVTYldPeVF6MGJxQ3BYUjAxQUV5TThYM1VNMDVXdHRBeUY0RGExOVhrbjZubDZ6T3U0eDBlVE01RU0wWTZJTUk0Vm9LaUY5VTFmMEVFMG1jaXp4NFUzNWpkTHFyLXNYQzdMc3VYbWtGUQ?oc=5",
+    "title": "Ford Dealership Group Wants To Avoid Delays By Using Autonomous Drones To Deliver Car Parts",
+    "source": "Carscoops",
+    "published": "Fri, 28 Aug 2026 20:39:29 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A Ford dealership group is deploying autonomous drones to speed up parts delivery and cut logistics delays.",
+    "companies": [
+      "Ford"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk9tSHJ3dGRCNlpnQmJHdGlWRjNWNlA2SnRncGpVRVZJWnhQRllBY1ZzRXJYb0pIRUUyZDdXbUR2bGxzZ0pFcUpXZ3p3dUZ2NDdDRmxDMzVKQmVEY3Q0cXdSTlg1LWg3QXZEZFh0ZWFERlZjaHNNRTRUMG5yVGxiR1BHMnpETlRmZlltbFNxVEh6OFl0U05RbG50ZHFnZE9jUnBISDFpQQ?oc=5",
+    "title": "L3Harris, ARX UK test passive counter-drone tech on autonomous UGVs",
+    "source": "Army Technology",
+    "published": "Fri, 28 Aug 2026 17:19:30 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "L3Harris and ARX UK are testing passive counter-drone technology mounted on autonomous ground vehicles to detect and neutralize airborne threats without active emissions.",
+    "companies": [
+      "L3Harris",
+      "ARX UK"
+    ],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "autonomous vehicles",
+      "UGV",
+      "passive detection",
+      "defense"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Wd3RGbm95b0ctQURyRXNlZTEwRXVuQlNNNTNjVXhGNy1OeW9TSDdaajlMSlFYR1RHLUs4bEdneUJZcGtrTFpkcEwyS3FhNlgtSnAwZTlOZ2pHSHBIUHdFOUJqaENuQXM5TnhRQTJaVXhuSXdIMkdJMNIBfkFVX3lxTE5rTHhNdFJ0bkprX3NfS2F3bjBjd1VqcjBoR2w0OUR4OVJSdS1mejlYNkNSOGxzQWVnS0p5U2F6ZnNGN0cwa2R6eFpzUEdWMmtoVXBUeV9ydzJ3VzNwUk9pMkZST1RfMXdmUG1vdnFWbjFRSWVxNzRPVXJJRDBJUQ?oc=5",
+    "title": "Tonner Drones Expands Into Defense With Azur Drones Acquisition",
+    "source": "The Defense Post",
+    "published": "Fri, 28 Aug 2026 09:28:05 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Tonner Drones acquires Azur Drones to enter the defense sector.",
+    "companies": [
+      "Tonner Drones",
+      "Azur Drones"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "defense",
+      "acquisition"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmxWTFM4eWhYaTNZS2dkcEtqeFZyMlRjT253T0VZSFFZUTgtTVV4U21xRWVaWFU4WlZhLXZSSGh0WEM4UzZTTjNjOTZrZzdwb1A3enRRMWRlWnNsYlpWOFBldWhLdEIxaHprOWZUaHBsc2xvTm1NMjNXT0E0enBPVWFvTlNuWDkwbjhYMGd4aHh1V1RDOVRlaWFxemFpVmtLNHc?oc=5",
+    "title": "Police sergeant recounts his Neuralink journey with Elon Musk’s brain chip",
+    "source": "Teslarati",
+    "published": "Fri, 28 Aug 2026 05:45:27 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "A police sergeant describes his experience as a Neuralink patient, offering a first-person account of Elon Musk's brain-computer interface implant.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "patient experience"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qRzFLaG1tcmZ3Vk92RXZNSlBnVFJqdng2THQ3TFBEOF9CV0pvME90Y3dHQmFCN1RBZXRlT0FKZmFRMXdUWEhWVGJDNC1BWDVibWNoNkNfdVc2OXZ0R0dnS1dB?oc=5",
+    "title": "China's first MRI-based brain-computer interface conference held in Tianjin",
+    "source": "Global Times",
+    "published": "Fri, 28 Aug 2026 12:30:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Tianjin University and United Imaging Healthcare unveiled the world's first complete MRI-based brain-computer interface system, merging imaging and neural modulation into a single platform.",
+    "companies": [
+      "Shanghai United Imaging Healthcare Co., Ltd.",
+      "Tianjin University",
+      "Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "MRI",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmsta2NrVXBTc1BYVmlteWVoeXhSZ2dwd3dvWmd2SmtZc3JMQlRWRjJRWGpiTkJieHdvamlFUWF3VEJwQ3BjVXhrdzBVVUdobHhyNWdTdnp3NmdoWEZEaFg1dEt4ZFpqbjBwdTVXMGszRnFRRWVhZWFTOGFyeWhMUkdFYnJ6Vzc0YmFjV1hHTW5fM2R2NUg4WFhIVUxzZWRDVng3OU1XNklYNGRNMklibnNOT2pOdkZFZGFDV0FRelNSZlhKZW00eUZrQmNXVC1UWGs2STVROTU?oc=5",
+    "title": "Brain-computer interface enables independent, accurate communication for man living with ALS",
+    "source": "UC Davis Health",
+    "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A man with ALS used a brain-computer interface at home for two years to communicate nearly two million words, marking the first practical demonstration of independent BCI use outside the lab.",
+    "companies": [
+      "UC Davis",
+      "Brown University",
+      "Mass General Brigham Neuroscience Institute"
+    ],
+    "people": [
+      "Casey Harrell",
+      "David Brandman",
+      "Sergey Stavisky",
+      "Nicholas Card"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "communication",
+      "neural decoding",
+      "assistive technology"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGdVakdOMW5reGZzcFZkMFUyQUVsTW9KQ0RIMzVnMk9VVVVJNlhxMjl3anc4VTNROS1wRmp5dmp6QnRQTlRoVTAtMFV3V201M0FGZEh2QzNRay1OM3dPdGpGVlEwbUZGTVNacEdBTG5OU2pSMUxRb1FMY0w5LUpCaERFQ3FGeThGamY3MHJ0T2tjRnlxS2lUUC1n?oc=5",
+    "title": "Synchron: 2026 TIME100 Most Influential Companies",
+    "source": "Time Magazine",
+    "published": "Thu, 30 Apr 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Time Magazine names Synchron, a brain-computer interface startup, to its 2026 list of most influential companies.",
+    "companies": [
+      "Synchron"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "BCI"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://www.ehang.com/news/1387.html",
+    "title": "EHang EH216-S Completes First Public Flight in Hong Kong, Advancing \"Regulatory Sandbox X\" Project with HKSAR Government",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "EHang's pilotless EH216-S eVTOL aircraft completed its first public flight in Hong Kong under the government's regulatory sandbox program, marking a step toward commercial air-taxi operations in the region.",
+    "companies": [
+      "EHang",
+      "EHang Holdings Limited"
+    ],
+    "people": [
+      "Michael Wong",
+      "Mable Chan",
+      "Clara Wong",
+      "Simon Chan",
+      "Rocky Cheng",
+      "Zhao Wang",
+      "Conor Yang"
+    ],
+    "themes": [
+      "eVTOL",
+      "urban air mobility",
+      "pilotless aircraft",
+      "regulatory approval",
+      "Hong Kong"
+    ],
+    "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
     "duplicate": false,
