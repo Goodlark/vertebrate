@@ -35979,7 +35979,7 @@
     "first_seen": "2026-08-22T15:16:19",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -36173,7 +36173,7 @@
     "first_seen": "2026-08-22T15:16:19",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -36227,7 +36227,7 @@
     "first_seen": "2026-08-22T15:16:19",
     "week": "2026-W34",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -36748,7 +36748,7 @@
     "first_seen": "2026-08-24T15:34:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -36801,7 +36801,7 @@
     "first_seen": "2026-08-24T15:34:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -36908,7 +36908,7 @@
     "first_seen": "2026-08-24T15:34:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -37163,7 +37163,7 @@
     "first_seen": "2026-08-24T15:34:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -37706,7 +37706,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -37787,7 +37787,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -38713,7 +38713,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40915,7 +40915,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -41047,7 +41047,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -41398,7 +41398,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42338,7 +42338,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42416,7 +42416,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42801,7 +42801,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42861,6 +42861,468 @@
       "Hong Kong"
     ],
     "first_seen": "2026-08-28T23:49:54",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1Z0TTBZSDVRVWJiLXpVdUJOcmdkLVJiTjRQSUR6UHc0bEphcjNSOXN2elNBWWhYMkJQR2M2N3hUTGwtOFJfS3Jub25Qby16YXlZaWswb1R3ajdGRjI4Q19KVFdWMW9JZ1BERElPbTlHMi1PX2VfVlZqNXhrU3lxa2t3TTQtN2hra1h4TjN5LUdOdw?oc=5",
+    "title": "Meet the humanoid robots cleaning homes for $30 an hour",
+    "source": "NBC News",
+    "published": "Sat, 29 Aug 2026 01:02:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tau Robotics deploys humanoid robots in San Francisco homes at thirty dollars per hour, handling mopping and kitchen cleaning with minimal human intervention.",
+    "companies": [
+      "Tau Robotics"
+    ],
+    "people": [
+      "Alexander Koch"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "domestic robotics",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUlNWTGlJdXVVUzhUbnBqVS12QnNTR3FDQUdBbC1Sd053NmxHWHdDNEZqM2pwSG9LVXpwbGd5UWVobnV4V01VczBicDBNbnYxMjRuZy1pZHZXTkFBam15WDBCcmlPcDJZTzZPbGxRSlBlTlM0Qk1KVXhuRTc0LUEzelFfaUhRT00?oc=5",
+    "title": "A 60-Pound Humanoid Robot Removed a Pig's Gallbladder While a Surgeon Worked the Controls",
+    "source": "Medical Daily",
+    "published": "Sat, 29 Aug 2026 03:20:05 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "UC San Diego surgeons used a 60-pound teleoperated robot to remove gallbladders from anesthetized pigs, a parlor trick dressed up as progress toward robotic surgery.",
+    "companies": [
+      "UC San Diego"
+    ],
+    "people": [
+      "Amelia Palmer"
+    ],
+    "themes": [
+      "surgical robotics",
+      "humanoid",
+      "teleoperation",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZVV2TUs0TEtpZkItVjFMaWRQQTJaYW92SDNJMjhLQ2wzZ0VZdEFUUkJnbF95ZjY0VHFzZ0kyYTBGcEhBdEIyQmhENDMxQTk3MFoyUVY3NG1vQkhnSWJqbEpGQzJrZTkxa1VIU2NVVFRiUG83Yi1QWHViR1I4Uzllaml0TnRpR1pZX3dHOEkzX2FoMnMyV2RIUmhNMHpaQV9CcVFIQ0dXMWZiQklXalByLVZsemRiNElxem9pSWMwbHRfZXdpZ0FOam5rd3dPNDlFWGtXUVBuSEk?oc=5",
+    "title": "I rode in the back of a driverless San Francisco robotaxi. Here's what it was like",
+    "source": "Yahoo Creators",
+    "published": "Sat, 29 Aug 2026 15:01:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless robotaxis in San Francisco proved surprisingly ordinary—safe, music-enabled, and mercifully free of small talk.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Tamara Gane"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUxjME95YzJsOUpqcnJfVXFaX1RPZ1B3ZGV5MDNsUFk1UjktcGVMMER0OUQyRkZIemJtUTZwTnhNbVlEWDFHdDlDZWk2UHAtdFVNRkhiaHB3QXUzMWkwR0ZSR25SNmJfRVFLeXk0VHBzbzB1M1M4VVBtLTJicXltYVBnN3VDWGJjNDYwZUR4R19jZkY0TUJodHFJckc5WTlqWVpnZWFYYUhrY0l4WnlLdGFFaE4wSTBVTjVHWVNSUEVReWhrRUJWMGRncWI0b0ZvMnVF?oc=5",
+    "title": "California regulators rushed their decision on driverless trucks, Teamsters’ lawsuit says",
+    "source": "Los Angeles Times",
+    "published": "Sat, 29 Aug 2026 10:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's Teamsters union sued the state's DMV over its rushed approval of autonomous heavy trucks, fearing job losses and highway hazards from 26,000-pound vehicles.",
+    "companies": [
+      "California Department of Motor Vehicles",
+      "Teamsters California",
+      "Waymo",
+      "Kodiak AI",
+      "Humble Robotics"
+    ],
+    "people": [
+      "Peter Finn",
+      "Steve Gordon",
+      "William Riggs",
+      "Julie Dickinson",
+      "Eyal Cohen"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "regulation"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFg1b3VlUXBQbGdKdktuYXJjdzVpUmdib2xLRUtrdEd4cTFUTlNjbzkwbUZ3ZFJwY0tNTUFWRi0tRFd6RnkwWEx0Nk8ybDRPWWY0cTMxdDA5eFAxUVYtcEJSRDEyTkxzaTh1SlA2eXZleTV5dWtKaHQ0Z295WU1PVGRpRFhQWW9WTkNPR1NGbFViTGtEdjllLWxXaWFUQzZNQ2RDNGdjMEhfRFlTbXc?oc=5",
+    "title": "Amazon’s Zoox Push Tests Tesla’s Robotaxi Premium as Waymo Widens Its Lead",
+    "source": "MarketBeat",
+    "published": "Sat, 29 Aug 2026 11:52:37 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Analysis of competitive dynamics in autonomous vehicles as Amazon develops Zoox while Waymo and Tesla vie for robotaxi dominance.",
+    "companies": [
+      "Amazon",
+      "Zoox",
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMENKaWZzaUhTZWN5UHRLZ2RZcVR0UmE0cEpsMFhRdlRvbmhXMkF4UUw1TVVHeWxJWE1VMTJ6RmFCc0tvM2daNjhqcVhEZ0hsMFVkNDZLX2kzUTJyVXVYa2JVejJ1c0dhc185RjNIMDRyajdRdXU3TVd1bVl6ZElobjZsSUNycjlEQ25VSENGYm9ZT0YxNFB2VE5OWQ?oc=5",
+    "title": "Tesla Preps Cybercab Reveal as Waymo's Robotaxi Lead Draws Scrutiny",
+    "source": "Seeking Alpha",
+    "published": "Sat, 29 Aug 2026 11:00:26 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is set to unveil its long-teased Cybercab next week, the company's answer to a robotaxi race it has mostly watched from the sidelines. The timing coincides with fresh analysis suggesting Tesla's robotaxi ambitions face pressure on two fronts — from Waymo, which continues to widen its operational lead, and from Amazon's Zoox, whose steady buildout is complicating the narrative that this is a two-horse race.",
+    "companies": [
+      "Tesla",
+      "Amazon",
+      "Zoox",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMENKaWZzaUhTZWN5UHRLZ2RZcVR0UmE0cEpsMFhRdlRvbmhXMkF4UUw1TVVHeWxJWE1VMTJ6RmFCc0tvM2daNjhqcVhEZ0hsMFVkNDZLX2kzUTJyVXVYa2JVejJ1c0dhc185RjNIMDRyajdRdXU3TVd1bVl6ZElobjZsSUNycjlEQ25VSENGYm9ZT0YxNFB2VE5OWQ?oc=5",
+        "title": "Tesla Preps Cybercab Reveal as Waymo's Robotaxi Lead Draws Scrutiny",
+        "source": "Seeking Alpha"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFg1b3VlUXBQbGdKdktuYXJjdzVpUmdib2xLRUtrdEd4cTFUTlNjbzkwbUZ3ZFJwY0tNTUFWRi0tRFd6RnkwWEx0Nk8ybDRPWWY0cTMxdDA5eFAxUVYtcEJSRDEyTkxzaTh1SlA2eXZleTV5dWtKaHQ0Z295WU1PVGRpRFhQWW9WTkNPR1NGbFViTGtEdjllLWxXaWFUQzZNQ2RDNGdjMEhfRFlTbXc?oc=5",
+        "title": "Amazon’s Zoox Push Tests Tesla’s Robotaxi Premium as Waymo Widens Its Lead",
+        "source": "MarketBeat"
+      }
+    ],
+    "body": "<p>Tesla will pull the wraps off its Cybercab next week, according to a report from Seeking Alpha, a reveal the company has teased and delayed for the better part of two years. The event marks Tesla's most concrete step yet toward the driverless robotaxi business Elon Musk has promised investors since at least 2019, and it arrives at a moment when the company's timing looks less like a triumphant entrance than a hurried catch-up.</p>\n\n<p>The reason is Waymo. Alphabet's self-driving unit has spent the same two years quietly compounding an operational lead — more cities, more rides, more miles logged with paying customers in the front seat instead of a safety driver. Where Tesla has offered demos, animations, and Musk's promises, Waymo has offered receipts: a service that, however unglamorous, actually works and actually charges people money in Phoenix, San Francisco, Los Angeles, and beyond. Analysis circulated this week by MarketBeat frames the gap in stark terms, arguing that Waymo's head start has only widened even as Tesla's marketing machine has grown louder.</p>\n\n<p>Complicating matters further is Amazon's Zoox, the boxy, joystick-free vehicle that Amazon has been testing on closed courses and, increasingly, public roads. Zoox has none of Tesla's cultural wattage, but it has something arguably more valuable at this stage: patience, capital, and a parent company that doesn't need the robotaxi business to be profitable next quarter. Its steady, unglamorous progress undercuts the tidy story Tesla has told investors — that this is fundamentally a two-way fight between Tesla's vision-only approach and Waymo's sensor-heavy one. A three-horse race changes the math, and not in Tesla's favor.</p>\n\n<p>Why this matters extends well beyond stock tickers. Robotaxis are one of the few genuinely new transportation categories to emerge in a generation, and whoever wins early trust — and avoids the kind of safety incident that can freeze an entire industry's regulatory goodwill — stands to shape how tens of millions of people move around cities. Tesla's approach, betting that cameras and neural networks can match or beat lidar-equipped rivals at a fraction of the hardware cost, is also a bet on manufacturing scale: if it works, Tesla could theoretically flood streets with Cybercabs cheaper than anyone else can build them. If it doesn't, the company risks another chapter in a now-familiar pattern of grand unveilings followed by quiet slippage.</p>\n\n<p>For an industry still trying to convince regulators, insurers, and ordinary riders that a car without a driver is not a liability but a service, the stakes of next week's reveal are less about spectacle than credibility. Waymo has spent its credibility earning it mile by mile. Tesla is about to find out whether a stage presentation can substitute for that.</p>",
+    "slug": "tesla-preps-cybercab-reveal-as-waymo-s-robotaxi-lead-draws-s-468b5a"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW50QVFOSUNWT3ZMQkg2T0l5aDd5QnNKaHlmZ244SVVTY3dmeUpOVnFSZFpiRVpHOXBHUWNlbDhFdFJpTHhSSlUyUmQxWjR4SjV1QjJqVUo4b0hDWTdncTJYNnJOZ3lHVkVxRERWa2FZWG5KNnJkVmJBSktPMm54bTFiNm5EOHpUQ2h3ZE5TQjd2U1ZnSGdVVnNMbXFpR1lrOEc2dHJ4TkpZMEYzNllCMjdjaGg?oc=5",
+    "title": "Waymo in San Diego: Rules, cost and what it’s like inside a robotaxi",
+    "source": "San Diego Union-Tribune",
+    "published": "Thu, 27 Aug 2026 13:00:58 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo offers San Diego readers a first-person tour of its driverless service, exploring regulations, pricing, and the passenger experience.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV21zamZzX1lIOEp2WlM2VVdEVmlzc3lhMjY0ZHNLcTVoakhwVV9NeFlpY1RUU2N4OS1FbG45SjB5SGZyQmJ2SVp1QmNKVjdJYV9YbG1ENkNJNlg1cW9paTNscEIzWGJnMmFIQVY5TWRQcWRJaktZV3poM3RxdUViODVka2ljVzZyZ3c?oc=5",
+    "title": "Waymo's Driverless Cars Feel Ordinary in the Cabin, Unsettling on the Sidewalk",
+    "source": "Axios",
+    "published": "Fri, 28 Aug 2026 20:53:45 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A reporter's ride in a driverless Waymo through San Francisco found the experience almost aggressively unremarkable — safe, quiet, equipped with music and mercifully free of chitchat. Meanwhile, a new poll out of Denver suggests that ordinariness hasn't reached the public consciousness yet: residents there remain wary of handing over the wheel, even as Waymo pushes to expand beyond its established coastal strongholds.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Tamara Gane"
+    ],
+    "themes": [
+      "driverless",
+      "public perception",
+      "autonomous vehicles",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV21zamZzX1lIOEp2WlM2VVdEVmlzc3lhMjY0ZHNLcTVoakhwVV9NeFlpY1RUU2N4OS1FbG45SjB5SGZyQmJ2SVp1QmNKVjdJYV9YbG1ENkNJNlg1cW9paTNscEIzWGJnMmFIQVY5TWRQcWRJaktZV3poM3RxdUViODVka2ljVzZyZ3c?oc=5",
+        "title": "Waymo's Driverless Cars Feel Ordinary in the Cabin, Unsettling on the Sidewalk",
+        "source": "Axios"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZVV2TUs0TEtpZkItVjFMaWRQQTJaYW92SDNJMjhLQ2wzZ0VZdEFUUkJnbF95ZjY0VHFzZ0kyYTBGcEhBdEIyQmhENDMxQTk3MFoyUVY3NG1vQkhnSWJqbEpGQzJrZTkxa1VIU2NVVFRiUG83Yi1QWHViR1I4Uzllaml0TnRpR1pZX3dHOEkzX2FoMnMyV2RIUmhNMHpaQV9CcVFIQ0dXMWZiQklXalByLVZsemRiNElxem9pSWMwbHRfZXdpZ0FOam5rd3dPNDlFWGtXUVBuSEk?oc=5",
+        "title": "I rode in the back of a driverless San Francisco robotaxi. Here's what it was like",
+        "source": "Yahoo Creators"
+      }
+    ],
+    "body": "<p>The car arrived precisely on time, idled at the curb for exactly as long as the app promised, and pulled away with the kind of unhurried competence that would be unremarkable in a human driver and is, for now, still a small marvel in a machine. This was a Waymo robotaxi in San Francisco, one of several thousand now logging paid rides across the city, and a reporter who climbed into the back seat this week came away with a verdict that doubles as the company's whole pitch: it was boring. The car played music if asked. It did not ask about the reporter's day. It signaled early, merged smoothly, and delivered its passenger to the destination without incident — the automotive equivalent of a well-trained butler who knows when to disappear.</p>\n\n<p>That the most notable thing about a driverless car ride is its lack of notability marks a real inflection point for Waymo, the Alphabet subsidiary that has spent more than a decade and untold billions teaching software to drive. San Francisco, along with Phoenix and Los Angeles, has become a proving ground where the technology has quietly slipped from novelty into infrastructure — as unremarkable, on good days, as a Muni bus.</p>\n\n<p>But eight hundred miles east, in Denver, the public has not caught up to that shrug. A new poll out this month finds Denver residents deeply wary of the idea of Waymo vehicles navigating their streets, even as the company signals plans to push beyond its coastal strongholds into new metro markets. The skepticism is not a fringe reaction; it reflects a broader pattern that has dogged autonomous vehicles since their earliest test runs — the gap between how safe the technology performs in aggregate and how safe any single rider, or any single pedestrian on the sidewalk, feels in the moment.</p>\n\n<p>That gap matters enormously for an industry that has bet its future on exactly this kind of trust transfer. Waymo's expansion strategy depends on cities saying yes before residents have had the chance to log a hundred boring rides of their own. San Francisco took years of visible testing, public complaints, occasional stalled vehicles blocking intersections, and regulatory fights before the ordinary-ness described in this week's ride became possible. Denver, by contrast, is being asked to extend trust in advance of experience — a much harder sell, and one that explains why polling numbers there look so different from the calm of a San Francisco back seat.</p>\n\n<p>The stakes go beyond one company's rollout map. Robotaxis promise to reshape urban transportation economics — labor costs, insurance models, curb space, even how cities plan for congestion — but only if the public consents to ride along, and only if the sidewalk-level unease documented in cities like Denver eventually gives way to the interior calm Waymo is manufacturing, one unremarkable ride at a time.</p>",
+    "slug": "waymo-s-driverless-cars-feel-ordinary-in-the-cabin-unsettlin-aba29d"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMC1Qbm52UmNWYnJkNExLWmlvUGczZWh0NzRQdlhEWnVsOGpLVGt0eFB6WkZSM21rSTBOeWlObDVpR2h3OE9qanBiVDM2d0lyUHEtQXVHejFURnd6SmNYeDc3c1VWaFhqaHRWeHZwdzdYNkZBajFEeHR1TzhFMlJrOVFjQW1IUGdiNjYzamM4Xzg4Y0hOR0NiekI3TFNWTjBqRWFnQQ?oc=5",
+    "title": "Amazon is bringing drone delivery back to California",
+    "source": "Los Angeles Times",
+    "published": "Sat, 29 Aug 2026 10:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Amazon is resuming drone deliveries in California after a pause, expanding its push to move packages through the air instead of by truck.",
+    "companies": [
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0Q5RXA5dmFTLUNHYVBOQWdhZ2hDUkV6MWNVdXo1eE9xR2Z5Vi1yYVExMkc5anhhWDRGb0tydEp2VExUZ3B0VDA0V2R1WTBEVXpwbmw2UExWblFzei1HNmlfTHp6dXlTY2hpeWRjVGtDRDFJWGFxSDFwU1RibDhwaFVMVGRWaEo1Q0YtcmwxUWxfdw?oc=5",
+    "title": "Mara raises $7M to build low-cost autonomous defense against drone swarm",
+    "source": "Interesting Engineering",
+    "published": "Sat, 29 Aug 2026 14:05:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Mara closed a $7 million Series A to commercialize anti-drone technology that automatically intercepts swarms without human operators.",
+    "companies": [
+      "Mara"
+    ],
+    "people": [],
+    "themes": [
+      "drone defense",
+      "autonomous systems",
+      "swarm technology"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREdqTTE0VzR4aGJqdi1RM0ZJSHd4NkgtVElLU0k5a19EeUpCX0l4TlNZYlJhUFFvcFZ4TDFpVHZHV25RZ3c1N1FkVWNleFZwT3N6NHlMa09QdXJ6Nm4wNTg0VmRFQXg5VnlOZVJLVHk5WEFyclVMNV9La1BneU9fSHNBei12LVBBRjdGb1pLNklyU0MteVZiNjB6TU5Mc3NNTVJyWVh3eFI?oc=5",
+    "title": "The three words that will decide whether robots can kill people in war",
+    "source": "vox.com",
+    "published": "Fri, 28 Aug 2026 10:30:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The U.S. military and Russia are abandoning the principle of human control over killer robots, adopting vaguer language that lets machines choose targets autonomously.",
+    "companies": [],
+    "people": [
+      "Kylie Jones",
+      "Lena Trabucco",
+      "Brad Boyd"
+    ],
+    "themes": [
+      "autonomous weapons",
+      "policy",
+      "drones",
+      "international law"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWmc1SkZBU0RlbS16cFV3Z1h5cmEwcmlyYWluVHZURkRnLU5OREJoeGlmSUo2UmJCcktQODk2OGdnRERFbXFiRmktamVnTXFGaG9qVXNsU0thNVhRN1BLLXJVU0MyUHF1VHY4dFZXSy12ZjNXZV81ZUVRSkI1SE5RQXBPeDZiRDhhMC1wVXdJSVpuZlh3amc?oc=5",
+    "title": "Fully Autonomous Drones Reportedly Kill in Ukraine",
+    "source": "Small Wars Journal",
+    "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Ukrainian forces reportedly tested fully autonomous drones that killed Russian soldiers without human oversight near Bakhmut in mid-2024, marking a potential first in combat.",
+    "companies": [
+      "Ukraine"
+    ],
+    "people": [
+      "Alexander Kokhanovskyy"
+    ],
+    "themes": [
+      "autonomous drones",
+      "military deployment",
+      "Ukraine"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREY5M3lyWnhsWjViLS05QTY2aWxuLVZ4VU5UV2t0TkZmU090Q3hvNk1BUElZUlYxT2plZ0RmaFhlaGVJeXB3a3V3bE9uWTVDdnlBUlhDemtJUUtCOWQ0cDZNNTBXd2hBbXhHNW5WaU45c2Q4RmpScjZ3X2ZkaEJvelUwWnFBRV8xVGljS1FFUWZ5MzhMYVNMdUFfOVFTQ1RfVFJiWWdfbkhIYndnY29HOHFlMGJoWHVJTnRBLTR3cmdjODZYWkhjV0xmZUw1bGFSeG5vVlgxVdIB5wFBVV95cUxOZUxyR0dVWHZ5c01nT1pXOVdKdTdRRC11bG9ULXJPT3ZnbERkd2dBclN3dGFELUlQNEdMN1dFSFZuN0dTZ2hQenc4WVRpa0Z4Z0YybzFtekNndEZxWmNUeDZvSzJTMHhqTVdQSW1NT01nVmhTMkx6dFlsOXFxN0dpN1h1YjR4RFZ6U3d0YjZtZnhpQmdpY2paRWRnNmVIcm1PTkdwNl9uSmVjUEVxQ0FUUldkcXJJZzAxV3hsRTdIdkc4Qm56YTktdDRxX0ZKUVNyUDYyRFVqSTZBRU5zb0NmOVk5aDNEYjQ?oc=5",
+    "title": "Colorado’s First Implanted Brain Computer Interface Surgery Marks a New Era in Neurological Research",
+    "source": "University of Colorado Anschutz",
+    "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "CU Anschutz and UCHealth implanted a brain-computer interface in a paralyzed Colorado patient, placing electrodes in higher brain regions to restore both movement and sensation.",
+    "companies": [
+      "CU Anschutz",
+      "UCHealth",
+      "University of Colorado Anschutz"
+    ],
+    "people": [
+      "Daniel Kramer",
+      "Luke Bashford"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neurosurgery",
+      "neurological research",
+      "implant"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjd1NU8zTEU0RzA1bjNUOVgwbFc5QXdHcnEwQkpKNnlKMS1vNGtkVEJVREVETGdTOVVWbS1iZFNBLTV3VGM4bDlhcmh6TUtnNDRxS2p0QjZrREdVVElyemRVcDJMdjJpWlpZWGFxZXlZd3FtQVZpTUl6WU80WF9wdm9NTQ?oc=5",
+    "title": "Brain implant uses temperature to switch neurons on and off",
+    "source": "Medical Xpress",
+    "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers have developed a brain implant that uses temperature to selectively activate and deactivate neurons, opening a new approach to neural control beyond electrical stimulation.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural control",
+      "implantable technology",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KSWFvbkM3N1NIa1RDanpNcGtmLUxJdWJEYzh2SmhHY282bmNsQm80SWQtUnRHYjFoQ0NRVGxNU3BVcmp5NnRTdERhcTdLX1pHMGVRN1VXZEZLMldoYW84?oc=5",
+    "title": "An artefact-resilient wide bandwidth bidirectional graphene neural interface",
+    "source": "Nature",
+    "published": "Thu, 28 May 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers develop a graphene neural interface that simultaneously records and stimulates brain activity without signal loss, advancing bidirectional treatments for neurological disorders.",
+    "companies": [],
+    "people": [
+      "Michał Prokop",
+      "Martín Esparza-Iaizzo",
+      "Eduard Masvidal-Codina",
+      "Xavi Illa",
+      "Neela K. Codadu",
+      "Daman Rathore",
+      "Nicola Ria",
+      "Kostas Kostarelos",
+      "Elena del Corro",
+      "Ramon Garcia-Cortadella",
+      "Rob C. Wykes",
+      "Anton Guimerà-Brunet",
+      "Jose A. Garrido"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "graphene",
+      "neural electrode",
+      "bidirectional communication"
+    ],
+    "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
     "duplicate": false,
