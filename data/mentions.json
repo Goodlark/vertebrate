@@ -36637,7 +36637,7 @@
     "first_seen": "2026-08-24T15:34:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -36774,7 +36774,7 @@
     "first_seen": "2026-08-24T15:34:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -37814,7 +37814,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -38713,7 +38713,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -38958,7 +38958,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -39014,7 +39014,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -39650,7 +39650,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -40406,7 +40406,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40510,7 +40510,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40651,7 +40651,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40915,7 +40915,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40993,7 +40993,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -41047,7 +41047,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -41848,7 +41848,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42654,7 +42654,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42738,7 +42738,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42801,7 +42801,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42949,7 +42949,7 @@
     "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -43043,7 +43043,7 @@
     "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -43323,6 +43323,488 @@
       "bidirectional communication"
     ],
     "first_seen": "2026-08-29T18:08:53",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjFJa0g0UlczdXZLNFhFMVRfNlpSSThueElLWXVRa19WblRkQklJdFM5YW9Ka0N5RGRhYVJ6NTFkYmNpRWpXRDNaR1U2Zy1KenVSamtWTjhLX045SFlQbUdJSENVUWdZdDFpTE9pTENpWGRsUnMxUjE2dm54MlBYeHJqbTBIa1RxU3c?oc=5",
+    "title": "Low(er)-Cost Humanoid Robot Leverages DIY Actuators",
+    "source": "Hackaday",
+    "published": "Sun, 30 Aug 2026 14:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "UC Berkeley's open-source humanoid robot uses 3D-printed actuators to undercut the market, arriving at under five thousand dollars.",
+    "companies": [
+      "UC Berkeley"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "DIY",
+      "actuators",
+      "cost reduction"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXp1N0xienV6eGM1WDJ3YV9mZ0NJZGcwdFNYUTBIb0lsWDJvZTkteW9SUHVPQlg1Um83dUdXaUkyTHJKOHJ3OENyVVFXSFdFZUVrdXd1elRWeEFvOFVwSUVGSUhNRmJMdWlDdUkzX2dEcWJCNDhSMWNHbnRTb2ZDb0ZtbkFJTU4zN1JWRjJsWnhaVnZMVkNGZTNyNHNuRW1TQk14dWVhTERPNDRDTHlReFBtOEdOMXQtQnJV?oc=5",
+    "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
+    "source": "WXXV News 25",
+    "published": "Sun, 30 Aug 2026 17:01:52 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Chinese humanoid robots shattered human athletic records at Beijing's games, with an X-Humanoid sprinter clocking 9.39 seconds in the 100 meters.",
+    "companies": [
+      "X-Humanoid",
+      "Honor",
+      "Unitree"
+    ],
+    "people": [
+      "Usain Bolt",
+      "Javier Sotomayor"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "athletic performance",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcXl5UVk1QnBWNVhVT3JVbkFrMElUdE5vUXA5WVJOckpJTS1EUk1sX1poV1d4dm8tRlZPNFFXa2VDSUJwb0hqS3dBbk5qZEp3QmxzRUJKc1ZMUVN0TXUyXzJyWkl3WlpvbkdiaHI5ekxUSlZfNzZUdldoeVhnWmVJSHE4LWotdEdvVUlFOEN6WFVaQUtjMnFad3JaTjlwRDBhZW9STWVLbGh0WlpnYWR5ZWJ4bkxIcmtrVHNRQzV2MThHSU9NTG9qODFaQ0IyZGdyd1Bid2V0OUE5STF0ejB1VHJPWmg4dmpQQlE?oc=5",
+    "title": "Faster, higher, funnier: what we learned from China’s robot games",
+    "source": "The Guardian",
+    "published": "Sat, 29 Aug 2026 11:14:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China's robot Olympics showcased humanoid engineering dominance, though androids still spectacularly malfunction when pushed to their limits.",
+    "companies": [
+      "World Humanoid Robot Games"
+    ],
+    "people": [
+      "Xi Jinping",
+      "Donald Trump",
+      "Elon Musk",
+      "Charlie Higson",
+      "Usain Bolt"
+    ],
+    "themes": [
+      "robotics competition",
+      "physical AI",
+      "autonomous systems",
+      "China"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjJKTjRQY0ljNkpPM015WmxlLTJUSC1EdFY5SzVxOEI5UUZnXzFXRElacXphZVdkeXZ4b240MDFENFF6Z09iQW0xWnVnaGpWVnBTN2hWRzJqRGFGc2pRaDR4MWstcHFMZktidFNuUDRlWm5fcENFWWpuYVNnaUd2aXRPWk5oTmRtRkJPVHVKTHpZX0k?oc=5",
+    "title": "MARK-TO-MARKET: AI breakthroughs on display at the World Humanoid Robot Games",
+    "source": "The Quad-City Times",
+    "published": "Sun, 30 Aug 2026 11:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The World Humanoid Robot Games showcased advances in robotic AI, though the piece reads as event coverage rather than reporting a specific product, deployment, or breakthrough.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVhzYWFIQUg2N21WTnFwdmxsc3BjcWphZjdQYWZ0NFB0NWVsT0l3Snk1QUQwSXZVZDlBdGNzbkJPRFdFZFJGSFJFVTdOV2MyV3FQT0Ntdlg5MnA2bFJVSkhURjlsczNuMGR0SWZVRVpiaURWR1hNYUQyYlFSZE9YM0JDNkdfYTR4cXBseGU2QVVaZTItcU1JS1pOWndtTlJUaUdjVFdVRXJULUo0?oc=5",
+    "title": "Analysts like this humanoid supplier, even if the robots remain concepts — for now",
+    "source": "CNBC",
+    "published": "Sun, 30 Aug 2026 10:40:19 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Analysts backing Shuanghuan, a Chinese gearbox supplier co-developing components with Tesla for humanoid robots that largely remain prototypes.",
+    "companies": [
+      "Shuanghuan",
+      "Tesla",
+      "Fine Motion",
+      "Deutsche Bank",
+      "Bernstein",
+      "Xpeng",
+      "Xiaomi",
+      "UBS",
+      "Morgan Stanley",
+      "Stellantis",
+      "BMW",
+      "BYD"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXTHJUWjFHX0tOMDZCZzAzclFlZHR0Wkp5YV80cTNXQXUxNEkxU3pxd3pRbEpUU0JHcUh3MDlZMlptR2tXaGFGWUJQeXZuRjJiNVQ5c1M4eEU3ZjBGNWlBaDhB?oc=5",
+    "title": "Europe's first humanoid robot mass-production base begins production in China-Serbia joint project",
+    "source": "Global Times",
+    "published": "Sun, 30 Aug 2026 07:13:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A China-Serbia joint venture has begun mass production at Europe's first humanoid robot factory, a facility designed to supply the continent with physical AI systems.",
+    "companies": [
+      "China-Serbia joint venture"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "mass production",
+      "physical AI",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUZxRjlxdnlwdmNRaGVfb3ZLYlY0LVhzekR6ZTEtcEwxZXRkYlRSUWtDNlRYc1U4d1VoZ2tjRUFGdTVvOVNVSlZjZzkwNE5MTzVOa3dCTDVDTWZibnJJMW9mMWRNZzk3MDhUTHdQcVdZd1Rpc09Ob19KUkdHREJsdngxaG9UVWRFaS0xY0pSZjZSdnRC?oc=5",
+    "title": "MARK-TO-MARKET: AI breakthroughs on display at the World Humanoid Robot Games",
+    "source": "Dispatch Argus",
+    "published": "Sun, 30 Aug 2026 11:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The World Humanoid Robot Games showcased AI and robotics advances in real-world competition settings.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "physical AI",
+      "competition"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0o0OFdoVEkxekRBak91X3BXOTVhdFl6Rm1jbmVtYmttcHlyV0NmZmpiS0YwallMNGhGZDdQTDFfSFVkS1NPQWFGQWtsWlVzaHhIeWxJYlZoUklMZVFwR08yLVU4M2JsSmxwRHlEakh6d1d1TC1LSnpGQ1FsNk12aklRUkctcHVpVlE?oc=5",
+    "title": "San Francisco woman rents $30-an-hour humanoid robot to clean her home",
+    "source": "The Cool Down",
+    "published": "Sun, 30 Aug 2026 09:43:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A San Francisco woman paid $30 an hour to rent a Tau Robotics humanoid robot to clean her home—though a remote human operator did the actual work.",
+    "companies": [
+      "Tau Robotics",
+      "1X"
+    ],
+    "people": [
+      "Gianna Capezio"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics service",
+      "home automation"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVdhYllwZFo4dFZuaGZKYmQxdlBWYlRXUktldmh4UTdFSXBVTy00cC1qZE14QXBxeE9Jeklxam1BSDZERERuQmlaR0hlZmIwa2JtMUsyNENJb2E2SjBWYk51OUViTGxxcnNORFVmSWNMY01pU3ctcWJobENFVVJlUzNCSWF4ZFJtaUctcDlVNXAwb0tqZmFwMGs3X2F4M1FMRkx0Y3JR?oc=5",
+    "title": "Who Teaches a Robotaxi’s Remote Helpers? SAE Has a Driver’s Ed Plan",
+    "source": "Car and Driver",
+    "published": "Sun, 30 Aug 2026 13:01:29 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "SAE International proposes training standards for remote operators who supervise autonomous vehicles, acknowledging the human layer beneath the driverless illusion.",
+    "companies": [
+      "SAE International"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "remote operation",
+      "training standards"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UcGFmbFlKWjRHbjJiQ3o3YnRDSVB3VWJJZFB0aGR4bTcwLUpZN3RDemk4Wmp5OV9halM5b2tZd3Z3RG5QOVotOVRzRkNWQzdxU2hBbHE5N0RjSVljNy1OTlU1SUdxeFJ3bTc4eQ?oc=5",
+    "title": "Why Waymo’s big blue Ojai vans suddenly seem like they’re everywhere",
+    "source": "The San Francisco Standard",
+    "published": "Sun, 30 Aug 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo's expanded autonomous van fleet in Ojai has become a visible fixture of local streets, prompting reflection on the rapid spread of driverless vehicles into everyday life.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWY5RWpNWHMyMlpvWGJmNDJKTUtSb3l3UEVCNGg3VzM0eG1xOHhXVTM3clRHLXplWkJtY2xjMmZKdnkzall3Z05YaXhUV2JNUHlHeWFndGxFNVRhUkF6QWhpYThrQ0E3Y0s1NnlzWTRJS1gxM21mZVl0Zm55Q0pOSlVzeFlST1FpZW1VWno5S2Y0YWhJVXo1NjQwYVo?oc=5",
+    "title": "Waymo, Zoox Vehicles Still Causing Injuries to Test Drivers: Report",
+    "source": "Gizmodo",
+    "published": "Sun, 30 Aug 2026 16:33:12 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo and Zoox test vehicles have injured drivers during development, according to newly reported safety data.",
+    "companies": [
+      "Waymo",
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTF3S1I1V2N2UzRnMUJtNnhkbEsyOTF2MVc5NmRWR3VPbVYxNDUtRF9sdXpMN3NmcmxHTDhVTmxEZkt4M2JhUHRxOHY3dV96S0JSd2JTNmQ5OVBpalpORXJ3eXZQbU5ad0xiUnk3OXd5R1JOaDZhLXljdlBOTUdUZUxoVXNLb3U1MXNyVmhUR1dsNm1h?oc=5",
+    "title": "Tesla \"Ambassador\" Melts Down Over \"Horrible\" Robotaxi Ride, Says He Had to Call an Uber After Total Self-Driving Failure",
+    "source": "Futurism",
+    "published": "Sun, 30 Aug 2026 14:01:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Tesla ambassador publicly criticized the Robotaxi's performance after an unsuccessful autonomous ride, calling it 'horrible' and resorting to Uber.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZG5ZT3kxS2Q3NWJuR2lzWlVpamFDQkVtMFlwRzdfV2hIMFBJUkJndE1EWW1oRC1VeEJKeVg0RkdhYlcteFprRUg3RTFSY2RuWFJfMGtZZXJwVE1Lc1VjbWNwSkR6QUdNel9RX19iSG5IWE96Wnd3Mk9PWWZJYVViVmpkN2c1OUZ6UnFZOWhHTXBQaVlEVjI5SkVSeHVxOGdRR0R0S1gtdVZNTU4xTU5PaGNDbTNwcDhDQ3hNVDVsNFprNjhSYWc?oc=5",
+    "title": "Norway plans to spread counter-drone defenses across more bases",
+    "source": "TechRadar",
+    "published": "Sun, 30 Aug 2026 18:10:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Norway is deploying ISS Aerospace's autonomous counter-drone system to protect F-35 bases, with plans to expand across military installations.",
+    "companies": [
+      "ISS Aerospace"
+    ],
+    "people": [
+      "Lars Peder Haga"
+    ],
+    "themes": [
+      "counter-drone",
+      "defense",
+      "military"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOclhXekFvVEs2RU5nd2tmWUxKVGFkeUk0UFJfUXJRREhUOTF0a3VXWGRacWhEa05NM0dWak9LdmFtVGZIM2JEbkpzU2ZMZ1kzOWk0RS0yeE8zY2Q2TWFTaldUeU5kNXpfbUNvNlNRWGo1WElXbVlzSzc5a0YtSGNXMkNpWDJrZHNqeklRbHlKeHRZREdIVmh2RnZR?oc=5",
+    "title": "Russia Now Using Fully AI-Controlled Drones to Kill Ukrainian Civilians, Powered by Nvidia Chips",
+    "source": "Futurism",
+    "published": "Fri, 28 Aug 2026 15:47:21 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Russia has deployed AI-controlled drones equipped with Nvidia chips in attacks on Ukrainian civilians, marking an escalation in autonomous weapon use.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous weapons",
+      "AI",
+      "military deployment"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPanJDaEx6eEdjNDJzMUFXUjQ2WTZqeDlnOXdVVGJGZWZ0eFR6Y0hHQndOMnlOUmx2d19tVzR4QUxBejh0WG9zTGVMcGZPQlR0WUdwZ05CWkltWTEzay1NVjhhSl9vcVBubDJkOWpnZ0NQQjcwR3g2OGNIY2RIU1Zsd05aR0k0bVh3ZUJMMWpFSXB1MmRIbnhCMWpmZnRTckgteXlMV0d5SVFXQUhYTlZPT3hWQnU3dlBLbzI3SlNLR202MFMw?oc=5",
+    "title": "The next tech race? China launches push to leapfrog US in ‘brain chip’ devices",
+    "source": "South China Morning Post",
+    "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "China's state-backed insurance company launches the nation's first BCI implant coverage, accelerating a coordinated push to overtake Musk's brain-chip ambitions.",
+    "companies": [
+      "PICC Property and Casualty",
+      "Shanghai Heartcare Medical Technology",
+      "BrainAurora Medical Technology",
+      "Zhejiang University School of Medicine"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "neurotechnology",
+      "geopolitical competition",
+      "China",
+      "semiconductor"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zeEZzbXFFbGNHazcxUUY4Z3Vtend2RVdWdWVJNFJWZHZUeFhtMF9VdldISUxQOXR4YzZMUVlCV3p4cEVqanhvYU1xN0RDOUtBOERrZWZyRU11d1Q0QWx3?oc=5",
+    "title": "China approves brain chip to treat paralysis — a world first",
+    "source": "Nature",
+    "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "China has approved the world's first brain implant for paralyzed patients to control a soft robotic hand outside clinical trials.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis treatment",
+      "neural implant",
+      "medical device"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
+    "week": "2026-W35",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXdTY3MxMnRVV1QtMjBFZFUtNFpHRWV4OHItaFFPRWFwQWl0b2dVNGJjbjVQZDFXYnNWekZjcVU4Sm5YeWFBSjF2dzBoRUpwQVVZckhXZDdRV29vYV9POFFsNjJIQnVQcGVrTkJfTGlPbkJucEpSckwtcElpaEJZZnYzVUE0cndZQ2VwVjluTnRwa0hiXzJBU0F0NlhPUXUzWkNuWG40MnBoUmRkM3JRUVBQSExvcGFvVDlkYXZ2X013dw?oc=5",
+    "title": "Neuralink to kick-start 'high-volume production' of brain-computer interface devices, Elon Musk says",
+    "source": "Fierce Biotech",
+    "published": "Fri, 02 Jan 2026 08:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink, Elon Musk's brain-computer interface company, is moving toward high-volume manufacturing of its neural implants.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "manufacturing scale"
+    ],
+    "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
     "duplicate": false,
