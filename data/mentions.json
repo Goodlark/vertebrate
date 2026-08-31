@@ -37399,7 +37399,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -38713,7 +38713,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -39014,7 +39014,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40406,7 +40406,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40510,7 +40510,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -41848,7 +41848,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42738,7 +42738,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42949,7 +42949,7 @@
     "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -43806,6 +43806,946 @@
     ],
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkS3oxNVBFVjhESUNrMzBicmZ4OFpXU2YxRXIwdWpMaHZCTm1FdFdRS2x4OEpXRjdQdFdCblpLTGtvN1d5c19LcjJ3OXd3UGJyWkl6dm9LTlNWWVp1clV4b3FQV3dnRkRQQjFQMVEwcjdjN3FOMUJvU0M4MA?oc=5",
+    "title": "China's Humanoid Robot Games: Biggest Highlights",
+    "source": "Mashable",
+    "published": "Mon, 31 Aug 2026 12:14:39 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The second World Humanoid Robot Games brought more than two thousand robots to Beijing for Olympic-style competitions showcasing the latest in humanoid robotics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNdk5yM3Rkc2NtbEx1bUNxNzk5c0VSdEU3QkJnQnkyRklsME9pRVhNQnNPTi1MQmxScWJSVWlRUFJ3WnZFQV9pQnc3eUFvaGY1NVlTR1BmNG85SzdKTUZldUJJZXlrN0d3XzB3c0xoR0N0RHJt?oc=5",
+    "title": "I spent $4,000 on a robot dog from China",
+    "source": "understandingai.org",
+    "published": "Mon, 31 Aug 2026 13:57:26 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Timothy B. Lee dropped four grand on a Unitree robot dog to understand why a Chinese company might reshape robotics through sheer affordability.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Timothy B. Lee",
+      "Xuesu Xiao"
+    ],
+    "themes": [
+      "robot dog",
+      "physical AI",
+      "consumer robotics",
+      "China"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEhhQjNmV3JBd0I5anpsaWJvSkxtcjA4TmM1eG1WbFU1eWVDRnBtUm02ZlluY1VwRUNkbDFZOFlMaW5UTmhFRWVYNVZCMXZ1S0c4a0M5NzJ2R2pwLW96eTFvZXc5bDVwaW16ejUzMTNtT3R5ckpGYlEwanAxWFBoOXphSzJuXzdPVWZFXzFPVkJxZDVxdTlCem1sZEoydm8zc1B1VDVza1A0OGcxdmR1SFV5Y0tCdzFMSXctQQ?oc=5",
+    "title": "Vučić Touts Armed Robotic Dogs as Serbia Opens Chinese Humanoid Robot Factory",
+    "source": "Hungarian Conservative",
+    "published": "Mon, 31 Aug 2026 17:32:24 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Serbian President Aleksandar Vučić promoted armed robotic dogs as the country inaugurated a manufacturing facility for Chinese humanoid robots.",
+    "companies": [
+      "Chinese humanoid robot manufacturer"
+    ],
+    "people": [
+      "Aleksandar Vučić"
+    ],
+    "themes": [
+      "robotic dogs",
+      "humanoid robots",
+      "physical AI",
+      "manufacturing",
+      "defense applications"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM0tTTWtJaFp0cE9VbHNibFhyeXpCbEhMRGlQTVVPM0ZjSHFPTVhKTUVRVTEtcWF0NURTY3JCNkdiVHgwSXc1NC1vWWpDVWFDbkxsREVnNTdIUmNIUVRSU2lDWXZLa1BBLUJXU09HQlVyZ1BKRmtUUnV3aUluWTRoTXRWZFBXVllSbHZv0gGOAUFVX3lxTE81RDQ2TFZKQlBNZlBmMjA5Y1pEWUhsRnhiMU5xdktZRzVZZG9tQy1zdDdweXNMbksxSUt0UkRxTU0wc2xoaHVLUWRXd2NUeUEtQVlpTjhTSHF2OFlCWndHWFJzc2V3QWVya3hhaE9vNmNlUmRzeGtQcTkxVmhLQzdPUEotZkI2OC1QQy10d3c?oc=5",
+    "title": "As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production",
+    "source": "Radio Free Europe/Radio Liberty",
+    "published": "Mon, 31 Aug 2026 14:21:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Serbia is launching mass production of humanoid robots as the U.S. tightens restrictions on Chinese robotics imports.",
+    "companies": [
+      "Serbian humanoid robotics company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "geopolitics"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFRFU2J1eVBNWDBXLUpYNC1nSWdNMUp4Z29HNmJKZ25DV2ZaSi1mYWZ2d3pYSWViMU95NGxMVW9VMkhBVjRaai1PNmhFVHhSUlIxQVBKX28ybllFV0M3bTVqYjlpQkhrb2s2ODVqcnBaSmpaNjB0MU8zYkdFdUp3OWFkRjlmeWlYQVFSeExyOWtfZXB2aDY1T0ljVXhiQjRsMHNadDFwRjJ4NDh4aXpPdW9FeDF3YThXak5uT2hIU084UHQ2Zm91QlBYUmZocURPam1ZLQ?oc=5",
+    "title": "Hero Esports to Stage Middle East's First Humanoid Robot Kickboxing Event in Riyadh",
+    "source": "PR Newswire",
+    "published": "Mon, 31 Aug 2026 17:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Hero Esports is staging the Middle East's first humanoid robot kickboxing event in Riyadh, a theatrical spectacle that treats robot combat as sport.",
+    "companies": [
+      "Hero Esports"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot combat",
+      "entertainment"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaVpJZF9veGtlSmhnSXlpZks2UTlRVTBSaEZYUFQ4RGxCc2ROVmE0SENLZzRDXzJ1NnFFY3RibjExQkc2TFdEXzJiMkhBNkZCd2gya3VqMm16WkNNWEVna21BQ0hKU2NLLUtEem9mSzlwdElMRnVqZVpSanQ0TUxSRVpPdnR6aURycnJrS1YtVUhJNXpmQll0WXJCbjl4WW1oZHZB?oc=5",
+    "title": "Falling Costs, Converging Hardware Push Humanoid Robot Race Toward AI",
+    "source": "一财全球Yicai Global",
+    "published": "Mon, 31 Aug 2026 11:11:23 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "As humanoid robot hardware converges and costs plummet to fourteen thousand dollars, embodied AI models emerge as the real battleground, drawing competitors from autonomous driving and tech giants like Ant Group.",
+    "companies": [
+      "Galbot",
+      "Zhuoyu Technology",
+      "EngineAI",
+      "Anyverse Dynamics",
+      "SynapX",
+      "Horizon Robotics",
+      "Ant Group",
+      "JD.Com",
+      "Robbyant",
+      "Beijing Innovation Center of Humanoid Robotics"
+    ],
+    "people": [
+      "Wang He",
+      "Xu Zhiyuan",
+      "Tan Peng",
+      "Zhao Tongyang",
+      "Tang Jian"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing economics"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPelk5SEkwNGhmdE82OUgyaVhSSHptUUI3b0xubmgwNG5JekE0M2dFN044dDQxTVl6RXRDdVliYVdIdjJpcXZ3QmpDU2lsQWEycG5SdU9EVkJ4QnBvRjhPX2hpbndtNjVxN2tjY2hsZHlaV3pJcjVnVktieDlrQWdpNzdjSmdoZmc2XzJLVw?oc=5",
+    "title": "Chinese Carmakers Bet on Humanoid Robot Profits",
+    "source": "Technology Org",
+    "published": "Mon, 31 Aug 2026 13:55:39 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Chinese automakers are exploring humanoid robots as a new revenue stream, though concrete deployments remain speculative.",
+    "companies": [
+      "Chinese automakers"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "revenue diversification"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGIzb2FDR0Zsb0ZMbURwaFd1QjFaR3E5amdFVl9OYjVVaXZrcXJES3J1Q29NdUY1TzFIVDRRYnlVN3Y0UDJKQXpaclprbW82VHNvSmJkbWFRSHRQUEdpRkF6WTdFU1JWMGNueHFQbUlyME5kVWxhQjhJNVd6ZmlqMDFpQVpMQXVOazlIYWR0QlJaQQ?oc=5",
+    "title": "GXO CEO: Better robot hands, not Olympic-level humanoids, are what businesses really need",
+    "source": "Fortune",
+    "published": "Mon, 31 Aug 2026 09:35:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "GXO's CEO argues that industrial logistics needs dexterous manipulation hardware, not general-purpose humanoid robots.",
+    "companies": [
+      "GXO"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "robot hands",
+      "manipulation",
+      "industrial automation"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1JFMTJZYzBvVjR3Nk5oTlEzTEhUZGVqdTYwRWR3Zy1BSmRUbmZMS1Jqcm1VdUlKRGo5RUM2NXRMTzVKN0RJZFRzVXpTMC1icEFfZWFYLWxKbFhUTnZnVnpfbXlWeTRLY01IT250U3I2RGlKTkNXMjdMZEpESlU4Ni0ybGRmT3M2Z0JIMjc1S29CaWd2UEpKaWJWVDJ6c2Qt?oc=5",
+    "title": "When expressive humanoid robots are awkward, people become wary – new brain study",
+    "source": "Robohub",
+    "published": "Mon, 31 Aug 2026 09:36:25 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Drexel University researchers found that expressive humanoid robots trigger suspicion when they stumble, engaging the brain's social-judgment machinery in ways motionless robots do not.",
+    "companies": [
+      "Pepper"
+    ],
+    "people": [
+      "Hasan Ayaz",
+      "Ewart J. de Visser",
+      "Frank Krueger",
+      "Yigit Topoglu"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "human-robot interaction"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ1h2Y0VmQlhRN29SWVgzNHlEc1lURUZRT1REelMzWGN6NkJ4emxvX2lXMVkyTV9XblpZZndJTzczS3Atai16a2tvcHlIWnVkZTJ0Yzhyb3k2UF9zUXlVTENDRWNGVTN6S0Z1YWx1cGN4czdYbUtBOTduMEVsb1JvSmNNdTNaYVQyNUJQMnZLZlQtdVFzMU5LbWRLdDY1VTM0ZE9FRTk0M2k3U2FMOElvdmZxZmFJaXR0UWUxcFF3?oc=5",
+    "title": "Goldman Sachs raises humanoid robot forecast, sees auto role",
+    "source": "Investing.com",
+    "published": "Mon, 31 Aug 2026 09:40:25 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Goldman Sachs upgrades its humanoid robot market forecast, arguing the machines could transform automotive manufacturing.",
+    "companies": [
+      "Goldman Sachs"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kYmUzWkUwN2F3VTFkM2tUOGN4NlhCOFl0QTZRYjI0b2pwSlhETjFWcHE1X1o2TWZjbHJySWIwV1R1T1V4U2pOVUgtMXVwZHlHY0R6cll6SjA?oc=5",
+    "title": "What Beijing’s robot Olympics actually reveals",
+    "source": "chinadailyasia.com",
+    "published": "Mon, 31 Aug 2026 17:05:12 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A Chinese humanoid robot shattered Usain Bolt's 100-meter record at Beijing's robot games, prompting serious industrial analysis and American regulatory alarm.",
+    "companies": [
+      "Tiangong Ultra",
+      "Unitree",
+      "XPeng"
+    ],
+    "people": [
+      "Virginia Lee",
+      "Elon Musk",
+      "Usain Bolt"
+    ],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "China",
+      "competition"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmQ1a2pSalVEeUw0M1NtZjlvMnNFSmxZRVlvYUF2N2lCZ251N2Z1Z01yYjdibUE4VUs0c3c3enQtU0hzQ1NCYWdvVy1RTm9oZ0dyR0hsQWdzdXM2b19aaTlHbDgxUFNfSEZMUUNESzA5R21OcVBqcnRvUGVwckN6V1hzWTBoX0dxeVJF?oc=5",
+    "title": "Wildest Highlights From China’s Humanoid Robot Olympics",
+    "source": "CNET",
+    "published": "Mon, 31 Aug 2026 10:27:21 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China hosted the second annual World Humanoid Robot Games in Beijing, showcasing increasingly ambitious feats of robotic competition.",
+    "companies": [
+      "World Humanoid Robot Games"
+    ],
+    "people": [
+      "Jesse Orrall"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmJwT2RyZEE3eGJMc09ZZTBGbm03aENMc0xDZ0V2aTRGSkRJZHZqdGFKbVdSWWN3WmViNnVPRExacXRrVmRWOXh4aDk4ZE03RUg3UnFreEdrTW1VbmlKT2FpZE9PYlRBcGJnQ1YzWU05TmN6eVBHV2F0T0N4M2lBbFV1a0FwUmJR?oc=5",
+    "title": "How will Waymo’s robotaxis affect Denver?",
+    "source": "Denver Gazette",
+    "published": "Mon, 31 Aug 2026 11:04:29 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The Denver Gazette asks what Waymo's arrival in the city might mean for traffic, jobs, and urban life.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "urban impact"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjhaMVJIa3o1Z0lybmVwSmJSVDNRLXJnSmpPMVlCbVRrS1NfRWxMYWROaHQ4NnA0b0lKV2tnalhXY1FoZ1lyZlZ5NWxGN3NNMGRMeEVTWHptNWF5QktrRmxDaW9KUUNzVDJqMWNWVVBaQ3kxbnl5WlFIbXlqdFRTMGU5ZGI0QUlCMEE3LVdQWDhHNGhfMVdIQ1BOVV90OFU?oc=5",
+    "title": "Injuries Sideline Robotaxi Test Drivers for Months: Report",
+    "source": "Newser",
+    "published": "Mon, 31 Aug 2026 16:16:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Injuries to robotaxi test drivers have sidelined workers for months, according to a new report on autonomous vehicle safety.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "testing"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFhyUFNCcHFoQ3U3U2RubW55bExxdUNpd3d0TzFYWnVSQ2EzUFE5dHA1QmJfNnNTN3U1aGxTVVZtb01iWWUwdjEyMTNuVFdpbEZpb1Z3NWZBMDF1eG9Sc1pCOGpkenVOYWpOeWFCODB1Q1dkXzhpOEFhZS1abXA3dmM2cUFMRWNxQmdoVU5FR0J3dkVJ0gGaAUFVX3lxTE1uYk56MVNUU1A5WVFjTC1hSmlocjRpT2k2UklLeEZMR3g2ckdURjlhb0xNUlJVblFFUGlSN0hld1gyWGo5QXZ5NlpJZW90OXowWUI0WnNHSzFRSmtUOEl6dFBiWFFLbFBOcEdabHhKaWk5NHJSdzQtM0I2aTR1RmNQUzN2NEMya3VKeExRZGRBY3kyd2VyOTQxZHc?oc=5",
+    "title": "Virginia panel moves toward self-driving vehicle rule",
+    "source": "The Center Square",
+    "published": "Mon, 31 Aug 2026 16:24:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Virginia's Autonomous Driving Work Group finalized draft legislation to regulate commercial self-driving vehicles, proposing DMV oversight and mandatory pilot programs before full deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "policy"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVJMOGZSNXk0MzRtQ0NGTnI4UGFrX3VqVFllNnZmTXV2Y3NOcTQ5QnYwZkk2S3hLRjJvT19fS3lTX0JBWFZWVUhzWEJad01tX1FaTzlHeXV5Ym9ZbVY1Mmd4SU1KVUxUcURXU1pNOWhLSTZ2dDRDSkpldjNFTi0ydzBmcnFLRVJlb2o5T0Vhd1NEVjc4NVE?oc=5",
+    "title": "Louisiana gets state’s first self-driving bus",
+    "source": "Planetizen",
+    "published": "Mon, 31 Aug 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Louisiana deployed its first autonomous bus, a concrete step toward testing driverless transit in a state with limited prior robotics infrastructure.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public transit"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUl0ZUprNjYydHhYOEhELUpEQ01CNFRjc3Q2YWV4TDBRbFdaME9RcWJvT1Y1OFBoa1FCSWlRZnp1RDhFeDhyTzdXbDZUMHBBMXpvdXg4MlhqNXdrQ0NHTGRSbUFiamVtdm5Cb2hUai0yLV9GLXpQY0xTQnQ4N202TQ?oc=5",
+    "title": "Uber Drivers Say Waymo Robotaxis Are Driving Down Their Pay",
+    "source": "Futurism",
+    "published": "Sun, 30 Aug 2026 19:02:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Uber drivers blame Waymo's robotaxis for eroding their earnings as autonomous vehicles proliferate on city streets.",
+    "companies": [
+      "Waymo",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "labor displacement",
+      "gig economy"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQzVXb290U0tMdG9lcVRvZ3BkOTBFNHp4cFVTcVhxMzJyNE9pRGVyTjU4d0g0a1Z6N0lYM3BKaFNYR0RaZElNTzl1SkVabHdTdnUtMXFaQTR0Z1VrRFVzYkdXZ3dleUVQNDVSeUgzcEx3REJqb0E?oc=5",
+    "title": "Teamsters suit tests California’s driverless truck rules",
+    "source": "FreightWaves",
+    "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Teamsters union is suing to challenge California's driverless truck regulations, forcing a legal test of the state's autonomous vehicle rules.",
+    "companies": [
+      "Teamsters"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "regulation",
+      "labor"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWXJ6anEzUU41dGVJN09EQV91NG5UcDVxcGphQTIzSkhkWDU0TWVnX29OVTB1Z05MenkyWGxsYkhYSEtxTEtodEczRm52bGh2a25Dd2lOSGUyR2ZhWFRPRE9EZmg4b3hHWTY4QnIyQjN3MlN3U3Z6TFh2MGFlQjUwYzNWbVNBcElfa3B4YTBSR1Y1SVdPSnFfV3d4dGJZeVFMWV9nSmZHRExTSU9IZUxKanpFY09TeTdhamZNRg?oc=5",
+    "title": "Saudi AI Firm Humain, Applied Intuition Partner on Self-Driving Trucks",
+    "source": "Bloomberg.com",
+    "published": "Mon, 31 Aug 2026 11:45:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Humain, a Saudi AI firm, is partnering with Applied Intuition to develop autonomous truck technology.",
+    "companies": [
+      "Humain",
+      "Applied Intuition"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "self-driving"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQzBJajVlczhaamVaYkt2MkwxUkxBX0xSeHN0MldPYkMzeDRGSWp4T3NNNmhiR0ZrcW96U2FienZISXotR3BVNzhXYzBNeldtZlBJbVdYSG9LSUVjdzQ5R01nckVmd3B0MnRWckVaTXp2eFlHV3J2LVAxaktGSElJQ3RkSU5iVzVnX3JtdFVxdWRyb2pfdzZyWnA1SlNfejVuZHVaQWNWYw?oc=5",
+    "title": "Tesla Expands Austin Robotaxi Area Three Days Before Cybercab Launch",
+    "source": "eletric-vehicles.com",
+    "published": "Mon, 31 Aug 2026 15:35:28 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla expanded its robotaxi service area in Austin just before unveiling the Cybercab, signaling confidence in autonomous vehicles even as competition intensifies.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ob2kzNnBDM3BPTE91Z083X0lvR0pabjBxMFY2Q21UdDdNQ01JLUJUcl9QNVZDM1QwS3BkWmlGNzZWbF95UVBEZWQyMnd4UHV0VUFYQk5ONEZvX3YyWXcwam11azJHWFNFUE5LME94Y0pRc0pMaWF5VUNfVlBJQQ?oc=5",
+    "title": "Tesla is fixing Full Self-Driving’s pothole problem",
+    "source": "Teslarati",
+    "published": "Mon, 31 Aug 2026 15:40:28 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Tesla is addressing a software vulnerability in Full Self-Driving that causes the system to struggle with potholes.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "full self-driving",
+      "autonomous vehicle safety"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcDA2S29haTdCa1JUVnBBWG1NMGVXYVZPM0ZhZEE2bHdDSnRrdjNpTFVGeWdLN0ZXVm8zanRaNElDaC13QVVzSzlIbExuX1VGTXVlZnREdEQxUFhyWkZrQWJXYVlvdXk3SnZwLUM1UjJLemU0OENUMUtKNmhTWUpRNi1RSDhERE1xMEM5NnFkTmxKVDZOWVJKT0pGQm9TRFRKQmptdzNwaldaeVk1ekpGZlVHeURieUZmY0hpczZ3X3FDdndFRnUtSDl3VmJLc2c2WUd5eG5qN04?oc=5",
+    "title": "TSLA Stock Jumps as Cybercabs Hit Texas Robotaxi Roster Ahead Of Launch Event",
+    "source": "Stocktwits",
+    "published": "Mon, 31 Aug 2026 19:59:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's Cybercab robotaxis are hitting Texas fleets ahead of a scheduled launch event, lifting the stock.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVW9Ba1Q3UTRBclBUeGZST2ZEQVRhQ2VZU2toaFZhUXNnM2RLZjZnUUpxZXpaZ0Z6Q3QtbG1RZFNmOUpzQmdrUjlndGRkNmdnLWN5UERLQ3ltOFBVSkpzNm5TbWd4cmE5VWEydndHWTBvbVM1RnlObDBXTkl0M2hTcV9MZWQtZVZK?oc=5",
+    "title": "Next Up for Tesla’s Self-Driving Tech: Potholes",
+    "source": "Barron's",
+    "published": "Mon, 31 Aug 2026 15:08:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla's self-driving ambitions face a mundane obstacle: American road infrastructure is crumbling faster than its AI can learn to navigate it.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "infrastructure"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52RHFqTkFNQ0xpLVI3SEg4STFaYmVKdEN4RjlsN0ZnLWM2WnBuRHVVdTZiWU1RM2pTaU9uMUs3ZmpWd0FscHVvajZCQlVsR0I4azZyR0E2UDdqQlNjNVhlY3Q0NlBRUXBiSlNoMzgydjEyQTRz?oc=5",
+    "title": "China’s Pony.ai robotaxis to run in S.Korea in two years to target lagging driverless market",
+    "source": "KED Global",
+    "published": "Mon, 31 Aug 2026 16:31:43 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai plans to deploy its robotaxis in South Korea within two years, marking the Chinese autonomous-vehicle company's first move into a market where driverless adoption has lagged behind China and the U.S.",
+    "companies": [
+      "Pony.ai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles",
+      "international expansion"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWUU5WWhpaGZjYkxaYktqNGZyN1JoVkU1UXlkcXZya1VpTFhJZFlNR3BQRzgyTEpHMk5VVUZua3QxQXc0cnZqelB4M0QweGJyckt0cUd4ZGtYTU5kQjBGSVNfcTYzeFBqWlpmN3huRUxueS1JUDJ6SGVoSmllX3l6eXhreWQ4NnJoLUJNaVc0Y3lGTWhLZTVrMWxxLWlrN0xWV21YT1ZlcVI2OTFfcWkxUVVOU2FGYThZWFJSOFozSGVYd9IBxwFBVV95cUxNem5QREhhVXNyLVhTUm8xVHhVMVY1emszc3BUbjBjdURiX09qdGg2YmFiQ0NvR3R5WGctYllIVmNZWHNaaUhHU0JPSmtKbk42dTkxQ1M5cmlTeFJta1FaTFlfdHBuZFRsSG83Q3pBSWVqZzVLazlBeWVJREhEdTJqQkJqOXV1N01mT2ZMb3RfZElOanJ5X1dFLVhqSkY5VW5sczJyNmhUZjJfbm9LcXlERFpLaDF3RTA5bllBZS1WTWQ2WjB6VFdR?oc=5",
+    "title": "Easy Aerial Raises $20 Million Series B To Expand Autonomous Drone Production And Global Defense Programs",
+    "source": "Pulse 2.0",
+    "published": "Mon, 31 Aug 2026 20:18:32 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Easy Aerial secured $20 million in Series B funding to scale autonomous drone manufacturing and defense contracts.",
+    "companies": [
+      "Easy Aerial"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "defense",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zQ2MyeWs0RjJ1YjZ0UGE5QjRtcXN2T0YtVlZYUndndENFUVZobVU0ajIzSmZzSXBLNmRhUE9PUDVPVS16TlJ6SV81UmlRSjZNeno1b1g2SFN2NnBQcW1tTXQyaW9HMnRxMlAwXw?oc=5",
+    "title": "DJI Matrice 400 finally gets its own autonomous drone dock",
+    "source": "dronedj.com",
+    "published": "Mon, 31 Aug 2026 12:15:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "DJI released an autonomous dock designed specifically for the Matrice 400, enabling untended charging and deployment cycles for the enterprise drone.",
+    "companies": [
+      "DJI"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "dock",
+      "enterprise",
+      "charging"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWU9YTTJUcXJOTUFyVTJVUElTc3JsTGhIZURNOWZURlFVdWc0bjBGelM5UG9QRm14b29PQzMtLTg3V3NsMURYWEk2UTNmc2k5YkEtbjlUcjBxRVdLZEJnZnRFMEpvR3hMYm5PYXBrdnBWTERmdlIzWEUxM0VqcGNHdXc3NnpKNHdrNFZvS1NieFlVVXZKNld0TnF1a09wZDltZ1E?oc=5",
+    "title": "Easy Aerial raises $20M Series B to scale autonomous defense drones",
+    "source": "Dealroom",
+    "published": "Mon, 31 Aug 2026 15:22:56 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Easy Aerial has raised $20 million in Series B funding to expand its autonomous defense drone platform.",
+    "companies": [
+      "Easy Aerial"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "defense",
+      "funding"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVVoZUE0N3RzU1VYME9CV2JNNGRqZE5XYXlIUXJIN1VMRkJxMFllVFE4Yk8td0FJek1YalphWkw2d1NtZ3RFZHh1MENFbFJwb1NtOGFocF9yRTU2RGNMdDNwSjAtZXpadkNJVUQ5S09Tb0xrZnI5M1pzTDEyaUVxenlEM19zdFRVb0U4c19RM1VjZ3NoNHVpQ1RVcV9obldDTG9ySWViX3lvWkw5YTE2NzhTeFgxTlZtRmc?oc=5",
+    "title": "A Connecticut factory now has 80 printers for autonomous drone production",
+    "source": "Stock Titan",
+    "published": "Mon, 31 Aug 2026 11:30:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Quantum Cyber installed eighty 3D printers at its Connecticut factory to mass-produce drone airframes using proprietary filament.",
+    "companies": [
+      "Quantum Cyber"
+    ],
+    "people": [
+      "Dennis Schnur"
+    ],
+    "themes": [
+      "drone",
+      "autonomous",
+      "3D printing",
+      "manufacturing"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkN1OTB0VDVJdXYzV1pEQXEtd1pOTmxDZWt0THZJQmhLaE41Wl9nMFhhTG1MYzJ6dUxJbWZBUHhHTGV2RGNKYTV5aGc4V2ZVb0dsV2U1bElhOUV4RXFHa0ZFYlZuelNuRHo1dzVSQVhQMXhtU0lGem1oNEhnQXNtbW1Wa1I2MG81OVhJYzFGSVZWanNHZTkxb2hGUjM4bGM?oc=5",
+    "title": "U.S. Startup Raises $7 Million to Develop Backpack-Portable Drone Interceptors",
+    "source": "SOFX",
+    "published": "Mon, 31 Aug 2026 04:03:32 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "San Francisco startup Mara raised $7 million to build Spike, a backpack-portable counter-drone system that autonomously intercepts FPV attack swarms.",
+    "companies": [
+      "Mara"
+    ],
+    "people": [
+      "Daniel Kofman"
+    ],
+    "themes": [
+      "drone",
+      "counter-drone",
+      "portable technology"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNUDJGVGh4M2J0MERUN0hxQWdjQXJIQnpnSW1zbE9keERNNzNzTkRGNUxJNWlLUlItcFRHbGhJRUc5T2xoWUNIYm13bEhxTU1wbjQ2dnNtQkFnenVENU50ZnJDb050amp4YXh0c01qamlEbC1YaHlMeEtyd3VZTXdGZzZ4M0I4ZzZfYnJfaEJfSW5VcERibXA1aWVZc3VxeGc1cFVQZTNJYXBtVHZjQWhWSy1HcnBMREhTV3gtMmc2S1YyMXpsNURBZDBSMzZWQlM5WEdnUnJNdnI2ajZBbXZma3BybXNNNTRMcTNwSllMOE5IOUNMaUNQVzRpWHNxVFZjbGJSeVlUYzU3RzhfNHNqSlkyRnBob0laM0M1VFRObnFyS2FKRjYxMU5Rb0M3alBPblR4WUVfVUF3TjF6eXlaOTNPb9IByAJBVV95cUxOMWVhdGZBb2NscTZPVzBCRXNERWlIUzJDUWRwQXF0LVNQa21TNVRGQnljcGN0Q2pPM1M2V3Q0cU9OT2pYbjFJWnA1Sl9XUnNuRDlPU2dDbjM1VFk5RGRfREF5WTU2SHZPdjcwLTJoS2ZmWXFBRG1keHV1QlMwWUIxb09oSWlaZUFBRFV2ekk1ZjhYNXFSbDhVZXREQ1VvNVVQalRzUHNqSmVWb0VxVmJHNG9VbXJCaDJTUXpiZXU0a0l4UHI1WFhMNGFndDVfamtXejItX1ZQQ2ZzUUFJM3RiLVlVemJqQ1hlWE85UUF5UXgwUE9UakNjUE1tbE1jSXBleWhjcUtuQlM0emp6SWVIUVhnRjg0a3lFMGJpdjVEaER6d0lJTVBOWVJPZXVwZWY5UEdtLWZCcHNNOGJSb3B6cUxBR0l5b043?oc=5",
+    "title": "Quantum Cyber Completes Purchase and Installation of 80-Unit 3D Printing Drone Production Farm at Its Bridgeport, Connecticut Manufacturing Facility",
+    "source": "The Manila Times",
+    "published": "Mon, 31 Aug 2026 11:39:59 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Quantum Cyber installed an 80-unit 3D printing farm at its Connecticut facility to scale drone manufacturing.",
+    "companies": [
+      "Quantum Cyber"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "3D printing",
+      "manufacturing",
+      "production"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1NYc3U4Nks3WXg3bW91X19adnVmNVAzdXhnRF9HU3Bob1BCQmFzazhaR2wzcEdvbWVsakp3cXdhQjMzZlVWRW0tMUd1dm1vMDFSWHFHUlluVXFJdFljbEM2UXBmWkJ1bmxFamtkWHgxblFKb2MtTFBLbkFhU05neXNxOGVtMWQxMllyUHhkaFFuUV9uaGNpczlKSlRBMjlaME5XakpFaVpHSlllR1E?oc=5",
+    "title": "Reflet du Monde develops autonomous wildfire-response drone system with AID",
+    "source": "Dealroom",
+    "published": "Mon, 31 Aug 2026 07:00:54 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Reflet du Monde has unveiled an autonomous drone system designed to detect and respond to wildfires, developed in partnership with AID.",
+    "companies": [
+      "Reflet du Monde",
+      "AID"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "wildfire response",
+      "emergency response"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPV2NjSFlhbnhFY2hYdVlpZDNBZEdKOUxkWFF0TnhXa1BCNGtOQmYtZUhveFh4LUhhWGRoeW1WWmtKd1VZSjhSMzg2dUV2Y1NJWVJjUVRHM084MEw2bVlSZlNvT1ZBQ2ozZUZQd1htdE1MQ21VWGQ0dkw1V3BoRjNmTEwtbk5iVnIyYldiMkc3V0NuSGxFbG81dmpOWWtGWnh1TFNnRDVRYWFZZlIzRDJpTGFqVktmTlRVZkRNQWNEb1R2cnlTeWxEaVJ0Y1BFbGsxeVFIdEpDcVFDSzgwTXYybThkNjMxZ1hPeUpKTlRyVElqRzFadXkyaVZYeW9pVTBGWGdDb0VmUGJEQXowMXE4SFZqVWFscW8tanQtbUZsb1Vtc2thNWJPdl9B?oc=5",
+    "title": "US FDA Grants CorTec Second Breakthrough Device Designation For Brain-Computer Interface",
+    "source": "insights.citeline.com",
+    "published": "Sun, 30 Aug 2026 18:30:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "CorTec receives its second FDA Breakthrough Device designation, accelerating the path to market for its implantable brain-computer interface.",
+    "companies": [
+      "CorTec"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "FDA approval",
+      "medical device",
+      "neural interface"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVFwcnBjZUxWSjYwaV9RTVpmYXRWdm1KQ2NhbWlxVE9aM0NVSkh3NjRQQWQteDJPRHVGX2FPdnBpZjEyRHZoN2RZN2hVZkRibkJtb1E2TkRyZU5zV0YtQXZrLThXd0I3am5nallBM3BrTno4ZjNlV2VIQkRMcmExOEMxVk9aUXBub0hUN3JJLU9tNEdOZXZTQkQyWk5LYmU1eHlZQ2JTWXBfbVNLR2JlYURCSlZVMWNs?oc=5",
+    "title": "Brain implant helps paralysed man to feed himself and drink from cup",
+    "source": "The Guardian",
+    "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A paralysed patient with a Neuralink brain implant recovered the ability to feed and drink himself, demonstrating a functional advance in restoring motor control.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "motor control",
+      "neural implant"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://www.ehang.com/news/1389.html",
+    "title": "US Senator Steve Daines and CPIFA Vice President Geng Shuang Visit EHang and Take a Flight on the EH216-S",
+    "source": "EHang",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "other",
+    "one_line": "EHang CEO Huazhi Hu hosted U.S. Senator Steve Daines at its Guangzhou headquarters for a flight demonstration of the EH216-S eVTOL aircraft.",
+    "companies": [
+      "EHang"
+    ],
+    "people": [
+      "Steve Daines",
+      "Huazhi Hu",
+      "Geng Shuang",
+      "Pauline Kao"
+    ],
+    "themes": [
+      "eVTOL",
+      "aerial mobility",
+      "autonomous aircraft",
+      "international relations"
+    ],
+    "first_seen": "2026-08-31T20:36:57",
+    "week": "2026-W36",
     "why": null,
     "duplicate": false,
     "folded": false,
