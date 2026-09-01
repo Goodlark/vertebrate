@@ -37399,7 +37399,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -37452,7 +37452,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -37583,7 +37583,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -37706,7 +37706,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -38003,7 +38003,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -38384,7 +38384,7 @@
     "first_seen": "2026-08-25T15:37:56",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40316,7 +40316,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -40406,7 +40406,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40435,7 +40435,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40510,7 +40510,7 @@
     "first_seen": "2026-08-26T16:14:25",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40651,7 +40651,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -40785,7 +40785,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -41019,7 +41019,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -41103,7 +41103,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -41225,7 +41225,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -41370,7 +41370,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -41933,7 +41933,7 @@
     "first_seen": "2026-08-28T00:12:43",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -42338,7 +42338,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42416,7 +42416,7 @@
     "first_seen": "2026-08-28T23:49:54",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -42949,7 +42949,7 @@
     "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -43109,7 +43109,7 @@
     "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -43146,7 +43146,7 @@
     "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44130,7 +44130,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44747,7 +44747,1038 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTS1lc1E0VEVnRW9IQUFQU3ROdktPcmdOWHdPRWdtYkxPZFM3YzdPLXI5dTkyY1J2Vms2Vk5qQU52bzIyWmRQTldsSEFGc1lERWRKZGJsQzFmNEpSYm43eTktdjdYOXFKTXZaNnZlQUpOZ1I5YXdmTjE1UnBFclBWLUM3ZWMwR1ViamVkSzdjWkI2MEYydmgzVGpqOVY3cTlxQ3NzcUZxRjdhWFVWc0NEZmN0cVZldVp4NlZocG4zbDZ6UVlxWmpreUdJekVOTEgyVGNXMHk5RzRBbmxKcVFhRlpodkV0T1NFRTRoeWdWa29HRGM?oc=5",
+    "title": "UBS says a new 'physical AI' era favours the makers of robot parts, not the robots themselves",
+    "source": "Proactive financial news",
+    "published": "Tue, 01 Sep 2026 15:07:50 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "UBS argues that physical AI's economic value will accrue to component makers rather than robot manufacturers.",
+    "companies": [
+      "UBS"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "supply chain",
+      "manufacturing"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNUEdRcjJVVndXWW92RmhjVkdXYThkQVVrVmpZOXhTZTdxclozU3kyX2stRndfbzJ1Y3RVQVVZSnBmaEFmTk5ZZzdsaVBDMFU0VTY2eHJJaVVuOElWLVZFaXAwcjAzWnBucVItckV4WmRIUnZFcFA3Y0MyX016c2FDeFhHNjFxc044cjBwcXBkUEdHclJnSmtPd2Y0REdMSXBhbzZvVHVDQ2ItdTlma3BNYklUd0NoRkRkT2IydEE3TkdUem5xZnBZclZUODJWWTV1QktNN1JxMHBPRXVNUmpueHpuUTFvZ2dHME1vX01QOG8xckpWamxfbDhrOWZ2TGFQaV9veDFnUWRqbHNTOXZkUnBrZk9NcGVCMUZyc3BsejlqcXhjV0t3ZXFB?oc=5",
+    "title": "Gasgoo Daily: China Issues Guidelines for Automakers Going Global; Leapmotor Tops 100K Deliveries Again; UBTECH's Humanoid Robot Business Surges",
+    "source": "Gasgoo",
+    "published": "Tue, 01 Sep 2026 14:24:35 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "UBTECH's humanoid robot business is surging, according to the Chinese automotive and robotics news outlet Gasgoo.",
+    "companies": [
+      "UBTECH",
+      "Leapmotor"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTExheHltckZOTGJNWmNRVldnWHIzZWFET1lSLVl6S2FDSXptSjVfLTBGdGZIREpFRlgtcWMyT3VyQndKV2JvUVd0YzMySGtzOVo1M21EWlhwV3JsS0p0UHl1STZySGpSVS03dDJ3NWVrNVhqR25IanE3X0cxbzRPN1dHVGRuRTFXU2JIRGpkV3hyd3ZYaTFKWDVSclg?oc=5",
+    "title": "Humanoid Robot Starts Work at Dairy Queen's 24-Hour Shanghai Ice Cream Parlor",
+    "source": "一财全球Yicai Global",
+    "published": "Tue, 01 Sep 2026 08:52:27 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Dairy Queen has deployed a humanoid robot to staff a 24-hour ice cream parlor in Shanghai, marking an early real-world test of service robots in quick-service restaurant settings.",
+    "companies": [
+      "Dairy Queen"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment",
+      "service robot"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDBzdjVOQTZhcWI4a2JYSU96VU9lbU5TMWdCM21KUmpCY2FGLUpObWFIb2U4bE9xQTJpc0FZM3Q0Q08yMXlESGhuWjV1a19XUTZpQkQyX3dyLWxBX1VkckZTTWJtZHNSbmJoRVRqRkU4MHVFVXBoTTdKZXQ4dTE5TmtRYzZTME8tSnIwbkF0SFhEMmE2ODZoOVBUXzhIR200UXZ1YmRXcExwcWVZc3lqekpaTjBCcVlORXhkMFBnZENuNXRkRzlia2V3?oc=5",
+    "title": "Waymo launches in Denver: Here's where you can ride",
+    "source": "9News",
+    "published": "Tue, 01 Sep 2026 14:25:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches its driverless taxi service in Denver, expanding beyond its established markets in San Francisco and Phoenix.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRnJuVDlnTXQxTWFJdHgxZV91YnNSVkNLamR2UVg2WHI2X1ROT0JyRVR4WDVMWGFSX0I1bG1fRDVFUG1GcnF2dTZpM24xNnJLMm9wYXhUMVVodE8tMEQzZWUxTmx4NlZyWDBZbzZxeHk1RnFadTZmd2haY2M0X0ZPQkNCVHJIVnNpQko1OXI4WG9lUQ?oc=5",
+    "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+    "source": "TechCrunch",
+    "published": "Tue, 01 Sep 2026 16:49:12 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo positions itself as the mature alternative to Tesla's forthcoming robotaxi, a defensive move dressed as offense.",
+    "companies": [
+      "Waymo",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyY2QyVmdLZG9nb3A5ZEZKcG5Wa2FKVld3VnNOMnN0TnJnRU54ckphOUthbUs4VVl0dFFRci01WTA5MFhEd2w1eTA3bGd5SHBaY3RBVGFpODFudFJnTXR3UzFCT1V5YzZLUXJPdUlBNVVwdGh2c3c?oc=5",
+    "title": "Waymo will offer public rides in Denver starting Tuesday",
+    "source": "The Colorado Sun",
+    "published": "Tue, 01 Sep 2026 14:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches its public driverless taxi service in Denver on Tuesday, expanding beyond its established operations in San Francisco and Phoenix.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAySXZ1QTZHZ2xsRWEwQjJnWjRNWG4yczFBWElPUnZ2RTJ2YTRkTDU2SWphYW1GR1ZhZGptanNzckdDWlpoM2tDXzAyZ29qSnpaUHk4X0oxbkZkNXQtcnU4RW8zWVFEY2pSRlQ1ai1wSTBMdDhnaEE?oc=5",
+    "title": "Waymo launches public rides in Denver Tuesday",
+    "source": "Axios",
+    "published": "Tue, 01 Sep 2026 14:01:22 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo opens its driverless taxi service to the public in Denver, expanding beyond San Francisco and Phoenix.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUU1WEpLbWRwbklKVXphaXpVQkZldV8wd1lCSmdmdzlLYmh6RXRoaks1Qi0zRUt3eGZybm16STRlT2Qya0ZOZWk2eHVNNFpvV0ZDWUFKdFc4QkZ1Z3A5ajU4a0tpMXM5VTZ0Y0FTS3FaY2s2UnE5MVc5Y19IcGl3YmNDU2owVE1YUHpYMGM2YjVzUzdxSmdOWXBKM3RUSi1iQ2fSAaoBQVVfeXFMUDVlSDlVZlNjcjhVb3BHYnYtTktrWVg5RXVOQll6QlhWOHhpdHE4QW4zTmtjN25tT2RwdTd6VGFJa1NJUTRBRVVibUItUUlzclA5NkNJaExFUDRZZTA1dUdlbUI2a2FQcW1Ha2Nkd3ZDbVhTM0tJYWdtc2FHbVNmbDlFWHNpcks5THNvNmx4RDZNdVpDb25lWk5IQWpjQ08wWjJJdWJCTHNiMkE?oc=5",
+    "title": "Waymo officially launches to the public in San Diego",
+    "source": "NBC 7 San Diego",
+    "published": "Tue, 01 Sep 2026 16:00:47 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo opens its robotaxi service to the general public in San Diego, expanding beyond the limited operations it has run in Phoenix and San Francisco.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMHFMblg0YVZtSU01SnZzSjk4bEdwOTExZTlmWmFMQmJoZGxWdkVfa28tYmlHQU1hMFdVR2tscVJ2RzNKMldqM3YzUVROYzRXUmxtLUpEMTdyRU9Ib0xUUlBZOUQyRkplTGc?oc=5",
+    "title": "Waymo launches in Denver starting Sept. 1",
+    "source": "Denverite",
+    "published": "Tue, 01 Sep 2026 14:02:33 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless ride-hailing service to Denver starting September 1st.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWl6QXVweEVKRFJOZXpLQXBTbEJxaURrWnRFNkRESWY5eUpPZ3RYdUFBWTlmTzVKQU9aQ09CNDF6V19maWFkNlhtTHlkNDdZazVFWnJQZGNrTnNERXNsT3o4bGlCaFJMR2EwRXdhbTlrWGd2U0RrR01Ha1hadE1LWFlsb2JzMUNrVXk0dVNXWUx1MV85VHZETkFDNkhyNkFnbmtmM2NQbHdtVXBYeVVHemlEb2wyQ2l1STc4bw?oc=5",
+    "title": "Waymo in Denver: Everything you need to know about the self-driving car service",
+    "source": "Denver Gazette",
+    "published": "Tue, 01 Sep 2026 16:34:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Denver Gazette publishes a guide to Waymo's existing driverless service in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenhhamV2c3hTRnJFWXBybEo0MkVzT3Jlb0hxWXpfSkNDYl9rX2dtdk1tNklndE95U1U0d2JNNlVycFg2U0RPVkxwY2dXQi1PRjZIZHRmV25hYm9VUjJsYnUtQWtSb19pbDdtZ0tsejVvYUl5SEt0c3oxNUo2Q3lDUQ?oc=5",
+    "title": "A toddler fell in an S.F. crosswalk. Then her dad saw a Waymo coming",
+    "source": "San Francisco Chronicle",
+    "published": "Tue, 01 Sep 2026 01:24:53 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A San Francisco father recounts a moment of panic when his toddler fell in front of a Waymo, raising questions about the safety of autonomous vehicles in unpredictable street situations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1M3S1pIOHRuQzNRZDlIaFMtUkVMbkdyVzN3X25GMjJ3Sm1FSmNGMkZCaUhoQWNONlNFLXJkUmpjVkpUWWhGYlNJaUllM2kwQ25IXzNqN0FWNjYzTEY3a3l5U2ZqZVhnVkFWbUZoV3BBd1NDbWZRUmp3bUtIdERWbnUzOUFUNnk1cmtvdl9pd1ZreXJtRlhEWlJhaDhNZXlwd0wtd0d5WEhEbGRfa29jZFZzaVQ?oc=5",
+    "title": "Waymo Expands Paid Robotaxi Rides to Denver, San Diego and Tampa",
+    "source": "Bloomberg.com",
+    "published": "Tue, 01 Sep 2026 14:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its paid robotaxi service to three new cities—Denver, San Diego, and Tampa—as it pushes beyond its California stronghold.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzZm5MbXNRR0tkOE1CQnJua1AtTG84S0F5ZVNDNE5JdFQ2cHBiNlBFb0lvb3VWM0VFNE5tNlgwYjVVNmpFY015S2UtaTVkVk41QnRiUkxtWUg2OC01cUdheEZEZWM?oc=5",
+    "title": "Waymo is launching its robotaxi in Denver, San Diego, and Tampa",
+    "source": "mashable.com",
+    "published": "Tue, 01 Sep 2026 14:01:27 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless robotaxi service to Denver, San Diego, and Tampa, extending its footprint beyond its established markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWERfN0ozOFBXV0tqbkVSYUlkYmZUYkFCWDl5ZThzLURyZkhrVk1yY1c2SUx1TTNiWEY1Z3UwdVpqX3BSTVNEb2trM1J0aURydHZSaDA1T1ZocUE3cEM4SU1HemxFSm95NXRWLVRpcllpYVltQjh1VEpsT2tjRk41WGhKTElmemx4UXBjWjk4dlo3alJKeTlWWDFudEY0S2xDaUhnWFZlajc4OU5jeFFaQQ?oc=5",
+    "title": "Waymo Robotaxi Rides Are Now Open To The Public In Denver, San Diego And Tampa",
+    "source": "Engadget",
+    "published": "Tue, 01 Sep 2026 16:24:24 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its public robotaxi service to Denver, San Diego, and Tampa, moving beyond its established California markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIWmtfT1dlWnZhRllQWDA3NVotekl0TzgwTmhDUXI3THFYRWREemtmLTZ0bS1obG14VHJPUUpSX3JWMUF5enExTFBaM1l1ZTRUbDJtemM0NndjMmJ5UGRPVVVycGFFN0RIMFFSN0VITDlmQQ?oc=5",
+    "title": "Waymo launches paid robotaxi service in Denver, San Diego, Tampa",
+    "source": "qz.com",
+    "published": "Tue, 01 Sep 2026 17:24:10 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is opening paid driverless robotaxi services in Denver, San Diego, and Tampa, expanding its commercial operations beyond California.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWR4My1TZzNBZ2FPTnR3VThMMVhQOFJ2U3RPLTFhMzN2cTVPTTRmaWdQX3dWcnRDRkRBME0yeDRONnk0UlZlRkNZUXJ6U3poU1NtaXNLN0k2WFdZX1hxRkw0bVZMNXdQWlRYeG9uX08tSHJtTVVYV2VyOVBJRDcteDRwaFAweU1pV3VUdE5mZVk0MTVETTNEcw?oc=5",
+    "title": "Waymo welcomes first San Diego riders starting Tuesday",
+    "source": "ABC 10News San Diego",
+    "published": "Tue, 01 Sep 2026 15:23:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching its driverless taxi service in San Diego, its fifth U.S. city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "rideshare"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtN1U5X09mZ011djJwV1VvQU5DcWZGb296RVJSSU5mckJFaV9vUG5TOEs2NGxXSHctY3NFQWN0VDNMblA5NjZCaVF5SFE2QzZUUmx5Vm05a2dPM0JVZTVzODJiN3NfUnVIelB3ak1GYXpab0lnLXlGa3Q2MFc2aHc?oc=5",
+    "title": "Waymo's Newest City Brings Its Biggest Challenge Yet: Rides In The Snow",
+    "source": "InsideEVs",
+    "published": "Tue, 01 Sep 2026 15:59:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless taxi service into a snowy city, testing whether its technology can handle winter conditions that have long stumped autonomous vehicles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "weather",
+      "winter conditions"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWFJMY1BReTRLNFM3bTU0WXdObmlINDQ5dURwMDU2RU1TZl9INjRuMTI5b0kyQnNDYzVvSzl6SEVBWFJuLV9EaGh1LXpxOVhuVDhyUkVXU0RKNHJoYkVLTDNjdXRrMnMzeFJ2R0Nyclo0T3dlR19KQ1RpeWEwQ2wwMQ?oc=5",
+    "title": "Waymo’s Denver fleet is set to start providing driverless rides to the public today",
+    "source": "Longmont Times-Call",
+    "published": "Tue, 01 Sep 2026 14:03:08 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches driverless ride-hailing service to the public in Denver today.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlNEdmVDRk42TDlsbEFnQmRwbFN1YUJlMnM0S2QtQktGYzlESUt2Szk4cGt0R0Zna3pLNHB5ZkJOZnc0OENWRk9ZWDZETjNDLXFmX1lKRFh0R2gyX0NfcEw0YWY1SzRYcmZDeExJNmF6ZmJneThsNkwxSFZObTc5Nw?oc=5",
+    "title": "Waymo launches driverless vehicle service in Tampa",
+    "source": "St Pete Catalyst",
+    "published": "Tue, 01 Sep 2026 17:17:14 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches a driverless ride-hailing service in Tampa, expanding its autonomous-vehicle operations beyond Phoenix and San Francisco.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "launch"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52el9QQmlZMWV1STZySDVUVmdYeV9kbUdYZmFSUnRjZ3dzR1QzRkNBRFB5UVZUbnJzam1NRHFkYVEzT0JzMVdyRVBWQzF3WjlWY1d0RWR0WUd0ZWE4UW55bzB4MTVtUnJNUm5WeFoxd2RoVlVpQnVWdw?oc=5",
+    "title": "Waymo's cheaper robotaxis collide with China crackdown",
+    "source": "Axios",
+    "published": "Tue, 01 Sep 2026 14:43:38 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's plan to deploy cheaper robotaxis faces obstacles as China tightens restrictions on autonomous vehicle operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3lSRUxNREFZd3BDUTVNdEVFZjUwQUxoNk9VQXVVYms0UzhYSHVmWUljdl9iT2p5ejZHS1c4dmpvOEszR0tsOEJSNlp4VDVRRnJJT0pmaG5EbGJoMkN5ZTk1Y1MtcjA4eDE5WkItTkUwYkh3WEdpc2R4LTJLdFBzZnBGTEpnQmFjWWxpV2NaUDR6QWZDZ1JQZ1F0MVU3R1B6VDZ4TUtYZXV2NUl3RjhQRHRFWm1rdw?oc=5",
+    "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego and Tampa",
+    "source": "TechCrunch",
+    "published": "Tue, 01 Sep 2026 14:20:44 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching robotaxi service in Denver, San Diego, and Tampa, extending its driverless ride-hailing footprint beyond its established West Coast markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzRHeWFPMEhkLTc0bEJka2U2M2tLUkFlOHhDQ3JJUmF3RzFOOVJ1RnFHU25VbVV1bG5OUVN4VHRkbDNoa3VBMGtRbVZrdlUyV1JnMFBub1RVWDZYaUdnMnFhS1FOWXZ0LXBFRTRPY0s4V1poVUlRZVVWY3RxVXBhd2pDWjFLZUlpWUZkTU1lc0tYcVc0WnFQcUU0N1dIR2FXeEN1NlVocEpNU0gwTGU5cFYxMHBHdWR0XzI0?oc=5",
+    "title": "Waymo robotaxis go live today in San Diego; Amazon’s Zoox starts testing",
+    "source": "San Diego Union-Tribune",
+    "published": "Tue, 01 Sep 2026 14:03:05 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches robotaxi service in San Diego while Amazon's Zoox begins testing its own driverless vehicle in the city.",
+    "companies": [
+      "Waymo",
+      "Amazon",
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDlSQzduTGFBYXRxcE5IdnVvd0hCZVE0ZVg5Q0tPdDFmSjdOazRxSkJiYndrcGVjNG1HYjhxZ3ktX0M3ZG5tQmVrNnlxTGtiNzV6MVJYTk1fVml6VTNRcTFoaFZLb2N4UUZ4WFR4Wmt6N0hmc0Z4YkNlam9NTzhMYWhB?oc=5",
+    "title": "Waymo opens robotaxi rides to the public in 3 new cities, now 14 total",
+    "source": "Electrek",
+    "published": "Tue, 01 Sep 2026 15:22:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expands its driverless robotaxi service to three additional cities, bringing its public deployment footprint to fourteen markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnRhb2s0NW85ak9ENkJwQzRucGtyTlRBY1dQdzNYZ1RWN0FjdjBHM1RwN3ZrbmZHYjB5Z09icFh6M3Zpc2pzT0l2Mk9ITFlzZnlMdHNhN2ZvWEVVNEhXdWYtNTB4RmZ5c05IYWMyelZMbFpubTNndDFQS0g4RDR5LUJqTHhoUkI0dzZ4YzBB?oc=5",
+    "title": "Tesla surges Robotaxi fleet ahead of Cybercab launch event",
+    "source": "Teslarati",
+    "published": "Tue, 01 Sep 2026 05:37:14 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is expanding its robotaxi fleet in preparation for its Cybercab launch event.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVW1lalE5OFV1WGYwVXNlRFdKdnNLeVFGWS1VdzVTaEdnLUdXcDZZNmQ1UWU1V3RtZGVVWEpwRjFwTWJrajRoQWRpM1JGNm1nNmsxZ2NOdzBucEx4R012T01jc0lQdHZMSWFNVXpHd0Fhd0VGWXdQaWUycTJCLWhadmRfRkU5em9Mc3liLXExVktUMVdrYWpHQ2dpVUR6NVg1RHlTcA?oc=5",
+    "title": "Waymo launches driverless taxi service in Denver riders this week",
+    "source": "The Business Journals",
+    "published": "Tue, 01 Sep 2026 14:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching its driverless taxi service in Denver this week, marking another major expansion of its robotaxi operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OQjFmQ1FZeWRWZkZrOFFmUGFBRGNOeXowd0RLblYtYTlCbnVTTFRqb09xd01zVHlKSThod25QYXF1cU5JaURVWmhnSFdLT1BTSE5ZTVFVbU9mM1N1UkVjV0F0cERJNE9pYmZBWkJ30gFzQVVfeXFMTnZLM0N5VnFjSzBpaUxHMlNzbjY4dHpWVTRXUFFWemplTEtNdm96aTMtQ0tmck1HR0NPZVBySldVdmpWXzNscld4YXZXNUl4LTVwV0F3Vy1KcUlEclE1X085WmFCX056cHVVLWxIOW51ZzhWbw?oc=5",
+    "title": "Czech Firm Unleashes Hybrid VTOL Cargo Drone With 100-Kg Lift Capacity",
+    "source": "thedefensepost.com",
+    "published": "Tue, 01 Sep 2026 11:45:54 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A Czech manufacturer has unveiled a hybrid VTOL cargo drone capable of lifting 100 kilograms, combining vertical takeoff with fixed-wing efficiency for longer-range deliveries.",
+    "companies": [
+      "Czech firm"
+    ],
+    "people": [],
+    "themes": [
+      "VTOL",
+      "cargo drone",
+      "hybrid propulsion",
+      "heavy lift"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSUNmVXM5U2NkMHZ3X3lNU0w3NkNuUXNJMHlJWThCeW11bW85SkFvcUlYMGNGd1BKM2pmLUNWTDJXaWhNc0NmS0hlWVpxRHpYSG80Q1RFRVQtcEJ3Y2xGeTNPalZKRTc3U2JKZFJPVUlTbnB2UnNmVEVtQ0dtYXhvUnlJTDJ5ZzRiMVdoZ183OWxReHJLenVfbXViTmpmX1R5c01wVzN3LXl1c01GdERqazlRMEtobUxWN29Vb1JWUG5XX0N4RUNreXl1aUgxNm1mX2o1Qg?oc=5",
+    "title": "TEKEVER acquires Flowcopter to expand autonomous capabilities through breakthrough propulsion technology",
+    "source": "suasnews.com",
+    "published": "Tue, 01 Sep 2026 11:21:38 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "TEKEVER acquires propulsion-tech startup Flowcopter to bolster its autonomous drone capabilities.",
+    "companies": [
+      "TEKEVER",
+      "Flowcopter"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous flight",
+      "propulsion technology",
+      "acquisition"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFdPZ2hlaFA2ZG9CbU1GdnNYMDBobm5wTjkzRW43ZkV3d0x5V3BQQjdUWHkydUZQVDNILU5ZQzJVeDdzdHVzUVVCWERGdnh1anRTb2Y5dHFRT28tWE84T2Z3amg2MExvcm5lUWI2TUxCWThFZlhGWWlwREFySFc2UUJVNGpJUUVkNXlDdXZNajhxQXR1cC1sWXZ5V2V4SXRzWXg5SzJIdzdaWExRRkEzVHVQRWY0ZzA?oc=5",
+    "title": "The Next Autonomous-Weapon Failure May Be A Drone That Obeys Every Rule – OpEd",
+    "source": "Eurasia Review",
+    "published": "Tue, 01 Sep 2026 00:20:40 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "An opinion piece argues that autonomous weapons systems could fail precisely by adhering too rigidly to their programmed rules of engagement.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "drones",
+      "AI safety"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmQ4eG90ZV9UMjFWbWlKSUYxVDdKWFNzWXg3dEVZU0lmVHlZb1VaWWhJak51emNsRnc4X2k1MG5QSkQxZDdMRU9LT2duSGZFckhFMTRuYjhCaGQzZHdVU1B6RnZGcUVrbVMzVmtSaGVoQm82V1JKZThvVEFkYmtsUmdzNFZmZENxM1FnaGtWb0xXaDlnc3dQcWhGZ3lidnpLUWY3WWJQNjFYUQ?oc=5",
+    "title": "Drone-Maker Easy Aerial Closes $20M Series A Led by Insight Partners",
+    "source": "citybiz",
+    "published": "Tue, 01 Sep 2026 09:58:17 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Easy Aerial, a drone maker, has closed a $20 million Series A round led by Insight Partners.",
+    "companies": [
+      "Easy Aerial",
+      "Insight Partners"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "funding"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVRhelVWcmJjMFFYWXNxTW1jNDJvT3hUYTgxUGd0elJxa1ZrU05LRzhraExONFFxSEtjWFV6ejc4ZnBqTXVBV1ZRZTZqREZhUVVtXzNVY3NkckRmWXBfVGpYZVFEakhwZlpIejhlMzdmVHdzTDdzRjI0STAtdUZYd1RuUG5SRU0yaTZmb19Ha1hrejVzZW1UZ2ZfM3lwVms5V0xmVFo3X1NjZGRIQzJvYXdleHd4R1VwamxMbDVsbUE4UzFGOVNFTVd5eldKUXc?oc=5",
+    "title": "SiMa.ai and ARK Electronics Partner to Accelerate Intelligent, Autonomous Drones",
+    "source": "PR Newswire",
+    "published": "Mon, 31 Aug 2026 21:00:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "SiMa.ai and ARK Electronics announced a partnership to develop intelligent, autonomous drone technology.",
+    "companies": [
+      "SiMa.ai",
+      "ARK Electronics"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone intelligence"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWndzek85R3luU1Y2VjExYXB4aktJNVd3TVdFRTlXNi1YcWJaTndBeUlBTlZETFN0a1VHakl0X1d6Wk9Tc2t3elFPMy16WGozUFVLMmFxcE8tbF8zS29qVko4NVNOWUp1dnliN0djQ2FqZnhDX3p1aWM4eHZSRG9wTVkyRFJtSnJIRjZ6YXFhbUJTZVdRTjhKRHNIOUtleEQyMlFDMk9vR25SMzJXZzR6NFI1bHc5QUNQZTNZcldWRVluVlZneExRVEdLbkh3MENtNmxKNDhLbDZLUG5BTGNIS0hQVkhYM1psXzI0bg?oc=5",
+    "title": "InDro Robotics selected as qualified supplier under Canada’s Defence Drone Initiative Marketplace",
+    "source": "Canadian Manufacturing",
+    "published": "Tue, 01 Sep 2026 15:10:49 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "InDro Robotics has won qualification as a supplier on Canada's new Defence Drone Initiative Marketplace, opening access to government contracts.",
+    "companies": [
+      "InDro Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "defense",
+      "government procurement"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdldFZDMxQ1NBWVdNaXlRWm5aaklOZUlqNGFuUERGT0g2QjdVaUV3c3c1d3phdXpfYUlwdU1reTNwNklHT0s5T010cFFUeTN4VVFhWWp3MHRRTzVtTlFMRW9PVDBETTl3WFJWU0szNjBpcUpTYmNVWW8zRUt2WmhCUlBKakVrQWhWUXdwblJR?oc=5",
+    "title": "A Brain Implant in Korea Was Just Controlled From The US",
+    "source": "ScienceAlert",
+    "published": "Tue, 01 Sep 2026 15:02:09 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "KAIST researchers led by Jae-Woong Jeong remotely controlled a wireless brain implant in South Korea from Chicago, demonstrating that scientists could conduct neuroscience experiments across continents without disrupting animal behavior.",
+    "companies": [
+      "KAIST",
+      "Yonsei University"
+    ],
+    "people": [
+      "Jae-Woong Jeong"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "remote control",
+      "telemedicine"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlFZaUNxSzRzNWpXa2w1X043WFRBREZQU3ZaY1BHd1J3UUYzSm5tSDlYSDNkRmVBbC0xczNva05NYXZFUS1QbWN4QmktSjNyWW9JV21vSXBGRTFrM29nbGxSdGxiV01LOElwMmZ3SVdrRExacTRKWllfbzRrTnZJOEc0MzNXamRiY3NzbF8wc3lfakZQYTlqSVVkUFU1UVdRdzl5Wkxoang?oc=5",
+    "title": "Paradromics Secures FDA Approval for Brain-Computer Interface Integration",
+    "source": "SynBioBeta",
+    "published": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Paradromics has won FDA approval to begin human trials of its high-bandwidth brain-computer interface, clearing the way to test a system designed to restore communication in paralyzed patients.",
+    "companies": [
+      "Paradromics"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "FDA approval",
+      "neural integration",
+      "paralysis"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUZ1RTZCcXpvRGdaTWV6Tkw2bW5VczZJMy1RYTJybjJ3NFhjYUxxMXhXczBBb3hkZnBZbmNpZkF2cGtkUVRRckUzYTZZRVR4NzVuNXZmN0xSSEZEcWN0VzBGQ09wNkVudzVIUjAtd3hMc3FXdkhyemN0U2x4QVc4aGZrc1FDMzJ5UVN5ZnNjSTNYZEk?oc=5",
+    "title": "Her Brain Implant Ran Out of Charge in Public, and Her Right Arm Rose into a Salute She Could Not Lower",
+    "source": "Medical Daily",
+    "published": "Tue, 01 Sep 2026 12:00:22 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "A woman's brain implant controlling her movement disorder failed in public at Hannover Medical School, leaving her arm frozen in a gesture illegal in Germany.",
+    "companies": [
+      "Hannover Medical School"
+    ],
+    "people": [
+      "Ryan Archer"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "BCI safety",
+      "implant battery",
+      "neural control"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMURNWlZRX3Y3SE9PTGQ2c0JWd05uTEZEWElQdEFtRjJaSHdkek1ySk9WN2NtT2FNbV9keWNsekpmRTczLVRQUFM1Z1N1cTFvTmVOSDJ6enhlSWZWeWJRY19ab1l5Rnl1QUY1UXVXYTFYdEFkWUFIemRGU1c4d1dpcUJOMjNmYzJ2MDgtbVdXckhSZGhEOVE?oc=5",
+    "title": "Neuralink's valuation has surged in just over a year. Here's what's driving the frenzy.",
+    "source": "Business Insider",
+    "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Neuralink's valuation has climbed sharply, but the article offers analysis rather than reporting a concrete clinical or technical milestone.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "valuation"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaklick82Q1VMbk04Wk9PVHgyaGFua1pQSWJUbVFRQ0U0dzN4Y1VmSHRHajhJZTlWSVpJZHNiMkQ3eWNPZ2dBYjBkYzVwMTlKX1B4OW1sUDFjdVhqaGNQRzJiZ0N3MVZRX0ZNQmxPZE5pS0RGRjg2XzA0ZGZFVlQ1MGFMRHVrVjFCY1g3SmVxcVRvd0FLWWpPd2x4NlJ6S1F4U2ROTnVRS01FODlFcDk4MG40MTZtMV9qcWh0S21wLUxjc1pSal91RHlwWE5VSXdjLVQ0?oc=5",
+    "title": "Neuralink's Halo Draws Scrutiny — and Rivals",
+    "source": "South China Morning Post",
+    "published": "Wed, 26 Aug 2026 08:00:08 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Neuralink's valuation has ballooned over the past year, even as the company has yet to report a fresh clinical or technical milestone to justify the frenzy. Meanwhile, the competitive ground is shifting beneath it: China is drafting national standards for brain-computer interfaces as domestic firms race to challenge Elon Musk's implant, and a separate startup is betting that a chip-free, tongue-based interface could sidestep the whole brain-surgery premise altogether. The through-line is a market suddenly crowded with alternatives to the one name everyone still uses as shorthand for the category.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implants",
+      "standards",
+      "China",
+      "neurotechnology",
+      "brain-computer interfaces",
+      "valuation",
+      "alternative interfaces",
+      "tongue-based control"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaklick82Q1VMbk04Wk9PVHgyaGFua1pQSWJUbVFRQ0U0dzN4Y1VmSHRHajhJZTlWSVpJZHNiMkQ3eWNPZ2dBYjBkYzVwMTlKX1B4OW1sUDFjdVhqaGNQRzJiZ0N3MVZRX0ZNQmxPZE5pS0RGRjg2XzA0ZGZFVlQ1MGFMRHVrVjFCY1g3SmVxcVRvd0FLWWpPd2x4NlJ6S1F4U2ROTnVRS01FODlFcDk4MG40MTZtMV9qcWh0S21wLUxjc1pSal91RHlwWE5VSXdjLVQ0?oc=5",
+        "title": "Neuralink's Halo Draws Scrutiny — and Rivals",
+        "source": "South China Morning Post"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMURNWlZRX3Y3SE9PTGQ2c0JWd05uTEZEWElQdEFtRjJaSHdkek1ySk9WN2NtT2FNbV9keWNsekpmRTczLVRQUFM1Z1N1cTFvTmVOSDJ6enhlSWZWeWJRY19ab1l5Rnl1QUY1UXVXYTFYdEFkWUFIemRGU1c4d1dpcUJOMjNmYzJ2MDgtbVdXckhSZGhEOVE?oc=5",
+        "title": "Neuralink's valuation has surged in just over a year. Here's what's driving the frenzy.",
+        "source": "Business Insider"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2tXYzZsMmItTGdqY0Z1SlFKa2RHNE9OeXdSVmJxN3F2c0NvbDZRa3hfZ1ZpTXFoZVQ1cFF3ZG5sTHM0LTBBS0JLcktfV1pNZ1kyYk5haDVHclJycEJiZEthdDZRTXU5S2p3NkU4Z2h0b2tzbXAtd2lueUtiOHUyMmt3bFFsMGs?oc=5",
+        "title": "Forget Neuralink. This startup thinks your tongue is the better interface",
+        "source": "Fast Company"
+      }
+    ],
+    "body": "<p>Neuralink has not implanted a new patient, published a fresh peer-reviewed result, or announced a device upgrade in months. What it has done is get more expensive. The company's valuation has climbed sharply over the past year, according to Business Insider's reporting, in a run-up that owes more to Elon Musk's gravitational pull and investor appetite for anything adjacent to him than to any concrete clinical or technical milestone the company has disclosed. That gap — between the hype and the data — is starting to look less like a quirk and more like a vulnerability, just as the company's competitive position gets more crowded.</p>\n\n<p>In China, regulators are moving to draft national standards for brain-computer interfaces, according to the South China Morning Post, a bureaucratic step that reads as a starting gun. Domestic firms are lining up to build implants that compete directly with Neuralink's, and a national standard is the kind of thing that tends to accelerate a market rather than slow it down — it tells manufacturers, hospitals, and investors that the state has decided this is a category worth organizing around. For a field that has largely been defined by one Silicon Valley company's press releases, the emergence of a state-backed Chinese effort changes the shape of the conversation considerably.</p>\n\n<p>Then there is the stranger challenge, the one that doesn't require a neurosurgeon at all. A startup profiled by Fast Company is wagering that the tongue — dense with nerve endings, easy to access, in no need of a craniotomy — could serve as a viable interface between brain and machine, sidestepping the entire premise that you need a chip under the skull to read intent. It's a smaller, weirder bet than Neuralink's, but it points at the same insight the Chinese standards effort does: the \"brain-computer interface\" category is bigger than one company's surgical implant, and plenty of engineers think the hard problem can be solved without opening anyone's head.</p>\n\n<p>None of this means Neuralink is in trouble, exactly. It remains the name most people reach for when they try to describe what a brain-computer interface even is, and that kind of brand recognition is worth something no standard or startup can easily replicate. But markets built on one company's mystique are fragile in a specific way: they need periodic proof. Neuralink's rivals are betting that if the proof doesn't come — another implant, another study, another public demonstration — the frenzy around its valuation will look, in hindsight, less like conviction and more like faith. For patients waiting on the promise of restored movement or speech, and for an industry trying to figure out which approach actually scales, that's not an academic distinction. It's the difference between a technology and a story.</p>",
+    "slug": "neuralink-s-halo-draws-scrutiny-and-rivals-9d3c87"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2tXYzZsMmItTGdqY0Z1SlFKa2RHNE9OeXdSVmJxN3F2c0NvbDZRa3hfZ1ZpTXFoZVQ1cFF3ZG5sTHM0LTBBS0JLcktfV1pNZ1kyYk5haDVHclJycEJiZEthdDZRTXU5S2p3NkU4Z2h0b2tzbXAtd2lueUtiOHUyMmt3bFFsMGs?oc=5",
+    "title": "Forget Neuralink. This startup thinks your tongue is the better interface",
+    "source": "Fast Company",
+    "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Fast Company compares a tongue-based interface startup to Neuralink as an alternative brain-computer interface approach.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "alternative interfaces",
+      "tongue-based control"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/2026/09/ride-in-denver-san-diego-tampa",
+    "title": "Welcoming our first riders in Denver, San Diego, and Tampa",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo begins offering driverless rides to the public in Denver, San Diego, and Tampa, expanding to 14 cities where it operates the service.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Suzanne Philion",
+      "Jared Polis",
+      "Jane Castor"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "public deployment"
+    ],
+    "first_seen": "2026-09-01T18:07:10",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
