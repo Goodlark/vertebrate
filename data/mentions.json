@@ -43109,7 +43109,7 @@
     "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -43418,7 +43418,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -43613,7 +43613,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -43985,7 +43985,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44715,7 +44715,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44906,7 +44906,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45353,7 +45353,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46180,7 +46180,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46258,7 +46258,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -46362,7 +46362,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -46643,7 +46643,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -46857,7 +46857,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -47186,6 +47186,1446 @@
       "dispatch integration"
     ],
     "first_seen": "2026-09-03T18:18:40",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFNDMzBQUVBET3g5djczcm9NNHRabWNyY0dsQUlqOWZPWm9YbXRERWp6Q0R4S1EzUW9LUl8wRjZYbnNqMjBWMmRjc0NISmxOeTBVcWwwWnZRUmZ2bU01VTFkTkVOVW9DVDhQX3FiVTdkaElhSkJiSWg2MEczbzNwRlV5b0MzUDhIazZ2dzlTRkhOdUhCYkpLMXhVYlV1NnNEdU5RdjExSmZMRjBhRE50djdR?oc=5",
+    "title": "OpenAI Is Making A Humanoid Robot. Sam Altman Says Everyone Should Have One",
+    "source": "Forbes",
+    "published": "Thu, 03 Sep 2026 20:00:54 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "OpenAI is developing a humanoid robot, with Sam Altman projecting a future where households possess one as a standard utility.",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON1lPcFFyRzJJamtmSWEwREJGVlk2OTJncHBub3JwdVh4QWNnMWlXckxLWUh5SE9abnV4VDRJMFUySUxNNWFYdWE0UUlTVWM4eG95WUFhd0JTM3lmem9GMmg3Y3FFRnNwU1hwTldNTzhMVWRIenNvNlVzSXFuUGl0UjBLUXJJZlk?oc=5",
+    "title": "Humanoid Robots and China’s Vision of the Future",
+    "source": "thediplomat.com",
+    "published": "Fri, 04 Sep 2026 16:45:51 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China's humanoid robots, showcased at Beijing's World Games, reveal how geopolitical rivalry shapes how we interpret technological futures.",
+    "companies": [
+      "Baidu"
+    ],
+    "people": [
+      "Leonie Spangenberg"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China",
+      "industrial policy"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5telU1c21MQUhPTUFpQWMtMTB1eTBKaTI0M1R4X0RuSEpRVGVWdkRud3Z0OEItUGdrYi1VdVIwWlMtZzh1MGRpOEQ0MEx3dUtSTDM1cDVIQUlBSDdTTUdmZERtWUdIZGU3RWRKZklB?oc=5",
+    "title": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
+    "source": "IEEE Spectrum",
+    "published": "Fri, 04 Sep 2026 16:04:38 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Agility Robotics demonstrates humanoid robots capable of hauling couches while maintaining stable payloads, advancing practical applications for bipedal machines.",
+    "companies": [
+      "Agility Robotics",
+      "Unitree",
+      "SteadyTray",
+      "Figure",
+      "RAI Institute",
+      "DARPA",
+      "Carnegie Mellon University",
+      "North Carolina State University"
+    ],
+    "people": [
+      "Evan Ackerman"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manipulation",
+      "load handling"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEgzQVhZN3EwcDlTVHRoaDVGcjh5b3lCLWNLZEdmTTF1THhwZVFmRXlwZmduWEM0NGdvSmNlZFJSdVpiamR2VkEyaGtiZGhqWUpVZXZhbHZlNVRic2NvaXNjSkdkN3pnSTlQSUhEX3ZCVkhla1RzWHpFYnlBU0liNHhSYlZEY0FQejh5VjJR?oc=5",
+    "title": "Nscale and Figure partner on humanoid robot AI computing",
+    "source": "Engineering.com",
+    "published": "Fri, 04 Sep 2026 11:29:21 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Figure and Nscale announced a partnership to develop AI computing systems for humanoid robots.",
+    "companies": [
+      "Figure",
+      "Nscale"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01cEFRWHlwbkpPRzdhZHZZMWNwTS16OUIyOEpqNEtTdjhxWEJKUkZ2Z3FrTnlIc0VSMjd1cUtlcmhDVXJWOWFTSHotT0RQMlh4bDRvS2J0ei0tbHdOVmc?oc=5",
+    "title": "AGIBOT Showcases Embodied AI Robots in Action at IFA 2026",
+    "source": "agibot.com",
+    "published": "Fri, 04 Sep 2026 16:12:47 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AGIBOT displayed its embodied AI robots at IFA 2026, demonstrating physical systems designed to operate in real-world environments.",
+    "companies": [
+      "AGIBOT"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kZFdrRmxDY0lsWlY3akJaZHh3X0Z0MUJRcGk5V2VHNjZKRXM5Q012U2YyN18yR0pvZ05tSDdlcjJLQ2t6MEt5bkJrQVZFam9taEZpMFdJdlRsaHNveHdPRUc3a0RMQ0dRT3c?oc=5",
+    "title": "Why Is IRON So Human-Like?",
+    "source": "XPENG",
+    "published": "Fri, 04 Sep 2026 16:25:39 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "XPENG's humanoid robot IRON mimics human movement through a design framework borrowed from electric vehicles, capturing real gait data to achieve a natural catwalk.",
+    "companies": [
+      "XPENG"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot design"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92UWtkZ21zUEc5SllBSWJUd2thWHViYmY4STdEcFdQeHY2dnpQSnUtMHlHVWRCM2NERkZRcFJCQ1NJOVdleW9VbmU4UUUzNnBMRXkzcFpPR29SVU40alB1WXBacDNpYnA5U0lvd2dEbkVNYWJXN2fSAXtBVV95cUxQaGMwbE9aRGQ1UEpVbkFUTlZBbjU4NnU1RlQ0LWhodmZ0MWJjdU9TeVlZMmRuTDJtd1RRX3RmSWZPb1FsMkZESWJ1MXJ6UGphdkI0RUxVWGF1bDlqbU9SZFlBWWo3S0oxLXM4blRoTkVKeF95Rkppa1FkSjA?oc=5",
+    "title": "The biggest fails from the 2026 World Humanoid Robot Games",
+    "source": "KTLA",
+    "published": "Thu, 03 Sep 2026 18:17:59 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "KTLA runs highlight footage of robot mishaps from the 2026 World Humanoid Robot Games.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTjc0QTY5c1hVMXpJaVpqQ0Q2bWk3Ti00d1ctdmQzWDJHUU14WExnZ0dBdGRqYXZKYXZtRDFqSmJPVFpvdnNHQjl0d2hSUjR0WXFuaDRfcTllNHMwemtBQWwzSk42NnN0blN5ek9aVGFfQ3VXa2QzcExCaVNDM3lfT0FQOHViM2gwWkxtUUcyR0k3b3BMMk5tc2pTdDF4QmlSVl9zOEZ0QUprZkxpWjB4R2FUbVBkQjk1Y0k5RWxjTDRCNlBpcGM2WmNiNzNBSmExLW1SSjctUFRGdDRvR1U3d0xjYlJUa2FLNWVseXFxM1hQazFyVVJXWi1DZ1pnUV9NdHR2eEJZZ0N0WGhGWVE?oc=5",
+    "title": "Humanoid robot brings music and connection to Eskaton residents with dementia | Champions of Hope",
+    "source": "ABC10",
+    "published": "Fri, 04 Sep 2026 01:31:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Eskaton deployed a humanoid robot in its senior care facilities to provide music and social engagement for residents with dementia.",
+    "companies": [
+      "Eskaton"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "elder care",
+      "social robotics"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRUlsNHN2RWE0N3M2QTlXclVLcW9hRTlFRTFEWEtpSnVvLW5qeGlaZ1lYU3dHdlpvUVpiZktQRk43V21acjNxZ3puM3lhT3BGZ2lMaHQxLURZT1prLTdZV3BMY1AzSmMyUDhFbDFTdGV1cHIybUUwTDBSWG01YVdUV1ZuemQ2SHV1emJIRWhaZnpnNEktcHA3ZENSTmFkM0tsTG5uOUlIaWMwMXFDUldyMVRuWjlHM2lxVHZVOUN1c2I3aXpDbjhKYnZ1cUYzNzUweVE?oc=5",
+    "title": "Unitree Humanoid Robots Hacked From 30 Meters; EU Buyers at IFA Face No Import Restriction",
+    "source": "Tech Times",
+    "published": "Fri, 04 Sep 2026 15:13:01 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Unitree's humanoid robots were remotely hacked from 30 meters away at Berlin's IFA trade show, exposing a significant security vulnerability in physical AI systems sold to European buyers.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzJaSjg2U3NvVmJiR1BGVHNJWE1LeU1yNUNnWXp2TVJzUFk5UGlQdmRSXy1DeDdONGN1NHY5S3BWcDQtTE1wejFVS0V1SmgyUGVDZzAxZ1owTFIzeFZZdW9naGhTWGtMeUFaUVd3dmhSS1F2U2llZ3BHczlILXB5dVlmTW55Q1dkcDgzZ3Rn?oc=5",
+    "title": "US robotics firm secures 100,000 GPUs to train next generation of humanoid robots",
+    "source": "Interesting Engineering",
+    "published": "Fri, 04 Sep 2026 11:47:00 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "A US robotics firm has secured 100,000 GPUs to train its next-generation humanoid robots, a substantial computational commitment signaling serious engineering ambitions.",
+    "companies": [
+      "US robotics firm"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "GPU infrastructure",
+      "robot training"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5",
+    "title": "China’s real robot revolution is not about humanoids",
+    "source": "Financial Times",
+    "published": "Tue, 01 Sep 2026 23:01:03 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China's robot revolution focuses on industrial automation and manufacturing efficiency rather than humanoid machines.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "industrial automation",
+      "robotics",
+      "China",
+      "humanoids"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNaF9tWFlhRnZiSElZVTdBTkFma2xQLV9CVUNGUWhfSDFWbC1oS0FaNThuYXlLTXl2RGFoaFRaRlY5SXNqaF8tSzczR2M1dTdRUjJVdG00MmtROEszYnRLUWV4Xy10ODd2NEhEczVnTFRkUUV1UWlwMGNJSnBJbm9EOHNvaXlwcG9pRU13NTRRdmw3UjlJaW90MldNd1dTaVlWSEpzLWN5SDFkNkdKeVliTEFvcmRwRHEtN0dyYmh6V3dRMHdGdFBNSG1zd0xDOVN3N0xxcXROdkR2aktUM3ItaXBmY041NFJJREMxeG9XYWNNQ3Rsak53YktPMmdPNzVMMGM0RnJhSV9YWDdvZ0l1ZEdEeVF4SjJsWmR0TDF6OTVvSEltczNOYWRJUlpZSGs?oc=5",
+    "title": "Could a humanoid robot help people with dementia? UC Davis researchers are studying it",
+    "source": "ABC10",
+    "published": "Thu, 03 Sep 2026 23:04:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "UC Davis researchers are testing whether humanoid robots can assist people with dementia, exploring a novel application of physical AI in eldercare.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "eldercare",
+      "dementia",
+      "robotics research"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbmNHRm80d1pWcmhjZ1NrOUhRVExUcGtHSU5tOVRlamhzN05fdVQxWlNTZW5QTG1PTEpxbmhPTndWcW5mWUpCalJtcUpHVUFQcmNIYmozc1hfUGs0cTkxRllKXzZyLVBDa3RpXzh3dGlRcDlxeDdNa2hLQW1GaWtxRDNmaVV6dU9qdENvZVZRdC1zYno5VGZTVFEzWlNZcWExdzdkc3M2a1JmejAzTkpYMm1WRFBTaWgzc2Zwa1dsek1vMjVlejVuZHAwdHJZajBHcTZ1UnFGNVpzXzFPRDdpQ01SbDZXVjg0V09GQTBnMXdMLTZSaTFJbUFpc1pCLWVSd1Q1MjhmbFA?oc=5",
+    "title": "Wandercraft Secures 12 Calvin-40 Customers as It Accelerates Commercial Dominance in Industrial Humanoids",
+    "source": "globenewswire.com",
+    "published": "Fri, 04 Sep 2026 13:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Wandercraft has signed twelve customers for its Calvin-40 industrial humanoid robot, marking its first major commercial deployment push.",
+    "companies": [
+      "Wandercraft"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "industrial robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQzlhejV4a1ZlT01lQmtUUlEwMG5oRDZMclZKa1FHdUNaOFBkWFFUa1NkMkdxTl9tYVM5M2pkWFZrWlZxNGdpVTg3VnM5V1dMd1JtUXNJeERSTGFFM2FGenBNT2hLUFhGOVQ1YVc4RDNYUzBwZkFyMUdTbEJRaENXeFR4TFJCbXp1NmJSR2ZjMEVwcWhxX3hOOUd6b2JNLU9aS1JoNGtXZ3czaDZWOE9sNDVsb0ZxckQ0UkpUNHAwMjBtZUxhYTU1bS1B?oc=5",
+    "title": "MagicLab Humanoid Robots Reach IFA 2026: VLA Models Deployed, Spy Law Applies",
+    "source": "Tech Times",
+    "published": "Fri, 04 Sep 2026 15:11:55 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "MagicLab is displaying humanoid robots equipped with vision-language models at IFA 2026, raising questions about surveillance implications.",
+    "companies": [
+      "MagicLab"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "vision-language models",
+      "deployment"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmtOa3E1eVZxWmlvUHp3eUM5OE44YW1TMWNwMldpUnpyMVZMclEzQkxuV0dYTnBSWl9VZnB5aHFxVS0xcXNURjhKZFNDaTZvSWZXQUNKdTZ4M0s2TmVRTGhqelg1QUFpTnBqSGhUaVlGbUR4eHZUcFVGM2wtX0w0RFk5bXY5VHFkRHZ5Snk3cUllVTF1SEpTMWZDNTZrNzlveHE4eHRjNWwtclBTR2hvSDN6eXdha2JWRmxmMg?oc=5",
+    "title": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service",
+    "source": "Reuters",
+    "published": "Fri, 04 Sep 2026 16:41:08 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla has begun deploying its Cybercab robotaxi service, with Elon Musk testing the regulatory boundaries of driverless vehicle operations.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUZrTXBINDdfdFV1Nm0zN0NobTd6Vm1RYmJUa21lT3hJYkk1YXVRSjhvRTY4bkswRDZTQ2pOS0FIYWJwS3RTUlBPc09zQTBOYzNVWTJGa3M5OExQT0haTlVtdndFYjZ5UC0xQUpXY1plcElxMHhSMnRYdkVxT1JoVS1SX3RBTldzM0N3QkNERkFya0dSYVpGdGVPckNROGtLQ194dlM3dTQxTjJOUHI0bg?oc=5",
+    "title": "Tesla Cybercabs Hit Austin Streets in Expansion of Robotaxi Service",
+    "source": "WSJ",
+    "published": "Thu, 03 Sep 2026 23:31:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is expanding its Cybercab robotaxi service to Austin, moving its driverless ambitions beyond San Francisco.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmM3b1E3QnhRRU5HVER2bUtXZldqd1dfakRzd081ZjJ5VmdEMGE0dERfazV5eU1Dc0thNWdHWlV0WFZPMkhNWkxRM3c2TVhoaC1nMm5WUHJIWUh2Ti0wMTR0cE1Qb2dRamQ2VU1SYnBGVks4VTJlTkZyN3ZBLXZ3b3hObmE0RzVHMG9VcmoyWWw?oc=5",
+    "title": "Tesla’s Cybercab Is Finally Giving Paid Robotaxi Rides. Here’s What It Can And Can’t Do",
+    "source": "insideevs.com",
+    "published": "Fri, 04 Sep 2026 07:18:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla has begun offering paid robotaxi rides in its Cybercab, marking the company's first commercial deployment of autonomous taxi service.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFZlU0FDMVdCbEIxWWFOMk8zVzdNbGpLZXlvMHkzS3Z6dmZtVWpJQTNTNERvSFQxV3Q5a0hqUV9hamxFLUk0RXF0VDYtUjBhbEYzT2cxWGRJSTNEWGc4SlJ2NURfcEJKdjZidklkM1B5d1NFTnRMaFZEZmdVWlFGWFpPeVcyX25E?oc=5",
+    "title": "Tesla Officially Launches Cybercab Robotaxis; Regulator 'Evaluating'",
+    "source": "Investor's Business Daily",
+    "published": "Fri, 04 Sep 2026 11:51:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla has officially launched its Cybercab robotaxi service, though regulators are still in evaluation mode on the deployment.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzh4UW1nWmE5SEZUT3NpOVJISWpBb3JVUGVJal9qbWFjamRncGViZ1VycjdCYWNhRERSWGlDNndOZVQzelFESlNKaFJHX1E4LTlEYmdjMjNBQlpxYVN3Y2xyalB0aWRPd0t6NDdMaFJlMGNRZWZqZ1owampQS3VOUQ?oc=5",
+    "title": "Trump administration opens probe into Tesla’s self-driving Cybercab",
+    "source": "Politico",
+    "published": "Fri, 04 Sep 2026 14:17:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Trump administration has opened a federal investigation into Tesla's Cybercab autonomous vehicle, signaling regulatory scrutiny of the company's self-driving ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "regulation"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYi1rdTRMVElSQnRaaDZIMTN1ajk3VkFZbGUwZXphZURGTlJrWEN5NGRDWlhKM1lsOXNKa0JOS2M3c0p1RktCbWdtTjQ4Tm90SFdDdzdZRVdRb0NvWEZzelczU0dxU2pnYzZMZHBZdDJ6c2tMVXhYU0VfRklMOVJLanZhY0pJb3RtTFpmeEh5QQ?oc=5",
+    "title": "Tesla debuts the robotaxi of its anti-Waymo dreams",
+    "source": "Morning Brew",
+    "published": "Fri, 04 Sep 2026 13:06:53 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla unveiled its long-promised robotaxi, positioning itself as a lower-cost alternative to Waymo's autonomous vehicle approach.",
+    "companies": [
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT01kRkRDWHRTWjh2TzNUUm9rUmhtQTZzdEdVLV9rTzRpb25fOUtGUS05VVJqeEs3dHVFZDI0ZmhEbnVZZEk2b2k4LWZEX2VTWjM5UUJKY3hodWlyZ29uS3BURjBqWkxncEd0ZmJONU5GN3RYNkpoN25MX2JwR0ZqYXBFbk95N1Fi?oc=5",
+    "title": "Tesla keeps hyping robotaxis as its future. But it’s trailing rival Waymo in a field yet to prove profitable",
+    "source": "cnn.com",
+    "published": "Thu, 03 Sep 2026 11:00:29 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla's robotaxi ambitions face a credibility gap as Waymo pulls ahead in a market that hasn't yet demonstrated viability.",
+    "companies": [
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjVxYkxRY2s4RkpOdkhILVd6WkROZlBSVkdRNXg2aEFwWEpWRXpfUXNXNlUwc0xPQ3lfR1U1cFd1NHg2X1JOQ1BOVl9fLU0xSFVNZE8wVmJrNTZ0QTNrbWVOQVJWcmVPYl9JcXdyX3VXTDItcF9EaFR4NURrbGhKMVVqTkdFWmV1UlVtc2tFTG0xbFRyTnJCZG1zRUZHRkRMZGJFUjhSb0htUElwZ29WWFNKaUg3Zm9va0QtNS1R?oc=5",
+    "title": "Zoox Robotaxi Goes To Airport In Las Vegas; Here’s How It Should Work",
+    "source": "Forbes",
+    "published": "Fri, 04 Sep 2026 16:30:54 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Zoox is operating its driverless robotaxi at Harry Reid International Airport in Las Vegas, expanding its autonomous ride-hailing service beyond the streets of San Francisco and Las Vegas where it has been testing.",
+    "companies": [
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous ride-hailing",
+      "airport deployment"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWRwdnFWTm5HYkVLRUJLTDAtZjFuYzRuZmRFWGFrU1JTak9HMzZJODczMkxJZWxWWlA0NjVZU2t6RG5VejlEOEN0NHpFRXQ3WjlHbkViOXBhMWxUamROcURKaUJ4ZmdhYmNYV3l2eFFsamJmX0cwSGJvVG96c2Z0WnpQS1RfYXQ4RXdJOXZjeVJMb1RGVnJaNGhsa01DbXZsTVE?oc=5",
+    "title": "System helps humans predict when self-driving cars will make mistakes",
+    "source": "MIT News",
+    "published": "Wed, 02 Sep 2026 15:00:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "MIT and Motional developed CW-Net, a system that translates autonomous vehicles' opaque decision-making into human-readable explanations, helping safety drivers anticipate mistakes.",
+    "companies": [
+      "MIT",
+      "Motional",
+      "J.P. Morgan Chase"
+    ],
+    "people": [
+      "Eoin Kenny",
+      "Julie Shah",
+      "Momchil Tomov",
+      "Laura Major"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "prediction",
+      "research"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbncyWjc3WUN2cEJGNXA3bEtuUG5TT2xQeGdWUWxrXzAwSk5DUTNhWGR5Uk9Od0lxSlBSY3ZXa0l6TGZMNjlmU1I4WDl6ejRpdnp4dnRyUlFFYmVkQWswempJYU1sbXVzODRfREdGRENXcFFEN2dTcXJEQ2NZbnFXdDlLaVN2WUtCRWhUcF9JRFNhNEJqa3dldkwtblVxV1RCNktKNS1CcmxQdmoyUzhJaG1DMzN5dmV3cEo1dXpOVEFnZ0E?oc=5",
+    "title": "U.S. DOT’s New Self-Driving Car Plan Promises National Standards for Autonomous Vehicles",
+    "source": "Road & Track",
+    "published": "Fri, 04 Sep 2026 16:59:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The U.S. Department of Transportation unveiled a national strategy for self-driving cars through 2030, though the actual safety standards remain largely unwritten.",
+    "companies": [
+      "U.S. Department of Transportation",
+      "Tesla",
+      "Zoox"
+    ],
+    "people": [
+      "Stephen Rivers"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "safety standards"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWThpWlA1bFd6aEpmSEJsS3RhZGc4aUx1S1hlaTRjNzFSaXgyRHRPZDRGYVo4VmVwNXVIX0NRZUFOQVJqSFAyUks0ZGZNbERObWlPVHBPdmFUZlJoYTNZbmhyMXVIZmMtYVlwZlFXLTA4WGZjc3Y0NzViVnZ3UUl2cHlVM182VDQ?oc=5",
+    "title": "'A Storm of Cybercabs': Musk launches steering-wheel-free taxis even as 70% of Americans say they’re uncomfortable with driverless cars",
+    "source": "Fortune",
+    "published": "Fri, 04 Sep 2026 14:48:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Elon Musk launched Tesla's Cybercab, a steering-wheel-free taxi, even as polling shows most Americans remain uneasy about driverless vehicles.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "self-driving"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGhPczlxOGs3SW55bHBHdE90MmMzWm4xQng1TlN4UnVCQXhCU2R2anZhSjFFX1NKaFVzVWl6Z201VnRma3R0dFFsXzFIeUJET0ZTLUFhXzRUa3ppMzNCZDZFX0k2dnlhYkxGQlBrR181WWNTRDR4Z0dybFRFZjRNTTNZMGhqaUdmMGpDaVNxNFJiQVdUQ0lxQUZ1NmVEQ045?oc=5",
+    "title": "Tesla Launches Steering-Wheel-Free Cybercab Robotaxi in Austin",
+    "source": "Business Insider",
+    "published": "Fri, 04 Sep 2026 04:02:30 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla unveiled its Cybercab robotaxi, a steering-wheel-free vehicle designed for autonomous ride-hailing, in Austin.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTd1aDBCN002bjgwMmVOMDhDeUdjOHF3ZV96ODlUbWNMYUg3Zzl1VUE4SDZPTUdvREVlTHpYalE0NXJQN0l2UzJ5dktSN1ExbW1uQTI0ZjUzRlJCTVF5WXJmZVJpLXpqakZpZFVLUE4xNVQ1NlpxNHd3TE1TZk9PX1c5UHdIaGxFbmpQdzctcklqSkpRLXZieE9GbDJjRkNVT0lpcFhQWVdkZVV6QUVz?oc=5",
+    "title": "Tesla’s Cybercab robotaxi has hit the streets. Regulators have questions.",
+    "source": "The Washington Post",
+    "published": "Fri, 04 Sep 2026 16:32:22 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla has deployed its Cybercab robotaxi to public roads, though regulators are already scrutinizing the vehicle's readiness and safety protocols.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle",
+      "regulation"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUxlbXFGemU5ZWJiN1dfZUxMZzRRaURoLV9aNncybjB2NzhtWmxhTlVodVFhT25yMTR0YXB1SFE1cmxqNnhiSnBjVjlKcXlfRTFmdVBqOTNTS1N5em9CN3kyLTczNzl5N1RTRFhzSFdRLXMxVmRqanpjZDJDZUJlM001REpDQdIBiwFBVV95cUxQTjhEbEwtbmwzWUJXTTVrc0FvNEQ3UnpyMGpPZVJraFdGV0ZtMko1Ty1GUjVQamJNbVRlbG5YQWt4VEJBbnRRTEM5ZHVzbTU2cmF6ejRIeC1naER0Y0dLT2NwYVY4bmU2VzNOTXpRYzhDQXd4WU9wZXNWNnVSWXFjLTRGMklhUmM5YXZR?oc=5",
+    "title": "Taking a ride in a Waymo taxi",
+    "source": "FOX 13 Tampa Bay",
+    "published": "Fri, 04 Sep 2026 03:22:03 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A FOX 13 reporter takes a test ride in a Waymo autonomous taxi, documenting the experience rather than reporting a new deployment or service launch.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "ride experience"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1BDLXlFZnpfbi1xdXVXSDEwNDloU2EwOTA3N0hISXhnaWlmS2dBcDhGa3dzS0VLZFhSWUU2MnlJeTdtMGVLUlhvazVjZnZxTGhVR3ltQ2NBQkdZaW1EQ0RpY3dsMHZWLWRTYlM3UEpGdG1tdHVYM2xHT1B3MGQyb25nOF9WcUJlWDdFVjc2OGhLTjBvMmo5bjJsSmtUMmF0YzBGWk8wcDVKd0p6NEE?oc=5",
+    "title": "Tesla opens search for Cybercab fleet sales, but FSD owners are still left out",
+    "source": "Electrek",
+    "published": "Fri, 04 Sep 2026 01:05:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla begins recruiting fleet buyers for its Cybercab robotaxi, excluding existing Full Self-Driving owners from the early sales opportunity.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous fleet"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpUFkyYzIta2dCYUg0NExmODlqZWxWMDlNXzhmUWE4VF9RVjRGdUtIeC1XVVh4S201TU8zbHBZeDViUmkxaGd1Yzl2R2p1WDR3QjNkMDROR242bnFHV1VuMkxsWnBEVVlOYW5PT2xEdDFwSVRER1k4cWRfREcxdw?oc=5",
+    "title": "Tesla Launches Its Self-Driving Cybercab Right On Time (Sort Of)",
+    "source": "bgr.com",
+    "published": "Fri, 04 Sep 2026 12:55:41 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla unveiled its Cybercab, a purpose-built autonomous vehicle, though the rollout timeline remains vague despite the company's repeated promises.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1lTUmxXTXlfNTFYbXEyc1F6bFRHRnpheHUxY3Z2cnh6dkZvbE9Vd0JNclZvT1VpbjZEbEo2Sjhka21FMWRISkNoU0RhQk1RZUcyMjBtam84bzl2TVhNekxNQlcxTk1fRGdSYkFPbE1tVUNPWEtCNWtYQWE4TkhsejE2WWlRTmVUcTN6VThIMjd3eXloZWthZkhnYjZxTXFFNm1TbWNuSVVTUUZTZUk4R1ZGNUhqUExBeGc?oc=5",
+    "title": "Tesla’s Launch Of Self-Driving Cybercab Rides Sparks Federal Probe",
+    "source": "Forbes",
+    "published": "Fri, 04 Sep 2026 15:12:04 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's Cybercab autonomous taxi service has drawn a federal investigation into its safety testing and regulatory compliance.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkpMRlVzckR2VmIwcGNCbzQ5b3Utak40cTBpUW01UGpFZG5odk9KUmZidVVqOER0MXdMWVpXa2pfZm9TeTVVQlo4RkZoMXk2RllrVHRJYzFhQndJSGZMb0haYWFINjZ4US1yLVZTVnBfbnczamE1NHJHc3RYN0ZTVk1zZEIyWEgwMHIyM3pCcE92WjZlSFY0UTNPU3pqUdIBowFBVV95cUxQaVRtLUhMY3VMWFFLNnNqXy11cVFDYTVqRWZMbG1reVJnMDRUMW9pX093RjROaWJMRWZyb19VNzlER2FnbVpxSmpLa0lPQzJYUWEtSTh1VUdNTzh1THV0ckhpRm5FZnd0TU1qNnJzaWt0b2F3UDNCUENTQW9icnlDNU9CS25RaUF4S05PbGw2X2lSQzdYSGRkd2pNNkhjMlJSalhJ?oc=5",
+    "title": "Waymo expands driverless robotaxi service to 3 major US cities",
+    "source": "foxbusiness.com",
+    "published": "Wed, 02 Sep 2026 21:48:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless robotaxi service into three new major U.S. cities, broadening the geographic footprint of its autonomous ride-hailing operation.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUVVNUEteHRfY1IybTd4ME1aOEZqVTJGTjYxSUcyNS0zRTUxMXZta2ZOMWF2UkQ2ZTZFc3RvZGxVX003TDhLWTBIOWxvczNwRTMyWEpzbFV4bm9JUTk4OUtYdzJucGpiR2ZsdXo4X2ZMdm90MGhOMHJVMjdycUEwUmZMLUstLV94UWxYa2tBd1RWajhTcDBLVTR1UWpieUdKVUUzV1NwdlI1WThRaHdMQzJrcU84aUczd1I3RVRTUUFNZlJoWWRrVTlUUlJDYmJpc0hibVR5ZnlaMkNERC1melRrTVI?oc=5",
+    "title": "Tesla's Cybercab Hits Austin Streets Amid Regulatory Scrutiny and Waymo Comparisons",
+    "source": "24/7 Wall St.",
+    "published": "Fri, 04 Sep 2026 13:06:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's driverless Cybercab is now running on Austin streets, but the launch is shadowed by regulators asking pointed questions about readiness and safety protocols. The company has also opened fleet sales to outside buyers—pointedly excluding its own Full Self-Driving customers—even as betting markets wager on a future SpaceX tie-up. All the while, critics note Tesla is still playing catch-up to Waymo in a robotaxi market that has yet to prove it can turn a profit.",
+    "companies": [
+      "Tesla",
+      "SpaceX",
+      "Waymo"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "autonomous vehicle",
+      "regulation",
+      "autonomous fleet"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUVVNUEteHRfY1IybTd4ME1aOEZqVTJGTjYxSUcyNS0zRTUxMXZta2ZOMWF2UkQ2ZTZFc3RvZGxVX003TDhLWTBIOWxvczNwRTMyWEpzbFV4bm9JUTk4OUtYdzJucGpiR2ZsdXo4X2ZMdm90MGhOMHJVMjdycUEwUmZMLUstLV94UWxYa2tBd1RWajhTcDBLVTR1UWpieUdKVUUzV1NwdlI1WThRaHdMQzJrcU84aUczd1I3RVRTUUFNZlJoWWRrVTlUUlJDYmJpc0hibVR5ZnlaMkNERC1melRrTVI?oc=5",
+        "title": "Tesla's Cybercab Hits Austin Streets Amid Regulatory Scrutiny and Waymo Comparisons",
+        "source": "24/7 Wall St."
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTd1aDBCN002bjgwMmVOMDhDeUdjOHF3ZV96ODlUbWNMYUg3Zzl1VUE4SDZPTUdvREVlTHpYalE0NXJQN0l2UzJ5dktSN1ExbW1uQTI0ZjUzRlJCTVF5WXJmZVJpLXpqakZpZFVLUE4xNVQ1NlpxNHd3TE1TZk9PX1c5UHdIaGxFbmpQdzctcklqSkpRLXZieE9GbDJjRkNVT0lpcFhQWVdkZVV6QUVz?oc=5",
+        "title": "Tesla’s Cybercab robotaxi has hit the streets. Regulators have questions.",
+        "source": "The Washington Post"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1BDLXlFZnpfbi1xdXVXSDEwNDloU2EwOTA3N0hISXhnaWlmS2dBcDhGa3dzS0VLZFhSWUU2MnlJeTdtMGVLUlhvazVjZnZxTGhVR3ltQ2NBQkdZaW1EQ0RpY3dsMHZWLWRTYlM3UEpGdG1tdHVYM2xHT1B3MGQyb25nOF9WcUJlWDdFVjc2OGhLTjBvMmo5bjJsSmtUMmF0YzBGWk8wcDVKd0p6NEE?oc=5",
+        "title": "Tesla opens search for Cybercab fleet sales, but FSD owners are still left out",
+        "source": "Electrek"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT01kRkRDWHRTWjh2TzNUUm9rUmhtQTZzdEdVLV9rTzRpb25fOUtGUS05VVJqeEs3dHVFZDI0ZmhEbnVZZEk2b2k4LWZEX2VTWjM5UUJKY3hodWlyZ29uS3BURjBqWkxncEd0ZmJONU5GN3RYNkpoN25MX2JwR0ZqYXBFbk95N1Fi?oc=5",
+        "title": "Tesla keeps hyping robotaxis as its future. But it’s trailing rival Waymo in a field yet to prove profitable",
+        "source": "cnn.com"
+      }
+    ],
+    "body": "<p>Tesla's Cybercab, the two-seat, steering-wheel-less robotaxi that Elon Musk unveiled to fanfare in October 2024, is now driving itself through Austin streets without a human safety monitor behind the wheel. The rollout, confirmed this week, marks the company's most aggressive step yet toward the driverless future Musk has promised investors for a decade. It also arrives with an asterisk: regulators are already asking pointed questions about how the vehicles were tested and what safety protocols govern their behavior on public roads, according to the Washington Post.</p>\n\n<p>The timing is awkward but familiar. Tesla has a pattern of shipping first and answering to regulators later, and the Cybercab launch fits the mold. Meanwhile, the company has begun recruiting outside buyers for fleet sales of the vehicle — a notable business pivot toward operators rather than individual owners. But in a curious twist reported by Electrek, existing Full Self-Driving customers, the very people who paid thousands of dollars over the years betting on Tesla's autonomy promises, are excluded from this first wave of sales. It's the kind of detail that tends to needle Tesla's most loyal base more than any regulatory letter.</p>\n\n<p>Then there's the matter of what bettors think is coming next. Prediction markets, per 24/7 Wall St., are pricing the odds of a Tesla-SpaceX merger at nearly 50 percent — a wager less on robotaxi economics than on Musk's own appetite for consolidating his companies under one roof, and on SpaceX's balance sheet potentially propping up Tesla's ambitions. It's speculative, and Tesla has said nothing to confirm it, but the fact that serious money is flowing toward the idea says something about how investors view Tesla's robotaxi math on its own terms.</p>\n\n<p>That math remains the central problem. As CNN notes, Tesla is still playing catch-up to Waymo, which has spent years quietly building out a driverless network in Phoenix, San Francisco, and other cities with backup systems, mapped geofences, and a slower, more methodical expansion. Waymo hasn't proven the robotaxi business can turn a profit either — nobody has — but it has amassed millions of paid rides and a safety record regulators have scrutinized for years, giving it a credibility head start Tesla is only now trying to close.</p>\n\n<p>Why this matters beyond Austin: robotaxis are the clearest test yet of whether autonomous vehicles can be trusted at scale, not just in demos. Every incident, every regulatory inquiry, becomes public data in a field where consumer trust is the actual product being sold. Tesla's willingness to put unsupervised cars on real streets before regulators feel satisfied is either the kind of bold bet that built the company or the kind of shortcut that could set the whole industry back if something goes wrong. For riders in Austin, for now, it's simply a car with no one at the wheel — and for everyone else, a test of how much scrutiny that idea can survive.</p>",
+    "slug": "tesla-s-cybercab-hits-austin-streets-amid-regulatory-scrutin-08e175"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KbFM5a0xvcTFXTUkzNEVld0YzVmY2bTJ4UmdsYmZRNFNDYzhrNldDeVF2U0ZrRjktZTdWR0FIaDNHQWJtZU1KTG5hYk14bmZIYVlxeVlzeXl1NlJab3VSLVRoNmhZNGNuZWNsTWdYZ3VPTUQ30gF6QVVfeXFMUGo5N2pNa2pJMGt6eXZ1al9FRHhVVW9IMzcwWUx2QXI3VFJ4ZkNZTFlkTkhZcXZ1c1lFUk9mVWIwV0FUYlQ4czEyTld6Ry0weHAwTHVrTXlLWHZtSjByZ3NaaXFJY2wwQi1kSDVRRE1WVVBlZWFjUDJ4OFE?oc=5",
+    "title": "AEVEX, Divergent Pair Up on New 3D-Printed Autonomous Drone",
+    "source": "The Defense Post",
+    "published": "Fri, 04 Sep 2026 12:24:57 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "AEVEX and Divergent have jointly developed a 3D-printed autonomous drone, combining additive manufacturing with autonomous flight capabilities.",
+    "companies": [
+      "AEVEX",
+      "Divergent"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "3D printing",
+      "additive manufacturing"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlFEOG9pZWtiZy1Nb0QyUXdTWFU1NVBxVmJOYU5kcVJRMXNtZDl6LWtaNm5WcWREZDlQdEhXc2h2VVFMZEVaOW5JeEhjOTB6UXpDc1JPSHRPeHA1RWZSeTJ2ZlNuNFhUbk9wbEFkQkZPbEhNbGNzSUVaWklnZ05SVVc3WTNudFJzZWk4bWs0cUVYNVJRUzFNZFNiM0hXU2tGdXNRSkN6Sl9OVG1JcHNSNm1aQ0c4dDJfb2c?oc=5",
+    "title": "Top Precision Agriculture & Autonomous Systems Award Goes to ZenaTech",
+    "source": "Unmanned Systems Technology",
+    "published": "Fri, 04 Sep 2026 07:05:32 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "ZenaTech wins a top precision agriculture and autonomous systems award, validating its drone-based farming technology.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "precision agriculture",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3d4RjJxZlF3SlFMQ2NRb0p4RnJSa19uRzdUbXVQRTdDb3MyMWh4SFZtQ2VvaHI0bWZhQ1Q4cGZtSTFENUtndWdIZkVjTnBhMXlvTEphbVkyQ1JBbHBjVURyTURIX3BreUVDRS1wOFllQTM2ck1abFJTRW9Ka2dpOHMxVTF5TXd5NDk1dWhTSVJrTUhQbGJ1YWZGcGNJTUMxdVZpSUZHQmQxWnY2THYzTE0yaTkwc3Npd3d4OWN6WkJnZw?oc=5",
+    "title": "US startup tests autonomous cargo drone with 500-lb payload, 450-mile range",
+    "source": "Interesting Engineering",
+    "published": "Fri, 04 Sep 2026 01:39:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Elroy Air completed the first autonomous cargo drone flights authorized by federal regulators, flying its 500-pound-capacity Chaparral over Louisiana to demonstrate commercial delivery potential.",
+    "companies": [
+      "Elroy Air",
+      "Bristow Group",
+      "LIFTOFF Louisiana"
+    ],
+    "people": [
+      "Bryan Bedford"
+    ],
+    "themes": [
+      "autonomous drone",
+      "cargo",
+      "long-range",
+      "freight"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObHFhZzBTRFJKaUYwdm9LZy1XaTA3RXRQRXVKeVRvc1BtalJLVTd3eGREUGxyY1Zzdk9qM1dpdTY4aWxrbGRWN0JtQmJSSEtZZE9heGgzOEN0WWNWdFRkYm8tLTB2eVNOeV9nOGFxbFR5WUgweHdxYWhnU3dkcUZMbWJPQmJtY0I4M3BPdEQ4VGZFLXo5OFlZQllqVUlLeUJ3aURnSXJxNTZTcGNYaGdacHNNWVNmVnpXYXI5c3FtZVNBQ3NDMm9fQkQxX01yRmdqTmVWMGxDemoyeldTRTdJYkJyc2VoaWRS?oc=5",
+    "title": "AEVEX and Divergent target faster autonomous drone development and surge production through AI-enabled digital manufacturing",
+    "source": "Defence Industry Europe",
+    "published": "Thu, 03 Sep 2026 22:17:19 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "AEVEX and Divergent are partnering to use AI-enabled digital manufacturing to accelerate autonomous drone development and scale production.",
+    "companies": [
+      "AEVEX",
+      "Divergent"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "digital manufacturing",
+      "AI-enabled production",
+      "surge capacity"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2tmMVFYZWNqNFdmMG9jcUFYSEoyeWhoVGNXeDBiaEFJT0c2ZDhGeEtlaFdsaEZUQnphamc4c1RKQXFvVGdsSkVxbk5uczZrVjFmTzgzU0llaU8zVHBUMC1ZNnFERkFXV19PenE4UW1GdDlyS09nQ1R6MGU4MkhYSnBuTUtiSXNSbTZ0ZUtvaF9vc2xFV0JNNTN6dUdJMkhiVkxFQ1BvVm1XRmVaWmlRbXhlM3cwUHFtN244a1Z6RXVydXdtRk1pOVZYQ2NzSnRqdS05T3BtOXZ1NDlNbUQ2eldBaV9xbnNTc00yaElZNGhlZw?oc=5",
+    "title": "ZenaTech's ZenaDrone Advances Precision Agriculture with Initial IQ Octo Prototype for Autonomous Drone-Based Spraying",
+    "source": "EIN News",
+    "published": "Thu, 03 Sep 2026 22:21:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech unveiled the IQ Octo, an autonomous drone prototype designed to spray crops with precision, marking a step toward reducing chemical waste in agriculture.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "precision agriculture",
+      "autonomous spraying",
+      "agricultural drone",
+      "crop management"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNelgtYmQxTmFDZVEwMzdJWThXNE9wNzhYY043LUU5eVFta3pTSUVPMV9pUkgzQnBIejBBeWNlci1MTjV3NVNiTXhUVUR4RWljZnpHTmRUUEpQa2RubnI0bGYzdnpoN2pVY3dEVGk2TjdvMWlpSnB4VzJtUE9sVF9BUzVBWGtnaENSR1NyLVZYeVNtZHFJZ3lLUXVVMUlxNGhrT2dKQ1JYUlRyam5jRk8yTXhYVk5VWGt6RDNleEJ3?oc=5",
+    "title": "TEKEVER Acquires Flowcopter to Advance Autonomous Drone Propulsion and UAS Capabilities",
+    "source": "uasweekly.com",
+    "published": "Wed, 02 Sep 2026 11:32:19 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "TEKEVER acquires Flowcopter to fold advanced propulsion technology into its autonomous drone platform.",
+    "companies": [
+      "TEKEVER",
+      "Flowcopter"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "propulsion",
+      "UAS",
+      "acquisition"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYlBHZFY3LUJIazl1QkFvQ1cyc2FPeHJ6dDhoSE9wWTZITnZvMXhrMzhkRGxnY3kxUDBFN0RnS2dNWWhyR25UZkdWa3hzQk5ISWNpWkhUVFFUUjZ5aldUS1luM2N1dFpIekw1SlM5dFVSRHExcm1NdmppRE1LdzdzQ2NVM0hScjJpTEFaWl93c2RSWW9GRGpCQ2hKS1ZsOGc5ZkR5Nm9XdEJleENsaW5sdWVRZkNsV2d4Z0NEU2lvZl9qR3I2c1lB?oc=5",
+    "title": "UK military wants lasers to stop drone swarms without running out of ammo",
+    "source": "The Register",
+    "published": "Fri, 04 Sep 2026 08:30:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Britain's Ministry of Defence is spending £5 million on Project PANOPTES, an autonomous laser system mounted on Army vehicles to defend troops against drone swarms without depleting ammunition supplies.",
+    "companies": [
+      "UK Defence Innovation",
+      "Ministry of Defence"
+    ],
+    "people": [],
+    "themes": [
+      "drone swarms",
+      "counter-drone",
+      "military technology",
+      "laser weapons"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOenpQZWhSVDA1dW1qMHFmU2FpM2p3M3BPNnljaDU1YTdGczZqZnpLX2RzQVFGMzBZcmlpNWRnX3FlVWhKZFcxSVBicGJEWDROSUZBX0pBREd4SnNLc25nUTJvSEJLeEVucFJFVnFROS1wMmhGQ3dyNU93cU42bWtEWEF2RGFEakZhMzEtZjJuejJHQzN0c3NsVlAzMGwzMWd0ajFvUUd0VlFLWlJTaXNLR05ZZUZkRnM?oc=5",
+    "title": "Agri Spray Drones Expands into Agricultural Drone Manufacturing and UAS Technology",
+    "source": "uasweekly.com",
+    "published": "Thu, 03 Sep 2026 10:17:07 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Agri Spray Drones is expanding its manufacturing capabilities and unmanned aircraft systems technology to serve the agricultural sector.",
+    "companies": [
+      "Agri Spray Drones"
+    ],
+    "people": [],
+    "themes": [
+      "agricultural drones",
+      "UAS",
+      "drone manufacturing"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FNEVFY0xBUGV3ZEs4V3RwQ2RjSDRETjdacm85V3lmVmZmTDVyd0lmR0pZbndFX2VJRHNEVk94SGZmbVpULVNHN3l5djd0UXZGQmE0UWhxYlZoZVdCNnhlXzZnNDJTSC1EcHVYUmVuWHhfemk1NnfSAXtBVV95cUxNMU5ZMmhGQzZFUzc1c002aTk5MlVaSjk4THhhNDY2U3F3ZHZSNDd3YWFTeXd3ZkxJLVRiVmxYekN2TEFXYTEyQmR3RTFUMGYyalZ4MzJaSV9YcVVEY09fZlBFVWRlRDhYTU80UFJOTEN6cUFoQ2FJTk1aT3M?oc=5",
+    "title": "Japan’s New Attack Drone Comes in a Flashlight-Sized Package",
+    "source": "The Defense Post",
+    "published": "Fri, 04 Sep 2026 11:45:56 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Japan unveiled a flashlight-sized attack drone designed to scout and strike ground targets, combining compact portability with onboard cameras or munitions.",
+    "companies": [
+      "Japan Air Self-Defense Force",
+      "NHK WORLD-JAPAN"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "miniaturization"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVG1TNW16Ym1fTG9pUnpUbmo0T25fLTZzbWdPakJ5eW50VVZpN0ZSTktQZzFlbXV5Z1lmVmQxV3VXTGJXczhmZm8zTURCY0c4RWx5T0ZoZkdnQTZZM2VvaUJHU1lzRUs1Sl9wSGlReWhnNkhoTkR0SldxS19BU2JpazBCbFpvMUEyX1VRbVVUanRhcUpKUUg1bktrU195QQ?oc=5",
+    "title": "AI-powered drone system for autonomous PV fault detection",
+    "source": "pv magazine Global",
+    "published": "Thu, 03 Sep 2026 07:29:15 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Polish and Spanish researchers developed a drone system using thermal and multispectral imaging with AI to automatically detect defects in solar panel installations.",
+    "companies": [],
+    "people": [
+      "Lior Kahana"
+    ],
+    "themes": [
+      "autonomous drones",
+      "fault detection",
+      "solar energy",
+      "AI"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX1FZUzR0MWtXbnByZEhYekg0d0I2Tml1dU5YU25ESnFEYWk4WVVhcEx5NnVtc0hkeUJqVDBMd3lVT2ZvTmpWcGdCd01GOXpLLW1uTnFiM2JhNm1tMWI5ZERWN0x2bDluaVlDdUY3OHBUS1lBU294bTM1YXJvSGxnNW1EYmNTUjVyUTFVX3RfWFNVZlhyMkNjV2dqM1dMc3hiTlFqQkJYRFcwQVl1ZEZ3RHlRRDN1enppQzRnR3FFcUs0SzFVX1RKUFl3?oc=5",
+    "title": "Autonomous Cargo Drone Clears First FAA Hurdle at Gulf Coast’s Busiest Heliport",
+    "source": "Tech Times",
+    "published": "Tue, 01 Sep 2026 18:50:36 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Elroy Air's autonomous cargo drone cleared FAA certification by sidestepping the type certificate process that's stalling passenger air taxis.",
+    "companies": [
+      "Elroy Air",
+      "Kratos",
+      "Louisiana DOTD",
+      "Bristow Group"
+    ],
+    "people": [],
+    "themes": [
+      "cargo drone",
+      "autonomous",
+      "FAA approval",
+      "regulatory"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2pwYWR6NFQ1dHdmN0JPRFhSaHo3LU1ZTXlYclpPLUZSWEx0emhVdDZXZDdTSHhQLWZFbUE5NUZHOU9aVHYwczFOMXc4eVZDZEpfdFFPRGxIckMyQXVyN0NGdDhlaTdFdVVmTVNMcFlEcm5qelpyN2l1Q3dmbHA3WEtn?oc=5",
+    "title": "Brain implants fuel U.S.-China bioscience rivalry",
+    "source": "Axios",
+    "published": "Thu, 03 Sep 2026 20:23:10 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Axios reports that brain implants have become a flashpoint in U.S.-China competition over neurotechnology leadership and bioscience dominance.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "neurotechnology",
+      "geopolitical competition",
+      "biotech"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmZaT05tT29ZMjFVS293UmRWS3pseTRlNGJ2ZHZhWnRKb3U4b2VkWDF5SFhTZ0lsMm9xOHhfQVYzWjk0Y29sbnJnU0pBUi1jUmhONXYxLWhqNWF6dERRdzJnWWd4LWoxUEsxY3NLZS1UdEE5MngxN2hRZXBxRzhrN0lPWG83cVE5dkROZy1HWHdrU254VlRCdGkwMS1yQ0NJSFZJZ016b2d3MGhCZW10cEdWcVR5V3ZBXzZIcy1CZlhoUdIBwgFBVV95cUxQU3FYbDRqYTBjS2p1aXM3a2s3akpoUndxd3ZCSVFiRUFtVHJCVFoyQl9ZNkt0TWVVcWRyTzlqVVFKSzZoTndNTUdXNVJWLUxJcHJYcV8xeWF1SVZPdlRaMWQ2MXY1VDhmY2MyNzJnb2JWQnAtWGxTQy1wR1N2U1BHXzFPakVpTF9kUF9ENXZoNTIyUm9DZC1BaWVtaEFnMVJxbXhYM3VIV05rZENsbHBKajZuSVlvX3pmN0NIRkVvV19UQQ?oc=5",
+    "title": "Brain-Computer Interfaces Advance on Two Fronts: Neuralink's ALS Patient and China's Rival Devices",
+    "source": "South China Morning Post",
+    "published": "Wed, 02 Sep 2026 02:00:12 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink's implant has given an ALS patient back the ability to communicate and exert control, a milestone highlighted on Katie Pavlich Tonight. Meanwhile, China has approved a string of its own 'telepathy' brain-computer devices, signaling an explicit push to leapfrog Elon Musk's company in the neural-implant race.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implants",
+      "China",
+      "neurotechnology",
+      "ALS",
+      "neural implant",
+      "paralysis recovery"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmZaT05tT29ZMjFVS293UmRWS3pseTRlNGJ2ZHZhWnRKb3U4b2VkWDF5SFhTZ0lsMm9xOHhfQVYzWjk0Y29sbnJnU0pBUi1jUmhONXYxLWhqNWF6dERRdzJnWWd4LWoxUEsxY3NLZS1UdEE5MngxN2hRZXBxRzhrN0lPWG83cVE5dkROZy1HWHdrU254VlRCdGkwMS1yQ0NJSFZJZ016b2d3MGhCZW10cEdWcVR5V3ZBXzZIcy1CZlhoUdIBwgFBVV95cUxQU3FYbDRqYTBjS2p1aXM3a2s3akpoUndxd3ZCSVFiRUFtVHJCVFoyQl9ZNkt0TWVVcWRyTzlqVVFKSzZoTndNTUdXNVJWLUxJcHJYcV8xeWF1SVZPdlRaMWQ2MXY1VDhmY2MyNzJnb2JWQnAtWGxTQy1wR1N2U1BHXzFPakVpTF9kUF9ENXZoNTIyUm9DZC1BaWVtaEFnMVJxbXhYM3VIV05rZENsbHBKajZuSVlvX3pmN0NIRkVvV19UQQ?oc=5",
+        "title": "Brain-Computer Interfaces Advance on Two Fronts: Neuralink's ALS Patient and China's Rival Devices",
+        "source": "South China Morning Post"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMTNzdTViQmM1bDJsd1U0UHkxTmxYazdKUjRiTDZtS3hYRDcwQUNIZ1pXcDVpb1Q4V3BaZXBVek8wRUJXTC0tbjkxMU9RYmtLUjdPajNnNzJEbEhkZldpZW9hVGEwQU9GY0ZHTWczTnFlSjZRYmlNY0lFY1p0bnJrV09JbURSZVNDSEk0bnZCcFBOeFpWcHgxMTA0SzQ5SU54VGsySjRsOElKbUNPQ0ZSUjd4VTNqNFU?oc=5",
+        "title": "How Neuralink brain chip transformed life of ALS sufferer | Katie Pavlich Tonight",
+        "source": "WJTV"
+      }
+    ],
+    "body": "<p>An ALS patient who had lost the ability to speak and move is now communicating and directing a computer cursor through a chip implanted in the brain, courtesy of Neuralink, Elon Musk's brain-computer interface company. The case was featured this week on Katie Pavlich Tonight, offering a rare public look at how the device functions outside of clinical-trial paperwork: a person once locked inside a failing body, regaining a channel to the outside world through electrodes reading signals directly from the motor cortex.</p>\n\n<p>The timing is not incidental. Within the same news cycle, Chinese regulators approved a string of homegrown brain-computer interface devices, part of what the South China Morning Post describes as an explicit campaign to overtake Neuralink in the neural-implant race. The devices, some marketed under the same \"telepathy\" framing Musk has used for Neuralink's product, mark Beijing's clearest signal yet that it views this technology not as a medical niche but as a strategic frontier worth state backing.</p>\n\n<p>Taken together, the two stories describe an industry crossing from proof-of-concept into competitive reality. For years, brain-computer interfaces lived mostly in academic labs and small trials, promising but slow. Neuralink's ALS case suggests the technology can now deliver a durable, meaningful outcome for a specific and desperate patient population — people with paralysis or neurodegenerative disease who have exhausted other options. That is the kind of result that changes how regulators, insurers, and hospitals think about the category: no longer speculative, but something that might soon require its own reimbursement codes and surgical training pipelines.</p>\n\n<p>China's move changes the competitive map. A technology that seemed to be a Musk-led monopoly on ambition, if not yet on results, now has a state-supported rival racing toward the same clinical milestones, with its own regulatory approvals stacking up. That matters economically because whoever sets the early standards — for implant safety, data protocols, surgical technique — tends to shape the market for a generation, the way early movers in cochlear implants or insulin pumps did. It matters geopolitically because neural data, arguably the most intimate data a person can generate, will now be collected and processed under two very different regulatory philosophies, American and Chinese, with different assumptions about privacy and state access.</p>\n\n<p>For patients, the stakes are more immediate and less abstract than policy. An ALS diagnosis usually comes with a timeline for losing speech, then movement, then breath. A device that restores even a sliver of communication changes what that timeline means for a person and their family. The race between Neuralink and its Chinese rivals will be covered, understandably, as a contest of billionaires and governments. But its real test will be quieter: whether the next round of implants can do for thousands of patients what this first one did for one.</p>",
+    "slug": "brain-computer-interfaces-advance-on-two-fronts-neuralink-s--6a73c8"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1c4THJlSTJtVER2WmN2S0hXNFpBdm9qZ2IwSXNFVWNjWHZHdU1CcWpYQ2hublhVc1VtUWZFcExhaEp4dkhiY2k3VEFFajhES1ZjMU9OT1JVemNtb0xnTkhzRXM2bmxCQVhWRFpKeExQSC1SdzA0VjBOUElFZVpEMEdyZ3lpdFJvdDR2SVNKdkx6elhYa2Nwdg?oc=5",
+    "title": "Ray Kurzweil joins Subsense, the brain interface startup you snort",
+    "source": "Startup Fortune",
+    "published": "Thu, 03 Sep 2026 22:25:15 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Ray Kurzweil has joined Subsense, a brain-computer interface startup developing intranasal neural access technology.",
+    "companies": [
+      "Subsense"
+    ],
+    "people": [
+      "Ray Kurzweil"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural interface",
+      "intranasal delivery"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTdON2pDRTlsTnJKUVBFUWU5OEo3dHRsWHU5TXNlb2JhbjJ5MDZBQ3F4c0VxaHp1NFN2SWlPdmEyako2UndPcFdDdm5nTkJDdmcyMWVjVFhhaUE3Q1ZNbEJrcV95Q1cxaEtnbk95U2hCc2lkN2FUTkdEeXNqWHZmMVVCWEdpX0RHZ3ZsMm5yVEJDQ0V5clNsUG05RzNWT2JpMWd3VTVQWW1qMXBYN2NTaA?oc=5",
+    "title": "Brain-Computer Interface Technology Makes School More Accessible",
+    "source": "EdTech Magazine",
+    "published": "Tue, 18 Aug 2026 16:59:01 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Brain-computer interface headsets could give students with severe disabilities like cerebral palsy a faster way to control classroom technology, though widespread adoption remains years away.",
+    "companies": [
+      "University of Calgary",
+      "National Center for Adaptive Neurotechnologies"
+    ],
+    "people": [
+      "Eli Kinney-Lang",
+      "Theresa Vaughan"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "accessibility",
+      "education"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMTNzdTViQmM1bDJsd1U0UHkxTmxYazdKUjRiTDZtS3hYRDcwQUNIZ1pXcDVpb1Q4V3BaZXBVek8wRUJXTC0tbjkxMU9RYmtLUjdPajNnNzJEbEhkZldpZW9hVGEwQU9GY0ZHTWczTnFlSjZRYmlNY0lFY1p0bnJrV09JbURSZVNDSEk0bnZCcFBOeFpWcHgxMTA0SzQ5SU54VGsySjRsOElKbUNPQ0ZSUjd4VTNqNFU?oc=5",
+    "title": "How Neuralink brain chip transformed life of ALS sufferer | Katie Pavlich Tonight",
+    "source": "WJTV",
+    "published": "Thu, 30 Jul 2026 03:47:08 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain-computer interface has enabled an ALS patient to regain communication and control through a surgically implanted chip.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "neural implant",
+      "paralysis recovery"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wing.com/news/building-the-future-technical-leadership",
+    "title": "Building the future: Wing's technical leadership",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Wing, the Alphabet-backed delivery-drone company, promoted Brandon Jones to Chief Autonomous Systems & Applications Officer, elevating its technical leadership as it pushes toward nationwide expansion.",
+    "companies": [
+      "Wing"
+    ],
+    "people": [
+      "Brandon Jones"
+    ],
+    "themes": [
+      "drones",
+      "delivery",
+      "autonomous systems",
+      "drone delivery"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wayve.ai/press/wayve-uber-launch-autonomous-rides/",
+    "title": "Wayve and Uber Launch First-Ever Autonomous Rides in the UK",
+    "source": "Wayve",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Wayve and Uber have launched supervised autonomous rides on the Uber app in London, marking the first commercial deployment of Wayve's AI Driver technology in the UK.",
+    "companies": [
+      "Wayve",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "AI driving"
+    ],
+    "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
     "duplicate": false,
