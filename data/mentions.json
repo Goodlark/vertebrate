@@ -43172,7 +43172,7 @@
     "first_seen": "2026-08-29T18:08:53",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -43385,7 +43385,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -43418,7 +43418,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -43442,7 +43442,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -43640,7 +43640,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -43666,7 +43666,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -43807,7 +43807,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44364,7 +44364,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44390,7 +44390,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44416,7 +44416,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44688,7 +44688,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44715,7 +44715,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44747,7 +44747,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44880,7 +44880,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45246,7 +45246,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45273,7 +45273,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45353,7 +45353,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45592,7 +45592,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45858,7 +45858,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46072,7 +46072,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46180,7 +46180,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46206,7 +46206,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46232,7 +46232,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46258,7 +46258,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -46425,7 +46425,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46450,7 +46450,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -46570,7 +46570,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46825,7 +46825,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47875,7 +47875,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47928,7 +47928,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -48475,7 +48475,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -48571,7 +48571,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -48630,6 +48630,698 @@
     "why": null,
     "duplicate": false,
     "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLURPdUxuNTVxTldrSjhVWExRQnBBX0xHZS03eFV4UjZRYkVpOTdTcEtvYnMyd3pXdzRYbjIwVTdHUVIxNDI5UlZLTC1POERsbTB6T2h6bzNrU2FweXFHckF1NG5wazRTU0ZHWTNqVGxsd2NKWXRINjlRN1NOb0FhX3RmRFdGWWx5TlJvdXpXd2NnWGNXNHhKZjhoWkFLb3czWE8xSzY3SzAwVWJBNXZZWW1oanJIcnQwTk0tSnV5Z0gzaklWTktpcjVwZGVkX1FMbjB6SmRjemE4Ymh1YXJQSTI5c0p0UVYwWEdDVWJrbHhXa0t0T1E?oc=5",
+    "title": "Faster than Usain Bolt? Here's all the records robot 'athletes' broke at this year's World Humanoid Robot Games in China.",
+    "source": "Live Science",
+    "published": "Sat, 05 Sep 2026 14:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Humanoid robots at Beijing's games outran Usain Bolt and other human athletics records, though the real test remains operating reliably in the actual world.",
+    "companies": [
+      "Beijing Humanoid Robot Innovation Center"
+    ],
+    "people": [
+      "Alan Bradley",
+      "James Price",
+      "Pandora Dewan",
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics competition"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZUlha2NFZl9VM0I4VkN5SnVwTWhGN0VSTXBLSU9ZRmtzeHBDbG9HVEJZVnRiSTBvTTQ0OHZQM1g5MlY3aGxrbDJJYWFCN2g5ZkRyWTlCWmREalAxSXJHS1QxaXJiX19Wa3FUUUZOUjV1MHZWR3RXX3BaRFdUdFk?oc=5",
+    "title": "Is China’s humanoid robot industry a bubble?",
+    "source": "Chatham House",
+    "published": "Thu, 03 Sep 2026 10:29:23 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Chatham House questions whether China's humanoid robot sector represents genuine technological progress or speculative excess.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakJmZHNhSkpRRHFSdHprZV9Od2pEQmFDWld3TDNrQUViaWdkc1g3dUtxbVIycXRzSUZCOE5GdlktamVQMkhubmVrNTkxSW1WY0o3cHFKSm8zNExvVEpwVkREejZMZW9iNXFsMEhDZHhtVE1XeC03aUtKQ3d5enRXczZISHZTczBJMjg1S0gxVjdpZzNCX2hGOUdBV2tOWWg2elEyNTNYT2hfRkdLRDVyQXVFYUo2Z2Q0aDZ0NXpUNTBGclY4aHNzdU9nTFhVVUtMWU5SMkVrcDJNWmhSRUF3NExocnQ?oc=5",
+    "title": "Dreame Showcases Three Physical AI Technology Foundations Across 100+ Products at IFA 2026",
+    "source": "Morningstar",
+    "published": "Sat, 05 Sep 2026 14:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Dreame is exhibiting over 100 products built on three physical AI foundations at IFA 2026, though details remain sparse in this marketing-forward announcement.",
+    "companies": [
+      "Dreame"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "product showcase"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzdfcFMydjNDVmpkMWZqYVBJTjMzNXRqejNFemtIUDJJX0NjYU9zeFJFamcxcGh0X1U3YllqR3JlYUM3TENHWTF5c3VNeG1FVHNZWjAxdHdPZldiYXAxMWxjRHVfNWVQQjBQMk9oMTBkX0JsWl9xNWRQVGpZUnJPUkUycnY1U0lSR2RFblQybFFkN0E?oc=5",
+    "title": "Tesla's Robotaxi Push Hits Both Expansion and Scrutiny",
+    "source": "San Antonio Express-News",
+    "published": "Fri, 04 Sep 2026 23:17:24 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is racing to grow its robotaxi footprint even as regulators start asking hard questions. San Antonio just approved a hub near its airport for Tesla's driverless fleet, while in Austin, where the Cybercab already roams the streets, NHTSA has opened a federal safety investigation into the vehicle's rollout. The company's expansion ambitions and its regulatory headaches are now running on parallel tracks.",
+    "companies": [
+      "Tesla",
+      "NHTSA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzdfcFMydjNDVmpkMWZqYVBJTjMzNXRqejNFemtIUDJJX0NjYU9zeFJFamcxcGh0X1U3YllqR3JlYUM3TENHWTF5c3VNeG1FVHNZWjAxdHdPZldiYXAxMWxjRHVfNWVQQjBQMk9oMTBkX0JsWl9xNWRQVGpZUnJPUkUycnY1U0lSR2RFblQybFFkN0E?oc=5",
+        "title": "Tesla's Robotaxi Push Hits Both Expansion and Scrutiny",
+        "source": "San Antonio Express-News"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSktIblRBendydGlHRjI3a29UaVJ6NXJ1YVJaLXlGQk56RDZybnkyYWxfX0tBeWRXUGZLQWVRWi1ZczdSS2VTbmVHdkZ2YUdKeUl1X2hBNFpEeFNRQU93NVNkQ2ZMWTVIcTdOdW5KTEZMRXBMcVlNSmxVNmxDVFBwNDkzdllCX1NPM0tkOUNkOEFZdjNZNWU3LVhYNA?oc=5",
+        "title": "Tesla (TSLA) Faces NHTSA Cybercab Safety Probe After Austin Robotaxi Rollout",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "body": "<p>Tesla is building out its robotaxi business on two fronts at once, and the two fronts tell almost opposite stories. In San Antonio, city officials this week approved Tesla's plan to build a robotaxi hub near the airport, giving the company a staging ground for its driverless fleet in a second major Texas market. Meanwhile in Austin, where Tesla's Cybercab has already been shuttling passengers through downtown traffic, the National Highway Traffic Safety Administration has opened a formal safety investigation into how the vehicle has performed since its rollout.</p>\n\n<p>The San Antonio approval is the kind of unglamorous municipal decision that rarely makes headlines but matters enormously to a company trying to scale a fleet business: a physical hub near an airport means a staging lot, charging infrastructure, and a base from which cars can be dispatched to riders. It's the plumbing beneath the app, and Tesla now has it in two Texas cities rather than one.</p>\n\n<p>But the federal probe in Austin is the harder story, and the one that will likely shape how fast Tesla can move everywhere else. NHTSA doesn't open investigations lightly, and a driverless-vehicle inquiry so soon after a public rollout suggests the agency saw something in Austin's early data worth examining closely — not necessarily a smoking gun, but enough anomalies or complaints to warrant a formal look rather than informal monitoring.</p>\n\n<p>For Tesla, the timing is awkward but not unfamiliar. The company has built its entire public identity around moving fast on autonomy — promising robotaxis for years before delivering a limited, geofenced version in Austin — and it has just as consistently drawn regulatory attention for doing so. What's different now is that the expansion and the scrutiny are happening in the same news cycle, almost as if to underline that they're two sides of the same bet: grow the fleet quickly to prove the business model, while regulators try to determine whether the technology deserves the trust it's asking for.</p>\n\n<p>The stakes extend well beyond Tesla's stock price. Robotaxis are the first mass-market test of whether Americans will actually ride in cars with no one at the wheel, and San Antonio and Austin are becoming the country's proving grounds for that question. If the NHTSA probe surfaces real safety problems, it could slow not just Tesla's rollout but the broader industry's case that driverless fleets are ready for city streets. If it clears the Cybercab, Tesla gains momentum right as it's laying literal groundwork — hubs, lots, charging bays — for the next cities in line. Either way, the fight over robotaxis is no longer happening in investor presentations. It's happening in city council chambers and federal case files, which is exactly where an industry this consequential belongs.</p>",
+    "slug": "tesla-s-robotaxi-push-hits-both-expansion-and-scrutiny-d2e429"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzc2RGdFbE5Xd29WeElMOWlwVHJLNFlyLVNkUloyRmtWdFNxWHZLbkhvUzNXclo4U29McngyM1JXY0ZzQVZ6ZHBIZTc0bGQwbFdMeTVOc1NCS3AzMGlkaWVHVGZDaGNVQXJsSXJPLWdMYTJMVkZlTjZuLWdHTjY0NS15ZF80ZGZIUl84UHBPR2RialZLVE41bHhrTnhkTldn?oc=5",
+    "title": "The People Maintaining Waymo's Self-Driving Cars Are Being Treated Horribly, Insider Claims",
+    "source": "Futurism",
+    "published": "Fri, 04 Sep 2026 18:58:35 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Waymo insider alleges the company mistreats maintenance workers who keep its driverless fleet operational.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "labor"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVk9HRzNBcFFaZ3dWcjJvYnZaU1lzaklCMnVkTHZiR25tRnB0andZaDhXMHctNEs3WGlKaENLTmRMV1lLdXVCQXJxOERZaG94NnRmNUd5ZE9vejUyN25uVG1fS3hUdUJYejM2YkpuU3ZZQmlYTUQxRm5RQzAwdmYzVC1fZllFRkpuNThxQ1VBd3I2UHk4THI2Q3lhUXpTY1VEeDBlazAtbTl5Z3ZSMlZWallmSmJZaVpQU1A2VDdfazUtYjhpY0NiMnNUdWtGdDd4UWQxWA?oc=5",
+    "title": "'I feel safer around a Waymo.' Expansion of autonomous robotaxi service has supporters cheering",
+    "source": "Los Angeles Times",
+    "published": "Sat, 05 Sep 2026 13:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its autonomous robotaxi service, drawing praise from riders who cite improved safety.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRF9icFBLdE1fWmN3Z0E1OFlQV0lNSDBpTHJkaXprVGFwUG95ei1lU3hoOG1SeERBMkVpcHFzT25xNXJuSm14X0ZkQXp5NjhwSHVyOFA5aTRHNC1tekdiQ0w0VjVsWE9uWkM1QVNROUo0S2MxSGxTSFBGNDdHVmxURWlvblJZWVlNZ0Y4TV9iUXF1VDNHUktUZTNVRkdlbG8?oc=5",
+    "title": "Waymo coy about how its Denver robotaxis use electricity",
+    "source": "Denver Gazette",
+    "published": "Sat, 05 Sep 2026 12:38:33 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo declines to disclose details about the power consumption and charging infrastructure for its Denver robotaxi fleet.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "energy efficiency"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2pjVnFCdXNBTjhZZHJVQ1JlVC1nR09YRExTcUpWamRqbm1WeDF5TUxLNllqVWZsX1lRYzgzN1RFOG82Z1d5Zk12Ym95dFVYR0hpcjE4eXhEdmhUb1JjdG5RWjZlQ3pMZGpDZUZ4QjRzTUR1RFlLWk45QmpPdGVDc3dDc1A3dlpkNzNUMDFXMGdYVG9fc1JmSGdVd1lMWHJJYXZqSUFxbk1kTW95TVBTWFMtS0c5VERTMUxxN19SdUoxNzBNaG1sdVZTTVRuX0E?oc=5",
+    "title": "Opinion - Mark Policinski: Arrival of Waymo’s driverless technology is a transportation win for the region",
+    "source": "Northern Kentucky Tribune",
+    "published": "Sat, 05 Sep 2026 04:30:33 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Mark Policinski argues that Waymo's driverless deployment represents a genuine transportation benefit for Northern Kentucky.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Mark Policinski"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkJkMVcyS2tKQ1RwaFYtWmVKcUc1WTRsMDc0MkVBaVRDc2lLRkdVZEJHUHdUR1BjSlIzWWpZNUVPU1ZmUVByZmZrTjJVVUNjX2tkV3B5N3ZON3lXNlBUWXpQY2I1aHpYX1dOdllxNEtVWmpxbkl4aHM2WWQ1M2VxNmUwMWhjdnNUMWE4NjYwRHJHTWRmMm5zS3VfMloyc1ZrcEtPbm5VY2tKVF9UUjZLTQ?oc=5",
+    "title": "Waymo Taps Pimco, Blackstone for $3 Billion in First Debt Deal",
+    "source": "Bloomberg.com",
+    "published": "Wed, 02 Sep 2026 17:41:55 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo closes its first debt deal, raising $3 billion from Pimco and Blackstone to fund autonomous-vehicle operations.",
+    "companies": [
+      "Waymo",
+      "Pimco",
+      "Blackstone"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "financing"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEluakRXcUJMZUxhUWc4ZzJldVpxbGN2LTY3QTJIeUFseHpRTkhLaXdJRTktTzdxYklQcVdUd0pMN2YyZ1JuUEVKakFERzBGazFNYjVQOXR4a21RQTNlS2xHeGtOcUdPQWQ0TzY5c0FSdUJyXzgyZFU2ZURCTThDZVYwXzdobVZDc0lGTEcweS1HWGRGZWJjd09xbWRrUUpJbTdVZktzOXhOUQ?oc=5",
+    "title": "Robotaxi service debuts on London’s busy streets -",
+    "source": "Altoona Mirror",
+    "published": "Sat, 05 Sep 2026 02:41:38 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "A robotaxi service has begun operating on London streets, marking the first commercial autonomous vehicle deployment in the city.",
+    "companies": [
+      "Waymo",
+      "Uber",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSktIblRBendydGlHRjI3a29UaVJ6NXJ1YVJaLXlGQk56RDZybnkyYWxfX0tBeWRXUGZLQWVRWi1ZczdSS2VTbmVHdkZ2YUdKeUl1X2hBNFpEeFNRQU93NVNkQ2ZMWTVIcTdOdW5KTEZMRXBMcVlNSmxVNmxDVFBwNDkzdllCX1NPM0tkOUNkOEFZdjNZNWU3LVhYNA?oc=5",
+    "title": "Tesla (TSLA) Faces NHTSA Cybercab Safety Probe After Austin Robotaxi Rollout",
+    "source": "Yahoo Finance",
+    "published": "Sat, 05 Sep 2026 06:12:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Cybercab faces a federal safety investigation by NHTSA following its rollout of the driverless taxi in Austin.",
+    "companies": [
+      "Tesla",
+      "NHTSA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU29YQk9RWTlVZm1OQzdHZWlaNzBXVHVjNjJwQjZIS25SWElyUDJ4Qm9pQ0paTHRRR2IyTXBYOWNva2ZNdVA3WlZvTi14cElERzZuMVlmdUQ5bDRLSWItRHJibk9qaFB1OUNUQTZCazBnR2s3R1cwWl9zay1OTm5GUXVGWnZISUIxSmpiLWtXTHJDaVBVQW1kd20wS0pqZTk2SmJ0YkQtWVZpYnRCRXJFMnF0c0MtNVU5bkZjMW1xR0UzWmFkSGc?oc=5",
+    "title": "Waymo taps Pimco, Blackstone to raise $3 billion debt, Bloomberg News reports",
+    "source": "Reuters",
+    "published": "Wed, 02 Sep 2026 19:40:09 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo secured $3 billion in debt financing from Pimco and Blackstone, betting institutional capital on its autonomous-vehicle ambitions.",
+    "companies": [
+      "Waymo",
+      "Pimco",
+      "Blackstone"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "funding"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqbkpOWU5ma2VTc2c0RnY1VWZpZjAzeGYtQVlyNWxOQTcweE9nbEd1ZU03ODFGU0FtNUpZSnpxdHhQNEoyc2hBd0NlbXpGYXJXTUhRbU1iZzJVb1ZlaWRUbzFReFQtdHVvUnZOdlRURndjeFZTcnBQa0NERnctN1k?oc=5",
+    "title": "Self-Driving’s Next Task: Potholes",
+    "source": "Barron's",
+    "published": "Fri, 04 Sep 2026 23:17:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Barron's examines the infrastructure challenges—specifically pothole detection and navigation—that autonomous vehicle companies must solve to operate reliably beyond controlled environments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "infrastructure",
+      "perception"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTldaa3FCOEFSanNrT3dBaEdkdF9jby1pcU1XSzlkd1Q0S2dlcC1NZzVqS0FaUXhrVFMwbGJKSlk3NkdwTnJuX0hnOWZJNHo1UEZVOWJEakxxVVQ1SVp0LWEyTDF5RFpMbkVmU0lhSnBFVFhnb3NIUFBuT0tSRVB0TURzOGZjaXhtRVJRZGhBTWhsVE0?oc=5",
+    "title": "Tesla Full Self-Driving will now overtake manual driving to avoid disaster",
+    "source": "Teslarati",
+    "published": "Sat, 05 Sep 2026 13:25:59 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's Full Self-Driving system now assumes manual control to prevent collisions in emergency scenarios.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "safety"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PUHVrZFJrTkRDRFcwWm0xVU1sOUU4QkdfanRka1RRbldqRzJXVURaZzg0emZ4anI3QVhmc1BRTTZBbURUZnhjWTBMSC1aOENCYmtnT0Y1bUNaWDVabTZvWGNaeC04bWlxMFJmWFliTkdEZVhfS2dvUEpqYw?oc=5",
+    "title": "Wing Names New Engineering Leadership",
+    "source": "dronelife.com",
+    "published": "Fri, 04 Sep 2026 15:40:50 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Wing, Google's delivery drone unit, appointed a new head of engineering after recent leadership departures.",
+    "companies": [
+      "Wing"
+    ],
+    "people": [],
+    "themes": [
+      "delivery",
+      "drones",
+      "leadership"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUzJySEpualNLMTNsb1RQQy1TemRON0ZzbmZxd1JnYUpLS1JSLWhoaWdHcTdDdENoWllIV0VTWVJRUmljbDRkNkU1VGsyWjhzbGc1VUQzVXh3Mkl1QU02bWJkMXRkTS1xX3d1cVlqcUJaMm1WREFSRnZiUmFPX0dhY1lKRHRBTWFBZHc?oc=5",
+    "title": "ZeroUSV Demonstrates Multi-Drone Autonomous Deployment",
+    "source": "DeeperBlue.com",
+    "published": "Fri, 04 Sep 2026 18:00:37 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZeroUSV demonstrated autonomous deployment of multiple drones in coordinated operation.",
+    "companies": [
+      "ZeroUSV"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "multi-drone coordination",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGpHbVFQX0tSWmdtWGFYWnVydzRoRzd5RlVacElhNW1PTVZrOGctcW9qaElRUzlrcTM1VWtMT2o4Q1Z0N3YyQ0tRUHNpRmhUSUMwVGU2UkRaZ1JSc0tKWE1MZmxLZXZsYnhzc2dNUW1BZHVKRUxob2dzTzJoRUFmS19PTnhvc3NtNFh6dEJURHQ5UE1GdWo0X0FJMXZBZzJxZmdTYkdvR1NyRktlMmdraTZ1MA?oc=5",
+    "title": "ZenaTech’s ZenaDrone Advances Precision Agriculture Solutions with Initial Prototype and Start of Testing of IQ Octo Designed for Autonomous Drone-Based Spraying and Seeding",
+    "source": "Yahoo Finance",
+    "published": "Thu, 03 Sep 2026 12:30:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech has begun testing its IQ Octo, an autonomous drone designed to spray pesticides and seed crops without human intervention.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "precision agriculture",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnJfcHhsRUdoU1hnVXo1bWJiS3BicDAyNXJCVlZlR1pMRWptV2g2ek5BY3N5VFdFS3JNcl8wTU84Ui1jTmplYjdVX0E2S3dlX2RyT0lLOXM2MEZ4ME1nUjZ6UTFYX1ZNb2k4QnVKOWJ0aFVBNlhpQXZNVjhHWVI1cFpOMkVCamE4VWFQTXBBZU9SbWRTX1ZuQjRiYlhNT21aNGZvLTY1bWlMTDEwUGFlYnByNjVhLWs?oc=5",
+    "title": "Elroy Air Flies First Uncrewed Logistics Demonstrations under eIPP",
+    "source": "Aviation International News",
+    "published": "Thu, 03 Sep 2026 19:58:37 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Elroy Air completed its first uncrewed logistics flight demonstrations under the FAA's eVTOL Infrastructure Pilot Program, marking progress toward autonomous cargo delivery.",
+    "companies": [
+      "Elroy Air"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous delivery",
+      "cargo",
+      "eVTOL",
+      "uncrewed logistics"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0VidERVNVpsTng4c2NmNGV6eXVzZHFQZkNkSjQ1UFJXWTVCN292aEtQTUMzNnh5SFVSOWkySVE2UVlydWlTS3hlOFM0RHU0c3Z2bE5ZNG04MGxyTlN4NnNnSk1xSFNrNHVkOU5rd1hCNXNOY1ZQS1cwTVFpdmVVSFplSQ?oc=5",
+    "title": "China approves brain chip devices to rival Elon Musk’s Neuralink",
+    "source": "AOL.com",
+    "published": "Thu, 03 Sep 2026 12:47:09 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "China's regulators have approved brain-computer interface devices designed to compete with Neuralink, Elon Musk's neural implant venture.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implants",
+      "China",
+      "regulation"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWsxNURtUVhjV2pRRDVFR1Zza1QwWGVlWldvQWVGa0pVQ0x3Z3I1QzV4VmY4SjhXcmEzTTd0MmNLWWFPNFZ6cUszOGNFbC1kZ0FwczVLZXBiYzB4YkZDNzdjTDJ5cjBLb3pBLUtXUlJBSXZILWxOVWtOQVNTRkxEcmVDMnoxVU1lV0VUb2RhVE5mRkFKNmwzM3BleXBMVUdxQ1hodHNYbEFNdjAwN1dNVEtDejVzTFBCYWtVYVVHU1hSYjZWRE5sNjVGMTZoRTY5ZTJDMzFtNWNicXhuMkU5SUxjRDZHZUpMOHZoUU1kU0tyVFVRa1BqNjFR?oc=5",
+    "title": "AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nanoparticles",
+    "source": "Fortune",
+    "published": "Thu, 03 Sep 2026 19:02:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Ray Kurzweil has joined a Silicon Valley startup developing a brain-computer interface based on inhaled nanoparticles.",
+    "companies": [
+      "Silicon Valley startup"
+    ],
+    "people": [
+      "Ray Kurzweil"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "nanoparticles",
+      "neural interface"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTm9DOVlhN1BGUzJBR3ZZbHROWXEtLXBPWjFSTzVZRmhSNjE3czlMSGttd0RWdjQ1OWNWaHFfOThHLW1rZ21JVFh1LThNY0ZQdVNPdXlqRmY3QQ?oc=5",
+    "title": "What Is Neuralink? What We Know So Far.",
+    "source": "Built In",
+    "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Built In publishes an explainer on Neuralink's brain-computer interface technology and current status.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXk3N3VyTk5ONU9McW9kQU5hczl4SVNURkpTd1JXX2VrUlZTVUVBVU9WaFpoMHAtOTFtWkU5RFpnZl82Si1vV3BWMW00VDU0d3NaQnd2cTVSek0zNW5xcm9ZaFdRandtRkNHWVdtS081ZkYwVkxWNVQyOUZnRk1ZSjdNWQ?oc=5",
+    "title": "Brain-Computer Interfaces Move From Lab to Living Room",
+    "source": "wired.com",
+    "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A trio of stories capture how far brain-computer interface technology has come and how many roads lead there. Wired profiles Rodney Gorham, who has lived with Synchron's implant for five years—longer than any other patient—using it to control his home by thought alone. Meanwhile, explainers on Neuralink and a comparison piece pitting Neuralink's invasive implants against BrainCo's wearable sensors lay out the industry's competing bets on how intimately the brain should be wired into machines.",
+    "companies": [
+      "Synchron",
+      "Neuralink",
+      "Blackrock Neurotech",
+      "Apple",
+      "Nvidia",
+      "IBM",
+      "University of Melbourne",
+      "BrainCo"
+    ],
+    "people": [
+      "Rodney Gorham",
+      "Elon Musk",
+      "Nathan Copeland",
+      "Tom Oxley",
+      "Zafar Faraz",
+      "Caroline"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "neural implants",
+      "patient experience",
+      "brain-computer interface",
+      "invasive implants",
+      "wearable technology",
+      "neural technology",
+      "neural implant"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXk3N3VyTk5ONU9McW9kQU5hczl4SVNURkpTd1JXX2VrUlZTVUVBVU9WaFpoMHAtOTFtWkU5RFpnZl82Si1vV3BWMW00VDU0d3NaQnd2cTVSek0zNW5xcm9ZaFdRandtRkNHWVdtS081ZkYwVkxWNVQyOUZnRk1ZSjdNWQ?oc=5",
+        "title": "Brain-Computer Interfaces Move From Lab to Living Room",
+        "source": "wired.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYWl4bHhSVDRUZGhUemFTVTRIVnRhb0dEX05NcUlvVnRrUjBxMHlzT09lU3l6WGxnTFlSQmtJM2U5X29zaHU4RG01NkJJWmpyaXkxSVFaZlZBaHE1U3hneW9VMEVuYVlnWGFxQ1dvV052Z1NfSUg0M29fZm5XdzBkN1pGVjdjRTJCWlhsOENLV1pFQVMxTWg1YjZyT0VOd0psOHFVWEZ2ZFA0TU5wOUN4c2ctY0xHMV9KemVVSTE2aTczRVJGeVFucTFhMnZFbFV3UFRBeW5fc0gxX3Y2?oc=5",
+        "title": "Neuralink vs BrainCo: Two Paths for Brain-Computer Interface Technology – Invasive vs Wearable Approaches - Earnings Season Review",
+        "source": "dars.gov.et"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTm9DOVlhN1BGUzJBR3ZZbHROWXEtLXBPWjFSTzVZRmhSNjE3czlMSGttd0RWdjQ1OWNWaHFfOThHLW1rZ21JVFh1LThNY0ZQdVNPdXlqRmY3QQ?oc=5",
+        "title": "What Is Neuralink? What We Know So Far.",
+        "source": "Built In"
+      }
+    ],
+    "body": "<p>Five years ago, Rodney Gorham had a mesh-covered electrode array threaded through his jugular vein and into a blood vessel that runs along the surface of his brain. Today, he uses it to turn on lamps, adjust his thermostat, and otherwise run his house without lifting a finger—literally. Gorham, who lost the use of his hands to ALS, is the longest-surviving recipient of an implant made by Synchron, the Brooklyn-based brain-computer interface company, and his five years of daily use, detailed this week in Wired, have quietly become one of the industry's most important data points: proof that a device can live inside a human skull for half a decade without falling apart, causing infection, or being rejected by the body it inhabits.</p>\n\n<p>That durability question matters more than it might sound, because the field chasing Gorham's outcome is now crowded and fighting over fundamentally different bets on how close to the brain a machine needs to get. Neuralink, Elon Musk's implant company, has drawn the most headlines with its own surgically placed chip, threading thousands of electrodes directly into brain tissue via a robot surgeon, a more invasive approach than Synchron's stent-like device, which avoids open-brain surgery by traveling through blood vessels. A recent comparison of Neuralink against BrainCo, which makes wearable, non-invasive sensors worn like a headband, lays out the industry's real fork in the road: surgery and higher-fidelity signals versus no incisions at all but a fuzzier read on the brain's intentions.</p>\n\n<p>None of these approaches has yet produced a product available at a pharmacy or a Best Buy, and that gap is precisely why Gorham's five years matter so much to people well outside the small circle of BCI patients. Every additional year an implant sits safely in a human body without complications is a year of clinical and regulatory evidence that invasive BCIs can be maintained, not just demonstrated. That evidence shapes how the FDA thinks about approving these devices, how insurers might someday cover them, and how many of the roughly 30,000 Americans living with ALS, along with those paralyzed by stroke or spinal injury, might eventually regain some version of independence.</p>\n\n<p>The competition between invasive and wearable models isn't just an engineering dispute; it's a bet on where the market will actually land. Invasive implants promise richer control—Gorham can operate multiple devices with nuance—but require surgery few people will readily volunteer for outside of severe disability. Wearables like BrainCo's promise easier adoption at the cost of precision, aiming at consumers who'd never agree to a procedure. If BCIs are ever going to move from a handful of trial patients to something resembling a consumer category, both paths will likely coexist, serving very different needs. What Gorham's five years actually prove is more modest than a cure: that the hardware can last, that a life augmented by thought-controlled machines is livable day to day, and that the industry's next real test isn't ambition—it's endurance.</p>",
+    "slug": "brain-computer-interfaces-move-from-lab-to-living-room-480fd8"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc0ZNUTRfSERrT25QcDRLbE1DUXBIRkV1czRlVzNmT1JHb2FtSHB0bUVYeDM0NWY0VzF2eWl6VkpGdzlSSEJTczNlWTY0eldJQ182ajdSTGxLZzRwZ3k0OXJ3UmFjSDM5d0hDOEY1YXB6Skk2UW5ubzJHYjBtNjVYdFU3dw?oc=5",
+    "title": "PRIME Study Progress Update — Second Participant",
+    "source": "Neuralink",
+    "published": "Wed, 21 Aug 2024 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink's second PRIME study participant has achieved successful communication through the brain-computer interface, advancing toward broader human trials.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "clinical trial",
+      "neural implant",
+      "human augmentation"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYWl4bHhSVDRUZGhUemFTVTRIVnRhb0dEX05NcUlvVnRrUjBxMHlzT09lU3l6WGxnTFlSQmtJM2U5X29zaHU4RG01NkJJWmpyaXkxSVFaZlZBaHE1U3hneW9VMEVuYVlnWGFxQ1dvV052Z1NfSUg0M29fZm5XdzBkN1pGVjdjRTJCWlhsOENLV1pFQVMxTWg1YjZyT0VOd0psOHFVWEZ2ZFA0TU5wOUN4c2ctY0xHMV9KemVVSTE2aTczRVJGeVFucTFhMnZFbFV3UFRBeW5fc0gxX3Y2?oc=5",
+    "title": "Neuralink vs BrainCo: Two Paths for Brain-Computer Interface Technology – Invasive vs Wearable Approaches - Earnings Season Review",
+    "source": "dars.gov.et",
+    "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "A comparative analysis of Neuralink's invasive implant strategy and BrainCo's wearable approach to brain-computer interfaces.",
+    "companies": [
+      "Neuralink",
+      "BrainCo"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "invasive implants",
+      "wearable technology",
+      "neural technology"
+    ],
+    "first_seen": "2026-09-05T17:05:41",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
     "sources": [],
     "body": "",
     "slug": ""
