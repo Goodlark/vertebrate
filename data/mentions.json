@@ -43560,7 +43560,7 @@
     "first_seen": "2026-08-30T18:23:03",
     "week": "2026-W35",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44184,7 +44184,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44311,7 +44311,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44416,7 +44416,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44607,7 +44607,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44906,7 +44906,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45246,7 +45246,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45510,7 +45510,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46450,7 +46450,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -46884,7 +46884,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47755,7 +47755,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -48571,7 +48571,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -48939,7 +48939,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -49320,8 +49320,368 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUM0WGNrQi01VGtBX1FZYmI5Uy1JbkdHN3drTU1HQUYwZjRPSEFjYS1HSU1RME5uM0pkZHZBd2Y4U0RMd0JRdm1Ldzk5bC1JWGZwQm1pVlFlekEwdGN5Y3A1THJGMG1pZGN4S2xJNzBBWnJsd19VT1F1alNzbDFPNlFlcW5GaGZsWnhrc0hxVHRleEljRDV4eWpSWU1hbmo1dmdjR3c1emE3dGxSVGZjaG1PZw?oc=5",
+    "title": "Humanoid robot-operated convenience stores debut in Hong Kong: in pictures",
+    "source": "scmp.com",
+    "published": "Sun, 06 Sep 2026 09:31:48 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Humanoid robots have begun operating convenience stores in Hong Kong, marking the first documented deployment of androids in retail commerce.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "retail automation",
+      "deployment"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa291ZUVMSGxJLXZWSjVxTjhVSG5adlBqVUxyNmRvM1lSRUUyeUhWSUtVNXM1NkRGMlotTWQyb2Z1cnB3cGVyUGFJZnJySDJTZXRkdlNuQllBSzloX2dxZFRGVy1RZm8zRm1aRkF2SzViY2hXSkRVazhUb3dVT3VhWnpDb2RBc2ho?oc=5",
+    "title": "LG Electronics Targets Big Tech Orders for Humanoid Robot Actuators",
+    "source": "조선일보",
+    "published": "Sun, 06 Sep 2026 08:01:14 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "LG Electronics is positioning itself as a supplier of actuators for humanoid robots, hoping to sell components to major tech companies.",
+    "companies": [
+      "LG Electronics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "actuators",
+      "robotics components"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjJpRjFyQTE0bU05X2ItNVc2U3VnNkFaYTZ6TjJYeDhNSXJndEt1MmpfQWJ3Nnp2OC1ZUUVwM2dWX0RJa3dTSjhwR0hmR3N1TmNRRjVuN1hENWJrSTZxU04tbm1ZV3FLcmJBOVBkanl3VWFKR3BvS0lZNG0tMjFkTU5tSEY5RC1ha0NGclY1dkJ1dw?oc=5",
+    "title": "How FPGAs become the gatekeepers of physical AI security",
+    "source": "The Robot Report",
+    "published": "Fri, 04 Sep 2026 18:38:15 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Lattice Semiconductor positions FPGAs as critical security infrastructure for physical AI robots, with executive Eric Sivertson leading the effort.",
+    "companies": [
+      "Lattice Semiconductor",
+      "Deere",
+      "NVIDIA",
+      "Hugging Face",
+      "Skild AI",
+      "Teradyne Robotics",
+      "JAKA Robotics"
+    ],
+    "people": [
+      "Eric Sivertson"
+    ],
+    "themes": [
+      "physical AI",
+      "security",
+      "FPGAs",
+      "hardware"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGlmZG9xRFp0WVVaenJybHRSUWZhd0ZVOHJKZjJIMFlSb3pTR3hab2ZiR2w0OFY2T0tUY3F2ZVlnUHZIUFR0UEtYdlBWN2x0VmRvSVg2OTlqM2tPb0lsU21rNG5acjM3ZWozc0taeVpCb1JxMkpvLS1Kamk5UUFNRno0UXV6WTRCUklDSlROalJ5VmN6M3FMMGg3Sm1oalNkNXpHSUdjMlBkSUczNXcwZHg5VFluNzM1LVhWVzFGTQ?oc=5",
+    "title": "Tesla’s new self-driving Cybercabs drive into federal safety scrutiny as safety audit open",
+    "source": "KEYE",
+    "published": "Sun, 06 Sep 2026 16:31:41 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Cybercabs face a federal safety audit as the company pushes its driverless ambitions into heightened regulatory scrutiny.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety regulation"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSZFoyVXpERWR1VzB1YkV2VEZldU5CakhSQ01WRzUzX2c3M01pRmtkaGxzNUh0QnFGRHZXODFabTJUQjdrenNDWE0yS0Ywc2VCVzdqRVdOSmFjaEJiVVN1b2N6Y1k?oc=5",
+    "title": "Zoox launches first airport robotaxi service in major milestone",
+    "source": "LiveNOW from FOX",
+    "published": "Sun, 06 Sep 2026 13:57:13 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Zoox deployed its first airport robotaxi service, marking the company's transition from testing to commercial operation.",
+    "companies": [
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnJYS1NDa0RSYWVrNGRYNldlemw5ZGs5VVFUaEpkYl9penYwaGZGVHJNVUlNYURneFl5RWE1RGVOVzQ3aldIZ3NZX3QyYWNtTU9CSm5tTTRFU3BDT1htTTl2QkVOOU8yQUswR0h4TEd4bThheENvdHRDX0xCTVltUG1FS0hBcDVuc3c0ZmVUUERLVWNHNVlIb3ZwcVNMSEhRUjFGWEdOWS1zX1AxWnpXX2t6MEEwNTB2MFgzTlUtRG1LZ3VCRUVOUGRKeVpLSHBCcUJNSmhXNmdxek5kU0E?oc=5",
+    "title": "Federal agency flags autonomous cars’ interference with first responders ahead of Waymo Denver expansion",
+    "source": "Denver Gazette",
+    "published": "Sun, 06 Sep 2026 14:45:24 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A federal safety agency warns that Waymo's autonomous vehicles are impeding emergency responders in Denver, raising fresh regulatory questions as the company prepares to expand operations there.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "regulation",
+      "emergency response"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVXZCV3V1bmJsb0swQWlMTUhhMTFnQVBNUmVKUTN5Vy1kNlRaTExhZmdQOGVpdFVPNk5pcHpPLUkxb1Y0QjNCdktUeHhSOUhxODRrSFdKdlFOcGpXcXJaenlMZGRoRFNmVzRTX1l3RWU2NEE0V3RxVHVrRUJNeU9XdnpYVU5rTFlZWjBHcXRjTGpOSDhzTTIyRmk3NDRGbFc2QzlB?oc=5",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "source": "TechCrunch",
+    "published": "Sun, 06 Sep 2026 16:45:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Reporting speculates that Travis Kalanick's Atoms could enter the robotaxi market, but offers no confirmation of concrete plans or partnerships.",
+    "companies": [
+      "Atoms"
+    ],
+    "people": [
+      "Travis Kalanick"
+    ],
+    "themes": [
+      "robotaxi",
+      "driverless"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82cUZpa05VbkFFbnFNb1dRYnVCNER2QUs0S0JyRmVOcE1CLUdNSWJKMmdCTUUxbVltSG85SjYycVdyaXRVcl80TFdfMUp0TlAwWUJqWG1Sa25RR2UzeFRyWThuN3o?oc=5",
+    "title": "Tesla Robotaxi will be a 24/7 service: here’s when",
+    "source": "Teslarati",
+    "published": "Sat, 05 Sep 2026 21:03:55 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Teslarati speculates on Tesla's timeline for round-the-clock robotaxi service without reporting a concrete announcement from the company.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEpubFpTWUxBNDRqdldpbGZldG5lcFNTV2t2N2tTZVRPQkpPS25WTHdTVGU1ellVMnZ2NWllWVpuSFRoVG1nUkR3SUJ1WGRGbklkYUgtTVNpSUkyZDlEWjhjTm8tNUhLRHNENkVJZ2c1VXN3eVBXbEkyWVBaek9Palo1Y2Y?oc=5",
+    "title": "‘Unfinished business’: Travis Kalanick revisits robotaxis with new start-up",
+    "source": "Financial Times",
+    "published": "Sun, 06 Sep 2026 04:01:22 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Travis Kalanick is starting a new robotaxi company after his earlier Uber ambitions stalled, betting that autonomous vehicles remain viable despite industry-wide setbacks.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [
+      "Travis Kalanick"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXBiV2hXcFdaclpkU0sySWFKQWg5bHA3Q1FBZjVLeUlzNS1EQWt1Nm1jZmplM19QUWg4ZlV2NjRWNEdYdlhRZ0N1UUg4UEJjOVo5RnFlb1NlTEVPbXlCUzA5R1l1WTlvZDljTnhDcW9PWEF1d2lnT3Y2ZWJZcUl5eTFDOVExbG84Z3hFS2dOaFE3c3Vyb0VsMW9Kaw?oc=5",
+    "title": "Tesla announces Robotaxi has driven 1 million unsupervised miles",
+    "source": "Electrek",
+    "published": "Fri, 04 Sep 2026 05:04:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla says its Robotaxi has logged a million unsupervised miles, a concrete milestone in the company's push toward autonomous ride-hailing.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNamhyd1pJdTFNZmxyWTBnMXNSbXVNcmlMNzBNTm1lbmxyWUtma05xdzdqdHJPMmdraDhXOVJmVkJDdl9Mbl9DV2E4cW9RbWhkYzdJMWNSTUJNNXF0LWlHbU9xeTJHb2d1Nk8tVnZuTG5FWE9ZeWRubFF1Sk9pbTlVb3l2c3BFXzkyamU0aWFRT21qM3RETFBwVWswVWRvamhaSGExOUx5dWQ3LVh2UjFOVE04SUNoSTBtTmVSNTg2Z1MtUE1zeXJ3YTlGc0pMYUpucHR5RXVydkhqT0pSbHV4WlAxcllhanVkQ3U1NllkcUtka1hKZ3FxaW9hQXBYajdvbkh5REpGTlFCVldDRy1BZ1BiYjdybXdPQ1J3eE92bEdqUEYxczc4MzBZaW1pZ0lHbHZ0UDVPcw?oc=5",
+    "title": "Iwa Robotics Unveils HAWK, CANARY and PELICAN: An Autonomous Drone Fleet Equipped to Detect, Diagnose, and Suppress Urban Wildfires",
+    "source": "Block Island Times",
+    "published": "Sat, 05 Sep 2026 18:09:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Iwa Robotics unveiled three autonomous drones—HAWK, CANARY, and PELICAN—designed to detect, diagnose, and suppress urban wildfires.",
+    "companies": [
+      "Iwa Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "wildfire detection",
+      "wildfire suppression",
+      "urban emergency response"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeHNuekhNaTlBQWZOUHNzREpIYnk0dHA0SU5JeGN0emtNVmpabEY4OEdQcXVEeExzUndnOV9TMlVDcE43UmpCLTV6RVZEYVlkUU9teGxkSlhkMWg0WXIyRk1MWFgyRUswRFpoTk1Ra19uUHk5Y3VGa1gxUDNoVG4tSTRPNlFydzNnY0ZSeWZ1ZUduRk5KNFkzVXhhZkVzUHJhdUdWcUNGbE5zendRYTFuemRhZzF4aERxYWxyUWVXV0xZLTRybXpSMmw3SUpTM1By?oc=5",
+    "title": "Garuda Aerospace inks MoU with Australia's TAS to advance autonomous drone capabilities",
+    "source": "AgroSpectrum India",
+    "published": "Sun, 06 Sep 2026 05:33:39 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Garuda Aerospace, an Indian drone maker, has signed a memorandum of understanding with Australia's TAS to develop autonomous flight systems.",
+    "companies": [
+      "Garuda Aerospace",
+      "TAS"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone capabilities"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWxqYTBxN29NWXAtdmNyRzJ4ZS1lRWZYVVVobEhBVEdWdkt5a3o5WE1lRjhZUDVSblJRWnM3eWZMZmdLcUtvX3hoTzNtT0o2cDlUVG1YWEZEWnhpWXNpb0xSRDJxUmpoajlUSERGU1VNZWRuTUlFeWVPV1BTRW9BX0ZKQVkwaGRaanJ0Yk5pQ3V5RlZVd2Y4X1VyYWt1QQ?oc=5",
+    "title": "OU Students Make History Operating World's Largest Commercial Solar Drone",
+    "source": "The University of Oklahoma",
+    "published": "Tue, 25 Aug 2026 11:56:15 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "University of Oklahoma students operated Skydweller Aero's solar-powered drone for eight days straight, a record flight campaign requiring both precision and meteorological intuition.",
+    "companies": [
+      "Skydweller Aero",
+      "University of Oklahoma"
+    ],
+    "people": [
+      "Mackenzie Moore",
+      "Nathan Ungetheim",
+      "Jasper Chan",
+      "Liam Thompson",
+      "Robert Miller"
+    ],
+    "themes": [
+      "solar power",
+      "drone",
+      "long-endurance",
+      "commercial UAV"
+    ],
+    "first_seen": "2026-09-06T17:28:34",
+    "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
     "sources": [],
     "body": "",
     "slug": ""
