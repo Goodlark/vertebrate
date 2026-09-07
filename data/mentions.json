@@ -44130,7 +44130,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44184,7 +44184,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44208,7 +44208,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44284,7 +44284,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44416,7 +44416,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44715,7 +44715,7 @@
     "first_seen": "2026-08-31T20:36:57",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44906,7 +44906,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44958,7 +44958,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45246,7 +45246,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45510,7 +45510,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45705,7 +45705,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -45989,7 +45989,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46912,7 +46912,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47729,7 +47729,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48006,7 +48006,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49251,7 +49251,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -49679,6 +49679,896 @@
     ],
     "first_seen": "2026-09-06T17:28:34",
     "week": "2026-W36",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
+    "title": "From dance floor to war: China readies humanoid robots for combat",
+    "source": "Reuters",
+    "published": "Mon, 07 Sep 2026 06:04:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China is developing humanoid robots for military applications, moving the technology beyond entertainment into combat scenarios.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "military",
+      "physical AI",
+      "combat"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXJxWFlHRWZoMUVpSXJaNU9Mc2prd1BRemZqUWNtdVhkYVhydWhvSE5PcHFmaVc3MU5OS0dqSXdRbm9wN29TMTIyZVZjT2YwZ1ZKX1NjbnJCN2VtY3lneFI1bFpNeGM5SVQ3UUxCSjNqdF9lMUhiOHlMRE9MMTNyaWNmY2RhZU1GZklObWl2RG5oVU0yZ2NzMlhER0FadTAtNldORDlSSkkyS0x3OXc3RGJR?oc=5",
+    "title": "China Turns Humanoid Robots From Showpiece to Potential Battlefield Force",
+    "source": "moderndiplomacy.eu",
+    "published": "Mon, 07 Sep 2026 06:13:24 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China's military is quietly preparing humanoid robots for potential battlefield deployment, moving beyond demonstrations to actual warfare applications.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Sana Khan"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military applications",
+      "geopolitics"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUI1X3lUMjdvWF80TzdYbzZ5Si15Y3Y3RFV3YVNMTHhXTnk3elMxZnRDOGQwV002Z25PbGdzeTMtLVdpMEY1YW8yRVAzZ0NiREExdlFzRlctRlVUeDBtRmdMcG1sb3M0R1hlWVhoeWxQSkNlRDFtcG5Jb0dJYTV6M0dmMXlfM2M?oc=5",
+    "title": "China readies humanoid robots for combat",
+    "source": "oodaloop.com",
+    "published": "Mon, 07 Sep 2026 16:21:30 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China's military is accelerating humanoid robot development for combat, moving machines from laboratories to training grounds.",
+    "companies": [
+      "People's Liberation Army"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military robotics"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPZm9CTnZtVUduMmdFTkpmYjYyNnY0RkFMaXdQS1N4T2NsZENKSnJtYlBHNG9Vb0NHXy1ZanBxakNSOUpNb3VUWlJBSkZBWEdHRllxTVpmQUczU3dZSW5qVk81T0VCU1c4OEJPOVQzWEdycE9BN0E?oc=5",
+    "title": "NEURA and SECO will build robot compute modules in Europe",
+    "source": "The Next Web",
+    "published": "Mon, 07 Sep 2026 17:26:15 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NEURA and SECO are manufacturing robot compute modules in Europe, a move to localize hardware production for physical AI systems.",
+    "companies": [
+      "NEURA",
+      "SECO"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "compute modules",
+      "manufacturing",
+      "hardware"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW5EaXc3M19mUjE4VVF0UU95WUJUeGpibi1LSXpYRUVrU2pKQkxxaDNFQVNab0FHRFNvcTUzdXhPOExTbTA1WXM0SWRYRXAyTmRMMGJZczYySk5JYWp1OHV2WkQ0dzBwMXBVTFZvSXVwRFp1d29laHcyNVpWOEFZVnpoaFc3a0tBZXVuaXVMQVN1N296TDQ4WU52ZUNORzdLajYwWVJDazBwbzVkUkN3emY1b2c2Umpsa3ZoSw?oc=5",
+    "title": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation",
+    "source": "AI Insider",
+    "published": "Mon, 07 Sep 2026 09:43:26 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Neura Robotics and Seco announced a partnership to integrate physical AI and edge computing into industrial robots.",
+    "companies": [
+      "Neura Robotics",
+      "Seco"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "industrial automation",
+      "robot compute",
+      "edge computing"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ZWhJcGVheWVDdUhvX1Nxb0RObHVnMmNUS1VYSDBDaGQ4UFR6U3M0Ymx6RDllRVotbEUzeDh5akI2WUN3YkZ6bHlkd0s3M2ZDRmNycUl6Z18wX05RVEJNX3BXaVRXc0E?oc=5",
+    "title": "EcoPro Targets Humanoid Robot Batteries With High-Nickel, All-Solid-State Technology",
+    "source": "thelec.net",
+    "published": "Mon, 07 Sep 2026 09:44:47 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "EcoPro is developing all-solid-state battery technology aimed at powering humanoid robots, though the company has not announced a concrete deployment or partnership.",
+    "companies": [
+      "EcoPro"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "battery technology",
+      "all-solid-state",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVdDUGx5UVZWNW52SExpdTBWakVCcGY0cTNuY0dlUFp5ejM0MFNWSzA3c0xnQU1KUnRtcVdERDZaamlFeXJ6Y1hfVHRYeEJxQzBOSVJwWGp4azc5UzVfeHRJRG16REI3RTBxVVRyWmp2Uk9NUjFySjlWNlhDOHpaNGVJbUExMHVqSHl2MW9rSQ?oc=5",
+    "title": "Samsung may unveil humanoid robot in 2027",
+    "source": "Breakingthenews.net",
+    "published": "Mon, 07 Sep 2026 12:20:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Samsung is reportedly planning to unveil a humanoid robot by 2027, though no concrete specifications or timeline commitments have been announced.",
+    "companies": [
+      "Samsung"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?oc=5",
+    "title": "China’s EV makers see synergy in their race to beat Tesla in humanoid robotics",
+    "source": "South China Morning Post",
+    "published": "Mon, 07 Sep 2026 02:00:19 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Chinese EV manufacturers are positioning humanoid robots as a natural extension of their automotive ambitions, though concrete product timelines remain unclear.",
+    "companies": [
+      "Tesla",
+      "BYD",
+      "XPeng",
+      "Li Auto"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "electric vehicles",
+      "China"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUo4bHNDRGthUEVwY0Q1WFU1cEhiampUYTEyQXBucXo4ZmdYdmVjcy1PdlZGSzBpQUk4bEQ0YnVOSTNBemhhWlNDV0xpSDJKOU83YkwwWFVmaGV4MUFzTHJfLWNPVmlhSTRleWN4d0FLam12dFYzZXU2NEZaX1E0dy04R3BCVDQtVEZ0b3g4a0RHVHpjYlNkVHNB?oc=5",
+    "title": "Israeli firm expands its physical AI platform with AtlasROVER ground robot delivery",
+    "source": "Interesting Engineering",
+    "published": "Mon, 07 Sep 2026 15:43:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Israeli robotics firm Magellanic expands its physical AI platform with the AtlasROVER, a ground robot designed for autonomous delivery.",
+    "companies": [
+      "Magellanic"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "autonomous delivery",
+      "ground robot",
+      "robotics platform"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
+    "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+    "source": "The Robot Report",
+    "published": "Mon, 07 Sep 2026 13:27:46 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Agility Robotics, gearing up for a SPAC merger, posted $1.8 million in revenue as it prepares to commercialize its bipedal warehouse robot.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "warehouse automation",
+      "SPAC"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDBhWkxGRTRhaUszVnk4b1dET1dKeEpCc3hueXpMUHFnUFhfMVJNRDhBOG1tbDdwNWtlRmF3MmdtQmhUbUtaWnZzTmpTUTk0UGRqTWEzTGJLZmxNTjh3RlRwQjkydTVLdmhWTjF2Q3I0X2ctTDJXUWpRVFUtS05kMzlXRzFRakRnZk1QdXdqLXVQZTFXYmMxeUVoNkgzNU1I?oc=5",
+    "title": "New system helps humanoid robots gesture more naturally while speaking",
+    "source": "Interesting Engineering",
+    "published": "Mon, 07 Sep 2026 09:50:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Chinese robotics firm Galbot has developed RoboGesture, a system that enables humanoid robots to generate natural gestures synchronized with speech in real time.",
+    "companies": [
+      "Galbot",
+      "Tsinghua University",
+      "Peking University",
+      "Beijing Institute of Technology",
+      "Harbin Institute of Technology",
+      "Shanghai Qi Zhi Institute",
+      "Unitree",
+      "BrainCo"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "gesture synthesis",
+      "natural interaction",
+      "robotics"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWNrYVF4MFRkTGcwSzcyd0RTbk1PUEFfMkxKb3VrVng1VjVoZ3hfb1dCRHpMNTBGT2xmQlJscTFEYXlHbXZzNnlVLWJsQ1ZNZWtaa19YMGk0ZWpLZGVDZS1BS2NSSGdtZEtvNDQyeDBLZUdYcXhEOVdVV2w5QS1iazlVcWFiVk1mVUdlRE9BYzBQalhyRGJzSUVIRE5RTG93cXllTmhLNC0wSnNQbGhjbTBDTGVjdkk0ajhrYXlOSC1lN3Blb2xj?oc=5",
+    "title": "Tesla Optimus, Grok, and TSLA Stock: Inside the Physical-AI Bet That Now Defines Tesla",
+    "source": "InvestorPlace",
+    "published": "Mon, 07 Sep 2026 13:36:47 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "InvestorPlace argues that Tesla's physical-AI ambitions with Optimus and Grok are reshaping investor expectations for the company's stock.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "robotics"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUhTRkZVM2pUZlY4WTVNLTVKQzRoc1prUExVaTdwTVNaUlE3azdwYTBOMk1jc0lTeVZlUmpQYjFfRVpwOHJwaHB4MUU0M0MxNFJHYTlzcGE3Z2c0UU80Z0Y1SkJHWWloZUdwdXJPNkVIS0ltY2lKdF9xRVUycnhJQmw4dXFWcEZUakF2LW5qMUNNWHVzcGY5czQ5enZBSmQzd1BUUXpQNzR0LW5kQnEzU1lvYkUzdHlCQ0JoWk13WmYwMjFGR2JQUDRDVDVnMHFrS3FCVHRJQzRLQzNyMDhn?oc=5",
+    "title": "LG Electronics Is Banking on Humanoid-Robot Actuators as a New Component Business",
+    "source": "Global Sources",
+    "published": "Mon, 07 Sep 2026 06:30:26 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG Electronics is pivoting to sell actuators—the motors and joints that make humanoid robots move—as a new component business.",
+    "companies": [
+      "LG Electronics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "actuators",
+      "manufacturing"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlJzZEN0d18wT0FYY1ZMZllzcjY4YzdSbGVtRlpXNkdPdWpkV0o4NTAzeE9idzB1SE9ReWZlYllLRk1rVi1VWFhlc0p0ZmxINnVPOXBEVmxKWmltRmpHWlUwRVB0ZHpaS19teWZOWThIOXM4RGExNjlTQVptR3VKQ1ZwYWFCS3piTFBNUTRYWVdCQjQwMlA5VGdWQ0d1RExBQWdOSDdwaEhGbmpRcGlFUlN2Q0d4OHQyQmwzNWdB?oc=5",
+    "title": "Autonomous robots appear alongside Dubai Police in Dubai",
+    "source": "Stock Titan",
+    "published": "Mon, 07 Sep 2026 13:49:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Dubai Police has deployed autonomous robots for patrolling and surveillance duties alongside human officers.",
+    "companies": [
+      "Dubai Police"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous robots",
+      "deployment",
+      "law enforcement",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XbW43NHZ1X3dxbzd6TENsM1dTWTAyYmE5TGlwalJrWlhTRzZVM0pPVThMV3VTOVhxeGNEWVI2Y1B5b0VEYkxwWFc5MUhNSGliWjZLbndwSDhlMHJaejJ2NFotYjdHWHI4RlZwUjhYWkNIXzBkdFE?oc=5",
+    "title": "China's Military Pushes Humanoid Robots Toward Battlefield Deployment",
+    "source": "finance.biggo.com",
+    "published": "Mon, 07 Sep 2026 18:06:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "China's military is systematically preparing humanoid robots for battlefield deployment, with the PLA acquiring perception systems and Norinco unveiling its Fuxi model for combat roles.",
+    "companies": [
+      "People's Liberation Army",
+      "Norinco",
+      "National University of Defense Technology",
+      "BofA Global Research"
+    ],
+    "people": [
+      "Wang Yonghua",
+      "Dennis Hong"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military deployment",
+      "defense technology"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHpzQ2VmWXlxMVZ2SmJvYkI0VVFPcE9uZFFWT1Zic2R5RThCVHVXbTVvaEdkY2g2bjZiNWFvd0F6MG93SHd3WlhBNC1xazlqa3d6X1VHUmR3V0ZGT0ItbXRFRUlTOHpnWkZ2NFBBaTJpMTNZYmpWUHlveC0tVDk5OTAwY3RLRUs4VWc?oc=5",
+    "title": "Tesla's Robotaxi Story Wobbles Even as the Hype Machine Keeps Running",
+    "source": "Teslarati",
+    "published": "Mon, 07 Sep 2026 01:07:23 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla claims a milestone in its Unsupervised Self-Driving program, but without independent verification, while its stock slides on investor doubts about the robotaxi timeline. InvestorPlace frames Optimus and Grok as the new pillars of the Tesla bull case, and Cathie Wood's Ark keeps buying despite a long trail of missed autonomy deadlines. Together the items sketch a company whose valuation increasingly rests on promises rather than delivered products.",
+    "companies": [
+      "Tesla",
+      "Ark Investment Management"
+    ],
+    "people": [
+      "Cathie Wood"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "self-driving",
+      "robotaxi",
+      "autonomous vehicles",
+      "physical AI",
+      "humanoid",
+      "robotics"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHpzQ2VmWXlxMVZ2SmJvYkI0VVFPcE9uZFFWT1Zic2R5RThCVHVXbTVvaEdkY2g2bjZiNWFvd0F6MG93SHd3WlhBNC1xazlqa3d6X1VHUmR3V0ZGT0ItbXRFRUlTOHpnWkZ2NFBBaTJpMTNZYmpWUHlveC0tVDk5OTAwY3RLRUs4VWc?oc=5",
+        "title": "Tesla's Robotaxi Story Wobbles Even as the Hype Machine Keeps Running",
+        "source": "Teslarati"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajJuS0pBZGtfdzJLcHhvWUlQSzNRY01wZVVmTUwyY3poSHZRT3R6ZjlmelJZYTBNQ01BQjMtLW5FRFVlWXMzdU56TXFmTmZJYlVFYzQ1Z3lPS1VtUjFxdlVMem5SVVlFa3FhN2JnU1BYQmpQUExGVGFBdWtseVFUb0lDSFVidUs0aE9DWXJVVV9WSkEtRUxv?oc=5",
+        "title": "Cathie Wood Has Stuck With Tesla Through Repeated Missed Robotaxi Deadlines. Here's Why She's Still Buying.",
+        "source": "The Motley Fool"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWNrYVF4MFRkTGcwSzcyd0RTbk1PUEFfMkxKb3VrVng1VjVoZ3hfb1dCRHpMNTBGT2xmQlJscTFEYXlHbXZzNnlVLWJsQ1ZNZWtaa19YMGk0ZWpLZGVDZS1BS2NSSGdtZEtvNDQyeDBLZUdYcXhEOVdVV2w5QS1iazlVcWFiVk1mVUdlRE9BYzBQalhyRGJzSUVIRE5RTG93cXllTmhLNC0wSnNQbGhjbTBDTGVjdkk0ajhrYXlOSC1lN3Blb2xj?oc=5",
+        "title": "Tesla Optimus, Grok, and TSLA Stock: Inside the Physical-AI Bet That Now Defines Tesla",
+        "source": "InvestorPlace"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFIxVXhFQjZYaTZKWDFacWQ1TXVOVWNfTEt1UVp6YndBWno4SW5BeXlKdGZ6NXJfRUo4b213SlNYMlNZb2JYSjM3Y2hINWZRdU41bUFWbmw0ZGllZk5oVGNSNlItOS02bDZnQlhsNHh6MlNUeFBmdk5xMkpQa0hpa29weHB3SkdRX1hacFpuRXpHYjIwRngxLVh6T0ZKMXNxSWc?oc=5",
+        "title": "Tesla Stock Is Tumbling -- Robotaxi Hopes Hit a Major Roadblock",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "body": "<p>Tesla said this week that it had crossed a \"major milestone\" in its Unsupervised Self-Driving program, a claim that arrived, as these claims tend to, without a video worth trusting, a regulator's sign-off, or any third party willing to vouch for it. The announcement landed the same week Tesla shares slid on Wall Street, where investors have started asking a question that should have been asked years ago: what, exactly, is the timeline for a robotaxi that generates revenue rather than headlines?</p>\n\n<p>The stock's drop, reported by Yahoo Finance, followed a familiar pattern. Elon Musk has been promising a driverless Tesla fleet since roughly 2019, with deadlines that arrive, pass, and get quietly reissued. This time the market's patience showed some fraying, even as the company's own PR machine described the milestone in terms usually reserved for moon landings.</p>\n\n<p>Not everyone is bailing. Cathie Wood's Ark Investment Management, according to the Motley Fool, has kept buying Tesla shares through this entire string of missed dates, betting that the eventual payoff outweighs a decade of delay. It is a stance that requires either extraordinary conviction or a willingness to treat \"eventually\" as a financial model. Ark's continued position matters because it signals to smaller investors that institutional money still sees a floor under the stock's autonomy narrative, whatever the delivery record says.</p>\n\n<p>Meanwhile, InvestorPlace argues that the bull case for Tesla has quietly shifted shape. It's no longer just about robotaxis; it's about Optimus, the humanoid robot, and Grok, the AI chatbot Musk has folded into his corporate universe, reframed as \"physical AI\" — a phrase built to make a car company sound like a frontier tech company. This rebranding does real work: it gives investors a second and third story to hold onto when the first one, self-driving cars, stalls out again.</p>\n\n<p>Taken together, these four data points describe a company whose stock price rests less on what it has shipped than on what it says it is about to ship. That's not new for Tesla, but the stakes have changed. The robotaxi promise once had a plausible near-term path — a fleet, a city, a fare. Optimus and Grok are vaguer, further out, harder to verify, and easier to hype. For the robotics and AI industries broadly, Tesla's pattern is instructive and a little corrosive: it normalizes the practice of announcing milestones nobody outside the company can check, and it trains investors to treat unverified claims as catalysts. For ordinary people, the gap between promise and product isn't abstract — it's the difference between a driverless car on the road next year and one that remains, indefinitely, next year.</p>",
+    "slug": "tesla-s-robotaxi-story-wobbles-even-as-the-hype-machine-keep-0bc668"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFpCdjJ2TzkzWmJ3ckNKbXRKVFN2SHFLbzAwdDNCZGs5TV9lenZoakxXV3V4R1RULXg5LTRBenFOUmRwNW9DdHNBNDZUSlVLTE1UdjZGd2k1OGFYbjRmWUQ3X01wNV84NDdEcE1vSVJyX19GTXJ5QWQ4c0RVNDlwMWpUTGxyY2tPaF9wU2JFNkk4cUNvNll2Q2xKMFNCSWM1enc?oc=5",
+    "title": "Waymo might be fun to ride — but will it be as cheap as Uber?",
+    "source": "Denver Gazette",
+    "published": "Mon, 07 Sep 2026 18:00:37 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The Denver Gazette questions whether Waymo's robotaxi service can compete on price with established rideshare platforms like Uber.",
+    "companies": [
+      "Waymo",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "pricing"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFIxVXhFQjZYaTZKWDFacWQ1TXVOVWNfTEt1UVp6YndBWno4SW5BeXlKdGZ6NXJfRUo4b213SlNYMlNZb2JYSjM3Y2hINWZRdU41bUFWbmw0ZGllZk5oVGNSNlItOS02bDZnQlhsNHh6MlNUeFBmdk5xMkpQa0hpa29weHB3SkdRX1hacFpuRXpHYjIwRngxLVh6T0ZKMXNxSWc?oc=5",
+    "title": "Tesla Stock Is Tumbling -- Robotaxi Hopes Hit a Major Roadblock",
+    "source": "Yahoo Finance",
+    "published": "Mon, 07 Sep 2026 15:49:16 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla's stock falls as investor skepticism over its autonomous taxi ambitions deepens.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0dZOXVWTmpxQkxxSTVwNWNabG4xUGF5VzY1d0lXT3lPWWNiNDNHOTVQTmFoMjRCMWM0RnRBU0VEdjEyWkZMdUZHQmNGTC02UklSNU8zclMzbDV6U0VQVk1YY3R3LUdrcXgtamtyNXNmRHlJU0RSU25pNXAyMEVtcm9tNkpsUkZwWEFEcUREdW05Y1I3dnI3cDRpdENBYk0y0gGmAUFVX3lxTE43M2x1SV9WR1BOZ0dMcFFFQldTQWlHc0x1dTduQ3lHcXVUeThoeFVRVG4wdm0xSThuaE55WU1aOHJGTXRqNGtvUVBGWjB4NXpTaGFuRnhOSHNyc0tEWi11WEU2UDNLQ2R1cFNmcTBKN0w5dWZya01oZHVhVHBLWkYzV09ZNmkwc2E0YmpySkR3MF9TcG10bzNnTFZOQXlid3lQc09lVnc?oc=5",
+    "title": "WATCH: Driverless Zoox vehicle involved in Las Vegas crash",
+    "source": "KLAS 8 News Now",
+    "published": "Mon, 07 Sep 2026 05:05:01 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A driverless Zoox robotaxi was involved in a crash in Las Vegas, marking another real-world incident for the Amazon-owned autonomous vehicle company.",
+    "companies": [
+      "Zoox",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety incident"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV2M0aEJ1dnRnWFAzNWFCM3Vjb2g5M05abTJhR2NzZnNDbTZWN19rVFhtY3pNNTNpS0ZDOXJWNUJnczBWWVhHWnJycXZlazNfd3dkYmxMazFaNEVnLWd0Q1ljWUZxUzczNEx3X21oMlpyc1JWbERXMGRqM0lVRHFLeU9TUHlMRS1mRFpKWGM4c09NcmVJVkRod1M3Q3VwLWZQRGNZU05WMm5zbElhcVBZaUd0ZVUtLVpYQkFRaWlpTW1pdXBKc1Zfd3RmQmdEWk1ZQnluZjFIcHhBbzdaeTdUNA?oc=5",
+    "title": "Driverless car era arrives in Tampa as Waymo launches autonomous ride service across 50 square miles",
+    "source": "Tampa Bay 28",
+    "published": "Mon, 07 Sep 2026 10:34:31 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless ride-hailing service to Tampa, covering 50 square miles of the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajJuS0pBZGtfdzJLcHhvWUlQSzNRY01wZVVmTUwyY3poSHZRT3R6ZjlmelJZYTBNQ01BQjMtLW5FRFVlWXMzdU56TXFmTmZJYlVFYzQ1Z3lPS1VtUjFxdlVMem5SVVlFa3FhN2JnU1BYQmpQUExGVGFBdWtseVFUb0lDSFVidUs0aE9DWXJVVV9WSkEtRUxv?oc=5",
+    "title": "Cathie Wood Has Stuck With Tesla Through Repeated Missed Robotaxi Deadlines. Here's Why She's Still Buying.",
+    "source": "The Motley Fool",
+    "published": "Mon, 07 Sep 2026 13:45:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Cathie Wood's Ark Investment Management continues backing Tesla despite years of unmet robotaxi promises, betting on the company's eventual autonomous-vehicle ambitions.",
+    "companies": [
+      "Tesla",
+      "Ark Investment Management"
+    ],
+    "people": [
+      "Cathie Wood"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamVFVXR2OUtMSUxSNHlERlViQkN4X2ZIb3FZYUtncWx1a3pmM2J4VTBSYy1GME9XXy10UGw4d1VTYjVGbURSOHF6cXdFZmcyWkJnX3Ztdm05RmNicWhJVjVaWVZsWnpKbnVZQk9QTXBuTlhTQ19ydG9Pd3ZmLVNiVVY3LWk4MzE1U2cyRDVTal93cVRMRWExTXNEVkNLLVBOSGJ4aA?oc=5",
+    "title": "Former Uber CEO Travis Kalanick is returning to the robotaxi race",
+    "source": "SiliconANGLE",
+    "published": "Sun, 06 Sep 2026 23:34:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Travis Kalanick, ousted from Uber, is launching a new robotaxi venture to compete in the autonomous vehicle market.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [
+      "Travis Kalanick"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4YWFSbmRwN1QzLTI1MVNFbEZ0UTRWWGFuTTF4RG1SVVlzOTk3UTdFRmdrN2ptMUgzRWRKcm5PZ0VnV1g1MVJLa1ViaEJnTzF3cUs5LTFwZVFXZ0RQQmFaUUhEVUFuSjNsbXF2WHJYNkxfaEJpWGNRdUQ4M0tIUQ?oc=5",
+    "title": "A Tesla ran a stop sign and killed a man, record confirms Full Self-Driving/Autopilot was on",
+    "source": "Electrek",
+    "published": "Mon, 07 Sep 2026 18:41:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Full Self-Driving system failed to stop at a red light in a fatal collision, according to accident records.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "Full Self-Driving"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtGMUMyaVRoRm1pWkdvM1pYTktsaVUxNkloT1FfQVJkZjRCSC03MGI0RkJJeTMyQkdqUjJaeHcyTHdBaEh3NzcwNUVIRXdpa2NhMm9oWUVkZk1Ob2dNN0E4aXM4T0lTN1liZmlNNk5Zam1TTmRJYkpMUUFSdlBuLVZndUxINVlxVTk2TVRJenpOWUh6Z01BMWV3SVJ2elNTdjBVVF9qTXVIY3NZdWdoaWZYM3JZUQ?oc=5",
+    "title": "China Moves to Address Self-Driving Cars in National Law",
+    "source": "Sixth Tone",
+    "published": "Mon, 07 Sep 2026 10:44:39 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "China's legislature proposes the nation's first national law governing autonomous vehicles, assigning manufacturers responsibility when self-driving functions cause traffic violations.",
+    "companies": [],
+    "people": [
+      "Zheng Fei"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "policy"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUsxWHNEOVpSSFFKc3hfT3U5SDNLckFfUXFSUzgzMnZtUnRZd0Y5dXJRejhua3JPc1dhUzZDUzA1RjZya3FIa2F5eUNSQVprSmI1QVRpZVNkd0x6UDlUdjFTS2hKT1EzQ0I4UnV5WUV6S1lEakhmaG9DLUhCSnp0cnFyLW81UU1Qbi16aURTaWZxZUZBWlpfODRIeVltNkRHc0RrUE1SUlNLMUNWTG9fdm9XcTRHZw?oc=5",
+    "title": "Video: Autonomous Cargo Drone Chaparral’s First Flights Under the eIPP",
+    "source": "autoevolution",
+    "published": "Mon, 07 Sep 2026 12:53:11 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Chaparral, an autonomous cargo drone, completed its first test flights under the FAA's enhanced Integrated Product Promotion program.",
+    "companies": [
+      "Chaparral"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "cargo",
+      "eIPP",
+      "FAA"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2szekRON0JJQmlabFRWM244Ukd3TGRvZllrbVRjZjFSVXI1WTFNWTlTTEJDS2VrdWgwcFlhdU9jN0NjMWNkTklMZk1XS0Y1S090alk0ZkxVem05VXA3U0x1NjZrekNjOFlpczNlQ0xheW94Q01NalQzNUZteEpKWkpSNzFLMGVRSWFKMUJpT1lQWVJ6aGdVWTBRcjctOWRTcm5ib3FpcWNsTDJ5QUx2bA?oc=5",
+    "title": "Sea drone completes first long-distance sea trials off Kola coast",
+    "source": "The Barents Observer",
+    "published": "Mon, 07 Sep 2026 13:10:52 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "NPK Progress, a Murmansk robotics firm, piloted an autonomous sea drone on a 169-kilometre voyage off Russia's far north coast without human intervention.",
+    "companies": [
+      "NPK Progress"
+    ],
+    "people": [
+      "Thomas Nilsen"
+    ],
+    "themes": [
+      "drone",
+      "autonomous",
+      "maritime",
+      "sea trials",
+      "Arctic"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZFQtdUpHdk9tOHhoYXBVVjZndHVBUGhHUnNjXzkzcFJXNG9fZTIzNWxzRmxuTzhKVC1jMWl4T2hYT1c2MFdKZDF1MkxfZjdwNXNxdHpWcl95Z1RSTzZtWkxRWm5JOXJDODV6aEpzbGLSAXZBVV95cUxNdU4xMGtHZldGTEEyRTZjMjg3eHhVMFI5MGtNSEVvcTdnZ3NZWl9oZ3kyb250S1B5QlB2Zk56MHNhNjYwQkJHRGhfNmY3c0hhQ2FzZXdEYk94T2g3OHlWXzNkOG81ZFlYME0tSVVGWmR3R0FxS3FR?oc=5",
+    "title": "India Advances Homegrown Drone Swarm System for Coordinated Strikes",
+    "source": "The Defense Post",
+    "published": "Mon, 07 Sep 2026 11:26:44 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Indian startup Armanetics has built ARMANET, a control platform that coordinates multiple drone swarms through a single interface for synchronized strikes.",
+    "companies": [
+      "Armanetics"
+    ],
+    "people": [],
+    "themes": [
+      "drone swarm",
+      "military drone",
+      "autonomous coordination",
+      "India defense"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUk9EVnh3SzZTaElodHU0TUx6NnJBU0EyMWNkWG1wTU5iZFd3OE9sRXFqRDZNZUJiTEthVXV4UUhkZGptSjRWOWpqZTNRdE9RaE5IQ1dBbkRpR0FlbzBYdnJSNnFzRmNCRFhNSGhRc3pJd3dlUDhIR29vb0l0b3RVbGJJQ0JhN09DVkltdlRKeVdGNTRqR1FPSHFVZ2tFb3JUSWNkWEFQZ0VKdw?oc=5",
+    "title": "Iwa Robotics Introduces Drone Fleet for Wildfire Detection and Suppression",
+    "source": "AI Insider",
+    "published": "Mon, 07 Sep 2026 01:43:24 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Iwa Robotics unveiled a drone fleet designed to detect and suppress wildfires, moving autonomous systems into real-world fire response.",
+    "companies": [
+      "Iwa Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "wildfire detection",
+      "autonomous systems",
+      "emergency response"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNQnlsWTBGWjJRQWQ0cTdjOGtLOXBLS0xORDhyd1ZXYkk4NzZuTE0zTVVFdGVGZkRQY2ZhMmVNUGVaelZMMHppOW5rZU1tX0NUWGhWeFd6Z3dDd2otMzF3RW45dGd0ZHMzYl9ILTZRQXlmMlhMLXlJYktPUXlCR1VPbHpMNkl2NHpIV0JVb2pETDJ0U3BaLTVpWUpaQ1U5NFpEeW90YlNRY19QUU9xWEJuc3AtaUlVNmhfQ21oempVRWpPdmtvOTljVWtzdVowcWpBNEluS241bHBmbk40cnFlRlhtd0ZZa2xyUDFfckVVTGJvQkVvQWY3X1B6U3RicWZ0NThiNG5sUE9JWl9uZnoxTzZ4TTJ0c1lxR25UbU1iZkNUYnI4bXN2ZHBiSGdOLVNESDZadg?oc=5",
+    "title": "Iwa Robotics Unveils HAWK, CANARY and PELICAN: An Autonomous Drone Fleet Equipped to Detect, Diagnose, and Suppress Urban Wildfires",
+    "source": "GreenevilleSun.com",
+    "published": "Sat, 05 Sep 2026 18:09:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Iwa Robotics unveiled three autonomous drone models—HAWK, CANARY, and PELICAN—designed to detect, diagnose, and suppress wildfires in urban areas.",
+    "companies": [
+      "Iwa Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "wildfire suppression",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMHNMSUdQVU15TFdOeTBhR1RyWFEwTzNDMnNDN2ZLUUJWQlRORXljX0JIQndkVm0zZ2JTaVhnc014bGRKVTBWNnJQc2NTbVRfWjEyZGtsd1lJWU5DeUVyVU5UQzl2UUVLYXlaeVZ6cw?oc=5",
+    "title": "Aevum’s Sleek Space Launch Drone Turns Heads at Long Beach Airport",
+    "source": "The Aviationist",
+    "published": "Sun, 06 Sep 2026 20:21:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Aevum displayed its air-launch drone at Long Beach Airport, a vehicle designed to carry small satellites to orbit without a traditional runway.",
+    "companies": [
+      "Aevum"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "space launch",
+      "air-launch",
+      "satellite"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://neura-robotics.com/neura-robotics-seco-partnership-physical-ai-europe/",
+    "title": "NEURA Robotics and SECO Join Forces to Scale Physical AI from Europe",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics and SECO announced a partnership to jointly develop compute modules and production infrastructure for NEURA's humanoid robot 4NE1, aiming to scale physical AI manufacturing across Europe.",
+    "companies": [
+      "Neura Robotics",
+      "SECO",
+      "Qualcomm Technologies"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "embedded computing",
+      "industrial robotics",
+      "semiconductor"
+    ],
+    "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
     "why": null,
     "duplicate": false,
     "folded": false,
