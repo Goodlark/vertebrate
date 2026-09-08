@@ -44880,7 +44880,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -44958,7 +44958,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45246,7 +45246,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45299,7 +45299,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45379,7 +45379,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45510,7 +45510,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45619,7 +45619,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -45705,7 +45705,7 @@
     "first_seen": "2026-09-01T18:07:10",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -45832,7 +45832,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46425,7 +46425,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46736,7 +46736,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48059,7 +48059,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48659,7 +48659,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48800,7 +48800,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48826,7 +48826,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48853,7 +48853,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49018,7 +49018,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50135,7 +50135,7 @@
     "first_seen": "2026-09-07T18:58:11",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -50568,6 +50568,1036 @@
       "semiconductor"
     ],
     "first_seen": "2026-09-07T18:58:11",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yMEtsb1NVd3VUbkJjMWp1ZENKdnRhelpYX0tMMGpkM19tTWppSDRuMnA5bkJQNDhlUE02cnR2R0sxZUVmeWhzZk45UEhfQkFNQmJESkNyOUtZaTg4N3E3U1J0ck93WEMyMG4w?oc=5",
+    "title": "XPENG IRON Humanoid Robot Now Walks Off the Production Line",
+    "source": "XPENG",
+    "published": "Tue, 08 Sep 2026 10:28:53 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng's humanoid robot IRON walks off the production line, marking the Chinese automaker's leap from prototyping to mass manufacturing.",
+    "companies": [
+      "XPeng Inc."
+    ],
+    "people": [
+      "He Xiaopeng"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4QUxuVzBDa1ZKaHdZZjhlb01zNEdUdXp4NTlvUFVYUndieS1zWFNwYlFmZ3ZxbnluRmdVSU1tSHc3ekpoU09GOC12czZRSkotWkk3UEpTSm5hYmE3elBiOWs2WXBMcHFEVGwyb19sMzQ0Q3ZaLVVBWk9wLXlsUQ?oc=5",
+    "title": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
+    "source": "Electrek",
+    "published": "Tue, 08 Sep 2026 02:40:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has begun production of its IRON humanoid robot while Tesla's Optimus development faces delays.",
+    "companies": [
+      "XPeng",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot production"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOEJwWDQtOUVjeVNSejIzZlZ0aWZqR1ZNSXNWd1hqNzlpM3ctVlVZYngwZGhFVG5zaGs3VTAzeEstOFgxR2ZJMlBBT1IwT2dIdGZXWmVuMkVNZ3BDem9laEdnVndIYTROS3BMQkRJSzNwRXZJTjI5M2ZhMjdZUGFSNEJrWVg5RWs?oc=5",
+    "title": "Xpeng opens Iron humanoid robot production line, paving way for year-end mass production",
+    "source": "CnEVPost",
+    "published": "Tue, 08 Sep 2026 01:47:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng has opened a production line for its Iron humanoid robot, preparing for mass manufacturing by year-end.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWndHUVpMbXVTcWhJdFpQSGpqUnZSa1VsOUN1SU12T3otSk9VS1d2cXVXMGIyMmNTUkVYY2R6NldYUkx2cUp0c0hfZ2E3UktCellXbUdmVGFuOXFJWTFqaXpGX1dqV05SQlZ4eXd1OHQxaUJMZkRJT25oS0IxN1FsTnRSdk84VDkwMml2ejVDTnUzMlVVT0lGREozQXRxZWhFUDRTbzI2dmdHYTZ0?oc=5",
+    "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
+    "source": "The Conversation",
+    "published": "Tue, 08 Sep 2026 11:59:03 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "At Beijing's Humanoid Robot Games, machines sprint and box impressively, but laundry—with its crumpled sleeves and unpredictable folds—may be the true test of robot readiness for home life.",
+    "companies": [
+      "World Humanoid Robot Games",
+      "Open X-Embodiment"
+    ],
+    "people": [
+      "Wai-keung Fung"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "household robotics"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWV1VHJIalFNNUVnUUZXd0RNc1Fwc2NJMXBCU1NHYjI2M3FhWHl3QUdhT2tSVDhNRW9QYW9RUW9vaVcyVERrZmh3ZFJfYS0zX0dFb0xsd0FUVXgzYnRVSDdMY3V5N3RrdUpGVXRCZjdzbl9aVUpRMzQ3eTVVVWlTZWtBaDQ2dXF4clh6MEtfM1FqR2V3?oc=5",
+    "title": "Unitree's humanoid robot fights person autonomously using new model",
+    "source": "Interesting Engineering",
+    "published": "Tue, 08 Sep 2026 12:37:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree has equipped its humanoid robot with an autonomous fighting capability powered by a new AI model, demonstrating physical interaction without human control.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "autonomy",
+      "martial arts"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MRmNzdjQ0WXdtT2ZFQWh0U1dKRHBGMXMxYUc5MFdiOVJBcXlFRzZQTXc5am5qUWV3MXNjUUlNdnZqa1h1WTVJWm0xajBFSTFXa0hBTzB0UTk4clpYM2c?oc=5",
+    "title": "AGIBOT Humanoid Robots Recognized by IFA Innovation Awards and Global Tech Media at IFA 2026",
+    "source": "AgiBot",
+    "published": "Tue, 08 Sep 2026 11:39:31 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AGIBOT's humanoid robots A3 and X2 won awards at IFA 2026, with international tech media praising their mobility, dexterity, and swarm coordination capabilities.",
+    "companies": [
+      "AGIBOT",
+      "IFA",
+      "TechRadar",
+      "Techlicious",
+      "BGR",
+      "Gadget Flow"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNLWFYWG85UEpvOTZ0TlhsZFBBWFNpQ2RNSm9iTXJSeFpDYkFjTnM3ZnBhTXFsUDZXN3BIa1ZnYjVobEExNzlCYWRFWm1USmNYSi1EbDBYdkdabTNORkc4UXpyenNrdFdLY1MtbUNUQndQR3liLXZkbEdaeUd0dGJOZF9ZOV9yVGZGRE5jUnpBVFpuSzVhRy04X0M2QmNYQ0xQcDZCYzBHNjRqNHlzdHlUcU5fV1k3QkdtdElyQ0d3VHlNazIzMEFjclpFM1laT1RfOEoya2Nia2tNcDVNN1hhMnVkUGtvWHNNWC00NzhoNkZkbXd2akQ3SC1qUWwtSzZFdDJ0RXNJREZ5YWwzODE1UzVTYWRzZU9wQ0xPY0k5Y0VUVXllRlo2OEJQeFBVV1Mtb2JSVXdOdkU3QQ?oc=5",
+    "title": "Gasgoo Daily: XPeng Starts Humanoid Robot Production; Li Auto to Expand In-House Batteries Across Lineup; Xiaomi SkyNomad Tops 10,000 Orders in Four Minutes",
+    "source": "Gasgoo",
+    "published": "Tue, 08 Sep 2026 14:10:31 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has begun manufacturing its humanoid robot, joining a crowded field of Chinese automakers and tech companies betting on physical AI.",
+    "companies": [
+      "XPeng",
+      "Li Auto",
+      "Xiaomi"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0duNDk2TVNlQ0Z6c2Z4Wk5fTEk2R2FWTWVUa2NRQzNXN3puQVF0cFM2Uldud3F1azd0eDJOUE0tNXlMU3FiQXdtZHFlYzhKVGxYb1dRbmJ2Q1hQZW5TdDM2c0puTk9hSzhMRW5ZX3d1eVJzcGVDUnQtZ0ZTZWhZbE8ya1plU3hIOFU5MFlVSEV6VTVTRU9JeGJncDNlMmZoalZQSmd3?oc=5",
+    "title": "XPeng Starts Production of Its Humanoid Robot IRON in China",
+    "source": "eletric-vehicles.com",
+    "published": "Tue, 08 Sep 2026 08:10:49 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has begun production of IRON, its humanoid robot designed for industrial and service tasks in China.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeU90V0h2QWRneUdfWXRvYXJHU3laa29zV1oxWGJZWVJXV3BwZXNobkZDTTFESkZuUXM1VUVLeFBhTEpVT29iNnpqRXhYYXYtUDBTZUM1emprbjl3RV9qZXlvdkIzNmJMaTdjSGRGdkpMaFVzZFplWEpOWWd4LTlnbHdPS01pWGludk5kSHp0cGNwUVRzejBBbzBxUm9jbzdpTHZMV3gzdmtpVzBKazlsUXVRNkw5bm91WHp0ZnJUUzNxM2ZVTXlUZS1mTDFKTFFpVjk4Sm4yTlR4dDBCQ3hDR3RrNl9kQTRBZnQzQjRESXBrQVY1eGFqZTBJLUo3cDdxMUZuZFZZems?oc=5",
+    "title": "XPEV Jumps In Hong Kong: Xpeng Flips The Switch On Humanoid Robot Mass Production — And Says Margins Could Beat EVs",
+    "source": "Stocktwits",
+    "published": "Tue, 08 Sep 2026 05:37:02 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng has begun mass production of its humanoid robot and predicts the business will generate higher margins than its electric vehicles.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "mass production"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82a2tpb0ZRbXFQUmNLbjc5Z3BlYWIwMHptOG5EWnpiUExfeUthNnFEMHNUT19WM04xZWszam1uaWlRMkhpNlREbFpBanRRYllsWnFHdk1jcVVzUQ?oc=5",
+    "title": "GMO to launch \"ambulance\" for humanoid robot repairs in Tokyo",
+    "source": "Japan Wire by Kyodo News",
+    "published": "Tue, 08 Sep 2026 06:52:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "GMO is launching a mobile repair service for humanoid robots in Tokyo, treating malfunctions like an ambulance treats emergencies.",
+    "companies": [
+      "GMO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics service"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdzZ1lPVG0yeW4xRnFtYXplc3pNRDItcVFMQ25qMTBLYTQ0Q2Y4bnNhOW9qbW5SYWxwX0dBcU9lVWxjX1RkZ0YwUnhZVElNWmUxQ1RmXzRIN2xSTXB0MThkWEd0RXVveEtMdVVQS1NLWmRzZ1pfVFlibkp5VUdpYmxHLXFIbWtySEViakhR?oc=5",
+    "title": "Chinese Defence Research Wants Humanoid Robots for Urban Combat Roles",
+    "source": "Technology Org",
+    "published": "Tue, 08 Sep 2026 09:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "China's defense research establishment is exploring humanoid robots for urban combat scenarios, signaling a shift toward embodied military applications.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military",
+      "urban combat",
+      "defense"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc2JTMExORmZicDVQWWdZZVVET1duMGptM0loTnZXNFllZ2ZDRkJHNlR4Vnd3Y3FtTDE2SHZSMnMzamNuSmRHQ2FJQllwOTFFUi1sYUp1M1lkUEhuSERZLV9oaFNLc3ZDWVNKRGhFa3RwMHpETUJfWThtX2R6U0VUVllXZkVqTWJoUDRzRFMzc193QQ?oc=5",
+    "title": "XPeng Beats Tesla With This Humanoid Robot Milestone",
+    "source": "Investor's Business Daily",
+    "published": "Tue, 08 Sep 2026 14:18:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has achieved an unspecified humanoid robot milestone that the company claims outpaces Tesla's progress in the space.",
+    "companies": [
+      "XPeng",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUNoNEg2blRVTkZfTE1maUF3MUdkS3RNMjRab1ExNkNzYmhTc1JHUUluc0FrdWxCekV3OVVJV1VBSlFfN3NiVGNlOWNIWlRFV24tQkFUd3FRVGp3T2VhbHItX214LVVLWnY2eXljeTZqSzA5R09wQTY0Y0VYa3RLMkt3YXNIV3BXdHVIeQ?oc=5",
+    "title": "From dance floor to war: China readies humanoid robots for combat",
+    "source": "The Japan Times",
+    "published": "Tue, 08 Sep 2026 01:25:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China's military is accelerating plans to weaponize humanoid robots, moving technology from showcase competitions toward combat deployment.",
+    "companies": [
+      "People's Liberation Army",
+      "World Humanoid Robot Games"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "military",
+      "physical AI",
+      "combat robots"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmxzSzJXS1pJdEh2eXVSVThIZXR0RFNEYWJwS2NMMlF1SHZsZjVDRjlobWg0WXkzMVhLblZaU21fY1lLS2VRZDRaLUdtX2pkX2VqaUJQZ0tiVzZtLXduaGo1M3ZEdjJlNzZjYURKWnFNWFZPZVRzaC1vclBtcVJZR09mWlA0RGxrMFFmWkZBOExadjNhSFJpRS1VM0pPRWlZenpqdmRFRnZILXBRU250Nw?oc=5",
+    "title": "China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs",
+    "source": "TechNode",
+    "published": "Tue, 08 Sep 2026 09:23:27 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese robotics startups are moving humanoid and specialized robots from flashy demos into actual work—airports, hotels, warehouses—proving they can handle real jobs.",
+    "companies": [
+      "Unitree",
+      "Zerith",
+      "RobotEra",
+      "Keenon",
+      "Digital Huaxia",
+      "China Post",
+      "SF Express",
+      "SF Group"
+    ],
+    "people": [
+      "Wang Xingxing",
+      "Chen Jianyu",
+      "Xi Yue",
+      "Li Tong"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "deployment"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiOGpIU0p1ZWJRSExRcl9vNmllUFdzc0cwcm5SaVV0SzNrSmlFUVRGb3dBNG11MThPcTRYNXJCdktIaHdETmUxLU42eFBNdnJfaGtFTEloa2M5b2ZxT1pYdzM0MW9LRUZHNmFXRnV2VGlzajZFU2xOdA?oc=5",
+    "title": "Xpeng activates a production line for its humanoid robot",
+    "source": "TechNode",
+    "published": "Tue, 08 Sep 2026 05:26:34 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng has begun production of its humanoid robot, moving from prototype to factory floor.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lb1Vrc1Y4TER4SC02QUMyRHJwYlpBMlJ3dlhreGljNUFwYjBKSVluWU1WYl94OHhWbldjSHJ3aFNuSTJwTW9XalFpWEM1czlhM0tWSnRqR3RKYVhTc0h0a0lKc1EtR043SnN1eWVIQXQ?oc=5",
+    "title": "XPENG’s IRON humanoid robot just walked off a production line",
+    "source": "The Gadgeteer",
+    "published": "Tue, 08 Sep 2026 04:37:22 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng's IRON humanoid robot has begun rolling off production lines, marking the Chinese automaker's entry into manufacturing embodied AI systems at scale.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "production"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWVlUk8wbTdZRGs2NDFQTWN1T0pWcHkxNzZVS3ZORVhLUUtMZkdtaTk1dTZrSDZnS2dPNGQ0ZjF5b01nc1lDc2NFb0VWYWVTUEduRjNWaFc1ek9JWWpUMFhFZTdqSkdHZWszeEM5SEVHT0MySjg2QkkxLVVvR3BPY0lJLWFOV3RlUUZLaVJTUExGRnc5SGc?oc=5",
+    "title": "XPeng Starts Production Lines for Humanoid Robot ‘Iron’",
+    "source": "AI Insider",
+    "published": "Tue, 08 Sep 2026 12:00:45 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has begun manufacturing its Iron humanoid robot, moving the Chinese automaker's physical AI ambitions from prototype to production.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeHYxdFpsRktoQVpBZmRWa0RQQ2p4a0N0VklyWEZ1RzlNM0p3VVRsZGtBYlQ1emk0UVBMc3Ixa3c5MUh2QkRCU3YtRHJuNU9wTnVZSU5hOUdrZHA0NXgzcXdnVTB1UWFhWUVOcW5VOWV2Z1c2YkVFWkNJLUplYmlIcm9wVXB2TEJUMzJWMWZ4STR1d05WVVNsS1NkaWVfbGdQTUxkOFgzZVlQX3V4bUVuYURwUGhzRHNRWHBNTXFTUGM?oc=5",
+    "title": "A humanoid robot walked off a production line on its own. XPENG made it.",
+    "source": "Stock Titan",
+    "published": "Tue, 08 Sep 2026 02:44:04 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng's humanoid robot walked off the production line under its own power, marking the Chinese automaker's entry into physical AI manufacturing.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "autonomous",
+      "manufacturing"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVmotU3ZEeGdUWVVkQkZwVG5Dakx2TDA3TjRoRzlVb1dYcnQwQjdkYWozeV9RVE96ZDNvTlQxWHVQelJoSGczUGxqVkw4Zl9SOUlzS1BlWDNFS2hLcnZ5bkZXRE1reFVTRGRfRzNhZENrbFdUYjNLV192M1BIZzA?oc=5",
+    "title": "Waymo is poised for Oakland",
+    "source": "The Oaklandside",
+    "published": "Tue, 08 Sep 2026 16:24:27 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is preparing to expand its autonomous taxi service into Oakland, California.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGF3ZFdfemE3WGJrWUxnd2hGUjhtZDVORENtSVFvbVR2WERheGVzSzlvS1c0MXhsRVB1c094ZnBxSnhfSE9CM0djSWNRNXVZbDZMUDNlOVVHTU41OXQxZ2FBdGk2ajRJQjBKZ05hZDNVUlZtZXZ6WkVxODJXNFVRdkljcHFCUWhWVm84?oc=5",
+    "title": "Tesla Cybercab First Ride: What It’s Really Like to Use Tesla’s New Autonomous Taxi",
+    "source": "motortrend.com",
+    "published": "Tue, 08 Sep 2026 15:25:38 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Motor Trend takes a ride in Tesla's Cybercab and reports back on the subjective experience of riding in the autonomous taxi.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "ride experience"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWpjU2FadnVwZ0JJcm1NMEJZc3E0MnBwRDYyUDhQQWV3WWJ6dnppM09ObVk4U0VJUjA3amNFR3VWVDVaVHV1OXkyQnAzU2V6ak9qbExDV3pGSVJ5WXNob0JFM0M0bHRsb2lGR2pjWkNxdjVQdUFqUktDdjhuSFo1R3lRZEdHaE54TW1hMGJLcnRjMnVxU08ybVVqcEZwWGE0eDVqZWxQNUZGcHo3a0FuRk5BUW1IUGxD?oc=5",
+    "title": "Las Vegas rideshare driver urges caution after Zoox robotaxi ignores road closure sign",
+    "source": "KSNV",
+    "published": "Tue, 08 Sep 2026 04:25:31 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Zoox robotaxi in Las Vegas drove past a road closure sign, prompting warnings from human rideshare drivers about the gaps in autonomous vehicle perception.",
+    "companies": [
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "perception limitations"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHNzbEE3cFBYTURLQnh1a2pORFNZSlYyTVIzMXBHNlNZeEIxdWJrUEJkcExld0sydllOU1Bfa0R0LVlSUGltdDZmaDZrTXNnWGlScWh0eXFRVXM2ajFyOWItMWF2YU5TWVBBZXRDeFhOdm1TNmF0Ti1nZm5Ta1l6NjkxdmI0SFdoUG8wWVZGVVYzWGd5dG44dkFIR0gtWDNnRG1Ncng4TGlQaU1mQXhieU1TdWZFUWRsRG5xMl9iTmM5UjdVRkFGRm9tYw?oc=5",
+    "title": "Kodiak AI Reaffirms On-Track Plan to Launch Driverless Long-Haul Commercial Service by End of 2026",
+    "source": "Quiver Quantitative",
+    "published": "Tue, 08 Sep 2026 13:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Kodiak AI reaffirms it will launch autonomous long-haul trucking service by the end of 2026.",
+    "companies": [
+      "Kodiak AI"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "long-haul",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTR5N28ycndVcDczUnBuTTVFMFEzY1gtcVRCVkt1OTNDVGthTkV1R0RvRzJ6UmNHb3NicU9WeENEMmo5cE1GQVRjWGpVc0RpZHMyYUZYaWNWWXZSUm5RLVlIX2JkaFdpbUYxQXpSMmdQSFl4U0MyakZ0NFNTa19iZGtlSWlTUllSLXEtdlI2VQ?oc=5",
+    "title": "Tesla Stock: Elon Is Going For The Robotaxi Moonshot (NASDAQ:TSLA)",
+    "source": "Seeking Alpha",
+    "published": "Tue, 08 Sep 2026 10:21:28 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Seeking Alpha columnist analyzes Elon Musk's robotaxi ambitions as Tesla's path to sustained stock growth.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "robotaxi",
+      "driverless"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WSEFveVpkdGdUMHREeVVwQTVKUmd5M2xqT0pRUC10cmlwZy1rOEJ1Z2FJWWNBYjdzZ0I2ZHBLS2hCT0wyTU5Rb3NqWHh0QlpzTXFuZXpnYWQ?oc=5",
+    "title": "Inside Rivian’s Bid to Build Level 4 Robotaxis—and Then Passenger Cars",
+    "source": "IEEE Spectrum",
+    "published": "Tue, 08 Sep 2026 13:00:04 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "IEEE Spectrum reports on Rivian's strategy to develop Level 4 autonomous robotaxis before returning to consumer vehicles, framing the company's pivot from its original EV roadmap.",
+    "companies": [
+      "Rivian"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "Level 4 autonomy",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQejhBa2RlSGhHREhIMTBoYnh0Y0FmbHBmOWVnUnNmdUdfNy1wWDhqSG1STU4xMmp1dWp5a01nQW90cm5ZZlpGWEc4UUlRRmotZS16RGFGazNIb0tpc3BPemk0SGZtOC1yT2FPUUN6RjJVVHVqN3BRY243OTRhQXlzM0xMM3JteVBEQVJ3TjRNTVJfQ2Fn?oc=5",
+    "title": "Driverless cars compete in F1-style race",
+    "source": "CNN",
+    "published": "Sun, 06 Sep 2026 23:53:13 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Fully autonomous vehicles competed in the Abu Dhabi Autonomous Racing League's first international race, held in Imola, Italy, with AI alone at the controls.",
+    "companies": [
+      "Abu Dhabi Autonomous Racing League"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "racing",
+      "competition"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcFBzZXVma2tKMEpkWEs4aVNaenpUMDQ4NmUyeWN3YXRwYVFmNU90TmhHNlZlc2dlUnZucjhjZHFQQVdQNDhxdU1jMXZMdGY2Vkh2TkxGQW5mdW1TWFZOMkVXODNfbW9YRV9HV1daWTFCQUxWb0JQQjk3LXdQUTRpNXlrZW1Zd2M2cDFQOHM2cWZ3Y285NFZYcU5WMDZCeDFZeG9GcWNqUXRxR2tUUmJnRGNPcTlWaHBpM2VPZ1JIVHJUaDBoSk5ib3pLX1NfdkN5TEdLTjBkcFczNzRLZEx5ODBDR3hwQVkxa3c?oc=5",
+    "title": "Driverless car era arrives in Tampa as Waymo launches autonomous ride service across 50 square miles",
+    "source": "Tampa Bay 28",
+    "published": "Tue, 08 Sep 2026 16:06:16 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has launched its autonomous ride-hailing service across 50 square miles of Tampa, marking a significant expansion of driverless operations into a major U.S. metropolitan area.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU043dHJVQ21Vd1lzVVhSRmp0Y24xUjM3amJuOWVDbHZ2NXIxWEdzTkZHWE5VRWpVMXNZRFdERldjeTN2U3pIVmZ5WHZDRmJ5cThXV1ZqTmgta2poWG1jRHoxVVFsVEZhdDVydFgzSE50ZTNUNThPMEVWTTFVREdfWTdhVG5NdXB6b3dGcVJka0pPYzQ5a1EtQ0ZKbzFPN1FFRTJFeWtqZ2Y1ejlfZXp1T25Zc0FrOEE?oc=5",
+    "title": "Tesla's Robotaxi Bet Takes Shape With Cybercab Debut",
+    "source": "tradingview.com",
+    "published": "Tue, 08 Sep 2026 17:24:27 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla unveiled its purpose-built Cybercab, sending shares higher as Elon Musk leans further into his driverless-taxi vision. Motor Trend took an early ride to assess the experience firsthand, while a Seeking Alpha analysis framed the robotaxi push as the moonshot that could justify Tesla's valuation going forward.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "robotaxi",
+      "driverless",
+      "autonomous vehicles",
+      "autonomous taxi",
+      "ride experience"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU043dHJVQ21Vd1lzVVhSRmp0Y24xUjM3amJuOWVDbHZ2NXIxWEdzTkZHWE5VRWpVMXNZRFdERldjeTN2U3pIVmZ5WHZDRmJ5cThXV1ZqTmgta2poWG1jRHoxVVFsVEZhdDVydFgzSE50ZTNUNThPMEVWTTFVREdfWTdhVG5NdXB6b3dGcVJka0pPYzQ5a1EtQ0ZKbzFPN1FFRTJFeWtqZ2Y1ejlfZXp1T25Zc0FrOEE?oc=5",
+        "title": "Tesla's Robotaxi Bet Takes Shape With Cybercab Debut",
+        "source": "tradingview.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGF3ZFdfemE3WGJrWUxnd2hGUjhtZDVORENtSVFvbVR2WERheGVzSzlvS1c0MXhsRVB1c094ZnBxSnhfSE9CM0djSWNRNXVZbDZMUDNlOVVHTU41OXQxZ2FBdGk2ajRJQjBKZ05hZDNVUlZtZXZ6WkVxODJXNFVRdkljcHFCUWhWVm84?oc=5",
+        "title": "Tesla Cybercab First Ride: What It’s Really Like to Use Tesla’s New Autonomous Taxi",
+        "source": "motortrend.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTR5N28ycndVcDczUnBuTTVFMFEzY1gtcVRCVkt1OTNDVGthTkV1R0RvRzJ6UmNHb3NicU9WeENEMmo5cE1GQVRjWGpVc0RpZHMyYUZYaWNWWXZSUm5RLVlIX2JkaFdpbUYxQXpSMmdQSFl4U0MyakZ0NFNTa19iZGtlSWlTUllSLXEtdlI2VQ?oc=5",
+        "title": "Tesla Stock: Elon Is Going For The Robotaxi Moonshot (NASDAQ:TSLA)",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "body": "<p>Tesla unveiled its Cybercab, a purpose-built, two-seat autonomous vehicle stripped of a steering wheel and pedals, in a rollout that sent shares climbing as Elon Musk pushed the company further into driverless-taxi territory. The vehicle, designed from the ground up for robotaxi service rather than retrofitted from an existing Tesla model, represents the clearest signal yet that Musk intends to make autonomous ride-hailing the centerpiece of the company's next act, not a side feature bolted onto the Model 3 or Model Y.</p>\n\n<p>Motor Trend got an early seat, literally, taking a ride in the Cybercab to gauge what the experience feels like from inside the cabin rather than from a press release. The magazine's firsthand account matters more than it might seem: for a decade, Tesla's self-driving promises have lived mostly in demo videos and shareholder calls. A journalist strapped into the passenger seat, describing the sensation of being ferried around without a driver, is a different kind of evidence — the sort that either builds public trust or exposes the gap between marketing and reality.</p>\n\n<p>That gap is precisely what's at stake for Wall Street. A Seeking Alpha analysis framed the robotaxi push as Tesla's moonshot, the bet that could justify a valuation that has long outrun the company's core business of selling cars. Tesla trades like a tech company, not an automaker, and the market has essentially priced in a future where Musk's driverless fleet generates recurring revenue the way Uber's network does, but with Tesla owning both the vehicles and the software. The Cybercab is the physical manifestation of that thesis: proof, or at least a prop, that the vision has moved from slideware to sheet metal.</p>\n\n<p>For the robotaxi industry more broadly, Tesla's entry is a jolt. Waymo has spent years grinding out permits and safety data city by city, moving cautiously through Phoenix, San Francisco and Los Angeles. Musk, by contrast, is selling a manufacturing story — build the car at scale, then figure out regulatory approval and public acceptance along the way. That approach has worked for Tesla before, with batteries and charging networks. Whether it works for a vehicle that has no human backup behind the wheel is a much higher-stakes gamble, one that regulators, insurers and city governments will be watching as closely as investors.</p>\n\n<p>The stakes extend beyond Tesla's balance sheet. If autonomous taxis become a viable mass-market service, the ripple effects touch commuters who might forgo car ownership, drivers whose livelihoods depend on ride-hailing platforms, and cities rethinking parking and congestion. The Cybercab is a small, wheel-less vehicle, but the ambitions riding on it are enormous.</p>",
+    "slug": "tesla-s-robotaxi-bet-takes-shape-with-cybercab-debut-5deead"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGk3QmszQkV4T3VHZVJKc3BRYmluc0pOLWIyVFViblJycUR6eGRGMzIwR01DN2o5dXFFUmJISnZhSTU2WEhXbXZ5Sm9oYUtPUTNqUDNlVE4xUU9VRXVZV2MyTk42VUVFczVKczRYSEN4VzdHNGgxblR5eEtmT0htZFIzSGZVQnpD?oc=5",
+    "title": "Bechtel and Cyberhawk Expand Eight-Year Collaboration on AI-Driven Drone Construction Monitoring",
+    "source": "Dronelife",
+    "published": "Tue, 08 Sep 2026 15:10:01 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Bechtel and Cyberhawk are extending their partnership to expand AI-driven drone monitoring across construction projects.",
+    "companies": [
+      "Bechtel",
+      "Cyberhawk"
+    ],
+    "people": [],
+    "themes": [
+      "construction monitoring",
+      "AI",
+      "drone inspection"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1T1huXzlpZmNzUnBQcDhlekJOWU5KZzBZb1dXN0hLNlozcVhoQkxtcFN3U0d0OGcxbHZpRjdiMmM0Skt6N3RGQTVYVzh0WTN0bEV4MjltUmdJT0phTEQ3N1BEYnRDQ0ZDUWpNcmdjNTIwUQ?oc=5",
+    "title": "NestGen 2026: How Shell, LA Metro, and others are scaling drone AI",
+    "source": "DroneDJ",
+    "published": "Tue, 08 Sep 2026 07:11:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Shell, LA Metro, and other companies discuss plans for scaling drone AI in 2026, but the piece reads as forward-looking analysis rather than concrete development.",
+    "companies": [
+      "Shell",
+      "LA Metro"
+    ],
+    "people": [],
+    "themes": [
+      "drone AI",
+      "scaling",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXRSdHNpUFdFTEtMMDdoSmVUZFdrTDJtUDl4bmJZR2ZrRTRheW1GeV9ySWw0cXFodFBfMENtWmFVa2ZpbkRodndidGc5S0RqZWV5LXlGXzFsSVZrdkVlY2JOYkV0ZHFzeWl1N0lJcmJlN0NxLU90Zk85UlVXX18ya3RkbXNoa0RoaFBsQ3Rzbkh4YUdhZ1Q0cDdqeGtHNVE3ajRrMUhFcnVQdjdITlZV?oc=5",
+    "title": "Underwater Drone Captured By Iran Matches American Anduril Model",
+    "source": "navalnews.com",
+    "published": "Tue, 08 Sep 2026 16:34:18 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Iran captured an underwater drone that appears to match Anduril's American design, marking a rare public seizure of the defense contractor's equipment.",
+    "companies": [
+      "Anduril"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "underwater",
+      "military",
+      "capture"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGTk1PeGFYbHo0X1J0dVd1YzhuZlhLYTlQYXUzY2xWSmZEMmxsVUtaVnFVd0NTNXltSk1USU5ZblE4MjVIaHVBYldXRU1fSGFwREdyQ0JKd2duSm04dGRsRXFITkxoVS1kRnp0R0J5NGZ1WVF6dEHSAXtBVV95cUxONWdkcGtGanNhOGdlQldiOG9SMEdXdTlPM255MllIUk5vbTd0ZlViaGQ5NndXaW10LThJQ1lJTmgyOE1DWVFNUmo4MWdjZFc1ZDBUMVppQVhJQl9YSXE0WTNieVc5cWZSSXFacjlKNFdFbUZvcVBqeGUzR2c?oc=5",
+    "title": "Hanwha Teases Drone-Enabled Combat Concept for K9 Howitzers",
+    "source": "The Defense Post",
+    "published": "Tue, 08 Sep 2026 11:36:23 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Hanwha, South Korea's defense contractor, released a promotional concept video showing drone coordination with its K9 self-propelled howitzer.",
+    "companies": [
+      "Hanwha"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "artillery",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQlVzdzJoVXhCUnpDclFjWWFXY0RrRHlObW1xUnJTS0ozYzI1NmZRVXJxT1FYY1BWZUdOX1VVa3lhUUs0cXRGdEJFMUlBYWpKMFlENVNwZk1Ba1NGcDlnSnM4MGV5amdZRVVEVzZiMGlVWlJJVzB2T1NMbWE5WTBQR3hEWmtyQXY4cVJRUXJ4VWZlbFpUVEIyUTNhUE9scDZTdDkwdFdRUGYzOU5kOEJHdE1IcFJuamhZMU00V3N4Ujc3LUlVWWZXVlAtR0Y5dw?oc=5",
+    "title": "Canadian Engineer Builds a Drone-Powered Umbrella That Follows You in the Rain: It Actually Keeps You Dry",
+    "source": "Gadget Review",
+    "published": "Tue, 08 Sep 2026 16:34:12 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "John Tse, a Toronto engineer, built a drone-powered umbrella that tracks your head and actually keeps you dry—a proof of concept that has no commercial future.",
+    "companies": [],
+    "people": [
+      "John Tse"
+    ],
+    "themes": [
+      "drone",
+      "personal tech",
+      "consumer gadget"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNbEY3VWRFb0FFNEJVaEo0bFYwSF9US1kxRUxJTUI2THp3SXh3V1ItalI5eXFZYW02LWo3c01pdHBianBGTmZldnZTMnVRQnVOT3BRTFZfTkxIdk9kS0xMOG1JM3dmYWpaTkNnamlIXzJhWF9DZTk3NU9MZ0xCc2s3R25mMnFLZXpjWUFwRE5wcjJNU3N0WGJ2aVhZbHBXVGhjMFd3UW5kcmdFcGVGUGJkMHFJcG5MSHdtanBOSDlpekdnY05jeFNoZElQb3I1WHlFcTZHSGxsbXVfajZBRU5TTDNzbjltWVpJRk5XeVRXUFpaMHFsY1czaFhiRl9xT0lTZ0JCUldVQ2pyNFhCX2U2WFZNcXVpVXZfRTBlYjAyTGpIRW9yVWptVGtVS3lvRm4xdHc?oc=5",
+    "title": "Iwa Robotics Unveils HAWK, CANARY and PELICAN: An Autonomous Drone Fleet Equipped to Detect, Diagnose, and Suppress Urban Wildfires",
+    "source": "fairfaxtimes.com",
+    "published": "Sat, 05 Sep 2026 18:09:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Iwa Robotics introduced three autonomous drones—HAWK, CANARY, and PELICAN—designed to detect, diagnose, and suppress urban wildfires.",
+    "companies": [
+      "Iwa Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "wildfire suppression",
+      "urban emergency response"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnUtaEROeGRJOW0weGJVeFQ0NnV5b2ZwZ2lhcEZ6OFBvdWdLbVNWaEtEVi05cHB0dzVRVHgwQkVlZm9LOVYzSjdaYmF3MTdVRkwxQTVzdHYwSnRZUU1OamVQOXBDNmFRNW1yTURiNm5pTGtjc0dsMUJMMXRIeFZpTmpxWlh6aUR3dmFkTDQ1d1JDYXcycmJWQTl3cmVmaGh4cUNiUW5vYw?oc=5",
+    "title": "Mysterious giant drone designed to launch rockets reappears after six years",
+    "source": "Air Data News",
+    "published": "Mon, 07 Sep 2026 16:05:33 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Stratolaunch, the aerospace company building a colossal air-launch vehicle for orbital missions, has resurfaced after a six-year absence to advance its giant drone program.",
+    "companies": [
+      "Stratolaunch"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "rocket launch",
+      "aerospace",
+      "air-launch vehicle"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vMWI0clhIOVFGZ3FPT2VqdUJoU3A1WXlJUFpabHFDTlBURlpVbTYxWklLTzk4emxOd2JVcGFyOUJIOWFIaFVDdjhFWVFWend3c3R3?oc=5",
+    "title": "1970s-Born Female PhD Led Team to Successfully Deliver Brain-Computer Interface IPO",
+    "source": "36 Kr",
+    "published": "Tue, 08 Sep 2026 04:12:15 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "A female-led team achieved a brain-computer interface company's initial public offering, marking a milestone in the field's commercial maturation.",
+    "companies": [
+      "unnamed BCI company"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "IPO",
+      "commercialization"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56ZlBmTExSbnhMclUxWUNOa0ZCdGZTQ041OEtheHlwTmhjVlo3d2xwWDJkLXJUbVJtNk8wRy0zdDRPZ3lCUVJsdzhOOW4wZVFSVzJTa0lEeVFZY1N0Y2ZYVdIBXEFVX3lxTFB6RFhvNzBiRjA3REQyOG01OXl5elZnU0U3WEZwa2dvb0c1UVFQZHJPOThpYXlUYUVEWldXZE80RzUwbHhBUjBsWVdZaGpCVHltX3BLTXplaW5naVpR?oc=5",
+    "title": "Sci-Fi Made Real: Inside the First Human Brain-Chip Trial",
+    "source": "Modern Ghana",
+    "published": "Tue, 08 Sep 2026 13:52:08 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink's first human brain-chip implant trial is underway, marking the transition of brain-computer interface technology from laboratory concept to clinical application.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial",
+      "human neurotechnology"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYW1YcVZkYVpWRG5QeTlUcHpvQ1RPLU9PRlA0SWEzNXpNbjhHQ1RNbjBrRDVIdXJJZnUwUklIRW5ETEhDNnB5OUpMV21jMW16Z1k5X3NBWVRUZHp5NHZLVC1zWXVLQ18wTWFIb1o4SFI4ZmlTOXUzMnlOYWQxcVlwMFFMWQ?oc=5",
+    "title": "Synchron: 2026 TIME100 Most Influential Companies",
+    "source": "time.com",
+    "published": "Thu, 30 Apr 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Synchron, a brain-computer interface company, was named to TIME's 2026 list of most influential companies.",
+    "companies": [
+      "Synchron"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "BCI"
+    ],
+    "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
     "duplicate": false,
