@@ -45858,7 +45858,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46425,7 +46425,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -46450,7 +46450,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -46709,7 +46709,7 @@
     "first_seen": "2026-09-03T18:18:40",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47875,7 +47875,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48006,7 +48006,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48280,7 +48280,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48738,7 +48738,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -48939,7 +48939,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -50681,7 +50681,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51101,7 +51101,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51319,7 +51319,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -51598,6 +51598,1417 @@
       "BCI"
     ],
     "first_seen": "2026-09-08T18:16:02",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNazhBd1lUNV9jME9ldXotSXlPQVdGZHI0cHFNWDZ1aXF1bkdzN2F5dnJLOFhMWUZPSVhMWU4xTFFIenZ4YXpkSHNqYnRBRXdNa0JyN1dxVC1rMVRncU5Id08wdXFqZlpDTFA2MzkweF9UWlZVcGZRSHM1SDZoSDdWbjF5ZjNlSW9WQ2pFWUlKQU15TzI4ZmxwN1c1SUpSQ1VTMTloOGpZV2JrM0x1TFhpOWw1VWQ5NUczci1wN19EN3VuQ1h2NzBOaHZR?oc=5",
+    "title": "China curbs humanoid IPOs after Unitree’s volatile debut, The Information reports",
+    "source": "reuters.com",
+    "published": "Wed, 09 Sep 2026 02:41:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China's regulators are tightening oversight of humanoid robot IPOs after Unitree's chaotic public market arrival rattled confidence in the sector.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO",
+      "regulation"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lWmgzcEtxcEthVHFKOEx6bXV0OHRUcGVaUjdEaFF6WGlFcFlCMWhEWHBIXzkwNmtPWjRWbWJ4UUV4ajJBREtBS19jT2w5UGVhUUxGVmYzclRSSHd3cE5mMmVvY2pwTXFodDktLUIxcjZLUlJCWHE1SEdR?oc=5",
+    "title": "AI controller translates VR, video and language commands into humanoid robot actions",
+    "source": "Tech Xplore",
+    "published": "Wed, 09 Sep 2026 14:40:13 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Researchers have developed an AI controller that converts VR inputs, video footage, and natural language into executable commands for humanoid robots.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "language commands",
+      "multimodal control"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmwzdkhBYUYyRXQzQ0dTbkx6RktvWTRWeXRLNnpZYUNoTm42aEdCbHVHREJHa19FOEIwTGhfV3NVQ29ocVcyUndmMkpDNUtPZnF1N0hqTEhuRDNtOEJiRDRBS2ZOaHoxT01YUUJrTFk0ZDcxOE9xTHF4R2NUV1lrdkdSUXhtRzBTSjZrbkNZVVBDWFFBYlY1clF5djR1OTdmaG0xaQ?oc=5",
+    "title": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
+    "source": "WSJ",
+    "published": "Wed, 09 Sep 2026 10:10:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese securities regulators are tightening rules for humanoid-robot companies seeking public listings, raising disclosure and safety standards for the sector.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "public markets"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTVnVWpQVzBJMzl1Zk9odlc4QUFiN2xmLUU2Z0ptTWpPTVg2czJhMjF1aXBsWlJnNDRmZFIzTzU5OFp5NDlYdm55eDg2MmxpOEl1SUZ0VGZISmdUXzBKNXRORVpqMjZ6eGhqbjg1a000UGo4cXhCQUg2VmJDbFJDUGRrOGhka3ludUJiMQ?oc=5",
+    "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
+    "source": "The Robot Report",
+    "published": "Wed, 09 Sep 2026 15:48:50 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Vention opens a Physical AI Lab in Montreal aimed at applying machine learning to manufacturing automation.",
+    "companies": [
+      "Vention"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "manufacturing",
+      "automation"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSV9oQ3ktOTdqbmhHVmVhenNEcnJIeXhYNmQxaDA2T3JFX1dWa29ZY1F3bTNaYWtIVXpVb1NDaU9MWEVwQWhuVFpXdWtDMjE0d0N3SEtFOENkQTQtcUFVVUhJbWlSY3kxdDA3VFZvYmk5RUhwYTlWeDhBeDZWaVlqYk03bFItV1JUZWMwclF0MWdrWHZ1YnJxTWZfOThJTzJFbTVzXw?oc=5",
+    "title": "Want a Humanoid in Your Factory? Here's How Much One Could Cost You.",
+    "source": "Business Insider",
+    "published": "Wed, 09 Sep 2026 04:15:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Agility Robotics prices its Digit humanoid at $200,000 plus annual software fees, claiming factories break even in just over a year.",
+    "companies": [
+      "Agility Robotics",
+      "Schaeffler",
+      "GXO",
+      "Toyota Motor Manufacturing Canada",
+      "Amazon",
+      "Unitree Robotics"
+    ],
+    "people": [
+      "Jonathan Hurst"
+    ],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "economics"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3Njb2daNjBudHVBdzV2UDA5UmhGemxlMDZqQ0dEejgzNjZqMDE3Z2tqMXlSZ0IxZW01VTNfbUZqSFpsLVA0V0R4YjNRNWRvc1M1MWFiRUVsZlBuVGhYQ0VwNmV3U2hCRHc1YnVJVnlTV3JZaVRQS2xocWU4c2E1RnF0WXdfLTNzcTQ1SmJFNExjMkJ3NmRDcmFlX3lBRTFUaUt6Rk9vWEpPbWZ1LTdXekJRT21JVUhyRkw1bGh1UXFRbERrVFIycnpfQkI?oc=5",
+    "title": "XPeng puts humanoid robot production line into operation as first IRON robot walks off autonomously",
+    "source": "technode.com",
+    "published": "Wed, 09 Sep 2026 09:19:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has begun manufacturing its IRON humanoid robot, with the first unit walking away from the production line under its own power.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics manufacturing",
+      "autonomous locomotion"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkRHWHllUEEtdXlLaEdTREJxU0tORUgxck9OalhxeFZScmpIVV9Lei1vRm5mQ3ZxTnhPenI4V1ZJc28ySHk0MlZacmFyWnNqVm5Dc2oxeWxfa1hoc0twdi1PV1ZWTkt1WUhZNm90Tkw0MGQ4dmdyUmgwcldoVXVNRkxNeHJuRUN4dUNYc1ZIdnI4NDVxTVpiSUQ5UWFRWk0tcVZaWDZBaHROdXQ1dk1ORi0xQl9EV0pBTFc5bjdFelFiREpFa3I4UUt0T1hXcGJs?oc=5",
+    "title": "34,000 Pre-Orders, $2.4 Billion Pipeline: Inside Europe’s Newest Humanoid Robot Unicorn",
+    "source": "Forbes",
+    "published": "Tue, 08 Sep 2026 18:58:54 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A European humanoid robot startup has secured 34,000 pre-orders and a $2.4 billion sales pipeline, signaling unusual commercial momentum for physical AI outside the U.S.",
+    "companies": [
+      "European humanoid robot startup"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "pre-orders"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWEEwS2d6aE50T2pLbWtRSUFaUFgxbmxmM1M4dF9keEJ4emZfY002TkVXeHNDTWppQ0hxTFNyUEtyVWlEVWVZMjFLaGNoSWZ4YUFuNTRTTHRJZHN2Qmptc1RHMUhiLW1xWGxtelAtRXU4SmFHdFJKYXVVRG9fRHZNYw?oc=5",
+    "title": "AEON enters Humanoid Gym to learn industrial tasks ahead of 1,000-robot deployment",
+    "source": "Interesting Engineering",
+    "published": "Wed, 09 Sep 2026 10:13:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AEON is training its humanoid robots in simulation before deploying 1,000 units for industrial work.",
+    "companies": [
+      "AEON"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial robotics",
+      "robot deployment"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2haTFJ5OVFzWDVKSWZsd21GTnBMVmJXUjkxaUpSSmtqT2pPUVUwTXpWUEpLSXp2T2EwOHBWQ0RYaWdZeEFBaW9KTGtlZFVta3AwNmx1Y0trQXUtMXZDZ2xJdnNFaEhOOXN3bGU1elpMMjFXX0JGY2NUQlpNcVNIVUYxNldWcElXb0ZqNS1GNzNEeU5XVmpaNXEzUlpTNmFCZGfSAacBQVVfeXFMTTVEblVvWDc4R2xDQ0E4Z09WV01OeXZoVFBvbWt4eHozSW9NT1BoVE1HVzFuUUxIYUVFbDhxQTdmVTJFNEpHNElNdWh4OFdhQ2duc0dyVS1oSXIyakhsMURSeWl0OVJsSTc5YWp4S1ZhU29qOFF0bVFQNzZNMW9XTlB5NzhmMEpxMENveC1RT3B3bGN5RjRCeXYyaHVpVXpoTDFXcnI3dm8?oc=5",
+    "title": "Motion1 Raises $2 Million Pre-Seed To Bring Humanoid Robots To European Factories",
+    "source": "Pulse 2.0",
+    "published": "Wed, 09 Sep 2026 11:28:50 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Motion1 closed a $2 million pre-seed round to deploy humanoid robots in European manufacturing facilities.",
+    "companies": [
+      "Motion1"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTajlRVkRzemh2N25EQ2VmZG9HSHNuaDhweC1xSnctaGhxZVFxel9FaUtYNGhVRUlSa0JlcVBvMExrMXdIQW5WOHVsdkROWVVkVVl2akR5WmJ2Rnl4UHFvblVsS3RlbzFhQzdvbnVETjRFU1NVc2pVY21JOWY?oc=5",
+    "title": "Humanoid Robots Meet the Factory Floor — And Its Limits",
+    "source": "autonews.com",
+    "published": "Wed, 09 Sep 2026 12:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Agility Robotics is pitching its Digit humanoid at $200,000 plus software fees, promising factories a payback period of just over a year. But automakers actually testing humanoids on assembly lines are finding the pitch outruns the product: the machines still fumble the unpredictable, dexterous tasks that human workers handle without thinking twice.",
+    "companies": [
+      "General Motors",
+      "Ford",
+      "BMW",
+      "Volkswagen",
+      "Toyota",
+      "Agility Robotics",
+      "Schaeffler",
+      "GXO",
+      "Toyota Motor Manufacturing Canada",
+      "Amazon",
+      "Unitree Robotics"
+    ],
+    "people": [
+      "Jonathan Hurst"
+    ],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "automation",
+      "factory deployment",
+      "economics"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTajlRVkRzemh2N25EQ2VmZG9HSHNuaDhweC1xSnctaGhxZVFxel9FaUtYNGhVRUlSa0JlcVBvMExrMXdIQW5WOHVsdkROWVVkVVl2akR5WmJ2Rnl4UHFvblVsS3RlbzFhQzdvbnVETjRFU1NVc2pVY21JOWY?oc=5",
+        "title": "Humanoid Robots Meet the Factory Floor — And Its Limits",
+        "source": "autonews.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSV9oQ3ktOTdqbmhHVmVhenNEcnJIeXhYNmQxaDA2T3JFX1dWa29ZY1F3bTNaYWtIVXpVb1NDaU9MWEVwQWhuVFpXdWtDMjE0d0N3SEtFOENkQTQtcUFVVUhJbWlSY3kxdDA3VFZvYmk5RUhwYTlWeDhBeDZWaVlqYk03bFItV1JUZWMwclF0MWdrWHZ1YnJxTWZfOThJTzJFbTVzXw?oc=5",
+        "title": "Want a Humanoid in Your Factory? Here's How Much One Could Cost You.",
+        "source": "Business Insider"
+      }
+    ],
+    "body": "<p>Agility Robotics has a number it would like automakers to sit with: $200,000. That is the price tag the Oregon-based company is putting on Digit, its bipedal humanoid robot, plus an annual software fee on top. Pitch a factory manager that figure alongside a payback period of just over a year, and you have the makings of a very good sales meeting. Agility has been making that pitch to manufacturers across the country this year, framing Digit not as a novelty but as a line item that pays for itself faster than a new stamping press.</p>\n\n<p>The automakers actually running these robots on their floors are telling a more complicated story. According to reporting from Automotive News, companies experimenting with humanoids in production settings are finding that the robots stumble on exactly the tasks that make assembly-line work hard to automate in the first place: the awkward reach into a tight wheel well, the small adjustment when a part doesn't seat quite right, the thousand tiny recalibrations a human hand makes without registering them as decisions. Digit and its peers can walk, can carry bins, can look convincingly like a worker from across the plant. What they still struggle with is improvisation — the dexterous, unpredictable stuff that a human does on reflex and a robot has to be explicitly, painstakingly taught.</p>\n\n<p>This gap matters beyond the embarrassment of a robot fumbling a bolt. The humanoid-robot pitch to manufacturing has always rested on a promise of near-term substitution: machines that can drop into human-shaped workflows, on human-shaped assembly lines, without retooling the whole factory around them. That promise is what's attracted serious capital and serious customers — Agility counts Schaeffler and GXO among its industrial partners, and it is hardly alone in chasing the automotive sector, widely seen as the proving ground for humanoid labor. If the economics really do pencil out at a one-year payback, plants facing labor shortages and rising wage costs have an obvious reason to buy in at scale.</p>\n\n<p>But payback math assumes the robot actually does the job reliably, and reliability is precisely what's in question. A robot that needs constant human oversight, or that can only handle the easy 80 percent of a task while a person mops up the rest, doesn't return $200,000 in a year — it just relocates the labor cost and adds a maintenance contract. For workers on these lines, the near-term reality looks less like replacement than like coexistence: robots parked at the simpler stations, people still doing the fiddly work nobody's managed to teach a machine yet. For the industry, it's a useful corrective to the humanoid hype cycle — a reminder that walking convincingly through a trade-show demo and surviving a real shift on a real line are very different achievements, and that the second one is still being earned.</p>",
+    "slug": "humanoid-robots-meet-the-factory-floor-and-its-limits-afa2bd"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0VSVV9NZFgxYjhGb1RxZE1SMXY4V0tKOWZlaHRham5keVFBV1EwVTRjQkU1cU5KX2w2LWt2a1BWTHhfUmdJQk9NYXA1NFd0OGc4Sm5zMWNfSDA2SXJCLTRjQk1PclVndWJOeEQwQ19RSzZiX2hjdHZQdkthQmtkemhRM1RnVzhXVUIwNkk0NTVYNnZrOGxRbUFseEV2NTktR3FldFFwbFo4YVp3N2NlTEdR?oc=5",
+    "title": "NEURA Robotics and SECO partner to scale humanoid robot production in Europe",
+    "source": "Evertiq",
+    "published": "Wed, 09 Sep 2026 09:13:03 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NEURA Robotics and component supplier SECO are partnering to manufacture humanoid robots at scale across Europe.",
+    "companies": [
+      "NEURA Robotics",
+      "SECO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "robotics production"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGJxUkwyVVNQTU5rOTQ0cnFNOUdVN1BiOThUakhZYU1iU1BPeUdlREZXbFpGcmtfOXcwTTFBUXpXZ1QycVhEQXRfcmtMU3hfRHVjTWh6ajRlX3pJNUEybnNldEFOZnk1ZWhjbnBuNFhlRDJlX25ET0tuY2xQSTFmXzFpb2UzVjFGVXhYR3NqQ01FRzNScEZKLW5RNWY4RndRMDg1WTAzV1NKMk9jdF95akJkLW5LckhjS0hndkRpS3lMeFc2MDJGRzZvWkVneGVVNjMzMkZmWEFUenFldHRDSTA5YTg2bTF3UXA2dUI5R0syYjJOY2NTSEZWRkxFUQ?oc=5",
+    "title": "Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home",
+    "source": "livescience.com",
+    "published": "Tue, 08 Sep 2026 06:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese robotics maker begins mass production of humanoid robot for home use, betting that AI-powered domestic helpers are finally ready for consumers.",
+    "companies": [
+      "Chinese robotics company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "home robotics",
+      "mass production"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ09qREVMYzhQOXJKb3B2cTB6NU9hamhRLURBMDY1T0p6ZjJsNkV5THpha29Ea1FpMkhYcjJCdGVxWm9qRENCSWZqQkprNi1KOTJLMXhKNmNWLV9oNEZtZU9rTkgtQ1QwLThsWlhDZ0ZWOVZBWU40WWhWeEl3ZlFCaGYzTE8?oc=5",
+    "title": "XPENG’s IRON Walks Off the Assembly Line: Is Mass Production Next?",
+    "source": "TechRepublic",
+    "published": "Wed, 09 Sep 2026 17:29:54 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng's IRON humanoid robot has begun rolling off the assembly line, marking the company's shift from prototype to production.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGdpeFhiaGF1d1lzNGhxcEJzTXlxU1lXTHpaR0J1Z1F2a2NxblRDcmt5Y0FPLTY1MmdBbWJ3Qk1GRFJadzRLTHVOQnRtNnNNUHEtY1FSUFRsU3dPeFNfbEYxcGNKTFFfYmJreEgxbFNsWENkUUdjT0JSSmZkal9HbG1BSWpBdGtrU2hodUw3amVBSzZKY2FfV1RMZlgwdEMybmF1RVNqZW1VLVHSAbABQVVfeXFMTWUtVkZJcVVUcEsydXBvRXllT2lEVEYzVmRvZUNsYXRORHJzOHBySUo5UEZMUTJIZWJ0N0cxZmlqbG5FNVptdk1hbXEwX3ZLWDZIR3QzQlQ3VlAzdDNxTVZIV1p6amliUjJMZFZSMURxZnZQMzlhdUFkdWdmZHA0eFpibXRkQmxEMTVnUXRQUm5LakM1X0s5T3V0V1FkdURZNS1jVVpzaDVSaHkxSi1lOF8?oc=5",
+    "title": "China's EV makers shift gears to focus on humanoids as car market slows",
+    "source": "CNBC",
+    "published": "Wed, 09 Sep 2026 04:12:51 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese EV manufacturers including BYD and others are pivoting toward humanoid robot development as domestic electric-vehicle sales decelerate.",
+    "companies": [
+      "BYD",
+      "NIO",
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "physical AI",
+      "China",
+      "manufacturing pivot"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW5GWlVQWGg2aG4wQlVicUM2OEliWS1HeWxaRGxPRVBmbklNemtmRTFEb3ZRVzNocnh1WFZJcWhaMENZMndXVG1iYVI3aTVNRWk2WW5UMEVUV01sNlV6VExHYVI0bnlTeWcyU2Q3SUdOTGNEZmJEMm9QbWF2enFjSnR1NHZSQkxTbmg3RVdIc3R4TWhCM29pWVJR?oc=5",
+    "title": "China unveils humanoid built to automate crop breeding, pollination",
+    "source": "Interesting Engineering",
+    "published": "Wed, 09 Sep 2026 08:16:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China has unveiled a humanoid robot designed to automate crop breeding and pollination tasks in agricultural settings.",
+    "companies": [
+      "China (government/state entity)"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "agriculture automation",
+      "robotics"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNckdoTDRQdjE1NXc4d0N6TzdsRXhNc3BNeXpCdEsxMWxyOUYxVVIzX3pXdHZWUmFNTmtFOUVjZ2JYMmlSMm9XemxtNFVsclhqRV95ejhYVURlNjVMSVQzeW5PcjJ3VzJScmtEZHB5LTY3RFRZSTJPeW9COHhoTUxSUTJnc1I4MHBPQ0RTTjhXd01fVGdOMFVEOGlsUF9Hc0ZZSHFiTGVQZDZrNnRSaks1ODB3MFRKOXVfUlM1YlVuaEF4LWPSAcgBQVVfeXFMT1h2ZVNSSS1feXppQTFEdEEza0VfSmgxbmZnVHRfOUtjN25qNkhBXzBVUFdEcnNqSFVwNkVxR1dRaTZfSTNadXB3TFRJTWsyS3lTcmhZRFpKbmxWcW90UTZOTjN0N0xPNzh0ckpfNWtUVEYzbHFUR19nd2JUZXpxN0JFbU43aEFZMkJ1bU1YbkFXYlRBajJBS0piWUVsUHJGa1RNWTZ4amZRNVNJM1M3dU5XVDFjUHh5UDM4ZmdtRXNieVFTX3I0Q1k?oc=5",
+    "title": "How Investors Are Reacting To XPeng (XPEV) IRON Robot Production Launch",
+    "source": "simplywall.st",
+    "published": "Wed, 09 Sep 2026 12:34:39 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has begun production of its IRON humanoid robot, marking the Chinese automaker's entry into physical AI hardware.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot production"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzE2VU80ZlMwRUZyRFNpbTc2bkY0SjFLQmg0UEJSMWp1UllpTjVZR2xSR0RoQzdJTVZlNHlvSTY0S1lOcUViN2NtTDlDaURfdHBBemt2TmFqZWYwaXlkVVRYV01aSzkzWnhBdm44d2xKMVY0V1dVck42cmNkRG4wZTZpNllXM0UwdG1yVDh4S09FWk9CU0xwcEpZZWg5UVBoU2F3WTA3TkVfeEd1dUQxU1hhVU15QQ?oc=5",
+    "title": "Lyft riders can now hail Waymo robotaxis in Nashville",
+    "source": "Los Angeles Times",
+    "published": "Wed, 09 Sep 2026 14:38:23 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's robotaxis are now available through Lyft's app in Nashville, expanding the ride-hailing partnership beyond San Francisco and Los Angeles.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUFdqYVVmUmNid0NFNWx6ZmNZOW4yalRaMGZyQ0dsWk9ZSTZqTVBIdXlKSURieFBjb2tPU3dkZWpBQVA3NTh2Tk1xOEpDMHhRTmpTaF85cUs0TE9vTVRIQVcyc3RuNjlCMTBsTDRFRldSRU5lMVRuZF9MZE82RWllMVlzV1E1dG5zZGJTbS1oRTViYk10alk2eEYwSGhMd1dESFdMRTYyVVo5Y1FDcmFWUk5sMWN2bS1BU0ZERA?oc=5",
+    "title": "Nashville Lyft riders can now be matched with driverless Waymo vehicles. Here’s what to know",
+    "source": "wsmv.com",
+    "published": "Wed, 09 Sep 2026 17:27:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's driverless taxis are now available to Lyft passengers in Nashville, expanding the ride-hailing partnership beyond San Francisco.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aeFVlUXIyc2FUX1hJNU8wdkw5RzJhME93dHZtU2phRVF1X292VG1qNk5PSHdHVC1CWnFaczJwV2ZuZjlqVVhvV2NXc0EtYm5kZ2FKVExHdUx4THFkWVlvYlR5c0Q1Rm1rYWdLUktHUEdhNV9oUFR5Q1VvRlFlQQ?oc=5",
+    "title": "Waymo’s Robotaxis Are Now Driving for Lyft, At Least in One U.S. City",
+    "source": "Road & Track",
+    "published": "Wed, 09 Sep 2026 17:23:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo begins operating robotaxis through Lyft's app in San Francisco, extending its commercial autonomous-vehicle footprint beyond its own branded service.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "deployment"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWU4QTJrc3E1QkphbFFmY3NmM3dNaThGM0tVNGJrdVFrclp3bjNaeUpQV01yNjNCTWtuQkloNWdMTUgxUDNWbU9pR0FPNVJicHJadVBBck1FeUt2VUE2YmdHSmdwOTUxb2Q2dnhEeDRXUWpzN1Y0QXBoWkxvZ1QySA?oc=5",
+    "title": "How Amazon’s Zoox Is Taking On Waymo in San Francisco",
+    "source": "The New York Times",
+    "published": "Wed, 09 Sep 2026 09:02:45 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Amazon's Zoox and Waymo compete for autonomous-vehicle dominance in San Francisco, but the article is analysis rather than a reported development.",
+    "companies": [
+      "Amazon",
+      "Zoox",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "competition"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wUWlublVJd1FEOXI4bWY3a2UyZGEwZ0ZhRmUwX2pKanJ6d010YUxGRVgzbWZQSjRpdUhkRERzTXU4VEJCTjVlQ1JUdWhZTHZPNHBHdmQyVGpsVEo1N2V4UTl3SVhuMUIzRHkxbVFSVkx0c3ZN?oc=5",
+    "title": "Why Lyft could be Waymo's ideal ride-hailing partner",
+    "source": "Axios",
+    "published": "Wed, 09 Sep 2026 10:30:45 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Axios speculates that Lyft's network and operations could make it an attractive partner for Waymo's autonomous vehicles, though no deal is announced.",
+    "companies": [
+      "Lyft",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83SU5xeWpkMnR0eHhmZnAwaEtEOHZkNHg5dV9GcDBrYWczQmZXcU1lX2FKSDBfNVBOS18tOEhRMGlHZHRpZ2duZlFLd1NFZ0tnTl9QUE5VUlE5S200NEVuZmRtYXkyT0hvbWNFSEZ3?oc=5",
+    "title": "Waymo's Robotaxi Rivals and Regulators Circle",
+    "source": "WIRED",
+    "published": "Wed, 09 Sep 2026 10:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "As Waymo's driverless cars spread, the reactions are piling up from every direction. In San Francisco, Amazon's Zoox is angling to challenge Waymo for market share; Lyft is musing about a future where its human drivers service Waymo's fleet instead of competing with it; and in Minneapolis, city officials are weighing a rule that would force Waymo to keep a human behind the wheel, citing fears for rideshare jobs.",
+    "companies": [
+      "Lyft",
+      "Waymo",
+      "Amazon",
+      "Zoox",
+      "Uber"
+    ],
+    "people": [
+      "Robin Wonsley",
+      "Jamal Osman",
+      "Jason Chavez",
+      "Aurin Chowdhury"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "workforce transition",
+      "competition",
+      "regulation"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83SU5xeWpkMnR0eHhmZnAwaEtEOHZkNHg5dV9GcDBrYWczQmZXcU1lX2FKSDBfNVBOS18tOEhRMGlHZHRpZ2duZlFLd1NFZ0tnTl9QUE5VUlE5S200NEVuZmRtYXkyT0hvbWNFSEZ3?oc=5",
+        "title": "Waymo's Robotaxi Rivals and Regulators Circle",
+        "source": "WIRED"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWU4QTJrc3E1QkphbFFmY3NmM3dNaThGM0tVNGJrdVFrclp3bjNaeUpQV01yNjNCTWtuQkloNWdMTUgxUDNWbU9pR0FPNVJicHJadVBBck1FeUt2VUE2YmdHSmdwOTUxb2Q2dnhEeDRXUWpzN1Y0QXBoWkxvZ1QySA?oc=5",
+        "title": "How Amazon’s Zoox Is Taking On Waymo in San Francisco",
+        "source": "The New York Times"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE4xc09VS1NXeEZYeThwZ1NyNVdZUlFqRkJBYm9uaG9HejhfaEJIRGhza1docTdiQldfV2JpSEJqTDduR3pPNEFDRTczWFRscjA0LVJlVGJNRzNQem5faEhaV2NGUDQxaktaVXF4blpQMFBka1g5WU01Wk1nMjNCMlZxVGpRRTIwYXZqVkk5Q0hoNjVEUkJYd1lsTjhFd25JWFE?oc=5",
+        "title": "Minneapolis to consider requiring drivers in automated cars",
+        "source": "MPR News"
+      }
+    ],
+    "body": "<p>By this week, the map of American robotaxis had grown a few new borders. In San Francisco, Amazon's Zoox is testing its purpose-built, steering-wheel-less vehicles on city streets, positioning itself as the first serious challenger to Waymo's dominance in the city where the driverless car essentially came of age. In Minneapolis, city officials are drafting an ordinance that would require a human to sit behind the wheel of any automated vehicle operating within city limits — a direct response to Waymo's expansion and to fears from rideshare drivers who see their jobs evaporating. And at Lyft, executives have begun talking, at least hypothetically, about a future in which the company's drivers don't compete with Waymo's fleet but service it instead — cleaning, charging, and repositioning the very cars that might one day replace them.</p>\n\n<p>None of this amounts to a single dramatic event. It's something quieter and perhaps more consequential: the sound of an entire industry rearranging itself around a company that, until recently, operated mostly in the sealed-off bubble of Phoenix suburbs and a few California test corridors. Waymo now offers rides across multiple cities, and its growth has forced competitors, regulators, and labor-adjacent companies to each stake out a position, often in the same news cycle.</p>\n\n<p>Zoox's push into San Francisco matters because it's the first credible sign that Waymo won't have the robotaxi market to itself. Amazon has deep pockets and a vehicle designed from scratch for driverless operation, no retrofitted sedan required. Whether that translates into market share is unclear, but the mere presence of a rival forces a market that felt like a monopoly-in-waiting to actually behave like a market — with implications for pricing, safety disclosures, and how aggressively companies expand into new metros.</p>\n\n<p>Minneapolis's proposed rule is the more consequential thread for policy watchers. It's an early test of whether cities will try to legislate the human back into the driver's seat, explicitly to protect rideshare jobs rather than for stated safety reasons. If it passes, other municipalities grappling with driver-union pressure may follow suit, effectively slowing autonomous rollout at the local level even as federal and state frameworks remain permissive.</p>\n\n<p>Lyft's musings, speculative as they are, point to something else: a tacit admission from a company built on human drivers that the driverless future may not be a war to win but a labor market to migrate into. Servicing autonomous fleets — charging them, cleaning them, moving them — could become its own gig economy, smaller and less glamorous than driving passengers but perhaps more durable. For drivers themselves, that's a strange consolation prize: not obsolescence, exactly, but a demotion from chauffeur to pit crew. Taken together, these three stories describe an industry no longer wondering if robotaxis will arrive, but arguing loudly over who profits, who's protected, and who's left driving.</p>",
+    "slug": "waymo-s-robotaxi-rivals-and-regulators-circle-dda1a0"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlVGYTBZeXN4TDhsa3o0ZWFJa3dsYklnMS1DNHVIY1NpamduZUk3LWpHQldONnRsWld2cmlZVWVhZ2FGaUkwWGJqMTN6NElTM2ZOdk9xMmNFRlllOXlVekZ0STZNVWswellsUjJPOHNhVU1fSXZXSHhnc2JOWlN6blBLaE9uMVFKajZ2WmszUll4Ql9vSUZoOUxlMFVLVFgyNTZwQUpIN2hyMTRxdWc?oc=5",
+    "title": "Tesla Cybercab Has Much To Like As A Robotaxi For 2031",
+    "source": "Forbes",
+    "published": "Tue, 08 Sep 2026 12:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Forbes offers a favorable analysis of Tesla's Cybercab concept ahead of its projected 2031 robotaxi deployment.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xRGZYTFd3aDV3aF9aUDh3ZUZ2MlZxT0Y3M2ZaX2VZby05LWNjVG01UWEzMW02U0RJODR5SzE3dnVVWV9WQkpRTzExclJsWnNydklSVDJjb19nVS0yTzhpbWhKZjlIZTNLaTBZclQ2R2FIdw?oc=5",
+    "title": "Waymo robotaxis go live on the Lyft app in Nashville",
+    "source": "The Next Web",
+    "published": "Wed, 09 Sep 2026 14:33:53 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's driverless taxis are now available through the Lyft app in Nashville, expanding the robotaxi operator's presence beyond its home turf.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTc4cFNKRE1abXZ4Q0NZUmlWMVJsNEZoZnFfOTc0UzBiN2ZFVThqVjlXNDlMWHRlRVk2MFRNMnRSVXhLWUVKdzBYTGptVE9ZckRaLTdlVzlyZFgzdHo1d1NnQ2h2Z1FaeWtaSHZ5WDFYcHBOeGVHUUZIcUtHeWw1QzRIRXY?oc=5",
+    "title": "Waymo gets green light to operate in Berkeley",
+    "source": "Berkeleyside",
+    "published": "Tue, 08 Sep 2026 20:38:18 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo secured regulatory approval to operate driverless vehicles in Berkeley, expanding its deployment footprint in the Bay Area.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1lnRWUzSUVNTzVfSkRIZmtaSHd5Q25KMDNEdE9HM2RLaHBZVl9GcVlsbUF5djBEVkVHc0NQZkM4czlkX2JlV185MURPX08wcHVaUXRxemR6TzUyNzh4aUZ4Sl82OU1ndk1YREU4eEUyT2dZUHNhT0k4OTZRaXEwOU5JbDlnOFRvRm5jZVdraVFDVmg1SWxkRkR3?oc=5",
+    "title": "Tesla's Cybercab Rollout Advances Amid Regulatory Scrutiny and Local Approvals",
+    "source": "kbb.com",
+    "published": "Wed, 09 Sep 2026 15:01:29 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's driverless Cybercab program is inching forward on multiple fronts: the company won City Council approval for a Robotaxi hub, albeit relocated further north than planned, even as NHTSA reviews whether its autonomous system meets safety standards. A Tesla self-driving taxi was spotted testing on roads in Fairfax County, Virginia, without official confirmation, while Axios floated the idea that entrepreneurs could shape the Cybercab business model. Explainers from outlets like Built In are filling in details on specs and strategy as the picture of Tesla's driverless ambitions comes into sharper, if still murky, focus.",
+    "companies": [
+      "Tesla",
+      "NHTSA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "regulatory compliance",
+      "robotaxi",
+      "autonomous vehicles",
+      "autonomous taxi"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1lnRWUzSUVNTzVfSkRIZmtaSHd5Q25KMDNEdE9HM2RLaHBZVl9GcVlsbUF5djBEVkVHc0NQZkM4czlkX2JlV185MURPX08wcHVaUXRxemR6TzUyNzh4aUZ4Sl82OU1ndk1YREU4eEUyT2dZUHNhT0k4OTZRaXEwOU5JbDlnOFRvRm5jZVdraVFDVmg1SWxkRkR3?oc=5",
+        "title": "Tesla's Cybercab Rollout Advances Amid Regulatory Scrutiny and Local Approvals",
+        "source": "kbb.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGkyc2stUzRPMEdQNzJJVnFoanlfbXdsSHNGYmZoc0ZTeWlTb1FyZnJ2RFlBOVdPcnpmc2REQnRsWVZ5OWlJRHF0RnhHVnljV1lEUDBwekRlZ0I2SXBLUlpyWlJpUVlfVUtMSVAyZDI5Rm1ielE3eUNaQm1sVmN1WEpqdlZQcDFnNkRB?oc=5",
+        "title": "Tesla gets City Council approval for Robotaxi hub, but site shifts north",
+        "source": "The Business Journals"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nRG1zeGplQktVM1Q4MVFJZFFzcWQ4aTdOSFhsMTI4YjhEb3lLTHdUZllPeFVkWVpOV0ZWcWZLNklnYVZWMTZfelo2T3Q4RG02Rnc5WnRn?oc=5",
+        "title": "What Is the Tesla Cybercab? Vehicle Specs, Business Model and Autonomous Strategy",
+        "source": "Built In"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUpLTzBxYXNZck5tcWNmc3A2dmNVWXVSZkxzX3BoU2FHWmhuVllyNld1Znd5ckJlNkVLdGczWmpvT1VpTDRveG5qUV8xX2ZBME8wbXJEUDRrRkNocnpKakdPbjIyajVIVGw3NkxhdDZhcUY1RnlEWkpBaHFXcDNmNnVTaDFKb3Jwa2RKMHlVY0t0aW1j?oc=5",
+        "title": "Entrepreneurs could hold the key to Tesla's Cybercab plans",
+        "source": "Axios"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTI5eE9VV0gxd0N1VDJkNUdkbkJDd1JLVzl1c3B4Nl9OVGZtWkJINWI5MnFLVVNTMHgtMGF6UEhLemhnMlhXTjVvSGVhbjFXUUl3Y3BXYXBEcVdmMzdmcFZmZ1dlcVRUMkpDYUl4dzdOYVh5TGVnaGk2d1RvakVQM0RtejUyeE5TNjNsR0RkdDJaUHBseGhrS0Y0dzRIUQ?oc=5",
+        "title": "Report: Self-driving taxi from Tesla spotted on Fairfax County roads",
+        "source": "FFXnow"
+      }
+    ],
+    "body": "<p>Tesla's push to put a driverless taxi fleet on America's streets crept forward this month on several fronts at once, none of them decisive. A city council granted approval for a Robotaxi hub, though only after the site was moved farther north than Tesla had originally proposed. Federal safety regulators, meanwhile, opened a review of whether the company's autonomous driving system meets national standards. And in Fairfax County, Virginia, a Tesla vehicle operating without a visible driver was spotted on local roads — the kind of sighting that spreads on social media faster than any company can confirm or deny it.</p>\n\n<p>Tesla has declined to clarify what, exactly, was driving around Fairfax County, which is itself becoming a familiar pattern: the company lets glimpses of its robotaxi ambitions leak into public view before it's ready to explain them. The council approval for the Robotaxi hub is concrete progress, but the relocation suggests local officials remain cautious about where, precisely, they want driverless vehicles congregating — a small but telling instance of city governments asserting leverage over a technology company that has often preferred to move faster than regulators can follow.</p>\n\n<p>The National Highway Traffic Safety Administration's compliance review is the more consequential thread. NHTSA has already opened multiple investigations into Tesla's driver-assistance systems over the years, and a formal look at whether the Cybercab's autonomous stack meets federal safety standards could shape not just Tesla's timeline but the regulatory framework the entire industry has to satisfy. Unlike Waymo, which built its robotaxi service through years of geofenced testing before expanding, Tesla has bet on a more general-purpose vision system and a faster public rollout — a strategy that makes federal scrutiny more than a bureaucratic formality.</p>\n\n<p>Underneath the headlines, the business model itself remains hazy. Axios has floated the idea that independent entrepreneurs, rather than Tesla itself, might end up operating and profiting from Cybercab fleets — a franchise-like structure that would let Tesla sell or lease vehicles while offloading the messy logistics of fleet management, maintenance, and local regulatory relationships onto smaller operators. Explainers like Built In's are, in effect, filling silence with synthesis: specs, strategy, market positioning, assembled from what's public because Tesla has not said much new.</p>\n\n<p>What emerges is not a company at a finish line but one navigating a thicket of local zoning boards, federal safety examiners, and unconfirmed sightings — the ordinary friction of introducing an extraordinary technology. For an industry watching Tesla as a bellwether, the stakes are real: how NHTSA rules on the Cybercab's compliance will influence the regulatory posture toward autonomous vehicles generally, and how cities negotiate hub placements will shape where, and how visibly, driverless taxis actually operate in American life.</p>",
+    "slug": "tesla-s-cybercab-rollout-advances-amid-regulatory-scrutiny-a-e5f4d2"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc2o1cmF4YUMySzFRYXBnN1JSWDRBSnN2TFdueXZfOGI2X0hHTVRVQmt3eVdBejd4dUJVeWI0NEN2LW00eG96cTZfVGlxZDlfWGNFblNqaUhNbWdZOHgxQkpiNDZXQU54TUFFN0Z3MnBzNF9PRGhhNnF4V1NJZFA4WU9VTzF1eWEzdmZVNjBIUkNoWGd2a3JR?oc=5",
+    "title": "Q&A: Missy Cummings strives to make self-driving cars safer",
+    "source": "physicstoday.aip.org",
+    "published": "Wed, 09 Sep 2026 15:58:44 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Missy Cummings, a former Navy fighter pilot, now directs George Mason University's autonomy center, applying aviation's hard-won safety lessons to self-driving cars.",
+    "companies": [
+      "George Mason University"
+    ],
+    "people": [
+      "Missy Cummings"
+    ],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3RJcEEtNkpUUkstUFY0VmJhSlVFSTg2WlBLeFJVQzdKZHVoR05jbUFYcVNjSG1BNm5Udks1cS14M0pLVW5rUlVpeERCZjEyVzJITU5Ha0tCWU1SV1k2dE1aeXl0LVllWWd0bzVhZkFZTzhpaTR0OUNrLWJWSHlKcjVQV0d2R3psbjhhNEY4dWtzZkUzQkZHZ3lOY2lZaGZFZV9sLW1vb3NJV2RhajZGcXl1N0FjZUU?oc=5",
+    "title": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville",
+    "source": "Bloomberg",
+    "published": "Wed, 09 Sep 2026 10:00:05 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lyft now offers Waymo's driverless taxis through its app in Nashville, marking the ride-hailing platform's first integration of a third-party autonomous-vehicle operator.",
+    "companies": [
+      "Lyft",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkRJVmpQT3dmek5BNVo3dVowT0pWbW9Zb0YxQ0hmUDc2S3lTVTN6ODc5ZExsX001MURIRC1wOWRjaGRtRU1EU3NjOW1LME56bXVTcjhMT0pKZWo2c2d0SEU4dE1lRDlvUUZpSFVZM2VqSVRndmxadGd4RVo5QjRkc1Zjbi04TW5rRk9pcjdfTkN0VGY2NG54dmVLU084Rl9GWGxTQ1B2b2PSAa4BQVVfeXFMUGhMaU9CWGV2ZnZ1V1RMWUE1eGJxRTlOcWs4UUNGeW11T3FCbTBkTFNYN3VzamVRbFUtb3hjR2tsdEM4NFpuTllSYkRVR3YxSjJyZ3JEYTVqQVFiNk02UWhXakpRdld0ZW9pWVB0M0dscUlSNUxVMlY5UV9MU253MFJNQVRQb0c2Tk15U2dFLTVmU1NKeHJJMU8wbGdIYzFtVVVhdlJySTFTaU9HN3Vn?oc=5",
+    "title": "Nashville riders can now order a Waymo straight from Lyft",
+    "source": "WKRN News 2",
+    "published": "Wed, 09 Sep 2026 13:06:27 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's autonomous vehicles are now available through Lyft's app in Nashville, expanding the ride-hailing partnership beyond San Francisco.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE4xc09VS1NXeEZYeThwZ1NyNVdZUlFqRkJBYm9uaG9HejhfaEJIRGhza1docTdiQldfV2JpSEJqTDduR3pPNEFDRTczWFRscjA0LVJlVGJNRzNQem5faEhaV2NGUDQxaktaVXF4blpQMFBka1g5WU01Wk1nMjNCMlZxVGpRRTIwYXZqVkk5Q0hoNjVEUkJYd1lsTjhFd25JWFE?oc=5",
+    "title": "Minneapolis to consider requiring drivers in automated cars",
+    "source": "MPR News",
+    "published": "Wed, 09 Sep 2026 15:55:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis considers requiring human drivers in Waymo's autonomous vehicles, citing concerns about job losses for rideshare workers.",
+    "companies": [
+      "Waymo",
+      "Uber",
+      "Lyft"
+    ],
+    "people": [
+      "Robin Wonsley",
+      "Jamal Osman",
+      "Jason Chavez",
+      "Aurin Chowdhury"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ2t0MlhwSXZGM0ZqdWRXdVI5TGc5MWVYa0hjTS1UeXUzeGJwci1MVFV5THRKWm05Wi1XYmhIV1dyR1ROX3EwU04yeHcyZVRGaDVnQW1fZ29tM2NrWFhvejBCWnpQSTJyazhVbGQwNmhsYkVWQk5teU5BZGFkb29GQlRSVENwdGdkMUwwREFQdnJldUVsNWdMT0VzZWM2TTFCOC1IODJrOW56bWZyWmUxMmQ0WHA0eWxQa0tIcUM4ZTQwcS01cG9WTVFSSV9RNnVDWlFBc3AxQmhLeFZzMXBKejZ2RWNEN3hfMUE5MWdocW1ZU3BfOW1vSW53?oc=5",
+    "title": "45 Tesla Cybercabs Are Now Roaming Austin. Here's What That Means for the Robotaxi Business Wall Street Has Been Waiting For.",
+    "source": "The Motley Fool",
+    "published": "Wed, 09 Sep 2026 17:34:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla has deployed 45 Cybercabs in Austin, marking the company's first real-world robotaxi fleet operation.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWtMc2JEa2tUQVQyS3pGS2xLaXdTUjZieWE0aXFpZWZBZlRsTGxFdUtDbndmOW5faTRMQ1JzVC0ydUZqSWZSUzRlYUQ1Tng2Y1U3ZHlmYTZfMnpOLUU3WUJMQTNXMDA2UDlVcEc2T05JVGRKVEpqTHVqWHlhd3lBZG5mSC0ycHM?oc=5",
+    "title": "Waymo Just Made A New Friend In Nashville, And It's Not Uber",
+    "source": "InsideEVs",
+    "published": "Wed, 09 Sep 2026 17:13:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expands its robotaxi service to Nashville, marking another city addition to its autonomous vehicle operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTI5eE9VV0gxd0N1VDJkNUdkbkJDd1JLVzl1c3B4Nl9OVGZtWkJINWI5MnFLVVNTMHgtMGF6UEhLemhnMlhXTjVvSGVhbjFXUUl3Y3BXYXBEcVdmMzdmcFZmZ1dlcVRUMkpDYUl4dzdOYVh5TGVnaGk2d1RvakVQM0RtejUyeE5TNjNsR0RkdDJaUHBseGhrS0Y0dzRIUQ?oc=5",
+    "title": "Report: Self-driving taxi from Tesla spotted on Fairfax County roads",
+    "source": "FFXnow",
+    "published": "Wed, 09 Sep 2026 12:30:39 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla self-driving taxi was reported spotted on roads in Fairfax County, Virginia, without confirmation of deployment or official announcement.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMndSQ0hfTmQ2VkNtb2ZoTGNndkN6V1ptenVQRDlKczhSOU9BRXFkTFBQYmN5dTZDcm16cS1HMUhVSC1qTVlSdGNzMWFENFVRd3NuRHRBcEJpTWVDWEV5dUc0N05EUkxmb2pJci1PWDduVDctS2JPVGJVNTduUFV1bDVWLXc2ZW1TYlA1MmYtRk3SAZgBQVVfeXFMT01FU0I1VV9QWTRpR21SdHlUd0ZBZEFudFpMSEZWa25pWkcwOWhxcG1SNmhiSXpQMGE0X2FKYjFjLTVFOUdIc1BQVmk3TmI4MEtzeWctQUlnSXRscUdIbGZwb29ETURTZDd4SlRCcUZiT0syVV9sLTA0cnQza2JQMXJoQ0ZkaUNObG50c09MeWx1UDZKNGpLWjE?oc=5",
+    "title": "Bay Area students testing driverless race cars",
+    "source": "NBC Bay Area",
+    "published": "Wed, 09 Sep 2026 00:19:33 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "UC Berkeley students are testing driverless race cars at speeds exceeding 150 mph on professional racetracks, bringing autonomous vehicle technology to high-performance racing.",
+    "companies": [
+      "University of California, Berkeley",
+      "WeatherTech Raceway Laguna Seca"
+    ],
+    "people": [
+      "Scott Budman"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "student projects"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUpLTzBxYXNZck5tcWNmc3A2dmNVWXVSZkxzX3BoU2FHWmhuVllyNld1Znd5ckJlNkVLdGczWmpvT1VpTDRveG5qUV8xX2ZBME8wbXJEUDRrRkNocnpKakdPbjIyajVIVGw3NkxhdDZhcUY1RnlEWkpBaHFXcDNmNnVTaDFKb3Jwa2RKMHlVY0t0aW1j?oc=5",
+    "title": "Entrepreneurs could hold the key to Tesla's Cybercab plans",
+    "source": "Axios",
+    "published": "Wed, 09 Sep 2026 16:09:01 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Axios speculates that entrepreneurs may play a role in Tesla's Cybercab autonomous taxi ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGcxd0pQOHliM3F1dXlhOERCamZoNjdqYzJlMnFabUcwUmxEY0xiR1hUQjB2enJpa1Z5UUZfVGlOM2NCU1lTV1R2TEtibkJaZ2dxc2t1bkFVSlQ2RS1QUnFhR0IyV3JlWm9OWkhkVUJzY1dsWU9MbkRpR19lTGRyRWg0VVo4cUJudGxJTVNlMlF1UTFKMkdPUFM2ZDVjT1FnQ3oySmRGVUMxenF1a3lQZW9oVVlyb1E?oc=5",
+    "title": "Uber Stock Insider Buys $5 Million As $10 Billion Robotaxi Bet Grows",
+    "source": "Forbes",
+    "published": "Tue, 08 Sep 2026 20:45:49 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "An Uber executive purchased $5 million in company stock as the ride-hailing giant deepens its $10 billion commitment to autonomous vehicle technology.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZmWVF3SFJTdmx5bEZIbXJmUF9WMnJoUnpodWtWOHF1ZFJpSG5RUnZxWmlEV2IwQV85SzR6dWU1MmdQN090dGwwQ1FhZ2ZtUEJEQ0VTMWJoQ3lXTWtLWm9MXzZyZl9ISXVvdGdXdk5zalRwREZ1OW1ONjg3Q01OaTdFYU5ZRkh5SDVtV2g1bGN4N1I2OEQ3bGdKZUtVTUR6VnFUalgwSV92d0Vx?oc=5",
+    "title": "Waymo Robotaxis Go Live on Lyft App in Nashville, Uber Exclusivity to End",
+    "source": "eletric-vehicles.com",
+    "published": "Wed, 09 Sep 2026 15:22:04 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's driverless taxis appear on Lyft's Nashville platform, ending the company's exclusive partnership with Uber.",
+    "companies": [
+      "Waymo",
+      "Lyft",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGkyc2stUzRPMEdQNzJJVnFoanlfbXdsSHNGYmZoc0ZTeWlTb1FyZnJ2RFlBOVdPcnpmc2REQnRsWVZ5OWlJRHF0RnhHVnljV1lEUDBwekRlZ0I2SXBLUlpyWlJpUVlfVUtMSVAyZDI5Rm1ielE3eUNaQm1sVmN1WEpqdlZQcDFnNkRB?oc=5",
+    "title": "Tesla gets City Council approval for Robotaxi hub, but site shifts north",
+    "source": "The Business Journals",
+    "published": "Wed, 09 Sep 2026 12:39:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla wins city approval for a Robotaxi hub, though the facility will be located further north than originally proposed.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nRG1zeGplQktVM1Q4MVFJZFFzcWQ4aTdOSFhsMTI4YjhEb3lLTHdUZllPeFVkWVpOV0ZWcWZLNklnYVZWMTZfelo2T3Q4RG02Rnc5WnRn?oc=5",
+    "title": "What Is the Tesla Cybercab? Vehicle Specs, Business Model and Autonomous Strategy",
+    "source": "Built In",
+    "published": "Wed, 09 Sep 2026 15:55:17 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Built In offers a explainer on Tesla's Cybercab specs and autonomous strategy, but reports no new development or announcement from the company.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kdFdjU2NYVGRNZGd6ODB0eUJ4eTl0OUhRS1dLMWVPdVZCdU1LNnN1aVA1N185LWZUUEZINHo0UVN5VFFobV9fYzdLSEEyZ1VQeEtoZzh6dmprZXdyT1oxZDZQaw?oc=5",
+    "title": "Elbit-FUSE unveils mass drone and robot swarm technology for IDF",
+    "source": "The Jerusalem Post",
+    "published": "Wed, 09 Sep 2026 16:47:09 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Elbit Systems and FUSE announced a swarm-control platform for coordinating multiple drones and robots, designed for deployment with the Israeli military.",
+    "companies": [
+      "Elbit Systems",
+      "FUSE"
+    ],
+    "people": [],
+    "themes": [
+      "drone swarms",
+      "military robotics",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JWZ0NianZFT2RnR3g4VzVHeFVhUnBlSlllODlCcEVyVWFHckk2ZmxiUEFlWVdYejdjM1VZNkhYenVtRkk3NUFkMTIyT18tR21Ra2xrdHhGeHZ4amFleXFkN3dWNzAzVVZ1UVRyMER1SWtRVkZXQTRWbEJUeW9ZZ3RqZ0RxQWZQQVRVWTFPb3hzZURRSm5J0gGcAUFVX3lxTE02eVFuMy03TXNhendpdjlEVlNxcWlDNFZFMnljeFlQWjFjQS1UUk1zZ2NKaDkyZkxMbEhjdVRZaVowOVVfVHlmbEtiZjBnU0U0OGMwNXRmdFNaZl9MREE0RGstQnJaU3poQ3JIZlR2QktzZ2I0LXJEbWI1d0dEaTdyUnl0NDNSNVlSWjI3LXcwMnZxMC02NWRScDJjeg?oc=5",
+    "title": "Mara Raises $7 Million To Advance Spike Autonomous Counter-Drone Platform",
+    "source": "Pulse 2.0",
+    "published": "Wed, 09 Sep 2026 11:27:30 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Mara raised $7 million to develop Spike, an autonomous system designed to detect and neutralize hostile drones.",
+    "companies": [
+      "Mara"
+    ],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "autonomous",
+      "air defense"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0VkUnd5VzlEZVhBUy1ja1Q0dFZ6RE0yZHp2dGdobTZHajY0ZTZ6MXdkVWtKV2hYal9nY2dRRUlxU0RlZmxyQ3dmMXpKMFVVNlh2Q25LRVp3LXZHWmtrbzZGM3djQlVtVWdQb0U5RFNTOVA2U1BUMlFWcDZqblV2MGZLdEZPQllselJKcm44eld0STZhTDdsd2R1RG1HT1RrNm53VTZXNXVWWDla?oc=5",
+    "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+    "source": "reuters.com",
+    "published": "Tue, 08 Sep 2026 22:31:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Iran claimed to have captured a U.S. military submarine drone operating in the Strait of Hormuz, escalating tensions in one of the world's most contested waterways.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "military drone",
+      "submarine drone",
+      "geopolitical",
+      "captured"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmFOS2JOTzR2d2dybXdfWW1Sc29mWXR1Y2QtdGZ6RlN4QkY2Zmhma0F4SGpPeEI2akdYN0ctVWdBdzJrQXhTWmQ0MTl4MlhOc3FfZXZWNkRRXzZKX2hhZ1JjZmNXOGN1UEE1Q0piYnFxMUY0bG9WbFJhbGpvVjR2TUhjY0ZRbUxDNHJJQ1BwYkhrbXpPRUFzdGpR?oc=5",
+    "title": "In the Khanty-Mansi Autonomous Okrug of the Russian Federation, the Surgut Airport was closed for the first time due to a drone threat",
+    "source": "UA.NEWS",
+    "published": "Wed, 09 Sep 2026 09:52:52 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Russia's Surgut Airport closed for the first time after drone attack threats forced five regional airports to restrict operations.",
+    "companies": [
+      "Surgut Airport"
+    ],
+    "people": [],
+    "themes": [
+      "drone threat",
+      "airport security",
+      "civilian infrastructure"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xRHZtV1RBazFhRjBNUFpkdmdpZWJoSFhrQ19QbGVjN2hqTXQwZHR5Q3V0TWtNUWRhN1dEQTFGdUNpZksxamNzQ053d1Zsc3dJSlFGWkhYX0lrVGp0bWI1N2hnbUZWdzA?oc=5",
+    "title": "XTEND’s 25% surge in debut gives Israeli drone maker a strong start on Wall Street",
+    "source": "calcalistech.com",
+    "published": "Mon, 07 Sep 2026 12:18:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "XTEND, an Israeli drone maker, surged 25% in its Wall Street debut, signaling strong investor appetite for the sector.",
+    "companies": [
+      "XTEND"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "IPO",
+      "Israeli tech"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aVTJ1cHRVN3dqUWs5ZktPdzhwTUN3TmFYSENnZ3JZTTlMeV9UUEE3ZTZRZ2lMeHc5TWtrOUtmYXZOcWZBNHo5VFJFZHhabWFucF9icVJaaw?oc=5",
+    "title": "Iran claims it seized US underwater drone near Hormuz, provides no evidence",
+    "source": "Ynetnews",
+    "published": "Tue, 08 Sep 2026 18:16:55 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Iran claims it captured an advanced U.S. underwater drone near the Strait of Hormuz, offering no proof as Washington tightens economic pressure.",
+    "companies": [
+      "Anduril Industries",
+      "Mahan Air"
+    ],
+    "people": [
+      "Ebrahim Rezaei",
+      "Chris Wright",
+      "Scott Bessent",
+      "Donald Trump"
+    ],
+    "themes": [
+      "drone",
+      "geopolitics",
+      "military"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXBDclVFMmVmcFI2RWUxc29TVlJjeGtTTDVWU21ZajliRnRJNlk0UVoxYnVVMzhQRmxrV1luSHZaa1hnYTlsVGJFV0Y2YWtBcV81U096d3l3cHFpR19CNjZrWGUwZkxOZTZSaDBoanExUlhZUXExd2I3UHJPcXd4QTNRZjdla2hPS2FwbVlmR0Q?oc=5",
+    "title": "Apple Is Chasing Elon Musk's Neuralink Vision—Differently",
+    "source": "Benzinga",
+    "published": "Wed, 09 Sep 2026 13:24:38 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Apple is reportedly exploring brain-computer interfaces as an alternative to Neuralink's invasive approach, though details remain speculative.",
+    "companies": [
+      "Apple",
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "neurotechnology",
+      "non-invasive BCI"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVk1ZMkxmSk1lR3gwTmJXZ3ZCU1BjLS1DYjZSOXV2cHV1SlR0d0MwNFFZamNudHFSM3hnMnRYYnNGSkdWdTBuOEZjYTJSV0l3aVk3NVZtLVotVUtTMUpQRzgxNjhNSndSRzJOTVo3Y1k2cjZxU1p1dGkyOHFxNGZkMDE1VmlHT0p6WEVIS2RlY1ExaHFLZThsajlHSERZM091WC1xNGs1MVVjZw?oc=5",
+    "title": "Scientists in Chicago remotely controlled a wireless brain implant in South Korea over the internet",
+    "source": "Yahoo",
+    "published": "Wed, 09 Sep 2026 00:13:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Scientists in Chicago remotely controlled a wireless brain implant in South Korea over the internet, demonstrating that neuroscience experiments can run across continents with minimal delay.",
+    "companies": [
+      "KAIST",
+      "Yonsei University"
+    ],
+    "people": [
+      "Jae-Woong Jeong"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "wireless implant",
+      "remote control",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tMDlUU3VmU3Z5RWNsb1Bub2tneURwUklFMTFSOEk0SDdudTB2OHJTT3Q3c1FSNnBJWUVyYUszMVNWdkhrM2g3LW5zS1RPQ0RlWWln?oc=5",
+    "title": "Former President of Elon Musk's Neuralink: Brain-Computer Interface Is Not a \"Moonshot Project\"",
+    "source": "36 Kr",
+    "published": "Wed, 09 Sep 2026 04:43:59 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Neuralink's former president argues that brain-computer interfaces have moved beyond speculative territory into engineering reality.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "neural implants"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://draganfly.com/press-release/draganfly-selected-for-all-five-capability-streams-of-canadas-new-defence-drone-initiative-marketplace/",
+    "title": "Draganfly Selected for All Five Capability Streams of Canada’s New Defence Drone Initiative Marketplace",
+    "source": "Draganfly",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Draganfly qualified as a supplier across all five capability streams of Canada's new Defence Drone Initiative marketplace, positioning itself for contracts with the Canadian Armed Forces and Coast Guard.",
+    "companies": [
+      "Draganfly"
+    ],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "military",
+      "unmanned systems",
+      "procurement"
+    ],
+    "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
     "duplicate": false,
