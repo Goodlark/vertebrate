@@ -47308,7 +47308,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47384,7 +47384,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47598,7 +47598,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47729,7 +47729,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47875,7 +47875,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -47980,7 +47980,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -48059,7 +48059,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48252,7 +48252,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48544,7 +48544,7 @@
     "first_seen": "2026-09-04T18:02:00",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48659,7 +48659,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48738,7 +48738,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -48800,7 +48800,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48910,7 +48910,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48939,7 +48939,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -49251,7 +49251,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -49345,7 +49345,7 @@
     "first_seen": "2026-09-06T17:28:34",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49372,7 +49372,7 @@
     "first_seen": "2026-09-06T17:28:34",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50264,7 +50264,7 @@
     "first_seen": "2026-09-07T18:58:11",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51154,7 +51154,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52441,7 +52441,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52553,7 +52553,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52791,7 +52791,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52984,7 +52984,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53199,7 +53199,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -53238,7 +53238,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53505,7 +53505,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53699,7 +53699,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53944,7 +53944,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53997,7 +53997,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -54046,5 +54046,965 @@
     ],
     "body": "<p>This week, Joby Aviation put two very different aircraft on two very different roads at once. In Fort Worth, Texas, the company began ferrying passengers on its first commercial eVTOL flights, a short hop between the city and Dallas-Fort Worth International Airport that turns a notoriously congested surface commute into a few minutes aloft. At the same time, some 1,500 miles of American highway away in spirit if not in fact, a modified Cessna Caravan retrofitted with Joby's autonomous flight systems set off on a ten-state road trip, the kind of barnstorming tour that once introduced small towns to the airplane itself, only this time the pilot is software.</p>\n\n<p>Both efforts fall under the federal government's eIPP initiative, the White House-backed pilot program designed to fast-track real-world testing of advanced air mobility before the technology is fully baked into regulation. That a single company is running both threads simultaneously says something about where Joby thinks the money and the mandate actually are: not just in whisking commuters over freeway traffic, but in proving that autonomous aircraft can haul freight and respond to emergencies in the kind of unglamorous, high-stakes situations that rarely make it into a promotional video.</p>\n\n<p>The Fort Worth flights matter because they are, in the driest bureaucratic sense, commercial — meaning fare-paying passengers, not test pilots in company jumpsuits, are the ones being carried across DFW's tarmac by battery power. Urban air mobility has spent nearly a decade as a slide-deck promise; this is the first time Joby has actually put a member of the public in the seat and charged for the privilege, a threshold that matters far more to regulators and investors than any number of demo-day flybys.</p>\n\n<p>The Caravan's cross-country tour is the quieter but arguably more consequential story. Passenger eVTOLs solve a lifestyle problem — the same one Uber promised to fix with helicopters a decade ago and largely failed to. Autonomous cargo and emergency-response flights solve a supply-chain and public-safety problem, one with obvious appeal to rural hospitals, disaster-relief agencies, and logistics firms that don't care about noise complaints or scenic views, only about whether a package or a medevac patient arrives on time. By showing the same aircraft in ten different states, Joby is angling for a broader constituency than the well-heeled commuters of Fort Worth: state transportation officials, FAA regional offices, and the freight companies who will eventually decide whether autonomous cargo flights are worth insuring.</p>\n\n<p>For the wider industry, the two-track approach is a tell. Joby, along with rivals like Archer and Beta, has long argued that eVTOLs will first prove themselves in short, low-risk routes before graduating to denser urban corridors. This week suggests a parallel track is emerging just as fast — one where the aircraft carries nothing more than data logs and freight, and the person most affected by its performance is a regulator watching from the ground, not a passenger watching from the window seat.</p>",
     "slug": "joby-aviation-kicks-off-twin-pilot-programs-in-the-air-and-o-900055"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5",
+    "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+    "source": "CNBC",
+    "published": "Fri, 11 Sep 2026 06:02:40 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese humanoid startup Unitree releases a new robotics model while disputing OpenAI's claims about model distillation.",
+    "companies": [
+      "Unitree",
+      "OpenAI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics model",
+      "model distillation"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVlBeElRTDEyZTl6NDJEY0F2cDdHcFhaczFqaVFzZXlGTWdKZ3Y5UHNZNnJEVVZQNWNTczd2aUw1N1c3SFJqNGpCUnpFdy1TY1EzN1liYWc2a0xUdC1abEN6V0VpSlFLekpHSFBPNTBOdWsyY3EydlR0aW85azlTU3ZLWndrUEFsQmhPTzZTeklNdWxI?oc=5",
+    "title": "China’s Humanoid Boom Is About to Face the Business Test",
+    "source": "A3 Association for Advancing Automation",
+    "published": "Fri, 11 Sep 2026 14:33:54 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Chinese regulators are tightening IPO standards for humanoid robotics makers, forcing companies to prove revenue and commercialization rather than just manufacturing scale.",
+    "companies": [
+      "Unitree Robotics",
+      "AgiBot",
+      "Galaxea AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China",
+      "commercialization"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOGpVUFE3UC1yVl9OOGVhT08zTTk1cVdTdTJEYm45SEpZTVRZSlMyS3FvMi1kSEJvWHpjSWJwRlJyak5yNUZSSEo5SmpRcHhUYzN2aU9ObGl2QllDTE5NSmlxUEhCclB2eElqY2VwbnNoNTlqVVJtQTJ6VTJMYlRqUklQODhsNWpON09yM0IwSmJiTnlmWmliaXg1aDJqRGUxb3BpVHc2WlRVaFI2c1U1QjlkUlpUajRmUWIwbTFvLU9keUw1ZzlvUGkxZWNaUmdSUVYzdUpya2c3NnA4T2traFVpdlh4eGdLZ2RNdWZMTWdMNTg?oc=5",
+    "title": "Seeds | Former Huawei executive develops humanoid robot, secures 500 million yuan financing",
+    "source": "Gasgoo",
+    "published": "Fri, 11 Sep 2026 13:30:37 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "A former Huawei executive has raised 500 million yuan to develop humanoid robots, marking another bet on embodied AI in China's booming hardware sector.",
+    "companies": [
+      "Huawei"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVdNYUFjLXViOE9tdVVmZVFVV0ZkdGt4QW91LTBLWXFzLWkxVUhETmFHeUhxTG92T1dBQXhIdktMWnNWdlQ4YUF3U0lpZTRvamNtQ1lMa0ktaWFkZndKS21jcGdDdG5fb1JXNmF2dU5fYkRRbVktZ0R2WWVnOXl0TWphYVRVQ2xidmZXZjgwVTJPdzVKd0xoNTNB?oc=5",
+    "title": "Skild trains S1 robot physical AI model on NVIDIA infrastructure",
+    "source": "IoT News",
+    "published": "Fri, 11 Sep 2026 15:42:20 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Skild is training its S1 robot on NVIDIA's compute infrastructure, advancing the physical AI model that aims to control the machine's real-world movements.",
+    "companies": [
+      "Skild",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "machine learning"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHc1U2VjampFdlRZRkx1aE1pbkNpSE1nUFhUZXZxdEp2cDNOUWVJazVrWWtaMGluelc0LVV6bkRoV2N6U2xudHBQaXZyVzR5b2p5RUJ0a1g4dEtkdU1MbFdhZm16TTJTRTltMDlWclBhWTc3Q05zZUNFVnVjSGE5eFo4XzVySU05MjVtdU5DT2Y2VWlMREhSUVA4V2Z2eUM5clNYRE4xU1VDWGR6R0dj?oc=5",
+    "title": "Japanese company unveils 'robot ambulance' for on-site humanoid repairs",
+    "source": "Euronews.com",
+    "published": "Fri, 11 Sep 2026 05:00:22 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Japanese company has unveiled a mobile service unit—dubbed a 'robot ambulance'—to repair humanoid robots on-site rather than shipping them back to a factory.",
+    "companies": [
+      "Japanese company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics maintenance",
+      "service infrastructure"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWTBpeTljcjBWMDYxbHA5bWNOZVVxMVZYTkpkS0pVTDBxRVluLXo3MGxQSElncDVLYzkwdHFLRElTVVN3LTRtUVRYVmwzYVJsY2xTR1JpYWRVLVMzUC02T2I5dm9LOHJSUWlV?oc=5",
+    "title": "HD Hyundai Robotics invests $9.7 mn in Korean physical AI startup",
+    "source": "KED Global",
+    "published": "Fri, 11 Sep 2026 13:22:00 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "HD Hyundai Robotics backs Korean physical AI startup with $9.7 million investment.",
+    "companies": [
+      "HD Hyundai Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "investment"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5",
+    "title": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work",
+    "source": "Reuters",
+    "published": "Thu, 10 Sep 2026 03:00:46 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China's sprint-running humanoid robot, which outpaced Usain Bolt's records in trials, is now being deployed for warehouse and logistics work.",
+    "companies": [
+      "China (likely a Chinese robotics company, though not named in snippet)"
+    ],
+    "people": [
+      "Usain Bolt"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "locomotion",
+      "deployment"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUktBZGNJcklBdVNmNjhMX0ttbGZ1V0ZLWU53aDM3bUk5RXk4WmpBdzJLaGlvbjhkNEZGcmRXeE1pd2RfYXJ0VVgxaDM0aFp3ZHJLa3hMOU1uUDNIbDNNNzdFbXVVSGdxRS03Zks5TFAtYm4zYzB6SUJKS3IzcFdjaUpmbHNxYkFzd3g4YW9aUlZaUWJ0THoyV2dUU2ZWZw?oc=5",
+    "title": "KIT - Media - News - News 2026 - KIT Showcases Humanoid Robot ARMAR at Cyber Valley Day",
+    "source": "KIT - Karlsruher Institut für Technologie",
+    "published": "Fri, 11 Sep 2026 10:43:09 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Karlsruhe Institute of Technology showcased its ARMAR humanoid robot at the Cyber Valley Day event, demonstrating progress in physical AI development.",
+    "companies": [
+      "Karlsruhe Institute of Technology (KIT)"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WN2l3bnBGSHhxRE1meVhGS0ltMDdkNF9MMnE2c2d4b1g1VzZWZXNYMk5waENPRHVVLXNCT1JheDdFdUQ5RW9rZlR4UWRoRnpkMXZQQlVyeHZLVTFNOHBqZ1c3cG9VVmgzZHVvODhVQ2s4T01JUS1tdERTTVlXRnM?oc=5",
+    "title": "Europe's First Truly Driverless Robotaxi Just Started Rides In Croatia",
+    "source": "insideevs.com",
+    "published": "Fri, 11 Sep 2026 17:01:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Mobileye's driverless robotaxi began commercial service in Zagreb, marking the first fully autonomous taxi operation in Europe.",
+    "companies": [
+      "Mobileye"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHBfZ3pZQjRYSUVfcllIdVM2M21OeHZ6eVVTOVM0UVJQQzZKU1lMeGc2OHpSUzFQN211Qng4dk9iU2dKU2wtQ2xMMXp1NjVQMEpNV3N2bXZXVnhPTUcyZUVuTWVLdDdHb3Q5RUdnUlhPQU96Wk95M1IwTnhyM0VJUEwwZ3hSbTV2R1hGejF6eVBGTmhENGkyYzRvMU5MOXEyOE9TdEdKd3B4NUxrUWc?oc=5",
+    "title": "War over robotaxis in NYC heats up after retracted Waymo report and 'Autokill' novel",
+    "source": "gothamist.com",
+    "published": "Fri, 11 Sep 2026 15:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's retracted safety report and a new novel titled 'Autokill' have intensified New York City's already fraught debate over autonomous taxis.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "robotaxis",
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmpheXc3SUIySF9HbkFCbDRrZXY2MVA5U29LbEpaSFluVHYwZS1iWWJzSktkVTY3ZVNJQUNyTklfbG9nenJJZlNKRHVqV1lPa2tXdzV3TVg2amhGYW9QcU8xb1NIa0JhMERZMXVSQk9DaEUxX0d0aGFfcG80cHZqSkI4TnQxc1hoSmNRcTJ2TXM2MWR6R3o4Vm4zUmpkd1ltb2c0Vy1jV2s1Z0w5MlpJUU45RXducmxRcXFsNHdSVXU1ajdxbXkwTA?oc=5",
+    "title": "MINNEAPOLIMEDIA NEWS | Minneapolis Proposal Would Put a Human Driver Back Inside Driverless Cars",
+    "source": "MinneapoliMedia",
+    "published": "Fri, 11 Sep 2026 10:39:57 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Minneapolis proposes requiring Waymo and other autonomous-vehicle companies to keep a licensed human driver behind the wheel, effectively halting truly driverless service.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Robin Wonsley",
+      "Jamal Osman",
+      "Jason Chavez",
+      "Aurin Chowdhury",
+      "Adam Lane"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcW5YdFc1NHZ0cDUweEVFT1NCODRwaGpmcllBaElGdEN5RmVEQlhjSDdVUTNFWHVMamRzMHN0d2swNV9PVC1GNXFPdm1ZY2x6YVlWc1c3dG5CLWNyUXJ0bDBFQmdwaThlalZ2d0llaThGQjZ4SUV5MnI4MHk4N3BtR3lMTUJxQjNNVWo4dUMtVGVMU2lSZEppNHlB?oc=5",
+    "title": "China targets 70% NEV sales and mass self-driving by 2030",
+    "source": "Automotive World",
+    "published": "Fri, 11 Sep 2026 15:25:49 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "China's industry ministry unveiled a roadmap targeting 70% new energy vehicle market penetration and mass autonomous deployment by 2030, betting on infrastructure-first robotaxi deployment.",
+    "companies": [
+      "BYD",
+      "SAIC",
+      "Geely",
+      "Toyota",
+      "Volkswagen",
+      "Hyundai",
+      "Baidu"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "China",
+      "policy"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEVaMmduT24wcHJieVhheXlya1B4WnNiTDNKMGx6R293RDZEaDZQYTBiRkF0UFNGWHdsS2JFemZteWhNRlNPNWFHY1luS183ZEJfTmRNNkdIbk1yREh2V3V4QkJTWDhWOTNQbU05UFVLX1RUMzFRTU43OF9mWDdxdVI5QnR6S0Fnc2tkTFkza0FNbnZ3dXlaNExqR1Y5Tm5LOFctNVFaS1FSYUpWREcxQlNnbVZXWkZjaWw2OXhXRHk?oc=5",
+    "title": "Why the driverless company Intel controls just bet on a Florida shuttle startup",
+    "source": "247wallst.com",
+    "published": "Fri, 11 Sep 2026 13:29:00 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Mobileye, the autonomous-driving unit Intel owns, has invested in a Florida shuttle startup, betting on last-mile robotaxi routes.",
+    "companies": [
+      "Mobileye",
+      "Intel"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi",
+      "last-mile"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWRjR0M1YU5XdXJyX1hBaDBWMDZhZUdtem80Y3I4NmxhMEVrV2ZEQmJvNXg2WXhRNEJNLUZoYy1iYkpnSWtiQmtqRDNPbzNmeG00MHNiR004T0s2WWw4UXhfUlJIRUVWTWJzQzZmeFUtMEotbTBpY0VHQWN1UEpIUXEtdjRRNmhFYWR0aDdTT2M0eGJDYmhPby0wbDZMd296UDBYeDdFMGd4Vk1acVdyS1FSSzAtVDQ5aXo4TlRrdUJCY0RpUUpVcFd6OEFEaDNBcC1v?oc=5",
+    "title": "Pony.ai and Verne launch driverless robotaxi tests in Zagreb, Croatia",
+    "source": "Traffic Technology Today",
+    "published": "Fri, 11 Sep 2026 09:20:48 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai and Verne began testing autonomous robotaxis on Zagreb streets, marking the Chinese self-driving startup's entry into a new European market.",
+    "companies": [
+      "Pony.ai",
+      "Verne"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "testing"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLU5QWFFsZjlLYXo4dDhYbm80WUxJb0dURHhzZmtuS0FVVnVscm05TEVlQ09OaTQyVzI4YlZsVUxNN1ZheEdNOU0wMnZRQm91UVJ0bkRzbXJlZDZMenBXb0U3ZXBPbEczdUlwcXdGT19wMUNJMjR4a01aM2ZneTRnUVdGT3BicExDck56cjNnNm1qMFp3WGNyMXJueFBZZDlyOV9GcGhEb0lMcDdJUjNpeHhfZw?oc=5",
+    "title": "Minneapolis may require a person in every self-driving car to protect jobs",
+    "source": "kstp.com",
+    "published": "Fri, 11 Sep 2026 02:40:36 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Minneapolis considers requiring a human monitor in every self-driving car, a move that would effectively halt Waymo's robotaxi expansion while protecting thousands of rideshare drivers.",
+    "companies": [
+      "Waymo",
+      "Tesla",
+      "Zoox"
+    ],
+    "people": [
+      "Robin Wonsley",
+      "Adam Lane"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "labor"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjgyYkNkRllLMi1DemdmaUs0MW9nY29yclRpbllXdWhnNnlmX0RPRThaTlFxN2Y0aXFvTGUxNDRqbXFGRVNMQm5YazFGVmk4c3pkcmxrX2NkSUM3YzhFMlpRRGxyc2dNaDNyRDRTT1ZVeUlSenBKQVVVNW5QTnhKcUNLcmFiQ3ZnTWx5TXlqbEpWNnkwaXY2YzJYVDYxMFljVExfTGVsOA?oc=5",
+    "title": "Video: First driverless robotaxi rides come to Europe",
+    "source": "Electronics360",
+    "published": "Fri, 11 Sep 2026 12:46:46 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Driverless robotaxis have begun operating in Europe, marking the autonomous vehicle industry's expansion beyond North America.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHE2c1o4d3RHUGJFRXFuZldubXlNd3gtSnhMUGFFeTJVUVpBQTVuZnE3RHplaTVfZFNPSDhDc2pZZF9vQUFQdXdtTDFSZi14ZkxfanU1RW80WDBoOWZ0NGRramNxUzdLeWYwaWxwRWl2MFBVQVRaa3lkTkc0YU5FOGhuNU05a2YxNVc2a29STF9rb1JYdHYzQWJTY1RPckZiamhLcFB2ZldWVklXZzM0aFdsU2xWcl9GTzlWT3h5SnRyUGc?oc=5",
+    "title": "China targets mass deployment of self-driving vehicles by 2030",
+    "source": "Reuters",
+    "published": "Fri, 11 Sep 2026 03:23:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "China's government announces a goal to deploy autonomous vehicles at scale by 2030, without disclosing specific companies or technological breakthroughs.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "policy"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wcHU2V01ZZW1XYzVIZElRZGFQY2J0VHFJNHB3bXM0aXN6ZURMX1ItVUpoLXZMUUhILVJHWnZvZmwxQlZYSTJYR29SQ2sxVXpxSGJ5WEZkU0hwUQ?oc=5",
+    "title": "Tesla's Cybercab Debuts in Japan as Analysts Say Waymo Is Winning the Robotaxi Race",
+    "source": "Japan Wire by Kyodo News",
+    "published": "Fri, 11 Sep 2026 07:51:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla showed off its driverless Cybercab prototype in Japan for the first time, a bid to project momentum in the global robotaxi contest. Yet the same day, Seeking Alpha argued Tesla's stock price has drifted far ahead of its actual self-driving progress, with Waymo quietly extending its lead in real-world deployment.",
+    "companies": [
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle",
+      "autonomous vehicles",
+      "valuation"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wcHU2V01ZZW1XYzVIZElRZGFQY2J0VHFJNHB3bXM0aXN6ZURMX1ItVUpoLXZMUUhILVJHWnZvZmwxQlZYSTJYR29SQ2sxVXpxSGJ5WEZkU0hwUQ?oc=5",
+        "title": "Tesla's Cybercab Debuts in Japan as Analysts Say Waymo Is Winning the Robotaxi Race",
+        "source": "Japan Wire by Kyodo News"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnQ3Wk5FN0hMTFF0SXAzbjNWSTNidDRpTjNhODhnY1pxT053X1FJS3k4Ri1tUnRnSnpRVEM3SDhTUGtRN2xpZnFJY0xMMXJCZHRWbmxFS1ZTbEJPaE1wcUFJcHlxTDVGcTctejF1RlVVX3BfSlpLT0pNMVJsTmZhNnlwdWtGek5kOHI0anNVTHdTQQ?oc=5",
+        "title": "Tesla Looks Expensive And Waymo Is Pulling Away",
+        "source": "Seeking Alpha"
+      }
+    ],
+    "body": "<p>Tesla put its Cybercab prototype on public display in Japan this week, the first time the steering-wheel-less, two-seat robotaxi has been shown outside the United States, according to Japan Wire, a Kyodo News affiliate. The unveiling gave Japanese media and consumers their first close look at the vehicle Elon Musk has billed as the future of Tesla, a low-slung pod with no pedals and no wheel, built for a driverless world Tesla has yet to prove it can actually operate in.</p>\n\n<p>The timing was either unfortunate or perfectly on brand. The same day, Seeking Alpha published an analysis arguing that Tesla's stock has drifted well ahead of its self-driving reality, and that Waymo, the Alphabet-owned robotaxi operator, is quietly widening its lead in the one metric that matters most: cars actually driving themselves, with no one behind the wheel, carrying paying passengers. Waymo has been doing this for years now in Phoenix, San Francisco, and Los Angeles, expanding city by city with a fleet already logging millions of driverless miles. Tesla, by contrast, has spent a decade promising full autonomy is imminent.</p>\n\n<p>The contrast matters because Tesla's valuation has never behaved like that of a car company. Investors have long paid a premium for the promise that Tesla will crack robotaxis at scale, turning idle vehicles into revenue-generating fleets and Musk's \"self-driving\" ambitions into an entirely new business line worth more than the cars themselves. A prototype tour through Tokyo is exactly the kind of spectacle that keeps that story alive: sleek, futuristic, good for headlines and social feeds, even if the vehicle isn't yet carrying a single paying rider anywhere in Japan, or most of the United States.</p>\n\n<p>That gap between showmanship and deployment is the crux of the Seeking Alpha argument. Waymo isn't unveiling prototypes at auto shows; it's quietly signing up riders through an app, absorbing the unglamorous work of regulatory approval, mapping, and safety validation city by city. It's a slower, less cinematic path, but it's one measured in rides completed rather than press photos taken.</p>\n\n<p>For the robotics and autonomous-vehicle industry, the divergence is instructive. Robotaxis were supposed to be the proving ground where software-defined transportation finally arrived, and for years Tesla set the terms of that conversation through sheer narrative force. Now the terms are shifting toward operational proof: who is actually driving passengers, in which cities, under what safety record. Cybercab's Tokyo debut was a marketing win, another data point in Tesla's global brand story. But brand stories don't get you a taxi medallion, or a regulator's sign-off, or a customer's trust at 2 a.m. on an empty street. Those things, so far, belong to Waymo.</p>",
+    "slug": "tesla-s-cybercab-debuts-in-japan-as-analysts-say-waymo-is-wi-8f0121"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnQ3Wk5FN0hMTFF0SXAzbjNWSTNidDRpTjNhODhnY1pxT053X1FJS3k4Ri1tUnRnSnpRVEM3SDhTUGtRN2xpZnFJY0xMMXJCZHRWbmxFS1ZTbEJPaE1wcUFJcHlxTDVGcTctejF1RlVVX3BfSlpLT0pNMVJsTmZhNnlwdWtGek5kOHI0anNVTHdTQQ?oc=5",
+    "title": "Tesla Looks Expensive And Waymo Is Pulling Away",
+    "source": "Seeking Alpha",
+    "published": "Fri, 11 Sep 2026 08:50:19 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Seeking Alpha argues Tesla's valuation has grown disconnected from its autonomous-driving progress while Waymo gains competitive ground.",
+    "companies": [
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "valuation"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFUZ2xpZXZZMmNjd0RSRXU0VVd0Uk5mZ3BXd09zb3dsbmo5X2dHc3VMQXdrdGUzZE1xc05pdHBPYzlCRnE1RGt5UV94d2pJcFo1VXp0Slo2UjIyeFhTblB3RGR4U3ltbWxIUDE0ZEhzeC1XUk5Nd0R0cmtJWFY3a3pLN2JWZ204aS0wQzVMZVhQNFgtcUhvN0x3?oc=5",
+    "title": "Zoox is taking on Waymo in San Francisco with free rides and a very different robotaxi",
+    "source": "TechSpot",
+    "published": "Fri, 11 Sep 2026 15:33:21 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Zoox is launching a free robotaxi service in San Francisco to compete directly with Waymo's paid driverless offering.",
+    "companies": [
+      "Zoox",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmlNSm5zRFpwcG1uOHR2cUJXcEdVaFdnYTc0UHQxaTNraUpYVGtydUt5S1ZEcGdQMUhjWWVNcVF5UEptanByQ1p0WnhwUG1ndExEMGRlZ2pwMU02YWQtZWZMNm5hMHctN1kxdEJkaGluZjV3TEVmSTdsYXBEZXhGZ2pOS2tGU3pKeHJIU242X1BoVWdvLVdsTg?oc=5",
+    "title": "Japan Airlines launches autonomous drone inspection project",
+    "source": "AviTrader Aviation News",
+    "published": "Fri, 11 Sep 2026 10:55:36 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Japan Airlines has deployed autonomous drones for aircraft inspection, automating a task traditionally requiring human technicians to scale fuselages.",
+    "companies": [
+      "Japan Airlines"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "aircraft inspection",
+      "automation"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzVIRmduckNmVURBWVktYTlTelNFSm83ZmtmX01FNl9pdmZYSFRFVDAtbkNiZjI5Z1dsekpPOVloZVhOUUhFWW9zUi1yTFVTMUxBWWhQUjIzd1o1cHpHdzZicTQ2eGoyUE84YUp5M3hEbTdPakw5SlBNZTY2VGFmeHJsWThKdHpuZk5uZmNudWpOcXc1VWtaOS01TlZET3NuRkpaY2ZXM095YmQ5SDJLUHQxcUU5WkNZNlE5d1VmOUFYUQ?oc=5",
+    "title": "Autonomous Drone Interceptor Debuts Advanced Flight Safety & Warhead Module",
+    "source": "Unmanned Systems Technology",
+    "published": "Fri, 11 Sep 2026 06:20:25 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous drone interceptor system with new flight safety features and warhead capability has entered operational testing.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "drone interceptor",
+      "military",
+      "warhead"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtSjdkYllGcElnRFpYYkNhazRwT2RuZjRUVl9wU0tyRGRGWjRZSnNwc3U2NDBOSzZRWV9QWklsQ0NPcHpLbG04QXNxRHVqQkh1VFAxM0w1WnkxU0dlbV9qczd6TQ?oc=5",
+    "title": "Japan's First: JAL and Donecle Launch Joint Verification for Fully Autonomous Drone Aircraft Exterior Inspections",
+    "source": "日本航空",
+    "published": "Fri, 11 Sep 2026 07:02:31 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Japan Airlines and Donecle are piloting autonomous drones to inspect aircraft exteriors, marking the country's first fully autonomous inspection program.",
+    "companies": [
+      "Japan Airlines",
+      "Donecle"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "aircraft inspection",
+      "industrial automation"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTNvelVpWVpfRmM4WGpQVFNBOW00VzVhdmxGNlZoQW5QaUlmMUMxSGU2SjRiWnE3ZTNpNXFvN21sQW9zTm9BbXJwazlnWUlKd2pyY3pFcUdvd2hCZDNhYkZXa0Nvc2xBeHV2VERORzhXaHNTWHdwTWpEV09JNERqS1BreUNZYWlJOXJWZl9ZdERZa0VGNVBxMExuWnp6Y1dZdl9pM0U3SklTQmhKTGFtaQ?oc=5",
+    "title": "Claude AI helped Russia-based threat actors develop autonomous kamikaze drone swarm",
+    "source": "resiliencemedia.co",
+    "published": "Fri, 11 Sep 2026 13:57:37 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Anthropic's Claude AI was used by Russia-based threat actors to develop autonomous kamikaze drone swarms, according to security researchers.",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "security threat",
+      "kamikaze drone",
+      "AI misuse"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHlVSkN6N2drRU9fMG4zdWI3WEMwZlNadWRjY09rS1g1d1hjRnl6dmR1ckhNaC1Zb2dLSHE2ZjNQNGc1eHBrZ2JUMEpZS2Y3Wl9qWC1JV3NCTHd4aWg5R2NsX3N5ZkcycWhXV3dXY1BSZ3ZWR0VuSUs1VDEyeGlydjkwNU4zeVk?oc=5",
+    "title": "JPT Exclusive: Shell Advances Drone Operations in the US Gulf",
+    "source": "JPT Homepage",
+    "published": "Fri, 11 Sep 2026 05:03:18 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Shell is expanding autonomous drone operations across its offshore platforms in the US Gulf of Mexico.",
+    "companies": [
+      "Shell"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "offshore",
+      "autonomy",
+      "oil and gas"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWWktY1BnU2dLY2hNd3ZuWWpiYmJxbkRVQnlQUUlDbjFVbWRacDBqd0J4T3VUa2Z1Tmktd3JqQU9KSzl1REcxTWlOVlpfWWhYVHA5Tjc0bFU5Y2NQWHg3RTl5V0t3ampJc1djNlFldG1hS3NWLVVNemNoM1VFR3hfX2lPeDM2QmRGVDlVVG1hZDBKWTZDRHo3MHl0VG42TllPbDRDSmluYUIwNkEzRURBMzNlb0hPaE1pSFo3blVweUhjMm9k?oc=5",
+    "title": "JUST IN: Drone Dominance an Adaptation Race, SOCOM Official Says",
+    "source": "National Defense Magazine",
+    "published": "Wed, 09 Sep 2026 22:06:57 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Lt. Gen. Steven Marks of Special Operations Command argues that winning the autonomous warfare race depends not on technology or spending, but on speed of adaptation.",
+    "companies": [],
+    "people": [
+      "Steven Marks"
+    ],
+    "themes": [
+      "military",
+      "drones",
+      "strategy"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVJXWnFxd25USERSYUk0Nmt5N1RFUzMxbllBa2NqNkJGUVplYkFJVEJYRThSdkxCa3NhNDVLdV8wRGE5VGpGVlhhVzRKdUpOeHExUXRONFprbmtaTDZNaEhuZGZEdGhta3FrQ1FBZDAwSXQ0TV9wMWxGMExaT2FURVpsa0d5WjdwakhhT1ZOVDhzRGwwS0tUUmxxVUk3R2NrcGdlRGVDNjZCcS0xZTQ0cw?oc=5",
+    "title": "Iran likely to reverse-engineer captured US underwater drone",
+    "source": "Reuters",
+    "published": "Wed, 09 Sep 2026 22:18:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Iran claimed to have captured a U.S. Navy underwater drone and said it would reverse-engineer the technology.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "surveillance"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUk16T29KWF9jRlhzSS1HcWhwZExIb3YwRkwtOEt0REd5bHR0eU1TX1p2azlVQzJ2SFd1WnUyUldZR0M0a0hmYjJJQjdJSFp3SUZqb0VpMFVIVjczRWZQNFExV2V1ZC0xcVJlQTcybnVKcVdoVVVob1o1VDlMT1ZLS1A5bzQ3YWNXUnRvVk1IeDZ3VEExUmJOOVJaQ25Ldw?oc=5",
+    "title": "Autonomous drone defense contractor to double Tampa production",
+    "source": "The Business Journals",
+    "published": "Thu, 10 Sep 2026 11:03:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "An autonomous drone defense contractor is doubling its Tampa manufacturing capacity, signaling expanding demand for military unmanned systems.",
+    "companies": [
+      "Autonomous drone defense contractor"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "defense",
+      "autonomous systems",
+      "manufacturing"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQVVBa2ZoWkdXZ2FZZUN2OXZ6bE5icVU0UVFabjBZZl9EWnBfSkZwRjd6b29LcmdkT0ZHLVh2UWlNaUtSdldxR0ZmblF0NDlWeUdWbm9DMlktemRHS28tSXBRY3I4SjdYVjF4OS15c2hlaGhHb3hsRGcwZDRLVTFycGFWRW9lZkVyenV1cTVsNDNUMGlhYXNXalRZZWc0dE5xZ0xGYWRmRjlxd2VjNWZBNzBnQThMUnRldWJCdXA1MEFXb25EYU4xZnRObmRhdXhDMTRCdmowcFo?oc=5",
+    "title": "TB2 Aerospace Introduces Vehicle-Mounted Multi-Mission Autonomous Docking Station for Mobile UAV Operations",
+    "source": "sUAS News",
+    "published": "Thu, 10 Sep 2026 18:08:46 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "TB2 Aerospace introduced a vehicle-mounted autonomous docking station that allows drones to launch and land from moving platforms, expanding options for mobile UAV operations.",
+    "companies": [
+      "TB2 Aerospace"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous docking",
+      "UAV operations",
+      "mobile deployment"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUhDNnp0UWFncm1Wb3dTb3hDRldDQlhYalZfWkMwOXJMbC00Qkt6a2VERDNsbnZpZHdpQUcwMVZqY0lIaFNYNUwxTFJJejV4cGFlRUd3X0N0TWtZejZ3QzE5ZFU2bTQzLXk3bkNMOU5NM2x0WlBXV2s3T2lyUmFhZ0thRERJbm850gGOAUFVX3lxTE5UeHIxSWpLdnpMU2tWOGxabHRNdUdXcU5PNk1yNEVySXlwS213WC1XZ09taFJCeExGdnhNTlhHTTQ1ZXNlQ2hlRWYxWW5yOV9nVUl5ZjZBVFI0dGRyN19WRnZnbUxWOFREd0d1Ry1HUW5EX2k2eFE4RHE3TnRQYkotOUM1LXdabzhKeldYSWc?oc=5",
+    "title": "Anduril to Equip Hermeus’ High-Mach Uncrewed Aircraft With Mission Autonomy",
+    "source": "The Defense Post",
+    "published": "Thu, 10 Sep 2026 11:50:42 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Anduril will supply autonomous flight software to Hermeus' hypersonic uncrewed aircraft, expanding the defense contractor's reach into extreme-speed drone operations.",
+    "companies": [
+      "Anduril",
+      "Hermeus"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous flight",
+      "high-speed uncrewed aircraft",
+      "defense",
+      "mission autonomy"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnRqNllnTVRCZGhPdUdMSlVxaUoyUkNDMUEtUDJwZU5rUXFBY2stZ19hRWtqOXFoTnI3QXJKaVFOT3ZCS295NWRaSVZhZlZrTTZVYjl4b1FhdlU3QzlJU3l2SkptenR3U2p3T2RZNGpLSVpYcjZCVWxUMlN4WTVpMjBOZzVzUGhDaVhjczQ2SkdJNFVOZkEwb1JJb2xiTUdYWlJOLU9xQ1JjcldieU1rSWM2MA?oc=5",
+    "title": "500 Drones in a Shipping Container: The Pentagon's Race to Master Swarm Warfare | Afterburner - MiGFlug's Magazine",
+    "source": "MiGFlug",
+    "published": "Thu, 10 Sep 2026 21:29:35 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "MiGFlug's Afterburner examines the Pentagon's development of drone swarm technology and its implications for modern warfare doctrine.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "swarm",
+      "military",
+      "warfare"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT0JkdWR2MkdVQUNiMHpfeVpDd0gtd3p6TWp1UHpvbUJJYjNZc09vMTQ5UzlwLWV0ZFFFTnhwYkF5aFlxOFZBUVNhQTNSVlpYZ0FwX0MtcDBMOU1lc2EwQmFKSENIT2RaV294bmQzUnVnVWpqMFVNMXpJTXRuTWoydk0yby1lSnpjbGdDbkEtT0Z3dw?oc=5",
+    "title": "Drone strike on Novy Urengoy gas plant",
+    "source": "The Barents Observer",
+    "published": "Wed, 09 Sep 2026 15:26:36 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "A drone strike hit a gas processing plant in Russia's Arctic heartland, 2,800 kilometres from Ukraine—the longest-range attack on Russian territory yet confirmed.",
+    "companies": [
+      "Novy Urengoy condensate treatment plant"
+    ],
+    "people": [
+      "Dmitry Artyukhov"
+    ],
+    "themes": [
+      "drone strike",
+      "military",
+      "Ukraine-Russia war"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LbzhOVnlEUFVnNGFBal9CaGkzNDBFNlQ5NEQ4QWdkbXVLaEd5aHdLMUlBQ0pPUkJKcXF0VWV4Q2ZDTTYwN2g5ODlRQWNQcVI0dFh0aEdsdmN5Z0FuLXJGaNIBXEFVX3lxTE9LY0RNZDF6UDdOVUNBQUJaWHRaZ2RaSDFEM3U3aEpiei1pczk2Q2hwd2YwSTlyMHdhWFhwMjhEX05WdG9kZWhQZS1MM21YN2xFSDRQV2dqSE5DUDZT?oc=5",
+    "title": "Brain Chip Restores Life: Travel, School, Work & Connection!",
+    "source": "Modern Ghana",
+    "published": "Fri, 11 Sep 2026 11:53:51 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "The headline promises a brain chip restores life, but the article contains no actual reporting, only a list of unrelated news links.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural restoration",
+      "accessibility"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmFrWGp3QUozOGhaa1VoNmxaclVNVW1ETS1tV0N0NVJzSkF4R29GNXhLWkhyZ2RIaFRrRlhGRGtEdXdKNzBxaFhkaU54T0Y4MVdLT1l2cnVYRFZCcHZLSXZDQkZGWjAxZHRCZHMyYXhHdkh1RkI2NXNMRUlubm1UQU5jNXAyRVprVjRn?oc=5",
+    "title": "Jason was blinded in a car crash – then a brain implant changed his life",
+    "source": "thatslife.com.au",
+    "published": "Fri, 11 Sep 2026 00:18:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Jason Esterhuizen regained partial vision through a brain implant after a 2011 car crash left him completely blind, offering him new independence and hope.",
+    "companies": [],
+    "people": [
+      "Jason Esterhuizen"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "vision restoration",
+      "medical implant"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://draganfly.com/press-release/draganfly-selected-by-government-of-canada-to-supply-low-cost-tactical-isr-uas-to-the-canadian-armed-forces/",
+    "title": "Draganfly Selected by Government of Canada to Supply Low-Cost Tactical ISR UAS to the Canadian Armed Forces",
+    "source": "Draganfly",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Draganfly wins a five-year contract to supply up to 5,000 tactical drones to Canada's military, starting with an initial order of 100 systems.",
+    "companies": [
+      "Draganfly"
+    ],
+    "people": [],
+    "themes": [
+      "tactical ISR",
+      "military drone",
+      "government contract",
+      "unmanned aircraft systems"
+    ],
+    "first_seen": "2026-09-11T18:08:19",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
   }
 ]
