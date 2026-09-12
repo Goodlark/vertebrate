@@ -48659,7 +48659,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -48800,7 +48800,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49044,7 +49044,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49096,7 +49096,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49124,7 +49124,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49153,7 +49153,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49181,7 +49181,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49320,7 +49320,7 @@
     "first_seen": "2026-09-05T17:05:41",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -49459,7 +49459,7 @@
     "first_seen": "2026-09-06T17:28:34",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49487,7 +49487,7 @@
     "first_seen": "2026-09-06T17:28:34",
     "week": "2026-W36",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49539,7 +49539,7 @@
     "first_seen": "2026-09-06T17:28:34",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50135,7 +50135,7 @@
     "first_seen": "2026-09-07T18:58:11",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -50293,7 +50293,7 @@
     "first_seen": "2026-09-07T18:58:11",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -50374,7 +50374,7 @@
     "first_seen": "2026-09-07T18:58:11",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50681,7 +50681,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50739,7 +50739,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50968,7 +50968,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51127,7 +51127,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -51208,7 +51208,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -51319,7 +51319,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -51575,7 +51575,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51737,7 +51737,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -51886,7 +51886,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -52360,7 +52360,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -52414,7 +52414,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52578,7 +52578,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -52632,7 +52632,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -52712,7 +52712,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -52984,7 +52984,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53135,7 +53135,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53238,7 +53238,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53559,7 +53559,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53587,7 +53587,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -54098,7 +54098,7 @@
     "first_seen": "2026-09-11T18:08:19",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -54541,7 +54541,7 @@
     "first_seen": "2026-09-11T18:08:19",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -54579,7 +54579,7 @@
     "first_seen": "2026-09-11T18:08:19",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -54739,7 +54739,7 @@
     "first_seen": "2026-09-11T18:08:19",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55002,6 +55002,679 @@
     "week": "2026-W37",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0hMYUxrSjVTeFlIVUxodU55V2IyQzlkVm56ek9LZVdjLV9Qb1hlNG4walVWVzhvZld4ODF3aWE4LXlsSmpVNC1JLWhVeDl3bFhPcjM2X2c4OE1iNFBpRi1Bd2lHTmVwX2dLWDAzMVUxdWlub1NZZ2N0VzJ2cFkxZUdXcl9XclNUWnl0THlqdFlCNTVUTWY4Yzg5ZXhLSksyTnA1MjNCODJzRll2WVBhVkdUNEJMeVpZ?oc=5",
+    "title": "Chinese company releases video of humanoid robot walking off assembly line on its own",
+    "source": "nbcnews.com",
+    "published": "Fri, 11 Sep 2026 22:37:46 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese roboticist unveiled video of a humanoid robot autonomous departure from the assembly line, a staging post toward commercialization of embodied AI.",
+    "companies": [
+      "Chinese company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "autonomous",
+      "assembly line"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJaSmFKeFc1Z09JcF9naEZMd25MblhOYjJ4YzRIVjBzbGdNN08yQktYTEktRHRJYzVpTXhUcTZ4Z1RlT1l4d0tMY0ZJQ05RUXhPUmRnYlQ0SDZjbmRLZ0ZWdWg0QWxRVTlGZTYzR3V2SkxGNXlfUVB0NnkwOHdHc2piakzSAYoBQVVfeXFMT2h4OWpTaUw1WEs2aGtkbGVyYU1QQzBzWVFZcmNrNTNpRnFQczNqam5qcEJ1THBNM1BOdmp6S21FcUVyY1VzV1pDY3Nick1NTVlNcTkzYW5ETUdKWlY5ZHR4M0J4Qm1OdWJ1Tmp3MVNVRHBYazVyVGg5OUFvZEdhVUQtUjFqbHF1b1pB?oc=5",
+    "title": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
+    "source": "CNBC",
+    "published": "Sat, 12 Sep 2026 13:00:01 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Construction robots are addressing America's housing shortage through precision tasks and factory automation, though humanoid workers remain years away.",
+    "companies": [
+      "Dusty Robotics",
+      "Coastal Construction"
+    ],
+    "people": [
+      "Tessa Lau",
+      "Patrick Murphy",
+      "Robert Dietz",
+      "Vineet Kamat"
+    ],
+    "themes": [
+      "construction",
+      "physical AI",
+      "robotics",
+      "housing"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1peVhRdFBuWHpDeGIwMlBvd0RDNXh6alZCODlJTE4yMXZaenNvTENXeUczWndlSUhHQjZOekppdElUd25uTnBWQ2dmQllMcUp0ajB3cUN1RjBGODdQanViRWZR?oc=5",
+    "title": "IFA 2026: Robot lawn mowers were some of the best products on display",
+    "source": "Mashable",
+    "published": "Sat, 12 Sep 2026 15:43:12 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "At IFA 2026, robot lawn mowers emerged as the real star, outshining humanoid robots with smarter, nearly autonomous models from Dreame, Segway, and others.",
+    "companies": [
+      "Dreame",
+      "Segway",
+      "Yarbo",
+      "Roborock",
+      "Dyson",
+      "DJI",
+      "Anker",
+      "IFA"
+    ],
+    "people": [
+      "Leif Linder"
+    ],
+    "themes": [
+      "robotics",
+      "autonomous",
+      "lawn care"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdm9aTEtJel9UVmg5RzRCUVI0TzFpTC1iNTVSU2pqSjdRVUc0NDZQd19QOFNTRlRyVjlhWGFTLVpNMUJtdzY2am1HQkREMWctRktkXy0wOUl1MzVaeGpUeVoweXUxOHBERHRmN0Y4cjhhVWhWYnN0MmU3SUVCcjhRQWVmb3JPRTZZZ2k4WUJOczhrUDNGQ0V1T3dJcGJkWWpnS3QyUVJ6d3VGSGpHTzlzdzBqVGgyMDVIMFZRNmotNUdTTEFXS2VlSlNrTWtGNjZh?oc=5",
+    "title": "Get Ready to Meet Rubo: A Next-Generation Embodied AI Robot for Library and Campus Support",
+    "source": "SBU News",
+    "published": "Fri, 11 Sep 2026 16:41:57 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Stony Brook University has deployed Rubo, an embodied AI robot designed to assist with library and campus operations.",
+    "companies": [
+      "Stony Brook University"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "physical AI",
+      "campus automation",
+      "service robot"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlJKNGRTY3c1eXRCVXdicW54Q1E2YTVTV3JFQjlZaTRxanktOGpfeWJIb0wxaUJBMWxyV3lmdlJOYlZMSkFrQWtUSmlTcHB1bEVMaDVPMHV2V3kzZGtiMlhTQXVkRDByVkh6b2tQNVBLc01FZ2FhOHBkNkptcjNBWWE3bWxFZHdvdVNxVGVR?oc=5",
+    "title": "Xpeng's humanoid robot enters mass production in Berlin, with home chores in its sights",
+    "source": "Yahoo Tech",
+    "published": "Sat, 12 Sep 2026 11:24:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng is beginning mass production of its humanoid robot at a Berlin facility, targeting household tasks.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "mass production",
+      "home automation"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjNyeWlHOW9pUnlmUE1qOVIwbzhicHBQOTVhenFqZ0t5MFFUVm5BNklGMFBYWGpucVcxNVhhbTRPYXNRcFQxT1l6V20yWHFNZ3o4SXhRazlBSE5OZjkxYlBiNkcyMnZhc3ZjNVNnR1J0elRRMDh1ckhVeTA5dWJSRWVLLXFRY3hxWUFRbUJZTTBoRTQwQ1l5YlRpSERpeVc0aXJ5Q0hUbnZDS1ljZG5NcHB3?oc=5",
+    "title": "Why robot hands are one of the hardest problems in humanoid robotics",
+    "source": "interestingengineering.com",
+    "published": "Sat, 12 Sep 2026 12:49:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Humanoid robots can backflip but struggle to fold shirts because household tasks demand tactile sensing and real-time adaptation that backflips don't require.",
+    "companies": [
+      "Zhejiang University",
+      "Ohio State University",
+      "Unitree",
+      "X Square Robot"
+    ],
+    "people": [
+      "Kaif Shaikh"
+    ],
+    "themes": [
+      "humanoid",
+      "robot hands",
+      "dexterity",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjZXRnZJQjhKM1BmVjVmcWUtQUJncG54WFRQRkI0NENNWjJKSU96QXBEb0lWN0lYbFR3WFNFelBVTXdaOTMwT3M5VE5wUHBVeGVzcXJEdmE3QnU0TTJBb3JLT3dqQUhyVUhnOU5HRVlnU055VExpZzFyczZGM2pBRFN0cy1RX3BuSHFVOFJ4YURjUE04Slh1Ujc2al9wUkZMNGw3bmZCMA?oc=5",
+    "title": "A Robot Beat Usain Bolt’s Record. A Caltech Lab Is Focused on the Harder Part",
+    "source": "Pasadena Now",
+    "published": "Sat, 12 Sep 2026 03:30:04 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Caltech researchers have built a robot faster than Usain Bolt's sprint record, but the lab's real focus is on the unglamorous problem of making machines work reliably in the real world.",
+    "companies": [
+      "Caltech"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "locomotion"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlNZT0JZYlhyRFNzWkVnM01sSXg5RGl3bWMzQkJPX1FhYzhVZlRoWVFQT1J2UlY0Z2JPOHZaMW9YRlJSbFRXMC1pcExPR2NRbTJkNlBOcFJqM1VfSE9SRjJtSG9wSE1YOVl0aW1BNnBnVTRUekV2R1V3Vmlod3YtN1RaSTlESUstVkU3c0ZyQkZ5VThKUWJsV245RUtUaXR6YUFaYVFYellPa29mTUlBLXROQmNGMTVGRWpHdXd0SG9YUQ?oc=5",
+    "title": "Chinese EV maker puts humanoid robot production line into operation",
+    "source": "news.cgtn.com",
+    "published": "Sat, 12 Sep 2026 07:00:33 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese EV manufacturer has begun manufacturing humanoid robots on an operational production line.",
+    "companies": [
+      "Chinese EV maker"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "production"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1NUZ1MtOU9TQ2RoSWcweUpLejBJSnp4VzJkZWdKME1sMG5wSmRNcFhTcHp5RFc0c0QxdWNQa3cwbDdiVzBuYjJZVGdLaXBiMWZ4SC1DRWI4Tmd6bVBRcjRsZ09tRVZDcW0telZ6elVZb3dlRUJhTHJSeDVvVEFuN1RhTXdQaG5hZFpJeXVkUXRUMGYtNkFxRDZndk5fdUVqVk51TVhiajdWVHRqd0Fxb2pmdVY?oc=5",
+    "title": "Waymo pulls over, calls cops on juvenile riders who had ‘ghost gun,’ authorities say",
+    "source": "Los Angeles Times",
+    "published": "Sat, 12 Sep 2026 12:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle in San Francisco detected passengers carrying an unregistered firearm and summoned police, marking an unusual real-world test of the technology's safety protocols.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "safety",
+      "law enforcement"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2lYN3UxdHV4U0hiNmc5NE1CQWxPOXRGRllDaGt0c0Z0NVRyRXhNakFzazd4ZUx2YnZibGtiSGViSTRiR0VuRkJMcjZHNWVCXzRiV2hoTlBzTnpzNnNuMmxfLVlmbGEtZHNBbURpaTJFbjVUeUhCZkdZOWZOTlVGLVRnMmFrTkRUZWF0ZkljTE9JdmI3Z18zMNIBngFBVV95cUxNUVZVQTZpWEd3eWdmelpuSjZPZzNmNGZGdDRkVHEwaGNPWldnLU03bm8wUHpaM0pYbko4RWZBNW1jV1N4TnVGQlRyaFZRTURPM3VHRVpyMnRlLU1rTEY1TnZTQ1VNdTdQLTRrcWktYndtTGVWbE9LMnlveW9Pd0xDQVZiZVhFNXltME1aV3RGWTNfVWdYa2E0a05hNzVOQQ?oc=5",
+    "title": "Hyundai Prepares to Supply Waymo Robotaxis This Year",
+    "source": "KTLA",
+    "published": "Sat, 12 Sep 2026 12:36:22 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Hyundai will begin supplying purpose-built vehicles to Waymo's autonomous taxi fleet this year, accelerating the company's push beyond its current fleet of modified Chryslers.",
+    "companies": [
+      "Hyundai",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "vehicle manufacturing"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHpDblFiZTN1T2xCV1o2R2d0T1ltUjhLNVptUnFJRnFhdi1kNXpXT0ExVm5RU1FoTHFNMkFYOXczMWJaXzNoaWdrVEJjejh1cmxiazRGYzJ5cmpkSGNQNHUzNC04RmxiZk1EMXNENUNhcFZuM1NxZFlUQlB3WGxGSndSVDdKcEppajVqanNmTEVzZUFOMHJMTUhkR0FDRWZ6c1AzVkxzRTJjdnF4eUFF?oc=5",
+    "title": "Kids arrested after Waymo reports a gun in self-driving car",
+    "source": "USA Today",
+    "published": "Sat, 12 Sep 2026 15:57:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo reported a gun found inside one of its autonomous vehicles in San Francisco, leading to the arrest of juveniles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcW1aQWNyTkRUUmVZTXhnOVVmZUdTbE5IRzBrRzlhY1BHYVpIendoQVJmcmlLbUFkdTZvM2tzVDBHZ0ZESWxiMnE3dHh5bU5RWmZ5eGFfN0QydWltdjdxYkxta081WUJXTXF2R29TX0RaSXF2c09xR0VfRXNnVnZvbkhGX2dlckxvUVp5RXFlWVdFYlFtQUlTRG5kWlZ4a2NXWmtvT3cwUEpSVUZXNkxVUC1zRENVWGEyTzhWcHIwcHJiVS0xNUozV0lfYw?oc=5",
+    "title": "Some San Diego City Councilmembers are asking for help to rein in Waymo, robotaxis",
+    "source": "Times of San Diego",
+    "published": "Fri, 11 Sep 2026 22:49:16 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "San Diego City Councilmembers seek regulatory help to manage Waymo's robotaxi operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjFWSER1TTVVUEdRbTY3dG5JMENyZGVsNEJpQmhDUU5VQ1BSQmdkWlFFdjN6ZDFISk5mU1ZNSDZfbXQzaWF4Ml80N1pXTFNfQjliMlFTZDdEd2ZHemJScEJXUUw0TlRmb3gtMW1EbmJXRWI4QjJyUmNtUGV5aElxWHJ6UlR0dmR0QXdHaks0MzRDdDhWOEN3ZzFZa3dqNWNGWnc?oc=5",
+    "title": "Waymo pulls over robotaxi after detecting riders were carrying assault rifle",
+    "source": "independent.co.uk",
+    "published": "Sat, 12 Sep 2026 16:51:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's robotaxi detected and stopped for passengers carrying an assault rifle, surfacing questions about autonomous vehicle safety protocols and armed passenger screening.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3dPQlYtOGpyZ09LcmowLVd4eVExdlIxTlE5UTZEdGRsaU96aDIyeFE4YWZhZWl5T0RqUDVoQl9TQmJGaGIzbUdPT2pPQnlHS29zLXdZUUMxZFhXaVJKWFBiWVlzV2NqZTdyTmxKUFVoektKc2V3WHE2N2w0Vlotdm8tRk9TR0FKNUNndg?oc=5",
+    "title": "Tesla plans big safety improvements for Full Self-Driving v15",
+    "source": "Teslarati",
+    "published": "Sat, 12 Sep 2026 14:34:32 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla announces plans for safety improvements in Full Self-Driving v15, without disclosing concrete changes or deployment timelines.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "safety"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTRXdVcyYWZzVHBkM3hhQnR2NzU1cVozSUVXWmpQcmVqcG5TNzg4bU1LcjlQa2VoYlZ1clZ5SVhCbGJ0Tngtemp1SzFiWGFwRXJLYUtiV0JSdm5JRW5WZG5WT0g3N3FkLUM1c2c1R3ZpVWNrNVgxUUgxN2VuVElua1E5bkxSN1BBWlpkbnRtZ3JuS2YzQzZlUFhNMUFucDBLTFU3em1JbWsxdC1mOEJTVHREQTRYd1plVjBQZWhMbzA5YkxJZHg1OFlGUVFZbEk3OWY3eHlR?oc=5",
+    "title": "Pony.ai, Verne Launch Europe's First Fully Driverless Robotaxi Passenger Testing",
+    "source": "Gasgoo",
+    "published": "Sat, 12 Sep 2026 04:09:04 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai and Verne have begun passenger testing of a fully driverless robotaxi in Europe, marking the continent's first deployment of the technology.",
+    "companies": [
+      "Pony.ai",
+      "Verne"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "passenger testing"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNYkpYd0JSXzFJQkxxX1RoanpmeTJ2X0tCUXdpZ0xXc2djT0hfYlNCUkotZXpiTnFLUGRjZzZhWFhPQXRvVTBqOGRrM1FFOXpXS2VFWDVaTzFjdXJ3b0tWZGozMTlLc0RiSWtYVjN2X0Q1R0hldGFjQklGd2RzSzBoYnByZFhzZWdvNFlrejU4RmJJMTNwV2lQTENwZVVVSFhoaW83RUdGMlJqUDhoWmlTQmloWC00NUMtUHotajZlOXhLWVl1TVV5S2Itd056eVdVbGdoZk81LUZEVGt2aVhVUllLVmdwLWVSamN0NGhKNVk4cmJwVWVhOG52U1Q5QV9XTTRiWXJLaW85OFVlYTNCYjV6VUJFek9KUC1jcm9fdmNobEVweEM1bHFmWGExQU9VaWlGc2pn?oc=5",
+    "title": "Waymo Presses Into Cincinnati and Denver as San Diego Pushes Back",
+    "source": "WKRC",
+    "published": "Wed, 09 Sep 2026 00:51:39 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's cross-country rollout continues apace: the company has begun mapping Cincinnati streets ahead of a robotaxi launch, while its Denver fleet remains smaller than headlines suggest, at least for now. Meanwhile in San Diego, city councilmembers are asking for outside help to rein in the robotaxis already roaming their streets, a sign that growth is outpacing local comfort.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "fleet deployment",
+      "regulation"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNYkpYd0JSXzFJQkxxX1RoanpmeTJ2X0tCUXdpZ0xXc2djT0hfYlNCUkotZXpiTnFLUGRjZzZhWFhPQXRvVTBqOGRrM1FFOXpXS2VFWDVaTzFjdXJ3b0tWZGozMTlLc0RiSWtYVjN2X0Q1R0hldGFjQklGd2RzSzBoYnByZFhzZWdvNFlrejU4RmJJMTNwV2lQTENwZVVVSFhoaW83RUdGMlJqUDhoWmlTQmloWC00NUMtUHotajZlOXhLWVl1TVV5S2Itd056eVdVbGdoZk81LUZEVGt2aVhVUllLVmdwLWVSamN0NGhKNVk4cmJwVWVhOG52U1Q5QV9XTTRiWXJLaW85OFVlYTNCYjV6VUJFek9KUC1jcm9fdmNobEVweEM1bHFmWGExQU9VaWlGc2pn?oc=5",
+        "title": "Waymo Presses Into Cincinnati and Denver as San Diego Pushes Back",
+        "source": "WKRC"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UVGEzUjJwMGl3aXAtR21obTFOSjcwVlJNNHVzYjVyYzFGbFhXN3BHSHNOM3NqNXBkR05yUVBnMzFVVXRLYXk0ejJfY0wydlJpcVBITXF3ZlhWck9uMEZBRXQxR2F1TlQ2ZTM0?oc=5",
+        "title": "Waymo’s Denver fleet might be smaller than you think (for now)",
+        "source": "denverite.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcW1aQWNyTkRUUmVZTXhnOVVmZUdTbE5IRzBrRzlhY1BHYVpIendoQVJmcmlLbUFkdTZvM2tzVDBHZ0ZESWxiMnE3dHh5bU5RWmZ5eGFfN0QydWltdjdxYkxta081WUJXTXF2R29TX0RaSXF2c09xR0VfRXNnVnZvbkhGX2dlckxvUVp5RXFlWVdFYlFtQUlTRG5kWlZ4a2NXWmtvT3cwUEpSVUZXNkxVUC1zRENVWGEyTzhWcHIwcHJiVS0xNUozV0lfYw?oc=5",
+        "title": "Some San Diego City Councilmembers are asking for help to rein in Waymo, robotaxis",
+        "source": "Times of San Diego"
+      }
+    ],
+    "body": "<p>Waymo's white-and-gray Jaguars have started appearing on Cincinnati streets this month, not yet carrying passengers but mapping the city's roads in the methodical, camera-and-lidar-laden way that precedes every launch. The company has not named a start date for public rides, only confirmed that the mapping phase — the unglamorous groundwork of teaching a car to recognize a particular pothole or a particular left turn onto Vine Street — is underway. It is the same choreography Waymo has run in more than a dozen cities now, and Cincinnati becomes the latest name on a list that keeps growing faster than most people outside the industry seem to notice.</p>\n\n<p>In Denver, meanwhile, the reality is smaller than the headlines suggested when Waymo announced its arrival in Colorado. According to Denverite, the fleet actually operating there remains modest for now, a reminder that \"Waymo has launched in your city\" and \"Waymo is a meaningful presence in your city\" are two different claims. The company tends to enter a market quietly, with a handful of vehicles and a limited service area, long before it becomes the ambient hum of traffic that Phoenix or San Francisco residents now take for granted.</p>\n\n<p>That slow-build approach is precisely what's being tested in San Diego, where the vehicles are no longer novel and some city councilmembers are uneasy about it. Councilmembers there are asking for outside help — from the state, presumably, since California cities have limited authority over autonomous vehicle permitting — to get a handle on Waymo's growing footprint. It's a notable admission: the people closest to the streets in question don't feel they have the tools to manage what's already driving on them.</p>\n\n<p>Together, these three data points sketch the actual shape of the robotaxi rollout in America, which is less a single dramatic unveiling than a rolling, uneven expansion — mapping here, a small fleet there, friction somewhere else. For the robotics and AV industry, the pattern matters because it shows growth outpacing the regulatory scaffolding meant to contain it. Cities are discovering that \"welcoming a pilot program\" and \"governing a fleet\" are different jobs, and that the second one often arrives before anyone has agreed on the rules.</p>\n\n<p>For residents, the stakes are less abstract: a new mode of transportation is arriving on their block whether or not their city council has settled on how to think about it. San Diego's request for help is a quiet signal that the honeymoon period — when a self-driving car was a curiosity worth a photo — is giving way to something more familiar in urban life: a fight over who gets to set the terms for shared streets.</p>",
+    "slug": "waymo-presses-into-cincinnati-and-denver-as-san-diego-pushes-cd4584"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFlqeHV1emN5ZkVjbXgtc3k1TlVvX3VDNm5vZzVBS25JcVMyelU1dUdJTFNYNENnQm4wZUNRVlhLSkpRNE9nWlZnV014aW9nbzNXVUNHc1R6cm44V196eUZJcXFaWVFyVDgtVlZfOHF6NVhDSmh3YUtxMkM2Zi1PRUJhWHJLdW5iUFp3?oc=5",
+    "title": "A Dramatic Autonomous Racing Crash Showed How Far Self-Driving Race Cars Have to Go",
+    "source": "MotorTrend",
+    "published": "Sat, 12 Sep 2026 12:10:10 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "The Abu Dhabi Autonomous Racing League's inaugural Italian Grand Prix race ended in a spectacular crash, exposing how vulnerable self-driving race cars remain to hardware failures.",
+    "companies": [
+      "Abu Dhabi Autonomous Racing League",
+      "Dallara",
+      "Honda",
+      "University of Modena",
+      "Politecnico di Milano",
+      "Technical University of Munich",
+      "Constructor University"
+    ],
+    "people": [
+      "Tim Stevens",
+      "Daniil Kvyat",
+      "Sascha Büttner"
+    ],
+    "themes": [
+      "autonomous racing",
+      "driverless",
+      "safety",
+      "self-driving"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UVGEzUjJwMGl3aXAtR21obTFOSjcwVlJNNHVzYjVyYzFGbFhXN3BHSHNOM3NqNXBkR05yUVBnMzFVVXRLYXk0ejJfY0wydlJpcVBITXF3ZlhWck9uMEZBRXQxR2F1TlQ2ZTM0?oc=5",
+    "title": "Waymo’s Denver fleet might be smaller than you think (for now)",
+    "source": "denverite.com",
+    "published": "Fri, 11 Sep 2026 21:53:24 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo's Denver autonomous vehicle fleet remains modestly scaled despite the company's expansion into the Colorado market.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "fleet deployment"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakQ3RzZxMXVWclNReFY0M2ljSmpSZFF5MWROczE3N1pPX0s2WkQ5dHl6WS0zaHJQck9XSHJIU041QzlaUVN3LWVHNm5Na1JPYmNPSll2bkZGeGc3M1ZTb2hXMlAwc3NKY1FxU1FXQ0JUSUhqdndISWhzbGIwV0hhOUVOV3hoWHVVbnA0ZmVKU1pydk5SQkprMkRVaHdaSkts?oc=5",
+    "title": "Verne went driverless in Zagreb ten days after its EU project ended",
+    "source": "AutoNext.co",
+    "published": "Sat, 12 Sep 2026 10:30:34 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Verne deployed driverless vehicles in Zagreb mere days after concluding its EU-funded research project, moving from development to street operation.",
+    "companies": [
+      "Verne"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "deployment",
+      "EU project"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hQkw1OVBscnp0OER0YmRwQkJleWJlMG1RRUswQ2JkVG5EVU9FeGZCLTJDNXU3aVVHNFNJenF5bF83cFl0ZFc3M2VTQndBcV9Qb3p1WFdmZWNacHVfSENVWnlWeUNMUk5BckVwRUtNTTVnRk8z0gF6QVVfeXFMUDhuN3FRQ1d6dnVad3VCOVlrcFFmOHVCYTIzRm5HWkZpb1U4VUVHX2JSaG9tNnBFcTdUMUZsSUJPWW5WY042SnhEMGtXWFUwM2dVVVJJMEtmbGxEZXRidnV5MWtCUkhMdFZuZXBOVGlrOVBzUmhaQXdkQWc?oc=5",
+    "title": "Meet ‘Warmate 30’: Poland’s New 250-Km Strike Drone With Jet Power",
+    "source": "The Defense Post",
+    "published": "Fri, 11 Sep 2026 11:03:22 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Poland's WB Electronics unveiled the Warmate 30, a jet-powered strike drone with a 250-kilometer range designed to extend the country's airborne strike capabilities.",
+    "companies": [
+      "WB Electronics"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "strike",
+      "military",
+      "jet-powered",
+      "range"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3Vldnc3emhVSDlUZGd4QXBMcGJrMV9fS0haRVdnc0djTnlKdVU5S3IyLS1QQkpQZ3Ruc0liT05ORy1JNWhwbmcwazFTcXJXSkJoT3luZkJFSlJKa1lpRUxzUHNxcW84Mk9RSFdxSjRZcWZWWnp1YURVMDdIaG54U1MxVnhveldEYkU3VTVtc3p2cEE?oc=5",
+    "title": "Iran Seizes US Underwater Drone, Raising Reverse Engineering Risk by Tehran's Access to Defense Systems",
+    "source": "Military.com",
+    "published": "Fri, 11 Sep 2026 09:00:13 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Iran captured Anduril's Dive-LD, an autonomous underwater drone that malfunctioned in the Strait of Hormuz, gaining access to American hardware despite the absence of classified systems.",
+    "companies": [
+      "Anduril Industries"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "autonomous underwater vehicle"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwdk5vTHFHbzNxRkNtRkRRYVN0Q3lzN2RrZXNvQmFiMzhaZC1MWV9oMDByV2piWnVZV2ZaZTNTMHdYMDNCdldwLUVmZGd5YWwya0lCWWFhbw?oc=5",
+    "title": "President promulgates act to boost defense autonomy, drone industry",
+    "source": "Focus Taiwan",
+    "published": "Fri, 11 Sep 2026 07:58:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Taiwan's president signs legislation allocating $7.56 billion over six years to build domestic drone and unmanned vehicle capabilities.",
+    "companies": [
+      "Office of the President",
+      "Executive Yuan",
+      "Ministry of National Defense"
+    ],
+    "people": [
+      "Lai Ching-te",
+      "Cho Jung-tai",
+      "Xavier Chang"
+    ],
+    "themes": [
+      "drone",
+      "defense",
+      "autonomy",
+      "regulation"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREY5M3lyWnhsWjViLS05QTY2aWxuLVZ4VU5UV2t0TkZmU090Q3hvNk1BUElZUlYxT2plZ0RmaFhlaGVJeXB3a3V3bE9uWTVDdnlBUlhDemtJUUtCOWQ0cDZNNTBXd2hBbXhHNW5WaU45c2Q4RmpScjZ3X2ZkaEJvelUwWnFBRV8xVGljS1FFUWZ5MzhMYVNMdUFfOVFTQ1RfVFJiWWdfbkhIYndnY29HOHFlMGJoWHVJTnRBLTR3cmdjODZYWkhjV0xmZUw1bGFSeG5vVlgxVQ?oc=5",
+    "title": "Colorado’s First Implanted Brain Computer Interface Surgery Marks a New Era in Neurological Research",
+    "source": "University of Colorado Anschutz",
+    "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "University of Colorado Anschutz implanted a brain-computer interface in a paralyzed patient's higher cognitive regions, a rare surgical first that may unlock how thought becomes action.",
+    "companies": [
+      "University of Colorado Anschutz",
+      "UCHealth",
+      "UCHealth University of Colorado Hospital"
+    ],
+    "people": [
+      "Daniel Kramer",
+      "Luke Bashford"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "neurological research"
+    ],
+    "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
