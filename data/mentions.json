@@ -49433,7 +49433,7 @@
     "first_seen": "2026-09-06T17:28:34",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -49487,7 +49487,7 @@
     "first_seen": "2026-09-06T17:28:34",
     "week": "2026-W36",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50237,7 +50237,7 @@
     "first_seen": "2026-09-07T18:58:11",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50264,7 +50264,7 @@
     "first_seen": "2026-09-07T18:58:11",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50348,7 +50348,7 @@
     "first_seen": "2026-09-07T18:58:11",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -50681,7 +50681,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51208,7 +51208,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -51575,7 +51575,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51886,7 +51886,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -52009,7 +52009,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52330,7 +52330,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52441,7 +52441,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52578,7 +52578,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -52632,7 +52632,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -52984,7 +52984,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53238,7 +53238,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -53505,7 +53505,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -54739,7 +54739,7 @@
     "first_seen": "2026-09-11T18:08:19",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55096,7 +55096,7 @@
     "first_seen": "2026-09-12T17:40:08",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55394,7 +55394,7 @@
     "first_seen": "2026-09-12T17:40:08",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55529,7 +55529,7 @@
     "first_seen": "2026-09-12T17:40:08",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -55672,6 +55672,529 @@
       "neurological research"
     ],
     "first_seen": "2026-09-12T17:40:08",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2ZUd1FQVWFvWXRQTlM4b2lRR1duR3JBRWZoamk1a3lQX2dORVBQLXpUbktRUFpXUE9WTDJIaW9rUHJ0SW56OUp1MW1MRjlwaXJoZXh0N2dOdEdFVEEweURaUDBVTmJ1bFg5T1RQV0FMdEkxVGdVZGdmYlBfcTFySWppODc5M3ppTURyZjBPb1E0c3B1aldSREVMRHFxSFV3SkJrZnJuU3hNLXlHY05CMkduWklrV1U1dDMyeA?oc=5",
+    "title": "Robots Everywhere: Goldman Sachs Now Sees 6.5 Million Humanoid Robots by 2035",
+    "source": "247wallst.com",
+    "published": "Sun, 13 Sep 2026 15:17:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Goldman Sachs projects 6.5 million humanoid robots in global deployment by 2035, forecasting a market that could reshape labor across manufacturing and services.",
+    "companies": [
+      "Goldman Sachs"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "market forecast",
+      "labor displacement"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHBPMEJMX1Y1Z0J1dDZlZHNraV9JMUVNV1BicGs1VlJSd1VhR0NDalVZY1RIMWpLaFJfeU9lTmxYVF9ZTEZpZ0FieHd2Q185OVg0S0VvcVpzUE1ud0w0blU0ZWFsZmdXR3NiamhSVEljWUtyWVlFdzNVYjFyV0VsbUp1YVdoZw?oc=5",
+    "title": "Robots Everywhere: Goldman Sachs Now Sees 6.5 Million Humanoid Robots by 2035",
+    "source": "AOL.com",
+    "published": "Sun, 13 Sep 2026 15:17:11 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Goldman Sachs projects 6.5 million humanoid robots will be deployed globally by 2035, citing labor shortages and wage pressure as primary drivers.",
+    "companies": [
+      "Goldman Sachs"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "labor automation",
+      "market forecast"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcy1HbVFIdXU4VG1kb0p6cm1JNWVOOXpld29Dd2NYQmlDNTN1SHdCYVRXNXBQNC14bFdNaG15WFBvOXVkZFlORHJCVzZhYmRzT2tUazd6SXdxZy1FRlpwcHFNbEdBSHFaVVhKTmNhQVVXQkVpUjZwaHAwOWk5aWNhOW11YXRLeVQ2NUN3OGM0WXRETlE?oc=5",
+    "title": "911 for humanoids: Japan debuts first-ever ‘robot ambulance’ to provide on-site repairs",
+    "source": "Interesting Engineering",
+    "published": "Sun, 13 Sep 2026 13:46:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "GMO Air has unveiled Japan's first 'robot ambulance,' a van that dispatches engineers and spare humanoids to fix broken robots on-site rather than shuttling them back to repair centers.",
+    "companies": [
+      "GMO Internet Group",
+      "GMO Air"
+    ],
+    "people": [
+      "Shota Takizawa",
+      "Tomohiro Uchida"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics maintenance",
+      "Japan"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3FiTERjOW1VLVpab2VMQV9TQWRZRXF2UmRuelZYakVHZ3FTZzJHaTIwR2N6ZU5Ed05oVTFjNXF6anY4ZkRpVzg4bl8xUnkwVTFfa2t6LTNXV0RnZnBvaDhGTVFWOVlpV1ZRazY4NURwSmtIS3g3enV0cnloNXlPVzVaM3V2a3pPUmVvRnNKQmlySE1SZ0ZZTNIBngFBVV95cUxNMHFxYThRejBQejJ6czdSZW9lTTRDWHRFc1E3VGkwSExCWXBYelpnZ1IyX3pzb1V0a1dYYWd1QXRqZzAzVGRmWjI3d2VxT3pmaTdMQmQyUU1PRXBwSkdRRzdCMDlOMmVrVjZLVEdsOUR4Q1VIN1hJSVdHdFd1SjlreS1ZYzFYMmVrMmJRYkVxaFk0bGljSGdnTW9JLXBxZw?oc=5",
+    "title": "Caterpillar And FieldAI Partner On Physical AI, Robotics And Digital Twins",
+    "source": "Pulse 2.0",
+    "published": "Sun, 13 Sep 2026 03:18:11 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Caterpillar and FieldAI are partnering to develop physical AI and robotics systems integrated with digital twins for industrial applications.",
+    "companies": [
+      "Caterpillar",
+      "FieldAI"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "digital twins",
+      "industrial automation"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGlsWXVNU25sVU9Td2xnTkNJYmlmN2w0dnNvUDA4LTF1YjFmelYybm9UdHg5b0tLZlc3d1Rka21uQlNBUFkyWlJpTkZQdU0yQk5uczFmN1V5U09FSlYweG95R0MwREprZ3ltN0FfbC1SdW1RT3ZlNS13MmZzTzh1bjRoUlQ4WXM4cGlUdWdmVHFycmdhb1k3WGp3SmREVWhscl9sdlRpSENwZw?oc=5",
+    "title": "Why AI and Digital Twins Matter as Humanoids Enter Industrial Operations",
+    "source": "CDOTrends",
+    "published": "Sun, 13 Sep 2026 05:36:55 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Siemens argues that AI and digital twins will let manufacturers train humanoid robots in simulation before deploying them to factory floors across Southeast Asia.",
+    "companies": [
+      "Siemens Digital Industries Software",
+      "NVIDIA",
+      "Humanoid"
+    ],
+    "people": [
+      "Alex Teo"
+    ],
+    "themes": [
+      "humanoid",
+      "digital twins",
+      "industrial",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm5LLUxTaFhmZEhVSHd5SUJrVlhjY09WUHFscWxRa2U2ajdwM0d3c2lkQVpLX19VTzc3RURueVJha2Y4bUJxbHMxMjVzRlNPbng1V2ZWNlltX3dyNmVUdGs3cnk3R0VYbVhwTEFsbnpBa0hsLWdFaGo0OTBiSTJqU1YzckE0Nl9YYTFHSGpIcHZIY1RITHNwZWE3RnBsakRRWHZR?oc=5",
+    "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+    "source": "The Verge",
+    "published": "Sun, 13 Sep 2026 14:28:12 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicle detected passengers with an untraceable firearm and summoned police, marking an unusual test of the system's safety protocols.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicle behavior"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSnFpMlB2ZG9Jd2xXaHg5OU00Zk9XQkZqSzE0REswTkJCRm9yUUlvb2VHVVkzejZ2bktRQTh4ZVlSWjdZbTdXWV9Ib3RSMjk2VmIzNTd0RWNvNzhjZFhQT2NsUXNINS1mU1dhRldmaGp6UnpXQWpKUXlvM25xYXJ3S3JqaUxuQzRubE9sbndPOTdBckM5ajFOaU9IZEMwMnpjcGxMTzZSR01udmlrc1l5MjF0TERZSjlDYkZwY0p1RUhXTTE3SHdLenZCcVR4UjZCMktQbTBsVEVfTHhHelF5NjFyZWtKZlY0WWdZNGZXZTl4NnVYSGlYa0ZfZW1HWjFnOExhaFBnVXVxOGdvRGY0UFFkaXpzTUJWbG90N2VTSDBVa05yY0hOdnVR?oc=5",
+    "title": "Waymo robotaxi calls cops on riders handling loaded AR-style ghost gun — Waymo alerted San Francisco police, then juvenile riders were stopped and arrested",
+    "source": "Tom's Hardware",
+    "published": "Sun, 13 Sep 2026 11:16:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's robotaxi detected armed juveniles in a vehicle and alerted San Francisco police, leading to arrests.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNS1yaFZVZkx0Y2Q3WXFZOWpIbVV0eUY1M2ozSzZJbmtlN19pWk5jZmhIQzNJX3FoQUo1Tnhjb2U1Q0JVc0lfcjF4ZVNxcER2VTItV1NqMjNVVm04MC1rTFZYWUhnZ2FFS210aEVhdVNJanhGNHh6Tmt0aC01YjB2a01tOGJBbWU4cVJ2UjJBYVVRR19TYm4zTlVwUktJeWp2d2UtQ2ZBcXMxd05Hb3BpcVlVVUJldW40bXZnemJ4ZEpwVVRWemhnb24zQTBUN0hlZnZ2UjRCcmM?oc=5",
+    "title": "Waymo car pulls itself over in California after detecting juvenile passengers with gun, police say",
+    "source": "fox61.com",
+    "published": "Sun, 13 Sep 2026 16:59:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicle in California detected armed juvenile passengers and pulled itself over, alerting police to the incident.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU01RUkdiNXJ4SldXaElseklqSVdOS1FkcVppbnZtY3FuYzYtbTREa0ZtY2dEMTBsd1d4d05XNDEyXzV5MTdId2J3aXNtNUNDWklsVmttcFk2Zk1SekxjZHVEU3RyeUtaN1NZbU5ESUFVWlhHN0tUWXRsLXFFMGwycHlQa1pGUlI2UUtwb09jb013eVBEaWxZajloSG9BYUJYeGlsWGhBWkgzTGQwS2NjatIBuAFBVV95cUxNWEhiSGhrTDY5RkJ6VFpTdmg2WHlnYVBOUjJueXJSTTZSZjJEQUJaX0hlRTc0MjFtQ041ZTZjZGNfMDZTX3BkdEdPbUEwRkJDeEtSTEdydW5YNTh2LU0wYjRJaTdsTl93bmNpUUZ6QlhEYmpGcWtUSEZxS3VGRFBPTzQ2TF81MVVyX2ZKNXRweWo1bFpOdzVfUHJOcnFjYmVCcDJkM2ZKdUk2dENGaVU4VVFXM2tFbWts?oc=5",
+    "title": "San Diego city leaders seek tighter rules for driverless cars",
+    "source": "NBC 7 San Diego",
+    "published": "Sun, 13 Sep 2026 05:19:35 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "San Diego city leaders, led by Councilmember Sean Elo-Rivera, are pushing back against Waymo's autonomous operations with a resolution demanding tighter local regulations and oversight of driverless cars.",
+    "companies": [
+      "Waymo",
+      "City of San Diego"
+    ],
+    "people": [
+      "James Prazma",
+      "Sean Elo-Rivera",
+      "Marni Van Wilpert"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "policy"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmc4QzE3aWlvWnhqMXFTdHBEeGF6aW1wV1JmbGlZZk5KNGxEOGlWU19RbEdhSzU3SVpmTGlaN0NONXFVRHN1SmZ2Tkx3YV81clU1UGNFbnNXUGNLWXpHVXhTUmg1V05YektxZk9Ga0ROR0I3cTVxSHppeHZHbkV0blBKeS00T3p2MFE2ekJIWEhINTZpelV1Y3JEVllBTHRIbFlOVTROTQ?oc=5",
+    "title": "China Targets Mass Rollout Of Self-Driving Cars By 2030",
+    "source": "Forbes",
+    "published": "Sun, 13 Sep 2026 15:18:27 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "China announces a 2030 target for mass deployment of autonomous vehicles, a policy goal rather than a concrete development from any specific company.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "China"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVd6SGlCLS1KbWNyU3V5OHJocHgyOXRmdzRVTUJJNmJ6eGNFbzZRdkRXdzJQMlVTLVF6TURkT3kxZFVWM0VpR3k0QjhJcnZBNVFsblVxWW12aFYxUlo3QlBiei0wZDBIUzlTQ3ozeDZjaGplMXlzaERyZ3RvbDlfVENqblFfY09SOHlVS1FqaXI3emZvdTVaMnQ0NGNfcmZybzlZeWlBZlJXYnNwVFlLcVNITndDMXc?oc=5",
+    "title": "Waymo calls cops on teen riders after detecting loaded AR-style ‘ghost gun’",
+    "source": "New York Post",
+    "published": "Sun, 13 Sep 2026 00:13:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's safety systems detected a loaded ghost gun inside one of its autonomous vehicles and alerted police, preventing a potential incident during a ride.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0ZRR1BMem00X2Nnd21xOXVqclozMkhKaDlEcUJMbk5WaGVXQUt1V2FpSkdNLUM1RE9lWVJfVjliMzhqNEVjZDZaNTVtTkdtblVZczVhc1JXNmhJVlpIYl9aNGFKbk9sN1pxYXdQX051VHRKTHY3b0hhbXQ0WEpZZg?oc=5",
+    "title": "2 young people arrested after Waymo alerted SFPD about loaded AR-style rifle",
+    "source": "SFGATE",
+    "published": "Fri, 11 Sep 2026 19:28:44 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless vehicle detected and reported a pair of armed suspects to San Francisco police, leading to their arrest.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObElSS0V1WGpUZTVLRU9tR0tCeV80Qy1qdzVZdFU2elpPdVpXeXVkb2ZMLTk4YVN0SzFnUmhONFdjRFZOaHROZlM3RWtONldlV2hSQjFsbVlYWjBqTFd5eW1FdDNlWkYwNk85SU1uYVhDUVJXQ0E2VUxFNXdiTGcyOGhuc1hOUHIwT2N2VHJKNVVJcXJZLU8wbFVKR1BBak8x?oc=5",
+    "title": "Driverless Waymos ran into plenty of human problems on S.A. streets",
+    "source": "San Antonio Express-News",
+    "published": "Sun, 13 Sep 2026 09:13:44 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicles encountered operational difficulties navigating San Antonio streets, exposing friction between driverless technology and real-world urban conditions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEc5VDlRTU96eWszVHNuVTZTYk8wbUlmTTB3NGlxcnlZb2UwelU5OWV1bmNsZFlPVlJLdzFnb0NzMnVWcWhLMGd0LTc4Qy1aUUR2TDF3OWpXVGdMbjU2UlZSclFHaDl0TDN0dWVVTW9ITnlKV2kyYzFxOFpCQkZpeWxNM05DMFFmdmxHTHpRZVBPZ3oxaElFMDBRVkM4MG5KVjMxb0pQNF9RaTBIZW1LeFV3?oc=5",
+    "title": "Hyundai Says It Will Overtake Tesla in Self-Driving Data Within Five Years",
+    "source": "eletric-vehicles.com",
+    "published": "Sun, 13 Sep 2026 16:25:24 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Hyundai makes a competitive claim about autonomous-driving data collection but offers no concrete timeline or technical evidence to support the assertion.",
+    "companies": [
+      "Hyundai",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "data collection"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdFdDcHI1cDFkX2lDUHoyQlA2ZktUVkxteEpwRTc1ZTRMbjhVbWVXNTh2eTdHYnp3bjN2RnhLQUJ5NHA3QjB1d19BRmR0VkFCdFFBN3RqZklXRFI3MS1fOWhPQzBQUHNCcWp1LWRHanNmeURVT2c3dW1odVlLUE1qZ05iamhIYjdNNFdLWGpwbjRQU2ZjbEk3R05QNU5FaWxZU251NDZxdUdJNFpvNkE5QdIBuAFBVV95cUxPdVU5OFVqYjI0eVlrQ0dSbGpsb0RRc2c2SldNMmtjLW9Lc0RpNkJBbHpJQXVkaVhNcnh3WlFicVc0NjJ1dldCS1RkamxaTnU4UlZSX0hzT3piVkpRY2dPUE96ZU9UclZrUU5fZjl3cDUxcTNadXJIdTdMeE1wLVBNUVVIZFdfZTNwNFBZUGF1VE9fRFAzR2M0bVk2Z1FtZ2Q2dG5rZmF3dkhtcXh1blMtQVdRZjFIRHZK?oc=5",
+    "title": "San Diego city leaders seek tighter rules for driverless cars",
+    "source": "NBC 7 San Diego",
+    "published": "Sun, 13 Sep 2026 06:04:57 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "San Diego city leaders move to impose stricter oversight on autonomous vehicle operations within the city limits.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "policy"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHNvYjNQQloxWEdtQnFhSlRUdkxZb2ZocVVkX2hxbW80bi0xb1BGdWVpUzllWXAtQ19WUlJkT0VvVVhUeG03M3E1UTdOSXlONW4zQkh5QTFiOFc0OW5LbHo2czcwQVRyT0IxMnRsTktuTVcwTzRMTmI2bmtuWUZCU1JaX1VUeEs0bGxPcUdHUnk2MVdETW1RYXp3?oc=5",
+    "title": "Musk attacks Britain over ‘stifling’ driverless car rules",
+    "source": "Yahoo",
+    "published": "Sun, 13 Sep 2026 08:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk criticized Britain's autonomous vehicle regulations as overly restrictive, calling them stifling to innovation in driverless technology.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdnUtUm45VDF4ZUliN2QySzNYX0VYQlkyNDZVOTdOQmlmcFVKOTJzbnBiTWltTVVmaUtmeThwaUhXS0I1ay10Y0dVd3FPTkc0YlNDNXFtQS0xRTdpNDU2UXp2d0ZXQ3YxWDhqODRDZGZxczcxcmNMZGNxaWFOajl1YUVsc1pGUFZzRjVFVzlDa2twd0pFd0NkTUdiNDd1RkZCb19vWEpwS2NyZlVzWkpkTHctU1M3UzZQNkU2dXRpd0tBTDNMbXBhdkRkRnozbGtxMWNMdWNTSjFlTE1rVEZLTw?oc=5",
+    "title": "Latvia Bought Counter-Drone Interceptors Before Warheads Were Safe to Use, Military Chief Says Amid Recent Scandal",
+    "source": "balticsentinel.eu",
+    "published": "Sun, 13 Sep 2026 07:33:44 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Latvia's military chief defended buying drone interceptors from Origin Robotics before safe warhead solutions existed, rejecting PM Kulbergs' claim the country simply forgot ammunition.",
+    "companies": [
+      "Origin Robotics"
+    ],
+    "people": [
+      "Kaspars Pudāns",
+      "Andris Kulbergs",
+      "Andris Sprūds",
+      "Raivis Melnis"
+    ],
+    "themes": [
+      "counter-drone",
+      "military",
+      "procurement",
+      "warhead safety"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wWmUzR1g3N1lJN2RyZ2dSelVNd3EyNWtXek0xeXpLbUIwQUJDSTRFNENZTm94OU1ub0lucEg3WHNsNEtmSDFkTHNDb1UwSURNa2I4dVJaellKWHhER3JWM3hMakhrNDdEX0RsM3VUV00yR25ybEhiTUhB0gF_QVVfeXFMUGh1MzhMZnRHS1ZPbnhiUDc5RlktR2hvLWhFbUU2YzhnR2tKdnZnR1dORmNoN0lLc1U5S1lHSklmQ2MtMk1YaVJHbVFkeUt4RTJWQ25yajMwbXNxUGdyRFJIV1dsR1VrN0doYnJ3UV9Zd2JQT095c1p3d24yY1lpMA?oc=5",
+    "title": "New Polish Loitering Munition Packs Near-Vertical Sting at 300 KM/H",
+    "source": "The Defense Post",
+    "published": "Thu, 10 Sep 2026 11:50:42 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Polish drone maker FlyFocus unveiled TASACK, a 15-kilogram loitering munition that hits 300 kilometers per hour with a 110-kilometer range.",
+    "companies": [
+      "FlyFocus"
+    ],
+    "people": [],
+    "themes": [
+      "loitering munition",
+      "drone weapons",
+      "vertical attack"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
+    "week": "2026-W37",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHRUNUMwRmx6YU1La1hER0lrNmpXaU1MeG1mWERFX1RoYktjQzUyT3p5WS1zTHdMbGdXS3BrUTlabFNTaFd1U3I5cGpKZnRLakNaUHNqemRsenJIY2VMaUFNcWZtQ3AxVzh3c3YxLTVCbzBia2xTeTFHWVB3SjEyLUs4cGFjSHZQNkMwV0J3djUyOUdTS3dhdmJ0TmZ4Z1Jpa2tSeHJYdV9EejJYcU0xeUx3SXZDYXJlbjJjWDZJOXdpQkxPdDVLM1dPVkpHTFk1d3RPUGgwWkJQRUZq?oc=5",
+    "title": "Little-Known Vy Capital Discloses $41 Billion SpaceX Holding, Also Backs Boring, Neuralink",
+    "source": "benzinga.com",
+    "published": "Sun, 13 Sep 2026 13:48:50 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Vy Capital disclosed a $41 billion stake in SpaceX while also backing Elon Musk's brain-computer interface company Neuralink, signaling major institutional appetite for neural technology.",
+    "companies": [
+      "Vy Capital",
+      "SpaceX",
+      "Neuralink",
+      "Boring Company"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "funding",
+      "investment"
+    ],
+    "first_seen": "2026-09-13T17:53:16",
     "week": "2026-W37",
     "why": null,
     "duplicate": false,
