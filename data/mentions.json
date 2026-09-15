@@ -50929,7 +50929,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51101,7 +51101,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51127,7 +51127,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -51154,7 +51154,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51208,7 +51208,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -51289,7 +51289,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51319,7 +51319,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -51495,7 +51495,7 @@
     "first_seen": "2026-09-08T18:16:02",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -51737,7 +51737,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -51925,7 +51925,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52009,7 +52009,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52235,7 +52235,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -52330,7 +52330,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52441,7 +52441,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52553,7 +52553,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -52632,7 +52632,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -52738,7 +52738,7 @@
     "first_seen": "2026-09-09T18:16:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -53505,7 +53505,7 @@
     "first_seen": "2026-09-10T18:01:21",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -54739,7 +54739,7 @@
     "first_seen": "2026-09-11T18:08:19",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55450,7 +55450,7 @@
     "first_seen": "2026-09-12T17:40:08",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -55529,7 +55529,7 @@
     "first_seen": "2026-09-12T17:40:08",
     "week": "2026-W37",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -56420,7 +56420,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -56503,7 +56503,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -56853,7 +56853,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -56907,7 +56907,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -57015,7 +57015,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -57878,6 +57878,1318 @@
     "week": "2026-W38",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rY1dfSDVTNzBEQmdaNzFLMFREZEZuYW4weTRnbWNGaEhEdF9FZGk5eFd5eGJCejRfNzJEZ1AwUGV4S0I1TUxYMk5CR2JYejYzOEVoczJxRUpSSTA?oc=5",
+    "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
+    "source": "IEEE Spectrum",
+    "published": "Tue, 15 Sep 2026 15:26:58 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "IEEE Spectrum examines whether Digit, Agility's latest humanoid model, achieves practical safety benchmarks for warehouse deployment.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "workplace safety",
+      "warehouse automation"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeno1MVk4NGVOUGxwM2pKMXVHejJFRnQyRGo5VjRBQUp3VmlveTQ4SUtNVDZXaEFOV2d3VHV4TTZEWHJwZUhSNVowX3ZLZlVCeTJxVDVUdkJyMXBRb21ld1hmcXRTU2R1UU9aRVJsTHBub1JwTmdMZUJUejVobUM5T3ZiVEtoU2VKOE9Tdll3Q1J5MEhybEZqRkZoS18zZHl5SG1OOTdvbmdZUjhBUnNtRzZn?oc=5",
+    "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+    "source": "Ars Technica",
+    "published": "Tue, 15 Sep 2026 18:33:02 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility's humanoid robot learns to crouch when it detects nearby humans, a safety feature aimed at shared warehouse floors.",
+    "companies": [
+      "Agility"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "safety",
+      "warehouse automation"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkxtS0p6cDBjVnBNWGJMRGxvOHVnZzVwdDZmYVhYemZ2Y18tcWxRa3RhYW9hbjRPaHotZDFvWEVhcTlmcHBQZDJfYmJOb0xERk1XcVhqRFhJejl0cUJXUlgxSVRTY1VnZXhjZ3VjWjdWT0ZGb1dEeE5wWHNVeTJNczhRX0x1RTRCanNtSXIwZ0xHeEhrWU9EQlhIQzJ4VDllUGc?oc=5",
+    "title": "Agility's new humanoid is supposed to stop before it gets too close to humans",
+    "source": "businessinsider.com",
+    "published": "Tue, 15 Sep 2026 13:38:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility introduces a humanoid robot designed with proximity-detection safety features to prevent collisions with human workers.",
+    "companies": [
+      "Agility"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "safety",
+      "robotics"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
+    "title": "Oregon robotics company says its newest humanoid can work safely with people",
+    "source": "OregonLive.com",
+    "published": "Tue, 15 Sep 2026 16:51:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "An Oregon robotics company has unveiled a humanoid robot designed to operate safely alongside human workers.",
+    "companies": [
+      "Oregon robotics company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "workplace collaboration",
+      "safety"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUZrVXNMTjVwNm5LYXJhcGpHcDM4TkxadkZmeExxYm5URlZVNGVIRW90MkpiZTR1RjRwQzN1NUhmaDZqZk9OSUZNbnJuYW9EY0R5d2lzMjg1RmxaY1JYYllnUWw1T0VZTlBQeEl3Vy1tQV9qeDVKU3c5Mmt6S182ZTJqUnFGTS02VXNkOFlaMlZrd3RoUkxfM09kcmxfaVNKYk1HVkNoeUdrbHFLMjFXRHN0dDFxd044ZnY2ckotdGZ5SnZ2N2xzdDdVVHJuaG9INE4w?oc=5",
+    "title": "Agility Unveils Digit 5 Humanoid Robot Built for Cooperatively Safe Work at Scale",
+    "source": "PR Newswire",
+    "published": "Tue, 15 Sep 2026 11:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility Robotics unveiled Digit 5, a humanoid robot designed for collaborative warehouse and manufacturing tasks.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "warehouse automation",
+      "collaborative robots"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVVMM3FzenI0Z0NyYnBWeExHRWZxckJGLWtJNGFqRzQ4MW5scUJmOXpGVjRCZDlCTWx2cThxN2hKMWk5M3pscnBEbE14TjRuWmVoNjM0WndvZWI0Vnl2eVUtdDZndEZnLXdUZ0dTWVIyRURUUWJRNWNKcTZOaEhKSks2V0ZKMVJCZkF1QkZ4V2Y2NGFNNkYwaDB5Skw?oc=5",
+    "title": "Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades",
+    "source": "The Robot Report",
+    "published": "Tue, 15 Sep 2026 11:10:51 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility has upgraded Digit 5 with new legs, batteries, and safety features, keeping its humanoid robot competitive in warehouse automation.",
+    "companies": [
+      "Agility"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "warehouse automation"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XWk9TSFNfa0d2N2ZCNTY1eU9pTk9BRGltZ2F0MkFVZ0RZem9kdGlQMGdpUGQ0MDFYUjM5enFob3YtRHFOT2gxN0tn?oc=5",
+    "title": "Agility's new Digit 5 robot lifts 50 pounds, works 20+ hours a day and operates alongside people",
+    "source": "GeekWire",
+    "published": "Tue, 15 Sep 2026 11:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility unveiled Digit 5, a bipedal robot that can lift 50 pounds and run for 20+ hours, designed to work alongside humans in warehouse and logistics settings.",
+    "companies": [
+      "Agility"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "logistics automation",
+      "human-robot collaboration"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1RQUmZTemdqUmRTcHEyR28yWm8tUDJMa0JNSUlqUmJ1MzJtQS1vUjl3bXBfRHdJeFROUW85bGcxRE9qOE9KQW5nWHljaUt3cURKbUhJelM4TTBac1B0WGxaamhuY3czd2xQTF9oems4TVRVSjBnd0hCdEFoa20ta3ZzTl9IbldLakpfb0pYbU1YamN6OTRoaFUyZlg1TU9UVk9YMjRmd3dUSTg2UUI5bjFwRGVtVEJ0Vy0tWWdSdkZTUQ?oc=5",
+    "title": "Agility Robotics unveils Digit 5 humanoid robot for safer work",
+    "source": "Investing.com",
+    "published": "Tue, 15 Sep 2026 12:31:55 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility Robotics launched Digit 5, a humanoid robot designed to handle hazardous tasks in industrial and logistics settings.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial automation",
+      "workplace safety"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORjAwSS02c1U3SW83QTFqSm1LZGFiQjhXOEZfR0gyYzBySnVTcDhzYV9EcGlIWjZTdXRBNGIyMHV3WGlEMzBsd0l4cDhqdGh0YTF0QkZRZ3dfSlI5dm8xSHBJY2swdEZ0bzFMcHVpMUFmWi1zRVZNMTRKeDhMQ01Ic0JkOU5zampMY3N4LWMtdDhXd1ltVmNyV3IzYkJZbVAtaVgyQWln?oc=5",
+    "title": "Google DeepMind wants to build an AI brain that can jump between robot bodies",
+    "source": "scientificamerican.com",
+    "published": "Tue, 15 Sep 2026 10:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Google DeepMind is pursuing a research agenda to develop AI systems that can transfer learned behaviors across different robot bodies, a technical challenge that sits at the intersection of embodied learning and model generalization.",
+    "companies": [
+      "Google DeepMind"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "embodied learning",
+      "robot transfer learning",
+      "foundation models"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
+    "title": "Agility Unveils Humanoid That Can Work Safely Alongside People",
+    "source": "Bloomberg.com",
+    "published": "Tue, 15 Sep 2026 11:00:17 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility has unveiled a humanoid robot designed to work safely in human environments, targeting tasks too dangerous or repetitive for people.",
+    "companies": [
+      "Agility"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "workplace automation",
+      "human-robot collaboration"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHd0azRCMGJ1Nnl5aFB3ZVVxR1ZsN2RsV0tiZW9KbzJCOEptbFRPa2FLT2p0M2F2ZVV0UE9rR2VIQ2tLS1VCcm14TlA1N21ySDVBaE1QbW1wM1pMSWpGTGZXYXQzeElmZGtTQmwwZ25COWxyOGU2cERBZU5DZXl6c2F4b3lfTm03?oc=5",
+    "title": "Agility unveils Digit 5 humanoid robot for industrial work",
+    "source": "GamesBeat",
+    "published": "Tue, 15 Sep 2026 11:00:40 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility Robotics unveiled Digit 5, a humanoid robot designed for industrial warehouse and manufacturing tasks.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial automation",
+      "warehouse robotics"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa0YxeEEwRUNDUFpVUGlQWjhjSzRvWHpDWUFBTjhCZE40eTdrdVRnNHVXT1FpV29PeXZvN2p5bVFmVEEyQnl0dDdibVJKQ1YwdWFFMjNHeGVMM0RRazE1dG5Xb1lmQVV3V0g1U3pvX2lzSFdlX25aSkRrS09hX3JYdWUtME81c2VCUnlGMHVHWUFOMDRKblFLVjFUMW13WURwejVsbW1nNl9Xcy0zVTZxa19vQUwwSmtJV0FiUWJB?oc=5",
+    "title": "Agility Launches Digit 5: No More Safety Cages, $300 Million In Orders",
+    "source": "Forbes",
+    "published": "Tue, 15 Sep 2026 11:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility unveiled Digit 5, a humanoid robot designed to operate without safety cages, backed by $300 million in customer orders.",
+    "companies": [
+      "Agility"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot deployment",
+      "manufacturing"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzVpcmtBMmFhNEZ1LXhwTkk2NWdwRmZqYVJXR0oxaTY0S1BvTTN1TEZnS1dtd1E0d2xOZzFEM1NZN3VRRkt6dmdrbUVHejE1cTFyZnFpODhkc3U5aUhLaHA0WkVjdEF2YjNLd1NTakEwZy1lSFNrUEw5SUtBdG9rLXlVQ05rMUYzSmkxa2k4NW5EY3JzZ242OFVFZHRheWhjY3pqeE8zd1I1Zw?oc=5",
+    "title": "China launches world's first intelligent humanoid robot manufacturing factory",
+    "source": "tvbrics.com",
+    "published": "Tue, 15 Sep 2026 12:00:04 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China has opened what it claims is the world's first fully automated humanoid robot manufacturing facility, a factory designed to produce robots rather than employ them.",
+    "companies": [
+      "China (government/state entity)"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "automation"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWV9MdnNTNUNBWWtNSWcwRUkzRmhZRXRselpxWDBaTU5ocFlibFU2SnFQOVNOV2Nid0ZkSElwVWU4bUZ2dWp5Q200NnFqbUxvVXZvMGxTM25UVnhnajQxcnM4NVFWcXlKVHd1c1k5eU0?oc=5",
+    "title": "Unitree launches upgraded G1+ humanoid robot with six major upgrades",
+    "source": "TechNode",
+    "published": "Tue, 15 Sep 2026 06:55:43 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree has upgraded its G1 humanoid robot to the G1+, adding improvements across mobility, dexterity, and battery life.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmpURTJseHFrYk9yNTdHV294VXJNRnpmMmoxRzFyck85cWJ6aDE5THY0b3htTDRjblVLWk5Sd2Y1ME9FUkh3VWYwR0xHMXFLd2N2VkNiOGwyUHZXZ0ZqR3QweW9aMTVTLUU4SHZ5eTZXeFlFQ0xYb3ZwazBsTTExa2hmZUFWdGxxZjV6ajZ5czI0Mk1pZmk3NVBhQ2dsOWNjQzE3dG5BcXpqNFVyd3BlSWF2bTdIT2RPNEtCUHZMdGFUS280Zy1BWUNxNlJ1OXUtUlVkdNIB1AFBVV95cUxPOUJGTWFnMVR4RldjRkI2ZWthUk1tc0tNSUdiLTRISVJjM2dpX2p1dlBEZE8wN2dOUGZCM010LUZtMURRN1Y2clI4NW5tRklCaTJrNXU0RlZnaWxBbTlReU44U2JQZ3J0akc3bmV5VWpjelU5TnZtYU9NWkY4WDFLRzdtNUdvNlVoWVl2cFMtUTNweGEtM2RQVWdjdG1iR2s0aTBrM184NWs3Mkg2ak1UUXhZRVcyN19CRlpFek4wUW1TeUhBRFpKcER5bXBhbC1ZdENIcg?oc=5",
+    "title": "Unitree’s US$30 billion stock wipe-off spurs caution on humanoid robot IPOs",
+    "source": "South China Morning Post",
+    "published": "Tue, 15 Sep 2026 06:02:12 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Unitree's market value collapsed by $30 billion after its IPO, raising questions about investor appetite for humanoid robot companies going public.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "IPO",
+      "market valuation",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fMHphLXhhcktHc242UDBRWF93ejZ1WlRvVFlzU3BXcDhvb0o5LWU5UHFhdF9GdVc1M1o5LU1CMF85NkRqeHZmTVRtTGJPekxBX1FhTTVOb2gxUmhY?oc=5",
+    "title": "Vegas, Deal Us In! We’re welcoming riders today",
+    "source": "Waymo",
+    "published": "Mon, 14 Sep 2026 18:01:58 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches its first public autonomous ride-hailing service in Las Vegas, deploying a fleet of all-electric vehicles across the Strip and surrounding neighborhoods.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Jackie Hyun",
+      "Shelley Berkley"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "deployment"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdV9qZWtHc29ZZWJFR3FQSXcxSERlQWh5Vno4bDVuTUEzMjQ3M09hSVB5WVBnb1lXTnpTUFAwRkZ5YVRjRWZ4ZGZ3Tjd0aUp0ZWZCTmZVVXVaX2ZGQXR0WmRBUWpqcnJWbmJnUXp2ak1PUEZta1ZqMlptbDQxbHJrUzBoQjdtRmhmVlF3OUxGSmhUa3Q4ZmtHUU93?oc=5",
+    "title": "San Diego City Council passes resolution to regulate Waymo and autonomous vehicles",
+    "source": "Times of San Diego",
+    "published": "Tue, 15 Sep 2026 03:23:27 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "San Diego City Council passed a resolution establishing regulatory frameworks for Waymo and other autonomous vehicles operating in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNDVPV1lLMnJraDhQUDJIWGIxZzdqVU5XQ21xTkZsMXJXLVhLVFlUUmlSS25WYmNOSFNSZUFoZFVNaGtrblVnWUhXLUNTVFZ2eDg4VW91aUhvTTRwcWlFTEk5RzZWbmM?oc=5",
+    "title": "Waymo opens driverless rides in Las Vegas, its fourth new US city this month",
+    "source": "The Next Web",
+    "published": "Tue, 15 Sep 2026 16:25:16 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launched driverless robotaxi service in Las Vegas, marking its fourth new U.S. city expansion in a month.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "ridesharing"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDRidnM4S3JQOERUR0Z4VUtfdERybjc1UXA4Rkd2U09mX0Q1VGJHM2IwYmJuVlRWZHJXZzVfaXU3QVVwcElrTzd1R0JZQ1pnekIyMWM4ZHgzZW5sQjVfNWU3US1uQmpWeXVORWxseXpiWXd0dVl1ZFFPX2NRQnR0Z1hB?oc=5",
+    "title": "Waymo opens robotaxi service in Las Vegas",
+    "source": "TechCrunch",
+    "published": "Mon, 14 Sep 2026 16:04:16 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches a driverless robotaxi service in Las Vegas, expanding beyond its existing operations in San Francisco and Phoenix.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnQ1Vng5c0U0YXE5NksxWG93eDJOdHhEeFRlSzQ4ZTNTVjM0YTBrTnF0WVRnNnlZSmFwQlJCcGNnUjZ4dFNNWTNhajJHZzhOOTB2eU1WRTFKcFVBU29YZ1h0QnplNzl4dFFIQWhNRWpwSDBqTjNWZ2oySnZFTGwyNlFaNDg0bk9BZFF0d015Y3M3ZmQya3plTmpkSU1zdnBraFpMYjJJUV9TZ1BSUjdrM0EwcXpucVVKcldzVQ?oc=5",
+    "title": "Waymo, Japanese partners target driverless taxi service in Tokyo in 2027",
+    "source": "Reuters",
+    "published": "Tue, 15 Sep 2026 02:12:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo and Japanese partners are aiming to launch a driverless taxi service in Tokyo by 2027.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "Japan"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVndTR3VyTW5nRkhKODZvbXFwZTFaeEpqUmg4dXkwN2g2VVhDS0pYbkdnYklyZHBJQXJ4Vmg2cU12NzVSYnhEeHFrS2lyZzRrLWMxLVg3d0xLX1JHaHl1TWJReGk5cTJKSDl0Vi1CZFh2SlEwMWc?oc=5",
+    "title": "Self-driving trucks are cruising Ohio roads",
+    "source": "signalohio.org",
+    "published": "Tue, 15 Sep 2026 04:01:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Ease Logistics is running fully driverless trucks at fifteen miles per hour through an Ohio corporate park, with ambitions to expand onto public roads soon.",
+    "companies": [
+      "Ease Logistics",
+      "Kratos Defense",
+      "Einride",
+      "DriveOhio"
+    ],
+    "people": [
+      "Abbi Fallia",
+      "John Kasich"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "trucking"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjlScGIyZ3JXc2lfUmVhQXpzNjJFWkpSOGV1SW1Uek5RNHBLdnV2X0lsbVl3aWdYSmJwNmZIRkNtaVJUV0hVUDdBeXJzd212RDJLWXNBRy1DOU5yZVFKMXI1MFdWMFdpbGhCVlhMaG1vQlU5NjV3VWc3OS1MWEhja09Xc1BUa1p4MU80MEE1YTdMenpkZEE?oc=5",
+    "title": "4 Minneapolis council members: Why Waymo cars need a human in the driver’s seat",
+    "source": "Star Tribune",
+    "published": "Tue, 15 Sep 2026 18:03:52 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Four Minneapolis council members argue that Waymo's driverless cars should require human drivers, a policy position rather than a concrete development.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlF1NF84UXBnSUo4R2FJT2dCcFdxOWU5WmxEM0l4bm9Wcm5IeG9jN2l6UGh6TUU2VXVfV0w4ejNmemN2c2syckRHTmV6MTRfQ0dLSi1ocXJhUnM1T0k2Z0thSloycnpOUURrcDBQeXlxTkh2REVzMGRRanVRaUI4cURoOHo1dldsaERTanZ6bnMtdTNid0ktUHhXeWljcFhaZ2VrTnh6SnNOX01DMGtkMg?oc=5",
+    "title": "Waymo to Start Tokyo Robotaxi Service Next Year in Asia Push",
+    "source": "Bloomberg.com",
+    "published": "Tue, 15 Sep 2026 01:59:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will launch its robotaxi service in Tokyo next year, marking its first deployment in Asia.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3JIV3NzenQyaFZ2MXVKX0VOQXZnU1RfV3BMeldQdnpGZWw0OTZmVjcwMTAteEU4VWZBMzAybEwzZmw0bnlkZnZFa0dubVJab1hhS1VlMnVlenpqOENVS1U5cmQ3a2J4eGloSWt3UGJfdUdhMTMtUGxMdnNSYlBmSl85TXhwX19MR0p6cUM2YzFhaVBaV3RKWVc4amFfUWxwc2JyQ2NVdW04QQ?oc=5",
+    "title": "Waymo launches driverless taxi service in Las Vegas, joining Zoox on city streets",
+    "source": "ktnv.com",
+    "published": "Tue, 15 Sep 2026 00:25:40 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has launched a driverless taxi service in Las Vegas, positioning itself against Zoox in a city that is becoming a proving ground for autonomous ride-hailing.",
+    "companies": [
+      "Waymo",
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "robotaxi",
+      "Las Vegas deployment"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajROWnJWaUY3emxWMG8wS1NtUzQ2VTVfNGZxcFEtcVptNjVSQnJBUzNvaG9QblNYMVpMdFlJd3lkN19RcEYxZHBMVzlLaDh4RmhMMnVpazRTbndDZnJJc0pXaUhnbGhsVjJBTnQ4SnNiNk82VFp1QXVfTm1NdlFZbFktc1lPQQ?oc=5",
+    "title": "Tesla’s self-driving Cybercab spotted in Park City",
+    "source": "TownLift, Park City News",
+    "published": "Tue, 15 Sep 2026 15:06:17 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's driverless Cybercab was spotted operating in Park City, marking a real-world test of the autonomous vehicle outside controlled environments.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "Cybercab"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFRUQzJLVzZ5WjNXZnFvZEJiaDRRbW9WQ3VRWEVTbHhYbmx4X0FsRE9TOWxHLW9JbzRDZDBlaVF6c251Wm91Z21LMG5wUWJnbnVfc29BbVFyUU4tVWJ2cWdaT1d2dXNtVVJQdTQxMGg1MkNuVkp4RVQ5RzFURWVJTWtYTTFZUUxf?oc=5",
+    "title": "Waymo Readying to Launch Robotaxis in Japan",
+    "source": "CleanTechnica",
+    "published": "Tue, 15 Sep 2026 02:10:21 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is preparing to deploy its driverless robotaxis in Japan, expanding its autonomous vehicle operations beyond North America.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles",
+      "international expansion"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTRaOURVYk5xQ0ZCeDdDalQxVnkwdm1VZDQ1LWVCcnBOUXBaRWxvVjJJVWdSMzRnMHJXS3pDNjUyRUt6M3E2a1E5bDE2eGhZTGJlUUFZSnd6VDBHS0d5bC1oLXpRMGQxQ1A3Wl93RWJKNnZXdnhNMUNrQjJFMGFGdjVGNkx1bkU?oc=5",
+    "title": "Tesla’s record month: 4 fatal Autopilot and Full Self-Driving crashes",
+    "source": "Electrek",
+    "published": "Tue, 15 Sep 2026 14:05:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla recorded four fatal crashes involving Autopilot and Full Self-Driving in a single month, raising fresh questions about the safety of its semi-autonomous driving systems.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "safety",
+      "Autopilot"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlhpRXBINVh3emtxeUdobERxdG1wdVhzc3oycGh2emdqVkVSNzNsQ1plbmtIUVZIV0tfSFoxQTFaWnJQc21NaVNzRDRmdEZMbWpaUGliWllaa0szSENJcE5BTEFhVVRJUUdRQjlGU3QxUDFPcGRaeURNbkpHbUI0VzdXMnBsN1Ez?oc=5",
+    "title": "Court Rules for Waymo in Santa Monica Legal Dispute",
+    "source": "smdp.com",
+    "published": "Tue, 15 Sep 2026 10:02:55 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A court has ruled in Waymo's favor in a Santa Monica legal dispute, clearing a potential regulatory hurdle for the autonomous vehicle company's operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR1lnbnplVnN0X3BXNjlmQ3hDNmVTT2ZrUmpPVG94VXlzNXpmdWJESEhWVnhoNHRYbEdPUkZEVmpieUE4aVo4MmJlRWZJMFhkX3ZWUXk4eGRBSFNTRmNVWm9Eb2VHMHFZNVBCeDZQR1ZEaXE5R2gyTmFCWjY5aEdYUmxkSTBSTzd5UEZaZG5YLTMybnExalJoRFlIN3ctZEUzb2hOcVhoNDBSZkFIdGpGVDN6UFliNmRKTFZfdk5CdVB3bHlyTU1IUV9DaGdDRDJxYnZsQ01vX0IwM09ySk1pOUlMZVZSZmM?oc=5",
+    "title": "The Tesla Network Is Dead: JPMorgan’s Bombshell Note Reveals Nearly All Robotaxi Billions Flow to TSLA, Not You",
+    "source": "24/7 Wall St.",
+    "published": "Sun, 13 Sep 2026 15:41:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A financial analysis questions Tesla's robotaxi economics, arguing that shareholder returns will concentrate with the company rather than distributed network operators.",
+    "companies": [
+      "Tesla",
+      "JPMorgan"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ1ZwSU9WaEdJaGE5RXVyRVhpMEQ0R19JY1ZNMEI2Nno1MHlndFN3MWJiUi04UDNkOWlUdDdMS3NMZmhlTW5ZUTN1bEZGQzA2LTBxYWhMZWpDQlBNOWdLaEZfaGt1eFROQ3hlY1ZBV0tJVDVZQ2VmS1kyM0diZ25FMnJlUWsxUklhNXFvQ3pyMWFyX2o2RWRrSFhsU2pQa1czR1FtU25iRlVIZVhtX3ViNy1fZy0zclZhalpkT09xSTRHMTE2NXRNQWJQa0M5UnlGajZRbUR3cw?oc=5",
+    "title": "Headlines from across the state: Virginia lawmakers move closer to regulating self-driving vehicles; more ...",
+    "source": "Cardinal News",
+    "published": "Tue, 15 Sep 2026 07:45:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Virginia lawmakers edge toward regulating self-driving vehicles as Waymo tests autonomous cars on state roads.",
+    "companies": [
+      "Waymo",
+      "Sauer Brands",
+      "Buc-ee's"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "policy"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlUtUHd2UVhmdklVTjFkcENXazVKa2N2cUtoNWZ1a3RCNlV5aHpZN2JENnc5ek1mczI2UzFoQ2EzRTFQSklDdXhjdHhuZDVLcVpOMUdVbm8xWnBjNTI0Z3FJd2xtTHczRnc5U01oRTNpWEdEbFJuMUlEUkN4ZDAzLXdtUmZ6NlEzSlNQRHlXcnNrb25jMDNVWGRDYw?oc=5",
+    "title": "Waymo targets a 2027 Tokyo launch with two local partners",
+    "source": "Automotive World",
+    "published": "Tue, 15 Sep 2026 14:06:10 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo plans to deploy autonomous vehicles in Tokyo by 2027, partnering with local Japanese companies to enter the Asia-Pacific market.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "international expansion"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDRWQVJONnVnX1lCMmlIYW1YZkcxdFpPWF9peVNxVWtoOFF3N0JJSl9xY25FTEx0N2E4d0NaQjhTNWxLZjNRTy1LX2V4dWhfMjg4UFgxQy1tTmhaVElkYmc0WjNTTlJtLXRzZFpKdnpXcWZXNmoyc1A2RW1KUmNLOG9wU0JsQ2pMZ2ZmX3U2WC1ValNDWk55OXlCNlFBQWhtNnRMSWVORjdUT1pLOWhyRDgtRDZvRGZIcndReEh3QUtITVBIRjBQSWdzcw?oc=5",
+    "title": "Pratt receives $24 million from Army to establish research center for autonomous drone defense",
+    "source": "dukechronicle.com",
+    "published": "Tue, 15 Sep 2026 03:10:08 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Pratt School of Engineering at Duke University secured a $24 million Army contract to build a research center focused on defending against autonomous drones.",
+    "companies": [
+      "Pratt School of Engineering",
+      "U.S. Army"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone defense",
+      "military research",
+      "counterUAS"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQjd5Q0JYY2kwaklNNENsOFFRNWFMUVEwTm13TlV5YzFPSmJhZm9rRmx0ZmJ3ZGJPQnNMdzhTWTU5N0s5Q21nYTJYTHd1TkhZV29DUHZOSUlLZWwyUTZEcnNVWDR2R2xTNWFHWk1ZcEVuWkJlQ2kwTWlHdXF4cU1pYk1BUlI5VUF6RTlBRGYyNWdoZ3dEUUhVWHVHN1NUQkd4X2h0dU5QVE91Q2tnTVlpRENWMjNwTVZnNG1VU0hLMzE3RDBNZUlGWUVLdzJCclhsV2lCNnlPenc5eTRfZWtHcmtJZw?oc=5",
+    "title": "WaiV Robotics completes ‘world’s first’ autonomous offshore landing on a moving vessel at night",
+    "source": "Robotics & Automation News",
+    "published": "Tue, 15 Sep 2026 08:59:09 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "WaiV Robotics landed a drone autonomously on a moving ship in darkness, a claimed first that suggests the company has cracked one of the harder problems in offshore operations.",
+    "companies": [
+      "WaiV Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous landing",
+      "offshore",
+      "maritime"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNM3h0ZWtpQ29BX2FLZUVkcmJ1OTVOV0pqZWlJeWE5MmUzb2ZmbF9mTXA0RXFqcnZVVVQzeG84eVFIYjRVa3p3RzhkUkx3U3drdGtpT0ZfZ2wySG9XMDZtNWZBcFB6TU84U3d1QWktSmRnRzgyOTZvTU9VbWplS3I0S1NwZE1LLTdUMHpwM2F6N3hQVmFid2RuSzZRWm5IYy1QRU4xQXA4VmtWRmMzTG4tVWZEWXhjSmhRUkt4clFlRjRxZmE5V2RKVWdtVDhkbDNhTEJnS3ZROUdzXzFUb3ZWZU1BZnpMS20wRkctSmYyNjhPeTk1X242dS1CdGMySEFr0gGGAkFVX3lxTE9BRTNDa20yUmRCYWVyYWxQaEVOd0JRbUd3ZEtIRnlLN3pOR0hELXV4Q3N2ZmRyMk9OcHlRaWg5VE1aQVR4QVlzUVlqaFl4cS1RVDdMbVJrRGt1dEh0dE9YX1B0ZEt4aGU3V0NuMmIzN2QybEp4aWd1SVlmQmhMUnV4R3JYekdKQUhVcjZsVVdaUS1ucmpUdHVTQkdGb2l1enAtaGpPUTlxVkUwN25pU2VVd1lMWm1nR00tQjY3a0VKWS1zSHRyTXd4VExWQkZQRDFBM2x1UlduN01NN3pQUlZtVVk4aURHb1JveXE4Tjg1c3pla2VvYUNKbkpWcHhjeDFxdUJwUEE?oc=5",
+    "title": "AVI-SPL and Matternet Partner on Autonomous Drone Delivery for Mission-Critical Service Logistics",
+    "source": "The Manila Times",
+    "published": "Tue, 15 Sep 2026 10:15:02 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "AVI-SPL and Matternet are partnering to deploy autonomous drones for urgent logistics deliveries in mission-critical operations.",
+    "companies": [
+      "AVI-SPL",
+      "Matternet"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous drones",
+      "logistics",
+      "mission-critical"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWEc4V1ZMdkFKT2JVdkhaRjNta2hKSHQwLTlOaXk2RmpVM0lRTDRfV1QxREZER1otUXBRYV9oNkFJSWxyd1BhVEZsc04zZVZENUZYdzZ0QlE5dWVjeWlyR1VTNGlqMHJHUGFkcmJBSlFtY1RLUDhRb0xWSEZhVjBsc3ZSOWk4U2Ixd0ZPUXFhbnl0ekZoRDBlR19uUDJzYWZKbDc1U1FFVkxyd1hzWG1UUFBYNFlDOXFLcmlWTEd0ZTJORmxKYjZEQmJhYnpsTVJyeE9jdHRR?oc=5",
+    "title": "US defence firm Lockheed Martin unveils new stealth drone as Africa’s 6th-strongest military eyes $18 billion F-35 package",
+    "source": "africa.businessinsider.com",
+    "published": "Tue, 15 Sep 2026 09:52:04 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Lockheed Martin unveiled a new stealth drone while Egypt explored a potential $18 billion purchase of F-35 fighter jets.",
+    "companies": [
+      "Lockheed Martin"
+    ],
+    "people": [],
+    "themes": [
+      "stealth",
+      "military drone",
+      "defense"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0paTzBUcW9tMzVjbDB1SF9CZ1BzcHZpMnBlcUJSRGZHSlRuTXFTWVZ6WnpTdXJ6N0pqVUM3T05GM3A1ckJ0NURCeW5ZOVc1bmFOeTY3Z2dBQ0NEQVh4SFFHUGVvbGltSnFSUlVxUEJ4cUZXOWFaS0x2dVppcXo0RDZMNmN2bFA2ckZOb1dSVE1RQTJQbXlZ?oc=5",
+    "title": "China launching multidomain drone swarms for next-gen warfare",
+    "source": "Asia Times",
+    "published": "Tue, 15 Sep 2026 05:56:42 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "China Electronics Technology Group Corporation is testing multidomain drone swarms designed to operate as interconnected kill webs across air, sea, land and space.",
+    "companies": [
+      "China Electronics Technology Group Corporation"
+    ],
+    "people": [],
+    "themes": [
+      "drone swarms",
+      "military",
+      "multidomain",
+      "China"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYkpjNnZfYjV3QS0wWGZieGVsQ2dKZ1BCa1MwLUw5TUE5bFhTQ1JTNWR3V2swSGtsMGMwR3JRSEpsSVZOZ3FTcUtqVF8xeEpVTmMzZU1rdWhmLVVBN3VoNy1RYi1SbGFTYS1LdnduaFlpRVFJZUktc0xsall6Z3BFbm14SG85ZGcyWmZrVk1NYjBUcUlFcjlqZi1JNFliOE1HZEhGY0Q0d3A0dU9lcHdlYV9wQjBGbEVvY2pOenNaQjdudGpOUi1YWllEUlJmZWt0SEhDWG56QXg5SWRyMFlra1BFV3E2Ujl0cnJPNVhndFozWEx2UTRMRUNGaU9FcWE5QmFhM29aTlJIX2VYNjZZ0gGUAkFVX3lxTE9oUmowa2lKSWpSUFBpTWVGSmx2dXNjdWY3SHRkdGtfZ3c2OHB0Z2RQMk92RDlaaUIwX0tFUjhVd292aDBmR1ZzR3NwQU9icFg5UHczeUZSb2lfby1KMlFINmpIVnhERHUtZDZCSXJLQ2VFdFRkX3daeVBCZGtwUUJTSXRsS1l6QTNWcnNhMzFFZ0l4cF85QzVjSTh3UExNRjVMWHhUVGpOTmNSSXg0UjJpSnl5eFJkaTMwd29jUWNLLWI0X1g4bTd1d2tWLXBZSDhVSm1IUElpbEYtZVYtVmNkd0tUc29JdDZQTUc1STBTSGFUczcxV01NMEM3UjhYSldZRTN6bzJIbjVxMDBrSFBtVkl3Sw?oc=5",
+    "title": "Exyn Technologies Extends ExynAI Autonomy to CHCNAV’s X500 Drone, Expanding Its Third-Party Robotics Ecosystem",
+    "source": "The Manila Times",
+    "published": "Tue, 15 Sep 2026 13:47:33 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Exyn Technologies ported its ExynAI autonomy software to CHCNAV's X500 drone, extending its third-party robotics platform.",
+    "companies": [
+      "Exyn Technologies",
+      "CHCNAV"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomy",
+      "software platform"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3BscEVIamJnR0JSZnBjSkJZbTdoendUOGFHQVlydS1hX29IaU9ScXljOURieUk1SGVta2ZZTnZaVXlZSGNPWFFtNm44cERYNkx6SDJhTEItSnhTMUFWRmVrQzRpSWZxcjRDYlpQTUVYb0VRZFF0YW91OUtwTS1CbFBHNVJGbGhxQXlCVWtEVGxhbURBUjQya2diSUROdnBfRVNfNDl3TTMtdWNIWjNpRTBvWFpsaTAtdmM5VlFGNkQ2ajQtRFE?oc=5",
+    "title": "New brain computer interface restores simultaneous speech and physical gestures",
+    "source": "News-Medical",
+    "published": "Tue, 15 Sep 2026 14:22:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A new brain-computer interface allows paralyzed patients to speak and gesture at the same time, restoring two fundamental forms of human expression simultaneously.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "speech synthesis",
+      "motor control",
+      "neural decoding"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRjM4Zi1Tc2Q2Z3lMZHlZcF94RFJUY3JCRS1EVU0xMXVJbGowSGREUThLOERMWVM0X2ZoRFBVSncwcm9ESWxBRlBOcXdsSEpKU1h5aXluWHl3SVNCNjFObmVjdXVaSEVXaXBpZ1Fsc2FveXVSYmZNdDJMV1lBN1Q1RjYzd1NGWnRCdDVnQkM1a2U4Zkx4Wk0ycS1XSmJKa2JDbDFqeWhJMHBOdTUxYVJpOHdyRzBsRU90Ym93WlVQcw?oc=5",
+    "title": "Paradromics facilitates real-time speech with Connexus brain-computer interface",
+    "source": "Today's Medical Developments",
+    "published": "Tue, 15 Sep 2026 06:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Paradromics has demonstrated real-time speech output from its Connexus brain-computer interface, advancing the field's core application of restoring communication to paralyzed patients.",
+    "companies": [
+      "Paradromics"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "speech restoration",
+      "real-time neural decoding"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCR1phdVUtTWZnaU9kNGp6eXVBbzFRM0prNlV4X0k5VnItOWNCcEZRTDZ0QXBndFRESlFfZEJMTWVURzZHUG4tc3JFOGdOUFdMWUZkSUJNVmJRSDZjRFdPcXBZMmpVWFpPaDduY2FtVVBJRW4wS2xIZHB5bGw?oc=5",
+    "title": "Brain implant enables real-time speech from imagined words",
+    "source": "qz.com",
+    "published": "Tue, 15 Sep 2026 07:25:13 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Paradromics' wireless brain implant allowed a Michigan woman with degenerative speech loss to hold real-time conversations through thought alone.",
+    "companies": [
+      "Paradromics",
+      "University of Michigan Health"
+    ],
+    "people": [
+      "Matt Angle",
+      "William Marks"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "speech synthesis",
+      "assistive technology"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnpsYWFqc29OVDVXOTdXanpWbVFkTWlIVHFCRVZZVXRqR0FsMXF4TWtpWEJDaHFYRF9TYlhDMDhmc183Ymd5UzB1TS03TC1uUnVzMkFrYXVoS25icmp5SW4tRnZNUjJUY2licUR0TkZJOHZYbWlnNmZSQmQ0NDlVMFdQdlB6Mm8xYnR5M09XeV92cTBfYUlGZlhzU1d1cFZRVFVFd3h6cUJ4ckVuVl9pXzNITFFCZw?oc=5",
+    "title": "Brain implant restores gestures, speech for some paralysis patients through virtual avatars",
+    "source": "FOX 5 Atlanta",
+    "published": "Mon, 14 Sep 2026 20:24:56 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "UCSF researchers used brain implants to let paralyzed patients speak and gesture simultaneously through virtual avatars, a step toward restoring natural communication.",
+    "companies": [
+      "University of California, San Francisco",
+      "National Institutes of Health"
+    ],
+    "people": [
+      "Edward Chang"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "neural implant",
+      "communication restoration",
+      "virtual avatar"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qeDBmVVcyd1RBOEYweDFUbWdkclcxUnd4TUE0ODVWQ0h4dFNzc3FadmJ2THFTSG15UW5fZ184a0NnZWhLeklwcXV2U3BaMkVaWDJ3WWM3S1ZBaXZ6VmliaDZfay02YW1OT0M4U3FQYmpzWDJlTEtqUFRfNWlGeDA?oc=5",
+    "title": "A brain implant enables paralyzed individuals to not only speak but also gesture through an avatar",
+    "source": "El Mundo America",
+    "published": "Tue, 15 Sep 2026 09:49:02 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A UCSF neurosurgeon's brain implant lets paralyzed patients speak and gesture simultaneously through a virtual avatar, decoding neural signals in real time.",
+    "companies": [
+      "UCSF",
+      "Unreal Engine"
+    ],
+    "people": [
+      "Edward Chang"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "neural implant",
+      "avatar control",
+      "gesture recognition"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0kySjlMOFREWTFZMnN5ejdPLThZSk9VeDFocmQ4R1IyLXdkb0xqUzhnbHBOSk9JMVVkbkNya2pId3ZCOWFFaDd2SmV6WElUZWJERExqWHk2WW5ZTVpCMUEyeUJYMkJ5bUxnNk1LS2dpUTJieHdBUkJvdUxLY25RY1hQTF8zQkNzVm1aaU5Pc19jbi1FblE?oc=5",
+    "title": "China sets first AI-brain-computer interface medical device standard",
+    "source": "digitimes",
+    "published": "Tue, 15 Sep 2026 01:56:45 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "China establishes the world's first medical device standard for brain-computer interfaces using AI to process brain signals.",
+    "companies": [
+      "China"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "medical devices",
+      "AI regulation",
+      "China"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV08yTF90ck5vbVZobTgwZ1ZRUEVXUzdtT1M5X3l6MmM2RWRFSndzU0t0ZkxUeGxfZFY0MkVKWUNfLWstM1NGNnRwNFZjNlNZTmtXWHFud004eHJQdEk5Y1ZBYVdrN2ExZkd2dG1kYjR3MlJPQ01KcW1MaE41X3VfbA?oc=5",
+    "title": "China issues first AI-plus-brain-computer interface medical-device standard",
+    "source": "TechNode",
+    "published": "Tue, 15 Sep 2026 07:29:19 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "China's medical regulator approved the first industry standard for AI-powered brain-computer interface devices, setting EEG data quality baselines.",
+    "companies": [
+      "China's National Medical Products Administration"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "AI",
+      "medical devices",
+      "regulatory standards",
+      "China"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQck1PSElfWHdvMXZXcFdHalpTTTlUbHJOaDIyNEMyTGozalZ0V2Fxclh0NlZGSlBKUDZualJXMnVPVWlScmRWRXVmbXQ2MUJOTWk2TTlUdzcxaWttNU9ib3FoSl9oRDJtYW0wekJYRGdGYlM4VkpfU1E3aHRHVElsRTZaM0E1SWU1eEFLRVNncTFfakc4RUVnUDlIdFBFdlNtUW83UG5fdnNEVEZIT3hPdFJSV01CQ2s5YjgtVWxxaGxxQ2k3Q2F2bXp3?oc=5",
+    "title": "'I have a lot to say': Austin brain implant helps patient communicate in real time",
+    "source": "WOAI",
+    "published": "Mon, 14 Sep 2026 22:07:05 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A brain-implant patient in Austin can communicate in real time through a neural interface, demonstrating practical progress in translating thought to speech.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "communication",
+      "assistive technology"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95S29JaE9OSnpaNGJOY3o4bXdNMzV5WWFMcndSN01KY0FSOTlmZ2Z2NUNwdmJHTlVGby14ZVdNa3FIZ0ZrUmZObFc3LURHcF9hV1RvRW1hdWVSTWtmNGs0amU0Z2tyMXp1elItS2NreFpSMUZ5b01HYURnNEQ?oc=5",
+    "title": "Neurotechnology: Brain-computer interface (BCI) unlocks simultaneous speech and body language",
+    "source": "Digital Watch Observatory",
+    "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "UC San Francisco researchers developed a brain-computer interface that lets paralyzed patients control virtual avatars with simultaneous speech and gestures from a single implant.",
+    "companies": [
+      "University of California, San Francisco"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural decoding",
+      "speech synthesis",
+      "motor control"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3dkRLclc2RU5TLXNiT0w5SkhoT0dQSjZZX29XRDIyVmpLaW9GTWllSUNGTENwRGtIUDJfblgxZmdLZ1BjdEY1UE03eTk3ZFFZX3JF?oc=5",
+    "title": "Conversation with Emotiv China President Chen Xingru: Non-Invasive Brain-Computer Interface Commercialization in China Is Still in Its Infancy | UNDERSTAND KNOW-HOW",
+    "source": "eu.36kr.com",
+    "published": "Tue, 15 Sep 2026 01:43:21 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Emotiv China President Chen Xingru discusses the early-stage commercialization challenges for non-invasive brain-computer interfaces in the Chinese market.",
+    "companies": [
+      "Emotiv"
+    ],
+    "people": [
+      "Chen Xingru"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "non-invasive BCI",
+      "commercialization",
+      "China"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/2026/09/opening-tokyo-in-2027-with-nihon-kotsu-go",
+    "title": "Opening our doors to Tokyo riders in 2027 with Nihon Kotsu and GO",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will launch driverless ride-hailing in Tokyo in 2027 through a partnership with local operator Nihon Kotsu and mobility platform GO.",
+    "companies": [
+      "Waymo",
+      "Nihon Kotsu",
+      "GO"
+    ],
+    "people": [
+      "Tekedra Mawakana"
+    ],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles",
+      "Japan expansion"
+    ],
+    "first_seen": "2026-09-15T18:40:56",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
