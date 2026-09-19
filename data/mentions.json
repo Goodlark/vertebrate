@@ -55422,7 +55422,7 @@
     "first_seen": "2026-09-12T17:40:08",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55610,7 +55610,7 @@
     "first_seen": "2026-09-12T17:40:08",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55759,7 +55759,7 @@
     "first_seen": "2026-09-13T17:53:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55951,7 +55951,7 @@
     "first_seen": "2026-09-13T17:53:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -56532,7 +56532,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -57400,7 +57400,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -57455,7 +57455,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -58472,7 +58472,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59548,7 +59548,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -59573,7 +59573,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59654,7 +59654,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -59770,7 +59770,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59796,7 +59796,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -60527,7 +60527,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61070,7 +61070,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -61096,7 +61096,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61390,7 +61390,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -61470,7 +61470,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -62361,6 +62361,796 @@
       "defense logistics"
     ],
     "first_seen": "2026-09-18T18:02:13",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNS01EMzVqWnpVZDZqcG5JWkpDbUFja0dzNnlmZVp0NElxaEhYOUd3Tm5MZ0NwZXpwd0h6Y0NxUUc3UmlURnl0VGlkREJJVmRPUUFJRG85MGJ5YndFdmdKZzhtYjFjZzVnTDcxSzc3MkNUaTdzdmZNeV80LVdYZHZsSTFodnQ0c2dtUjIxZ3NYRkdTbzJKdWl2YzFzQWpXcms3eENEVkhsMzZZQ1RMcnNzRlU3X19NSG5xcnBqTkN6UF92TUhGeTBKQjZhMWlPY3ZMVTVDV3ZOY1RKaUZISjRTT3plUWMxckd2WkRIdks4MmdzT0w2Y3JRX1VKaGczcHFaZ3NadzNvVnR4TVpQM0NNcmMwNA?oc=5",
+    "title": "UBTech reveals world-first robot factory that can build an android every ten minutes — and it's been joined by the 'first fully automated three-dimensional warehouse'",
+    "source": "TechRadar",
+    "published": "Fri, 18 Sep 2026 00:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "UBTech opened a factory capable of producing one android every ten minutes, paired with what it calls the first fully automated three-dimensional warehouse.",
+    "companies": [
+      "UBTech"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "automation",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oWmlpN2xRLTduQzduTVdfUVpjZFVwekwxTmhiaUZQek4yT25VdTAtdUFJSnkzZHpOcm9kclhHbFNpNGp2R3FDZU9TRXRHV0FCRVNaUWE4LWYwZVZIQlFtVUdR?oc=5",
+    "title": "China’s embodied intelligence is moving from stage to factory floor",
+    "source": "Global Times",
+    "published": "Sat, 19 Sep 2026 16:08:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China's robotics makers are moving embodied AI from demonstrations to factory floors, where short feedback loops and dense supply chains give them a practical advantage over global competitors.",
+    "companies": [
+      "CATL",
+      "Galaxy General",
+      "Bosch",
+      "Toyota",
+      "SAIC",
+      "AGIBOT",
+      "Nestlé",
+      "SenseTime",
+      "Unitree"
+    ],
+    "people": [
+      "Chi Jingyi",
+      "Tian Feng",
+      "Pan Helin",
+      "Wang Xingxing",
+      "Bret Baier"
+    ],
+    "themes": [
+      "embodied AI",
+      "manufacturing",
+      "factory automation",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWY1NzdLZjRESDVkZ2RwWGprZkM1ZG0ybFh3ZENZbHJtand3aXBqNUFvcGZlMmNuWDJnM3RQeU53RFBuVHpIWU81cWhpOXhlQWVBWlJXb0pXMlNVaXlubVRJOUEtX1dvcW9BVDZsb3B1TVh6NkZ2U2U5aklHS2g4RjNoYlBTZzQ?oc=5",
+    "title": "Japanese Company Develops A Humanoid Robot 'Ambulance' For On-The-Spot Repairs",
+    "source": "Engadget",
+    "published": "Wed, 16 Sep 2026 23:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Japanese company has developed a humanoid robot designed to perform emergency repairs on-site, combining mobile robotics with remote manipulation capability.",
+    "companies": [
+      "Japanese company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "repair",
+      "emergency response"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrV0lGdGxvN2tVRmp6bFJRaHpyVWtzSVdBMVdqaUV3V3I2X3Jma1VUVDhhVHNyenNFYW1xZmZCVUxKZDdkRVF2dVp4RzZuUUFwak5nT1VoeHN1XzRKZ04xZ0dLdE5oQ241QjR6VlJZZ3IxNEpZa0w3TdIBeEFVX3lxTFBJY29WLVhwdlFSSEN3R0RCRjlaaDVkZ3lLVXl3cnBtYXh6Tnp3TXpMWG51YW80S3lQemU3YTZtZ3VuVjFrZHJDS2JDcmJGRHNIR0YyaXNBTFlFYzVfa1FsQmZ6NzdraEotaDZHWEhXVDF3UWc1N1Fzcw?oc=5",
+    "title": "Waymo’s driverless taxis came to Charlotte months ago. Why you still can’t use them",
+    "source": "Charlotte Observer",
+    "published": "Sat, 19 Sep 2026 14:28:07 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless taxis have operated in Charlotte for months but remain unavailable to the general public, raising questions about the timeline for commercial service expansion.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "rideshare"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLWNZOTlrcHhORVhfdGdyUklZTWc2dHZjejVmaHdETC1NWFJQcHBLMnE5Rzg0NVdiUGIwMmJtRVAwRlh1OWJiVzFqZzZST2NKU0ZUNnFiREY1RkVYaExwYVBtYUQ4THpiQm83YVh5NUdQMmdZUE92ZE52aGJIWUpxNEdaOFZMemJvWnpQNHNoRWpHMjN1UGpxMGN2SGxCUQ?oc=5",
+    "title": "Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.",
+    "source": "Yahoo Finance",
+    "published": "Sat, 19 Sep 2026 06:50:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Yahoo Finance analysis examines the complications facing Tesla's robotaxi strategy and their implications for investors.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclBlV1Z2bEdxQVFuQnphWU9kUUVxaENwVnB1Qlc1UXNBVmMtLWZQWjhOelBaSUJOb3ppQ2ltQUhFWGVyRW1Bb0FnNnF6Ui1VUk9zNjhHcWZqazZQUkw0eTRwcXNVcWREb1RUNUtVV0NlX0d1Rk9pTUNqNFpMMF9RNE9CVk9wUkt2MXBYTTRqTU1sRk5NLUQ5QQ?oc=5",
+    "title": "Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.",
+    "source": "The Motley Fool",
+    "published": "Sat, 19 Sep 2026 07:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The Motley Fool analyzes how regulatory and competitive pressures are reshaping Tesla's robotaxi ambitions and investor calculus.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tbmx3amhqZ1JMU204TUVnczJEQkFCVGYza2tvVkdrQ1htazdlZVVURURhR2FrcHAwRTJxa3ZqY25IY2RjRzJnRmdMcHdEMDN4WUROVWVR?oc=5",
+    "title": "Waymo car stops on a flooded road",
+    "source": "foxnews.com",
+    "published": "Sat, 19 Sep 2026 15:09:08 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle halted on a flooded road, demonstrating the system's safety protocols in adverse conditions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "weather conditions"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pMb1NCSFhwVTdoaW8wQmZoeFFUNWlyWE1BeDNUd3hNa2xBM01DUXgzd1ZCaVVDR09GWi1mbFRfbVhBR2tNdzd0ZFJhbW56TVM3a18tM0NVYjJBRXlNOXF4SUt2cG5RZUJLa2pCamU3LXJKS0pYWmVBODlyamxuQVFDNnZxOFI3aTl1MFFHbG1FWGF5d0FKazlfY3FhS0pRR1RzZXZtbEFzcUdoOEJIRmZn?oc=5",
+    "title": "Waymo Plans to Offer Paid Robotaxi Rides in Singapore in 2028",
+    "source": "Bloomberg.com",
+    "published": "Fri, 18 Sep 2026 02:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will launch paid robotaxi service in Singapore by 2028, marking its first driverless operation in Southeast Asia.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckFHREpETjF5ZDZDMHF4a2tKak9jZlFRcEIwTlFVMWdvMFdQZzBXcTMtZW9HZWxlbWtZeWVYS0RHZ04xMmtfc21YSm9uUHNHVTJ4cTRsMjlTempzSTJzY1hfRG9yT0pBdjQ1WlozaFQ0S2JPZEgxUjE5TlJ5X25XMFRUcDdRR1dKTlpUdVFVdmFuT3lJbktfRWwzc1hrd2lERWt5aURR?oc=5",
+    "title": "Waymo's Robotaxis Keep Tangling with Fire Trucks",
+    "source": "MotorBiscuit",
+    "published": "Sat, 19 Sep 2026 11:02:04 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless cars had two separate run-ins with emergency responders this week: in Austin, an empty robotaxi triggered another bizarre standoff with the fire department, while in San Francisco a Waymo vehicle blocked an on-duty fire truck, forcing it to maneuver around the stalled car. The episodes underscore a persistent friction point as Waymo's fleet expands into more cities without reliable protocols for yielding to emergency vehicles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "emergency response",
+      "autonomous vehicle",
+      "public safety",
+      "incident"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckFHREpETjF5ZDZDMHF4a2tKak9jZlFRcEIwTlFVMWdvMFdQZzBXcTMtZW9HZWxlbWtZeWVYS0RHZ04xMmtfc21YSm9uUHNHVTJ4cTRsMjlTempzSTJzY1hfRG9yT0pBdjQ1WlozaFQ0S2JPZEgxUjE5TlJ5X25XMFRUcDdRR1dKTlpUdVFVdmFuT3lJbktfRWwzc1hrd2lERWt5aURR?oc=5",
+        "title": "Waymo's Robotaxis Keep Tangling with Fire Trucks",
+        "source": "MotorBiscuit"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1FqMm5RMFdpMkYtWXpvUHFtNFBSWVJodDI3dGJKa1FZRkc0Rk1qU09hTm1uS09pbGtfd1lLcU1aUFpsTUtwcjIwOUNlSnE5TVp1TW9EcUl5SEMyR0I3TGpIdUZRejZ3d3BMdVR6U3NsTVZHQTlmREZzRlc1WklsSF8wd1ZvWW8?oc=5",
+        "title": "Waymo blocks on-duty fire truck during tense stand-off (Video)",
+        "source": "New York Post"
+      }
+    ],
+    "body": "<p>Twice this week, Waymo's driverless cars found themselves in the wrong place at exactly the wrong time. In Austin, an empty robotaxi — no passenger, no explanation — parked itself in a standoff with the city's fire department, snarling traffic in a scene that has become oddly familiar to residents there. Days later, in San Francisco, another Waymo vehicle blocked an on-duty fire truck mid-response, forcing the truck's driver to steer around the stalled car rather than the other way around.</p>\n\n<p>Neither incident, as far as public reporting shows, resulted in injury. But neither was trivial, either. Fire trucks blocked by inanimate obstacles lose seconds that, in the context of a structure fire or a cardiac arrest, are not abstractions. They are the difference between a call that ends well and one that doesn't.</p>\n\n<p>What makes these episodes notable isn't that a car glitched — cars glitch — but that the glitch is a specific and recurring one: Waymo's vehicles apparently struggle to reliably recognize and yield to emergency vehicles in active response, a scenario that human drivers navigate, however imperfectly, through decades of internalized road norms and the occasional panicked swerve. A robotaxi has none of that instinct. It has sensors, software, and a rulebook, and when the rulebook doesn't account for a fire truck barreling toward it with lights on, the car defaults to confusion rather than deference.</p>\n\n<p>Waymo has spent years building a case, backed by its own safety data, that autonomous vehicles are already safer than human-driven ones on average. That argument becomes harder to sell one traffic-blocking headline at a time, especially as the company pushes into new metros — Austin, San Francisco, and beyond — at a pace that outstrips the slow, unglamorous work of hammering out protocols with local fire departments and police. Emergency responders in multiple cities have quietly become the loudest skeptics of robotaxi expansion, not because they distrust the technology's potential but because they've watched it fail, in real time, at one of the most basic tests of shared road etiquette: get out of the way.</p>\n\n<p>The stakes here extend past Waymo's brand. As robotaxi fleets multiply across American cities, each unresolved encounter with a fire truck or ambulance becomes a data point in a broader public argument about whether autonomous vehicles are ready to share streets with the people whose job is to save lives on them. Regulators, many of whom have granted these companies wide latitude to test and expand, will be watching whether \"bizarre standoff\" becomes a permanent feature of the robotaxi era or an early, fixable embarrassment. For now, it remains an open question whether the fix is better software, clearer protocols with first responders, or simply more patience than the industry's rollout timeline currently allows.</p>",
+    "slug": "waymo-s-robotaxis-keep-tangling-with-fire-trucks-f2a256"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1FqMm5RMFdpMkYtWXpvUHFtNFBSWVJodDI3dGJKa1FZRkc0Rk1qU09hTm1uS09pbGtfd1lLcU1aUFpsTUtwcjIwOUNlSnE5TVp1TW9EcUl5SEMyR0I3TGpIdUZRejZ3d3BMdVR6U3NsTVZHQTlmREZzRlc1WklsSF8wd1ZvWW8?oc=5",
+    "title": "Waymo blocks on-duty fire truck during tense stand-off (Video)",
+    "source": "New York Post",
+    "published": "Sat, 19 Sep 2026 14:37:23 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicle blocked an active fire truck in San Francisco, forcing the emergency vehicle to navigate around the car during a standoff.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "public safety",
+      "incident"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVVZNQUYyc0I0RFJ4bGpmMS1xRWhDY1BXeTU0WUZJT1VTbWpzQWJMeUFmTVZpbU5oLUhycEk0Ymw0RFEtLWtmQmlRNkVEbm9ubXNZWkpsVWlWdVlKSGdxQ3FNcmdtSTNENzFZNk4xci10dl84OF9RSzNHcC1BSFJVTmZuaw?oc=5",
+    "title": "Waymo Picks Singapore for First Southeast Asia Robotaxi Market",
+    "source": "TechRepublic",
+    "published": "Sat, 19 Sep 2026 04:06:12 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is entering Southeast Asia with a robotaxi service launch in Singapore, its first expansion into the region.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14alJ6S1hhR2V1aGYzOFdWQjFJU1Y1S2EyM0pQRlZPSkNZWW1SUUNJZElkWHNwLU5VeHhOZ2xxR1p2am1zWHhiRzNLaXc2WVBqNDdGXy0yVWg4VC1SWVBGcFgxcmpxUVljekpmRVZuNkdpSk04TkE?oc=5",
+    "title": "Waymo Singapore Launch Targets 2028 Robotaxi Debut",
+    "source": "Cybernews",
+    "published": "Sat, 19 Sep 2026 03:00:39 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has announced a 2028 target to launch robotaxi service in Singapore, betting on Southeast Asia as the next proving ground for driverless rides.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0xoR3dQMzdBb2J4SDNjQjg4UnVwal9jTG1lTGJrRVZOQzVyUTdvVTJOTWVmZnhiMlpBanFQVC11WGpxcVRzSnNPYXlkaFFtY09sMU9sd3BHUlBaNnlSUE9xVkFyS2JwbWtCSm5ZMWN5QnpycElHRHhpU1M0UExwbk9sdWczZ2Z1TjJyeUlWVnZEd2hld0k2ZExHRG9yeE96NzVlb1JWYXpiTGZj?oc=5",
+    "title": "Hyundai to build tens of thousands of Ioniq 5 robotaxis for Waymo in the US — InsideEVs",
+    "source": "UA.NEWS",
+    "published": "Sat, 19 Sep 2026 11:13:55 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Hyundai will manufacture tens of thousands of Ioniq 5 robotaxis for Waymo's autonomous fleet in the United States.",
+    "companies": [
+      "Hyundai",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUFlpMVR2Tmczd1I2RW14ZEtfMGk1LTFxLWhsR1RWejlGQklic2xrVU1WZ0tkLU5Ud1AxRE00M3lmZUllZkk3WU5qTDNuZGVRaGRIMmpNcWNxNFBpNU8tQUlTMHBEX29UTWM4bUxnYmxmdDN2Rk1PODdQMFJFaUpGMS1FaGllQWx4a2dkdXNna0RwMUJtZ2oxM2tPRWdIWXJQeFVFd21PQjlteV8tQUZUYUtmbW8tVUh4bGN6OHR6bEVNZzTSAdcBQVVfeXFMUGtpc3liV2k0c3hpRWJUZ1lHZlp0WURHVlpxYTZGeENwY0l3QmFYV1VsTXpiMUtsTnJIV0tpcGVWVFRMSkJnTGl6X0FWMlo2STEtRF9rYUVFQ3dvSlpNa0Z0OXVhbFlLYW5XOERnVEhzcENoZ1RvQXQyQ24xbnFHaGZsU09NcVJJeTNWOUU1dEx3YWJEVldfRXh1UHR6Q2RwRXNDTlZhVVNGSHlFWC1uaDJrN3Y2UHhFeWFZdFAtSTRsRW0xUVJGZkxGZmpzVmJibjBzUVNfVFk?oc=5",
+    "title": "Waymo’s autonomous vehicles now making their way around Pittsburgh",
+    "source": "WPXI",
+    "published": "Fri, 18 Sep 2026 22:32:02 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has expanded its driverless ride-hailing service to Pittsburgh, marking the company's entry into yet another major U.S. city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "deployment"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTzFwVldjeWZsZWlMXzJWTTVJWUNheFlSX0FkVlZXY0xROHNUbmpUVjRjM2x4WXhnQzVLU3J4WmEtM0UzNldDVktQRGRTLUhwVnZxUC1jWnFkTkZQa2FMdHdTQW9rZGVmVnVCOE8tVVc3encyejlHMkVZSTF5dEVqRXN2RXFHUUFuQXlkcld4eVZyMTBpNWJ1ZjFEd2pZWkNXWHBKUnVIdzdBX2dYazgxeUF0YkU0RTNmZmZod09EX3dNWHhkd2JPQ2NGdFdRT19MLTFVal9EVHlONXlpWmp0aVBtNThpTVBBRFZycnZvNkZiaEdkODFmdWZMWXVzZmh0emZ1a0tSODA0S01qZnFOb0RQV0dGa3Y5a2dtWUllWkc?oc=5",
+    "title": "JAL and Donecle Announce Joint Verification for Drone-Powered Autonomous Aircraft Inspections",
+    "source": "aviationpros.com",
+    "published": "Sat, 19 Sep 2026 09:39:37 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Japan Airlines and Donecle are jointly testing autonomous drones to inspect aircraft in flight, a move that could reduce costly ground checks and manual labor.",
+    "companies": [
+      "Japan Airlines",
+      "Donecle"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous inspection",
+      "aviation",
+      "aircraft maintenance"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11WE5zQmtSS05wNERqdnFscy15ZEpGOUMzV3VNeGNzOGRVVGVfcXpPMzBWM0xDdVdBSDJLVTVvbTdDU2xXelZZRFlhbFFuVGJCNzc5cy1BaW4tcy1zeXpLSkkxdEhyNTJudWdWaE9mVzVISWM3VzVVaGVadTM?oc=5",
+    "title": "Another ocean drone joins NOAA’s growing fleet",
+    "source": "National Oceanic and Atmospheric Administration (.gov)",
+    "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "NOAA has added another ocean drone to its fleet for atmospheric and oceanographic monitoring.",
+    "companies": [
+      "NOAA"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "ocean monitoring",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOE9Fc0ZaMFdBaFpuRUdMT3kzUzBad2hKNThTMUhPTEV4VGJDck42MS1TM2JsSGhfQ1NqRk55dmprWXdNeUxGbDV6QjlRNHlSeUdfWHBkQ1M1TGthaHk5d1pURTdFVzM4SDdDTS1xQ2xhS05yM2w3Y3VVMEZVelJyQzBDYWJEc1YxTTd2TXJVajhzUUlwUWF6Zmg0QV9zV1lQa1NISENFV0FsQjdsNWd3dGIyU2ROMmhyUWhXcVNmUU9rODBBNG5TYXE5WExQbHlQemNLdy13?oc=5",
+    "title": "Hegseth Addresses Team Who Built Sea Drone Used to Rescue Downed Apache Crew",
+    "source": "U.S. Department of War (.gov)",
+    "published": "Fri, 18 Sep 2026 22:22:10 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Pete Hegseth visited the team that built a sea drone used in a successful rescue of a downed Apache helicopter crew.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "drone",
+      "maritime",
+      "military",
+      "rescue"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1NnWnB1VXNqczRrMjkzSkVaWUZ5akxFUHdHa0pqN1ZSYUVyaFZlR0FlWFVzY0tLeG5SM2s3SDZJTXpIMTRYbGtGNkx6RmVWcHdVYWUwY19ZU21aZUZPeWhzd2ExN2ZpMEFlcldGcXBzcFE0RjlCYWRFV1lFYlBOYzNnaXF5UjY1LXJWOU9yRDI?oc=5",
+    "title": "Hegseth tours technology bringing unmanned boats to war",
+    "source": "NewsNation",
+    "published": "Sat, 19 Sep 2026 02:23:46 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Pete Hegseth visited a demonstration of unmanned surface vessels being developed for military deployment.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "unmanned vehicles",
+      "military",
+      "naval drones"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MemZGcHJmSU1lWk9QWWMwM3BMOFVDYjc2bXRrdzJldEtsZllxbnRHdTFoN3NsSWxDZU55REJXT3RqTDZHbk1GMGJadS1DbTRiQkFxdzd2b3JNWnVYM296cmRvT3NzZEFremZ3aGF6VTlKMnhjZ2tzYjV4bVFFQQ?oc=5",
+    "title": "NATO-Backed Drone Picked Its Own Target And Dropped A Bomb",
+    "source": "DroneXL",
+    "published": "Fri, 18 Sep 2026 21:31:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Scaleout Systems' autonomous drone selected and struck its own target over Sweden, with no human in the final loop—a NATO-backed shift in how AI handles warfare's last mile.",
+    "companies": [
+      "Scaleout Systems",
+      "BAE Systems Bofors",
+      "Uppsala University"
+    ],
+    "people": [
+      "Andreas Hellander"
+    ],
+    "themes": [
+      "autonomous weapons",
+      "military drones",
+      "NATO",
+      "lethal autonomous systems"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWQ5cG5Nd2tQMEZ6MnBtaGNKVkhEYXl1QUt0cDRleHpUZTRQVUk2MG42eURhTDNkcG1NOWJXeEFVa1RFNEdoUEFZclhTcHZOTy10dUNYWGVaemZFaFhYcUN4bGc1cHVpRWVqcWRuWnNzT3dKYnl5S1pTZGRfOEllMWczNTFlS3RJLUFsbG00UVdHWlFpUGNjVDVfLWg3THRrdU5sVEtLLW10ZFoyLVdCLWdIbTBuNlE?oc=5",
+    "title": "NestGen ’26 Reveals Speaker Lineup for Drone-in-a-Box and Autonomous UAS Operations",
+    "source": "uasweekly.com",
+    "published": "Wed, 16 Sep 2026 10:39:57 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "NestGen announced a fifty-speaker virtual conference on autonomous drone operations, featuring Shell, Texas Instruments, and transit agencies discussing real-world deployments.",
+    "companies": [
+      "NestGen",
+      "Shell",
+      "Texas Instruments",
+      "LA Metro",
+      "Dutch Railways",
+      "SQM",
+      "MPA Singapore",
+      "Skyports",
+      "FlytBase"
+    ],
+    "people": [
+      "Nitin Gupta"
+    ],
+    "themes": [
+      "drone-in-a-box",
+      "autonomous UAS",
+      "drones"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IRDRIak1PWjJTLXFYM3J6Mlp2cEJvRnB4a2c2Y3NnRzJrLXAyMG5WNDVUMXNQQzQ0QlY0b09IMW5IVkFMeHZ6VExmektQdTh3cDFacWwzWmxEV0R1bmVYdy1EcGZGSFktcU9HTWJPUdIBdEFVX3lxTE9SVEFORkNLb19idldHUUlERk5GOE9LeHlZN2NFamlTYnRiRGEtZkpDQUtvci1kclM3OW9UVlVsSjJrTTdwU0xLUldiN3d0Y0xPVFNrTlVWTC1fN3BEb005Y3ByMVM4aENwZHVYRndzUU5vYkNx?oc=5",
+    "title": "Swarm Aero’s Missile-Carrying ‘Gamera’ Drone Joins Race to Replace MQ-9 Reaper",
+    "source": "The Defense Post",
+    "published": "Wed, 16 Sep 2026 11:26:27 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Swarm Aero unveiled Gamera, a missile-carrying drone designed to compete for military contracts currently held by the MQ-9 Reaper.",
+    "companies": [
+      "Swarm Aero"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "defense",
+      "missile"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXdralNFNGc1OENZT3AxXzN1RlEyaDhQbnFYS2JNd1BEUkEzX29ZVWtrLUhBV2JWZTVINGZLZlFSS2FCQ0VGdE56WW1raVFFQ0NpdFJoSzgtYTdMYU9ndU03SHlGYnNmRnlxdWh6YW9ZejdoWjkycXQtdkN2cVZpTjNpWE5WVjJr?oc=5",
+    "title": "Video Third patient to receive Neuralink has heartfelt moment",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "Sat, 19 Sep 2026 00:45:43 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's third brain-implant patient shares an emotional moment after receiving the neural interface.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "patient outcome"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ppckQyOHVrUTZUUExLWXdJMWZjQUEtN2xJcjU2WENncGd4a0FmUXV5M3NYZUdCYVJOTmhQMjAtSC1HQVM3eFFmMmQyTFVXc2NRT1N2ZE9oUlQ5dVZYbEQ2NmRmMkdYaEh6dktKM0M5OWgyZFE3UXQxbVdkUG45M19CbXVLcVdqWnhJc3JfYnkzZm1oWWh3ZFJTYUU5cmFkUWRLSUV1MzdjZEdsRFJHMHV0bmZQQQ?oc=5",
+    "title": "Elon Musk's Neuralink Brain Implant Helps Speech-Impaired Man Speak First Words",
+    "source": "ndtv.com",
+    "published": "Sat, 19 Sep 2026 11:55:32 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain implant enabled a paralyzed man to speak for the first time, marking the first clinical demonstration of Elon Musk's neural interface technology.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "speech restoration",
+      "paralysis",
+      "clinical trial"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUW1oTllUSnMyUUctT2FLZzYyb284SDc4dlpUUjZPUXh2R1YyUU56Y19TaUFXdGhTWDJqTTc1MXhxRWlGeUZBaXFtMmcxMEhDN1VEX0t4eHcwbzlySk9zeEM2ZUJPRjkxSTBGQW5tSmFUQ0UzNkg0M2wyYzNjZmMxU2JuT09qYnpDY1E?oc=5",
+    "title": "Man with ALS communicates with family using Neuralink",
+    "source": "Yahoo",
+    "published": "Sat, 19 Sep 2026 11:09:57 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain implant enabled a man with ALS to communicate with his family, marking the company's first reported successful patient outcome.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "neural implant",
+      "patient communication"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMV9qM2c1SnFMQUIzc0c1ZExoak02SGdseEs4U2c2RnRRUUZYTWFiNHJnMWlROTRxSTZvM1VvY0E0NWZBUGNCVVBQYUVQLVdTbXRNZzVtUlE4Q25jUE5UQ08xdFV0T18zNndiWnVXOVJHRlNybkxJYWljdGJBZm52aU9EWWE2elF2YlBkMGFKZy1uVjNZU3EtLXU1YnE4TXFFbDhWOVNOaTQ1U1NYRjVhdFNvRVZPMUd1Wi0tZGozRlptMkdrbUllQ1FqaUZhYUIycXpsb095aUhEeG0xYlhlODg1dVJTb09fSHNvdw?oc=5",
+    "title": "Third patient to receive Neuralink has heartfelt moment",
+    "source": "Central Oregon Daily",
+    "published": "Fri, 18 Sep 2026 23:48:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's third implant recipient experiences an emotional moment with the company's brain-computer interface.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "patient outcome"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNXRYWjVMa3JDYkQ2LUR5VlhGM3ZuVTUzQnBzbHEtSnVDdnA4UHlxT3ZLcFFic3g2eXNLdlRaYnNsOEVuaUVhQmhDRXhUOTlOandQSVRXVHZFeHBRb3k2UUUySUFaZGk5WmxzVzVLNEVYaThsX3N2b25KZU1JSDgtMWYzZjdwNDlEMWVrd01meWJiXzRJcHNiQlhmSTBYaWl1Z1dzeVRWQ2NuajVOM3RkRVVsYXRoRUNhVUc0U1N2UmQ0Z3ZTYVh1OGVZRHNfTTU0SDcxc3NXWTZheGNpejRPa2UtNDFZaW54NjNnVHpfRVZyV1RJNjZNanlFM1JuVXBXdGNmQ1VWaHdMYWpHUDNqWWlJdVdFN0wzU3RvUGEwcXbSAaYCQVVfeXFMUC1WdGJxRjVXbFpZODZtNEFCSG02M3d4Tjd3SFFoZ2o0SWtXbUFvek9CTjB0U19VbndPRjg5ZFZjd1NtUFVLYVhuZXpYdVB6NXMwNUlDRDUxancycS1MQzYtOGxhTmgwbWJDbHlfcHBDa2RCN185MXBFRmg1TTBReFVXeHVxcVQwejVTU002V2w0YjEzYlJUUnMyNGpqSUo0NXRJNDlkbE9RdmRuM1ZTbHZpTFBUTS11cjVwZzhZSUFkdF94anpmU2huWG1CcnRaQTZ3eWtaYVBpZFY1bkdsbGJmeVNYZUdRcnBRM2JsZ3NMdnRRWlZ3THhTYmhRRzcyRzVjU2tUUXEwem9rRVZIYUstTlg3QTJISVBGRDd4U2RkaTBkbW5n?oc=5",
+    "title": "Elon Musk promises 'Jesus-Level' miracles from Neuralink, here's the 'beautiful surprise' that made him s",
+    "source": "The Times of India",
+    "published": "Sat, 19 Sep 2026 05:10:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Elon Musk makes extravagant claims about Neuralink's potential, comparing the brain-computer interface startup's prospects to biblical miracles.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTDlqT1FpdnFXN0lsZkFOTGRDdmZOSnJpVjVfSnp1V3FCWmZ0c3pYNE5qeHNoTTE2cFJrV3pGNFZfNWlJQ25WMHNOVnU4cVg4ODJwYnlSSEJjSy03c3JSUk9VTDZVQkV2ZGx0d1ZPbTRnRkUwNF8wZG5YeXZqbmJ6LTlYc0g2QUlqUUt5cWZia29DNXJNaWh0OG4yNGR3QWRyTlhPeEdiUUpnZnJiWmfSAbYBQVVfeXFMUElNWVhrUE0yOVdEbHJuUXI1ZHpySXp1ZnZOY2NYV1Z2MnVkN0ItS2ZTWlY0UjlucDJDc1B3YkV1eGVYaXlRdDJETDBqZU8tYTludjhIcHRCdjFJZ01ScVlOak44eUFhOVFZN2VwbDlTOTUyT0NmQXc1dXBjU0x6QW5NaW16b05xRE1TTXQ1VF9qN3BLQ3AzcmVfYklKekVVUVZtanJpWjBvaG5LcVRPLU41RnFCSGc?oc=5",
+    "title": "Speech-Impaired Man Uses Brain Implant To Say \"I Love You\", Video Viral",
+    "source": "ndtv.com",
+    "published": "Fri, 18 Sep 2026 06:40:42 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A speech-impaired patient used a brain-computer interface implant to vocalize ",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "speech restoration",
+      "neural implant"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wayve.ai/press/wayve-appoints-elisa-de-martel/",
+    "title": "Wayve Appoints Elisa de Martel as Chief Financial Officer to Accelerate AV2.0 Commercialization",
+    "source": "Wayve",
+    "published": "",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Wayve, the London autonomous-driving startup, names Elisa de Martel as CFO to lead its push toward commercializing its end-to-end AI driving system.",
+    "companies": [
+      "Wayve",
+      "Uber"
+    ],
+    "people": [
+      "Elisa de Martel"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "embodied AI",
+      "commercialization"
+    ],
+    "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
     "duplicate": false,
