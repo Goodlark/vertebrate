@@ -55927,7 +55927,7 @@
     "first_seen": "2026-09-13T17:53:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -55977,7 +55977,7 @@
     "first_seen": "2026-09-13T17:53:16",
     "week": "2026-W37",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59976,7 +59976,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -61096,7 +61096,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61336,7 +61336,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61470,7 +61470,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -62656,7 +62656,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -62735,7 +62735,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63153,7 +63153,739 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekU5Mm5UYWpVM2JaeTliTnA0c05lNVkwZ1NPYUFqT3RhVDY4cHlTWld5eDJuaGwydloxWDgyM01IZVotQXlyZFZrOHRHelNaVVZyLU5vS0N6dm1xdzJhZDBjYlVPeTJnYlJJbGNsX3dqRDVPUVdsMWNkZzNSdGZVdUtoM2NvSzg?oc=5",
+    "title": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
+    "source": "Futurism",
+    "published": "Sun, 20 Sep 2026 15:01:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Agility Robotics unveiled Digit 5, a humanoid robot that drops to its knees when humans approach, using Nvidia's AI chip to prioritize workplace safety.",
+    "companies": [
+      "Agility Robotics",
+      "Amazon",
+      "Toyota",
+      "Nvidia"
+    ],
+    "people": [
+      "Pras Velagapudi"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "emotion simulation",
+      "robotics research"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQckJBczFpemNRSDlGN2Zna3VidkFOdEFNWHRKLXo4VndCZ0tmMVZwNVl0aXpkckpTMGE0RmpFVmZRbU14RVhRRHAydkNnczhXaENGdjNFdkIzcTJOSXY0ajQ1Qm96MVUwS1NKeFhoZk1uY09vNzcyZk5XWGJibjctR2FNdS1Mem1kSVdlN3NaSjhIdUZub1BLdzlR?oc=5",
+    "title": "XPeng (XPEV) Stock Looks Fairly Valued On Humanoid Robot Production News",
+    "source": "Yahoo Finance",
+    "published": "Sun, 20 Sep 2026 07:14:18 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng announced production of its humanoid robot, prompting analysts to reassess the Chinese EV maker's valuation.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics production"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnJVUHZCOVlaM2tIaVRWZVN1ZkU5THJ6Qm5lT045aVVQaEYtSHM3dUwyYVBSQnZHbkNSUGI0R3U1NWVXdTFIekdkOXBjTXNmNlN1RmFheGpwVFF4SFlBWmZIelI1UFk1RWdVWFJWRndBZDM2dWQySEdKdmk4TVM2MWd1dTg2Y2M?oc=5",
+    "title": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+    "source": "CnEVPost",
+    "published": "Sun, 20 Sep 2026 08:42:30 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Dongfeng plans to trial-produce humanoid robots by year-end and claims it will reach human-level capability by 2027.",
+    "companies": [
+      "Dongfeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1hPLUpWbDJuZGIzRjFxbE9WendUeUhYVlA3dTJkYld4Qm9YYmFYOUZFbTV3dk9lNXhrZmtZbUtLaGZlUEIycWZsOTROOXZxWFRtY1FoWDN3Yk5ZZEdrcU1ZNmJieF9NVU1IM3VGZmpCLVlIOFNMZHFsSXJ0OUZJeWNRN3dYY1N1Z0RaZVZZcmRLVDZQZXBIYnFLQ2hYa2PSAaQBQVVfeXFMUEk3Wmg5WWYycnVMenZFUGtXZU40MmtqUFRGQ2I0YzF5STl5SWo0dndyaFZSUENteWJTUmNuc0RnTDBrM3hhdkg1QnJnSnJja0RENXNrTzhwNVNnYm1tcGNNZENKM1NlalBhVUNmNUFWZVh3U2F3bDNQNWo5c21fb1JUZzFIUHlEMlQtS3BJT1FtV1ZiZWt2QnpEcXdnS0t6YU1WX2w?oc=5",
+    "title": "Humanoid robots fight in cage match in Shanghai",
+    "source": "Al Jazeera",
+    "published": "Sun, 20 Sep 2026 14:12:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AI-powered humanoids squared off in a steel cage match in Shanghai as part of the Ultimate Robot Knock-out Legend league.",
+    "companies": [
+      "Ultimate Robot Knock-out Legend (URKL)"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "combat demonstration"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFdYWnBQN0JBWG44Zkx2N3lMb1ZJT2k0eUhaMk9yUWZab3FzemVVS2czTTRaeDZWMlFZNW9CUHZoX3VxUGc3ZDJ0dTRZTFRQVHVMOFBRa2xFejVlQU1PSTctc2t0QWlqdU1KMDNsandYN1JQWHh5ejJYM0VmUWhmbE9fcUJ6dTFyWEFtbjIzblJNV0l2M1E?oc=5",
+    "title": "Toyota Estimates Spending $6.4 Billion a Year on 400,000 Robots",
+    "source": "Autoblog",
+    "published": "Sun, 20 Sep 2026 15:50:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Toyota commits to spending $6.4 billion annually to operate and maintain 400,000 robots across its manufacturing operations.",
+    "companies": [
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "manufacturing",
+      "robotics",
+      "automation",
+      "capital expenditure"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkc5S3Q0TVg5MkJZV09kZ0QtUHRRSU1YdmFScHBBZTBrckwwRjJvR3RQbGgyMGRnQnRzV1QyUkZZRHd6SDV0ZGplakV1REtwWS1zQWZMU3N2eFY4OGlfVXZEbEt0U1RubmlBYmg0S2M5V01oTXVuRERVUzNob0FhTjJIS1JmOFQ2bVBoUWt3?oc=5",
+    "title": "Unitree Robotics' Humanoid Advances to America's Got Talent Finals",
+    "source": "조선일보",
+    "published": "Sun, 20 Sep 2026 15:35:25 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree Robotics' humanoid robot advanced to the America's Got Talent finals, marking the first time a robot has reached the competition's final stage.",
+    "companies": [
+      "Unitree Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot performance"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEdVVDRDYnQ5bFQ4RVo1OEJlYU1SeTQ2THM1X2Itbi1xY2tndnl1R1NDUVJQQUhvS3FUbTZhRk9aRWlMWGN5LVBXTFIxbDgzQWVYczlfcFB3UTFtbkxwcm9VcW9OSGxUY2Z1aGtScUEwOE01ZTBxV0Z6Y3M0enUwWktuMHpZSVlYRGVXWXU0bTRWNTdYZWhDSzhUMA?oc=5",
+    "title": "Local EV drivers say Waymo robotaxis 'hogging' public charging stations",
+    "source": "ktnv.com",
+    "published": "Sun, 20 Sep 2026 12:52:08 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Las Vegas EV drivers complain that Waymo's robotaxi fleet monopolizes public charging infrastructure.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "charging infrastructure",
+      "public utilities"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd3h6V09wS1Z0UW1QVlE0REZQLWJOYzJWSnVQQ0s4SHkzb0RzMjBRRWZGeGZlM2pqdThyNDNQejQ4N2g0Rl9fNFZ2SUtfcTB2b2JUaVZmaDlZZ0lGMWNRbGhyZmg3T1BkcjZ0SnZxRFliVzAxLWIxakZxejdJcjI2bmdudWVrQ2pzZ2pRV2JSbDFydlE?oc=5",
+    "title": "Your robotaxi might be a narc",
+    "source": "The Verge",
+    "published": "Thu, 17 Sep 2026 15:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo alerted police after its cameras detected a gun inside one of its robotaxis, leading to the arrest of two teenagers and raising thorny questions about surveillance and privacy.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Julia Ilina"
+    ],
+    "themes": [
+      "driverless",
+      "surveillance",
+      "robotaxi",
+      "privacy"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlhmaEs1dThaakY5VmFGd2tNM3pmUC1laHhrSzhyWklMRGp6RW4xSjhsUGRVOVhvM1R2dDJSZVgwd2NPdlJCM3d1X2ZLY2JERk9IR0J3by1RLUdPMkZFYXJmWDVZbUQ4dEFvWjlYYWhLUUpxZGZBWDJvbmpaMm05UHRTWWF5b1RuUDhhUW9WdTBXU1ZyWlZSdUktNzF6VXFBVHRxS2E1eE9nOUlsRDZZc1930gG3AUFVX3lxTFBBbmtmQ2txQUdqSnNoLTFFaUZLRGlib25wN096RUQxSG1FOFc0VlRSMGtqYm9TSVljcHM0YWR1Q2hwUmZTdFlia09rTUE3UVdXcW5fQ3BhdFNRYkZULWdLNHpsU25sMzYzcHpmZk5qUW90dEJzU3Z2ZDItTGYxend5bFZjVEhnMkVOZFd5bkhfb1doQnFnS0wxN2dYaTV3R29EOE9DZmg4Qmc0Vlg5MU03NDF2ZFcydw?oc=5",
+    "title": "Video shows Waymo driverless vehicle stuck in 'AI loop' on flooded Phoenix street",
+    "source": "Fox Business",
+    "published": "Thu, 17 Sep 2026 17:24:44 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless vehicle became trapped in repetitive behavior on a flooded Phoenix street, unable to navigate the hazard without human intervention.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "edge cases",
+      "failure modes"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkxkN0hIUlNtUDJNQU5JTU40c3ZhQzFDd1FhSW0tcm92OHc5dmFSY3hYc1pKczBFaEFaT1poOG1Ca2hMNDYxd2l3dW9Ha1hna1dNNGI3QkJCT0JmS256Skl1WDlnN1NLdXBvMG9GNktxVS1RODRJaV9vUmF2dE5pTVo0cFE2NDJuRFBEZDNLME4xQmpBNldjMlIxTEFIamRNYnpuaU5BMWFPOEs4?oc=5",
+    "title": "Waymo in Minneapolis: City council considers ordinance that could ban driverless rideshares",
+    "source": "FOX 9 Minneapolis-St. Paul",
+    "published": "Wed, 16 Sep 2026 16:15:50 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis city council is considering an ordinance that could ban Waymo's driverless rideshare operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "rideshare"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbnY0M09vbG5feXcwcUh5QU9Yc1pacTFwZkZjQnRlRy1XRmh0eVVoX3BuWFFfOXZLcTJ6MFFNQXQwdUtWUEZSdHNXOEluLWFTOGFKWExLdEh3cTJMd21HeV9CbEU3ZERoUkx4TkhzbzBiZjVPTF9vUA?oc=5",
+    "title": "Tesla Robotaxi’s Missing KPI: Productive Hours",
+    "source": "techi.com",
+    "published": "Sun, 20 Sep 2026 13:28:23 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "An analyst questions Tesla's robotaxi metrics by pointing out the company hasn't disclosed how many hours its vehicles actually spend earning revenue versus idle or in maintenance.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVhWcjBXMVhrSkpsZGVuMUFuVC02ajlhRmpQS1NpbTR0RnNuekF5S2dmVzFMTElVd0t4dEdzTzBsZVZyRElIWWhVQkJXMGRIQ19ybXhpWHkxYTU3U2ItYi1fa3hzLVhxcFhXcUhLV3IwOTdzN3B2UkFKTVY2anIxRFNwZU5rdWVrdlZnLTB3czlfQWM3ekdZMQ?oc=5",
+    "title": "Waymo's Fleet Footprint Draws Local Scrutiny",
+    "source": "Yahoo Finance",
+    "published": "Sun, 20 Sep 2026 09:45:09 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's rapidly growing robotaxi fleet is becoming a visible, sometimes contentious, presence on the ground. In Las Vegas, EV drivers complain that Waymo vehicles are hogging public charging stations, crowding out ordinary electric car owners. Meanwhile, in what may be a related sign of scale, investor Ross Gerber says he stumbled on a 'secret' lot packed with hundreds of idle Waymo vehicles, hinting at an imminent expansion he can't quite explain.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Ross Gerber"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "charging infrastructure",
+      "public utilities"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVhWcjBXMVhrSkpsZGVuMUFuVC02ajlhRmpQS1NpbTR0RnNuekF5S2dmVzFMTElVd0t4dEdzTzBsZVZyRElIWWhVQkJXMGRIQ19ybXhpWHkxYTU3U2ItYi1fa3hzLVhxcFhXcUhLV3IwOTdzN3B2UkFKTVY2anIxRFNwZU5rdWVrdlZnLTB3czlfQWM3ekdZMQ?oc=5",
+        "title": "Waymo's Fleet Footprint Draws Local Scrutiny",
+        "source": "Yahoo Finance"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEdVVDRDYnQ5bFQ4RVo1OEJlYU1SeTQ2THM1X2Itbi1xY2tndnl1R1NDUVJQQUhvS3FUbTZhRk9aRWlMWGN5LVBXTFIxbDgzQWVYczlfcFB3UTFtbkxwcm9VcW9OSGxUY2Z1aGtScUEwOE01ZTBxV0Z6Y3M0enUwWktuMHpZSVlYRGVXWXU0bTRWNTdYZWhDSzhUMA?oc=5",
+        "title": "Local EV drivers say Waymo robotaxis 'hogging' public charging stations",
+        "source": "ktnv.com"
+      }
+    ],
+    "body": "<p>In Las Vegas, electric-vehicle owners have started noticing a pattern at public charging stations: the plug they need is already occupied, usually by a white Jaguar I-Pace with a spinning sensor dome on its roof. Local drivers tell KTNV that Waymo's robotaxis have become fixtures at shared chargers around the city, sometimes for stretches long enough to make ordinary EV owners wonder if the infrastructure they helped lobby for was ever really meant for them. Waymo began commercial rides in Las Vegas this year as part of its broader march beyond San Francisco and Phoenix, but the complaints suggest that a fleet built for scale is now running into the physical limits of a city that wasn't built for it.</p>\n\n<p>Eight hundred miles away, in a lot whose location has not been made public, investor Ross Gerber says he found something stranger: hundreds of Waymo vehicles sitting idle, parked in neat rows like planes grounded by weather. Gerber, who holds Waymo-adjacent investments through Alphabet, posted about the discovery as evidence that \"something crazy is about to happen\" — a fleet staged and waiting, he suggested, for an expansion Waymo hasn't yet announced. Waymo has not explained the lot, and Gerber's account is speculative, but the image itself is a useful one: a robotaxi company that talks about \"learning\" and \"safety data\" is also, at bottom, an operator of a very large and very physical vehicle fleet that has to be charged, stored, cleaned, and parked somewhere.</p>\n\n<p>That physical reality is the real story here. Waymo has spent years positioning itself as a software company with a driving problem solved — the glamorous part is the AI, the sensors, the millions of simulated miles. But a fleet of hundreds or thousands of EVs needs chargers, and chargers are a finite public resource that cities have spent a decade building out, largely with the assumption that they'd serve individual car owners topping up overnight. When a well-capitalized company shows up and treats those same chargers as fleet infrastructure, the math changes fast, and so does the politics. Las Vegas's grumbling drivers are an early, small-scale preview of a fight that other cities — Phoenix, Los Angeles, Austin — will likely have too, over who gets priority on curb space, charging bays, and parking lots as robotaxi fleets grow.</p>\n\n<p>It also reframes what \"scale\" means for autonomous vehicles. The industry's public narrative has been about miles driven and safety records; the quieter, less-discussed constraint is logistics — where do you park a thousand robotaxis when demand dips, and how do you keep them charged without starving the public grid meant for everyone else? Gerber's mystery lot and Las Vegas's crowded chargers are really the same story, seen from two ends: a company whose ambitions are outrunning the unglamorous infrastructure required to support them, in cities that are only now starting to notice.</p>",
+    "slug": "waymo-s-fleet-footprint-draws-local-scrutiny-06b163"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTVYT2lkMGhLMkcyaVVIeXdURUdfTFV6MGxkcDVCU1VQaGRlRUdOdzhOd0ZYZ2VuT1p6eEdDYThUb2poZ01KOHo2YU1RMTdKcEtKdUhBN2NTRjNGV3pJTFVrUnlEN3BOQzU3QjVSWTE3VXJ0bjZlbkExUDJDeTFlQlROQXR5dGFpbWtXdmtoNTdRQ3lWcWc?oc=5",
+    "title": "Lucid Motors has a potential robotaxi partner for Europe",
+    "source": "TechCrunch",
+    "published": "Thu, 17 Sep 2026 13:26:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Lucid Motors is exploring a robotaxi partnership in Europe, diversifying beyond its struggling luxury-sedan business.",
+    "companies": [
+      "Lucid Motors"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVVyTEl4ZDh0XzFaTC14M0wzcG43R2xwSmNibmlMTEtfbXZyalFLM3ZLalNCcEh1Znh4ZGdEdXZNdE1leWxaTTBsZnE1VlVKMWx5RTRnQXJrSkNKbDRxaktUUGczUDlYSncxa3JSakt4RWtUOFdUOVBaMy1uWm5uVUpvQnpFMjNza2VIN3hrU1ktZjN4WV9NQjBxbWY3RktwZjJDRlF3?oc=5",
+    "title": "Opinion: San Diego’s driverless future requires a public report card",
+    "source": "Times of San Diego",
+    "published": "Sat, 19 Sep 2026 21:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo's driverless taxi service in San Diego should be subject to quarterly public report cards measuring street safety, accessibility, emergency response, and labor impacts.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Shikha Bansal"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "transparency"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2RrRUp4V1N0VHRXUVgzWTgtbXY1ZmIzenJVVFdQMTVNazBXQ3NRRTZscjdkTzVOWENyWlh3ZndNYTc0aDZoMk9YbHV2eUEteHVXNEN1UV94eHp4eV9PZTVMc0tFTGJ3WlNlb21VY3hHQnQxVnlna1RmVG5PcFNVaEVhOVZaQS1BbzJsbTlzc3J0NlJORFlVbjA2Y2dNWGxyeGc?oc=5",
+    "title": "Hello's robotaxi arm Zaofu raises $100M to build 10,000-GPU cluster",
+    "source": "Dealroom",
+    "published": "Sun, 20 Sep 2026 14:53:21 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Hello's robotaxi division Zaofu raised $100 million to build out a 10,000-GPU computing cluster for autonomous vehicle development.",
+    "companies": [
+      "Hello",
+      "Zaofu"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "GPU computing"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOZTl2Mnp1RWFxRTIzVEsxNDZtenlDdmFsbFl5cmdrTk42REtzSFNCZDcyUjJSWFVIcHhRdkROcmpRc1E2Qm1YX1pNTFVtMlR0cGZKMU1lNlVINUEzVWJ3Y25wdGx3d2tNUHA2dlduR2pfS2w3eVYtalk1QXNYWFR3U1o1OTgtN0FYTU5PU0cwbzNYQl9QUU5YX3Atc194UnYtc2lmOU43NHI1ampQWHFEN0FLd3haRDYzcjlhNjNtNHQyZkwydFZ3RUY2ZTQzQ3NSN3h6MHlQREtCa0xMQVBqZEhIWnRrcjU2d3AxdzQtLW1HMjc5OEVza0tzanpzWFp0eUl5WEg1d0JMN0ZwSHMxRFBDeGdnekd0Z0prdEY0azFoYlBjazcyM2Q3X3Q3cmRwdVRlNVNFM0w0dFVrOC0wb3ByNDFuZHlrLXBxcU1fa1RCSWRXandYRlZn?oc=5",
+    "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
+    "source": "Tom's Hardware",
+    "published": "Sun, 20 Sep 2026 11:20:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A Swedish startup has built autonomous attack drones using Nvidia's Jetson Orin Nano that select and strike targets without human control or external communication.",
+    "companies": [
+      "Nvidia",
+      "Swedish startup"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "weaponized AI",
+      "edge computing",
+      "military robotics"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN3l0UDE3NU4wUml1aU5fY2I3bG5QWUpQTnRONExsX2c5Y3Nmd3Y5TnRaV1BlRDA5c3pNci1pSEd0R3BaMTBadUcxc0c5bjVjYzFHXzJ2aDYxTEdIU01zUDlObTVJRHJlZzgza0hVVUhVSVIzekVBUVFlYU0tVTlOWnJEUzBIamJVOXhud01YZWo2WWgycEh4UE05Qzc?oc=5",
+    "title": "China pairs undersea drone mothership with multidomain war vision",
+    "source": "Asia Times",
+    "published": "Sun, 20 Sep 2026 04:45:25 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "China is building a 200-meter mothership at Shanghai's Hudong-Zhonghua yard to deploy and support massive undersea drones across the Indo-Pacific.",
+    "companies": [
+      "Hudong-Zhonghua"
+    ],
+    "people": [
+      "Daniel Shats",
+      "Sorin Adam Matei",
+      "Zachary Kallenborn"
+    ],
+    "themes": [
+      "drone",
+      "military",
+      "unmanned systems",
+      "naval",
+      "China"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnZOX05nWnZpRkEtLVlramh0OUJaUVlFMnZ2RVBDVEhLNXRXMkpId19RdzA5aWlMV25XdXVwdTFVWlRja1JMbUowMVVuLXYtb2ljeTVDWlJjc2hkUkJzUUpBZjgwaXd5LV9tbFJrbFoxTXBfTkpORVowSmRreE04MExLRVNBcDg0T1BuVzFXRzhmOUExMUZDaldvSjU0cHJW?oc=5",
+    "title": "EVA DEFENSE UNVEILS NEXT-GENERATION LOW-NOISE AUTONOMOUS DRONE PROTOTYPE DESIGNED FOR STEALTH-ORIENTED OPERATIONS",
+    "source": "Yahoo Finance",
+    "published": "Thu, 17 Sep 2026 12:15:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "EVA Defense has unveiled a prototype autonomous drone engineered for quiet, stealthy operations.",
+    "companies": [
+      "EVA Defense"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "stealth",
+      "low-noise"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVlEbjhRbkpTazI0WFlWWXMzX3hKWFNoc1BTbTBHcHVLT0pxaFRzcDI2Q0tIUnpFWTB3LXp6b3l0WDB3ODJPaGMxVGFNU3JhREdLUmNJb0xqbUdRMEdvc2FWTG04Yi1xMkVKeEtfR1g2MzF1OUs2T0k5LVVRQmtZMFM4aHlVa3NMVnhtNlF2U3J3UVNjNmt3?oc=5",
+    "title": "Airborne 09.16.26: Amazon Cuts 21 Air, Autonomous SkyCourier, Tourist Drones KSC",
+    "source": "Aero-News.net",
+    "published": "Sun, 20 Sep 2026 05:45:42 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Amazon has cut its 21 Air drone unit while scaling its autonomous delivery ambitions elsewhere.",
+    "companies": [
+      "Amazon",
+      "21 Air",
+      "SkyCourier"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "delivery",
+      "autonomous",
+      "logistics"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVhjLWx6Um5aeTZPTmk3ZUlVZktnN0pUaTdfZWZQSHBFaFJRRF9LcWpUQVJEVWZRbGV6TThEM0JIOU1rdXZDMVZxbGhWYVkwZUg5TGNqTXoxZWJMT3M1TWFIemxNNHpReTJsZjk0VGJ5cVlSaWp4VzRVYnBnRzBsdzk2V2RITkxGajk2a1Y3V2trQQ?oc=5",
+    "title": "ZenaTech Selected for Canada's Defence Drone Initiative Marketplace, Expanding Opportunities for ZenaDrone's AI-Powered Autonomous Drone Solutions",
+    "source": "Yahoo Finance Singapore",
+    "published": "Thu, 17 Sep 2026 12:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech's ZenaDrone has been selected for Canada's Defence Drone Initiative Marketplace, gaining access to military procurement channels for its autonomous drone platform.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "AI",
+      "defense",
+      "marketplace"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlV0bm42bnlFdVc3Q1NSWTh1U1U1UC1yMlRIdTIzWjJwTWRvdGRUMnF5ZFR4dFZXNF9Ic0pldWlkekZhem1tMUs5bF9saXFYS2doSG9BYkRqRXdBMkh5T1A1ZHd0YnRrQzBjdDVydmZJR1hCWHdsajRHcEZWRUhiMFdJU1MyUThGVi1mdV83cmNBMHlpYVBteGMwLW5MYUxXVUppWg?oc=5",
+    "title": "The Drone Arms Race Is Here: Military UAV Market Projected to Triple by 2032",
+    "source": "Investing News Network",
+    "published": "Thu, 17 Sep 2026 15:26:13 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The global military drone market is projected to triple to $47 billion by 2032, with ZenaTech now qualified to compete for Canadian defense contracts.",
+    "companies": [
+      "ZenaTech, Inc.",
+      "Fortune Business Insights",
+      "Allied Market Research",
+      "Northrop Grumman Corporation",
+      "Department of Defense",
+      "Government of Canada"
+    ],
+    "people": [
+      "Shaun Passley"
+    ],
+    "themes": [
+      "military drones",
+      "UAV market",
+      "defense spending"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83aXZldjdqVzI0VDFBQkxWNm5qT1hVd2xySUF0ZXFBQ2U3UDBaRGNqUUZScTdsZF9RQmh2endLSTdpMWNjS0J4TV9OOGo?oc=5",
+    "title": "Video Third patient to receive Neuralink has heartfelt moment",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "Sat, 19 Sep 2026 00:26:43 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's third brain-implant patient experienced an emotional moment during a video appearance, marking continued progress in the company's human trials.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "human trials"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQc0o5cDVkb0hVSlVpTW9fZzA4djdqX3dRVC1qeEJ5RTE5WWx2U21nUlFzM0NVMHdFTzNGU2NiWHd5ckNPZzNJUTlfbEtyZnFXR2dMMlNsSzJuRjBsSkFhRDNqMGx4UzBZTzhhTm5tMmVpLWV3TjQ4emJFcTkzdlU4QlRoY2xIa3NGUmJkN2Z6SGkxRkJLVlpHZ2FJR0RpRTk4aF90YVAtb1hJbGdCakxkODNPSmRfSGEwalN5dUY2ZXlfWU9BUHlwamVWSXQ2X0N0MEFDMm45eDU1bHViREdtVUJ4RkVrNnNYLUpwWlFCLVc3TUlfSzlxMUdjMEtxSDEwTWtIQXc1blpVbEUtdXh0b2VR0gGXAkFVX3lxTE9oOTc4MTBNaVZHR2c1azR2Ri1sUE1vZUR4dlZIOU1oZ3ZvWi1wd1pOcVpGRmhVRGl0TjlDbXJiQTNCenlrbXA0Uzk0UU5BUjRCZXV0bmExS1A5ZlRuTXB5dHU3cmdWTjdxWUozT21iWDFJLW16S0lzNFR2cHVwSlZvWnlpQlN0d2xsY2dJa3JJU0hmOVdQYnZ1VV8wZ3FaR2x5Tkdab3dfQnNtdWNLbHBQdzZhZ2JwLWVDXzFlUVktYmpxOGVYbldRREkzNmpvMlFXZUZyNjc4cVRtU1JoWFBfM0VfUkF1UkNDRHlLeEpJNVl0aTl2WTRvN05vZ1ZqTDdheURhZ01Wd2tJWDJubmIyakcxRzlYRQ?oc=5",
+    "title": "Musk’s brain chips make stunning new leap",
+    "source": "News.com.au",
+    "published": "Thu, 17 Sep 2026 18:54:03 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink, Elon Musk's brain-computer interface company, has announced a new advancement in its implantable chip technology.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "neurotech"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU91NHlvbWJhX1BTeHc5ZjhiQU5YYW1nMlE3Y3Y0enhyYjV4U0xMUGpfYlp4YmNrTTIyaTg2bkF1dHpLYVlFSzFkbG8yNVhmOU9kbDBqQ1FjNG1LR2RPZmhoN3EtaTU4enluRGJ0Mlp6aS14eDFESnFEVEU4TmtiOTNMUVVVQl8yTHNaRzZGMkl4WXNhRlBKZjBmTG1McWZWYWc5Y1hyYjByTS1UQ1HSAbMBQVVfeXFMTmwzMGpySDRCTGNVdnd5WnhJVlF1R0FhLUhvX3I1MUpCQlRMN1hGR1JYa3l2ZXR4Y2NjOHJqOXBzUzhtZV9NZzA1WVlsUW1NV3U4T2hEUXpBSmEwQjBDTDRITG1zclRxcU12S1AwQXN6V0wyVU9wZVY5ekZmWkp5WlFBOTgtTHY5Y29qcDd3WV9kUlBsWllqZ2EyV2VhejAxQUUyazlWZUQxVEVYZjAxTzFLTEU?oc=5",
+    "title": "Neuralink helped one patient communicate using a synthetic voice",
+    "source": "WION",
+    "published": "Sun, 20 Sep 2026 07:50:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's implanted brain-computer interface enabled a paralyzed patient to communicate through a synthetic voice, demonstrating the technology's practical application beyond initial trials.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "synthetic voice",
+      "neural implant",
+      "communication"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RYm5sTXU5enh4eENVY2JCamxLY3hWUXpiVDJPXzJ0NjhyVGcxTXBXSHA2UlZFeUNfeEFCMW00Z05EOExPZ2hxOGN6VE8?oc=5",
+    "title": "Video Man with ALS communicates with family using Neuralink",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "Sat, 19 Sep 2026 15:23:14 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain implant enabled a man with ALS to communicate with his family through a computer interface, marking an early milestone in the company's clinical deployment.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "neural implant",
+      "communication"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSFN3Mm9vQV9LNnoyM2I2VTRkM3VZbHl5SkxZU1kxZWlwaExqWGFPYUZzcUNSNVVUUjJxdEU3aWwyV2d6NFFlWUVuZU9lN3FJczAya1R5SVRZdm15TUE3MVN0TFRIcHFDZXJ0SFQ0Y09ueXUxY3JQX2J5bHpXRExIQzRBd1JTczJRcjZyS002VnJiRW5CdVB4ckdQVFJJeXZVMkRJQW5FNF9sZHJOUkZnTC02eTBEWGNjN1R6eFFqMG5vT0pWcGFYVGc0TDU?oc=5",
+    "title": "WATCH: Speech-impaired man uses Neuralink chip brain implant to say 'I love you' to wife",
+    "source": "WION",
+    "published": "Sat, 19 Sep 2026 08:41:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain implant enabled a paralyzed man to speak for the first time in years, delivering the words 'I love you' to his wife.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "speech restoration",
+      "paralysis",
+      "neural implant"
+    ],
+    "first_seen": "2026-09-20T17:54:31",
+    "week": "2026-W38",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
