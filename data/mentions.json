@@ -56223,7 +56223,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -56532,7 +56532,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -57120,7 +57120,7 @@
     "first_seen": "2026-09-14T19:42:49",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -58335,7 +58335,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59129,7 +59129,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59462,7 +59462,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59717,7 +59717,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61096,7 +61096,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61309,7 +61309,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -61336,7 +61336,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62459,7 +62459,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63153,7 +63153,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63344,7 +63344,7 @@
     "first_seen": "2026-09-20T17:54:31",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -63804,7 +63804,7 @@
     "first_seen": "2026-09-20T17:54:31",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63890,5 +63890,1359 @@
     "sources": [],
     "body": "",
     "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5",
+    "title": "China slows humanoid robot IPO rush as hype outruns reality",
+    "source": "Reuters",
+    "published": "Mon, 21 Sep 2026 03:05:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China's regulators are pumping the brakes on humanoid robot IPOs as valuations detach from actual product maturity.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China",
+      "IPO",
+      "regulation"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0xvRExRaktxQS1zOEU3b0tLRFpXX1IzT1VDX0VnVUdta0FzU3VkdVFBZF9MLWxVaElSRkNnRTM0b1JuQ0tKT2xYcDZ0R1MybkF2VU5XMGR5VGdWZi1VQTlMSGhZLUpVTmhmaHRyQlktWkExVmVPeVE4ZjlyWE9ESld0OUFnYzlHV1RheVpZanlBSnBJTHctS0FXbWxOa1ZtR1V2TFlmUTh6OXdVZWcybFpPUWJlamJvZjdGd1B5and3UXUyTkVzTVFTS3BZclBlamRSN1hVUkc?oc=5",
+    "title": "Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks",
+    "source": "Boston Dynamics",
+    "published": "Mon, 21 Sep 2026 14:31:16 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics opened an application center to train its humanoid robots for manufacturing work, positioning the company's physical AI as a tool for factory floors.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnczZnNTOGsyQ1JSX1ZHRXd6MjJyUHVXMjlHN2o3UVRjc1lNSTBmckZKVDlENmJDd3hhU3B3SExuMmg3SjE5ckJ3UGxnSEtRM2Zjc3ZlOG5Sb1pNMEVmTDY1d3ZGem1JeUhPSmFza2xnZXIxODUzU2xXZXhDRzRmb3JJd1ZObmhMQ0sxNmEtUW83TVdFcmxSNHU5WjYyb2JqYUVRWGlGTk0?oc=5",
+    "title": "Agility debuts ‘first cooperatively safe humanoid,’ a milestone in robotics",
+    "source": "Manufacturing Dive",
+    "published": "Mon, 21 Sep 2026 17:01:04 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility Robotics has unveiled what it calls the first cooperatively safe humanoid robot, a claimed advance in physical human-robot interaction.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "cooperative safety",
+      "robotics"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1NLb3hpT3Iwd0FZbDFBRmlpYzZFaERoSjlkcGNQMC1EeVZnak9VUWxyRGRzdDRjMUoyUWFaX0VEUGFlZXhPXzIzR1JYanU2VXFLcldGZ0d2UG0wVzdVaHZlQ2JZLUJyMFJlODlhYUVJSTFoTVpiWm1iZGd0M0h1MUpPYVJZTXRVeFI0Y1p2Z3daVU1NTExtaVZJZw?oc=5",
+    "title": "Boston Dynamics' humanoid robots start training at Hyundai plant",
+    "source": "Axios",
+    "published": "Mon, 21 Sep 2026 18:38:03 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics deployed its Atlas humanoid robots to begin real-world training at a Hyundai manufacturing facility.",
+    "companies": [
+      "Boston Dynamics",
+      "Hyundai"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "deployment"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdzlKYnB4NE5oUUdqQ0U5THhJMW1nUmlSZmZYOW5zZy14Ym9iRU02SF9ZODRjdk9DUS1aWmFUWS1GYzJDM1J6R05hT21HWkI4NDVvcDU3TnBlYlk2WERSYXY0SHhBRUFMUEVPcXhhWWdjZW5kT0x3OFh0VWZvaTBTVERaYUFtcTJmYmNlUlpVZmROWlFQVnNwREhheElyeDAyMm40dlpKYlE0blBiX1U1aVBTRVVjRXA1Q19zNVdTNE5GUklKVUVz?oc=5",
+    "title": "Boston Dynamics will train its Atlas humanoid robot in Hyundai car factory",
+    "source": "DC Velocity",
+    "published": "Mon, 21 Sep 2026 18:03:46 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics will deploy its Atlas humanoid robot in a Hyundai manufacturing facility to perform factory tasks at scale.",
+    "companies": [
+      "Boston Dynamics",
+      "Hyundai"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "factory automation"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQjdWd2Vudzh4X1d1dldMcXA2VjBiNWJ0U3p2bGZkOWVDOTdTemk2ZDNmYTRZSzB5N1FZVGZWQWc3b19WakJYQ1pudjdIMlNkU2J0SzlxNG5hUF9HcU1LNm9rUk51UXZuTldDczdHOXdSOGl0S25VSC1hRGFEQUFNZkxuZncyNElHdUUtN3VhQlg1MUtGb3d5cWdGbXJmOFpVNkFfQkdUdUQ3QWdrWUU4elBsR2JHX0lIVjNGN2ZmT1VvTzhn?oc=5",
+    "title": "3 humanoid robot stocks to buy as leading U.S. maker targets 10x output",
+    "source": "Investing.com",
+    "published": "Mon, 21 Sep 2026 16:32:37 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A leading U.S. humanoid robot maker is targeting a tenfold increase in output, signaling accelerating commercialization of physical AI.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing scale"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XTTVvTURuMjdRNV9rMjh6QmFqMTZmaWgydWhISG03ek1rcUxwMzRFNEp5TlVnSlVZQ3JCS0h0TmZZTkNIYTFKcnp0SVZaVzQ0eGR5bWlqZWNERGNKTUVzWkYwTU9XVHU3OF8wVWk0RmNEYTdoUEE?oc=5",
+    "title": "China is reportedly slowing humanoid robot IPOs after Unitree’s debut round trip",
+    "source": "The Next Web",
+    "published": "Mon, 21 Sep 2026 07:13:20 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China is reportedly cooling humanoid robot IPOs following Unitree's stock market stumble on its debut.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO",
+      "China"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPanBtQ3hyUXl0QndJX3JnR09Wd0RGdnhZMzUzM3RBaUQ2cExxVTVQdDE4c3h6eWx6WHk1VWNNQzhiN3d0TmliSWtpOXdKSjFzUXlWdmxfY3hSWUluV3I3MlBPTGdaMTRLenA0bFFRQ203NzI4MER4OEdtUVV1YU4tT3pmNTFaLUtZTUhSWXdxOEZaSXJzTE5jaHY1U2VOXzNrMjYw?oc=5",
+    "title": "Agility Unveils 5th Generation Warehouse Humanoid Robot",
+    "source": "Tomorrow's World Today",
+    "published": "Mon, 21 Sep 2026 17:50:17 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility has unveiled its fifth-generation warehouse humanoid, pushing toward the company's stated goal of deploying thousands of robots in logistics facilities.",
+    "companies": [
+      "Agility"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "warehouse",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU1JPTTNlYXpRWTM4VlFhSlFucjJxY1V0ejJxRmFhWmlSQ3RoZjZwdjdseHc3aFNaaEpVbFBQN1ZTdEZQQ2hxUXliNTlGRktZT0VkeElITVUwYkdlbWZKZUdaVW80V1diUUg1d0QtOGtwUUtSeU5uYWZaeW5ILXl6Y2lFeTVPd2JoMGZDY2c1Wk1iNVBOQXp4QUNaTG9TaUVlWFF0WnFGQVNHYl82RGhlaTBDYjNEZGRENEswaF9BeVpONGs4WTdTTXZUNDZxVXJIRDJwYzh2YkVldE9BQnFXcEViamZPcUktSk9ObmlR?oc=5",
+    "title": "MISUMI Americas Launches Venture Fund for Robotics, Hardware, Physical AI Startups",
+    "source": "Supply & Demand Chain Executive",
+    "published": "Mon, 21 Sep 2026 19:02:04 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "MISUMI Americas launched a venture fund to back robotics and physical AI startups, betting on hardware automation as a supply-chain bet.",
+    "companies": [
+      "MISUMI Americas"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "venture funding",
+      "hardware",
+      "automation"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGZaM2Zkb0dVVWJjV2J1LWtGalF0S0VlQ3h5T1UyM2JuS3NCZWc0UHpqU0JXd1J5ZHpxTDBLZFhNekUwYlRjOHFDb3Q5N1VtTG1JdGJXN2Y3QXlHZW5aMWVNTG04NW1iTlBaTEtVRUl4NF9EaTh4RVRscFpUVTRjMGJkdXgtclUycFNLWmJJa2V2Yy1oQkhTMkV3LV9GU0ZRRHJ1a0IteDE1UHpPZkhV?oc=5",
+    "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
+    "source": "The Robot Report",
+    "published": "Mon, 21 Sep 2026 13:03:52 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics opened the Metaplant Application Center to train manufacturers on deploying its Atlas humanoid robot.",
+    "companies": [
+      "Boston Dynamics",
+      "Metaplant"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment",
+      "training"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckR1Z0d3SWJyM3ZDb1B1NFBiOGRuVGp0Qm8yNFR6T1MwdTNrUUdSXzJsWEFBR0lMY3JFLWNTU3QxMEh0RWVGSVg0SkNDNmNucHhUVG5TMFJrSDNhS3NlaHV5dDBaZU5uVjhKczRWRHhGOERhVWt6RmxkbkxwWkpjdFR0X1FhdllZM09iV1Jud3R6UXRWSWUwTEFBYTg0QnFyem9pNnVKc2VGN3NiSTZiZXRn?oc=5",
+    "title": "Humanoid Robots Can Outrun Usain Bolt, But Complex Tasks Are Taking Longer",
+    "source": "The Daily Upside",
+    "published": "Mon, 21 Sep 2026 04:01:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Humanoid robots achieve sprint speeds exceeding Usain Bolt's record but remain slower than humans at dexterous, real-world tasks.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot speed",
+      "dexterity"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNejZaMlFYdDUtZ09kX1VFYnJLR04wZEJBVGs3c1poNGRPeGdvTExLY2RTcnFFQnpsT3V6ZnpPbkpuMndydmlpa2RnaUMzcm1TdDJQRGpDRGJsaC1seEo1T2F2TmthbzJFN04zWlFaNG16bDZxeGNSZmFtUGVidGpYX2pnUDVCZkhZWk1R?oc=5",
+    "title": "Humanoid robot sales hit 7,000 worldwide last year",
+    "source": "Egypt Independent",
+    "published": "Mon, 21 Sep 2026 12:04:12 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Global humanoid robot sales reached 7,000 units last year, a milestone marking the technology's move from lab prototype to commercial production.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics sales"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeWVqZDU0QU9qZjFVVGRaR1dFNW1nWU1Kclk1LWE5a2ZIN1oxdjBiRlpmSWNmRDQzMGNRQ3dxVmVwMmwyTTBPYi00MDdCWDNoYW0xNHpFR2FhWE03dnNQM000TllUMzBRU3F0eURoSTVROHUtcE1XdlJzdXRrWlQtSVdCdmVQUVU?oc=5",
+    "title": "China Quietly Slows Humanoid Robot IPOs as Regulators Question Revenue",
+    "source": "technology.org",
+    "published": "Mon, 21 Sep 2026 07:18:40 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese regulators are blocking humanoid robot companies from going public, citing dubious revenue claims and market overcrowding.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "IPO",
+      "regulation",
+      "China"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
+    "title": "Humanoid robot sales tally hit 7,000 globally last year",
+    "source": "Reuters",
+    "published": "Mon, 21 Sep 2026 05:05:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Global humanoid robot sales reached 7,000 units last year, marking a milestone in the technology's commercial adoption.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "sales data"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbV8zMkF6WUtXX1RTVTBSaWthSnF0UUEyVURyTHIwalc4U3ZIQ1hxRERsNXR5TUZHemRrZ0ViV1N5dHBlcmZrVzRFLWFIR3d0SFZsT3BnbDc1TEU2T0cwbi1YZjFybFFGaV9xMkRaUG5ENl91a2l6SlJhbUNjR1RIVUFpNUNldEJDTjVuWWdVMWNsYXE5TDlSTlBLSkNzSjktUDFRV1hObEhxbW1zRnc?oc=5",
+    "title": "China Slows Humanoid Robot IPO Push as Regulators Scrutinize Valuations",
+    "source": "AI Insider",
+    "published": "Mon, 21 Sep 2026 17:18:13 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China's regulators are pumping the brakes on humanoid-robot IPOs, scrutinizing the inflated valuations that have sent startups public on hype rather than hard numbers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation",
+      "valuation"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kRkJXNS0xeWJhS0paU1JPSWRFMk1ycGRwSzBYYnRqbXJkMXlONEdmY1dVYXJ2TlRGRWhSUUtWZzI1cll6bjFiN0g1ZThtMk95VzhyRS1uQzNjYkJlSVluRnpSeXlSNE5mN0hyUy1iRzIzc1p5dWVZaw?oc=5",
+    "title": "Only 7,000 Humanoid Robots Were Sold Worldwide Last Year, IFR Says",
+    "source": "technology.org",
+    "published": "Mon, 21 Sep 2026 07:21:28 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "The International Federation of Robotics reports just 7,000 humanoid robots sold globally last year, underscoring how far the technology remains from mass adoption.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "market data"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZFRWVE02TlBtTkJtZVoyQnEzSUZqTF9OUFduMTNkMXBXbHpvckgxQm02MVNGWDg1bEZuVW1NWTJGWmp3UW83TXdhREJfekQydGlEbEx5VGlEN3VnN2NJNTNrNExKdjZZNFBnWFg1aEh6Y2QzR0hXc29nVUJmMVdmbmUzU1dkSVdHcVJzUXA3NnFnWFVtdEtieUdfbUs5VzgtLVoyN3JlVFVXZXp2MVF5SDlhZ0ZOZDlU?oc=5",
+    "title": "Humanoid robot sales reach 7,000 units worldwide in 2025",
+    "source": "Investing.com",
+    "published": "Mon, 21 Sep 2026 07:32:25 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Global humanoid robot shipments hit 7,000 units in 2025, marking the first sustained commercial adoption of physical AI systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "commercial adoption"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVFmTnF2SG1qY083YzhkZ0x3ODBZdENpSW9rbDA3NnhsM2JQemI3RWJaRjZkNDRzc2Q3M3oybWd5MTE4eF9CSHREdTBkN1BpSUs4YVVWWkhuUHZ3SzZWZ2FTbFlmMmwwdXE0dVZiLWlkdm1DSm9zenVVNTd5cDN0ZmJ5UFZYeFg1M0RsNG5qQnNrc2M3Z3ZnckFIUjZmRXVTbC1id1hWZ1d5TmUtY0s0bzRZOUxpMjcz?oc=5",
+    "title": "Chinese regulators slow humanoid robot IPO wave - report",
+    "source": "TradingView",
+    "published": "Mon, 21 Sep 2026 12:31:18 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese financial regulators are tightening scrutiny on humanoid robot companies seeking public listings, cooling what had been a rush of offerings.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "regulatory",
+      "IPO"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkt4TW9OaUwxUFl0cGV1TjVwbHVvejJ2aVhQdzBlVXZpUmwya2VmMndtWnNoWDB4VTZ2REx4bUlsMVVxMld1UWJEU3BxMDBHNlgwSmFyVHRyTHd0bDVpb2dOWnJzY2VjRHViaHk0RzYzdmI4Y29obk9rOU8tSXZDYzlMQjdOanpka0pQbHBmM1E2SGt1bTFDbHZhbVBBY0RfeUhWaUY0aktLNWVs?oc=5",
+    "title": "Waymo passes barricades, enters Denver farmers market",
+    "source": "9News",
+    "published": "Mon, 21 Sep 2026 04:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expanded its driverless robotaxi service to Denver, beginning operations in the city's downtown farmers market district.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81dUlkcnBKcnBQVGlWdzhsMVloTlBQaEhlc0xoYXlyc1VTb1JFZVZ0UjltYnROc2tWd2ltN3BlZjZIT2RoSHpEazg2bE5UUm5kUWk4N1NRdS1XSVZoS1E?oc=5",
+    "title": "Singapore, Next Stop: Bringing Scalable, Safe Autonomous Mobility to the Lion City",
+    "source": "waymo.com",
+    "published": "Fri, 18 Sep 2026 02:56:43 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching driverless taxi service in Singapore, expanding its autonomous ride-hailing operations beyond the United States.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous mobility",
+      "ride-hailing",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVFjS1hEaG5LemVPVlhhTTc4NDJCRkNqWXRKMnAtYjBKQkJWQ1QwbjVSbkxaWk1SZ0xYdDdLNVlYYkVYVHotbzNBd09zMFk5bEdfNnR6ZzVrclhSZUVzb1JqbjhMaUZEaEJfX1NOLU1icXJ4LUhrQlk3XzV3d3RRQktiQVE4ekF3Qkt3UnVPLTJZdXdwQ1BCdjZrU1RldmxsSWNQRFRmQVRCOGs3WE9LZHFmQ2t3ODFM?oc=5",
+    "title": "Waymo caught on video driving through South Pearl Farmers Market during setup",
+    "source": "denver7.com",
+    "published": "Mon, 21 Sep 2026 12:28:01 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo autonomous vehicle was filmed navigating through Denver's South Pearl Farmers Market during vendor setup, raising questions about pedestrian-heavy environment operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "urban operations",
+      "safety concerns"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13MnBPdUZta0htSkNPTmlXYzBVOU5jaEdXeEdUVk44ZWgwcWZCcUFEUjVPZWhjbTJ0eDNnYU9keFZmc2d5SEVaUzZiTXJ2T2Y4VFNRY3FrSzA1NnpfNUFJT09wS3ZzMVBYTGdtaXhUdkxCSWM?oc=5",
+    "title": "This city needs way-less Waymo",
+    "source": "The Tartan",
+    "published": "Mon, 21 Sep 2026 11:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The Tartan publishes an opinion piece critical of Waymo's autonomous vehicle operations in an unspecified city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2tCQWNBNHhtaXRraVFoQ2lCSzluRDlmY0RLN1M4QzJXUHlGZThmRXVqcEdRSE5kc1NDX0pYZ2RlTE5WRThBck9wSS1JMDI1NHQ3YkpsT08zejdUWHdhd1pvWVNBSHN0Nlk0WWhxWExPYnk1U09YWDluQkRYSFh6eHhheWdjbHZXMG92NkNacHJhbjZaaGNZ?oc=5",
+    "title": "Waymo's driverless cars learn to navigate Las Vegas traffic one cautious swerve at a time",
+    "source": "lasvegassun.com",
+    "published": "Mon, 21 Sep 2026 09:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicles are operating in Las Vegas, navigating the city's notoriously chaotic traffic patterns with characteristic restraint.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGl1cW85MF9vbjRMZjhJNUVFWFJJcVdiYVdqMGxmNDdGd2hoeDZYaXR3OVAyRTRFM2k5ZXp1VkRsYjgzNnczc2UyZVNPWFV0eXNTemVkQzNaMDl5djJRV3RaZmg3YS1FcUR6TVFpLWlFR0JZVXF6NGQ5eC10aGlnTjNEdjg0dw?oc=5",
+    "title": "Driverless Waymo cruises through Denver farmers market",
+    "source": "The Denver Post",
+    "published": "Sun, 20 Sep 2026 22:33:09 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless vehicle navigated a Denver farmers market in what appears to be a publicity demonstration rather than a commercial deployment or operational milestone.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnk5Wl9rTlpWUWE2NVFSQWF3YW1sU3lvLW0wc28zRGRkY2xOQnhIMXpMbzBYZkxZeUFpYW9OLVNYMGVpa3Jvek9VNnN3YWRNeVRHTGpLM0RhUnpvb3pCSEVYcHdna09SWVJmZEMwYzQ4aHNzOEFXMlJ0Z3AyMlVzMVR3U29ZczBwWEphM0hBZXY0U3FRVlg5dXhRQjRsY1VKdldBdWxKYkprQQ?oc=5",
+    "title": "Driverless cars go head-to-head in dramatic race at Formula 1 circuit",
+    "source": "CNN",
+    "published": "Mon, 21 Sep 2026 11:31:13 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Autonomous vehicles competed in a head-to-head race at a Formula 1 circuit, marking a public demonstration of driverless-car performance capabilities.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "racing"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUhhdHUtcWRSbGZJdHRFcUFMQU9HdTFRVkh0YTl3Zm45WTFJTGVwbmJVLUJvVFo4RFhhbXlYLTNLeGFEd3Z6bk1QVEl4VnVBQ2RSWDMxcDdtZkM4VTBCenl1c3pmeWdJWGRFSWlnWEhTZFdQcmk3djZzNVptLWhKNU16eGFzRlZjX3NzLTZ4NNIBlAFBVV95cUxPWUV0ZVJjbzVEMnNQTU5lUkNPdGNaLXdWVzRleDZxQmtZTzZfcS1sanFSMzlrMEgxS28wZXZ3QUNaRndoY0U3ZmJLZHo5OTExZjNQRTZMdG5xQlQwNUl2Zkxzc1JDMXNIRzRqWktmbENReURHM1ZpeFNTWlJXNWhoYThhMTVjalJwcHpxaFdPQUYxV1Nl?oc=5",
+    "title": "Waymo damaged in apparent hit-and-run in Los Angeles",
+    "source": "KTLA",
+    "published": "Mon, 21 Sep 2026 12:46:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless vehicle was struck and abandoned by another car in Los Angeles, adding to scrutiny over autonomous taxi safety.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzFMLXYtUW11a0luVUJXT0dBcl9MeTl4bDJaSzlBRE5TTHhrSy1yRy1CLXhOOE9Ub3N6NDF0R1U1ZjFXODdzWkJWaDV0Z2RjbEhDTGNRWkxjb1RyYzBOaGM4NFlEUzhacVpzX3dxNTRUM3VDM2lNM3FGbzczU3lFUjlkZ3B6TGtVSU5jNnFQRnVNaVJrZ0I0b1hOSHNQbEliSlV6WUtDME5YMHp3UWE0ZnJ1R3NXOVdiMUZNeWQwX09odlZnczNTVw?oc=5",
+    "title": "Driving autonomous with Aurora: CEO Chris Urmson on the future of driverless technology",
+    "source": "CNBC",
+    "published": "Mon, 21 Sep 2026 12:42:37 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Aurora CEO Chris Urmson discusses the trajectory of autonomous vehicles in a forward-looking interview.",
+    "companies": [
+      "Aurora"
+    ],
+    "people": [
+      "Chris Urmson"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlVXMllST2V4WThQdEs3M19mcTJrTTZtU0llOTNMQjJWR1dBME1EcjJ6Xzl1WTQ1Q2hIbkVhMER0eVNDczUyU3k5U3dVOFRENUZ4dlFLZkpUOFRXM2QzRGh4dTkzcXFxY3FGUGlIUkpzMG9vd0tOOXRoQTgtbnc0T1l6ZmtFTTM4bGNRcXRId2FtSjhiNkpnMUd5MjMyTl9WbkR6NEZQd0ZhT2lO?oc=5",
+    "title": "Waymo Co-CEO Tekedra Mawakana to Keynote at CES 2027",
+    "source": "PR Newswire",
+    "published": "Mon, 21 Sep 2026 19:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo Co-CEO Tekedra Mawakana will keynote CES 2027, a speaking slot that signals the autonomous-vehicle company's continued prominence in the industry.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Tekedra Mawakana"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEZzNW1uNzRJUjhUQkwwekxNSEM0Z1FCSDJNU0xtMGgzQVN4aFNoMWdvMHEzYXpxRlFyY3hnaTZubTRnZi1LQU5vYlRkSURUdjl5UWhZdTNtVkk0VW5wU2ZjZXZQOGZkLXRrVkxuWW54eDNqcXJROUZjaWdSaGNQbldVYjFYa0tEZnVlcGU4QWN5c29DbXdfdkNn?oc=5",
+    "title": "Waymo passes barricades, enters Denver farmers market",
+    "source": "Denver Gazette",
+    "published": "Mon, 21 Sep 2026 15:31:17 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo deployed its driverless robotaxis in Denver, beginning service in the city's downtown farmers market area.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "deployment",
+      "urban mobility"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWTlMYmhBTEpOZ2VlQXh1M21XQjNRX201Vk5WUWtHeWR6MWNKYlRMSnFST21EYXhwN2NGRHV5Y0FfVDVFTDEtc2xlY0M0dHhNNGxNRUVEN0d2RnF4MjFYNkkwc2xfeTRxTzdsNm5UQW1ndlRCOVg3VDVhcUZMV0I2WFM4TjA2VDdhZHh6LTA1X18ybG9P?oc=5",
+    "title": "Waymo Vehicle Involved in Hit-And-Run in Pico-Union",
+    "source": "MyNewsLA.com",
+    "published": "Mon, 21 Sep 2026 14:42:40 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless vehicle was hit by another car in Los Angeles's Pico-Union neighborhood and the other driver fled the scene.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety incident"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS1BQYUpyNU9ZTFVBaDZWX3R4a09jbldLT0FYeUJGZzdNeHdGOUhjb21JZ1hnbUItTWZuam4xY0NnOUFja2hxc0ZRVHpza0lpREFFeThZSmdDLWpTRVo3VGpnYzNNYXlKQ1YzS2M5Uy1uRmg2cmxYS2MzQ1pveWY5RTdvSkVzcVNnZEYxb1ZIdkJjWGtKcTdiNXlqREFETFR4ODE5ekNyaw?oc=5",
+    "title": "Waymo-Backed Group Wrangles Big Names to Sell Albany on Self-Driving Cars",
+    "source": "Streetsblog Empire State",
+    "published": "Mon, 21 Sep 2026 04:02:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Waymo-backed advocacy group is mounting a lobbying campaign to convince Albany legislators to embrace autonomous vehicle regulation.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "policy",
+      "regulation"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0NEaGw1a3cyR0IxY1RMX0pqN3F4N0NQZjcxaE9YZk8wZkItMmJSOHZrRDJyam90NlBFbmhRTEhWQzVDQ3dOYXpaQW5nT2lsV3ozdUk3eVlwRm1FRHc3THdrRzlxWG5xRk05c1NlX215NTVpN3BkMklLX0xoWkRTWk1Lb3AzSTk1SXVYRS1iNjV3SnFNemVraGxRTFdRX2c?oc=5",
+    "title": "Tesla’s Cybercab exposes a robotaxi emergency-response problem",
+    "source": "Fast Company",
+    "published": "Mon, 21 Sep 2026 10:10:50 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Fast Company argues that Tesla's Cybercab lacks a clear protocol for handling emergencies, exposing a gap in robotaxi design that regulators and competitors will need to solve.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "emergency response",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEdlN014MlkxUU5PWXJCVzRJd2ZtV0ZRLXJMMXVPVFdNSUpTZTdKQVJldlZpd3hZZjNoMHhZQ1cyY2wyUEFhaGNUMklWamxYYUJ3MHFBZzVUdldrSF9PVl8weHB1U0dpUWt2eE52aHRicWsxWXdRNXZvYWtCVWxiOHBPZ1NqQnBXcm5aMmRCQk9zQ19LdVNjQkxNOWVoSk0?oc=5",
+    "title": "PrePass, Kodiak Connect Driverless Trucks to Roadside Enforcement",
+    "source": "Heavy Duty Trucking",
+    "published": "Mon, 21 Sep 2026 12:05:45 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "PrePass and Kodiak have integrated driverless trucks with roadside enforcement systems, allowing autonomous vehicles to communicate directly with weigh stations and inspection checkpoints.",
+    "companies": [
+      "PrePass",
+      "Kodiak"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "infrastructure integration",
+      "logistics"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTm9DTVR0eWVlVlRqY29XY05OYmJKbnluWldaTFBTcURGRThWSDFDdmJ6dDlwdzZIQzJNSjY2Um1yY21rMWJONTNWRTI0Q0hMOEhQNW5jaElRVjRCZ3hsUFNsV0VmY3lWVjFhdmthOXRpT2dSbWtRRnppQk5wQnRRUmpMMkFuYy14OHVVaVpRS1JIRHFRWVZkNnN0VEluTHdrNmxNOUw5Umg0aGx6UUs0X2RRakY1eS13N3hCdlhjcU9ZRWlKTXJIbm9qQUNlRHlEczVHX0dxWEg4LXp1?oc=5",
+    "title": "Wayward Waymo: Driverless car drives into Denver farmers market",
+    "source": "9News",
+    "published": "Mon, 21 Sep 2026 13:08:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless car drove into a Denver farmers market, raising questions about autonomous vehicle safety and navigation reliability in crowded public spaces.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "public incident"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEdsQzkzVkdLOHNEQmZoTkY0MG5uYTZTR3dwVl8tWkNkcV91ZVg4SjBOcTNrNXp0cUZEaERjSUt5QXFWWDEtdXZiNV8zSkIySE1MU1AyUDF4U29rWUItUVVydUg3M0JrSl9kOFNXNXZxMW9CNjBxSVJBbFhOQlMxd213T2lkcVN4X3NCQWMtS094dGgwWHJFUGNYak40WGMybm9oMndmOEpLRjJtX1NhNktaSExfX253R1BYYjdYbHY1alNDeDVKZC1XWE0?oc=5",
+    "title": "Waymo's Robotaxis Push Into New Terrain in Las Vegas and Denver",
+    "source": "9News",
+    "published": "Mon, 21 Sep 2026 18:51:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's driverless fleet keeps testing the edges of its operating envelope: in Las Vegas, the cars are learning to thread the city's notoriously erratic traffic with a driver's-ed level of caution, while in Denver one robotaxi found its way past the barricades into a farmers' market it technically wasn't supposed to enter. Both episodes underscore how Waymo's expansion into new cities means constant, small negotiations with human chaos and improvised street geography.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEdsQzkzVkdLOHNEQmZoTkY0MG5uYTZTR3dwVl8tWkNkcV91ZVg4SjBOcTNrNXp0cUZEaERjSUt5QXFWWDEtdXZiNV8zSkIySE1MU1AyUDF4U29rWUItUVVydUg3M0JrSl9kOFNXNXZxMW9CNjBxSVJBbFhOQlMxd213T2lkcVN4X3NCQWMtS094dGgwWHJFUGNYak40WGMybm9oMndmOEpLRjJtX1NhNktaSExfX253R1BYYjdYbHY1alNDeDVKZC1XWE0?oc=5",
+        "title": "Waymo's Robotaxis Push Into New Terrain in Las Vegas and Denver",
+        "source": "9News"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2tCQWNBNHhtaXRraVFoQ2lCSzluRDlmY0RLN1M4QzJXUHlGZThmRXVqcEdRSE5kc1NDX0pYZ2RlTE5WRThBck9wSS1JMDI1NHQ3YkpsT08zejdUWHdhd1pvWVNBSHN0Nlk0WWhxWExPYnk1U09YWDluQkRYSFh6eHhheWdjbHZXMG92NkNacHJhbjZaaGNZ?oc=5",
+        "title": "Waymo's driverless cars learn to navigate Las Vegas traffic one cautious swerve at a time",
+        "source": "lasvegassun.com"
+      }
+    ],
+    "body": "<p>On a recent Saturday in Denver, a Waymo robotaxi did something no human driver was supposed to do: it slipped past the sawhorse barricades ringing the city's farmers' market and rolled into the pedestrian zone, threading between produce stands before anyone in a city vest could wave it off. In Las Vegas, meanwhile, Waymo's white Jaguars have been logging a different kind of education, easing through a traffic culture built on last-second lane changes and jaywalking tourists, driving with the exaggerated caution of a student who has read the manual twice but never merged onto a real freeway. Neither incident was announced by Waymo. Both were noticed, and reported, by locals watching the company's driverless fleet feel its way through American cities that were not, in any meaningful sense, designed with it in mind.</p>\n\n<p>The two episodes are minor on their own — a wayward turn, a hesitant swerve — but together they say something useful about where Waymo actually is in its expansion, as distinct from where its press materials say it is. The company has spent the past two years adding cities at a pace that outstrips almost anything else in autonomous driving: Phoenix and San Francisco long ago, then Los Angeles and Austin, and now testing or early operations in Denver, Las Vegas, and beyond. Each new city is sold as a scaling story, another data point proving the technology generalizes. What actually happens on the ground is messier: a farmers' market erects temporary barricades that exist nowhere in any digitized map, and a robotaxi, reading the world literally, finds a gap in the logic and drives through it.</p>\n\n<p>That gap matters more than it sounds. Waymo's whole pitch to regulators and riders rests on the idea that its vehicles perceive and respect the informal rules that govern American streets — not just stoplights and lane lines, but the tented booth that appears every Saturday, the crossing guard's raised palm, the unwritten choreography of a city that improvises constantly. Las Vegas, with its double-parked party buses and pedestrians treating crosswalks as suggestions, is as good a stress test as exists for that promise. The company's own description of its driving there — cautious, swerving, almost deferential — suggests a system erring toward caution rather than confidence, which is the correct failure mode but not necessarily an efficient one.</p>\n\n<p>For an industry watching Waymo as the furthest-along example of robotaxis at commercial scale, these small stumbles are the real signal, more than any mileage count the company publishes. Every barricade a robotaxi shouldn't cross and every intersection it navigates too tentatively is a preview of the friction awaiting the technology in the next fifty cities, each with its own farmers' markets, festivals, and local chaos no engineer anticipated. The driverless car doesn't need to solve driving in the abstract. It needs to solve Tuesday in Denver.</p>",
+    "slug": "waymo-s-robotaxis-push-into-new-terrain-in-las-vegas-and-den-9dc55f"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTNzel91TmVnbFlWMjJoVHpDN2t0MFlNeHJmTkZtd3JTQmQtZUhsM0tvWloyME9YQlBiZk1mR3JkUHhIR0d6S3Q3TFNIdFpkb1BDdm9GVkduZGpKZjQ1ZW02dG1qWlFFa2FxU2tJTmRmTnBOci1KclE5LWx0Vy1TNmlWejkxNUhqbEw4MUx0MWRDckRkTmc?oc=5",
+    "title": "Waymo damaged in apparent hit-and-run in Los Angeles",
+    "source": "KTLA",
+    "published": "Mon, 21 Sep 2026 12:40:28 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo robotaxi was struck and abandoned by another vehicle on an Los Angeles street, marking another incident in the company's public operating environment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety incidents"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSHNzVjI5V25xTEM0aEV2dTFOWkVMSnktWkt5TWlGYmtxanNJajBNeEVlTjN2VU1EU3RIamMzVkd2eFFndFcyVFFRQ01haUFBRjVqVGxXRWtRdS00bXJIMllYb0RFby1JZmZrWU5ZTngydm54MWxmNWx0aXhMNGxyc3RhMnFQcUlXaHl3VmpsZHpTclFqVUowSEV6SGFWZ29QWEM5U2FGTnRpMTl3bFY1ZDZhV0RRRkpOVjgwR2lIeVVfbUdCZkVlWGhNajVKaG1yRFBvRVRGQ0g?oc=5",
+    "title": "PrePass, Kodiak AI collaborate to advance safe, scalable driverless trucking nationwide",
+    "source": "TheTrucker.com",
+    "published": "Mon, 21 Sep 2026 16:57:27 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "PrePass and Kodiak Robotics partner to expand autonomous truck deployments across U.S. highways.",
+    "companies": [
+      "PrePass",
+      "Kodiak Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "freight"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNEN1c2pVRDJJdkhPMGdLSWNnR3l5WERreGdrbl9yYTJTM183cC1NU3VRbzkxRjZERlBjeFBRdHBVaFJWdUFnS0p6d1BfSDdnaktaenI2dTg0ODhVcUFnbE9IdlY4ZWlQZEFJWDJCVE1VM3N6aU9xSmtYOFpmcXhDOVROUWdZd0VZNUhRMGtPdHdJSmxHbVE?oc=5",
+    "title": "Tesla robotaxi in Austin took 70 minutes instead of 10 — InsideEVs",
+    "source": "UA.NEWS",
+    "published": "Mon, 21 Sep 2026 18:58:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's robotaxi in Austin took 70 minutes to complete a trip that should have taken 10, exposing the gap between its autonomous-driving ambitions and real-world performance.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUg0a1p3NGpVYlVmVG96eVJ2UmlrMjViY2ZycEtELU5OMjVNbEJQMS1JUS0tUHhZbnE1VUZIVHp0VlcyNXJDY1FnajN1TFZ1aVItTE5LM2dDZ3QyRE9tdkE4MlVwN1FFU2R3NEg1MWUyU2FuMXltX2FVVkhOM3YyS0gxYnREd2syTk5SajVHaEJKMUR1RlhRbnA2RHJjRkdCSVh0QnowMjVuV2lYQnl5QW9lTHFCQ01XV2pr?oc=5",
+    "title": "Take a ride in Waymo’s Ojai on the Las Vegas Strip",
+    "source": "Las Vegas Review-Journal",
+    "published": "Mon, 21 Sep 2026 13:02:27 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo offers test rides in its Ojai driverless vehicle on the Las Vegas Strip, a tourism and marketing exercise rather than a service launch.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride experience"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVhMSkQ3QzV5VVNvWEZFUjdoNzM0eXc3dVA5TE1Qdi1DMV9uMGFDOWJIaXM2ZWZsLXQ2Y0xIMmZnWWdwbzhJR09qM0VlYnpiNE1NMlV2RnBXZ1dEbC0teE1RSTFlcnlsZGY2MWlVa09Gd3UzbklfbHl3VGNwZkMzeUZjWUNsUzV1MFRFYkhvM0RxVk81YlRLdC1DV3AxelFJVnlNVWh5OA?oc=5",
+    "title": "Georgia-Pacific tests autonomous drone system at Alabama pulp mill",
+    "source": "Tissue Online North America",
+    "published": "Mon, 21 Sep 2026 11:59:41 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Georgia-Pacific is testing an autonomous drone system at its Alabama pulp mill to monitor operations and reduce manual inspection work.",
+    "companies": [
+      "Georgia-Pacific"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "industrial inspection",
+      "pulp and paper manufacturing"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11MGFVYmh4a2FqdHA1bFBkYTd1RnVfX0JFWDEzVGJWUVhJWUFLcE5WZFE4MUJMaXdaVXhIWmxlQ2hqSzdheDFETGpxSEVRblNpWU14WUlLMlMwZmxzZ2tPbnR6WVlOdGcyZnZpY0RBMU9sdE1hS3NfMXFrcVBsYWc?oc=5",
+    "title": "Forging the Undersea Arsenal: How to Build the Autonomous Fleet the US Navy needs to Compete",
+    "source": "Small Wars Journal",
+    "published": "Mon, 21 Sep 2026 06:39:59 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Small Wars Journal publishes a strategic essay arguing the US Navy should develop autonomous underwater drones to maintain competitive advantage against peer powers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "underwater",
+      "military",
+      "fleet"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXJiWEdPNWVIbU12QUNqZ3RHQlNGNW5oS29XdUp4bFJxanM2cUMzaXN2eFdZV1o1Q2FyZWpvaEx3N1p5RjMxRHJLV1FaWHhndUZ0bW9HY1kzZldYVUVsTHB5UEhiU20wXzhNYWJxQ1h4Y1FMb3ZBUmJtMm5abzdiclEwNHl4VXJTcE1pUVI3dFp3b0xET3BJMlV5VmhnM1RRQVE?oc=5",
+    "title": "Perennial Autonomy tops deep strike at Drone Dominance Gauntlet II",
+    "source": "Dealroom",
+    "published": "Mon, 21 Sep 2026 07:47:06 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Perennial Autonomy wins a drone competition at Drone Dominance Gauntlet II.",
+    "companies": [
+      "Perennial Autonomy"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomy",
+      "competition"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTnZiY24yOFZnQ0plSlNDYkNzQ0o1ZmRzbGVBcWw5YmdHRHp5RVVuYU5vbmVRNEE1Ry1taWN3NmRZUlpIQjYtTnVpaE1jZzdhVjQzZTdHbDJONVpqNmRLazZiQlUwbTVWbXF5T2N0UTFON2lvOXpQcUFheXQzRkQ3ZjQ4Z2tzLWQzYWhlREFMNnNvbnowajdyQUxJMEtMYUF0SXE2Vk1CV2wzU0tnVVd3amVjRHJJbzNETnU4Qy01LXdfMkhsWHhUYXNWb2VWdWE5ZlBKY05R?oc=5",
+    "title": "Volatus Aerospace Joins Pre-Qualified Supplier Pool for Canada’s Defence Drone Initiative",
+    "source": "Unmanned Systems Technology",
+    "published": "Mon, 21 Sep 2026 07:02:51 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Volatus Aerospace has been added to Canada's pre-qualified supplier pool for military drone procurement, positioning the Canadian company to bid on defense contracts.",
+    "companies": [
+      "Volatus Aerospace"
+    ],
+    "people": [],
+    "themes": [
+      "defense",
+      "drones",
+      "military",
+      "Canada",
+      "procurement"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUlRVkVqSXVOQ19MakFMVlRxNTRFQkdLNlJoSWdGckpwZXVXZ3l0M2piT2l0NV9TWmc2VHRmd01CRTBoeXoyYld6WFlUQlNVMXpCNm1tTkgwRjZrRnlmdlRtUEJ4ZGpzVmVEbF9oNXZkVEl3aUlyUzlUaU9OTWxZLW5oWGRFVWRpUzNwNG1YSHJ5Z2lyUUFfeHFJVlRqVEJRcHI1d2JaWVI?oc=5",
+    "title": "Ukraine's soldiers want drones that do more on their own so one operator can control more at once",
+    "source": "Business Insider",
+    "published": "Sat, 19 Sep 2026 11:30:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Ukrainian soldiers describe their operational need for autonomous drones that would let a single operator manage multiple units simultaneously.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "military drones",
+      "Ukraine",
+      "drone autonomy"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaDJ0UDRtZnhmT2hRYW02d2o1MjVzTHhrRFFiS3lIVVBpdEJVN0c2clNuZ1k3b1JpOXBiT1dKcGZPdlVoVDluQ3RvcW9Zc1pfb004R1RiZDE3MGowOF9HbWpteC1uZ2tPUzU2dWJpZ3VfZF9VS2RyTzIzMjRiUlQwX04yZlVVT0IyTWF4M2luV0VRTkk3a3UtR3BxT3ZXRTJwWHMtQ19ldmhNWE9hN3NVVnpSOS0xRFU4TnpDNUdYckxIUzlmTFJuV2VZd2dZVkFacTBwQ0VHYzFtLW9tNE5fbTZsODlIcmJKU0xXeFFpQ0xtZ3pqYlE?oc=5",
+    "title": "Perennial Autonomy beats 10 rivals to win U.S. Department of War deep-strike drone trial after delivering 120 production-ready aircraft",
+    "source": "defence-industry.eu",
+    "published": "Sun, 20 Sep 2026 21:47:50 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Perennial Autonomy won a U.S. Department of War deep-strike drone trial against ten competitors after delivering 120 production-ready aircraft.",
+    "companies": [
+      "Perennial Autonomy",
+      "U.S. Department of War"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "deep-strike",
+      "autonomous",
+      "military",
+      "production"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjllWTNQVHc2SmVwVzk5NVZoWVl1QVBZZWg5YXBTaUYxdFotaE9ycXVDbkZucU1nd1FlakRWMFB2Sy1ZTWF4SHJQMldOcVBnQUJRazd5STZkT1g0RW8yU3pBU2ZuQ0FNTWxvbzhHajlMeEMxclhiZHI4NC1hZ3N2R2FlSFN0ZzhoYWpFNHNFeFZ2OU4zcjdRaERuVWpEazJSOHBCU3lSeWU5Wk9QNnlsZzVjeDJlVUt1am8tWHlUc25LNDQ?oc=5",
+    "title": "Indra unveils DRIZZLE, its new family of autonomous effectors to counter mass drone attacks",
+    "source": "Indra Group",
+    "published": "Thu, 17 Sep 2026 16:47:40 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Indra has unveiled DRIZZLE, an autonomous system designed to intercept and neutralize swarms of attacking drones.",
+    "companies": [
+      "Indra"
+    ],
+    "people": [],
+    "themes": [
+      "drone defense",
+      "autonomous systems",
+      "counter-UAS",
+      "swarm tactics"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00bUtkcUNIZDVtMnc0VDkwSTVpd0pHbHdTV2R2clpidVFFVVNOQnNzVXkxRVhVeDhnLXBtVDhIbUJDeG5RYlJibTdsQzVSLXBsYmRwNVVDTGlHY1hnMEpFUDl5eE1lNTVJRWpmTjJtWQ?oc=5",
+    "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
+    "source": "ScienceDaily",
+    "published": "Mon, 21 Sep 2026 12:26:59 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers have developed a needle-thin brain implant capable of simultaneously recording neural signals, stimulating neurons, and delivering drugs directly to brain tissue.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "neurostimulation",
+      "drug delivery"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbFhoV3BmRGdCbW1Oc3pSUE9SQ1BDZWs0aVhjeGhTdjFhVmdJMW92X25SU1B0NVZiaFpXNVh4RmNicnFPVE1LOGI4c0E3d01reTBXLTJ6US1zNjlZYmVvUWRrZ29rSERtemdmQk8xTG5HLXdYejNPbE95T1V5aE5YbmdjZHU2WHd4QkM4ODNGSzR1TG1kX3ZhMDVnUmlXYU9Za0I4WVY4UF9EQQ?oc=5",
+    "title": "Neuralink Gives ALS Patient Terry His Voice Back — Inside the VOICE Trial",
+    "source": "BASENOR - Tesla Accessories",
+    "published": "Mon, 21 Sep 2026 02:04:01 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain-computer interface restored communication to an ALS patient named Terry in the VOICE clinical trial, demonstrating real-world restoration of speech function.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Terry"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "neural implant",
+      "speech restoration",
+      "clinical trial"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/",
+    "title": "Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks",
+    "source": "Boston Dynamics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Boston Dynamics opened a training center for its Atlas humanoid robots at Hyundai's Georgia plant, with plans to deploy 25,000 units across the automaker's factories by the end of the decade.",
+    "companies": [
+      "Boston Dynamics",
+      "Hyundai Motor Group",
+      "Hyundai Motor",
+      "Kia"
+    ],
+    "people": [
+      "Zack Jackowski"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "Atlas",
+      "robotics commercialization"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/",
+    "title": "Boston Dynamics Pushes Deeper Into the Factory Floor",
+    "source": "Boston Dynamics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Boston Dynamics is expanding its industrial robotics push on two fronts: opening a training center at Hyundai's Georgia plant to prepare Atlas humanoids for a rollout of 25,000 units across the automaker's factories by decade's end, and releasing Spot 5.2, an upgraded quadruped that ties enterprise software and scattered AI tools into a single stream of site intelligence for autonomous inspections. Together the moves signal the company's ambition to put both legged humanoids and its established Spot line to work on the same shop floors.",
+    "companies": [
+      "Boston Dynamics",
+      "Google",
+      "Hyundai Motor Group",
+      "Hyundai Motor",
+      "Kia"
+    ],
+    "people": [
+      "Zack Jackowski"
+    ],
+    "themes": [
+      "physical AI",
+      "humanoid robot",
+      "factory automation",
+      "embodied AI",
+      "autonomous inspection",
+      "enterprise AI",
+      "humanoid",
+      "manufacturing",
+      "Atlas",
+      "robotics commercialization"
+    ],
+    "first_seen": "2026-09-21T19:51:01",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/",
+        "title": "Boston Dynamics Pushes Deeper Into the Factory Floor",
+        "source": "Boston Dynamics"
+      },
+      {
+        "url": "https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/",
+        "title": "Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks",
+        "source": "Boston Dynamics"
+      }
+    ],
+    "body": "<p>Boston Dynamics this month opened a training facility inside Hyundai's Metaplant in Bryan County, Georgia, where its Atlas humanoid will spend the coming months learning the particular choreography of an auto assembly line. The new site, which the company calls the Robotics Metaplant Application Center, is the staging ground for a rollout that Hyundai and Boston Dynamics say will put 25,000 Atlas units to work across the automaker's factories by 2030. On a separate track, the company also shipped Spot 5.2, an updated version of its familiar yellow quadruped, now built to plug into enterprise software and stitch together scattered AI tools so that a factory's inspection data flows into one continuous stream of \"site intelligence\" rather than a pile of disconnected sensor readings.</p>\n\n<p>The two announcements, released within days of each other, are best read as a single strategic statement: Boston Dynamics wants its robots not just walking and trotting through factories, but embedded in the software plumbing that runs them. Spot has spent years proving itself as a roving inspector, climbing stairs and reading gauges in refineries and power plants. Atlas, by contrast, is still early in its transition from viral backflip video to shop-floor employee. The Georgia training center is where that transition gets tested against real welding jigs, real parts bins, and real production tempo — the unglamorous work of learning to pick up a bracket the same way, ten thousand times, without dropping it.</p>\n\n<p>For the robotics industry, the significance lies less in any single machine's dexterity than in the scale Hyundai is promising. Twenty-five thousand units is not a pilot program; it's an order of magnitude that, if realized, would make Atlas one of the largest humanoid deployments in existence, ahead of the incremental, one-line demonstrations most manufacturers have settled for. It also underscores Hyundai's own bet, since acquiring Boston Dynamics in 2021, that owning a robotics company outright is worth more than licensing someone else's arm.</p>\n\n<p>The economic stakes are straightforward: automakers have spent a decade automating the easy, repetitive stations and have been left with the awkward, variable ones — reaching into odd angles, adapting to slightly different parts — that fixed robotic arms handle poorly. A legged, general-purpose humanoid is Boston Dynamics' bet that those gaps can finally be filled without redesigning the line around the robot. Spot 5.2's software integration matters here too, because a factory doesn't just want a robot that walks well; it wants one whose findings land in the same dashboard as everything else the plant already tracks.</p>\n\n<p>For workers, the implications are less abstract than the word \"humanoid\" suggests. Twenty-five thousand robots inside Hyundai's plants will not simply replace jobs one for one; they will reshape which tasks are considered worth a human's attention, and which are handed to a machine that can, in theory, work the same shift indefinitely. Whether that reshuffling reads as relief or displacement will depend on choices Hyundai has not yet detailed — but the scale it has now committed to makes those choices considerably harder to postpone.</p>",
+    "slug": "boston-dynamics-pushes-deeper-into-the-factory-floor-c12cd1"
   }
 ]
