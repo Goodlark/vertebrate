@@ -58309,7 +58309,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -58687,7 +58687,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -58768,7 +58768,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -58927,7 +58927,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59075,7 +59075,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59102,7 +59102,7 @@
     "first_seen": "2026-09-15T18:40:56",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59355,7 +59355,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59654,7 +59654,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -59717,7 +59717,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59796,7 +59796,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -59976,7 +59976,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -60223,7 +60223,7 @@
     "first_seen": "2026-09-16T18:37:27",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61043,7 +61043,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61096,7 +61096,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61257,7 +61257,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61309,7 +61309,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -61336,7 +61336,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61417,7 +61417,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61470,7 +61470,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -61496,7 +61496,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62390,7 +62390,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62588,7 +62588,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62790,7 +62790,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63153,7 +63153,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63518,7 +63518,7 @@
     "first_seen": "2026-09-20T17:54:31",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64070,7 +64070,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64375,7 +64375,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64481,7 +64481,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -64799,7 +64799,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -65189,7 +65189,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -65244,5 +65244,1007 @@
     ],
     "body": "<p>Boston Dynamics this month opened a training facility inside Hyundai's Metaplant in Bryan County, Georgia, where its Atlas humanoid will spend the coming months learning the particular choreography of an auto assembly line. The new site, which the company calls the Robotics Metaplant Application Center, is the staging ground for a rollout that Hyundai and Boston Dynamics say will put 25,000 Atlas units to work across the automaker's factories by 2030. On a separate track, the company also shipped Spot 5.2, an updated version of its familiar yellow quadruped, now built to plug into enterprise software and stitch together scattered AI tools so that a factory's inspection data flows into one continuous stream of \"site intelligence\" rather than a pile of disconnected sensor readings.</p>\n\n<p>The two announcements, released within days of each other, are best read as a single strategic statement: Boston Dynamics wants its robots not just walking and trotting through factories, but embedded in the software plumbing that runs them. Spot has spent years proving itself as a roving inspector, climbing stairs and reading gauges in refineries and power plants. Atlas, by contrast, is still early in its transition from viral backflip video to shop-floor employee. The Georgia training center is where that transition gets tested against real welding jigs, real parts bins, and real production tempo — the unglamorous work of learning to pick up a bracket the same way, ten thousand times, without dropping it.</p>\n\n<p>For the robotics industry, the significance lies less in any single machine's dexterity than in the scale Hyundai is promising. Twenty-five thousand units is not a pilot program; it's an order of magnitude that, if realized, would make Atlas one of the largest humanoid deployments in existence, ahead of the incremental, one-line demonstrations most manufacturers have settled for. It also underscores Hyundai's own bet, since acquiring Boston Dynamics in 2021, that owning a robotics company outright is worth more than licensing someone else's arm.</p>\n\n<p>The economic stakes are straightforward: automakers have spent a decade automating the easy, repetitive stations and have been left with the awkward, variable ones — reaching into odd angles, adapting to slightly different parts — that fixed robotic arms handle poorly. A legged, general-purpose humanoid is Boston Dynamics' bet that those gaps can finally be filled without redesigning the line around the robot. Spot 5.2's software integration matters here too, because a factory doesn't just want a robot that walks well; it wants one whose findings land in the same dashboard as everything else the plant already tracks.</p>\n\n<p>For workers, the implications are less abstract than the word \"humanoid\" suggests. Twenty-five thousand robots inside Hyundai's plants will not simply replace jobs one for one; they will reshape which tasks are considered worth a human's attention, and which are handed to a machine that can, in theory, work the same shift indefinitely. Whether that reshuffling reads as relief or displacement will depend on choices Hyundai has not yet detailed — but the scale it has now committed to makes those choices considerably harder to postpone.</p>",
     "slug": "boston-dynamics-pushes-deeper-into-the-factory-floor-c12cd1"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2NpanIxZFhfVTBMaE0weDRubUttYWJmNHRLQ1Rfa2FkQUEyem5yNVhpUW1VeWZ3dmQzMVBfUlpDTG1hWGYxZDl5OXhxZ1daYWJLb3FETHhDcDRlSUI4QnhIekxGQW1IWVpYRTBqc2VJRGZtWlVFX2MtdHNiTmZaY01qd1hkbERkeGpqM3NXWmwzV3BoV2ktZkFRNzVkQmJ0cUVTZVNhNnhIZw?oc=5",
+    "title": "Influencer Fights ‘Terminator’-Like Humanoid in Bout Billed as First Human-Robot Match",
+    "source": "People.com",
+    "published": "Tue, 22 Sep 2026 12:59:50 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "An influencer faced off against a humanoid robot in a boxing match billed as the first human-robot bout, a publicity stunt that underscores the racing commercialization of physical AI.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "human-robot interaction"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
+    "title": "Toyota orders workers to train humanoid robots but says humans won’t be replaced",
+    "source": "Ars Technica",
+    "published": "Tue, 22 Sep 2026 17:06:16 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Toyota has begun instructing factory workers to train humanoid robots for assembly-line tasks, following the company's partnership with Boston Dynamics to deploy physical AI on the production floor.",
+    "companies": [
+      "Toyota",
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSy1sNEsyU0tkbXJ4UUZyN2lTRmNKa2FUaVhTYkxRdms1ZHlsRFl6anplUE1CR2VLQTNEM2ZtNmlwY0d4Vk1wUkI2NlptcVVkblFfdjBTWk15ZHBwbHRDaS1yb0Fha0ppcXBxTXBQNUV3aEZXeFpWRkswbDlaVmZEWmZ4QllFeEVWbFVNeFBoYlRWZWYzakNER0FOWDA3ZWExSVgtS2RwdGYwcDhEWC1EQjgtWnQ3S1FWblpMRXR3U29jRFN2Rll0TmhxTnFtS3Rp?oc=5",
+    "title": "Figure’s Billion-Dollar Physical AI Bet Delivered A 6X Jump In Robot Chore Success",
+    "source": "Forbes",
+    "published": "Mon, 21 Sep 2026 23:13:21 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Figure reports its humanoid robot achieved a sixfold improvement in task completion rates after investing over a billion dollars in physical AI development.",
+    "companies": [
+      "Figure"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot performance"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3VOQ2U3N29DRExvaXNQX2tta0I0YU85azVFeVlnTjBHTjZVT2ttdllZOTVlNFk5YURSTlY2VlJVV1E3UWZNVnJIRzFFQmFhbDRVUXgtTHQ0NEVhT1gxblJqTW1fVkRfMmt5YlNwTmIzYjQ2aURGUk1yMnVQanFLZkxIOVBQSGxtYXlucy1BczhuRGIwMi1EVzRlZHM?oc=5",
+    "title": "‘I’m scared for you’: Amateur fighter takes on humanoid robot in historic caged showdown",
+    "source": "New York Post",
+    "published": "Tue, 22 Sep 2026 13:35:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "An amateur fighter faced off against a humanoid robot in a caged match, marking an early test of physical AI capabilities in combat.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics demonstration"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFF3bVpNeDY5TzFPUlJjbU5OOTF1ZDdhRDlxb1FFb09tV29zODR3N21LQ1hMblBlbmNGMkJEWHhLeF94RXNkTUJPWkcwZ19EZWlybXhZMnRpa0dVZ3JjVkUzSGpaZXdVT05DVFU4YVdpM0ZmeV8wY0VwZGRROEFRRTZrbDg1YzZtd0ozRFYzbzNlS3dEeUg2UmdDTWVSWi1DZGc0QWhIa0gwdw?oc=5",
+    "title": "China Freezes Humanoid Robot IPOs After Unitree Plunge - Tesla (NASDAQ:TSLA)",
+    "source": "Benzinga",
+    "published": "Tue, 22 Sep 2026 13:31:31 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China has suspended initial public offerings for humanoid robot makers after Unitree's stock tumbled, a regulatory move that constrains the market's most aggressive sector.",
+    "companies": [
+      "Unitree",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO",
+      "regulation"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTcwSmV2Rzl4TnlQMjdBS1NLaTAwSUs3YkVyVkVkd3ZveWxrRlRfNTRwSzZMdDNoZVVMOV9TSjFHUVp2Si1LT3lXQi1mUXBEbTZRdVdsT3VrT0RmTUNvU3c0TE5yQkZxVUpLSVZMUnZMTHl0SEFITzYwaklnWWRuT3l0TEMxQVJWQUx1YU00R3dXdGNQalE?oc=5",
+    "title": "XPENG's Iron Humanoid Robot Walked Out Immediately After Being Assembled",
+    "source": "Engadget",
+    "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng's Iron humanoid robot walked out of the factory on its own legs immediately after assembly, demonstrating the company's progress toward autonomous bipedal locomotion.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "bipedal locomotion",
+      "robotics"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
+    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+    "source": "blogs.nvidia.com",
+    "published": "Tue, 22 Sep 2026 12:06:35 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NVIDIA released Isaac ROS 5.0, an open-source robotics platform that adds agentic AI capabilities for building autonomous robots.",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "agentic AI",
+      "open source",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzaU1UMXFCSDZ2WmdKTlFLWkNWd3lBWWgxVU95M1VQTU5QN3hlbE5EU3FPYUFISVljaV9GVWFVLUNxRFV4WVNkdEF3N1BTdmUwTTVoWDdnRHRhMnB4RkIxX0xR?oc=5",
+    "title": "Tesla to audit Chinese suppliers to prepare for mass humanoid robot production: report",
+    "source": "Global Times",
+    "published": "Tue, 22 Sep 2026 14:55:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla is auditing Chinese suppliers to ready its manufacturing base for humanoid robot mass production.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "supply chain"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ1NYempUaVhsam1mSWs0VXhkajN1b2UzM1owWXVpLUdFaUhfTlYtSEh5RUd6TTRyYTQwNzh5SHVHSFY2di05LW9CejVyQWhscmxRcHVQczJfd21XTjVCb3RBeXc5bENuRmhpTG9MY1VWdWE5VGVFdUtvRFpiRzF5ZDVrX04xTUo2WW5HdUwyWWFJSzlyN0dJcFJKR2pWY1B1WFZFUnJrZ29PcFkxX29ielhqTlEzcVZyTzNKcHhlRXlDREctcFp6dFNJc1pjSk0wb0E?oc=5",
+    "title": "Google's robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots",
+    "source": "SiliconANGLE",
+    "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Google's Intrinsic open-sources its core software stack for training and deploying industrial robots.",
+    "companies": [
+      "Google",
+      "Intrinsic"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "open-source",
+      "industrial automation"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXRCMko0WEZDQ2V4OUxQeFcwS2RFWl93OFpNVGozTkpoNldEWWZ4RVQ3NEk5UVZRTEtUeWZiRTZFVDNmQTFFNU5fQkVVR24tT216TEI3VktyWHdJZTFzUFpXa1h1RTRONVdWMTYxX1h2alBCWmdsdjF3cW9XX0Zzd2lSX0dzQnBZdnkzSmVmampXUi1YeEVNSw?oc=5",
+    "title": "Lack of training data stifling humanoid bot development",
+    "source": "TechTarget",
+    "published": "Tue, 22 Sep 2026 14:26:13 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Industry analysts warn that humanoid robot makers are hitting a wall: they don't have enough real-world movement data to train their models.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "training data",
+      "machine learning"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0Z4THhMS092elh2Y3Q2VElVZ3VVbnF1OG91UjB0NlJuMkRmMVhwaHljNEphZ2tadEh1cTBMM2VJNUg2RlZIelNrUm9DNU0zZnFLcDZhd1lPeDhwU2NYSHhWUVhwN29FUW1zQ25LWDVqZFpuYWpVS0lMVWU0WlNJZU9NWQ?oc=5",
+    "title": "UBTECH’s Liuzhou Super Smart Factory Builds a Humanoid Robot Every Ten Minutes",
+    "source": "TechEBlog -",
+    "published": "Tue, 22 Sep 2026 04:00:06 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "UBTECH's factory in Liuzhou is now churning out humanoid robots at scale, one every ten minutes, signaling a shift from prototype to production.",
+    "companies": [
+      "UBTECH"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "production scale"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbE8yRU5rWFB3cnRkRXc4Z2lNMlZmYXMzUTExYmtLdHFiOFZIT3BSdU9OblNEMXJMRFBlQ1YwdEh2VVNudkRqM2xaakVsLV9YUFJOYjA0LXZBS184X0pDN0ZVNmVtcXJxN2s4bWV1V3BSSE05SEE2NTdEazREZ1ljQzA5cGhUdlgtU3Fzdjl2MVZDUXlwa3NaRjBQbmtxQQ?oc=5",
+    "title": "Global Humanoid Robot Sales Reach 7,000 Units in 2025, IFR Data Shows",
+    "source": "Yahoo Finance",
+    "published": "Mon, 21 Sep 2026 10:53:50 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "The International Federation of Robotics reports that global humanoid robot sales hit 7,000 units in 2025, marking a milestone for physical AI adoption.",
+    "companies": [
+      "International Federation of Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics sales"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONXFuajFiVkQzMk1xZEpBeVJoM1hzdmNIWTVNT2x4eTItWVRpaTRLSDRpb3p0dG5qQVpHX29YWHhrV2xXc0dPZHB0U29Lc2x2alBmUUhxVmp1Q3BZbFA5T3Z5aWQ3SDd1ck1tSm5SODVpUkFtN2QxbmJfVjVKMFk0d0NvOTREWmw2VW9LbA?oc=5",
+    "title": "China rolls out AI \"classrooms\" to fuel humanoid robot boom",
+    "source": "Macau Business",
+    "published": "Tue, 22 Sep 2026 05:58:12 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China is deploying AI training programs designed to accelerate development of humanoid robots across the country.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "training",
+      "China"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3E1RTVJaTItWUxvSUNXcEhyVXNFRUFTenF6WjBKMDUxRGRyUEV3S2xFOTdGWWlkMUdRYnh0ZzNZME1xTXpoT2k2OWpwSzQ1ZVdKLXNneW5sN1Q0QVdpbDU0cEpaMXZtNXdFQVh4RFBBdnJUTXpkNUw5NktKTnF4ZFJuRjNhV3BlM3llNWhmNlJBbVV2LWozRE13cXYtYWctYjZsWTZzVnJRTTRWcWR1VHVzc0JrbTBnUVdTUW84Z0xBbWti?oc=5",
+    "title": "As Waymo test-driving continues, Minneapolis considers autonomous vehicle restrictions",
+    "source": "MPR News",
+    "published": "Tue, 22 Sep 2026 09:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis is weighing restrictions on autonomous vehicles even as Waymo expands test operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "testing"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUS1kQVZCeTNwM0hiVzNSS3hxNmpfSXRNYXVXUnFiZUVQTUU4ZXpJRV9CVVBtaTEzLVZuTUJabWdrTndSU0hWYTEtTTc2WElyNXZNc2ZuLVNsRnBScHltWVg4ckNwdk9NQS12b1ZPMHNkTzZybzJlakJGMllVcjdyUzZVcC1MUmMz?oc=5",
+    "title": "What should Minneapolis do about Waymo?",
+    "source": "MinnPost",
+    "published": "Tue, 22 Sep 2026 10:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "MinnPost asks whether Minneapolis should welcome or restrict Waymo's autonomous vehicle operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "policy",
+      "urban deployment"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWVWV3ZndmRvSk9jWW44ajIwdU9WTHJRRnhGWnJhWXlkdnFrMnFobTZaSG5HMm94Y0czTkx5dXRrc2g4bTQ0djJ3dGVuY2dmNWtZNnlxbkZPQVBkTTdWODJWTl8wT1VaVVVHcTVmLWxzemNNRFpobl82eFQ5YUpGYnI4UG80b1hQTEg2elJn?oc=5",
+    "title": "Tesla’s active robotaxi fleet in Austin crashes back to 8 vehicles after Cybercab pump",
+    "source": "Electrek",
+    "published": "Tue, 22 Sep 2026 13:45:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's active robotaxi fleet in Austin has shrunk to eight vehicles following the Cybercab announcement, suggesting the earlier count may have included unreleased prototypes.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1hFbk5ycGluWF9od0NSdEpTQy1hNnZydHRybWVRYWNndFNYOUJKMUlybEhvSTJPaE1CamctMEZQaktJaEtrdW4tYy1UWlVsNTdEeU5wMTNyS0ZDMjM5dzNkWlRsN0lELWxPOEV1Tk43VG95VVhqUlFzWUdMQ1hodEI1alo1T0w4NHN4djBQRlJfLW5IRWVGSUE0VHJ2V2w1?oc=5",
+    "title": "Waymo is offering transit discounts again, this time with Visa",
+    "source": "The Verge",
+    "published": "Tue, 22 Sep 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo partners with Visa to offer discounts on driverless rides, expanding its consumer incentive strategy.",
+    "companies": [
+      "Waymo",
+      "Visa"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-sharing",
+      "consumer promotion"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlc2T09WRnZaMjBoNE5LMTFkckQtd2J0MDd6bVpuX2JGS2RPekpZSjZPekgxS0JuS09qcUltWUpZb2hRMjljeU1oek5RZUdnY21fYVZ4dmhWcVgxN1hSNWZvM3hMcnN0NGI0Y05ZUXhzM1NleFlYM0I3eUZIS0lXMXhyUWJMV2toQ3FjcDM1N3ozWkZjTTU5N0lOdEdSY1JEMElDd2VxTFVZVUR4cURDcnZtMWRMQnhq?oc=5",
+    "title": "A Waymo Drove Into a Denver Farmers Market. Colorado Police Had No Mechanism to Ticket It.",
+    "source": "Gadget Review",
+    "published": "Tue, 22 Sep 2026 16:31:36 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle drove into a Denver farmers market with no legal mechanism for police to issue a ticket, exposing a gap in Colorado's enforcement framework for driverless cars.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "enforcement"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmlkb2RrYWF5ZTJnejVZSTRtd2dWaGViOVZXdjJZZWJKQVhvZXFROWhnT0JkdGtRQVM2cTJzOEJWWGxpc2g5Umk0aWtjOGN1b2FZU2JqVFUxQnJuWE5CNkQ5TkpKRUxXQjNuUVdnRXVhUktmbklCakp2bVhteUowUTZaUk9wZzh6dENDSXlGY1FldlpWQ214Qmw4M3JXQQ?oc=5",
+    "title": "Robotaxi competition revs up as Uber makes $10B investment in autonomous vehicles",
+    "source": "Yahoo Finance",
+    "published": "Tue, 22 Sep 2026 15:19:00 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Uber commits $10 billion to autonomous vehicles as the robotaxi race intensifies.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "robotaxi",
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3psS0dTSzZ1aGVJeUtnUXlpakh6ejVpamxsdS1iUU0tNDNfcE5RenlMazJLX2Jpb0V1NDdwNHZaT1A0V2lGVkJJMk9sdDN0REhQSFpoMEV4OC1wUjhZSFdJRDVVa0c0Ry1KM1VCUFhhbV9td0JRX1hMdndMR0hkWVlWdU9VV043Zi1KcTFDc0NQWHhId3NvLW9vMFJzeXdaVnpaQWJtSThMVDFiWnpodzBRMEQ?oc=5",
+    "title": "Minneapolis residents set to sound off on \"human monitor\" ordinance for driverless rideshares",
+    "source": "CBS News",
+    "published": "Tue, 22 Sep 2026 12:30:33 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Minneapolis city council prepares a hearing on whether driverless rideshare vehicles should require a human monitor on board.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "rideshare"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGZwMEtiZWFIUTA2ZEJ4d1ZYY3h0N2RtQ1ZDdDBGTmktQWlqOXQ3VU84Ym1oSzI5cTFGV21DdFFDNzJweEdJX2FwSk94SWJXaWIyVnlLWm80Rm9Ya1pqTFJidlFWem1aSkZTbGFUTGRILVk0bHA3NkhUbkVEVEc3N3AxRTJlZHFITllyTS01UkxXUmlqR2c?oc=5",
+    "title": "Ride along inside Aurora’s self-driving semitruck",
+    "source": "CNBC",
+    "published": "Tue, 22 Sep 2026 11:29:04 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "CNBC takes a ride in Aurora's autonomous semitruck, a demonstration piece that showcases the company's self-driving technology but reports no new deployment or commercial milestone.",
+    "companies": [
+      "Aurora"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "self-driving",
+      "semitruck"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeDNvTU14SXZ5Q1VxWkI5N2lQbnFObmk4d09ERXUwYlhFaGN3SHNFN0xhSnBkRG4zQnlnVzlaSFVGQ0p2RmpadlFxMTYxMXY3N0NaM20wTzFTdGJvVGFIR21LMEFhOUtibkdybnVzWU9Db2llcnVZRVVod0dKMGw2YjFab3RaN2c3b0pCQTBIY3hudHVKNHNPdHB1VE5SRmFJc3p0MlY3YmxDQQ?oc=5",
+    "title": "Waymo riders can now get $2.85 back when pairing a ride with public transit",
+    "source": "Electrek",
+    "published": "Tue, 22 Sep 2026 14:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo introduces a $2.85 transit credit to incentivize riders to combine driverless rides with public transportation.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "multimodal transit",
+      "incentive program"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaVJpUXBfVWtGbDJqRUo5WkZUVlg5TlFtSVpOYVJIaDNERHJBX2xZTTJBM2pNaDZDZWd0aHhYdDZNY21uS3dNNk96RE9BcU0yZHB5dkNZeUk3R0QwV1h4VDhxYVFtRnU5VVdvYS1oc1U1MmtGWFp1Q1FTMDhqZ0w0OS0wTXJSM1liWTR4am1BRXNIRTdMZ1FvMUVDOUxZanVLUkVCQW5NMDFhS2MyYThqM1VQbmdGblpIcGFCQmtFSTRsWHc4YWR4ekdiNXFhUjQ5T1Q1VWdqdzg?oc=5",
+    "title": "There's no law to ticket the Waymo that drove through a Denver farmers market",
+    "source": "9News",
+    "published": "Tue, 22 Sep 2026 00:43:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless vehicle drove through a Denver farmers market without legal consequence, exposing a regulatory gap in autonomous vehicle enforcement.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles",
+      "liability"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmdielJadExCU3hsWXdFYjZneTVyd182VzRBMElJaWMxTU1qblZ1VlQ3UlJjLWw3YVd4OGxwZ25FZUloNHY2RTNMMnAwRm5UMmpUZ3hfd0drVGNKNG5fa1N6ZzdHMmpvLWVKeHBiZzMwUExJcDl4SlNVLVJNRnpCX2g3MA?oc=5",
+    "title": "Tesla Full Self-Driving bug falsely flags dirty cameras, demands service",
+    "source": "Electrek",
+    "published": "Tue, 22 Sep 2026 14:26:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Full Self-Driving system is triggering spurious camera-cleaning warnings that send drivers to service centers even when lenses are clean.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "software bug"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkZncHJsSlBhNG9GcVdhOHJvclYtX0hnaEd0akRpaElxekVYTFdvbkh1ZTFuM0s1Tk51Q19KMlVZNGhfblNpMEVUeVYzeHdxOHFQaWRIZ2VMdER4MFhLSXVLNEVjdnRzOTV2OVVjZU1ONWJlYWw5OTFVdUE2T2pGRVgzT1IxT3JhbXd0YjJ3dkhFOU9najRMNTVQRU5tWHFtUUx0c3BHdVk?oc=5",
+    "title": "Minneapolis mulls \"human monitor\" proposal for driverless vehicles",
+    "source": "CBS News",
+    "published": "Tue, 22 Sep 2026 11:44:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Minneapolis city officials are considering a proposal that would require human monitors aboard driverless vehicles, a regulatory hedge against full autonomy.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlJOUlU0a2MxU1dqVDVFaWVfNDRaVTdramtvTWdMRy1JOHE5ZW9mcTZoNzdsOTRsUGp0N09FakFrMGZhTWs4TDJQcG1RbDVCdEtpZ3A5bHR6TEtzSUROak5ucnY4THJGWG1MVERBTVUyckNsQzlfNGlfcl9LelQ0Ym0yNFJOS1VxOE9kd181a082b3N5bndzTFNlT0NmdjJ4OWNtSUMxTU5oclJtRVQyUjAxOA?oc=5",
+    "title": "FOX5 follows Waymo expansion in ride along, highlighting safety protocols",
+    "source": "FOX5 Vegas",
+    "published": "Tue, 22 Sep 2026 05:51:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "FOX5 documents Waymo's safety procedures during a ride-along as the autonomous vehicle operator expands service in Las Vegas.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PWTZKbXBqZHRiX2tYZEc4YTd0N1lYdU42THZKdWF1Vl9CeTAtZUJ2UEJvVVVBa1huSW9EY0ROVm1oZw?oc=5",
+    "title": "Driverless Waymo Humiliated As Vehicle Invades Busy Denver Farmers Market",
+    "source": "youtu.be",
+    "published": "Tue, 22 Sep 2026 16:53:49 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle drove into a crowded Denver farmers market in an incident that became a viral video rather than a reported safety issue.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety incident"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWdYU3Z4U09pSVA2U01Oa0lnZnNDLVdNUnZOMmpCRnQ0WXRMenhDbmhSRmFTRzVpZDJGcDRFbUxDWVlRbkFueGlBdTR1TEQxV21MNDloQm1zQXpjYTZieUl0TE9UbVlqQ0ZJZHRUbmQyaHg2UFQ3SW00aTlLZFN5UHZSd1NKMkhWR2tOOHA2RmZISXdZNDdZTzE5WXdUNmdfdTBuNmNhNUJjUG9DVkE?oc=5",
+    "title": "UK developer of net-capture drone security weapon expands into US with autonomous vision",
+    "source": "Imaging and Machine Vision Europe",
+    "published": "Tue, 22 Sep 2026 15:22:37 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A UK drone company known for net-capture security systems is entering the US market with autonomous vision capabilities.",
+    "companies": [
+      "UK drone company (name not specified in snippet)"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous vision",
+      "net-capture",
+      "security",
+      "counter-UAS"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOC1jVWFSTGlqX1UyQnRNUU5GV25KVEZDM0NQRHlRQXRCWE5IUzZQQlpXVTVGRTdZcVM1NWdsMWppYnRGZnR1YWVRS2pHamNrZS1qamZWQ1dBemNzVF9uM2xJTVRZUlRITy1US2tMOFhpa0R0U3JGcEwwZGI5T2tMVncxYzl6VjNEalpnQzc3ekxxaUtJVWJYVWhMZFFaeWx6VTd2V0gtd01TSm5YUmlxT20xNlFONVFfcl9PY3VPdl8tZXdTYjJCNEFySGUzZVFoWjhObks3RWtnTmNuQXh3UGpfZ290N1FEbVFoOWxhRFJZZw?oc=5",
+    "title": "U.S. Navy says Mk 48 torpedo launch from British underwater drone advances autonomous AUKUS strike capability and allied integration",
+    "source": "Defence Industry Europe",
+    "published": "Tue, 22 Sep 2026 17:50:02 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The U.S. Navy successfully fired a Mk 48 torpedo from a British autonomous underwater drone, demonstrating allied weapons integration under the AUKUS defense pact.",
+    "companies": [
+      "U.S. Navy",
+      "Royal Navy"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous underwater",
+      "military drone",
+      "torpedo",
+      "AUKUS",
+      "allied integration"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPcjB6dUl2d3FzZ1MxYTE1cEI1SWxTc0NTQVlaQW42Q3pHUUJsT3EwR3F1NGNMeTRXbjhrMzc2czRYU28yb0Y5bE00R2x4TjFDWXlycnBvY2VqS0M4QlV5allVQVlnWVZVeUp4YjBXVXlwSlJFc2hUM25HcXFSeDB0YU5tdnZrVktCbl9hX2JGcVdLTjRyUHFaV1ZUblNVZnd1dWgtZDk2T2ZqcndURnp6STNvaDRLaDg2M21UZjhGcnAzYkRCWHlKZ2QtZ0E0OW5iRUlob2RyYTVQN3JIUmNuRDNNRGdyNHh5ZWxJdGx0SnZwUUdmMEhpVHFHdkVUZFlkOVRHaXpNNC10NXlCNnN5ejZsQTRFelBuNmFKNXBGX1paLVlDamhlOUx1V2RjWEw3YmpIU3MzcjhDam1zaVh1VmdZbmVSc3AtbTRaUmQ1bThfOFRFWS10QQ?oc=5",
+    "title": "Rocket One Signs Definitive Agreement to Acquire Revenue-Generating Tracer Drone Technologies, Accelerating AI and Counter-UAS Expansion Across Public Safety and Defense Markets",
+    "source": "tradingview.com",
+    "published": "Tue, 22 Sep 2026 12:12:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Rocket One agreed to acquire Tracer Drone Technologies, a revenue-generating counter-UAS company, to expand its AI and defense capabilities.",
+    "companies": [
+      "Rocket One",
+      "Tracer Drone Technologies"
+    ],
+    "people": [],
+    "themes": [
+      "counter-UAS",
+      "drone detection",
+      "AI",
+      "defense",
+      "public safety"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rRjR3b3hSR1lBVkZva0Q2Z3FyQnNYdS1SaGtVMTRHTmtDX25UWjRHV0tjSjVFNTRpXy1TZEpHejBWNkNxRUFmdXdLSTkxV3JqRHFnUm5KSWw2TmxSVzJIR0xWWEI4aUNfVFVWbGJrMGM0Mi1BQkpjLVNsUTN0Zw?oc=5",
+    "title": "Drone Solutions Wins BVLOS Approval for Medical Deliveries in Zimbabwe",
+    "source": "Dronelife",
+    "published": "Mon, 21 Sep 2026 10:24:20 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Drone Solutions secured regulatory clearance to operate beyond visual line of sight in Zimbabwe, opening a new market for autonomous medical supply runs.",
+    "companies": [
+      "Drone Solutions"
+    ],
+    "people": [],
+    "themes": [
+      "BVLOS",
+      "medical delivery",
+      "regulatory approval",
+      "autonomous logistics"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDNNWEpSb1JWMEppMHRRenhfWXJYTF9WckFxQW42aGp6VTFEOXgtb1RiYUZDVW1oRklRcXl3SldWZTAtemVnLXNIckNDbV9CSGhkLXZkWEtHY0Y1UEVzN1I4ckZHdHpweUU0dTBuQ2RFOENCY2ZzM3JmbU1WdGI3N0FqSlRLNEV4QzBFeklWWEZhdw?oc=5",
+    "title": "ZenaTech Selected for Canada's Defence Drone Initiative Marketplace, Expanding Opportunities for ZenaDrone's AI-Powered Autonomous Drone Solutions",
+    "source": "Yahoo Finance UK",
+    "published": "Thu, 17 Sep 2026 12:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech's ZenaDrone has been selected for Canada's Defence Drone Initiative Marketplace, gaining access to government procurement channels for autonomous drone solutions.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "AI-powered",
+      "defense",
+      "Canada"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWi1NekxLejdadUQxUEFYei1uTnNuUHp4ZHgwNVJMU3RiVDBVZkV1UThFdTc1MVlWV1ZGdjdWQk9UM3VNdFNUdTI1RmtDQUlzVGdxMEZwU0todzVJQ1lfZk95SUtNN05uYURnTUVHUC1DMks4NmlDMVVrZk91VFFrOUlRTEdidkEwVjJpMTlpcXl1SjdiVDhLd29faw?oc=5",
+    "title": "Neuralink’s Brain Implant Turned Imagined Speech Into Audible Words",
+    "source": "Gadget Review",
+    "published": "Fri, 18 Sep 2026 16:01:50 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink demonstrated that its brain implant can convert imagined speech into audible words, advancing neural decoding for paralyzed patients.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "neural decoding",
+      "speech synthesis",
+      "paralysis assistance"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/2026/09/transit-rewards",
+    "title": "Waymo Rolls Out New Rider Perks: Transit Rewards in the Bay Area, Teen Accounts in Nashville",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is broadening who rides and how they pay. In the Bay Area, riders can now earn Waymo Cash by pairing driverless trips with public transit and a linked Visa card. Meanwhile in Nashville, the company extended its teen-rider program, letting 13- to 17-year-olds summon robotaxis across a 50-square-mile zone under a parent's account.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Toks Omishakin",
+      "Matt Mahan",
+      "Asher Huffman",
+      "Amy Huffman"
+    ],
+    "themes": [
+      "driverless",
+      "multimodal mobility",
+      "public transit integration",
+      "autonomous vehicles",
+      "teen transportation"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://waymo.com/blog/2026/09/transit-rewards",
+        "title": "Waymo Rolls Out New Rider Perks: Transit Rewards in the Bay Area, Teen Accounts in Nashville",
+        "source": "Waymo"
+      },
+      {
+        "url": "https://waymo.com/blog/shorts/teen-accounts-nashville/",
+        "title": "Nashville families, your transportation routine ju",
+        "source": "Waymo"
+      }
+    ],
+    "body": "<p>Waymo announced two changes this week designed to widen its customer base rather than its map. In the San Francisco Bay Area, the company introduced a transit rewards program that pays riders in Waymo Cash for combining driverless trips with public transit, provided they check out with a linked Visa card. In Nashville, Waymo extended its teen-rider program, letting 13- to 17-year-olds hail its robotaxis on their own, across a 50-square-mile zone, so long as the ride is tied to a parent's account.</p>\n\n<p>The two moves land the same week but serve different ends. The transit rewards program is Waymo's bid to position itself as a partner to buses and trains rather than a rival to them — a first-and-last-mile service that fills the gaps transit agencies have never quite solved, while quietly training a new generation of commuters to treat a driverless car as just another leg of the trip. The Visa tie-in also gives Waymo a tidy stream of payment data and a loyalty mechanic borrowed straight from the airline and credit-card playbooks: ride enough, transfer enough, and the app starts paying you back.</p>\n\n<p>The Nashville expansion is a different kind of bet, on households rather than habits. Letting teenagers summon a car without an adult in the vehicle — even one supervised remotely through a parent's account — is a meaningful loosening of who counts as a Waymo customer. It follows a similar teen program Waymo rolled out earlier in Phoenix, and it signals that the company sees family logistics, the school pickups and practice runs that occupy so much parental bandwidth, as fertile ground for autonomous vehicles, not just downtown commuters and airport runs.</p>\n\n<p>Together, the announcements say something about where Waymo believes its business actually grows: not primarily by adding new cities, though it continues to do that too, but by deepening its usefulness inside the cities it already serves. Robotaxis have spent years proving they can drive; the harder problem has been proving people will build them into daily life. A rewards program that nudges transit riders toward Waymo, and a permission structure that lets parents outsource the school run, are both attempts to answer that question by embedding the service into routines rather than novelty trips.</p>\n\n<p>The stakes extend beyond Waymo's balance sheet. If autonomous vehicles become a normal complement to public transit, that could ease the first-mile problem that keeps many commuters in their own cars, with modest but real implications for congestion and emissions in cities like San Francisco. And if a 13-year-old can safely and legally ride alone in a driverless car, that reshapes assumptions about mobility for families without a second car or a flexible schedule — a small but telling sign of how quickly the technology is being asked to carry ordinary life, not just prove itself as a novelty.</p>",
+    "slug": "waymo-rolls-out-new-rider-perks-transit-rewards-in-the-bay-a-01e1f4"
+  },
+  {
+    "url": "https://waymo.com/blog/2025/07/waymo-teen-accounts/",
+    "title": "Teen accounts",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launches teen accounts in Phoenix, allowing riders ages 13-17 to summon autonomous vehicles independently while their parents monitor trips in real time.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Crystal Whitlatch"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "rideshare",
+      "teen safety"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/teen-accounts-nashville/",
+    "title": "Nashville families, your transportation routine ju",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expands its teen-rider program to Nashville, allowing 13- to 17-year-olds to hail autonomous vehicles across 50 square miles when linked to a parent's account.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Asher Huffman",
+      "Amy Huffman"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "teen transportation"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wayve.ai/press/wayve-mercedes-benz-announce-production-agreement/",
+    "title": "Wayve and Mercedes-Benz Partner to Bring the Wayve AI Driver to Future Mercedes-Benz Vehicles",
+    "source": "Wayve",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Wayve and Mercedes-Benz announced a partnership to integrate Wayve's end-to-end AI driving technology into future Mercedes vehicles.",
+    "companies": [
+      "Wayve",
+      "Mercedes-Benz"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "end-to-end AI",
+      "automaker partnership"
+    ],
+    "first_seen": "2026-09-22T18:28:11",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
   }
 ]
