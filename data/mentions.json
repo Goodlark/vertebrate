@@ -60745,7 +60745,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -60777,7 +60777,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -60882,7 +60882,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61043,7 +61043,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61096,7 +61096,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61522,7 +61522,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -61929,7 +61929,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62040,7 +62040,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62067,7 +62067,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62206,7 +62206,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62287,7 +62287,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63046,7 +63046,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63153,7 +63153,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63185,7 +63185,7 @@
     "first_seen": "2026-09-20T17:54:31",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63426,7 +63426,7 @@
     "first_seen": "2026-09-20T17:54:31",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63546,7 +63546,7 @@
     "first_seen": "2026-09-20T17:54:31",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -63804,7 +63804,7 @@
     "first_seen": "2026-09-20T17:54:31",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64070,7 +64070,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64455,7 +64455,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64799,7 +64799,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -64889,7 +64889,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64915,7 +64915,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65291,7 +65291,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65658,7 +65658,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65892,7 +65892,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65918,7 +65918,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -66243,6 +66243,1171 @@
     "why": null,
     "duplicate": false,
     "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
+    "title": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+    "source": "Tech Xplore",
+    "published": "Wed, 23 Sep 2026 10:20:01 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Researchers develop whole-body AI control methods allowing humanoid robots to squeeze through tight spaces and navigate complex obstacles.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "motion control",
+      "obstacle navigation"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSjhOOXhkano2ck5tYXZaVFE2TFVzLVpqU1RBU2tMdE8tbmkwcWVUTXVtQ2JrRnRIZGd5M3NnLWpZRm9JUlVmQkxacGlDem5xbmZBSXQ3YUhiMkxhQ3F1RHhkSk5HY2Vna3gzOV9vdTQyOWRvVVhmSkFfTlJaWTM0OUJ6ejNVb2I5YUtTNktpZlNQSEpiUkRMQlpwR3A1N0RubEdKNU1hODBvTjljTi0zZF9yN2xuRnN1MGhmOXM2bzYzcXFiQjBaUFI2QXpHUmNnVmZQZTFibEdhS0czZG1qY19fMTRxSG8waFgwOE0xNEFRbzFn?oc=5",
+    "title": "O-ID Raises $1.2M To Build Fully Modular Humanoid Robots as Industries Brace for a Shortage of Millions of Workers",
+    "source": "techstars.com",
+    "published": "Thu, 24 Sep 2026 17:32:02 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "O-ID, a Techstars-backed robotics company, raised $1.2 million to develop modular humanoid robots designed to address industrial labor shortages.",
+    "companies": [
+      "O-ID",
+      "Techstars"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "modular robotics",
+      "labor automation"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVXM1T2lvQkM5amlDbTd1MUM5SEk5LTlUcTBuamRzVXVyWXAzSzRGaWhlRnVqbVZXVkJBTHJ1OTdVWXQ4cGFRU2hQNlNyRnNuOWxCcEE4ZUVkQnlVOWJZYzg2Ym5CSjdDOHBUcDNURHNHa2RXLU1MY1VwY3JpSW5wU2ZmUkdmbDctajBTR3V2M0xUaGgzN2ZZVmNRMEpMSUV5WVVJdzJ3TTdtV2NGNTlXdHhXQmJVbVZxRTJldmstMndpbnp3Q18zVDNB0gHKAUFVX3lxTFB3ZnJYYXFva3N3Tld4bVMyTTlsbFAxSndON3BMUFotTHdPVHdMV2d2SndWd1NEaXpTMENBdjl0OTV4bEZDY0R4QS0tLTVZUlJfU0RFa1N5XzlzdUxRVVF2VjRucmNNT2k4U0NEMlp5djAzZ29PbHZWcHV2V0xNbkN6bUsxdWU2aGlXcE5kUTcyZFFiaTJBQkNZdjZpLTFVUEoyaWcxb0JGWVhrZ1RMTkp1ZURMd2hDdmdmUzhMc2Q4Vzl2ZjE1YUNtSlE?oc=5",
+    "title": "China’s humanoid robot IPO slowdown no threat to firms with ‘genuine strength’",
+    "source": "South China Morning Post",
+    "published": "Thu, 24 Sep 2026 09:08:50 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A market analyst suggests that China's humanoid robotics companies with solid fundamentals will weather the IPO slowdown.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO",
+      "China"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjNDeC1UeFZqaUo5aXdCZnBDblE3eXhUQmd4c0wxNktWWFpUQlgtQ0V1SDFfMHlNVzJtTUY3OGhsclAtMzVRU2dyUll3VWFuVm8zQVVHeXhDSVJHc1V0NTJYSmx3cGFLUG9BQjlaaE12ejExazNUaG1KSWpuRzNyd05NLTlJcGRmNEg3VFFB?oc=5",
+    "title": "Can robots help solve China's elderly care crisis?",
+    "source": "DW.com",
+    "published": "Thu, 24 Sep 2026 02:40:51 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "DW examines whether robots might address the labor shortage in China's rapidly aging care sector.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "elderly care",
+      "robotics",
+      "China",
+      "aging population"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmlNLWNtRFNkOHZja1dtZTN1dENxRmhHSXdxb2dpdXg2VHJ4ZllLbUN4WFVRMkJfTzlIUkhsei1YdjV6VDRYdXpaa2F0OWwzTWMxZWJPeFNYQ2NFMERMX2YwdDJBSnJQVFBJNERwU0lUQjFyMVBVTndzdU5HTlRNb3gwaG5OTHA4RHJ1UmpSaFQ?oc=5",
+    "title": "Japan's O-ID raises $1.2M pre-seed for humanoid robots",
+    "source": "Dealroom",
+    "published": "Thu, 24 Sep 2026 14:34:55 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "O-ID, a Japanese robotics startup, raised $1.2 million in pre-seed funding to develop humanoid robots.",
+    "companies": [
+      "O-ID"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1V1eFZCek43YURMRTdFVkZpby1wdW8wb2xZX3Bia1FfS1RadGRMWjZ2Mk1DX1MyazQtZ0dBT2NZSUdMNDlzZV9kd3AtaXJUZmlTX0FXM19pLWc2ZnFCVEZlR3ZMenpwQVVUSHkwREJGRndOdHhMa3hkWWVLNzc2ZWlR?oc=5",
+    "title": "“Supply chains are at risk”: O-ID raises $1.2m for modular humanoid robots",
+    "source": "The Next Web",
+    "published": "Thu, 24 Sep 2026 14:05:14 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "O-ID raises $1.2 million to build modular humanoid robots designed for supply-chain work.",
+    "companies": [
+      "O-ID"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "supply chain",
+      "modular robotics"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFh5Ulp6Z1VBbDZMSlVZQ3lLUjhVYlZtQmQzTUxkT3B3dTFlZVBXWnpncWFnNEtLVHQwcHU3VnJFckp0dENZelBTR0o5MFVmbTNPRjFyZ0NTendFX25LdlhjeG5TSkxVRDFxa3pwVkxXZTJiUVRyWGpMRHN3Um1xdWNXMC1jLWoyM0Jrb3dMT19id3ZYNTFNTmo2RTBmU0VILWJZdw?oc=5",
+    "title": "Unitree humanoid robots return to America’s Got Talent for Chinese dance finale",
+    "source": "Interesting Engineering",
+    "published": "Thu, 24 Sep 2026 12:37:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Unitree's humanoid robots perform on America's Got Talent in a Chinese dance finale, a high-profile demonstration of their physical coordination.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "performance"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
+    "title": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
+    "source": "CNBC",
+    "published": "Thu, 24 Sep 2026 07:29:15 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese humanoid robotics firm is expanding internationally ahead of an IPO push.",
+    "companies": [
+      "Chinese humanoid robotics firm"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "IPO",
+      "international expansion"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmM5MEFYbWNvUHZKVHE3ZlZUcExvdHpPRU5qQWJpSjFubFdWTVdJb1ZfaEpvUkVVb0w0WXdka2FaUGstMWpWR2JOSl9RcGI4ZXpPeXpFWF9ZTklPaWtiaHpBTmlRS1FMeF9ETG9OeEFRekdSSTRidHBZamZRNk13M3RfQzMwS0E5dDJ1M21B?oc=5",
+    "title": "IFR Counts 7,000 Humanoid Robot Sales as Workplace Pilots Stay Small",
+    "source": "TechRepublic",
+    "published": "Thu, 24 Sep 2026 10:21:29 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "The International Federation of Robotics reports 7,000 humanoid robots sold globally, but workplace deployments remain limited to small-scale pilots.",
+    "companies": [
+      "International Federation of Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "workplace deployment",
+      "robotics adoption"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEJjOWt0a0gzalhwVU83UERYVFRIVmVEM0Njd1ExSkJUc2RNNGRzbFdpbWx2QTNRQXZrcmFTNy1NS2x4X0toRXVSM2tqc0l0VHFRbmpFU3A2ajRYMl96SkF2bkxLamxfTW1BbjJSRE1hRktRQnlwcXA5WWY2RkMxZHliMGJ5OVQyQ3p1QWhJSWtDNjU0?oc=5",
+    "title": "Waymo’s driverless cars continue to crash less often than people",
+    "source": "The Verge",
+    "published": "Thu, 24 Sep 2026 13:53:01 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo's autonomous vehicles maintain a lower crash rate than human drivers, according to comparative safety data.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUp6S0xGZkl5bjZLWm9BM1dMeE9CZHVPOHJhMC1OUjJ3amxCSUZhM2ljZ0Q5dFp0SmE4cWVKcjFoakc5Q3RQVFVTbWJ4akw1eFlaRHBGUURmc0JiaXhESXl1T2ZqbFpmYjV3cjNocnRNSktNV1RMeE51eUQ2SEtiaUJCc2E3WlU?oc=5",
+    "title": "Robotaxi competition revs up as Uber makes $10B investment in autonomous vehicles",
+    "source": "Smart Cities Dive",
+    "published": "Tue, 22 Sep 2026 15:23:44 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Uber commits $10 billion to autonomous vehicles as robotaxi competition intensifies.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wa0xBS0FKdEcwVDNSV200c0w5RDFUdmY2WUhBQnp6d2tkSnkzZXhFOUsxdnczNXY4Z29ZRnRYMEpZMFlGYi14VERqbGRPQ3FCWURRVHExSUwyQXdEZjhhQzVpOW1yaVdUd1BZVjZGejdrLWdXOENTMFUxdVRxdw?oc=5",
+    "title": "Waymo drives through farmers' market in Denver",
+    "source": "CBS News",
+    "published": "Wed, 23 Sep 2026 20:15:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo staged a promotional drive-through at a Denver farmers' market, a marketing stunt rather than a genuine operational milestone.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "marketing"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEZ2bWpkeFI3WnRvOXBDQnhiWnZzVVpZLWhpcWxMNmlISWZqczAyZjlXdDVRSVpmTE5sOUhUUks3YTZ3dDZrWmJjZEE1dFNoSXJtckdsN2FhTzMxclNVZEtabHUxaFlkcXNDLUxpVndINTlKOGZLbVdIS2g0SWEzaXZwT3cyaUxqRS1UNE11N0I2WkF5Ql80dGtlNndXR1Exd0c2Z1RlaWU0SFU?oc=5",
+    "title": "Waymo Says Its Cars Are Involved In 95% Fewer Serious Crashes Than Humans",
+    "source": "Carscoops",
+    "published": "Thu, 24 Sep 2026 13:08:53 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo claims its autonomous vehicles are involved in 95% fewer serious crashes than human drivers, a self-reported metric that extends the company's long-running assertion of safety superiority.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWEzTHQ3bnJxSmZ3NEdENU1pTm9tNEMzOVlzbjFpWHIxMGp6ZURfUG42WTBReDViaXZqX05zZ3VTWUZnUkExMUFzQ0FKVXBTeWpHZ3FBS243dmZmVGxrVHNsQlRKY3NQUUVTejBudEhsdGFNWHp4cWsxNFBiamowRkk4N3p5cUZkYnBrMXdRV2ZaTzRRUWluU3FCbDdQRnJsZUE?oc=5",
+    "title": "Waymo Says Robotaxis Had 82% Fewer Injury Crashes Over 270M Miles",
+    "source": "eletric-vehicles.com",
+    "published": "Thu, 24 Sep 2026 13:47:28 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo released data showing its robotaxis caused 82% fewer injury crashes than human drivers over 270 million miles of autonomous operation.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0o2LXFrVUlzYmtlV2FWRTJueTJDYWxWYnZOUnBFYTFiaFk5enJmRndlQjVrWUZxSUp6dnZvcnNUYkx6bWxwS1Nja0hLV0ZqSUFRT1VVSUZGdkdVQVNHajV3T1JzNHN6RWstaWtOZHI0V09QOW9SYkRCUmRodEJsUUk0U1k?oc=5",
+    "title": "What to do when your Waymo holds up a Secret Service motorcade",
+    "source": "Financial Times",
+    "published": "Wed, 23 Sep 2026 13:08:58 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo's autonomous vehicles are creating real-world friction with security protocols, forcing policy and operational rethinking.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "policy",
+      "real-world deployment"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2drQlBWUWl0SkVIaGxwSjdnbUVLNVJYX0hNQUZGWkxtMFNpZ08wSUU1U3EtZGF3aUgwQmtsdFUyN2dfR21zZVNtNTJ0MTVneEdEbkhHQldzRWctX2JtVjdEdlFJWFJvZENQLWVOZ2RxeHo4Q1F6NWlTMXlGS3d2S2pPWXdLMW5uZEY0R0Qtemx6cE1YbmpBQlpkX3JnQQ?oc=5",
+    "title": "Waymo Says More Than 840 People Avoided Injury, Thanks to Its Self-Driving Tech",
+    "source": "Yahoo Autos",
+    "published": "Thu, 24 Sep 2026 16:05:35 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo claims its self-driving technology prevented injuries in over 840 incidents, a safety metric the company presented without independent verification.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnU2TE5ueVZuRmlzdVVON2NsYmxxOHY1NXhwUnkyWjdqYmFwOHJxdDNmejRQenFUQnRlSkN2RW1WTVR4dDJtdFdrVkM0T1ViS3ZZX29FVnZMVUFWa1JYcExzSHFTVXkxeFVucnpBaDBHUWVuR2xjS21VeEF5aVF5cjJlaHdJSUVId2NqOG1OMThxeDVQQzQ0?oc=5",
+    "title": "VW unit MOIA begins US robotaxi rides with Orlando rollout",
+    "source": "Reuters",
+    "published": "Thu, 24 Sep 2026 11:33:19 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Volkswagen's MOIA launched its first U.S. robotaxi service in Orlando, marking the German automaker's entry into America's driverless taxi market.",
+    "companies": [
+      "MOIA",
+      "Volkswagen"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkRqSXcwMkluVGxvRFRtZDQwSGFRbGRmWldib0JJNXpEQlpBX3JTb0dnX09xcVg1VjVFNGFDdHE2WlJCV04tZER4VmowcldRdzVFMWZPNGF0YUFBbEp2cFo0U0VsOVl3UklTM2U5QVBlZ1pHcHY3ZV9FS0N5N1JTdjBR?oc=5",
+    "title": "Parents weigh in on new Waymo teen account",
+    "source": "News Channel 5 Nashville",
+    "published": "Thu, 24 Sep 2026 14:42:05 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launched a teen account feature allowing parents to monitor and restrict their children's autonomous rides.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety features"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkZHX09Ob2pjcE1iQW9VN1BRazdkVjc5VVU3UDVHTm9jMC1IT2ViWUR1OXAwek5KcEYyWEg2dFBsS3phajYzMllvZlNFX2FzVHJiNllxYjMtYkY2blFjWUliOGVJM3RmUDg1bldQYmFmbjBRSlVXeUdmbzdSZ0xLSlBB?oc=5",
+    "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
+    "source": "The New York Times",
+    "published": "Wed, 23 Sep 2026 15:18:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "As autonomous vehicle technology matures, the Times examines how improved capability creates new safety and liability questions without clear regulatory answers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW8wa0lqRkZhSW9WSjVPRENJeGFjZFZ3dkZjb0FtSk1GOTFvaXNWVVM2bmd2TDI3cE8tS2Z2OHVCOVF0bHhTLTdjUTlXdENyQXkwVlNYcGRwREFjbVdPWGppQWJsRUc5eGFDYUNxUmlHWjNKaFJKVjVaQ1BCTGpoYWptUHl0dnhvWGJ2NFMzdFNpS1U?oc=5",
+    "title": "Waymo's Expanding Reach Meets New Frictions and Fresh Data",
+    "source": "KEYE",
+    "published": "Thu, 24 Sep 2026 03:52:12 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo pushed further into the world this week: driverless freeway rides began in Austin, and a pro-robotaxi group is lobbying to bring the service to New York after an anti-robotaxi study failed to gain traction. The company also released new safety figures, claiming its autonomous system has prevented at least 841 injuries and cut injury crashes by 82% over 270 million miles. Yet growth brings friction, literally: the Financial Times reports Waymo vehicles have begun tangling with Secret Service motorcades, forcing new protocols for how self-driving cars yield to presidential security details.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "freeway autonomy",
+      "safety",
+      "crash prevention",
+      "policy",
+      "real-world deployment",
+      "regulation"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW8wa0lqRkZhSW9WSjVPRENJeGFjZFZ3dkZjb0FtSk1GOTFvaXNWVVM2bmd2TDI3cE8tS2Z2OHVCOVF0bHhTLTdjUTlXdENyQXkwVlNYcGRwREFjbVdPWGppQWJsRUc5eGFDYUNxUmlHWjNKaFJKVjVaQ1BCTGpoYWptUHl0dnhvWGJ2NFMzdFNpS1U?oc=5",
+        "title": "Waymo's Expanding Reach Meets New Frictions and Fresh Data",
+        "source": "KEYE"
+      },
+      {
+        "url": "https://waymo.com/blog/shorts/safetydata-september26/",
+        "title": "Across Waymo's 270 million autonomous miles, the d",
+        "source": "Waymo"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0o2LXFrVUlzYmtlV2FWRTJueTJDYWxWYnZOUnBFYTFiaFk5enJmRndlQjVrWUZxSUp6dnZvcnNUYkx6bWxwS1Nja0hLV0ZqSUFRT1VVSUZGdkdVQVNHajV3T1JzNHN6RWstaWtOZHI0V09QOW9SYkRCUmRodEJsUUk0U1k?oc=5",
+        "title": "What to do when your Waymo holds up a Secret Service motorcade",
+        "source": "Financial Times"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU195YV9seTVKdDFTSFJraVFSQlJ6dEMzZzNRRzdzalh1LVlrbVpJUXh6NFVSSXBHZ3B5MGQyR3Jjc1RRbWV6U0hhbzBaQUdpMUF4dHJUdDA0ak9ndUowR2V0WFJBQ2hYUnNPRTBFaXcwNjQ2QWlNLUlpVFRFMnJ0YUp3d2FWSkptcVMyMnVLTmJvNmJ4R2UtaXRrVGhBU2gzdHZLV3RVV1AzVU5rbVY2VjViSVRRdlFPaEU3cW93?oc=5",
+        "title": "Group pushes to bring driverless Waymos to NY after anti-robotaxi study falls flat",
+        "source": "New York Post"
+      }
+    ],
+    "body": "<p>Waymo's driverless cars merged onto Austin's freeways this week, a milestone the company folded into a busy stretch of expansion and mild chaos. The move, first reported by KEYE, lets passengers hail a robotaxi for highway-speed trips rather than just the surface-street jaunts that have defined the service since it launched in the Texas capital. In New York, meanwhile, a pro-robotaxi advocacy group is pressing regulators to let Waymo operate in the five boroughs, buoyed by the collapse of an anti-robotaxi study that failed to make its case against the technology, according to the New York Post. And in Washington's orbit, the Financial Times reported a stranger kind of friction: Waymo vehicles have begun encountering Secret Service motorcades, prompting new protocols for how a self-driving car is supposed to behave when it meets the armored convoy of the President of the United States.</p>\n\n<p>The company used the moment to release fresh safety data, claiming its autonomous driver has prevented at least 841 injuries and cut injury-causing crashes by 82 percent compared with human drivers, across 270 million miles of operation. It's the kind of number Waymo has leaned on for years now — part actuarial table, part rebuttal to the skeptics who still associate the brand with the occasional viral video of a robotaxi stalled in an intersection.</p>\n\n<p>Taken together, these threads describe a company no longer proving that driverless cars can work in principle, but negotiating the much messier question of how they fit into a world built entirely around human judgment and human hierarchies. Freeway driving is the harder engineering problem — higher speeds, tighter margins for error — and clearing it in Austin suggests Waymo's technical confidence is outpacing its caution. The New York push is a political bet that momentum and data can outweigh the instinctive unease many city dwellers feel about ceding a taxi's wheel to software, especially in the country's densest, most chaotic driving environment.</p>\n\n<p>But it's the Secret Service anecdote that captures something the safety statistics can't. A robotaxi doesn't know what a motorcade is. It doesn't understand hierarchy, urgency, or the particular authority of flashing lights escorting the most protected person in the country. That a company has had to write new rules for this scenario is a small, almost comic admission that autonomy, however statistically safe, still has to be taught the unwritten etiquette that human drivers absorb instinctively — yield to power, read the room, get out of the way.</p>\n\n<p>For the robotics industry, the lesson is less about Waymo's mileage than its trajectory: from proving safety in aggregate to managing exceptions in specific, high-stakes situations. Freeways and Manhattan traffic will test the technology's competence; motorcades and edge cases will test something subtler — whether autonomous systems can be trusted not just to avoid crashes, but to understand the social order of the road. That's a harder metric to put in a press release, and a more consequential one for whether cities, and the Secret Service, ultimately let the robots stay.</p>",
+    "slug": "waymo-s-expanding-reach-meets-new-frictions-and-fresh-data-575b61"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2NWMm81dFBDVjdlWkdoV1JsdlMyM1R1bGFXdXdnVjJ4dk5lZTN1ZUFiU3M0N2lBZkRxbUFHUWd1blNySjVCaU9zVVYwS1hZc0FQWmptZm1kd1VhZ0hJV1JkaGxrN0UzYWppNkNRQ2pycER4M3MzcFY2S09SeGtzUUhLX253LTBOMllhNUprVDhFZElUcmxMUXB3Ui1zbkU5bU54YVZSZmZGVUNDMjFBRE15VktHcndnXzJHLUhJaV8xSkpwYkcydA?oc=5",
+    "title": "Waymo in Minneapolis: Residents weigh in on driverless taxi regulations at public hearing",
+    "source": "MPR News",
+    "published": "Wed, 23 Sep 2026 19:15:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Minneapolis residents voiced concerns about Waymo's driverless taxi service at a public hearing on municipal regulations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "public policy"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTkJpT0RGemc3elZNSjliZmZjMnZ4NndQVE5GR1lVbFh3QXJoTm1wSjA3cHlQUjdNSGpUTF9LUW9ITGxvN21aaGw0N25nUGpOWjEtMklWSGVqWFpXSmdsN1BiR3dCLWZvd2Q5ZVVjb2g0cUxBOHdkbms4WjZJd3VqMXhkbUV2ZHJHSVRLbkNBOWIzM0xkdDVvYjMwUjdoVHBvR0FseDFtMjM?oc=5",
+    "title": "Lucid CFO Says Uber-Nuro Robotaxi Is ‘Unlike Anything Else on the Road’",
+    "source": "eletric-vehicles.com",
+    "published": "Thu, 24 Sep 2026 09:28:24 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Lucid's CFO offers praise for the Uber-Nuro robotaxi partnership, but the story amounts to a third-party compliment rather than hard news about the vehicle or service itself.",
+    "companies": [
+      "Lucid",
+      "Uber",
+      "Nuro"
+    ],
+    "people": [
+      "Lucid CFO"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUl0WkNZbm94aUNNd1Y0N1FzSEREX2tJMnFYT0FIUVYwenNKcFFKZWpXNHotVUw1aFFiU1dfUkwweE1fYkVfdkpIaHVLMWRpa0F0YWM4NXdWMF9rUUtwaDdJV3N0dlMzXzNDcjJ0UGkwM29pMDE3T1RqcE9zS3V4Zmw4Y2QxWHR6QmtoaHh1MlRRY2RtR0JaQnQ0V0VCNTRzRUhRbDBzbWQ1STYydnRzMGpvSXpucVJMM2pkbm5QYUdkT0piOEZr?oc=5",
+    "title": "Uber Stock Is Down 28%, and the Robotaxi Clock Is Ticking. Its CEO Just Bought $10 Million of Stock Anyway",
+    "source": "tikr.com",
+    "published": "Thu, 24 Sep 2026 15:35:37 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Uber CEO Dara Khosrowshahi bought $10 million in company stock as shares fell 28% amid mounting pressure to deliver on robotaxi ambitions.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [
+      "Dara Khosrowshahi"
+    ],
+    "themes": [
+      "robotaxi",
+      "driverless"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU195YV9seTVKdDFTSFJraVFSQlJ6dEMzZzNRRzdzalh1LVlrbVpJUXh6NFVSSXBHZ3B5MGQyR3Jjc1RRbWV6U0hhbzBaQUdpMUF4dHJUdDA0ak9ndUowR2V0WFJBQ2hYUnNPRTBFaXcwNjQ2QWlNLUlpVFRFMnJ0YUp3d2FWSkptcVMyMnVLTmJvNmJ4R2UtaXRrVGhBU2gzdHZLV3RVV1AzVU5rbVY2VjViSVRRdlFPaEU3cW93?oc=5",
+    "title": "Group pushes to bring driverless Waymos to NY after anti-robotaxi study falls flat",
+    "source": "New York Post",
+    "published": "Sun, 20 Sep 2026 23:22:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A pro-robotaxi advocacy group is mounting a push to bring Waymo's driverless vehicles to New York City, capitalizing on the failure of an anti-robotaxi study to persuade regulators.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWpfckM3cXptc0lTNkpBSEVSLXU4cDdnaTRzU0ZYZUk4X19zVUlNa3oxLTBlRVpObHJlNmhtLXY5WkMzOWpvMDVpekk3cmxET3lfMkdwRF9CSmhmZVJtc3BCdXMwUFdrOGcyZlRFX19fTFZ4V0ZLWFFBb3ZSRWdQOFpnZVVteXhBbVhlZ3lzd2pVQzVnM3JBdHBpcFdiQzl1ZW93QkthMlViN2c?oc=5",
+    "title": "Waymo programme aims to link AV users to public transport",
+    "source": "ITS International",
+    "published": "Thu, 24 Sep 2026 11:43:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching a program to integrate its autonomous vehicles with public transit networks.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public transit integration",
+      "mobility"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkNmTVo5aUNKaHJUS3pIQXFFOVhYX1dXRGVVaF9oejRFSHhXbEhXcGlTVmtfbEFMNlBQNnE1WmpRWkdwMjMwWnVWY2p2M0pfbC1FSDBISjFmRVZaMnBEOU5iX0JndERkRVZnS2R1SGJFM3o0VFhWaU81QnZpcUhjVmNGYW1SVGJTZ3M3NTF4Zi0ya19iVE5jV0Y5SW0yb291WFlLQU9nVnA1emYyMVdNY1hKUXUzZw?oc=5",
+    "title": "Brightline Interactive Secures $1.25M PIPE Led by Drone Executive Allan Evans",
+    "source": "citybiz",
+    "published": "Thu, 24 Sep 2026 12:36:41 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Brightline Interactive raises $1.25M in a PIPE round led by drone executive Allan Evans.",
+    "companies": [
+      "Brightline Interactive"
+    ],
+    "people": [
+      "Allan Evans"
+    ],
+    "themes": [
+      "funding",
+      "drone"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1FDNVVJenZSLXNSMDZybTlqQ2oyOEdHMWdDX3hMTmlaTUlXVVItTGJlTXU4YUhaSjV1bllfeGN4aklUbUdKVEVKWGNqenVKRjRobTFmZzlIenQ0YngxYW15VGh5VFdWcW8zdVgweEVhdTFISFltSjhValJxX3lSNzN6M2d0NjRCbjBYOUhqUFA0WlotajlXWTZOVnl2TVVLNFZUS1F2T3NzLUlIUGd5NW0waENVSzZNVGfSAb8BQVVfeXFMUF9KNlI2RmppbUZxSjUzV1NzdWtkamk1OTJFNVVnVXB4T2ZIanZSX0VVVmxyVEpFV1U5RlFFYWRqQkZ6YW1wSkFHbkRwbVJNTmtCeHNfb2ZMcE5ydWVRUmpfOGJDQU12Q1lRdkZ4TG5HbEZ0VlFzekhNVktFZnJFT3dlaXp5UHpXcTF2Q0lpRmk0ZjltZmlsWDlvbHlNYUE0VXRtcUFuMTlKTlN0cF8zdDd5Z0t1c1plbFJSejd0Mlk?oc=5",
+    "title": "Ondas Acquires Three Defense Technology Companies For $56 Million, With Up To $32 Million In Earnouts",
+    "source": "Pulse 2.0",
+    "published": "Thu, 24 Sep 2026 14:45:24 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Ondas Holdings acquired three defense technology companies for $56 million upfront to expand its portfolio of unmanned systems and wireless communications, with potential earnouts reaching $32 million.",
+    "companies": [
+      "Ondas Holdings"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "unmanned systems",
+      "defense technology",
+      "acquisitions"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMW9ydlVkLWI0U3JUN1BhNTZ1U2R6bzY0eFNnMXF1NWUxMjdhLUpFSUg3MVRGeHdpaGw0enExX1I5c3IzTXZBclMybkNtcWZiZVpYM2wyQmdnOTFDUEY5Q0Jrcld0Yl84RmVLYzRweVpyamFwOGFZNUtaYzdNVXh4STAxUFcyU3JVSWtnQTlueTRvOTcxQzFtdg?oc=5",
+    "title": "What’s unique about Northcom’s Falcon Peak 26.2 counter-drone exercise",
+    "source": "DefenseScoop",
+    "published": "Wed, 23 Sep 2026 15:34:43 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Northcom stages Falcon Peak 26.2, a counter-drone exercise that tests military readiness against unmanned threats.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "military exercise",
+      "defense"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1M3a1pSRXRPczNWUV93emdBVXRpQVhyRnltbU9aYmZ2VVQxX3kwOWJEMEZ1am9GTEdfbGZFd0lBZ3hzOFhTQ3NJSXBkLVNyX2FxRXZDNzBLUHhJVWducldlQTlidDdvSzk2X1hPVmVFeEt2M2ZySl9RLVJCc2tzV1lHZVdDRTBZSEpGNGRLSVFVNFh0SDNiSUR2ZDBoNkxuV2xWOWpZd0NhQktvbWMzaXJuRVBZRFduYm1FTG81azY5ZGl6dEE3aWV4LUFNREhX?oc=5",
+    "title": "New drone technology at UK’s Durham University paves the way for faster and safer autonomous flight",
+    "source": "EdTech Innovation Hub",
+    "published": "Wed, 23 Sep 2026 23:15:16 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Durham University researchers have developed drone technology aimed at enabling faster and safer autonomous flight, though the announcement lacks specifics on the innovation or its stage of development.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous flight",
+      "drone safety",
+      "academic research"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkp6enlnU0VkYnRVdEZZS1FSYS1qYjJnMkhQc2VVUkVqU012aTl1cnJnTmthMndObktRczZkMmx3NlVYOHEwT1JxRlRfbXBIdXN0Tll5X1ptSlF0TUF5bmFDM3NjX1BLWTEtamJTZ3RCNFctMkdEZ3pHM1FkSXFYNDh2OGh4V25PWl9XY1JRWEh4cldoSXg3NnozcXZNSWJucWs1bm16cHN6LXNEN2RLWkhKcXZhX3IxV3EySDVva1BRdw?oc=5",
+    "title": "ONDS' $56M Defense Bet: Can 3 Buyouts Build an Autonomous Warfare Stack?",
+    "source": "TradingView",
+    "published": "Thu, 24 Sep 2026 12:21:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "ONDS is spending $56 million to acquire three companies and assemble an autonomous drone warfare platform.",
+    "companies": [
+      "ONDS"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "defense",
+      "strategic acquisitions",
+      "autonomous warfare"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTBwUm5RbWpRUGNwUDJiZU1IZEVGWm5TV2JNeXJTblVnNXZ0cENfSzQwYnNOZTZuUGNVak9PZjhQd3h3WWsyeWJlY1hZbTdwdUlKNE5XTmVjbzA2S1p2QTB3NmFzdTBicWpKVG5YRnJwZV81cHpOM1NuV3JqOVluVDNBYW5UY2JlSTJPcjItWmJoRnlkYmdzV01wM1p0OXJmcDNGTjQxb1djU3hTT2RXaC1oMERJMjl0TnRr?oc=5",
+    "title": "Russia-Ukraine war is accelerating the dangerous race toward fully autonomous drones",
+    "source": "The Conversation",
+    "published": "Tue, 22 Sep 2026 18:29:41 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The Conversation examines how the Russia-Ukraine conflict is pushing military development toward autonomous drone systems, raising concerns about weapons without human control.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "military",
+      "weapons",
+      "Ukraine"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXpEYjd0OUZLUmJLOVVrMVBYRUd1T0s5YXVETHRSUnd0MVI0LVZBalhSaFRfWkRFZUhTTlh1cGgtRjRjNFU2enBXT0RFc0htQmtYaDR2N1c0NGpjOElwSFU4ekkyeTFuQXcyQ0FpdEhXTmJRNXNlbzNKVFFIQjM4RHFn?oc=5",
+    "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
+    "source": "CNBC",
+    "published": "Wed, 23 Sep 2026 09:47:31 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "AeroVironment, an AI drone maker, has reached a $6.4 billion valuation as defense spending accelerates amid the Ukraine conflict.",
+    "companies": [
+      "AeroVironment"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "AI",
+      "defense tech",
+      "military applications"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmJ5NWhJLVBkN2V0LXF3TXVzR192NXhCNlFQTmtJYkdMeTJmT3NmNkI3SkJwRVNMQXdXZ0FISFdiYWZKd2REZ2ViLXdyb3dEaE53ODZRenRFT2NnaVFNT3BHU2FxVktacHBzUmttSG1MT2xYRzdScXgwMjVXVURfZXVzQUpBTHBxZTNKQ3BaREZQRVpjNENidFZrN1hnUlpDWnM3djMteW1kUVZJVE5Qb01RTDREXzRqNnYyR2xDbG9ZaW5oTEJEckh6NmJkZ2p5WGFaNGhJaEcyNGRlcGZpQ2swZE9La3V0?oc=5",
+    "title": "Dryad Wins International XPRIZE Wildfire Award for Autonomous Wildfire Detection and Suppression",
+    "source": "businesswire.com",
+    "published": "Wed, 23 Sep 2026 17:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Dryad won the XPRIZE Wildfire competition with an autonomous drone system designed to detect and suppress wildfires before they spread.",
+    "companies": [
+      "Dryad"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous systems",
+      "wildfire detection",
+      "wildfire suppression"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXJKRF8tWThQTnBNWFRMWW1oTFBCMVQ1T0h4S3JCeGppUWxSMHZhSlZMR2xPR3RteU9qcnhCXy1yRDFWSTQwM0xxSjc3Z29JcGNJVkg4UWI3MmI0MzQ3VUt1em1fMjdscFRrOWUwMmY4dHhZVWFXRW9nV1B3bUpENW9NakcwcU9JcHFiaE1PbFM0VnNJUkhlRW5GRkE4Sk5JNC1KU2lSenIwSW1rRmc?oc=5",
+    "title": "From farms to defense, ZenaTech (ZENA) pushes its drone-as-a-service reach",
+    "source": "Stock Titan",
+    "published": "Tue, 22 Sep 2026 20:14:38 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "ZenaTech expands its drone-as-a-service offering across agricultural and defense sectors.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drone-as-a-service",
+      "agriculture",
+      "defense"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdXJ6SW1VcHV2bHBhSWotNnlMUXpRTHQtNW5URDRsaDhZVFh2ZW50Y0dMVWdZamxtQ2trQmRVbTNsQ2VfdW1ibjB2MHFXaUxFNzN4SU1XUjRQNi00T3FKcmdyd0JuTkFFNlN3LVBGaFVlVHdGRDF3OWQyTjBueEhqeFludVAteWV5X3h6VlJHWXdjdzlNcDE1UVUxTmdUM0U0TlNpVmp1TFJnYjE2WV9iUjQ5OG9qTHhQYUczZ0ZTYmVzTEFaZGgzVkJfRFJBZ1g1MDRvMURINXVWOElFeHNIX1RYNE1TSVNNbzFHcTJjNF9ieDlDQzViMEc5SHktS2xwM1QxcFJKYUNIYkowNTdRM05ZNG8ydFZKVmFBRlFkbF8?oc=5",
+    "title": "Palmer Luckey Says Anduril’s $1.2 Million XPRIZE Win ‘Beginning of the End’ for Destructive Wildfires: 'Even Tiny Gains Make for Huge Savings'",
+    "source": "TradingView",
+    "published": "Thu, 24 Sep 2026 08:55:36 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Palmer Luckey's Anduril won a $1.2 million XPRIZE for autonomous drone technology to detect and suppress wildfires.",
+    "companies": [
+      "Anduril"
+    ],
+    "people": [
+      "Palmer Luckey"
+    ],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "wildfire detection",
+      "emergency response"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhHM0JQUkpSaHA5Zk5NdmVTczNIb1ZMR1ZpcmxjS29VVnhKLWt6aHdJX3ZNXzk4RTNMeXJTSk01NzJ0UUlIanVZT2FjTzNVWTNtZzRUdHAza3VVMVc1NWhqSTV1SU41YTZ1YWRmZHoyQmZ1eUpJeDdRcVE4elhGdFQ1eFRTS2NhaXlfTDV0dG1KYnNMRGN6NEJ6UQ?oc=5",
+    "title": "Precision Neuroscience raises $250M for brain-computer interface",
+    "source": "MobiHealthNews",
+    "published": "Thu, 24 Sep 2026 18:14:41 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Precision Neuroscience closes a $250 million Series B to commercialize its ultra-thin brain-computer interface for paralysis patients.",
+    "companies": [
+      "Precision Neuroscience"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implants",
+      "paralysis treatment"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sNXJCZ1R0cWE5RkRBbjV1UTM5NmNNbnJybHd3WktGam1PNk85bm9wc0IzZUlNeEZaRzB3SmxOSG9VLXNHZWxOcmdVd2c3ZkkxNU9KeVdvdHNScWhNZUUwVXpnbXAwWmhxN05VdUFQTQ?oc=5",
+    "title": "Brain-computer interface study sheds light on neural activity during observation, or 'mirror neurons'",
+    "source": "Brown University",
+    "published": "Wed, 23 Sep 2026 18:34:19 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Brown University researchers using brain-computer interfaces have identified neural activity patterns that illuminate how the brain processes observation, advancing understanding of mirror neuron function.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural activity",
+      "mirror neurons",
+      "neuroscience research"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmE5bEVUZEVCLV9peWZXemFuSzhXR2xuY1hzNnZaODBBSFpOYldDNlRkaVdmeVRhOTFWaTY0X3otRTB4YmhuZnh2dXF2V2RCNFFmSGktei1xel84Z3JsUzZtaUlXOUlJN2Z0RzdsaDhpeEE0TWxxQlEwVjdoSWFGUzJQc1dNMmtlQmlXVlhfWWptVkpOckdfTGp3aGtaYnVoSjc2dw?oc=5",
+    "title": "Precision Neuroscience raises $250M for brain-computer interface push",
+    "source": "Dealroom",
+    "published": "Thu, 24 Sep 2026 11:56:21 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Precision Neuroscience has raised $250 million to advance its brain-computer interface technology.",
+    "companies": [
+      "Precision Neuroscience"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "medical device",
+      "neural technology"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOUZYN05qclZsUmRtdzNwZDdiTmJWTWlTLS11UnFMX3lRYUNEWW1oRFpjcl9ILVozak81c2ZXM2h3MEFmVlBfNjk0THhzcGp4UERUaC1VSl9RRVNURzRxWHVjWDM1U21OSnRFTEh6bmV4aUc5TlhUN1dtY2dVX3FabVZsWFU5bURLbVJkX0tYSmY?oc=5",
+    "title": "Brain chip, AI program help ALS patient communicate again",
+    "source": "CBS News",
+    "published": "Tue, 22 Sep 2026 23:25:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "A brain-computer interface implant combined with AI software restored communication to an ALS patient who had lost the ability to speak.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "communication restoration",
+      "neural implant"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYm9qUFd2LWdiSGs5NzExN014MDgxT005dnpQdFl4Uk5IRVhpYjljN1VRMU5BQW5kdUt5dWk4WHFkSG5YQUQzNUNlN19QWlYwUU1pSzYyd1daUDdXQ3NwdURpSnF3SzhKWVAxbTdMYmRmZnFacml5RUh6MGhzX0NscEdkdHlfUW42c0xkSFRKS0N6dEFrMzRtcnFkU0YyLW8?oc=5",
+    "title": "Neuralink brain implant helps man with ALS speak using his thoughts",
+    "source": "MobiHealthNews",
+    "published": "Wed, 23 Sep 2026 20:22:10 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain implant enabled a paralyzed ALS patient to communicate by thought alone, demonstrating the first real-world deployment of the technology.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "BCI",
+      "ALS",
+      "paralysis",
+      "speech restoration",
+      "neural implant"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX0VGaWF0dzhIOTBtME9zWm5oZUprTFhaNm9tQzlMZE9IQ2tpV3FtLXBXV2x6d0ZDNXdNZGV0aVZqcGZwaUdzUjk4R1ZLTC1xbkFUeHNsUXJIenFvOFR4eVA4MTNoZFItWnlSNHRwVVQ4WTRYUDBBcXVNdnN0a2RrRFNkZU5ZdGZaXzNDdmxqWmFSbTFsaUgxRlVLcVVTV210X3JGa2ZUMHRpeTUzU2o2bDh2b3NReWRNUy1XZGFhRzM5V3lac2hUZlM5Rmk?oc=5",
+    "title": "Neuralink brain implant brings back the voice of ALS patient with thought-to-speech BCI",
+    "source": "Notebookcheck",
+    "published": "Wed, 23 Sep 2026 13:09:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain implant enabled an ALS patient to produce synthesized speech directly from neural activity, demonstrating the first practical deployment of thought-to-speech technology.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "thought-to-speech",
+      "ALS",
+      "neural decoding",
+      "speech synthesis"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://skydio.com/blog/ascend-2026-f10-lightrunner-megadock-commands",
+    "title": "Ascend 2026: F10 Lightrunner Megadock Commands",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio unveiled the F10 Lightrunner drone and MegaDock charging system at Ascend 2026, expanding its autonomous platform for industrial and public-safety operations.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "industrial inspection",
+      "public safety",
+      "charging infrastructure"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/safetydata-september26/",
+    "title": "Across Waymo's 270 million autonomous miles, the d",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo reports that its autonomous driver has prevented at least 841 injuries across 270 million miles of operation, reducing injury crashes by 82% compared to human drivers.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "crash prevention"
+    ],
+    "first_seen": "2026-09-24T18:48:24",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
     "sources": [],
     "body": "",
     "slug": ""
