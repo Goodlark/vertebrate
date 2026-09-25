@@ -60830,7 +60830,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -60934,7 +60934,7 @@
     "first_seen": "2026-09-18T18:02:13",
     "week": "2026-W38",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -62535,7 +62535,7 @@
     "first_seen": "2026-09-19T17:43:59",
     "week": "2026-W38",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64097,7 +64097,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -64799,7 +64799,7 @@
     "first_seen": "2026-09-21T19:51:01",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -65291,7 +65291,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65789,7 +65789,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -66769,7 +66769,7 @@
     "first_seen": "2026-09-24T18:48:24",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -66873,7 +66873,7 @@
     "first_seen": "2026-09-24T18:48:24",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -66900,7 +66900,7 @@
     "first_seen": "2026-09-24T18:48:24",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -66927,7 +66927,7 @@
     "first_seen": "2026-09-24T18:48:24",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -67408,6 +67408,878 @@
     "why": null,
     "duplicate": false,
     "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMDI3NVZBVWstYkFmTjVYM0MwN1Mya2ZHNkxKWjhlcFBPT3VBTC1sR2lNSnprQlBPTk9RTWkyRlZTQU43dFNiczZFZEFYNGdlci1xLVFlU2JmRXg0Vzg2SEt6NXBscjVQMFFSVkZ4cndleHgyd1hPNXZGR0hFbE9pejZac2dLRC1PN25RSkRYMzZubXU1Ym9aY0xR?oc=5",
+    "title": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
+    "source": "Electrek",
+    "published": "Fri, 25 Sep 2026 14:45:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla is producing Optimus humanoid robots at a rate of hundreds per week, but they remain limited to narrow, scripted tasks rather than adapting to novel situations.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "generalization"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnRuRXBqeUFsb0Iyb080RHNhM0pjeUxLNGRNZm5teEg5ZGxFSGhsYzNBN3BxQms4YVVnWDE2US1TX3BCTC1HcUxOT3VNYXVQeHlRVy1KeHppbkdtcUdINXpfRHp0clJmSzJKSENvYktJQ25tUmdiN3VwSXB4bnNpRGhnLThFbnpPUUxCZU1wQk5SMzFuYjVibjhsR2xtUQ?oc=5",
+    "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
+    "source": "The Robot Report",
+    "published": "Fri, 25 Sep 2026 14:16:41 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Agility Robotics is exploring wheeled robots as a complement to its Digit humanoid line.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "wheeled robots"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdE5ZVk94YUg0X0RUVU9tNzdlVHZLWm9zVWowN3FLZk1MSmVfMkZ4b3REbG0tVWtWNGt2Y0U3THR3QklEZ09JN0N3WjNXaVZ1bFhPVEd0TnFkN3prTjFWbHBqalpoTE1ieTdIQXVuSVR5Y3BWT2lBQ29WQzUwNnM0NlhCS2VvcHlBa1FnVzRYdUQxYU5YNlpibzdWbTNSdw?oc=5",
+    "title": "Tesla’s Optimus Hits Snags in Hands, Suppliers as Scale-Up Begins",
+    "source": "The Information",
+    "published": "Fri, 25 Sep 2026 13:01:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Tesla's Optimus humanoid robot is running into design and manufacturing problems with its hands and supply chain as the company moves toward production scaling.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVJ6eXlRR0UzQWQyWUxDUWhlRHZwaThGRS1xZ0RfVWV6Ql9DWVhrZmtpVGl2REFpaXZVYUtZUEJhTlZXVUl1amZNNTNRTWkyRXZYRE93TUhKVlJDMnBZRFVmNVZSb0xaUXdJcXkteUhpbjJIdUF1bjNvdWxaOXFaMl9KNDN5dTZmSUkxQU41RWJDanBVbDhFbzJFNkRPVFY4WWRlWHNaay1SYzdWVnpfUy1hdHcyTFJBRWx5bw?oc=5",
+    "title": "Tutor Launches Automated Humanoid Robots for Warehouses",
+    "source": "Supply & Demand Chain Executive",
+    "published": "Fri, 25 Sep 2026 14:37:30 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tutor has launched automated humanoid robots designed for warehouse operations, marking a commercial entry into physical labor automation.",
+    "companies": [
+      "Tutor"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "warehouse automation",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORmxRb1ltT1pKaGl4MEhaRXpUcGlUV19Fb09qczJ4RnZCWC15RWpMZUZIWHhaN0hsRUtFVWVDbTJnTGF0QVJ5OFN5TzZHWTVlLWFScWZ1UkQwZFV4eXhvTnhweHJkZ1RhYU10cFYyNGVCMVF5Z0tqdDlFZjktUnA1cHlaeUR5S3NLUUxwanVleEpPelE1eFdyekFCQ2t4SE5GTDJZRXlPaUQxWEhueVN3OTYyMnhhT3FpSmc?oc=5",
+    "title": "China’s new humanoid robot packs 93% accuracy into crop pollination",
+    "source": "Electronics360",
+    "published": "Fri, 25 Sep 2026 12:54:28 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese team deployed a humanoid robot for crop pollination that achieves 93% accuracy, suggesting a viable agricultural application for physical AI.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "agriculture",
+      "robotics",
+      "automation"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGFTanRqclI4WEI1Sm9TUEZCOFhFZ3ZGcUx4UmpmZ3l3MjRGRlduVFE5UGFMZXFKX2NDTklpQmlYODd3REpfdGhlMkZyMkNIX2VVZWJ0SVlGNnpyUkxCMUY2ZWVYTk00a1dYZ1dQbF80WnBwaGNwN3czbDZhTkZZdWJDaENadVpvaVpBWkJPbjBJQQ?oc=5",
+    "title": "Toyota Motor (TSE:7203) Plans 400,000 Humanoid Robots Across Global Plants",
+    "source": "Yahoo Finance",
+    "published": "Fri, 25 Sep 2026 10:11:21 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Toyota plans to deploy 400,000 humanoid robots across its global manufacturing plants, marking a major industrial bet on physical AI.",
+    "companies": [
+      "Toyota Motor"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fWG9fbVBtUjV1MzdJN294SGxWakU4em9ydm1UVTB1YXA3X214Vk81WnA2Mk5YNW5Cdk1GdjJTVHl1Q0NPNm0xT1Q2djlqS2RZXzVUNlU0aUdGSy1USjBxZ0I3NVZma05oakZ0S2lOTU1VLVQxUTNDaFZWM3M1clU?oc=5",
+    "title": "An open source approach to physical AI from Intrinsic",
+    "source": "Robohub",
+    "published": "Fri, 25 Sep 2026 08:42:45 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Intrinsic advocates for open-source tools in physical AI, positioning modular, accessible software as the path forward for industrial robotics.",
+    "companies": [
+      "Intrinsic"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "open source",
+      "robotics",
+      "industrial automation"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVWJ0X1FJcjJQUTFYeTRLVVJIRXpkRWJfclZNemdPVVh0cC1lTGp4WkIxc2xyQWhkZ3NGLW1qWU9RTXpXMmpRTDBKMHR0ekoyN1ZfUGxoc0ItNi1QdlA0UVJyVXBURGpTWHQyS0RoaHRMZXpRQ2oxSVlXRnBqdzB2U05WVFlnZVU0TUdhTHRwRXo4YjEwZlVkWkxlakxXdXFpc0x4czVHem9xNTdlcFFiMVlzbjQzeXdoenM2dFlPd1VsZXlTTWZoVjNwb0ZMVzV5bE5yZWd3?oc=5",
+    "title": "This Open Source Software Fixes Herky-Jerky Humanoid Robots, Kind Of By Copying Humans",
+    "source": "Forbes",
+    "published": "Thu, 24 Sep 2026 22:53:44 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Researchers release open-source software that smooths out jerky humanoid robot movements by learning from human motion, a technical fix rather than a market breakthrough.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "motion control",
+      "open source"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHl5bFBSbVlXWmNuN292ZU9UQUZCblZQTXVucHhuekZ5V1I2WS02V0RLbGo5cW1BWHQyZW16MXRUWnBWMVhaaTc5X0Z6MzZxS1Vwc1lIODhVa0lCaXpzMTY3SzUzcHY4cll6bXRRemI3Z09QRzFwTnhVYnRFSWdGTld5V0t0ZXdBOFRzRjJWbmNZZw?oc=5",
+    "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+    "source": "TechCrunch",
+    "published": "Thu, 24 Sep 2026 23:24:33 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo's operational fleet data reveals the company is expanding autonomous ride-hailing services faster than previously disclosed.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "fleet scaling"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTzBiYmZISEVfcnQybWRpbzlUMG9remc0alpWZngxdjlnSDM5NEtwd1NjOEJFQm9XLWJydGhVQmR2Z25IMHl1eE1oSGRueWVLZUNKMXloRWoyZGpTUUFGdDd0ckVYMktLZ2ptU2hXNHk3MXA2dGgwZkNVbTNMZ2laSktpZ3pUNVBpc2FFNlFFRWFsWVhTUjc5MVJjdC1SWDF5?oc=5",
+    "title": "Waymo has arrived in Denver. Here’s what it’s like to ride in one",
+    "source": "KUNC News",
+    "published": "Fri, 25 Sep 2026 12:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has launched driverless taxi service in Denver, expanding its robotaxi footprint beyond Phoenix and San Francisco.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "deployment"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0lhMHBaVTR6TmFfbUl4VFk4cU1jbTRZOVVUZmdjWkJfdE9Dcnhub3ZNSWFNdENaUVh2bUpWZ290VnNyd1NNN2dlS09ncDd5WU1Wb2pranVjNTBoOUkwZjllaDJVNmNFeWxvQ1c5MGdIb2VmbGtUa1pIck52OUVYZUFKT0hVbWZSTzRRS1d0R3M2Y0wwSmNiV3V5eWpCalgxc0Fvb0VQaUhSSkRjdDhlOXJKOTdHWnlZYkctQmliVG9xUC1QODlj?oc=5",
+    "title": "Tesla's Self-Driving Push Hits Skepticism at Home and Delay Abroad",
+    "source": "CleanTechnica",
+    "published": "Fri, 25 Sep 2026 14:11:09 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla insists its Full Self Driving software makes roads safer, yet offers no independent data to back the claim — all while charging drivers $99 a month for the privilege. Meanwhile in Brussels, regulators have postponed their vote on approving Tesla's supervised driving system, leaving the company's European ambitions in limbo. The two stories share a theme: Tesla's marketing outruns the paperwork.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "safety claims",
+      "regulation"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0lhMHBaVTR6TmFfbUl4VFk4cU1jbTRZOVVUZmdjWkJfdE9Dcnhub3ZNSWFNdENaUVh2bUpWZ290VnNyd1NNN2dlS09ncDd5WU1Wb2pranVjNTBoOUkwZjllaDJVNmNFeWxvQ1c5MGdIb2VmbGtUa1pIck52OUVYZUFKT0hVbWZSTzRRS1d0R3M2Y0wwSmNiV3V5eWpCalgxc0Fvb0VQaUhSSkRjdDhlOXJKOTdHWnlZYkctQmliVG9xUC1QODlj?oc=5",
+        "title": "Tesla's Self-Driving Push Hits Skepticism at Home and Delay Abroad",
+        "source": "CleanTechnica"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3kyR0hybTd3aUd1MjM0elllN0hrYlZQaTVralVDUlVNQUI0eXpNOW5rM3kwRGREcm5JNElkVmprN21FYjl0Nmh5V0FEVUZrV05YUkZPdHNkTDRJSFFmeUNabXl2QXZTYnQyY3NSY0ZPUThJOXViUjkzV1ZRbEV6Tm8wb3VNR1FMSzhjV2VJOUhrdHhpQ0R2Nkd0V3YxeUpDYWV4cw?oc=5",
+        "title": "EU vote on Tesla's supervised self-driving system pushed back",
+        "source": "Reuters"
+      }
+    ],
+    "body": "<p>Tesla is still telling American drivers that Full Self Driving makes them safer behind the wheel — a pitch that arrives, as it always has, with a $99-a-month invoice attached. The company has not published independent data to support the claim, according to a review by CleanTechnica, leaving customers to weigh the promise of a safer commute against a subscription fee and Tesla's own word. Across the Atlantic, the pitch is running into something more concrete than skepticism: paperwork. Reuters reported this week that European Union regulators have postponed a scheduled vote on whether to approve Tesla's supervised driving system for the bloc's roads, a delay that stalls the company's plans to bring the technology to European customers on any near-term timeline.</p>\n\n<p>Neither development is, on its own, a crisis for Tesla. The company has weathered regulatory patience-tests before, and American drivers have kept paying for FSD despite years of unmet promises about full autonomy. But the two stories, arriving in the same week, sketch the outline of a widening gap between how Tesla talks about its software and what it's willing — or able — to show regulators and the public to back that talk up.</p>\n\n<p>That gap matters beyond Tesla's balance sheet. The company has built its identity, and a good chunk of its stock valuation, on the idea that it is years ahead of every other automaker in solving self-driving cars. Investors have priced in a future where FSD becomes a robotaxi network; customers have been asked to pay upfront, month after month, for a promise that keeps getting refined rather than fulfilled. When a company claims a safety benefit — the kind of claim that shapes how comfortable people feel letting software steer their car through an intersection — the industry's convention, and increasingly regulators' expectation, is that you show your work: crash rates, disengagement data, third-party audits. Tesla's reluctance to do so, even as it collects subscription fees for the feature, puts it at odds with a regulatory mood that has grown less forgiving since Cruise's robotaxi troubles and NHTSA's ongoing probes into Autopilot crashes.</p>\n\n<p>Brussels' delay is a symptom of that same caution. European regulators have historically moved slower than their American counterparts on driver-assistance approvals, and a postponed vote is not a rejection — but it is a signal that Tesla's paperwork, or its persuasiveness, hasn't yet cleared the bar. For a company that needs new growth markets as U.S. sales cool and competitors in China and Europe close the gap on electric vehicles, a stalled European rollout of its signature software feature is a real cost, not a technicality.</p>\n\n<p>The through-line is simple enough: Tesla's marketing has always run ahead of its documentation, and for a long time that was a tolerable arrangement between the company and an eager customer base. Regulators, unlike customers, don't buy the subscription.</p>",
+    "slug": "tesla-s-self-driving-push-hits-skepticism-at-home-and-delay--aad9b2"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3kyR0hybTd3aUd1MjM0elllN0hrYlZQaTVralVDUlVNQUI0eXpNOW5rM3kwRGREcm5JNElkVmprN21FYjl0Nmh5V0FEVUZrV05YUkZPdHNkTDRJSFFmeUNabXl2QXZTYnQyY3NSY0ZPUThJOXViUjkzV1ZRbEV6Tm8wb3VNR1FMSzhjV2VJOUhrdHhpQ0R2Nkd0V3YxeUpDYWV4cw?oc=5",
+    "title": "EU vote on Tesla's supervised self-driving system pushed back",
+    "source": "Reuters",
+    "published": "Fri, 25 Sep 2026 16:24:40 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The EU's decision on whether to approve Tesla's Autopilot system has been delayed, stalling the automaker's efforts to expand its driver-assistance technology into Europe.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulation"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR3JfUG1UVTFfS0lQY01OdHBxRThubWRNS0UwcmJNWnNFa0JfTDlhWjEtM2R4dktzUnhkSEtRNWJwMGN2aUczU3o2emRKLXc3UDRqc2JqbWpEa3Uta0RrdUszVjdOYURURzhCX1ZOZkxqTWUxaUp2Skdob0d2d0ZnaTNIWG5tUUYzYzY0ck94TFhEV1d1aldN?oc=5",
+    "title": "Exclusive: Waymo's opposition grows with D.C. rally",
+    "source": "Axios",
+    "published": "Wed, 23 Sep 2026 10:22:30 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo faced organized opposition at a Washington rally as autonomous vehicle resistance mobilizes beyond California.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "public opposition"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92SjBrd19jVXZaU3YtQ1FzU2RNSjViMWtLRXhVNFdJQl9nTEtoMFR2VEFxWEI4QnpDTkJoVEhqbzdUdndwb1F2RGlSc05pb3ZmNXJVZU9aQUtVTURjeGNTSnUxc2E1ZTI0ckFLWnd6NTI?oc=5",
+    "title": "Waymo's Latest Safety Numbers Sure Make Human Drivers Look Bad",
+    "source": "insideevs.com",
+    "published": "Fri, 25 Sep 2026 17:10:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo released fresh safety data showing its driverless vehicles outperform human drivers by a significant margin.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlRvdTlOdmtnYndfMGl4ZDVFUmw3OERmM0NHeU1hUG9MMEc5UXprYVgxNVV2cFoyYTVnaDNPQzVrM0RjWkI2blBWMWg0dE5lbS0xSXZaR1c1eGJXSWNXeEdFRWFMMkNPTGczSDRFOUZmdUlzc1h0RFVncHlaRFlnRA?oc=5",
+    "title": "Dirty Work Goes Driverless at the Dump",
+    "source": "WSJ",
+    "published": "Fri, 25 Sep 2026 15:56:31 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Autonomous trucks are hauling waste at landfills, taking on work too hazardous or tedious for human drivers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "waste management",
+      "deployment"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVm52cmx3MlljQ1oyN0tIb29rd09wbnRuUndNNkNxMjNySWJNQl85X0YteGpIdFZVUFdqMEJEeG1IcExDLU9IS0RFdkl3ZWltcE1Pc1dDSUh4dXBPeTJOTkVuRFJpQ2N1VDYyek1OTWp6aGpwSG5DRVQ4cGNEU0dIZXpIQTVOUW1qakprUXN3VmZsUnJqWmwwM0tXcS01WXNQMlhVU2lsRGNONnl1eUpxVHFwOVQzdTRMMXIyQnNsREN0bzBwdzlXWFo5cnhoNW8?oc=5",
+    "title": "Waymo releases latest safety performance report claiming human benchmark outperformance",
+    "source": "repairerdrivennews.com",
+    "published": "Fri, 25 Sep 2026 10:15:29 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo published new safety data claiming its driverless vehicles outperform human drivers, a metric-dependent benchmark the company controls.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnUxaFlFM0NzQ0l1NUFJNnlEMkd3azd2QVpfbUUxTGUwZXUyOWVueXNWT196bnlUWW9tb0szTW9ucnR2V0xIdjVjSmhNSEx6MGI4d1I3bEdFbURKNmhKQ2t3UFhlWUMxY2pxYVM5TjlVSWNySlJmYkl6X0F5cDRMOHJmdw?oc=5",
+    "title": "EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
+    "source": "Electrek",
+    "published": "Fri, 25 Sep 2026 17:31:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's bid to deploy Full Self-Driving in Europe hits a regulatory wall as the EU pushes approval voting to December.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory approval",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSG11c3V2a0s5dzhLYmxkMGZUV3g2RXlheW10d3dHSjdzRUExLU84aEtvZTd6YnNieGw4eHlSbGt0aXE5UEFQSHdGQzhRWlhfN0JxeHcwLVZGSHdLZkx2a0s2MVdKNWtHZ0hxbmhvYmtvbGJSRkROTVdvT18xNHRUTEFaa2NROTlfSXNEcjlEMXl0MVBQNmRXTzFIQTFxUk9tMUctWTRQZC1TcWZfNnc?oc=5",
+    "title": "Waymo Says Company Robotaxis Have Prevented 841 Injuries",
+    "source": "Yahoo Autos",
+    "published": "Fri, 25 Sep 2026 18:40:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo claims its robotaxis have prevented 841 injuries based on safety data it generated in autonomous operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmE4VnFuT25VNkxDME1SMHpGaHRqOWVBOTFWU1NSWkx4Znd4WkZ4MjI5NkI0RjZxaWFBWldOLWYyTWVHaExYREZYNGhhNlUzUkl2T2hTTVd5ekkzUVd0bUVkNExkTlR2T2ZhNjdlWXdRXzZxaDB4NjJrTmx4eUdfNUVvRE5iMExZWkk0bmhnQXcyYVhWS3I5eWRDUHdTYUVicUxIVkJhMTE4NXM?oc=5",
+    "title": "Waymo's Fleet Quietly Balloons, Texas Data Shows the Pace",
+    "source": "eletric-vehicles.com",
+    "published": "Fri, 25 Sep 2026 15:49:26 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "New operational data reveals Waymo is expanding its robotaxi fleet faster than the company has publicly acknowledged. In Texas alone, the fleet surpassed 1,100 registered vehicles after a single-day addition of 144 cars, underscoring how quickly the rollout is accelerating beneath the radar.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "fleet expansion",
+      "autonomous vehicles",
+      "fleet scaling"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmE4VnFuT25VNkxDME1SMHpGaHRqOWVBOTFWU1NSWkx4Znd4WkZ4MjI5NkI0RjZxaWFBWldOLWYyTWVHaExYREZYNGhhNlUzUkl2T2hTTVd5ekkzUVd0bUVkNExkTlR2T2ZhNjdlWXdRXzZxaDB4NjJrTmx4eUdfNUVvRE5iMExZWkk0bmhnQXcyYVhWS3I5eWRDUHdTYUVicUxIVkJhMTE4NXM?oc=5",
+        "title": "Waymo's Fleet Quietly Balloons, Texas Data Shows the Pace",
+        "source": "eletric-vehicles.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHl5bFBSbVlXWmNuN292ZU9UQUZCblZQTXVucHhuekZ5V1I2WS02V0RLbGo5cW1BWHQyZW16MXRUWnBWMVhaaTc5X0Z6MzZxS1Vwc1lIODhVa0lCaXpzMTY3SzUzcHY4cll6bXRRemI3Z09QRzFwTnhVYnRFSWdGTld5V0t0ZXdBOFRzRjJWbmNZZw?oc=5",
+        "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+        "source": "TechCrunch"
+      }
+    ],
+    "body": "<p>Sometime in the last stretch of data pulled from Texas vehicle registration records, Waymo added 144 cars to its robotaxi fleet in a single day, pushing its total in the state past 1,100 registered vehicles. The company did not announce this. No press release marked the milestone, no city officials cut a ribbon. It surfaced instead in the dry language of state paperwork, the kind of filing that normally interests nobody but insurance adjusters and DMV clerks. But taken together with broader operational data reviewed by TechCrunch, the numbers tell a clear story: Waymo is scaling its driverless fleet considerably faster than it has let on.</p>\n\n<p>This matters first because of what it reveals about Waymo's own instincts. The company, a unit of Alphabet, has spent years cultivating an image of caution — incremental city launches, careful safety messaging, slow-walked expansions announced with the solemnity of a moon landing. The Texas numbers suggest a different tempo underneath the surface, one closer to a tech company racing to lock in market position while regulators and competitors are still finding their footing. Waymo already runs paid robotaxi service in Phoenix, San Francisco, Los Angeles and Austin, with plans for more cities on the books. A fleet quietly crossing four figures in a single state indicates the buildout is not a series of cautious pilots but something closer to genuine infrastructure — the kind of scale that starts to resemble a real transportation network rather than a demonstration project.</p>\n\n<p>For the robotics and autonomous vehicle industry, the significance is less about Waymo's competitors — Cruise has retrenched, Tesla's robotaxi ambitions remain mostly promise — and more about what it signals for the pace of normalization. Fleets this size require manufacturing partners, depots, maintenance crews, remote operators, insurance arrangements and local regulatory tolerance all scaling in parallel. That so much of this has happened without triggering a public reckoning suggests driverless cars are sliding into American cities with less friction than early skeptics predicted, and less fanfare than Waymo itself once generated with every new market entry.</p>\n\n<p>The stakes extend beyond stock prices and competitive positioning. Every robotaxi added to Austin's or Phoenix's roads is one more data point in the largest live experiment in automated transportation the country has run, with real consequences for congestion, labor markets built around driving, and the public's slow, uneven process of deciding whether it trusts a car with no one behind the wheel. A fleet that grows by 144 vehicles in a day, largely unannounced, is a reminder that the boundaries of that experiment are being drawn faster than most people, including regulators, may realize.</p>",
+    "slug": "waymo-s-fleet-quietly-balloons-texas-data-shows-the-pace-cd78f0"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWNvNWhrcWpibHNSOUZlMjR2bl9NWkN4S3NNMDBOSHdzaW9mMzZETlFlQ1dwOUVJMEZNWHNhbjA4SHBMbVotYkZTRzhDNkMtQVZNMi1rV000UVJraGFjWkFXdDdoQmVQc0gxWmg3SEthdWtwWjZIa2FtUmFkcjdva01DNDhBMlEtUkF2MFhrRzUtcEVJcWRMa1hR?oc=5",
+    "title": "Aurora plans for 30,000 driverless trucks on roads by end of decade",
+    "source": "Yahoo Finance",
+    "published": "Fri, 25 Sep 2026 15:28:05 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Aurora has announced plans to deploy 30,000 autonomous trucks by 2030, a significant expansion of its commercial trucking ambitions.",
+    "companies": [
+      "Aurora"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORklKNnViTFNHSnJ2Y3JOaVFOcFhVRTBNbl9CUGhUTUtBRkhVaHdCNFVKY3JxUGhBZFJRNkhOelg1ZEFyNlRUY2NxUWFDNkRoZWw1b01LN3NlQ0NJc0l3S3FXN1R0ZUtTeVZ5M1BfR3ZUclBEajQ2S21URU93VHlTVDVMclpWQVgxNXEtZFFsd3NFSWRJUkJJbUVvaUtEWUdkemZ3MXByeEJaS09aOExwTUthZGljTTdFTElDWTlqbVVxdw?oc=5",
+    "title": "Waymo expands fully autonomous freeways rides in Austin",
+    "source": "spectrumlocalnews.com",
+    "published": "Thu, 24 Sep 2026 20:48:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless service in Austin to include fully autonomous freeway driving.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "freeway",
+      "expansion"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEdtckJRYWFvYlJoVV9XUWNrbVJFdG5QYV9ia2luX2hRaklMMEtJaldQVUFZN2lyT3k1WWk4c2RQYzZGa0NPczgwMDVxNlQtWFZKQWgxalVzcWpMX0Z0VExydWNfSlZkN1BiaHhSM05BWmdEdmVBWFE3cnk5TzZaUG00V1d4eTlZRmczb3FHNzdvcFp3NjB3WG45RTRCWHEzczNEY3BuamNWbjg?oc=5",
+    "title": "Driver hospitalized after crash involving Zoox robotaxi on Las Vegas Boulevard",
+    "source": "ktnv.com",
+    "published": "Fri, 25 Sep 2026 17:15:39 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Zoox robotaxi was involved in a crash on Las Vegas Boulevard that sent another driver to the hospital, raising fresh questions about the safety record of Amazon's autonomous vehicle deployments in the city.",
+    "companies": [
+      "Zoox",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "safety",
+      "deployment"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0ZlS3gyMGJXQWhqbUtxbXgwUXVYV19TdFNFbjE3STFMQlZ4WGhXQmxnNVRPdFZqN1luMnBaVHhod2owRnNPQkVaanh0dHZtVFBhTDdaRGxVMTNmeFgtZl9hR3hZendScEdha2xiN2RpV01IN2VZZzlzTE9FcDhlUDJtX1p6Q1NHd3pyaFFjSGlFbHo2dEE?oc=5",
+    "title": "Anduril expands production of autonomous drone system at Ohio Arsenal-1 Plant",
+    "source": "Ohio Tech News",
+    "published": "Fri, 25 Sep 2026 16:54:57 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Anduril is expanding production of its autonomous drone system at an Ohio facility, scaling manufacturing for its defense platform.",
+    "companies": [
+      "Anduril"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "defense",
+      "manufacturing",
+      "production scaling"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MWjlVa0hoRV9DM21WM1VXZHM2akEyVElYV2lyMm90U2dra2Q2bWNaS2dNdnlkOEhyRXlnb2xWQmJMQ0lZRFlHdno3Ym01Ykt0dkVSS3FIc0t5eVIzbTlQdFdCRXh4OGx1Smw3M3p3?oc=5",
+    "title": "Skydio unveils F10, MegaDock and software for autonomous drone fleets",
+    "source": "DroneDJ",
+    "published": "Fri, 25 Sep 2026 08:18:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio released the F10 drone, MegaDock charging system, and fleet management software to enable autonomous operations at scale.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "fleet management",
+      "charging infrastructure"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeEpyRnFZdW01LUtULXpNc2lBVl9SVlNKUmhBN3lzUGxUN2J3cXNESWZwTjNxdGtpekRBUGRDblVDYXh0Y0otYy1iXzhpY0lvWmdhc3pOS2NVLXJBdXRZTmlfcU9yODM5d1VtVF80ZnhSMU9ERzQ5aE9uelBucnlBS1FwcVJZQ3NYRHhYaUFjcFMxS2t4bVVjTmNrdWxtTnRzcGJFakk2cXQtTno2ZUJBQnJqSW5UX3IwR2c?oc=5",
+    "title": "SkyfireAI and DBOX Forge Transatlantic Alliance to Advance Autonomous Drone Response",
+    "source": "sUAS News",
+    "published": "Fri, 25 Sep 2026 11:48:17 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "SkyfireAI and DBOX have partnered across the Atlantic to develop autonomous drone response capabilities.",
+    "companies": [
+      "SkyfireAI",
+      "DBOX"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "drone",
+      "partnership"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkhoekJRNEJkb1VJdXdyZkZNc2JOT2NfeXVoUWpjdWhrcVhMbVgyYkt0NnFDVTBVa0lfbmxmVzN5SFhFZDZnSG14bEp2ZEhweE1pTjBkZG5hNmR0amZUWlZqWFI3ZFBJeG1QZ1JnbjlHZnNoMmFEU1lST2p3WjFsa1hwRGVDcGx2?oc=5",
+    "title": "The Pacific Drone Arms Race Has No Rules",
+    "source": "Small Wars Journal",
+    "published": "Fri, 25 Sep 2026 06:12:27 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Small Wars Journal analyzes the absence of international governance frameworks as military drone proliferation accelerates across the Pacific region.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "geopolitics",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWVIQ3lVb0FxNzBJaXdkUk5zN25RVW8zNkZXT0NLNUdRcVFidDU0cmxMTUJIRnFjZktWSHR6eUhSUS14TjBleGRzVVhWMUtuVmc2a1VSLXdDaFlVMDBTaExxYkxaVTNIaGpHQUxRZFJCZHJHV2Rid3dtLWtoUV95UVhfekx0VzliR0pZOFdOVUlhZkozU0tranYyNzBSbTFMSmx1aGh3?oc=5",
+    "title": "KDDI begins autonomous drone inspection trial at power plant",
+    "source": "Telecompaper",
+    "published": "Fri, 25 Sep 2026 05:30:51 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "KDDI has started autonomous drone inspections at a power plant, testing unmanned aircraft for critical infrastructure monitoring.",
+    "companies": [
+      "KDDI"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "infrastructure inspection",
+      "power plant"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYjJpc0dNemc2dVpjVjA2ZXVGbTlIcWJISTZSWnZhSmVJUDczN3hjb1NIUU4yNDdVYkhtNl9BNmUtUUdHdW5xV1FBVm5xV0s5Vm9STTJOdTVxQjdBQ1VkMldVdHZydDlvT0E5cktndVAwREZId25xTDZYZ2txTHoxMmtBekNUVnJrdzJBZjBLNkl0UGx1bUQ3S1NBQQ?oc=5",
+    "title": "A Startup Asked ChatGPT to “Find This Person.” The Drone Did the Rest",
+    "source": "Gadget Review",
+    "published": "Fri, 25 Sep 2026 16:47:37 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "A startup demonstrates a drone using ChatGPT to locate a person, a proof-of-concept that blurs the line between AI assistance and autonomous surveillance.",
+    "companies": [
+      "ChatGPT"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "AI integration",
+      "person detection",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEhHRzhlXzg0dS1hSHVUQkJQYWh4Nkl0TVk2bEdZRDJVNjJSUGViX25aSzRfOUJDU1VzbU9FRDdHeVBpT002NmRqVnlNa1U0eS16U1hkaGRRc2xQZkcyWmlzLTlILWpXaWgxX0xGTzcyLUo3Y0xBbGthX2o3SWlTRWdCcU1yZFBvOU1kNkpfYWdwdkFnTWxGbQ?oc=5",
+    "title": "UK Firms Access Ukraine Battlefield Data for Advanced AI Drone Swarms",
+    "source": "Global Banking & Finance Review",
+    "published": "Fri, 25 Sep 2026 09:40:18 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "UK drone firms are leveraging battlefield data collected from Ukraine to train AI systems for coordinated swarm operations.",
+    "companies": [
+      "UK drone firms"
+    ],
+    "people": [],
+    "themes": [
+      "drone swarms",
+      "AI",
+      "Ukraine",
+      "battlefield data",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUjExc05SeHdnYjUtTUNwQXlwc3U5UFBvbEdPb2NMS0NiRlh2SXZZel9sRVRPZmloRG5XdE5zUUs5VF9md0ZpU2RsODZvbXVKY0xPaVA2dDN5bW4wVmpoSUZlbks2bTVWMERaODZrdUhRVVBMN0IwYmlkMFVxTHo2ZUFTNEl6WFBSalItOHIwLUxBeGdoYWZyTmFMMA?oc=5",
+    "title": "ZenaTech qualifies as supplier under Canada's Defence Drone Initiative Marketplace, expanding opportunities for ZenaDrone",
+    "source": "AsiaOne",
+    "published": "Fri, 25 Sep 2026 04:15:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech has been approved as a supplier on Canada's Defence Drone Initiative Marketplace, opening federal procurement channels for its ZenaDrone platform.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "defence",
+      "procurement",
+      "Canada"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQm40THpGZVFUdDZ0R283Ynp4ZUVBU0swU3hYbHh3Nk5UcTRtYm5MTWlFT0h1Q3pSd0VmNWRscjB3cFFYaFQwZ0VQUVpQMDFlR3BLQ3FXdGtIRjRzVEl3dlhJaWxEc0E5R0x3TU1IVkVvUlBIVHVIWTZSa1NZMDNQR3Nhc29yQjNieV9PMGhmNGpISVBBWlJxT09aZV9FT1pid3pMYXA4RENlUktSVnc?oc=5",
+    "title": "Precision Neuroscience raises $250M for brain-computer interface work",
+    "source": "medtechdive.com",
+    "published": "Fri, 25 Sep 2026 14:48:14 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Precision Neuroscience raised $250 million to advance its brain-computer interface technology.",
+    "companies": [
+      "Precision Neuroscience"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neurotechnology",
+      "medical device"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTHVPQ0F2WmxHX0RYbWF3Wktva0NldUZVWnJjWDVzNXQtN2lyMmgyQUVTRDBTVFdabEpXLXFubGJta1h1c005anljZ2htOHFNUXVHU1ZHb1Vnek9FcTg3ZnBPR3VRYlBxSTZwWU0wQ05xV2RfNEZwYk40S2tFd2NoRFZYMXpmbU03aWJLTWJFbUEtX1hHb1pLQmFBTk92SjVfZ29TOGFBY0RIMUlodWJzQl9zRUh4Rmc?oc=5",
+    "title": "Neuralink alum’s Precision Neuroscience raises $250M to advance brain-computer interfaces",
+    "source": "Tech Funding News",
+    "published": "Fri, 25 Sep 2026 12:16:17 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Precision Neuroscience, founded by former Neuralink engineers, raised $250 million to develop thinner brain-computer interface electrodes.",
+    "companies": [
+      "Precision Neuroscience",
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "neural implants",
+      "medical technology"
+    ],
+    "first_seen": "2026-09-25T19:06:16",
+    "week": "2026-W39",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
     "sources": [],
     "body": "",
     "slug": ""
