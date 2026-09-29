@@ -65369,7 +65369,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65658,7 +65658,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65712,7 +65712,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65789,7 +65789,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -65918,7 +65918,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -66111,7 +66111,7 @@
     "first_seen": "2026-09-22T18:28:11",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -66319,7 +66319,7 @@
     "first_seen": "2026-09-24T18:48:24",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -66769,7 +66769,7 @@
     "first_seen": "2026-09-24T18:48:24",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -67486,7 +67486,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -67671,7 +67671,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -67983,7 +67983,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68356,7 +68356,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68540,7 +68540,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68617,7 +68617,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68878,7 +68878,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68904,7 +68904,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70238,6 +70238,1224 @@
     "week": "2026-W40",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnVsc1FSODJ3cU1XVkdoY0tETlpNRkdSYl9Nb211bXVudWFGTEVyb3BkbkMyWkdDQi04bHFpRENOMy1vTEJnUjFOdzFRaGxadE5KaTlKWmpQd0VxS3NXeVVGcjFlZUVhM2NhajFrbjB3VnU0UzBObDBzVVJqZi05TVJaeGFPZUdIQkd3T0FkR1JHSjF1bnZVMUhFYjBHX0YzenV1aHNFaVJDejgw?oc=5",
+    "title": "Caltech Roboticist Says Safety Should Be Top Concern with Humanoid Robots",
+    "source": "Caltech",
+    "published": "Tue, 29 Sep 2026 18:38:03 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A Caltech roboticist argues that safety must be the primary design priority as humanoid robots become more prevalent.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "safety",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjN3U05LMkpVQjVTU0lyWTgwRDRjbUg3MWhDcmdWRlotVXlKdW5YLTFCMmhKc250dHhBQ0VCTFM2bHlmTktmVlgxd3VfVWVfQXpnTXd4Z2REREhXVXRFaTdIU3N3anU2eFBkTDlzTGNadk1kc21kX1V6bGxHS20xN2hVX3FhOHM1WUozbUFQVGpFTVV4Vnc2am15Q2tzYXF5WG45R3NpYkpiVWFBWEZxeVVyUHdUQU1zenlCOVR0M3c3R3F5MzI5VlBJQkJvYXVaM2FkaWVJdzVYQQ?oc=5",
+    "title": "Robotics Competition Winners Advance Military Exploration of Humanoid Capabilities",
+    "source": "U.S. Department of War (.gov)",
+    "published": "Tue, 29 Sep 2026 19:02:16 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "The U.S. Department of War is advancing military exploration of humanoid robotics capabilities through a competition that identifies promising technical approaches to physical tasks.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military robotics"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YNmFTWUNibEJ2X3pqRkRKYlR0ZEdxX2FGUVFvZEdtWmZmaENWeHVGYlE2Sm9sRk9JbVY3OVRNbDM1akhsTU5aZU1Hdl9KeUM4a21sLVluX1ozOVFzc0M4YTdvd1lOYVhieDNMQVE1TFZncUZ0b0FTdW9zNNIBgAFBVV95cUxNSGdndTNLd0M0U1hDbXFwSGFBR2pDNkhIcno4MUN3OFBaUllucjVMQ29fZVVJdUp6bEJrUTRwX3NubTZCOGVpWEttajNCT0M1NkVjSmp1SDh4ZkkwWXVzY2FRcGtVcXJyTjVPbWF1c00zaWxQZW5rLXdyMEk5ekg2Ng?oc=5",
+    "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+    "source": "CNBC",
+    "published": "Tue, 29 Sep 2026 05:13:03 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "China's stock regulator has set three new disclosure requirements for humanoid-robot IPOs, effectively raising the bar for companies seeking public listings.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "regulation",
+      "IPO",
+      "China"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmVydlFxSVJ3aDN2T0YwYk04RjVsX00tX2JNeHU5Y2xTSnR0NFZseVVIQmJuVDVEZ24wZ3RDQWhld1cyb0Z2SHJsOXZQa21zQjdMY1JKTUpGeDBXYzZpU0ZUc1NmdTc3anhobEFVeXNBVFdPUDdUaVlKZER4R3YwbVNBejdETHlrclRaU3poaUdoWkw0Zk9QM2JsVmFXTXM?oc=5",
+    "title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
+    "source": "The Robot Report",
+    "published": "Tue, 29 Sep 2026 14:15:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Flourish One, a Raspberry Pi-powered humanoid robot, launches as a consumer assistant aimed at families.",
+    "companies": [
+      "Flourish"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "consumer robotics",
+      "home automation"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1dxWTI5dHZRZWd4ZlVDbERuTXRwRzVtZ0U2dUNhUk84T1g1Y2RSOWZNaGRkcTFJY1E5Y1NCSWNMbFBEMm9RcWJ5MjBBdWN3U0h1YTUwQUx3LWt2OGh0QjRwWFhBTzlnNVdXQVFsZzdJaFRhMXUtdTVjWGdjOEVKN2NTRTZ5enFoWXhVUlhIdFFKcUJqUUFYMzQ5a1BDWU96Yll0aEFZTkVNdw?oc=5",
+    "title": "This $3,555 Humanoid Robot Learns New Chores in 30 Minutes, Startup Says",
+    "source": "CNET",
+    "published": "Tue, 29 Sep 2026 14:05:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A startup has priced a humanoid robot at $3,555 and claims it can learn new household tasks in half an hour.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot learning"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZHo3LVNnS0Ywdk1uTGU0b0NWNmlWSEE5dnBmZFpLZVhtS0ZDVnN1NlB2UjJEQ0VMRl9jTFJnbmpDS2J5R3RrSXltZDV4MGYxZlJyT1M1VXgwZGlXX3FKc21vTG9MRzc2NVliVC11d2M0OFlIeWN4N1hKMXNzd1FBazF1ZFRmUEdUa19sU3hmbXl1aWIzSXpvZUIwVFNkTUFVRUNuWE8tUlZDLTI0RUkxWkdrX3FOQW1RUzg1TDdXZm4tVXRSUjUwaXlpdGRIWDA3LTBpb3lMNU5ma3IxbVNZbUhncXJWbm42SHZsQlJ2alotdGx0M3ZXaWZJSlY4VHBLdV94b052U0lZRUJIRHE1aklhR1hVLTJw?oc=5",
+    "title": "DYNA Robotics Launches DYNA 2.1 Physical Agent, a Semi-humanoid Robot that Completes Full Workflows such as a Commercial Laundry Shift",
+    "source": "PR Newswire",
+    "published": "Tue, 29 Sep 2026 12:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "DYNA Robotics introduced DYNA 2.1, a semi-humanoid robot capable of completing multi-step commercial laundry operations from start to finish.",
+    "companies": [
+      "DYNA Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot",
+      "workflow automation"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazh6OG5ZbE1FMC01RDh5Mkhrc0NEa0xnVncwbDdIMkMxWG5PUFVXYjNrR2hEaUdRU1RHRGg5bjZya0pIb2Z4c0FERFdvT2JDbDhHQy00MzlzXzF4NGVIeWw4N0V6YzlYMC03MXMwTFFRbmhrLXVsRlpTVDVzUVJPNnRFN21XRG5ST0RLUlVXSU9Ma3pMZDZPZGlCTGNmY2NmT2NBeVNB?oc=5",
+    "title": "China's robot revolution leaves Hong Kong playing catch-up",
+    "source": "DW.com",
+    "published": "Tue, 29 Sep 2026 09:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China's accelerating robotics industry has left Hong Kong struggling to maintain its competitive position in manufacturing automation.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "manufacturing",
+      "automation",
+      "regional competition"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUERsYTBGMHdlbGd0TTZfdDh0WkdPamNuR3ZLQUkxTlBSbFpNLTFhMk1GcFRobWVfMDdRZmtwVWY5UlVNRVdHekRUOEpmSVhqcnAtX09vUS1hSFpuMjlyZEk2RGpwcWc5NTlIMUJBZXFVTWFLdnRoQzlCdU9NOG9qdlZtOHM0UTEtY3NtYnhqZUhVWFRDRkVmSk5URTlRWGFDUkRNZWh3YXBEN0ZmdTlXYVRQYmZmcS1FQ1hZdlFR?oc=5",
+    "title": "Can a humanoid robot clean your house? A San Francisco company says yes A robotics company is betting humanoid robots can succeed where automation has previously struggled: navigating the cluttered, unpredictable environment of people's homes to p",
+    "source": "LinkedIn",
+    "published": "Tue, 29 Sep 2026 18:26:47 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A San Francisco robotics company pitches the idea that humanoid robots could handle housecleaning, betting on their ability to navigate messy homes where earlier automation has failed.",
+    "companies": [
+      "unnamed San Francisco robotics company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "home automation",
+      "domestic robotics"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFdJVWp1aXBTcU9EREhQTnVldnFDU0R2d29LUGl4YmRpd2x4YUpnSlZuU1RqV3NHVHVQbnJyTXRQSVpzTER6enlLOEdVN2FLZXBfdlVyTjRPQjY5MkNURWhZbmtGZVFTS0xDZEVBMy1WMWRvT3BCc1dWaF9GRko4MjFRMTR6eXVtQTRKbGh4XzJfd2NXU2NSVkt5NnpXQWxXMkFZ?oc=5",
+    "title": "U.S. Army Picks Five Humanoid Robot Winners, One with Ballistic Protection",
+    "source": "gadgetreview.com",
+    "published": "Tue, 29 Sep 2026 18:45:18 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "The U.S. Army has selected five humanoid robot prototypes for further development, including one model designed to withstand ballistic impact.",
+    "companies": [
+      "U.S. Army"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "defense",
+      "robotics"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUlrZlpjME12UWRQLTV4dWwxTmNNWmhVWEZtRElkSUxnaGFaeXB6WUJnVTFHajl5c2VBQ1N3SVZZWjlNWHEzbU9yMTJVb2E0Y3FSSmswMW9jbWJwQThWZlBGYnRaaFJkREY2UzFjdjNQRDYtLVlXRnZ4Tmx5WC04UFVkNVZNWTA2VjNSRi1qR2VGdFRhYk5PeVF3cEpPVk1PUnhmMXhaT1EtT1dUY2ZUWjF5aXh6bFV4Rk5pcFFoNVlaTU1ZYUtNaU1R?oc=5",
+    "title": "China unveils world's first robot designed to stay safe during faults",
+    "source": "Interesting Engineering",
+    "published": "Tue, 29 Sep 2026 12:32:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China has unveiled a robot engineered to remain safe when its systems fail, marking the first design of its kind to prioritize fault tolerance as a core safety feature.",
+    "companies": [
+      "China"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robot safety",
+      "fault tolerance",
+      "hardware design"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1NVLXRiWnBTX09tcmgwVVc4VDZRd3h6bm0zazEwNk13SUF1bEtLVzNYVEs1SzV2UjBMLTlDQjF4amd6akNMT0pzeG5wdFREOS1renRsS1QtS1FoZlZJREpDRXZidFBmbjhYNlhLWHZ1eXRBd200R0pXU200X2REaUZwWVUwVHZyeGxZY3ZTWXNnd0E5dEdxWTFTVE5DWWtiTS1oLWRyRVFoRVM0UllvSkkwV0E?oc=5",
+    "title": "Five million robots now work in factories as humanoid hype is tested",
+    "source": "Euronews.com",
+    "published": "Tue, 29 Sep 2026 04:46:57 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Euronews examines the gap between the five million robots already deployed in factories and the venture-backed humanoid boom.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "factory automation",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnJ6SnNuNWh4aVI4R1NUTHd5X18yWFRqRmJpWS0wdk44b3ZoUkc2SGxlbnVJVWt0R1RNZ2t2X0d3bXRsRklJeDJtbHRYR1BOaTJjcG5ydUJvVWdBX2h4Tkl4QlM1c19MT2VTajU1M1hJN24yNUducHAyTTBGM19Ea1hqa2ZlUmVHdFFfWWpJQjdXcWw0NXZrMFhMMWVRV29MWURLaU5QdFJ5UQ?oc=5",
+    "title": "China accounts for 77.9% of global humanoid robot shipments in H1, IDC says",
+    "source": "TechNode",
+    "published": "Tue, 29 Sep 2026 06:55:23 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "IDC reports that China shipped nearly 78 percent of the world's humanoid robots in the first half of 2024, cementing its dominance in physical AI hardware.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "market share"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2l4OEpvWlVTbWlfMW1yNnQtUS1xNjR2WWJuTHZhNVhNY3A1MnVBeGZrU1ViWENCSUZjRjZ4TzZSV2lkZ3lnNGp3dFR5TFMtcnREcTlPWWJydVJWWS1vSk95WjJLUDRTS18yc2M2RzAwY2ZlY21MZTFDUTBuNnlnSlJjMWxwWlFGNG9fTjN5Y21aMndmNjFCTzFOUm1kbjg?oc=5",
+    "title": "US Army backs humanoid robot with ballistic protection for future battlefield missions",
+    "source": "TechSpot",
+    "published": "Tue, 29 Sep 2026 13:34:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "The US Army has backed a ballistic-armored humanoid robot designed for battlefield deployment, marking an early commitment to physical AI systems in military operations.",
+    "companies": [
+      "US Army"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military robotics",
+      "ballistic protection"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnUzX3ZFcG1Fbi1CMDVTaVVoSEJKR2VjQkVnaXpFQWFTMEpqMW5LVV9VM280TXh2VXA4Qzh3MHdIRWJSb1NwWndjOUxYRGE1RnRSdlpCT25tQ28wZTROV2Q1MU1TSGlNZ2VTeU05eWZXOXBFMy05WmZSMGlGVFBOZW16V2VqMll3Wl9BWnduT1NSVEQ4OWYzUkZCalRVbHZMdF9ZczZPRGJQSTlJOGRDN3FweDZzamE4UV82alcxaE1xNW9FTHpFMWZXUFp0WEtCNVE?oc=5",
+    "title": "Astribot Brings T1 to North America, Showcasing a Physical AI Stack Built on Design for AI",
+    "source": "EIN Presswire",
+    "published": "Tue, 29 Sep 2026 13:34:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Astribot is bringing its T1 humanoid robot to North America, marking the company's expansion beyond China with a machine designed from the ground up for AI integration.",
+    "companies": [
+      "Astribot"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot",
+      "North America expansion"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMGhmUVhnSW9ocWNaRWpmcHlmTDlwaE5jMnBGcE1pVFh0dU4tblNneEtjbDZ5dnlvaWI3WEJEUjBjeWhCYUE5SUpUeXlsWkpxaTl2ckZSZjRacTFzd1FqRDg4ZUUwcWY5SnJSRG5hZVV3TDUwc3pITUh4cXM2TEZXcFVzbmlaY1ZGR1FNQS1uenhLUHdHS19aUXZZNEJhV245bkJWY1o5eXJ6QnJjUkp1STl4WDR4c0c0Y1BhTTF2QzdLRURoTnFSelh2cTl5MEFKcjQ4UQ?oc=5",
+    "title": "‘How many will survive?’: Bubble fears arise as China’s humanoid robotics face reality check",
+    "source": "The Business Times",
+    "published": "Mon, 28 Sep 2026 23:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China's humanoid robotics sector faces skepticism about which companies will survive a potentially unsustainable boom.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3NhcWdYajQxNDhXMjNuY2FmM1p4OUZWTEliVS1WSnpGNTc3ejBjYkNqYU5MZnZad1E1OVUzSnVXakdQYjQ5c0pmT2EyUVZuSGh2SEU2YUxvM0pDUVlITVJHaFpBRTZHWWxLb3F3VmF0MjRJNldaeEZTcWY0ZndXWWRkZFJtYWkwemhtaDBJODY2UDJEcFhsZlRxTkNKd2I5V3RRelR4S0R3NkRTZFN5UDBHeGtVVkJMUGJPYWJyNVBWV2JFNGc?oc=5",
+    "title": "AMD Pays $8.2 Billion in Stock for Non-Chipmaking Startup as CEO Bets on Physical AI",
+    "source": "24/7 Wall St.",
+    "published": "Tue, 29 Sep 2026 16:38:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AMD is acquiring a non-chipmaking startup for $8.2 billion in stock, betting that physical AI represents the next frontier for the semiconductor giant.",
+    "companies": [
+      "AMD"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "acquisition",
+      "robotics"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODJMMlBOdV9wY3RXTFlqYVJ3TTMyRHJLYW4zTDdDMFloZ2dNTlowWHRHRFRicUpTQjV2M01zS2lZdkJiQ1RBTnJBQkQ2a0Y0XzBQM0JTMVhnNW1yOEkzQ3VZWFdEQmQ2ZEYyZUpwZmx1bzFtSmlrOC1tUkk5WnZpYWpzeFpuV1k2em1pYnR0UkNWVmFUa2wwSWpvYndNa1pmTWNIMllnWHc?oc=5",
+    "title": "Elon Musk Might Be Betting on Humanoid Robots, But Mark Cuban Says They May Not Last 10 Years: 'Would You",
+    "source": "Benzinga",
+    "published": "Tue, 29 Sep 2026 03:26:46 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Mark Cuban expresses skepticism about the longevity of humanoid robots, countering Elon Musk's apparent confidence in the technology.",
+    "companies": [],
+    "people": [
+      "Elon Musk",
+      "Mark Cuban"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56SDBIZllBOEUyQUNwQjBQUzFYVGtTOGNXTk4tMTE3ajV0X09iM2tYOS15OWdTVUlBR3RncVRsOXU1aExRWk03THBiZkVGQmt5Z1NTUGplZXMwVU5CNUxLa05ieXo?oc=5",
+    "title": "Out of the robot classroom: China's embodied AI takes on real-world jobs",
+    "source": "People's Daily Online",
+    "published": "Tue, 29 Sep 2026 00:19:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Chinese embodied AI systems are moving beyond laboratory trials into practical deployment across real-world job environments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "robotics",
+      "China",
+      "deployment",
+      "physical AI"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVNIMnM1RUFPSGc3WkZWVlNjWDRSM25iVnRqNUFRaXE1NEtWcG9Wd0M2Y3JKOFRwTk1UWjFpTE52TFA2bDRnaUEtMHRjVHVXMlZrbHRnTUdpeGRRWXZtQy10eU5iYUZ0ZkVhY3luOUZCSGdlb3IxeHdPRnFMcThkVXdzWmM4YUpCM1VJeU5uRmg0a2ts?oc=5",
+    "title": "By the numbers: Waymo logs big miles in Philadelphia",
+    "source": "Axios",
+    "published": "Tue, 29 Sep 2026 11:35:19 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has accumulated significant autonomous vehicle miles in Philadelphia, expanding its real-world testing footprint beyond its core markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "testing",
+      "deployment"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oNUo5dVNMakVfWFY0S3VpV2I5V3dPTlhFWjdvTmpzekFPaUFBakwzT3FlRXJaWnFVT081QWxyOTA5VjJjNkptTzQyNmFSWE9mdmRKbzBnbHA2ejd5ZGRSTWg5SVRLaGs?oc=5",
+    "title": "Robotaxi rides winning over autonomous vehicle skeptics, study finds",
+    "source": "CBT News",
+    "published": "Tue, 29 Sep 2026 14:34:17 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "A study finds that firsthand robotaxi rides are shifting public perception among autonomous vehicle skeptics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "public perception",
+      "robotaxi"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sZkN5MVdUMUtTQk9TcGhBNURmN19GZnRDOHZ5Q3JDaGd1dXFLbzhIb3pTM0lhbWNKZGlpR0VyQ1RvUW4zdER2RWViclVydTgxS0RUNmpJejNtX2J2Uy1ROEl1Rk9HVFhQcHlqejhWMHNMQXJSNk9jRg?oc=5",
+    "title": "Kodiak taps IKEA to launch driverless freight on I-45",
+    "source": "FreightWaves",
+    "published": "Tue, 29 Sep 2026 17:35:21 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Kodiak Robotics and IKEA are deploying autonomous trucks on Interstate 45 in what appears to be the first large-scale driverless freight operation with a major retailer.",
+    "companies": [
+      "Kodiak Robotics",
+      "IKEA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "freight",
+      "deployment"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNblN1RjdSMFdsX0t4a2sxLVV2VHNqeEpfY01LLURydGdacDRBNm0xSWZVYVpBcHFNTUJKU08wclRmMDFEdzRrVUtkNG13UXpVeUpDNnpHZnlJdEZFZ0plU3FIYUJPaFdUcEFFNGJQcjdRM05JZWVwMDc0VFVROEFXWWU5V0VTYzk1QjRQMVdrYmZhVkFBejJYU2p1SlFGUEtqUVhEcXhKVHFCM1FoLTdpdWZUUGM1cjM2LTMyMkRTZ0QzRTdMWFVV?oc=5",
+    "title": "Tesla receives approval to roll out self-driving software in Croatia",
+    "source": "Reuters",
+    "published": "Tue, 29 Sep 2026 09:16:08 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla won regulatory clearance to deploy its self-driving software in Croatia, expanding its European footprint for autonomous vehicle testing.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "self-driving",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlQzNkR1TW80b2JwVlVpb2FBdlFqQV9UQW5jSl80YVByOTA0NG9UYlVydk1qYVV2bVhyaXFfU09TYlV4ckg0UXRUTFAxQjBjLVNMQ0ZESmVsWTMzdjI5Ylc2UmdGT1k3VDlyVnQyQWhmSk5GZGdmbUMxNGNxbklfbEQ0NUFueDBvNEItS3RQU2dVcnNkX21ueldCMXNkbjFKNnprWlRPaVFWMTRacXFEakdCcnd4Vjg?oc=5",
+    "title": "Kodiak targets year-end driverless launch on Dallas-Houston lane with Ikea",
+    "source": "Trucking Dive",
+    "published": "Tue, 29 Sep 2026 13:54:46 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Kodiak Robotics plans to run driverless trucks on the Dallas-Houston corridor by year-end, hauling freight for Ikea.",
+    "companies": [
+      "Kodiak Robotics",
+      "Ikea"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "freight"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLThnY0RHWVBMRE16LU1MZnF2aVRQTTB4RDhCVmxDcXVQaGw5WW5oN25xOHdJV3ZZb2FERFhJMW5ELUtaal9RY3Q3bXNqeGNfS3p6ZmJORUxmanNXZmhrT0I5a0F3WktVamYyTXFPZWFETVI4X1hnVVc3cGNESmlOb2h5MTVtaUpjVUJNMk1B?oc=5",
+    "title": "Tesla's Active Robotaxi Markets and Their Actual Sizes",
+    "source": "Not a Tesla App",
+    "published": "Tue, 29 Sep 2026 18:31:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Not a Tesla App analyzes the scale and scope of Tesla's robotaxi operations across its current active markets.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHZYblRqYzQ0ZV9Xb3lMcUVUUDhMSHNQNXV0TVFrRlFvbVZqcjhhcEU1X3J4UWVGUnFEVnU4VFIzS09fRmd6U0NFNUREXzYyWW9rQ0tvOEtCazV3Y3RFUkE2ZXZucGIyRlZyQnBPVjZLMkRNeVhJdzROby1HdjZMLXphTVBHQWZ0RWdfaDhFLTlhTnNhT2VrS0pxVVh4dkR6WkE?oc=5",
+    "title": "Lucid and Bolt partner for proposed European robotaxi service",
+    "source": "wardsauto.com",
+    "published": "Tue, 29 Sep 2026 15:59:02 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lucid and Bolt announced a partnership to develop a robotaxi service across Europe, betting on autonomous vehicles to compete with Waymo and other driverless operators.",
+    "companies": [
+      "Lucid",
+      "Bolt"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "Europe"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcE15UEpRTDFaOTVBd1RrWDhIX0dJWmdzZjJHTjd1ZnVwcm1DVnB2aGloMkk1Y2hXay05Y19sVkh4RlpMMTFyRG4xWUVnVFpCUnYxbXhWaXFRcERndzN1X0xpdFlCRk10UXNUZmo5eW5QaVNJVU1pbTc0bXkyT2lGM2NWcm5ENjNBVlRIekR2U1gxZnJQMEdHUXNLcl9FSm52MDJtV3RGU2Y?oc=5",
+    "title": "Tesla’s Full Self-Driving approved in Croatia",
+    "source": "Investing.com",
+    "published": "Tue, 29 Sep 2026 15:56:15 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla won regulatory approval to deploy Full Self-Driving in Croatia, expanding the beta system beyond North America.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmtjVG44dXhVVGx0WllJYkdHcmlmdGt1dkxwWjVzSVA2UkJUWGRTYjI3Q1lMOGRVQVk5Z3Z1QjdMMGsza253WlVObUJPSDB4SFJLNTJhQkZ6Qi1ZX2NMbW55WjAtVXNqUkpONkFSYWlpdFE4WE9OdndqWEdLNWM1TzRsTGFadHlVVlFEVlVkYlpTZlhkRjF4R3BKWXRxMjNBUER5MVFKZUEzSmJE?oc=5",
+    "title": "The NHTSA investigates Comma’s self-driving kit after a string of crashes — 5 incidents that killed 3 people linked to 'hands-free' device for older cars",
+    "source": "Yahoo Autos",
+    "published": "Tue, 29 Sep 2026 14:16:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The NHTSA opened a formal investigation into Comma's aftermarket self-driving kit after five crashes linked to the system killed three people.",
+    "companies": [
+      "Comma",
+      "NHTSA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "aftermarket autonomous system",
+      "safety investigation",
+      "hands-free driving"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjRpYnJzT0RTcGVjY3lhbGdZWE5vMzB2WF9GenVPLUxieUNFV3l5Q0g1VU1jc1V5OUxsUEdhaWlfRFE0VW1VVmhZTmRkS2xiZ1J0OXkwZnloSWFFdkEtbUU2empDcWJZVlBCdVc3aVJLNkVVWWNtSkVqVk1EMFlUUDFvc2VYMi12Y2c?oc=5",
+    "title": "Tesla Wins FSD Approval in Croatia. Is the Rest of Europe Next?",
+    "source": "Barron's",
+    "published": "Tue, 29 Sep 2026 14:02:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla won regulatory approval to deploy Full Self-Driving in Croatia, marking the first European nation to clear the system.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMFQxTUVmaE1IQktLSjBFbDBITHZDREJPak1lVE9BTURzTF9YcnpmOTZWYmJmMWhhSTRTM3JVVzNveHUyZTJyeXQ2MkRubThDenl3ZHBrWk5CQURCYmFMN1dUa1Q4Um12MThQU0ZDc2xucjRRTFlZUlc3M2hiZmxQYUJlcm5kMlJ1UWFDeTUwTFZzTFBwUWxaSkl5QUZkdw?oc=5",
+    "title": "IKEA to launch driverless freight deliveries with Kodiak AI",
+    "source": "The Business Journals",
+    "published": "Tue, 29 Sep 2026 19:21:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "IKEA will deploy Kodiak Robotics' autonomous trucks to haul furniture shipments, marking the Swedish retailer's first major bet on driverless logistics.",
+    "companies": [
+      "IKEA",
+      "Kodiak Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "freight",
+      "logistics"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHZmNEZELWs1TXRlV1hHQ2tzMVp1X0FGaWtSQXVMSDF5ZXJ3MnJ1MTVIckFPanA1bS1iMHFnTUxRdlNaVEVReV9XLXdjY0NxQ3p5ZVY5cV9HcF9tYUZ3bnFNbHZNMWFWZGxKSlZSYWdwRG0wM3FQMDhFU1hTZTgzZnNmd01xQUZhRTl0c3RqNVZQU3pjYlZNRUxFNWVYYU1iTGhqZnB6M0lIZE1YM2EtQWt3SEZ1dw?oc=5",
+    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+    "source": "TechCrunch",
+    "published": "Mon, 28 Sep 2026 22:58:35 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Aurora's CFO defends the company's ambitious target of 30,000 driverless trucks by 2030 as commercially viable, though the claim remains unverified.",
+    "companies": [
+      "Aurora"
+    ],
+    "people": [
+      "Aurora CFO"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "fleet deployment"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN25IeTJfcUpqSTQ2RzFHWE0yd09HUUhoZ3FXTlBweWJhSlF6QjN5Y19rR1dWbmZCdVpKRE5aellXQjU1VndhMjNyN3pvbGl2aXJiRUo1cTdPUTViUTI1Tjd2Q0tvZFFvOVdUNzhQUEJMeGUyMG1lb1VRQWRUdVlXQXNNRHFnUm1BMmo1MEd4QXBRYWs3R21CbFhxY0dDM0FDLUE?oc=5",
+    "title": "Aurora Innovation Targets $5B Revenue as Driverless Truck Fleet Scales",
+    "source": "Yahoo Finance",
+    "published": "Tue, 29 Sep 2026 14:03:02 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Aurora Innovation projects $5 billion in revenue as it scales its driverless trucking operations.",
+    "companies": [
+      "Aurora Innovation"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "fleet deployment"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJxR1JkWEt5amVVYnZOQXFIRU9nOEluQ0pIb0F2clhFZHV0WmljWERxblE0UWNrU1NBMmtJWUw2VXhtU1ZGd2lMNlkzODVHQU5xbldWY3hTZnBrR0VBNTZRSkgxM1cyN293MjA0ZVhPeXI5WExFeGcwWURlSkh1OExhaHRLaE95MTRockI2NDlhd1Q4VE16bFlxeUNFT2c?oc=5",
+    "title": "Croatia allows Tesla's supervised self-driving system into traffic",
+    "source": "SeeNews",
+    "published": "Tue, 29 Sep 2026 14:44:32 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's supervised self-driving system has been approved for use on Croatian roads, marking a European expansion of the electric-car maker's autonomous driving capabilities.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "supervised autonomy"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3QwUkxkbUVIMDRlaEZ3cU04bTZsY0NpdE5TYXJpSWtQQ0N5X3ZUa0E2dkdtSzgwNjVsVlI1NGJ2bEdkckJxUU1nTy1QOHlLMzNBbGhNUVZVQjFEbklRYnhyMjM0Y2loTFhRbjU4OWZHdGkyVjJ2RzJGRVhVbk5wSmRjTW40LU5jMHliZTZ1NVctUlNodnVudjRLeThxdTdhaERBak1WdVZCajVhSllDVWhYQmNMWVYxT2xWZFFoeEx3c1JLckduMy0tOF9LZw?oc=5",
+    "title": "Waymo Widens Its Footprint, From Philadelphia Streets to Real Estate Deals",
+    "source": "Bisnow",
+    "published": "Mon, 28 Sep 2026 23:34:11 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's robotaxis have quietly piled up substantial testing miles in Philadelphia, a sign the company is pushing its self-driving program well beyond its usual Sun Belt strongholds. Meanwhile, Waymo joins Uber and Lyft in snapping up depots, parking lots, and service centers nationwide — the unglamorous real estate infrastructure needed to keep a robotaxi fleet fed, charged, and cleaned as the industry scales up.",
+    "companies": [
+      "Waymo",
+      "Uber",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "expansion",
+      "autonomous vehicles",
+      "testing",
+      "deployment"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3QwUkxkbUVIMDRlaEZ3cU04bTZsY0NpdE5TYXJpSWtQQ0N5X3ZUa0E2dkdtSzgwNjVsVlI1NGJ2bEdkckJxUU1nTy1QOHlLMzNBbGhNUVZVQjFEbklRYnhyMjM0Y2loTFhRbjU4OWZHdGkyVjJ2RzJGRVhVbk5wSmRjTW40LU5jMHliZTZ1NVctUlNodnVudjRLeThxdTdhaERBak1WdVZCajVhSllDVWhYQmNMWVYxT2xWZFFoeEx3c1JLckduMy0tOF9LZw?oc=5",
+        "title": "Waymo Widens Its Footprint, From Philadelphia Streets to Real Estate Deals",
+        "source": "Bisnow"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVNIMnM1RUFPSGc3WkZWVlNjWDRSM25iVnRqNUFRaXE1NEtWcG9Wd0M2Y3JKOFRwTk1UWjFpTE52TFA2bDRnaUEtMHRjVHVXMlZrbHRnTUdpeGRRWXZtQy10eU5iYUZ0ZkVhY3luOUZCSGdlb3IxeHdPRnFMcThkVXdzWmM4YUpCM1VJeU5uRmg0a2ts?oc=5",
+        "title": "By the numbers: Waymo logs big miles in Philadelphia",
+        "source": "Axios"
+      }
+    ],
+    "body": "<p>Waymo's self-driving cars have been quietly logging miles across Philadelphia in recent months, according to figures reported by Axios, a sign that the Alphabet-owned company is testing its technology well outside the sunny, wide-boulevarded cities — Phoenix, San Francisco, Los Angeles — where it has built its reputation. Philadelphia, with its rowhouse-lined streets, aggressive double-parking culture, and unpredictable weather, represents a tougher proving ground than the Sun Belt sprawl Waymo has favored, and the accumulated mileage there suggests the company is serious about proving its robots can handle it.</p>\n\n<p>The Philadelphia push is happening alongside a less visible but arguably more consequential expansion: Waymo, along with Uber and Lyft, has been buying up depots, parking lots, and service centers around the country, according to reporting by Bisnow. This is the unglamorous plumbing of the robotaxi business — the real estate where autonomous vehicles get charged, cleaned, repaired, and staged between rides. It's not the kind of announcement that generates headlines on its own, but it's arguably a better indicator of where the industry actually stands than any press release about a new city launch.</p>\n\n<p>Together, the two developments point to an industry moving from demonstration mode into something closer to infrastructure-building. Running a fleet of robotaxis isn't just a software problem; it requires the same unglamorous logistics as running a bus system or a rental-car company — land, electricity, staff to vacuum out fast-food wrappers. That Waymo, Uber, and Lyft are all competing for depot space suggests each expects the fleets to grow substantially, not remain a novelty confined to a handful of test markets.</p>\n\n<p>For the robotics industry, the significance lies less in any single city than in the pattern. A company willing to rack up real-world miles in a dense East Coast city with narrow streets and unpredictable pedestrians is signaling confidence that its technology can generalize beyond the wide, sun-baked grids where it was born. That matters because the entire investment thesis behind autonomous vehicles depends on proving they can work everywhere, not just in cities engineered, almost accidentally, to be forgiving of robotic error.</p>\n\n<p>For ordinary commuters, the stakes are also real, if slower-moving than the hype suggests. Every new depot and every mile logged in a new city inches the technology closer to the kind of routine, boring reliability that would let robotaxis operate the way taxis and rideshares do now — not as a curiosity trailed by safety drivers, but as an unremarkable part of getting around town. The real estate deals, dull as they sound, are the clearest evidence yet that the companies themselves believe that moment is coming.</p>",
+    "slug": "waymo-widens-its-footprint-from-philadelphia-streets-to-real-9d32c8"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2tUOE9BS0RZc3VlbnF6WkZNUkZsMzZ3Wl80UXVVT0pFUzJUb0kwUFpHNG5lYnVXaXVCU2h1b0pwbjAzZFpqUExsMUJkZE5RdnJBamNyWTFSOVVyVHZXWGZiZFZLYmcydmFzMWRLY3hCR0twcXluaExOQzlmUnpQMHh6cE5NWWZRa1E2eTQ0WVVMMFFETE9rTTJFQUI4NG11QzdEZWlrbWEwRXZ1MWRYVUxmeC1nUU9VT3R2WHhUaTNFV1VreU9tWA?oc=5",
+    "title": "Aurora Innovation Targets $5B Revenue as Driverless Truck Fleet Scales",
+    "source": "MarketBeat",
+    "published": "Tue, 29 Sep 2026 14:37:46 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Aurora Innovation projects $5 billion in revenue as its driverless truck fleet expands into commercial operations.",
+    "companies": [
+      "Aurora Innovation"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42b0ZISDV6S05tZmtqS1ZyT3B6MWJjYW1fNHZvTHUzQ21OeUE4YlZkVzByNGE4Q1hyNkxjYnczVGhhSnJaUWI0TGJiRjNBR2hMbmQ5NE51M0RjNWtLZEZxbkNQRHFoRlc0U1RfcTZMeDV1bVFpdzVz?oc=5",
+    "title": "Ikea to debut autonomous middle mile delivery",
+    "source": "chainstoreage.com",
+    "published": "Tue, 29 Sep 2026 16:21:22 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Ikea is deploying autonomous vehicles for middle-mile delivery, moving furniture between its distribution hubs rather than to customer doorsteps.",
+    "companies": [
+      "Ikea"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "logistics",
+      "autonomous delivery"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMDBOXzI0cC1kandranpsZlVPRnFvaGVNdnprYVJLZUsyeWt3WnZKRVExdFhJdEJuRE1Jbm9TZ0JfTml0SmlGV2VBUDFyNi1lakJ4V1dzTjdGLVQwZGpOMHBVRG9BR3QyMnNzUnI2My05MUhzS196VktJc1plZUZBVTM0eUM5elE3aDY5endUZ3RlODBZYjBKazFxRmF0Y2lCVWUzODJ6RnhHNjFtLVNoUHl3?oc=5",
+    "title": "Matternet Unveils M3 Autonomous Drone Delivery Platform for Rooftop Micro-Hubs",
+    "source": "Dronelife",
+    "published": "Tue, 29 Sep 2026 17:29:46 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Matternet unveiled the M3, an autonomous drone delivery platform designed to ferry packages between rooftop micro-hubs in urban areas.",
+    "companies": [
+      "Matternet"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous",
+      "logistics",
+      "urban infrastructure"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXJsZzVmZ0JvN2ROVlJhTHg5U0RFNmZBak1PQ2lHb1hEN2JMMjZBa3JnOWV3c3dBc2F5d0pwT19VOUtoSEIzU1M5czN1NGxaQ1VfNy1lSGR5XzR0dW5oYmRCOXRRV3NMSElBbFRUQld2eWJPQXg2T2Q5Ti1qV2tkRF9DUVZsOTFnVXZocEVwWUI0eVRWV3BpZVlfX0tHbmNqOUItT3doUlpiWThHdzNIVjA2RXB6elZHaGRQMW1R?oc=5",
+    "title": "Matternet unveils autonomous drone delivery system through Dave’s Hot Chicken partnership",
+    "source": "fastcasual.com",
+    "published": "Tue, 29 Sep 2026 16:10:11 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Matternet launched an autonomous drone delivery system with Dave's Hot Chicken, moving beyond pilot programs into a branded commercial partnership.",
+    "companies": [
+      "Matternet",
+      "Dave's Hot Chicken"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous delivery",
+      "drones",
+      "logistics"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UOHJ6MWxuZW9YWmtOXzlHeUtJcG1tWnMzTEE2Z25TTldJYXliNlgwQldrSmxCSEx6U2NaNE14WmdVNE5ia0hQdnRKT0lVcWlGekRKemNFbjk1YXhZWVRCUVNXU2FGWmxfTVVCOXdKWUhlUVBaVlA1aF9n?oc=5",
+    "title": "Matternet Unveils Next-Generation M3 Drone Delivery System",
+    "source": "Commercial UAV News",
+    "published": "Tue, 29 Sep 2026 14:05:32 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Matternet unveiled its M3 drone delivery system, a next-generation platform designed for commercial cargo transport.",
+    "companies": [
+      "Matternet"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "commercial UAV",
+      "logistics"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1Z0Z3lJSGFkWmZ3ZW5KR0JFaElrS3JPOUo5dHZTN251a0w1djVHU19BTTQ0ODlrTm45VXMtTkxXc2NiUnBtbzhQSGpKdk5vMC1pVVE4ZkRCN1lCcXc5TUFnVGNXYWhhdU82b0ptU0tGQVFLZmswb09uZk1kOXhESVd2ZGdXMXQyWDl3NVRUZHc0aFNaUzBsbTZIb2JRQTR3dmfSAaIBQVVfeXFMUDdWdGd5SUhhZFpmd2VuSkdCRWhJa0tyTzlKOXR2UzdudWtMNXY1R1NfQU00NDg5a05uOVVzLU5MV3NjYlJwbW84UEhqSnZObzAtaVVROGZEQjdZQnF3OU1BZ1RjV2FoYXVPNm9KbVNLRkFRS2ZrMG9PbmZNZDl4RElXdmRnVzF0Mlg5dzVUVGR3NGhTWlMwbG02SG9iUUE0d3Zn?oc=5",
+    "title": "Matternet unveils M3 autonomous drone delivery platform",
+    "source": "stattimes.com",
+    "published": "Tue, 29 Sep 2026 05:21:59 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Matternet has unveiled the M3, an autonomous drone designed to handle package delivery at scale.",
+    "companies": [
+      "Matternet"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous",
+      "logistics"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGNRWWZQb3pIeWRaXzNiY3MxcXZTYlo0UFVWSmdtbEEzakdZMjRwaW5lR2tWalRjTURjN0g5MEJNQ19KZ2VQWm5rOHZra1VJZU50WU1pLXQxMURTZGVPazhuSUtMeUlXUklubUlsbEdRX1dael9IX0xqSEd3S010Q3JfMF93ODFjdTFyb2dIcnc4OU0xdHBIVEg0SF8wVDNlZEdRWGEyakRFNDkxV2llYVI1TGxtOExI?oc=5",
+    "title": "Autonomous Heavy-Lift Drone Completes 1,000 km Flight Carrying Medical Blood Samples",
+    "source": "uasweekly.com",
+    "published": "Tue, 29 Sep 2026 11:59:36 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous heavy-lift drone completed a thousand-kilometer flight transporting medical blood samples, demonstrating long-range cargo capability for healthcare logistics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "heavy-lift",
+      "medical logistics",
+      "long-range flight"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUG8ySXpOVHFJdTUxUldITGIwWDdFTm1oQ0ZjQmptejNFNm5oZWZhQ0NVOG1oaU5UZHMyZHZBVkJ6eTdzeFFwZmE3V3J5WFl2SzdaWXZRb1loR2ZGY0dtX1dQUWlQOHQwTUlLQWRaY29mNllHNVAyR0hHUjh1X3Y1M3RXNnpyZURGLVY1Vk5JR2NENS1rWXl0R1lWSmxfWW5qOHpsMGF1VjdlSnZ1elE?oc=5",
+    "title": "Skydio Unveils F10 Lightrunner Fixed-Wing Drone and MegaDock at Ascend 2026",
+    "source": "Dronelife",
+    "published": "Tue, 29 Sep 2026 18:40:02 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio introduced the F10 Lightrunner, a fixed-wing drone designed for long-range autonomy, alongside a new charging dock called MegaDock at the Ascend conference.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "fixed-wing drone",
+      "autonomous flight",
+      "charging infrastructure",
+      "commercial drone"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHNYUzJtM1RmWGFPWFNXMVQ0M1BqWEtVMEpnSWUwSjhOWks0UWJYcTNtSTdaSzV0NUNiMjVfQWtpOVJFZjhTVktYczl3Rjl1cmxUQUJOanhyYlllX3Jwd0Q1WUpmTVhuS3FGaXFhQ1F3ZENYV3NVV2U3aHJ0U0c2ZG5YbEVhR2VqdGNJbUdFZ0p2T0VFY3NfM1FrUQ?oc=5",
+    "title": "Two drone startups team up to demonstrate connected autonomy at sea",
+    "source": "Resilience Media",
+    "published": "Tue, 29 Sep 2026 09:00:42 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Two unnamed drone startups demonstrated connected autonomous systems operating at sea, suggesting a new model for coordinated maritime operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "maritime",
+      "connected autonomy",
+      "coordination"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0J6MDlUMFFuWGNRTjBhWm8wWGxseHl5OGdpVV9VdWhQbmR4ZUpNa3ZSb2pibm54aTZEUUd4NnYzUTZtYUtiVUgyaWRDZGZ2QTdtZ1ZseWd4SlRUdkktZHZMREVaSUR1cDFsM25ycVhHWEd3NEhEUFFHeHBqVWlmTWlFemxWNk9VOUczTEYwVzRFdFdaQmVtS3lwU3BDMDdSQU1rWVp2VkdTNXk5ekI5ZzJ0Q180NTJDUlE?oc=5",
+    "title": "Lifesaving and drone-killing tech from the Air Force Research Laboratory",
+    "source": "Defense News",
+    "published": "Mon, 28 Sep 2026 13:27:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The Air Force Research Laboratory is developing dual-use technology that includes both rescue capabilities and counter-drone systems.",
+    "companies": [
+      "Air Force Research Laboratory"
+    ],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "military",
+      "defense technology"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYThvckN2NkRZRDZNcXNDWERBbHViX1FjQmI3M3JXbmptRF9RSVVCWFRLZmJLeDFKcmwtdDhrV0dlaHhGMkZPaEliakNTSWJnNHprbFhzQ3FwYmVPZkwzMkFKSVJvWkpZLXVqZTJmMmpQaFNtRzdZcTcyZER4d3R0cTRzMFp0YXN4RFVsSnNOMm1ndw?oc=5",
+    "title": "How Paradromics designed its brain-computer interface for longevity",
+    "source": "Medical Design & Outsourcing",
+    "published": "Tue, 29 Sep 2026 19:07:30 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Paradromics explains its engineering approach to building a brain-computer interface meant to last years inside the human body.",
+    "companies": [
+      "Paradromics"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "longevity",
+      "medical device design"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWRCY0VfTUlIMmFWOWo1ZzJPZDlpUlNzMFpRYkI1b3ZGRklLWkU4TXhIOXdNMDctQ2RFWEtEYUc5ZzlkdnhDSE5EaDRXX1FsdUZaR2hwbmRXVW1SOHNVZURLSldIaHdDdU50MlZ3dlJvU0tHWnF5VzU0ZEUwUU5kQg?oc=5",
+    "title": "Needle-Thin Brain Implant Records, Stimulates and Delivers Drugs",
+    "source": "Intelligent Living",
+    "published": "Tue, 29 Sep 2026 09:58:29 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers have developed a needle-thin brain implant capable of simultaneously recording neural activity, delivering electrical stimulation, and administering drugs directly to brain tissue.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "drug delivery",
+      "neuromodulation"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNai1JQnRsQ1ZCYkk1dmhTQ2IwTF9JeGNTY0pHVHlzSktUamtsNGY3SloxbW5rQWtTY19kSkZMc3dJbmNIMklVZ29Xczd2cHpUYl95WkphZm1PMEpmWi1SQURLVlNzTzJSQWlXMDJJT3Rmcjh0RnZLYmpxamszZkluNQ?oc=5",
+    "title": "Brain-computer interface firm raises $250m for US rollout",
+    "source": "NR Times",
+    "published": "Tue, 29 Sep 2026 14:18:23 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "A brain-computer interface firm closed a $250 million funding round to expand its US operations.",
+    "companies": [
+      "Brain-computer interface firm"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "funding",
+      "US expansion"
+    ],
+    "first_seen": "2026-09-29T19:45:17",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
