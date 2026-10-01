@@ -67671,7 +67671,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -67983,7 +67983,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71881,7 +71881,7 @@
     "first_seen": "2026-09-30T19:46:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72353,6 +72353,1301 @@
       "staff shortage"
     ],
     "first_seen": "2026-09-30T19:46:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUwzeW5OZFFOSGktU3BnaDFKNTBaWkZ4ZEliMC1kbDhUUjRiODgzVGc5SzBUQ1hfN1FZajMtUlM0LWlLRlFzSzZQUGoyM1JTQlROamM0WHc3blVTZGY0bHVuNW9jSm54WVN2TmtObkhhZ3dVLXp5UU94VjBBWGVyT2JDVElBRG9KaXpGY3pNMEVsMjY4WnRFNDVfQnYxRmpYX2ZjbTdjdFhrazIwUDNucFltd2dqRjhRMHNnUG5VTQ?oc=5",
+    "title": "Agility Robotics Wants To Make 500 Humanoid Robots Safe, Not Just One",
+    "source": "Forbes",
+    "published": "Thu, 01 Oct 2026 15:59:46 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility Robotics is moving from one-off prototypes to manufacturing 500 humanoid robots, a shift that exposes the messy gap between lab safety and production scale.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "safety"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFRsNWRBRHZ6UmF2WG5UMkNXV25mQmVTa0YyMzZVNVlYTE04UFBDcUcyT3VkN2piUXRJd2JxUWphQVhXUjZ2a3NyR3F4dkZELVUycmRhV2VPVUJ5SUxpemtMcFNYR0l6U1V5VXF2VGgtN1J6UUQ5R2RGS2ZyYnFrODhoV1NfUkdNck5hTFRWVk5sVzFIcEQ2REtxZE13dw?oc=5",
+    "title": "Meet Taku: New AI robot loads washers, folds towels and stocks shelves",
+    "source": "ABC7 Los Angeles",
+    "published": "Thu, 01 Oct 2026 14:58:26 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A robot called Taku can load washing machines, fold towels, and stock shelves—a demonstration of physical AI handling household and retail tasks.",
+    "companies": [
+      "Taku"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "domestic automation",
+      "retail automation"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTnktVERyeTNiN3FvRWFXUEU5cXBFMnVxNUkwNFRiMWZNSm9qWXhnZjh4Tk14d2Q5QmlQaWsxVlR1VnN6LVNnbzNESkZGWEJpMnEzX1dsdVlaYzcwNzFXakdWZ3B4MkdDSVVFS3VlUE1pbG9MVG9kYnczSHlaZW0tQ0xmRzhpZ3lyVjN0elJOcV83d1RxODdBVHNEbWRZemxKZGsyejlQSXVaSlB2aWx6Qm1mOXBkU1BJSzJDa3VZdUV6U19pQWFXdkFEb05jYjVrLXBmd3BRWDJ4V1JXUlE?oc=5",
+    "title": "Agility and FORT Robotics Announce Strategic Partnership to Advance Humanoid Robot Safety",
+    "source": "PR Newswire",
+    "published": "Thu, 01 Oct 2026 11:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Agility Robotics and FORT Robotics announced a partnership to integrate force-sensing technology into humanoid robots, aiming to improve workplace safety.",
+    "companies": [
+      "Agility Robotics",
+      "FORT Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot safety",
+      "force sensing"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnVvWWxHVVJMNkxkWHptamtia045X2xsZzVKYnlfbEVpeHUwVkNkQmstd2JmWkZCbkFoQ1ZiWVYydl9YZHBuQTFUNzdjRGpIT0xzMWFmbkRaRGJ3cHprUW8yTGRscHFqUUlHOEdDRWNCSHNRdDBRRXN1YnB1eXhFSDV6RWRWeFhwaVZiaw?oc=5",
+    "title": "Wheeled semi-humanoid robot learns household chores in 30 minutes",
+    "source": "Interesting Engineering",
+    "published": "Thu, 01 Oct 2026 13:45:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Researchers demonstrate a wheeled semi-humanoid robot that picks up household tasks in under half an hour, suggesting faster adaptation pathways for domestic robotics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "learning",
+      "household robotics"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbThaa1VCRkFxRW54SUhiRXlkbzNOUlhIbkJmZGYyTVlpUUU5VE14bkFldUU3TTJUMEluOXI0LWlPSVh2X0VQcEI2ZS1qdjVVaTVWWmM3RDY2ZU55U1hSRl9hSDN1aVBQVjY0Q3Q0OThtVGk0YkxNSzUtSDUxSEtmSEluNDhodXJBalJ4NUpMMkh6ZU5NNGxiZTJHU1VHOXRNaUQ5eVJDQWRSaFZSaG1acEdRT2NGVUVscGJMWlNoVVZLMllpT3BBNDBCdVdrMmp2b0FXSXFDTkJiS2VpU3p1eFVJcnZzMlR6Uk1paTlFRFNieUZFeldPMw?oc=5",
+    "title": "Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026",
+    "source": "The Robot Report",
+    "published": "Thu, 01 Oct 2026 15:37:37 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Vishay Precision Group will display custom sensors for humanoid robots at RoboBusiness 2026, a trade-show booth announcement with no new product or capability unveiled.",
+    "companies": [
+      "Vishay Precision Group"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "sensors",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWdOdVpSYXotLTByMjFwc2ZLa1k0SEFCZlRQSi1oSUk0d0pPZm1UNV9NZnN6NUhSUkFHbE8yOUFfXzJkcXFQSFR4OVlHX09YNTRwUVZyNXJDNTBQaFptbFdzbWFDZ19xem5tZEpXMVoxUHFiNkFQQVJ5Y201TWJsTl9IZ3lCeEZCQThKLUttNjc2TVdjaFJZQ2FsWWFBVExUWXdLc1ZINU12ME1QWGdtQ3NTcVVJUQ?oc=5",
+    "title": "Humanoid robots: China builds them, but Germany could supply the joints and hands",
+    "source": "Euronews.com",
+    "published": "Thu, 01 Oct 2026 07:43:38 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Germany's precision engineering in actuators and grippers positions the country as a potential component supplier for China's humanoid robot manufacturers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "supply chain",
+      "actuators"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDI3ZjVYbVViZ0Y0RS1TbG1xVlBhMFRxWHJmUG5SZDdHaHhaRzc3Z3Q4aW84a0Y4NUhCaU1FYmFtUm0xM05nRmxBZ0tidVl0Ykh0eElHbXN1dlNNLVdUMjB0aklJRVc0VHBJdUV2QVZERWMzUV9ZU0QyazlkMm9ucnZtaEwxYTFFSkNVWVpMcjBHUGZKSzVQdmJINFVNYzIy?oc=5",
+    "title": "Micron Technology (MU) Flags Humanoid Robots As A Future Memory Demand Driver",
+    "source": "finance.yahoo.com",
+    "published": "Thu, 01 Oct 2026 14:07:45 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Micron Technology executives see humanoid robots as a potential future market for semiconductor memory, a forward-looking claim rather than a concrete development.",
+    "companies": [
+      "Micron Technology"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "memory",
+      "semiconductors"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTJ2Z19OQzV1THNRbG94NU9lQ1FyWFBiZFUwakJWRjR0VDF5QWRWQW5YbFdYR3MweGlwSmhFdEdtc1NqOWhSTjdRNVpVRlN1VlAyaVhld2d3UnJsNmU5enNCTEFYREwwTlJSZnB6VVpRVnJ5UGpiVEtiVjc0cWFxVEJpVE40N0NYZWJlN25HcnZzazcxNzVjUFFGMzB3UHJlWXJ0R1J3ZHNzUEFN?oc=5",
+    "title": "Humanoid buildup overlooks the robots already running factories",
+    "source": "TechTarget",
+    "published": "Thu, 01 Oct 2026 14:29:51 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "TechTarget argues that the industry's fascination with humanoid robots obscures the practical dominance of task-specific industrial automation already deployed at scale.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "industrial automation",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHBaSWNuQ29udmVQZEkxRnAzd3Q3bmZlUk1vcjAyX2pqaTl1MDhuVFFpUzYxU2NtVGFreUhnZXZUaGZBLWdlNlV0VFcxTXFwc3kwYzVoeVltZlBET0hVMHhtM3RRRjgySVFrVVV6ZUhOTVNLSXA1dlBWTE4yaUNXMlVLNDVwMkxYSHVKemNnVHhOc1dBdEJoVw?oc=5",
+    "title": "Eni bets on humanoid robots as Italy builds its Physical AI stack",
+    "source": "Decode39",
+    "published": "Thu, 01 Oct 2026 06:21:15 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Eni signals interest in humanoid robots as part of Italy's broader push into physical AI infrastructure and manufacturing automation.",
+    "companies": [
+      "Eni"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid robots",
+      "physical AI",
+      "manufacturing",
+      "automation"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNS1hWWV5TjNiQWRVWXpPRmNSTXZySHZ1SDB6Vkdvd01ISDBKVWdBbmxiR1hOOFpIZzJjMXcxdkpCQ2NGekVTUThGaE5sQVphZ3U2S3l6aDlsUXlxT0MyMmhnYmd1Szd0b3d5VVJLSnczM1JveTlpSFZFdzhwNnNkVjZpaFNOdW1YZWlPWTV4YWxvMENnakNXV0ctWU8yYjQ?oc=5",
+    "title": "U.S. Army Names Five Winners in Humanoid Robotics Competition",
+    "source": "AI Insider",
+    "published": "Thu, 01 Oct 2026 16:26:38 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "The U.S. Army announced five winners in a humanoid robotics competition, advancing embodied AI systems toward military deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "military"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1BoNHJWWkFUX1h1MjdFTDZ4WVI4WDFGbFY2M3U0dTdhRDk1TVNFWTVhcDNhUnAzY1JaUlVJaDZQay1yTEVsS2VXelhXZ1ZubllZZl8wNThTUWdOMVlaRVhDbHlLNEoxYWs4ZW9ySkIyOFEyVTRhQUxYX1JKMWV3Unk2c2hsY0ZBN0V0TFNXbVlyekhoRU9jdUNsZ1JKb1JpQ1ZSclVCa3ZYZkl2bGMw?oc=5",
+    "title": "Ex-defense minister’s futuristic ‘Army of Robots’ raises eyebrows in Ukraine",
+    "source": "Breaking Defense",
+    "published": "Thu, 01 Oct 2026 15:04:05 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A Ukrainian ex-defense minister's proposal for robotic warfare sparks debate over the future of military automation.",
+    "companies": [],
+    "people": [
+      "Ukrainian ex-defense minister"
+    ],
+    "themes": [
+      "military robotics",
+      "defense",
+      "automation",
+      "Ukraine"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUZLVDBLQ0d0aWtTeFdmdDVSaGNTMGtBa01SNDh1LTlubjNnOEVDY3pTOW9fdkc1d3NYeTVRRmV5UkxXOTVDRTF0YjhtbzRFd3J3cmEzSFJxa1ZEZFg5bXRQakhCd0dmUWVLT0FKb2s5bUJPWVh1LVRLaHppeEdJY28xSTVhOXVueFBOM0NzUzRRS080N0JmNGoyX1hQYU5SYnNNVVNVbUp2NFdqN00wSEZmbw?oc=5",
+    "title": "Humanoid Robot Shipments Jump 432%, China Has 95% Market Share",
+    "source": "Forbes",
+    "published": "Thu, 01 Oct 2026 02:58:35 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Humanoid robot shipments surged 432% last year, with Chinese manufacturers controlling 95% of the market.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "market share"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcldnVVBSMG9Ka2JIM0pSNVdhWmg5ZWphb3p1Uy02WExDZnhsbXJJQ0RBbllPajdzN0oxUkZGdjJEQnA2N2s2RnI0SjRRa0h0Sm82ZTF2VFlreTE3YzNyY29pMlJhVnVfUFB1MnJrZU1NeGhaQkpueUVLdHprV0pBQmtIRFVJMUVV?oc=5",
+    "title": "Boston Dynamics drops pinkie on new humanoid hand",
+    "source": "The Robot Report",
+    "published": "Thu, 01 Oct 2026 17:54:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics unveiled a new humanoid hand design, scaling back finger count in favor of simpler, more durable manipulation.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manipulation",
+      "hand design"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHU5YndKTzJ0M1ZwSHQxeDVoVnAzd1ZlOGpkU0ctejF1VXVZcWc1eWhlM3d6M2dudERXN3JtZl8xVWlnYUFSaWVUU0FBX19iSVBhTVpOcVpuTG9MTWhMV1FhNWVrSkRrUjJrMUZCNE4wZ3RSRFp0ajRiQnFMeFEwX2xwbTVXUjlFRUo4OEpJRmdSRDRWMkE?oc=5",
+    "title": "U.S. Army Selects Five Winners in Humanoid Robot Competition",
+    "source": "Мілітарний",
+    "published": "Thu, 01 Oct 2026 09:40:14 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "The U.S. Army selected five winners in a humanoid robot competition, advancing physical AI toward military deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military",
+      "robotics competition"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWtvay1ESEhodjBpdHdMSy1RYzVIaThrUFJhbGlEVXlFbFRaTVRNZDBFb2c4Vzg2U2xRN0ZubWtnWDVfa2s0eFdpUWZWU09UdDVMQXZrendkdHBpNHpmZUk2OHZDWWpLb0dhc0NFM2x6RnpJNEJCQV9rV2M5ZUE1NG5SY2E4clp3VHZRc2pScVQtWWZTdWFERDV1d3l5QXB0bEtRY3REVWlJeHR0dFNwVXdIRQ?oc=5",
+    "title": "Agility Robotics & Fort Robotics Expand Partnership For Humanoid Robot Safety",
+    "source": "AI Insider",
+    "published": "Thu, 01 Oct 2026 14:35:40 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility Robotics and Fort Robotics are deepening their partnership to advance safety systems for humanoid robots in industrial settings.",
+    "companies": [
+      "Agility Robotics",
+      "Fort Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "safety",
+      "industrial robotics"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmw4MUNWYmJ6VVZDaGRmSWFOeGo5TWxERGZMNUdzUElUcmw0NXgyd09EVzBqbWE1NjFHMXppVnBkY1hxNEFNZDBzMHhyRnZQb0o3TWRENllNdXJuNFR1TUphelRQdGQ2dl9FSkxtRDMtMG54anRtMklQWWNPMkVHdUxkZUtKdVRwTGppSVBocGJQSTJNbmlhZXBGMDk1dVFHRTlpMkpkT0VydjBxSFpjbzVIYUJzY1lMYmVSNEVBTUVzUEE?oc=5",
+    "title": "Waymo Hits Friction on Two Fronts: Minneapolis Bans Driverless Cars, Florida Roads Bite Back",
+    "source": "5 EYEWITNESS NEWS",
+    "published": "Thu, 01 Oct 2026 18:51:19 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis narrowly passed an ordinance requiring human drivers in robotaxis, a move that effectively shuts Waymo out of the city. Meanwhile, in South Florida, Waymo's driverless cars are struggling with the region's famously chaotic traffic patterns and gaps in infrastructure, underscoring that the company's expansion is running into both political and practical speed bumps.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "autonomous vehicles",
+      "deployment challenges"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmw4MUNWYmJ6VVZDaGRmSWFOeGo5TWxERGZMNUdzUElUcmw0NXgyd09EVzBqbWE1NjFHMXppVnBkY1hxNEFNZDBzMHhyRnZQb0o3TWRENllNdXJuNFR1TUphelRQdGQ2dl9FSkxtRDMtMG54anRtMklQWWNPMkVHdUxkZUtKdVRwTGppSVBocGJQSTJNbmlhZXBGMDk1dVFHRTlpMkpkT0VydjBxSFpjbzVIYUJzY1lMYmVSNEVBTUVzUEE?oc=5",
+        "title": "Waymo Hits Friction on Two Fronts: Minneapolis Bans Driverless Cars, Florida Roads Bite Back",
+        "source": "5 EYEWITNESS NEWS"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0lGdzBvbS1MdnRqWTFQMjJrbWd6RThabHNtZzk0aFJkTzdBSTh0eHB0M1ExVmh0V01qWDl3aUx1YW1ySEhjYjlyM2ROemZVekZXaXIzR21nS0lVcWcxdm5zNkE4cDlsSGpERENHMVhuUFdQZ0VfbllhdGt5NTdGRE91SjRhWnNLRE5FWUF4U1JZYUFNMGpGWVRXWU5HaDQ1cDVxaFNuVDhsQlBpaWVv0gG3AUFVX3lxTE1sWlh2N09YUklSNUhOa2RPNVZNTVc2b18taEZ2UXpnSnFzWVFnXzBHbnNhUkZTWXMtU2ZpLUIxZDlvdlFoMUJXdVdUTUJZVktBYU14X0RKc05OTzIzOEpBenMyLV93di05dFdCNklUSVJmWWJjM2JiOFVIUUJLekNQS0RmcTNZLWJ5QkJ1bVVFSW05bVd1amM2ZkQyb29WZ3RnMVg0QV9sNWdBVDVRbDVSQW1iQ1ZEbw?oc=5",
+        "title": "The unexpected challenges facing Waymo on South Florida roads",
+        "source": "NBC 6 South Florida"
+      }
+    ],
+    "body": "<p>Minneapolis this week became the latest city to draw a hard line on autonomous vehicles, narrowly passing an ordinance that requires a human driver behind the wheel of any robotaxi operating within city limits. The vote, close enough to suggest real disagreement on the city council rather than a rubber stamp, effectively ends Waymo's driverless ambitions there before the company ever got a real foothold. The ordinance doesn't ban Waymo by name, but the requirement for a human in the driver's seat defeats the entire premise of the service — there is no business case for a robotaxi that still needs a chauffeur.</p>\n\n<p>The timing is awkward, because nearly thirteen hundred miles south, Waymo's cars are already on the road and discovering just how much a human driver's instincts are still worth. In South Florida, according to reporting from NBC 6, the company's vehicles have been struggling with the region's traffic culture — a place where lane markings function more as suggestions, turn signals are optional, and intersections operate on a kind of improvisational logic that no amount of lidar mapping fully anticipates. Add in the gaps in local infrastructure, from inconsistent signage to construction zones that change week to week, and you get a portrait of a technology built for order meeting a road system that runs on something closer to vibes.</p>\n\n<p>Together, the two stories mark a shift in the conversation around Waymo, which for the past year has been defined almost entirely by expansion — new cities, new airport routes, new metro areas added to the map with the steady cadence of a company that believed its biggest obstacle was scale. What Minneapolis and Miami suggest instead is that Waymo's path forward isn't just an engineering problem to be solved with more data and more sensors; it's a negotiation with local politics and local driving culture, two things that don't update with a software patch.</p>\n\n<p>The Minneapolis ordinance is particularly significant because it offers other city councils a template: rather than fighting a public battle over whether driverless cars are safe, officials can simply mandate a human presence and let the economics do the rest. It's a quieter, more durable form of resistance than outright prohibition, and other cities wary of ceding their streets to a California company's test fleet may well borrow the approach.</p>\n\n<p>Meanwhile, the Florida friction points to a more fundamental limit on autonomy's promise. Waymo has built its reputation on cities with relatively legible traffic patterns — grid systems, enforced lane discipline, predictable pedestrian behavior. South Florida offers none of that, and the company's struggles there are a reminder that \"self-driving\" has always meant self-driving under specific, favorable conditions. As Waymo pushes into messier American cities, both the regulatory and the literal road ahead look considerably less smooth than the sunbelt suburbs where the technology first proved itself.</p>",
+    "slug": "waymo-hits-friction-on-two-fronts-minneapolis-bans-driverles-84d1e1"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDF1dDF5VGtrRFh4ODNZNFhpdXBvM3J1WVdnV1pVTlN2S2p6Mjc4Rm1oVTNNRXhZZ09ETHBCUXBESnBDYjN5WHZQNHFZODJJNWQtcW9KU0NRXzhYdGMyUWFUbEJTRnJ4Mkx4RFZnNEFweVl6WDI3MC14ZHAwZk0yX2g0TE93ZWRiRXlPS0p1MW5taVpxdjJpU1FVS2VSbk5acHo4VXEwcGlCT2M?oc=5",
+    "title": "Minneapolis City Council votes to pass \"human monitor\" ordinance for driverless rideshares",
+    "source": "CBS News",
+    "published": "Thu, 01 Oct 2026 16:51:43 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis City Council passed an ordinance requiring human monitors on driverless rideshare vehicles, marking a regulatory pivot away from fully autonomous operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "rideshare"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1RfSGtlaTUzUjJ6clZXTWRVOWJkX29LLWZaWG5aWk1wRXlUMlNBSnk5YjRyZmx5czhYcElNaV9NQ1lyWGppeWV4WElGcTRteW16ZDgyeDZmTjBxcmxScThhMnRMUGJzVlhXOVpydWk3aE55ZzNIN0ktY1RrNl9iZC0waTNOTzFpZ3hvUllRZlJEakZodm5rWFFiNA?oc=5",
+    "title": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
+    "source": "WIRED",
+    "published": "Thu, 01 Oct 2026 12:15:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "WIRED argues that high-speed autonomous vehicle crash tests reveal safety insights despite the dramatic collisions.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety testing"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGZBNGUwSTF0N0dOcV9WVDJNNVg5bGFORGJtYUg4Y0ptTy1EV0lyNkJyUjdJTDJjRFdhQ3ZscnVnd1lLY1g5NnEwMTg3cE1zWEx5VFVLSk1EMUFsNnF3Vl9vanZLNHJGeEFFNXkwZFBIa2NEbFEyb1lKWURDd3dxYUhuUXVSSmNoWF9SVUxUeU5obTYxTU05UjRSTUt1U2xiM0lvMzhR?oc=5",
+    "title": "Minneapolis City Council approves robotaxi regulation",
+    "source": "MPR News",
+    "published": "Thu, 01 Oct 2026 17:33:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis City Council has approved regulations for robotaxi operations, setting rules for autonomous vehicle deployment in the city.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1RlRU9UbEVRc2hac0c3cV9PSFNodk1zY0lFNGpOZE1WX0J2UVNPX01mRGU2c055ODA4V3lFLUV5ZDJfamo1emhoQjRUZDJNY3VPVjZxcEh6UElEZ1poMVlFSklsQUNPMFVDREJwYm0zbTY0czhYcHl3aWIyZ1ZtZUxCclo3bFpvakRkUEVmbUJFbWl5U2xEYkdhZEMwbmhHaFVTMzQ1U1ZkalVlQVJRSTI0R0dvd9IBygFBVV95cUxPeUN2SnZ4WTV5Z2Jyd3VRSGF2cGxab2QyejljMExGWXIxTk5TQ3FPMFdWMEFYX09YcHNiQVcwcVBBWVRKRXJKYkY5ZEtFekFQOXlXcC0xckZlZS1zSDAzTE5xRlB3QkFoOEVRNkxsc0FXU2l5TkhkcGR6Z3J3YkJQLXluenVqalhfWkxwYVBvMWktZ3lXVGhUVlh0bS02eFg4dEVoOWd6Rk45SE9GcFk0MkhwVWlzam1xQVFDTGtQU1BPTTlVbWdmM3l3?oc=5",
+    "title": "AMPLIFIED: Driverless taxis expand across Las Vegas Strip amid driver concerns",
+    "source": "FOX5 Vegas",
+    "published": "Thu, 01 Oct 2026 05:59:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Driverless taxis are expanding operations across Las Vegas Strip casinos, drawing complaints from human drivers worried about lost work.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxis",
+      "labor concerns",
+      "Las Vegas"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZDhuODBib1lzZzZQeXR6YkV1N0pmbzZlQ281WDBDRHh0UFY0NGZ3RU5aUFZVcjI5WGpqVDJtd1o4LW94dC1uVUhFNFEtMUNHUDNhMEVSUFBlUzVFVnA4WVlQenYzU283aEJSM3U2bTdsejZiNzJxWFpRRmRwdk50VGY4aWhtSXlneGc?oc=5",
+    "title": "IKEA Picks Kodiak for Driverless Freight Rollout",
+    "source": "FreightWaves",
+    "published": "Thu, 01 Oct 2026 18:09:34 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "IKEA has selected Kodiak Robotics to operate driverless trucks for its freight deliveries, marking the furniture giant's entry into autonomous trucking.",
+    "companies": [
+      "IKEA",
+      "Kodiak Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "freight"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2hTeEJvTGJsSGctT2RNdDRDUUZIRnRJYmlVeURIQnRBNE9oTTNMTGNkb28wdVhjdFVGRWhiaVNWWmZhR3Z2ZmR0amlXVDhnMDJvSG1uRkF2UHZLMnp2dzZKSXVjdzBTczdINk84eHFHaVJmMUsweklnVXZ4SkdwRjNmYTZhaEI3UVNkYmE0aGxGRUhE?oc=5",
+    "title": "Another self-driving taxi company is on its way to Denver",
+    "source": "westword.com",
+    "published": "Thu, 01 Oct 2026 19:44:26 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "A self-driving taxi company is expanding service to Denver, marking another foothold for autonomous vehicle operators in a growing roster of U.S. cities.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0lGdzBvbS1MdnRqWTFQMjJrbWd6RThabHNtZzk0aFJkTzdBSTh0eHB0M1ExVmh0V01qWDl3aUx1YW1ySEhjYjlyM2ROemZVekZXaXIzR21nS0lVcWcxdm5zNkE4cDlsSGpERENHMVhuUFdQZ0VfbllhdGt5NTdGRE91SjRhWnNLRE5FWUF4U1JZYUFNMGpGWVRXWU5HaDQ1cDVxaFNuVDhsQlBpaWVv0gG3AUFVX3lxTE1sWlh2N09YUklSNUhOa2RPNVZNTVc2b18taEZ2UXpnSnFzWVFnXzBHbnNhUkZTWXMtU2ZpLUIxZDlvdlFoMUJXdVdUTUJZVktBYU14X0RKc05OTzIzOEpBenMyLV93di05dFdCNklUSVJmWWJjM2JiOFVIUUJLekNQS0RmcTNZLWJ5QkJ1bVVFSW05bVd1amM2ZkQyb29WZ3RnMVg0QV9sNWdBVDVRbDVSQW1iQ1ZEbw?oc=5",
+    "title": "The unexpected challenges facing Waymo on South Florida roads",
+    "source": "NBC 6 South Florida",
+    "published": "Wed, 30 Sep 2026 22:46:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo encounters operational friction navigating South Florida's chaotic traffic patterns and infrastructure gaps.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "deployment challenges"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXJuN3AzeG1fZ2RSZC1RUHRRR1RZUE1td0RSNVZQREdJbnVOeFo4bU9FZ3ltYzR2UHRRdVRwRGNGbkhsclZ0eC1oSUpMR3R6NUE2dUxmeS0wM2wzYV9IUGo2U1hHRWF6SUVJbTFtU2xrOUdubGZSYVl2ZEJUOXE1cGtGemwtSnY4dTJMUTR6eUlMYXU2RUV4TWUyNDN5WGZtcDBOTw?oc=5",
+    "title": "Tampa rideshare drivers prep for a driverless future",
+    "source": "Tampa Bay Times",
+    "published": "Thu, 01 Oct 2026 12:02:27 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tampa rideshare drivers grapple with the prospect of automation as driverless vehicles creep closer to commercial deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "rideshare",
+      "labor displacement"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnNTODJaZFYxeEF4c2ZCZElWLWpaczdaYnRFZzE4X0ZxcE1qa0VxbjlSdUljMUd0ZVpGaW1kZGlCWjJpR3NsS0J5dFBkNTNqTHdMX093bDBSNnhFSG5vajZ4cFp6N2NXYjVYN3pRYm9PejU2V19PbUg2cmt0ekhwRmNSX0lsNExVYVRSZkJHUW9TdmRSdENzWGkwd2c?oc=5",
+    "title": "XPeng and Tesla Alone in Paris Auto Show’s Self-Driving Rides",
+    "source": "eletric-vehicles.com",
+    "published": "Thu, 01 Oct 2026 12:18:43 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "XPeng and Tesla are the only automakers offering driverless test rides at the Paris Auto Show, underscoring their lead in autonomous vehicle deployment.",
+    "companies": [
+      "XPeng",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "auto show"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUlreENaQnI5MlJ1Nkg3LW90MGpXUW16amIwTlBxbWhWTzN6OHkwc2xncXhTenljSDhOb2RaWGp6cDZHZTVuMDc5U2cxQkdIWFZuRWt5Tkg5bVZ4ZmpPVkhMcHVZbjZvTVRla1pFcXYwVE43dVdUYjJLdUJNVjUzMGg1c25tSG1qVy1nYkd3?oc=5",
+    "title": "YMX, Outrider Sign Five-Year Self-Driving Yard Truck Partnership",
+    "source": "Unite.AI",
+    "published": "Thu, 01 Oct 2026 13:57:02 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Outrider and YMX have committed to a five-year partnership to deploy autonomous yard trucks in freight logistics operations.",
+    "companies": [
+      "Outrider",
+      "YMX"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "yard automation",
+      "logistics"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS19UdFVSVGg2amE2SVEwZFctZnVrY0pmWWtGS3N6cVNoV0FWYndaMHNmYkFETWFnRUlzcGFGRVNmTndXbmVqM2JQUUZzUnM4RjJyVF9rYzVzSlNwTXhESDUyS0FKMVFuSmxyRS1tQU9IMEtTbWMyRTYwMXU5RjlSZDVCRVhrVzhYaGp4ODVhQkVpZmZQNjdSTTRud1ZpMVdXWGEyMUVFT3RFZGlUYUcwdXVaM28?oc=5",
+    "title": "IKEA will be among Kodiak's first driverless freight customers",
+    "source": "Electronics360",
+    "published": "Thu, 01 Oct 2026 12:51:38 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Kodiak Robotics is deploying its autonomous trucks to haul IKEA freight, marking one of the first real-world routes for its driverless fleet.",
+    "companies": [
+      "Kodiak Robotics",
+      "IKEA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "freight"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPekdCX1RHajZhVk5fS3llay1JQWpiZURkenliUVVhSXZGQjN3c3pqVUJHRjN4akpaeHVTRTdzQ2tkaGhhcXNBZlVKeGlVR1lZTnJwOFV6REphZkVnS3VPdmRoaloyakotUUI5aWdjUkxFTjJuLWctQXB4YVN6MzRQYU1ydl9JZ1ZaS2psNVlQN0VTcDRmczZpM0dOclQtMHY2d0FDVUZfVkJhUGlHbFc0Q2o5aEJ5TFFESFozVDNORS1RRC15Yk1DWFI2dUlBcnJJSVg3Q0J6REJaNmN6ODYydE92QzBMbmFwX2lKNmQxVEM0V3paaGZhNE5zSUViYnY1aVM0?oc=5",
+    "title": "Kodiak AI Chooses AWS for AI-Powered Autonomous Trucking Technology Development Ahead of Driverless Highway Launch",
+    "source": "markets.businessinsider.com",
+    "published": "Thu, 01 Oct 2026 14:15:26 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Kodiak AI selected AWS as its cloud infrastructure partner ahead of launching autonomous trucks on highways.",
+    "companies": [
+      "Kodiak AI",
+      "AWS"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "highway deployment"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnd1UWxDeFB4eHp5M09EQzF3aGNZWGRHeXBDUmRZdEo5Tktxb2E1WmQ5a2dQdFBCa0hKSlJVQVVsREtjcHRiZjdzUUFkTFg1VzgwTUpoUVZHeW9LaHlYeHFvZlRDTDhBQnVyNGZ2TDdoUDdPOXV2TVZQdkxJb0ZPcEc5cWdMSHNt?oc=5",
+    "title": "U.S. creates new Autonomous Warfare Command to fuse and enhance military drone ops",
+    "source": "DefenseScoop",
+    "published": "Wed, 30 Sep 2026 22:07:55 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The U.S. military has established a new Autonomous Warfare Command to integrate and streamline drone operations across branches.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "military drones",
+      "autonomous systems",
+      "defense"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZklDbkplZ0M5UFdwLVp2RjFHbjRZczdJcXNEYTdfLWVVNDByTGtKeWhHLTVWR093VVdqMjR6ajFDX28tUW0wd0tsRWRSbWFpd0FHZUVwclRnWHpTSTdaVVdHM3R2ZzNsS1hXOV9tdGQtQjJBZGxxSTZnTjlSc2RueTlmZjlvOHNGZEU5OV9aUlhoWlJoLXBualJYSmFPQnNwQ2pRUFA0NDY4djg4NHd0eXFPd2E5RUhwSndSNWl4UmttRXBQQkx3YTAwZzRGM1lmSWhtSmdRckNFa1NuRUMtejVzRV8wSmV3QjRzcA?oc=5",
+    "title": "Ouster Partners with Seneca to Advance Autonomous Drone Technology for Wildfire Response Operations",
+    "source": "Business Wire",
+    "published": "Thu, 01 Oct 2026 11:00:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Ouster, a lidar sensor maker, has partnered with Seneca to deploy autonomous drones for wildfire detection and response.",
+    "companies": [
+      "Ouster",
+      "Seneca"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "wildfire response",
+      "lidar"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3l3OWJYclNEU1AwZWwwTGF4TU5SMXV1Sl91ekc0TE8xcDdPSFpqanc5QjRwZ2FoWkpVLURBZGhVbXFiYUJuam1kTGhtRFRUYkljZ2NCYy1GWmZZQXpva05lX1RGVFBKcHhTNEJyUXZfc0ZySHljQzQ1RWZvS1V3cGFnWVJnX1ZVem5rLURJdnFhMl96dWVRc0oyODEzeUk?oc=5",
+    "title": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities",
+    "source": "reuters.com",
+    "published": "Wed, 30 Sep 2026 22:20:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The Pentagon has established Autowarcom, a new command aimed at accelerating AI and drone operations across the military.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "military AI",
+      "defense"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdktGbEpIS0dNbFFKWktIZHl0WEVjYjZucnlwMTFxdWxUcHNIanlwNW5aNmpxY1hPS2pLYVpQLVhiOUhEaHZIbkZGMVUxbWgtUjdmZWRpZE1lSmU5dG91YkEyRzZCU0E5VEF0eEVIVEdKMDl4Y1g0V0Q1OWpyeEl1QVo4bWtVMmVwRFJGcUNwRkRRV1pmbE9uQVBMemxKb0tWUGt5WGlIWHJrRDJNQkE?oc=5",
+    "title": "Neros, Perennial Autonomy lead in Pentagon’s drone competition",
+    "source": "Defense News",
+    "published": "Thu, 01 Oct 2026 14:02:08 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Neros and Perennial Autonomy advanced in the Pentagon's latest drone competition, signaling military interest in autonomous flight systems.",
+    "companies": [
+      "Neros",
+      "Perennial Autonomy"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "defense",
+      "military procurement"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWRIblJ0Vmh1X0NjbGRtejZzRE9SYW16Q1QweFhrTmhQY0k5aDNfWkVMWjYwWkUyRkFsdHBXSUpoUy04VWZqbTRtVDFNWXBULUowMUNmYmU3QndkZ2VVOGNnTTNaVUFIRDI1VkNFekxMd1lDa3NWZjFTNUhEZEFkd04yMzhlOVBwQ3g2ZUlhR0hZT2ZyRVRyZTg1Y01KVFJ1b1FaOG1ud0U1dk5kUDZNbURKdmlFcm8?oc=5",
+    "title": "New Drone Falls From Sky Like Maple Seed, Then Sails Like Boat",
+    "source": "Industrial Equipment News",
+    "published": "Thu, 01 Oct 2026 15:55:59 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A new drone mimics maple seed aerodynamics for descent before converting to boat mode for water travel.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone design",
+      "biomimicry",
+      "hybrid locomotion"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ01VMHBLY2JjaFdaSFlvNUhsTkpRaTVia2RRSFZqNWZjWXNTa0xwTXloRnhuREV6aUhVRG56WVpSbjNPendjZTVDUTRxNGpXQk9ZYmFnZTl4aHFPeUNXRVNqNnNBOHhYdjRDd0t0TlBMOFNLRVFlTmNxLTM5THY0RG8zMEtNM1IzdnBIM2ZTTnQyVThyNTFGZGtwQk9WdElzSWJYemhoR1E?oc=5",
+    "title": "Defense drone company plants flag in Rock Hill after completing merger that took it public",
+    "source": "The Business Journals",
+    "published": "Thu, 01 Oct 2026 17:45:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A defense drone company has completed a merger to go public and is establishing operations in Rock Hill, South Carolina.",
+    "companies": [
+      "Unnamed defense drone company"
+    ],
+    "people": [],
+    "themes": [
+      "defense drone",
+      "merger",
+      "public markets",
+      "corporate expansion"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUlfSExwX2NsOUpLckg0bmJuWVpkNVV6eEdJcHpXX0N5clpid1VXWFlQSDhFS3NneU9qVEl4WDFqRUYycHhJNWRXTjNuVDhwXzNTakliTUEwLUlRek5feGFWY3JGZlIwU1JVYzNMVjlPUEdYbDc0Z2ltekhBMU5WOEdfYk96RUlaTVE4RFRzWjViVDQ3Z3lEWWxibDZxWXBWdFBVYlZwWWh5czA?oc=5",
+    "title": "Autonomous Warfare Command: Pentagon Creates a Four-Star Drone Command",
+    "source": "migflug.com",
+    "published": "Thu, 01 Oct 2026 09:00:48 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The Pentagon established a new four-star command dedicated to autonomous warfare and drone operations, signaling a major institutional shift in military drone strategy.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous warfare",
+      "military",
+      "defense"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0tkQ2wtVnpEZXZ1RlVqTDVPQlVJemlRWTlpX3JYTk84TW5qdlNoazlSY191N3NCaE84RnM3VUNSbmxrazhLaC0zTzliN2swcE1iQnJ3Z3dhVm9nZ1RKTm9zYjN3c2FMdmpiSFBPZEF4dUhBN21XeldXTHRVSld6NXVpbHRoV3FwWDhCcWp6VTBicW9Ld2tmTTl6WQ?oc=5",
+    "title": "Hegseth Unveils New Autonomous Warfare Command in ‘State of the Force’ Address",
+    "source": "Air & Space Forces Magazine",
+    "published": "Thu, 01 Oct 2026 00:24:42 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Defense Secretary Pete Hegseth announced a new autonomous warfare command, signaling the U.S. military's formal organizational pivot toward drone and AI combat operations.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "autonomous warfare",
+      "drones",
+      "military",
+      "command structure"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObTJ6azF2Um5zOGtWWDJYSm5HaF84YmZ3Z3BUZWFRNmROWkhaTDFWYWg5Z0ZJSHowMkpaWlA5MHJCZXM4Qnd0bzEtMExtYk0wOEFFTHRCeXVFcmJTc1ZQQmJzQlRVMW0zSy15VEpFTzdVUE9Ra1F6V2liTEp2WktPejVwX0ZRQVR0T2hFNTEwenhoRGRGNG9lZWZTYk5NWG9LamxzdUZVU2UyM2JXWmlXUTV4WW1yd0tIM0NxSWNIX09ScVZLdGJCcHIxNGZTUXJQTGJQMGUzTWUtRUZsVGRiYkl1VFRoUQ?oc=5",
+    "title": "Unusual Machines Tumbles 8% Despite Pentagon's Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back",
+    "source": "24/7 Wall St.",
+    "published": "Thu, 01 Oct 2026 16:49:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Stock market moves in drone manufacturers including Unusual Machines, AeroVironment, and Red Cat reflect investor uncertainty around Pentagon autonomous warfare initiatives.",
+    "companies": [
+      "Unusual Machines",
+      "AeroVironment",
+      "Red Cat"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous warfare",
+      "defense drones",
+      "market sentiment"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYUFwdGJyQndUNEZZUGsxV1RpYVRmUVpXTHpfaFc0Y0JhNjZ1NkxndjB4RmhyN3VlWkJfNEdsVGJvdDNGYlh3em9QMG5LeC1OVWdKVWxzN1NZODJTT0ZIaUF4bTdlWl8zcDNZVDhJZko4eWdLcmFCUHdWQkpMOUh6SG02MV9VTTZtcjE1VWZUQWdaOGQ1TE1xbndfQlVDejdKbndnSzN3d2h0QQ?oc=5",
+    "title": "Hegseth Creates Autonomous Warfare Command for Drone Deployment",
+    "source": "Bloomberg.com",
+    "published": "Wed, 30 Sep 2026 18:47:22 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Defense Secretary Pete Hegseth established a new command structure to oversee autonomous drone operations and deployment strategy.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "autonomous",
+      "drone",
+      "military",
+      "warfare"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzFqblFHTnNkd3YxXzhMNE01YUQySDR5WmlLY3FnWHVjTkVMWjVwa0hweDhVb3VXcmF4aG91NWI5d2ttUHVTME94QVpxeFowRFVsR3JhbzRvS1pYSmJYVWhrZUpRSjc3eVJTV2RCa3gxV2tSVUtnRjJEVmd1TFR4VkhaempMSmlucDZrVzlQR0YyN09BY3RmbGdqMDY5eFZWc2F6Y2NVbWlUTGd6MmxHZjZlOHc?oc=5",
+    "title": "Hegseth Unveils New Command to Oversee Military-Drone Tech",
+    "source": "WSJ",
+    "published": "Wed, 30 Sep 2026 22:35:47 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Defense Secretary Pete Hegseth announced a new military command structure to centralize oversight of drone technology across U.S. armed forces.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "military drones",
+      "defense policy",
+      "command structure"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hSXQxWDZyODZFZDlCU3lVNkEtMUFrQTlxQV95NnVYdWVFZEcxUEFVeTMySXg1bWY5ZWZwNk9ocGxTZlBuN3R1WUROMG9wcHg5YWt5QXF2R0dHUGtsWWZ1TFpBX0g2ZGJEcW9TUTYwRlNRT2tCTHN1QdIBfkFVX3lxTE50aEJ1MDJjaGRIRktSYTFrLVRXM1lPNHFpbGIwWGpfc1BDWTFkbVY0MWJNU2tRVjJERjZ5ZjNMQl9FV3VFYmdzMWtuNjBZODQ4TW5RZE9BeUhFT2F2aWw1RGIxSWZ2WXdnYm05bExUQmxSZ2I4clU2MzY0aUE3UQ?oc=5",
+    "title": "ZenaDrone Adds a Quantum Backup for Drones When GPS Fails",
+    "source": "The Defense Post",
+    "published": "Thu, 01 Oct 2026 11:28:59 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaDrone has integrated quantum-based navigation as a GPS-independent backup for its drones, addressing a critical vulnerability in autonomous flight systems.",
+    "companies": [
+      "ZenaDrone"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "navigation",
+      "quantum",
+      "GPS",
+      "autonomous"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1ZWQ0JzVE1YSVVTSk1FUFUxZHhrRGdIbmF3VWsxQnFhVzR2SUZtNFJjSG5CQjljOE5HeHJTVnp1bW1NdzZZa0hsQnhRRTQzUHB4QVRaZ0t5QUZnSk9TRVdpVGEwamVSdjVOVUZkTVVOS0Q0VnYyUWdpbl9pMVZJYl91cnRBTE9xaVVsVExmM1pSNk5LbDdyLUdwQUlqbFZtVXBKMjBjY20?oc=5",
+    "title": "DoorDash launches autonomous aircraft for drone deliveries",
+    "source": "Yahoo Tech",
+    "published": "Thu, 01 Oct 2026 14:06:29 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "DoorDash is launching autonomous aircraft for drone-based food delivery, expanding beyond its traditional courier network.",
+    "companies": [
+      "DoorDash"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous aircraft",
+      "logistics"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa0JzbTVsTzFJVl9RalNzcGN3YzFXR0ptVDRJQjNzallLSGpPVllmcWNIeHBYM004bmxidWVpdEN6TjNScVk0MVZFd3hwRjcwcDd3Z0NDWWpyYjJacFZobGJqaWNFajVjcVJkMkd4dEQ4UFFsQm1ucmRvOE1yc2ZKamVZZ3NyUF9td010U2xlNVh6Yi1ZOHRXVHdmMHpRYVJMTjZ5WEtkeFZoenp1LW1kSlR4UnBpVGcxdWRKX19KaEdjY3FINTJSX1l1Q1ducGQ5ekJxUFQ4SWZXRXZBOEVYWkxsNA?oc=5",
+    "title": "UAH puts autonomous drone technology to the test in final international NATO competition focused on disaster support",
+    "source": "The University of Alabama in Huntsville",
+    "published": "Wed, 30 Sep 2026 19:34:49 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "University of Alabama in Huntsville enters its autonomous drones in the final international NATO competition for disaster-response technology.",
+    "companies": [
+      "University of Alabama in Huntsville"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "disaster response",
+      "NATO",
+      "international competition"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekZfd243VEhfTTJzX0RTUWlNRmxFZ19faUtmY3hFcDRkTkxoOTF0MTJ0U3BuLXl4akFCR0ZLblozTVhOSTV6ZTh2RzlPUUs4MjZaOGVkZTdLczRZTDRKaTBBVUZQaFhQdGdCRTAwV0ZuSUtjbFFVNFJRZlh1V3dWVk5iVklqNWYzSHg3U1M3UEhqSW1nT1IwalhVVDJWbG1IV0oxTkhjcUYyblZ1VWc?oc=5",
+    "title": "Hegseth announces new four-star command for autonomous warfare",
+    "source": "Federal Times",
+    "published": "Thu, 01 Oct 2026 15:54:11 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Defense Secretary Pete Hegseth announced a new four-star military command dedicated to autonomous warfare operations.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "autonomous warfare",
+      "military drones",
+      "defense policy"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGtiZ0xhUFNfOHVvNEsyRnFrYmlKLVRlMWZKVENiTlFWRi1YYUIwbkdOZmpDRjJucy1OWUlLTDZvaGJfYWNkRFBuUVZRcll2eFZIXzlIMVRiVjNlSXNlSnVRaGpfRTU1YnhoTXQtZnFPT19vcHhZOFpRdEdUTEJ6YnVoemJtSFgtZklQTmtOcmc1TFQ0MFpXNGtTNXFPYTVpNUNMNFBkRldjbDRWOHpRMTZ6TnY2Z3NtSWc?oc=5",
+    "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
+    "source": "Breaking Defense",
+    "published": "Wed, 30 Sep 2026 21:20:14 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Pete Hegseth announces the Pentagon will establish a new four-star general command dedicated to drone operations.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "military drones",
+      "command structure",
+      "defense policy"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZRi1jdUNLR1l6bXF3Z24wRDRReXdOMHkxQS1rWUJfc25SdjBVSk5EdGVqS3V6enpMRnZ4YTE1RjJEaFo2X3ZhLUtKT2hzWVJzVmFJSUd6VFR2YWlGbDE2RGVZYTU4ekVZSFhCNE9n?oc=5",
+    "title": "DoorDash Air Unveils Drone Delivery System for Local Businesses",
+    "source": "DoorDash",
+    "published": "Wed, 30 Sep 2026 13:21:07 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "DoorDash Air is launching a drone delivery system aimed at local businesses, expanding the food-delivery giant's bet on autonomous logistics beyond restaurants.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous logistics",
+      "last-mile delivery"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHlXNURVSHpZd2Q3clppTXNiNVhBcV9uUEN6c1o0cUFXS01EdjhnSTdEWnRYWGlfRFh4VFBKWkxaelBQV2ZZd2hCSFN0WG1qS2dhcnB6WTlNbXZZaDhDV0tWQUl2N2UzbjFRV1B5cEh2N1VQUjRWeUZob2p5QzdEc3Q2cFVfLTdKZEZCUkRkbFNyX2NuVGdhRVRENFZWUnhvX25DQ1J3a1U2aGZFZlJjejJ3?oc=5",
+    "title": "Neurable One wireless headphones have built-in brain-computer interface",
+    "source": "GamesBeat",
+    "published": "Thu, 01 Oct 2026 13:00:14 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neurable is shipping wireless headphones with a built-in brain-computer interface that reads neural signals in real time.",
+    "companies": [
+      "Neurable"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "consumer neurotechnology",
+      "wearable BCI",
+      "neural sensing"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2cySzZpcm0xZUhrdHJJeGx3X0hkMTZUa3ZhbTVNcDh0VmVaclRFWEZ2ZVU0bVoza241TVdITUVzdlVLRTdVdG1RVGt2bDEzbVlUdWdWSU5UWHljWEVDWVJRUTdmWl9SeHVOdjFqZzJvWkVYQnZ6VWpoVnFTMEFza09walUwYTVLWjZHdQ?oc=5",
+    "title": "Needle-Thin Brain Implant That Records, Stimulates, and Delivers Drugs Worked in Mice but Is Not Ready for Patients",
+    "source": "Medical Daily",
+    "published": "Thu, 01 Oct 2026 02:14:54 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers developed a needle-thin implant that records neural activity, delivers electrical stimulation, and releases drugs directly into the brain, demonstrating the concept in mice.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "drug delivery",
+      "neuromodulation",
+      "preclinical research"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85Tkw2T0RRVHk4M3ZmRURabnVad01CaThwS3h1bFE3bXVOelN1ZVRWS3VxUUZmU3dqQVVWcFprQUJtQkl3bjdoTnJIeHhIQlFFYzBMSlRjc000RXc2MV9B?oc=5",
+    "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
+    "source": "Nature",
+    "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers have developed a brain implant that decodes both speech and hand gestures simultaneously from neural signals, advancing the state of real-time BCI translation.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural decoding",
+      "speech synthesis",
+      "gesture recognition",
+      "real-time translation"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://neurable.com/blog-posts/neurable-one-is-here-the-headphones-ive-wanted-to-build-for-10-years",
+    "title": "Neurable One Is Here: The Headphones I've Wanted to Build for 10 Years",
+    "source": "Neurable",
+    "published": "",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neurable, led by CEO Ramses Alcaide, is launching Neurable One, a brain-computer interface headset a decade in development.",
+    "companies": [
+      "Neurable"
+    ],
+    "people": [
+      "Ramses Alcaide"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "headphones",
+      "neural sensing"
+    ],
+    "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
     "duplicate": false,
