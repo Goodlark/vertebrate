@@ -67644,7 +67644,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -67762,7 +67762,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -67839,7 +67839,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68065,7 +68065,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68225,7 +68225,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68278,7 +68278,7 @@
     "first_seen": "2026-09-25T19:06:16",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68461,7 +68461,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68540,7 +68540,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68591,7 +68591,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68617,7 +68617,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69032,7 +69032,7 @@
     "first_seen": "2026-09-27T18:52:06",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69268,7 +69268,7 @@
     "first_seen": "2026-09-27T18:52:06",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70027,7 +70027,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70727,7 +70727,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -72966,7 +72966,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -73651,6 +73651,840 @@
     "week": "2026-W40",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVTdocUJIV0pubEtENWk5VlhmdnlIaEhEVV9tZy0zSkpyS0s4dXpTSnJObk1vWktyQmhKOGZNMHBXWFBzNlFac19yNnBvOEdDcTUwdGQyYk5pQjRXUDV2bFJZblBvN242dlQxOF9NWVNydS15RlZWN2JfREFZNXdjdnAySW4tY1I3bldpV3g5WF93eGVUcmdpQmQ3cjRuU2pxSGtOMXBrSU1EQ25rT3JWY1pCc2ZYVWNmY0JsN2plTWUtNGVjUGp1cnVCcWlmQjZaYW85ckRB?oc=5",
+    "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
+    "source": "marketwatch.com",
+    "published": "Fri, 02 Oct 2026 17:29:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The U.S. faces a shortage of critical machine components needed for humanoid robot development, threatening its competitive position against other nations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "supply chain",
+      "manufacturing"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajNEc3Q4Ym1sUlF2U01oSS04MDZOWkYydjNwY2d0ejlMcERNT2I0UVJKUXViM0x0OTRSNjdMVEowMEJsbVBPVXo4al92MlZaeWUxRlU0VktEWGZYYUw5dnZhVVVwekJtREdMMlhSRUg4el8wNDZNQjVBVHRwNnBHVGJEakhIMzhJa3BqTWw1SGdONXdQYm9BRWNUMNIBoAFBVV95cUxOdUgwMWx1WU9qam9fc3A2Ynk2TGlLM1Y5UDVwWER5YzFPWklwZFd6T25qY2V2Ty0xUkZzNE1QRVREMlJ4YWtLWGxOczB2MEkyOHhKS2lveWxlVnpYODVFWF9IZ0U4bFhwQlBGZGxMSTMwM1k5OTc3MkR6VV95am52Rmh0OU82SExnelEyWjAyR3NfQjlaZENNaGU0dGNqZ1FU?oc=5",
+    "title": "NASA’s dexterous humanoid robots built to assist humans on the moon",
+    "source": "The Hill",
+    "published": "Fri, 02 Oct 2026 18:04:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NASA is building dexterous humanoid robots to support astronauts on lunar missions.",
+    "companies": [
+      "NASA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "space",
+      "robotics",
+      "lunar"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYy04Y0ZNcjZRcXZ3UHNSelRCQ3U1bk94ZmtPdzhxLWRvX1R0MXpId2l5OGEtTnFqcXkwX1RhX3RnZFdsTWUzb0ZVUldqTGkzVXFfVWY4S05WTEJkbDg4MEdJU0MxRjJyWmtoQkkwNVBlUHVPcXUyNUQ3WHlDM1d5TjZGSWRsdTA?oc=5",
+    "title": "Video: Uncut footage shows humanoid robot doing factory work with claimed 60% autonomy",
+    "source": "Interesting Engineering",
+    "published": "Fri, 02 Oct 2026 15:54:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A humanoid robot performs factory tasks with sixty per cent autonomy in newly released uncut footage, though the maker remains unnamed in available reporting.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "factory automation",
+      "autonomy"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSkxJcGlMWlEyZ1h2b1d2THR1Y2VXOHZhc056cFJuVmlrMlMzRFZ2SHBsY3BWX0tSVENUaHNmV1M5bDVKUlVYM3ZCNVVzbnBUeUtfSVB0MWhDM1FfSjVsNG9RMDVOWVJQRzVqTzB2eURyb0QzbExTakg0c2lxVG9pYUlodzJrby1ST1E0em5adEViRTQwQXR3Vg?oc=5",
+    "title": "Tesla Wants to Build 10 Million Robots a Year. Here Are the Supply Chain That Needs to Exist First and the Stocks Set to Benefit.",
+    "source": "The Motley Fool",
+    "published": "Fri, 02 Oct 2026 18:07:55 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The Motley Fool surveys the supply-chain infrastructure Tesla would need to manufacture 10 million humanoid robots annually and identifies stocks that might profit from the build-out.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "supply chain"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTZBY0huNFR1RUwwRmRGN0FqX1RoRllJbkZXTWNPRko0bzZQNnVuaEtlbmNIYl9FNDZNU2ZCQk1RNzNQU3JxZ3c5X1VVeDYyd0JhcG1kaFZkRFNTYTc3a1B5Y0VtZzlySFp5aGRmYTBBeHBvcU1ibDdXVmxQYmtUNjQ2ekMxam9QalhQdktJNFM2Y3E3c3NvN2VZcWFSYTI5bGJvaUJTTFJhV0hFajN0cw?oc=5",
+    "title": "Astribot brings its T1 humanoid robot to North America",
+    "source": "Robotics & Automation News",
+    "published": "Fri, 02 Oct 2026 07:45:09 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Astribot is introducing its T1 humanoid robot to North American markets, expanding the Chinese maker's footprint in physical AI.",
+    "companies": [
+      "Astribot"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "market expansion"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KOGg0d3JiczRxSW1JaGd5M0hzOG9HbjBUTXNfelNmczNzTF81aW1TdWR6MzZTNDV0Y2pKU1g3OExXWFUyMFdFWTZGSmxVTi1RU1lFRmw3eWhjY2VRUkZ4LXdlbUNzb1h2bVlJ?oc=5",
+    "title": "Atlas skips the fifth finger, adds dexterity to put tools to work",
+    "source": "KED Global",
+    "published": "Fri, 02 Oct 2026 18:57:31 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics' Atlas humanoid robot gains a four-fingered gripper designed to handle real tools and tasks.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "dexterity",
+      "gripper",
+      "robotics"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdW9obFlObnVuckQzXzQ1XzhnNnpFT3ExaDBjanYzaFVZRmwxQ2Q3cEZjODllMklQUnV3bDVpUm11ckdyektvM3JySXplV2RFY0pVZ1k3c3Y1UkZ0cGR4YnF2ZVBUT2dzd2pQY3hnUWFuanpoNVlQLThBV3JjcVZ4TEtxX3A1UVNSRXJCQzVBVXg0YW13bEJzVVNXU3RlZ2hFbTFaakFpSnFVQURpblNoLXBudXZEbk03allOQjZudEc?oc=5",
+    "title": "Italy’s Eni & Generative Bionics Partner to Explore Humanoid Robotics for Industrial Use",
+    "source": "AI Insider",
+    "published": "Fri, 02 Oct 2026 12:29:02 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Eni and Generative Bionics announced a partnership to deploy humanoid robots in industrial operations, betting on physical AI to handle hazardous tasks.",
+    "companies": [
+      "Eni",
+      "Generative Bionics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial robotics",
+      "partnership"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3lwYTIzcXgtN1BYVWxjNDRnVzFmOFYwY29HVXRMRVBNVmVpYnVXdDl1VGtGR296SlNCamRPN0drRlJ5VF9mbGxwcTJuR09OZUNCUDl4UktQemgtWm5Ld2VLMmpIQTAxX0sxSy1mUGNLVDR2b1BpMThZRmpGVnZaS080R3gzUGs?oc=5",
+    "title": "Boston Dynamics unveils 13-DOF robotic hand for its Atlas humanoid",
+    "source": "Interesting Engineering",
+    "published": "Fri, 02 Oct 2026 12:52:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics has revealed a 13-degree-of-freedom robotic hand engineered to give its Atlas humanoid the dexterity required for complex manipulation tasks.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "dexterity",
+      "robotic hands"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamJWQS1GUGMyZkx1UkV5UkphNG1wbm5zZmNaQWdnY2xGMU1IZ25RMW05V255Z2ZBS3ExNGVIYzltS0NzbmFvYzZRVngtOU5GQ1FDRENWMl9nNVNxVy03c3NSQ0hXVkpKaFI3ZHo2RzJvWEdTelhMSDBPM3ExbGFFM3lrQ3BmaTkxblNkSldPcE54bWs5Y2pkMEFoZEZpUjFwczNhb19acmxCaTNNdGxHdUptRGxzY0ZKZHpXc2UzX3B4MFE?oc=5",
+    "title": "IDC data shows Agibot led global humanoid robot shipments in H1 2026",
+    "source": "Robotics & Automation News",
+    "published": "Fri, 02 Oct 2026 10:24:48 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Agibot shipped more humanoid robots than any competitor in the first half of 2026, according to IDC market data.",
+    "companies": [
+      "Agibot",
+      "IDC"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "shipments"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmJiUUk5cW9oaTJjN29nc1lIME9lbzFrSWlOR1F6TzNlMF9jWGdHM0FwRlNOWHlhb19lRDI2VkY5bTBwdWJacnA5dWNWNkk3MFJhS1g4bFl1U2NoQzZmUkJiMVNRcGJ3R1NtMm03amRsUkktX2xEaDJqcGVpajlkbW1uWUJDREQwWjFJT3hlS0VEUnhZNnRmNTZnUWRKRnRLeTkwZk92blZxeF9FeFBDNWR5ZXR4S3NXTG5EOFVVY1p4M3NY?oc=5",
+    "title": "Boston Dynamics unveils new four-finger hand for Atlas humanoid robot",
+    "source": "Robotics & Automation News",
+    "published": "Fri, 02 Oct 2026 07:23:47 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics fitted its Atlas humanoid robot with a new four-finger gripper hand, aiming to expand the machine's dexterity for industrial manipulation tasks.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "dexterity",
+      "gripper"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnhoODdDZkJqbnlvX2R4UlFobUJtSlpqRzBhRHhsSUN0ZmEyQWNXd01FWVFlY21mdUxqbFo4Z2pHSTFjWTdZT2lJU1haZ241ajdoN0RMcWlQM04tU0d2Mk9EbmhucUx1U2ljY1dpMkJlR3BwUVkxRmNqNXFfdGZzYVJoQkpuT2pfckxhbXFzZW5yaWNh?oc=5",
+    "title": "Lyft and Waymo Open Driverless Hub in Nashville",
+    "source": "Business Insider",
+    "published": "Fri, 02 Oct 2026 15:16:33 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lyft's Flexdrive unit and Waymo unveiled an 80,000-square-foot operations facility in the Nashville area, giving the robotaxi partnership a dedicated staging ground for vehicle maintenance and dispatch outside its home markets. The hub, detailed in separate looks from Business Insider and local outlet WKRN, signals the partners are building out brick-and-mortar infrastructure as they push driverless rides into new cities like Nashville.",
+    "companies": [
+      "Lyft",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "testing infrastructure",
+      "ridesharing"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnhoODdDZkJqbnlvX2R4UlFobUJtSlpqRzBhRHhsSUN0ZmEyQWNXd01FWVFlY21mdUxqbFo4Z2pHSTFjWTdZT2lJU1haZ241ajdoN0RMcWlQM04tU0d2Mk9EbmhucUx1U2ljY1dpMkJlR3BwUVkxRmNqNXFfdGZzYVJoQkpuT2pfckxhbXFzZW5yaWNh?oc=5",
+        "title": "Lyft and Waymo Open Driverless Hub in Nashville",
+        "source": "Business Insider"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vWGZjdEdLZWFLYWk1Tk5qRXdLc285Ync2Mk9XSW1DWmt2TUFYdUoyc3FMRnlmOWpTVlJrWjF5MHEyTG03S2hudVJ2ZjljRl85S2I2OVBPMW5ONU5oMzkzNmdQVlo2dXNTX1Rack1QeVhDRm11elHSAXtBVV95cUxQY1pnMXRkcVpMSlpVNDBPeHlFU0k4LWNGdXZGd1phSFVqSW83ek91dkR6RENYUmhhaEltQ3hvdkN6b3J6anFVLUpyTDNEQjFOQUZ3NjlTMlJGTkdNS3Bnam9pbzZsa3p6cldBRnJrV2VYWWpZSTFGWi1HM1E?oc=5",
+        "title": "First look inside Flexdrive by Lyft’s newest Waymo hub in Nashville",
+        "source": "WKRN News 2"
+      }
+    ],
+    "body": "<p>On a stretch of industrial land outside Nashville, Lyft and Waymo have opened something that looks, from the road, like any other logistics depot — low-slung, fenced, unglamorous. Inside the 80,000-square-foot building, though, sit rows of Waymo's autonomous vehicles, tended by Flexdrive, Lyft's vehicle-operations subsidiary, which handles the unglamorous business of keeping a robotaxi fleet clean, charged, sensor-calibrated and ready to dispatch. The facility, detailed this week by Business Insider and Nashville's WKRN, is the clearest sign yet that the Lyft-Waymo partnership intends to operate in Tennessee, not just test there.</p>\n\n<p>It's worth pausing on what the building is not. It is not a data center, not a showroom, not a press-event backdrop. It's a garage — the kind of plain infrastructure that rarely makes headlines but without which no driverless fleet can actually run. Someone has to wash the cameras, patch the software, swap the tires, and stage the cars for the morning rush. That someone, in this arrangement, is Flexdrive, and the fact that it now has a dedicated home in Nashville suggests Waymo is treating the city as more than a pilot market.</p>\n\n<p>The move matters because robotaxi expansion has, until now, mostly been a story about a handful of coastal and Sun Belt cities — Phoenix, San Francisco, Los Angeles, Austin — where Waymo already has footholds. Nashville is a different kind of test: a mid-sized Southern city with its own traffic patterns, weather, and regulatory environment, far from Waymo's engineering home base. Building a brick-and-mortar hub there, rather than just trucking vehicles in for a few months, is a bet that the economics of driverless ride-hailing work outside the markets where the technology was born.</p>\n\n<p>For Lyft, the arrangement is also a strategic repositioning. The company that spent years competing with Uber on price and driver supply is now positioning Flexdrive as the unglamorous backbone for autonomous fleets it doesn't own — a logistics and maintenance business riding on the rails of someone else's robots. It's a hedge against a future in which human drivers are a shrinking share of the rides Lyft books, and a way to stay relevant if Waymo, not Lyft, becomes the face of the ride.</p>\n\n<p>The human stakes are straightforward, if easy to overlook amid the novelty of driverless cars: jobs in vehicle operations, fleet maintenance, and dispatch are being created in a place that didn't have them before, even as the driving jobs the industry once depended on are, by design, disappearing. Nashville commuters will soon see more Waymo vehicles on local streets, a slow normalization that cities like Phoenix went through years ago. Whether the hub becomes a template for dozens of similar facilities in other secondary cities — or a cautionary tale about overbuilding ahead of demand — will depend on how quickly, and how safely, those cars actually fill up with paying riders.</p>",
+    "slug": "lyft-and-waymo-open-driverless-hub-in-nashville-d4246a"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUp0WWNOaVVmS2d1bGs5M3JVTWdQeFVtanVFQW1xcWVkYTI0Vi1aRzZHNzRxcGlDSlY0TmtUeWNoUFZCR1k4Q2lxZjVpdUxsNFlHQkdYQ0NueV9rdnZxdkJNZDZRdzYzVkNKZy1vVEx6ZTRXR3cxWFlhMk95aFhRRkY5Y20wd1JNcmZoVjJ6MGZKcl93ZlpYQVNRZ0Z2NHVhTlZNYjJCSVUteENUbzBGQVZOVQ?oc=5",
+    "title": "Self-driving is key to Tesla's growth, says former president Jon McNeill",
+    "source": "CNBC",
+    "published": "Fri, 02 Oct 2026 15:19:55 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Jon McNeill, Tesla's former president, argues that autonomous driving is essential to the company's future expansion.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Jon McNeill"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxIUGliT0tPdU5KZzJoQm1JUDZXMVA0RGo5OHV5RV9pSm9lYzVyRUp0MV9WaFN4ZzJvdlRpMktmeHdOWDlYNG5xQk51cExkZTNtZFBKTG1yNG9nWG1aMzhCcEF2UEJXcjhIRHMtMXJCZ2lVbnVEaWRoM01BWjFtWmhCa1ZxRE5lX0hhSkJVSG5obVV1d05tamVnOFgtdzgt?oc=5",
+    "title": "Robotaxi operators will face fines for blocking first responders",
+    "source": "TechCrunch",
+    "published": "Fri, 02 Oct 2026 00:57:57 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "San Francisco will fine robotaxi operators who obstruct emergency vehicles, tightening regulatory scrutiny on autonomous fleets navigating city streets.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "robotaxi"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vWGZjdEdLZWFLYWk1Tk5qRXdLc285Ync2Mk9XSW1DWmt2TUFYdUoyc3FMRnlmOWpTVlJrWjF5MHEyTG03S2hudVJ2ZjljRl85S2I2OVBPMW5ONU5oMzkzNmdQVlo2dXNTX1Rack1QeVhDRm11elHSAXtBVV95cUxQY1pnMXRkcVpMSlpVNDBPeHlFU0k4LWNGdXZGd1phSFVqSW83ek91dkR6RENYUmhhaEltQ3hvdkN6b3J6anFVLUpyTDNEQjFOQUZ3NjlTMlJGTkdNS3Bnam9pbzZsa3p6cldBRnJrV2VYWWpZSTFGWi1HM1E?oc=5",
+    "title": "First look inside Flexdrive by Lyft’s newest Waymo hub in Nashville",
+    "source": "WKRN News 2",
+    "published": "Fri, 02 Oct 2026 15:13:50 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lyft and Waymo opened a new driverless vehicle hub in Nashville called Flexdrive, expanding their partnership's geographic footprint.",
+    "companies": [
+      "Lyft",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ridesharing"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS01IcUNfT1NiSHgySElLN2E1akJldlhHekxYT19Ib2hqcEtrRXZjSW9Hc0JYZDB1Zk01WHdhblprd0ppaU5DVDBuc3A5SGlabHYycEJQeTJsYXlReFEyd0NFZldDcjZ4RUh1YUZmZkd5bTlOUHEwYTBIdXdGdnNQX2NhdTZ5OTJSbWVjc2pwaEQ3MTQyT3NmbVFfdXkzMUtWZ2phcTRXclNnVlpyajl6R0o3M1NLZng5WWd0cm5FSnlQaFdqQ1ZUaVYwSEJndkhfNzRaUXFiZDRDSXNyT3dRMldyVkV6bzAtLTdDM0tMMVVtVlE?oc=5",
+    "title": "Minneapolis City Council approves Waymo regulation, mayor's office says he will veto it",
+    "source": "kare11.com",
+    "published": "Thu, 01 Oct 2026 18:04:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis City Council approved a regulation to restrict Waymo's autonomous vehicle operations in the city, prompting a veto threat from the mayor's office.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkNnOElING5sMG9sb0QwLTJVaVRTakFUbnVKMnY1bFBkOGRwNWZ3ZkpkR3VEQVJyOGdQTFZhdlo0NzhjQjdFRGkycGdxY0JMckozSlpFSWl1dVd0TWRuV0hKdVhhTFJlMDh5aWlVOEtpcWhudGhKN2dCUFExRURqTEp2Mk1SS0RMLXNGZlh3SXFfSi1uNG1QOVg3WEFKcDVxclhISEJleTJjRFNGUEF0NlprMFA?oc=5",
+    "title": "China Robotaxis Face Losses as Utilization Trails Waymo, BI Says",
+    "source": "bloomberg.com",
+    "published": "Fri, 02 Oct 2026 08:16:58 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Bloomberg reports Chinese robotaxi operators are burning through cash at higher rates than Waymo because their vehicles spend more time idle.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "utilization",
+      "losses"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnQ3ZFRNSlRRQkMydzVKbU9YNDJscTdfckRoR3A1M3NzbHZCakRsVnEyZ05sQVFuNUMzbHlDMkowYm14d0cyMl9nTmxRa2xjME1FWVowT0tydWJCUU1aRXF6UWJqZ0Viek1ZWk5DcXRYUTdLQzRtOUpkVXVQbEdGNVFWNk9QamR2dnhER2ZiX1VwRU1JeUxSMTEwRmt5Y1E?oc=5",
+    "title": "Ikea freight to be hauled by driverless Kodiak trucks",
+    "source": "Supply Chain Dive",
+    "published": "Fri, 02 Oct 2026 15:08:18 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Ikea has signed on to haul freight with Kodiak Robotics' autonomous trucks, marking a significant commercial deployment for the self-driving logistics startup.",
+    "companies": [
+      "Ikea",
+      "Kodiak Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "logistics",
+      "freight"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEFHZTBMbmUtOUJsUHRwbXhhRDR1di0zdFhKdXpvVUUxc2R2Y2lvQ05ZVlhXbEEtWmFQM0dKR19jUksycXc2QVZseW1WcDlHd091cW4wbm9zb1NWUkNjMnNwSl96ZVdrZ2F5WUxJRFpwOHhKUTZ5emxTZHFtcWVURGJlUzBqNjRaZUJObEFYMS1uQWFhMVNsUEVGNGlxRVdKaklIbkZB?oc=5",
+    "title": "Autonomous Self-Driving Trucks Have Begun Hitting California Highways",
+    "source": "Yahoo Autos",
+    "published": "Fri, 02 Oct 2026 16:43:24 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Autonomous trucks have begun operating on California highways, marking an early stage of commercial deployment in long-haul trucking.",
+    "companies": [
+      "unnamed autonomous trucking company"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "highway deployment"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2hRYjVyckNOVmtiYms3aVFDcTgxbzlYelQ3WmpranB4eHBHRXRpZFBBVGhzMFNWcEtoVnRlWEhwTFJOYW5WNFhrS3NYeEhtN2J0LWVOOFhzX0xKWEJJVXBHTEJ2R3J1em44cHVfdFZ6TTFqbGZBT01zQzB4UzlYRXFUSnBCbWF6MnNfMFNCX0k3cHRqMzdjNjM4cFBoeHhPa0VidVZWQ0UzeDZvd1BzaFR0U1VTdw?oc=5",
+    "title": "Driverless trucking in 'first innings,' but fears rise of a blowout game",
+    "source": "overdriveonline.com",
+    "published": "Fri, 02 Oct 2026 15:51:29 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The trucking industry grapples with anxiety about autonomous vehicle deployment even as driverless technology remains in early stages.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "trucking",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZW1MY1V3RW94N1E4VEZlZ1huMkRpOVEycWs2Vmw0bEVhUmJnUHNRek5kV3hhRDV2bWZnN01KMWN6UXZuN1RZMFNveVBNSmVEYjlyaGd4VE0tenAydlVwZUpqcncteHBZSlYtMU9lYXZFdUp1dkRXcUdMbU5oclUtUFZ3MHZpMHlHa1JweVgtUE1kZ3IyUXNUOWZyZWh5ZjJDM1E?oc=5",
+    "title": "California Law Holds Robotaxi Firms Liable for Blocking Emergency Crews",
+    "source": "gadgetreview.com",
+    "published": "Fri, 02 Oct 2026 18:02:13 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California law now holds robotaxi companies liable for blocking emergency vehicles, a regulatory step that could reshape how autonomous fleets operate in congested urban areas.",
+    "companies": [
+      "robotaxi firms"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "robotaxi",
+      "liability",
+      "emergency response"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU9wNDlPWjAyY3NDSTJqU2VBdGliMGdkbXhuY21HNVRkSWY1aHVpUldKTFpacTl3YjhGV0hfV2x5ZXdZTWRIZHVURlU2dFlzMXpHa3I3VEZCYllfaURETndEdjREM1BweERnWjBkdmxuWkZkalZITldqNXRISW1FV3ZBd1pIbm9kZXBGU3M1R0Q1UURUamVPNXVScy0tRWoyMXJKc0tIOTkyR3c1NGhoSGJHN1BIZw?oc=5",
+    "title": "Waymo endangering cats? Minneapolis lawmaker points to felines ‘being murdered’",
+    "source": "Star Tribune",
+    "published": "Fri, 02 Oct 2026 18:47:28 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Minneapolis lawmaker claims Waymo's driverless vehicles are killing neighborhood cats, though the company disputes the characterization.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "public concern"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15b09Wb21ReFhiNHpXdE9OVXBnUE93Q2NtUlJjUG1zMlNGZkZqODhZQTZJQ0licDA0a2ZNYmxUaDdVc25tM1dROUJlSkpRUWdES1Uzd3FiNjI4NEZQVFVsYjRzdHNNSkhMWDhCZm81RFd6TVot?oc=5",
+    "title": "Wildfire drones get sharper 3D vision for dangerous missions",
+    "source": "DroneDJ",
+    "published": "Fri, 02 Oct 2026 17:37:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Wildfire drones are gaining improved 3D vision capabilities to better navigate dangerous fire environments, though the article lacks details on specific companies, product launches, or deployment results.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "wildfire",
+      "3D vision",
+      "drone",
+      "disaster response"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnU0RGtHX0dZS3prRjZ0NUF6X2VURXlxSUhmd2hRWWVZMWVLT0lQRGlXU0oxMVhUUEFPMmhPZGRkVzRBOENFQ3ozd2dyN1g0ZkhKY0hNNFk5ZVVkNm1FbzBpbTVzM1ZwbWxhTkR4bllEV0xyMngyOFVuN1FMam1ndzhIdWRGb19iVzRaVEdPZ1d5RTVDa0x1dEl2VkotU3Fya0JtOQ?oc=5",
+    "title": "Dryad Networks Wins XPRIZE Wildfire Award for Drones, Sensor Networks",
+    "source": "Dronelife",
+    "published": "Fri, 02 Oct 2026 14:28:49 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Dryad Networks won the XPRIZE Wildfire Award for developing drone and sensor networks to detect forest fires.",
+    "companies": [
+      "Dryad Networks"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "wildfire detection",
+      "sensor networks",
+      "XPRIZE"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0M1VnV6ZGlQWUxiT21EVFlQRzFWV2YxRWN4enVyaUN0bDJkak52SFpiUXBmUHpYeF9pc2U2NEZQaWcya3ZGTjhhTGdrU2t2MmJXSjJJWjFibmlDd0p5dnhuSk5sR2duRUk3clp5SUhhVUl3aklWRGt0eHJxOE9IOTJvVURZWGJBRWlRYU1JZjlNT1N1eEFpcU93MTBEaUJ4MTZRN0pFSFhFVVVuSmhjZ2dvRmlJblc1UjZPVTVGWlVrMzZfdzR1bw?oc=5",
+    "title": "New Autonomous Interceptors & Airborne Motherships to Counter Mass Drone Attacks",
+    "source": "Unmanned Systems Technology",
+    "published": "Fri, 02 Oct 2026 06:49:15 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Unmanned Systems Technology publishes a conceptual overview of interceptor drones and airborne command platforms as potential defenses against coordinated drone swarms.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "defense",
+      "swarm"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ05XZ3ZUUmk1YXg1aUpBZmphSE0xaUoyMWxQUXhoRGluemxYbi12OVE5VHUxbmREY2JsNmVaV2stcjJjSXZjZVJRWTJRTERobjVLV1Y5VnVmT1hhVDZqX0d2Nm90VEdKQ0NjRFJKS0VLQXExcklTbi1sRDRhYlZiUlV1V3ZkVWw3YmtJ?oc=5",
+    "title": "Hegseth Orders Four-Star Drone Command, Congress Has To Build It",
+    "source": "DroneXL",
+    "published": "Fri, 02 Oct 2026 00:51:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Defense Secretary Pete Hegseth has ordered the establishment of a new four-star unified command for drone operations, a move requiring congressional authorization and appropriation.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "military drones",
+      "defense policy",
+      "command structure"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTJVWnNtZ3QteUIwRVlEUERxUkZzMW90ZlY3d2JJbnZhMDNHaXNTOWxNSUowSzJzclIxZjUtZm8wY1NnMU93YXlTZ0cxR0RqbjR6eDlkWjBjQUIyRFd4VkpwcTFlR1V3UVBPMVdSSk54NnVIUDZhRk5nb2pfSGdJVkpB?oc=5",
+    "title": "Beyond the Drone: How XAG Is Betting on Autonomous Farming",
+    "source": "TechNode",
+    "published": "Fri, 02 Oct 2026 03:05:54 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "XAG's strategic pivot toward autonomous farming systems extends beyond its core drone business into broader agricultural automation.",
+    "companies": [
+      "XAG"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous farming",
+      "agricultural technology"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzAwR2tVcjdaanN5cHk4N0NDaGM4RmpvWVQxUTRTbEk4Q09hdGN3aDY4dXFoNnNyZjFranNWRFdzNDI5MjV0Sl8wOTM2RzVVdWYxWk1UdnBpd1JVeWxzaXgwY1NQdXB6TjQ3RWdKd2xDay1jemZzV3lUckFqU0lLVTlPeUgtT2MxNjdKZW9NVzZuRTNHODN4WmlMRVFkOFhTUXhqUHhUTVY2Vzg2MUJYU2F0SHN4NTZGS1hj?oc=5",
+    "title": "US defense chief announces new command as Pentagon accelerates drone strategy",
+    "source": "Anadolu Ajansı",
+    "published": "Wed, 30 Sep 2026 20:17:01 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The Pentagon is establishing a new command structure to oversee its accelerating drone operations, U.S. defense leadership announced.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "defense",
+      "drones",
+      "military",
+      "command structure"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmx4VENOUkF6SWZlLU5jLUJTOHFkWlg0ZXE0WDNBQzdVU09NdlhHSE5iMnJBRFFsb0R1MHVkd3oyS3o2S2JINUdab1BEczNLUEI2b1hlMXlXZ1pRZkdmN3dHMXZaeEp4blhBTmFSa1MybkxkLUQyVmJicnZrUWo4ZzAxQ29jRDZnWGZBbXdCUkhxRFI3b0d3VG4wV3VrV0Rf?oc=5",
+    "title": "DoorDash launches autonomous aircraft for drone deliveries",
+    "source": "Verdict Food Service",
+    "published": "Thu, 01 Oct 2026 13:11:21 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "DoorDash has launched an autonomous aircraft for drone deliveries, expanding its logistics operations beyond ground-based couriers.",
+    "companies": [
+      "DoorDash"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaZDVWbFZHdC02S1hVam15NFRWQnduQXZuME1wU21hcnZqTUpVbmtjZmNOdVlhUVUwaEY5WmV3dk5RTXg5UmUwaDIya2ZxTDNPQmJIWkppNnV5SENWQUNJTFBVWEw2a2It?oc=5",
+    "title": "Pretraining on 50,000 Hours of Unlabeled Brain Data",
+    "source": "neuralink.com",
+    "published": "Thu, 01 Oct 2026 21:17:13 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink reports a machine-learning breakthrough using 50,000 hours of unlabeled brain recordings to improve neural decoding, a step toward more reliable brain-computer interfaces.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural decoding",
+      "machine learning",
+      "pretraining"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFk2ZVc4REpBZmJFTzhYdVduUnh1aU5NR1BWYUxkRlphOG9ONzFTQm95cG94M2l6akI1Vi1UeU5ocmEtZFlfc1Vsa09Da2g1cDh2T1hKTGo2MFFlT2pxNmh6RDhISUI2SVc5TEsxb0s5bFFSb1lOUWNhNl9NTzhxcmtCZ0hGU2NMVE94ZGx0N2I?oc=5",
+    "title": "Neuralink exec Shivon Zilis posts that her relationship with Elon Musk ended 'with no warning'",
+    "source": "Business Insider",
+    "published": "Fri, 02 Oct 2026 16:28:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Neuralink executive Shivon Zilis disclosed on social media that her relationship with Elon Musk ended abruptly, marking a notable personnel development at the brain-computer interface company.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Shivon Zilis",
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "personnel"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnRwQld2ZjAwaFcxS2FReF9GbFU2T01HRF9XNkUwNkJqYWdIZzRuc2VqNHBvN0pURm52SXdXWDlkY1ZvVy1SQ3BFQkl2Q3JnUTk3OWFHS21DRW9pUXdET1dYVHZranN5UE5DbGIxT0ZUWFlvZnRMd1M1Vnh6WTZEd2dZM0lNM05QMzY2bVNEUVgzZ0RxX2FNUUx6WkZEU2NPOU1hYWtB0gGiAUFVX3lxTE1ZeHNjMm9zSE1Sb2Q1empnSVlHbllkTHV1RjBlZFI2R0xoWVI3alM3TXU5d1hrMTF5bFRCMWNGT0p3RHB1VHBBSWFFU0RPVTlLa0xzSVgzY2hFeFdNOTY4VlI0Q3ZPMjI4TTlCWl9QZEd2Ml9BbVpqV3ZsU21LYlpKSzBfMDlYQXU5eDlIRnQ2X2tRSnBDdlo4TmdXTXMteS1kQQ?oc=5",
+    "title": "Neuralink brain implant trials reach 50,000 hours: What to know",
+    "source": "The News International",
+    "published": "Fri, 02 Oct 2026 18:38:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink's brain implant trials have accumulated 50,000 hours of data, marking a significant milestone in the company's effort to demonstrate safety and efficacy in human subjects.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "implant",
+      "clinical trial",
+      "neurological",
+      "human testing"
+    ],
+    "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
