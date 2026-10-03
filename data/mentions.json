@@ -68383,7 +68383,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68513,7 +68513,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68540,7 +68540,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68567,7 +68567,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68617,7 +68617,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68745,7 +68745,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -68823,7 +68823,7 @@
     "first_seen": "2026-09-26T18:15:42",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69059,7 +69059,7 @@
     "first_seen": "2026-09-27T18:52:06",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69712,7 +69712,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69738,7 +69738,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69790,7 +69790,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69898,7 +69898,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70806,7 +70806,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71327,7 +71327,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71455,7 +71455,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71906,7 +71906,7 @@
     "first_seen": "2026-09-30T19:46:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72382,7 +72382,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72437,7 +72437,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72776,7 +72776,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -72966,7 +72966,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -73754,7 +73754,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74036,7 +74036,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -74482,6 +74482,657 @@
       "human testing"
     ],
     "first_seen": "2026-10-02T19:43:25",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXlGMnljTUZmejhBM3N2VjR4dEVsdy1laXlrUlFLTmptOFhtRnFSZ2ZISnJKbUF6MV92UTdjb1RpMXN2LWJLVlJqQkFUZzBhajhadGY0SW1CTHdzWk92UUJKdW16RG40NkFRaUFsZGVaZ3pVWmpkeW1WWVJYaWhQRzhmbW1xNnlydTI5ajJTa0NHU2Y0UFJNa09R0gGuAUFVX3lxTE11cXh4bW1SVldGakNPZ1llOVRRV254TUw0Q050cUs0NHZvTENnUExjMzhUSFU4M001aHhYNG9uUFF0dEg1dlg4X0xmU0xVdUM2UVptZEoxdE50NzhXS2s2ZEQ4OERTN29GQ1NOTS1nd3dsQ2JkX254cndaNThYbG5lM3ZYREJqWUUyekptZE11YU9saVZ1MnVCYXhmeDFPWnE0eFhKV1p3d0hNNUUyUQ?oc=5",
+    "title": "Meet the humanoid robot UNC Wilmington students are bringing to life",
+    "source": "WECT | TV6",
+    "published": "Fri, 02 Oct 2026 22:51:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "UNC Wilmington students are building a humanoid robot as a class project, though the story offers no details about the robot's design, capabilities, or timeline.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics education"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaG9xUzNkYV9PM1FJSWt4TGNBZTZsamQteDFXa1NPS1FvMHIxcVRGWUlHSzBKN2diS3cwMTl5YXp6QTR3ZkpkOWpzbmtYYnRkdGx5Y1VkTW5MQUQwMmx6anVNanYzVG9hcUxMZzZFRGw1c0dlaW1uQVM4RzI1dVR4TUY3Rk1rakhIYzA0dE02MFRMTmpubGtnOFYwSjBaRUstblFnMnlfZVluMUt2a3Y1eGpGeUppM0tXZ2NBWFFHTWE4RzZMVHZwaUxxWEtSNHZmTnBnMXpNZldHd0pn?oc=5",
+    "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+    "source": "StreetInsider",
+    "published": "Sat, 03 Oct 2026 16:55:14 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "RoboParty has unveiled the RP1, an open-source humanoid robot designed as a full-stack system, at the International Conference on Intelligent Robots and Systems.",
+    "companies": [
+      "RoboParty"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "open-source",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXk1SzdnODFGQWlJV05JTTFJVW1ZMzZGdE5DaU1waVI0WDA5dzljUktVd0xBVHU1eWx1empmaW1Hcm1jdGo5ZWtoMlJ4WV9mQ0hJc2l4bmNaTXNXZF96Tmk2YXB1VWVYRVhacjF1bTU3UW1xVzVrNzdvWGtiQ2Y0VjE5T0pnZVRQSWJXUmFIWU5nT2VGT2c?oc=5",
+    "title": "UNCW welcomes humanoid robot to expand hands-on robotics education",
+    "source": "wwaytv3.com",
+    "published": "Fri, 02 Oct 2026 23:17:12 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "University of North Carolina Wilmington deployed a humanoid robot in its classroom to teach students hands-on robotics.",
+    "companies": [
+      "UNCW"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "education",
+      "robotics"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXIxdTJOQUV0VHNjdGdWeFBuZEU1VnlfR3h0UEo1Z2dHUmlWR2lBbVhIQVBkR2Z0WWU2SEU4RnFyM0RBd0xwQXdfOWhYOHJ5b0hwek9Hek0xVnVnQlh5N25yMHgtcjhYVHdraFo1bVAzTFpWeUN4MENpY2IzMXdyN0hLOVNaNWJqMUo4ZEdyWmdEVVYxTk40aGFXcW11d3ZRcnVvSV9LdXRuc3RWWWI2Z1BGdV9DMms3OWtlTWM2TVBZM09o?oc=5",
+    "title": "Humanoid Robots Are Leaving Safety Cages. Proving Actual Safety Is Harder",
+    "source": "Forbes",
+    "published": "Fri, 02 Oct 2026 21:35:16 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Forbes examines the gap between humanoid robots escaping laboratory constraints and the complex engineering required to deploy them safely in real-world settings.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "safety",
+      "deployment"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcV8yNmFTNFNiV1V2S0RxUDJnZ2JENVh2QVRVUlBXSjBjQlJyRUdvOWxMRDBLUFRQbUo4Z3NQeDVBVVZRUV81b1Q1MTVMLS1Wc0swam9SUlU5c3lwc2tmMm5VQ1NucHNMWXN5VDczVFY2T2VDQmM2bG5RWnJBSTJ1VWhJVk1TXzBHSlZ1RGw5NGRnNWQzWWFWb2haMl9GRUx2WEE?oc=5",
+    "title": "Meet the humanoid robot UNC Wilmington students are bringing to life",
+    "source": "WECT | TV6",
+    "published": "Fri, 02 Oct 2026 23:13:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "UNC Wilmington students are building a humanoid robot that demonstrates the university's push into physical AI research and education.",
+    "companies": [
+      "UNC Wilmington"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "education"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTE5PVTQ5ZmNRcml3R09JdG44eFNneklCRUotVEVrQ3pkLTZReTk5SE5rTDY0WnRxZWd4c3JZbi00VmFOeHBkQmZxTUNIZW1MR3hmbDJJZEJ2RHBUdEptbWhEbXpWdkhnWHBLUVExbndwTE1hNGhvOW5JVWNocE0ydWEzZGhGUUxIUHVjZ3NvRU01cmU5T0x3YUNFR2gwMHc0VmMxR3JfM3FUaEpFWFR3Q3Q2MEVIbDJIb1Y5YzVMQXhGTkRScnhzQ1pOWUk1LURoeGlPeGVKd3lLQ3RwdlV5Mw?oc=5",
+    "title": "Mark Cuban Doubles Down On Criticism Of Humanoid Robots, Says Personal Robots Will Be ‘Optimized’",
+    "source": "Forbes",
+    "published": "Tue, 29 Sep 2026 15:16:28 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Mark Cuban argues that the humanoid-robot industry oversells its current capabilities and will eventually settle on task-specific designs rather than general-purpose machines.",
+    "companies": [],
+    "people": [
+      "Mark Cuban"
+    ],
+    "themes": [
+      "humanoid robots",
+      "physical AI",
+      "skepticism"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3cXAwVFFWZ0RRZFY1VkRKVnNYVWxuRDFxUGdzamxobGE4cERfSFZUdm1xa3JnUVFMdHRMN2hlNlBaaHNyN3NVbHFLb1h3dzg4UEQxY1BVZTBWNEJqRnlRWUJqa2h0el9QMTVtY0RWSmV3bmx0SHNR?oc=5",
+    "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
+    "source": "Electrek",
+    "published": "Sat, 03 Oct 2026 14:36:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk argues that Tesla's Robotaxi avoids nighttime operation because the company has rejected lidar, a sensor it views as unnecessary.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomy",
+      "sensor technology"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTViUUMyLVdIY0N5WmxBME5IektGRjZSSXFuQV9nMU14VzFxQXlvOTdVNFVkVF9wUExGcmZYU3ZzUGc3ZEZ2ZDNUcVJHcFA4d1hDaUE3REtHcGhxSTYzM2NDQktKdExHbDVPZjgtaU51NWhLX0ZpRWRlYmVMNGNWNlVnRzV4SXBrcE1Xdi1vZkdqMHJCeVdSUXBzY3Y5LTJPWFE?oc=5",
+    "title": "California Will Fine Robotaxi Companies If Their Vehicles Block First Responders",
+    "source": "Engadget",
+    "published": "Sat, 03 Oct 2026 13:19:19 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California enacted fines for robotaxi companies whose vehicles obstruct emergency responders, tightening oversight of autonomous fleets in the state.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "robotaxi",
+      "autonomous vehicles",
+      "emergency response"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW5SZVpXcElZSHJETjBzQmpONUhiTDZzNEZMWS1yR2dYdVJkRjc1TjJiRU1xWFZaR3FyWEVUcmFxbHdHZlNadFU4SUl1ZDZVVjk3VFFXbjlkS1lnbUtUeEdNTnFLM0lnTFN0eGxXLWQ3QXFUQUZlWTZqaUhEUUtyQXNQa1Jib3hCWGY2Ny1yRkxFVW5Yd3NWMVRKcHU2WGJ4YzlJcG5BRWRKQQ?oc=5",
+    "title": "Musk Says Avoiding Pets at Night Is Main Limit on Tesla Robotaxi Hours",
+    "source": "eletric-vehicles.com",
+    "published": "Sat, 03 Oct 2026 15:34:11 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk claims Tesla's robotaxi service is constrained mainly by difficulty detecting pets during nighttime operations, a statement that blurs technical limitation with public relations positioning.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "perception"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFdhY0x0dERKckpzX0wwMUhlazRHTHR5Q08yWnVqdkhnOG1qMW9xa0FYcVlPS1pQd1k3TjBJUGxETVMxd3R3T0tjQ05SeFRaTk50Zk1GZ1VnZFBLVGFIZU5TcFExb1BQZ1Z5ckFwWkwyb0gwRjBaR0ZrLUFhTlZwSGlPZG5LUUVWU1hBX1VxTWw1dkJGc3BpWmpkbFBiNzF4NF93X0N2d9IBrAFBVV95cUxQcElIeGxQcVhRVU5sT1MwYUJBdE5SQVNYUVUyUlJIWUtfdzN3dElXd19mTUFjanA2RWtLTWwzdkI2Z3I4OEdFZnVOcG1pak9QTFloRFZYQW9FSkJMRFpacm9RRXJyOGVlaFFvbmdWeWpLbmU3VEVxQ21OOVRaMXl5a3BmTGpQSmVRWklYNzVEbEJHYjd1c0ZwWTl0azdSVy1wR3kxRUsyT3ozWEJH?oc=5",
+    "title": "Kodiak ready to 'pull the driver' and launch unsupervised driverless trucks by end of year",
+    "source": "Fox Business",
+    "published": "Sat, 03 Oct 2026 11:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Kodiak Robotics plans to deploy unsupervised autonomous trucks by year-end, marking a transition from its current safety-driver model.",
+    "companies": [
+      "Kodiak Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "unsupervised operation"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlZ2T2VjUlZhWHczM0xJQlNxS0VBMzdSdm5WQW4xTlBGUC1PWWRuQ00yczZYOXRna3IwTFhxOHFyRjdYQ1lZOUI1SVZFb000ZlV6WFNaY1N6ZnBJRjU0ZW9kVkg2QkdzMnlyUGJZcWlSTmUzbFNSbUN0QmRGVkdyZDhrNmtfSEdNNHdIaWt0TmJlOEtwMUgyMUx4S2dJSWlWNlE3WFUyajg?oc=5",
+    "title": "Hundreds of self-driving cars coming to Nashville with new Waymo, Lyft facility",
+    "source": "wsmv.com",
+    "published": "Fri, 02 Oct 2026 20:47:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo and Lyft are opening a Nashville operations hub that will deploy hundreds of autonomous vehicles to the city's rideshare network.",
+    "companies": [
+      "Waymo",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "rideshare",
+      "autonomous vehicles",
+      "deployment"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2wwclJ0TFdDY0k0OWVNdlYyYjZHWlhfWVdNNHFBVjE3a2dqeXdOVUo0T29GcUVTV3ZkaklxcHZ5eHotNjRYbkU4Rk1FSDhqbHBGT0tfUnF3b0dsRmNFeUx0dVV4Sm9XaUhfR3FhUUxCZnY5NFkyWDdUaEttSTA4TzhWWGczeVd2SDQ4ZVlURXVxQkUxNmtTWUUyb0pTZ3F5RU1SVndwN3NFUlhuSXVyUm1RSm93VG5kRVBicQ?oc=5",
+    "title": "Minneapolis mayor vetoes ordinance that would require 'human safety monitor' in driverless vehicles",
+    "source": "Alpha News MN",
+    "published": "Sat, 03 Oct 2026 12:00:23 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis Mayor Jacob Frey vetoed an ordinance requiring human safety monitors in autonomous vehicles, rejecting a local safeguard opposed by the robotaxi industry.",
+    "companies": [],
+    "people": [
+      "Jacob Frey"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0UxRVlhSzlvTjV1MGExRVJ5U1FDRFdsZm4yUlJPeUt1eUhfZmVFTnFlRi0tYlhaTzhCbUxEVld2TTJjang1b1JTSWdQVktWaE12ZUhnQUJvSzFKU1VzS0JmREUzTDBFaGVacV9CZ3NrUEhfNHIxbTNkamNVVkhwSGZET1lfejdLTzZFZUE4MTg0ZGI3MVZVcDlLWjFtSkk5U2ZRZnlDYzhpR1cwd0tVUA?oc=5",
+    "title": "Tesla Cybercab Operates in Heavy Rain — What It Means for the Robotaxi Rollout",
+    "source": "BASENOR",
+    "published": "Sat, 03 Oct 2026 08:08:59 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla's Cybercab demonstration in rain conditions prompts speculation about autonomous vehicle readiness, though no concrete deployment or performance data is disclosed.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "weather resilience"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GT29JMVFXT3BuTEFtQThENmZSMGY2b2VEWmhBa2FERWtGS0Zrb0YxSExXN3ZWbHRlblBudTA0V0dQZy1tbDVDZ0MwQzM0U0hyRlBmdUc1RS0tOUlXdjl4RWhKWQ?oc=5",
+    "title": "Watch out Waymo, Zoox is coming (sometime)",
+    "source": "Denverite",
+    "published": "Fri, 02 Oct 2026 20:16:04 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Denverite publishes a speculative opinion piece positioning Amazon-owned Zoox as a future rival to Waymo in autonomous vehicles.",
+    "companies": [
+      "Waymo",
+      "Zoox",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "competition"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWY2WG5uVHNUbTI1YTB4NXBpbFYtRHA5QnpFbVZuVVJmS1JaMXBqbW40NlhPNzNsVWh2YmhTWFAtXzlRZFdiSkZaSm9kTGtlcC1LMHNVYXNvMkhaZENKX2VfUUE5emlXZDVRQ2tIWDFHQ01hbFNxS3RKUXhKaEQ1bWUxY2UzQjF5VzZJdXhDWG1QVFpLVllsRU8wb1B5WXlKaU1pd0xGa9IBrAFBVV95cUxPQ1B0Znp0dUZkMjZqLXdyQjRjMnJDOHFXQ3lXV1BmNEhIRHdXbWlFX2ZKM0w3ZGJKVzZyTDBhSHU3X1hkYzhRVm5EeXV2aWlzdEw4YnBTUERVLVFhbGJNVGlXSVl3alV2NGRwTVdrR0p5ZnktcXp6cW1FdFhZa3NPTU5pX3JxM3ZodUJDNENWZE5Zbjd4N3pOWC1MRVl2TzQzb1FQMFBIdGF1RjlF?oc=5",
+    "title": "Tesla's Robotaxi Rollout Hits Turbulence — Rain, Pets, and a Rocky Austin Debut",
+    "source": "CNBC",
+    "published": "Sat, 03 Oct 2026 11:00:01 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's Cybercab service stumbled through its first month in Austin, raising questions about whether the company can expand beyond its lone market. Elon Musk attributed operating-hour limits to the challenge of detecting pets at night, while a separate rain-soaked demo did little to settle doubts about the system's real-world readiness. Together the episodes suggest a robotaxi program still working out basic kinks even as Tesla talks up scaling.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "perception",
+      "weather resilience"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWY2WG5uVHNUbTI1YTB4NXBpbFYtRHA5QnpFbVZuVVJmS1JaMXBqbW40NlhPNzNsVWh2YmhTWFAtXzlRZFdiSkZaSm9kTGtlcC1LMHNVYXNvMkhaZENKX2VfUUE5emlXZDVRQ2tIWDFHQ01hbFNxS3RKUXhKaEQ1bWUxY2UzQjF5VzZJdXhDWG1QVFpLVllsRU8wb1B5WXlKaU1pd0xGa9IBrAFBVV95cUxPQ1B0Znp0dUZkMjZqLXdyQjRjMnJDOHFXQ3lXV1BmNEhIRHdXbWlFX2ZKM0w3ZGJKVzZyTDBhSHU3X1hkYzhRVm5EeXV2aWlzdEw4YnBTUERVLVFhbGJNVGlXSVl3alV2NGRwTVdrR0p5ZnktcXp6cW1FdFhZa3NPTU5pX3JxM3ZodUJDNENWZE5Zbjd4N3pOWC1MRVl2TzQzb1FQMFBIdGF1RjlF?oc=5",
+        "title": "Tesla's Robotaxi Rollout Hits Turbulence — Rain, Pets, and a Rocky Austin Debut",
+        "source": "CNBC"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW5SZVpXcElZSHJETjBzQmpONUhiTDZzNEZMWS1yR2dYdVJkRjc1TjJiRU1xWFZaR3FyWEVUcmFxbHdHZlNadFU4SUl1ZDZVVjk3VFFXbjlkS1lnbUtUeEdNTnFLM0lnTFN0eGxXLWQ3QXFUQUZlWTZqaUhEUUtyQXNQa1Jib3hCWGY2Ny1yRkxFVW5Yd3NWMVRKcHU2WGJ4YzlJcG5BRWRKQQ?oc=5",
+        "title": "Musk Says Avoiding Pets at Night Is Main Limit on Tesla Robotaxi Hours",
+        "source": "eletric-vehicles.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0UxRVlhSzlvTjV1MGExRVJ5U1FDRFdsZm4yUlJPeUt1eUhfZmVFTnFlRi0tYlhaTzhCbUxEVld2TTJjang1b1JTSWdQVktWaE12ZUhnQUJvSzFKU1VzS0JmREUzTDBFaGVacV9CZ3NrUEhfNHIxbTNkamNVVkhwSGZET1lfejdLTzZFZUE4MTg0ZGI3MVZVcDlLWjFtSkk5U2ZRZnlDYzhpR1cwd0tVUA?oc=5",
+        "title": "Tesla Cybercab Operates in Heavy Rain — What It Means for the Robotaxi Rollout",
+        "source": "BASENOR"
+      }
+    ],
+    "body": "<p>One month into its robotaxi experiment, Tesla's Cybercab service in Austin is behaving less like a glimpse of the driverless future and more like a beta test that escaped the lab. The company has kept the fleet confined to a limited stretch of the Texas capital since launch, running on restricted hours and under the kind of operational caution that sits awkwardly with Elon Musk's long-running promise of a service ready to blanket American cities. Asked recently why the robotaxis aren't running around the clock, Musk offered an explanation that managed to be both specific and strange: the cars, he said, struggle to reliably detect pets at night, and until that's solved, operating hours stay limited.</p>\n\n<p>That admission arrived alongside a separate moment of theater — a Cybercab demonstration conducted in heavy rain, intended, it seems, to project confidence that the system can handle weather that grounds lesser automation. But the demo disclosed no actual performance data, no metrics on braking distance or sensor confidence in a downpour, just footage of a car moving through rain and a public invited to infer competence from the fact that it didn't crash. It settled nothing, which is itself a kind of answer.</p>\n\n<p>Taken together, the pet-detection comment and the rain footage tell a story Tesla would rather not be telling right now: that a program billed for years as the company's next great leap is still negotiating the unglamorous basics — nocturnal dogs, wet asphalt, the hours a city is willing to let it drive. Musk's framing, that avoiding pets is the \"main\" constraint, does useful rhetorical work, since it locates the limitation in something almost charming rather than in the harder, less flattering question of whether the perception stack can be trusted broadly, in all conditions, without a human monitor.</p>\n\n<p>Why this matters extends well past Austin. Tesla has positioned robotaxis as the linchpin of its valuation story, the thing that transforms a car company into something closer to a software empire collecting fares instead of selling vehicles. Investors, regulators, and rival developers like Waymo are all watching the same question: can Tesla's approach, which leans on cameras rather than the lidar-and-radar suites favored by competitors, actually generalize to the messiness of real streets — rain, darkness, an escaped terrier — without years of incremental, market-by-market validation?</p>\n\n<p>For ordinary commuters, the stakes are less abstract. A robotaxi fleet that can't commit to full-night service or can't speak plainly about how it performs in a storm is not yet a service people can build a life around — no late shifts, no confidence during a seasonal downpour. Scaling beyond one city requires exactly the kind of boring, verifiable reliability that a quip about pets doesn't provide. Tesla talks about expansion in the language of inevitability. Austin, so far, is answering in the language of caveats.</p>",
+    "slug": "tesla-s-robotaxi-rollout-hits-turbulence-rain-pets-and-a-roc-20e7cc"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1NqVXVOT3c0M2VjUGY2bUttXzZpT2lrVUM4VXJuMWZqUDctc21icU1DVnd6YkliR19HcWVaM2JKNTV3WVVIUWI0RUJFdmhYbE41akJVbGZYa0tYUk5NbnNJaWRmZ1JBbVo5aC1Wc3c1R1F0T3lnZ3NOTHVnRmo4NndCWUlaTEkxSnlVS3dZMWJ4eUliTzFBOW12MTJ4UdIBowFBVV95cUxNejZycUNnWXFWQVN1U2dxRjkwV2tCZVBGVEZlZl8zYm1YOFc3U2ZZQ2RnM3YzSjFWTVNob0psdlhQUXlYa3FxN1lJU0o3dFFoUzRfODRIbHRrWVBxeThWX0phSi0yWnQyZjBIRHJlbnozbXNaWlVJLV9PSWxxMnREM09scFl3aUNhVTlKWG9zT0xjckZoLUpHVFFnTnRLQzhlcVdR?oc=5",
+    "title": "Mayor Frey vetoes Minneapolis City Council Waymo regulation",
+    "source": "FOX 9 Minneapolis-St. Paul",
+    "published": "Fri, 02 Oct 2026 21:30:36 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis Mayor Jacob Frey vetoed a City Council measure regulating Waymo's autonomous vehicle operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Jacob Frey"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFowNmhCbjY0d0prVHVhM0U0RExXUDE3V0Q3UFZDcVp4VktBV3pqNTl3c0dramhoMDdSUktrTmVVRWpNTGg4LXNuVW5NZmN4bTRiZlNGVlhIbUhmN3RzNkp1M0FQQktGTm9uX2p2dl9May1ZTFRydnVlOHhXM3o5NTBsV01iZ1ExNTNONGl0dERqWkxDVzNR?oc=5",
+    "title": "Tesla Robotaxi fleets are the new crypto treasury for zombie companies",
+    "source": "Electrek",
+    "published": "Wed, 30 Sep 2026 14:02:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Electrek columnist argues that struggling companies are now using Tesla Robotaxi investments as financial hedges the way they once held cryptocurrency.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2NDdDZoRWEwbTE5OEZjQVM5WC1wTC1Bb19adkpFQU5ab1l2dDY5SlNmdnpibm9sU2hTS2FiTG5NWUJqZDQ0Nmg0OFBtNkxvRF92TWJncVlzeDNheDBqVUNQbExQb3paNXAycVc0aklaNkVjcFAwNUw0OGljcE1rVWg1YktHTUNtSG5ZTzgwZGYybVIxY0g4d3FMNUVwc1FzX2htQTFRRGxSZw?oc=5",
+    "title": "Minneapolis Mayor Jacob Frey vetoes driverless rideshare ordinance",
+    "source": "CBS News",
+    "published": "Fri, 02 Oct 2026 21:28:53 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Minneapolis Mayor Jacob Frey vetoed an ordinance that would have restricted driverless rideshare operations in the city.",
+    "companies": [],
+    "people": [
+      "Jacob Frey"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "rideshare"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblpMZUNYcmctTEJOOUVKT21YdEFDZ2FnNDdqX1FHOVpFY283ODV1ZlNaLTBqRkMybDhfNjJ3UVlFVlpSa1pkYlpQdkNIdUQxSGdUZGo4ZG00SVZnRF9kMGRmUmVJLWpNRXpaTm9WR3BCZTBjYndOQ2g3QVpsaHRfenVyVUhhSVlFOEZqSEF3?oc=5",
+    "title": "California announces AV regulation, fines for robotaxis that impede emergency responders",
+    "source": "Mashable",
+    "published": "Sat, 03 Oct 2026 15:54:47 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California regulators proposed fines for robotaxis that obstruct emergency vehicles, the first state-level penalty targeting autonomous-vehicle behavior during crises.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOejRsSXBRSER5aXZpWjZtdTI4X3A3ckRMX09SbzRuQ0VNSUtyd0lsM3A1OGRuZnJnMmRaUllUaVF0RUppSk5YZV9vUFY5eHZPYVV5S2VHdHFNLU94ODdub1VpcHFmb3FZSno5dmJLTmE4emtkM01ZTFR0bHpmSXN1UGJRZW1BeGJCb1FmX05MNEtjRVp2c1c5aTI5eFZZMVVsUVNYMmloMzk5ekNZZElxdXU5T0NBTEtpYmpnUHNmTmRZbS1mMEE?oc=5",
+    "title": "Moroccan Engineers Build GPS-Free Attack Drone, Seek Access to Military Testing",
+    "source": "Morocco World News",
+    "published": "Sat, 03 Oct 2026 14:05:45 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Moroccan engineers have developed a GPS-denied attack drone and are petitioning their military for testing access.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous navigation",
+      "military"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0JIZVJ6M19NVlByY2Npc0dRMWRndU94NEk1ZUxZYWFzdHlVVDhUYzJJYXhVVFdOeWJiTzk3cnZXTThjX1VpWThvMFIxN3VDSG41Nm9ybVVMYlFQbm5sdW9lWHh3RUZBWVg2eW9rUHBDYjhMcnYwcF8xRDRYTEYwZkcxWnkxLTlwenNsWmxjSllBaDFr?oc=5",
+    "title": "Ouster Partners with Seneca to Advance Autonomous Drone Technology for Wildfire Response Operations",
+    "source": "Yahoo Finance Singapore",
+    "published": "Thu, 01 Oct 2026 11:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Ouster has partnered with Seneca to deploy autonomous drones for wildfire detection and response.",
+    "companies": [
+      "Ouster",
+      "Seneca"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "wildfire response",
+      "emergency management"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmhjSGZmeVVSbnFZNWVxN3dvRzZOb1pWRVZOQXZDYndVbjlaeWQyMjl3d1REcG9rZmNKLXg2cG91TlBlSmItbnVwOFdYdmVzaEJ5VTZ2MGZRYWNQdFROQUtJNGp0SEowaFFNNDlaMEtDdlY2ZzAyaHVvVnhjejlucVg2Q3NXakQ2aGc?oc=5",
+    "title": "Navy to procure 30 robotic ships at an average cost of $40M per vessel",
+    "source": "defensescoop.com",
+    "published": "Wed, 30 Sep 2026 19:47:55 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The U.S. Navy is ordering 30 autonomous ships at $40 million each, marking a major military commitment to crewless maritime platforms.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous vessels",
+      "military robotics",
+      "uncrewed ships"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFRJU0U0cnNkUE80TEpiTk5JU3Zuc3dGajJfcjdGNkNXOERtenlaODJ4UGl6WmpZOXRRTVV1eWRIa05RekRQQmt6c0RrMHo2YmswT0lKcmtuQXduX244U2RIb3dEVk5JSmpzaWNLZGdva2VmdEp3MDR5a3FLWk9NZ2RrTEt3eHJJSlZXSHBhZjltOXhJdGl3VUVxMFBxai1HRlczOWplMVVZenVXcEJv?oc=5",
+    "title": "Autonomous Warfare Command: Pentagon's Drone HQ",
+    "source": "MiGFlug",
+    "published": "Thu, 01 Oct 2026 09:00:34 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "MiGFlug reports on the Pentagon's Autonomous Warfare Command and its role overseeing drone operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "drone",
+      "military",
+      "defense"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnk1MktwQ1hjOE5qc09GQUpvUDhaUG9SWGI4RWVLa2pNMlFneXpseWltM3p5ZTRXYlUtUnN6Yms0NTE5a1c4ZmRWRndvYUJPX080cFFsTXk1b1VEWlpLTjRWWGFRczA2ZERmR0NfTHNuaVlxcE5sVW50NFF0NzRReDJfdmpEN0dm?oc=5",
+    "title": "Neuralink trains on 50,000 hours of brain data, hits 11.32-bit/s cursor record",
+    "source": "Interesting Engineering",
+    "published": "Fri, 02 Oct 2026 22:12:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink reports training its brain-computer interface on 50,000 hours of neural data and achieving an 11.32-bit-per-second cursor control speed, a modest step in decoding brain signals for paralyzed patients.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural decoding",
+      "cursor control",
+      "BCI performance"
+    ],
+    "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
     "duplicate": true,
