@@ -69241,7 +69241,7 @@
     "first_seen": "2026-09-27T18:52:06",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69293,7 +69293,7 @@
     "first_seen": "2026-09-27T18:52:06",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69321,7 +69321,7 @@
     "first_seen": "2026-09-27T18:52:06",
     "week": "2026-W39",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69455,7 +69455,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69482,7 +69482,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -69712,7 +69712,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70806,7 +70806,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71455,7 +71455,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71906,7 +71906,7 @@
     "first_seen": "2026-09-30T19:46:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72776,7 +72776,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -72966,7 +72966,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -73754,7 +73754,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73864,7 +73864,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74639,7 +74639,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74724,7 +74724,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -74831,7 +74831,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -75136,6 +75136,443 @@
     "week": "2026-W40",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSF9wckJWZ1dIWXNORU5sQ2EzWjRrY2kybUZvTmVWS204TUt2Vk9qVm9pNWdEbThZU2V5ZWdIOFpKNnJaTFh2UF8yOVNKR0R5Z19sSW5LeUhIaDBTQ3pDRXVxUHlSWFhnbGdZUkh6TUV4a2hHZFJBOGkzWnFEcjMwN3JocHJsYWExVmlxZ3N4MzcwM2RwcTN0bmFVNA?oc=5",
+    "title": "Mark Cuban rips humanoid robots as impractical for homes — but robotics execs push back",
+    "source": "Yahoo Finance",
+    "published": "Sun, 04 Oct 2026 12:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Mark Cuban dismisses humanoid robots as unsuitable for domestic use, while robotics executives defend their near-term viability.",
+    "companies": [],
+    "people": [
+      "Mark Cuban"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "domestic robotics"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkpNek5obzhzNHJMU2VPV0tuMW9UVEhpWDFDYXY3YUlFTV9jMkp6OEZJa2ZLS2ZwWDROLUxNdV82WVZHSUJKd1JsT3AydnR5WHlBdm42eEZxX0s0QUlTalJuQUJSWVlKRl92SDN1bzRUNjZpOWtSbW9hVmpTTmsxWXpybl9UazU4QUNwMFozRVRRY05yOEIxLWxZUjJFZzNCVWEzZ2ZB?oc=5",
+    "title": "FCC's ban on Chinese humanoid robots may starve the US firms it aims to help",
+    "source": "Startup Fortune",
+    "published": "Sun, 04 Oct 2026 15:58:52 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The FCC's proposed ban on Chinese humanoid robots risks undermining American companies' ability to source affordable components and compete globally.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "trade policy",
+      "regulation"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGRVTEUxWVhMLWlwMmZCdkU5Sjh2Rnl4V1ZTajVNRVZSZ2JaZHEzWWVRS1pzREFhV19WR0lwZ3M1dHMwbkI0V2x3Qjk3ZU0xaGVpSXVLSHI1TE9YSzlVb24yaTZUTHNsZ1dOb3JPbHV0VWJnTzVXWkpBUEpFU1JhYkNzVGxxdzJDbm9MX2t5a2hXbUVlTEh4Ul8weEs0d3A0Q2taSkJ3?oc=5",
+    "title": "Hasta la vista, baby – Figure F.02 humanoid robots decommissioned, T2-style",
+    "source": "Electrek",
+    "published": "Sat, 03 Oct 2026 19:31:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Figure AI has decommissioned its F.02 humanoid robots, abandoning the hardware platform after pivoting to focus on software and next-generation systems.",
+    "companies": [
+      "Figure AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot decommissioning"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUdtZDdqQXFXdUMzUko3c0RnUjFaMkF5a3dTWmlkSzFTaFdFM0FLWlpJNEZ6bElrcVgyeHpRSy1WQ1VsakxfT2ZOWmpud3hWcDFvSTJZN29yNlNGX01aalcyamxDQ29MNk1LbDJHRkxXejg4cnFtRWlxOXplczRfYXpRelc5Y0FaV1dIaw?oc=5",
+    "title": "Humanoid robots destroy themselves after being decommissioned",
+    "source": "The Independent",
+    "published": "Fri, 02 Oct 2026 16:08:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The Independent reports on a decommissioning procedure for humanoid robots, framed sensationally as self-destruction.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PVkVUR2dlQ0FxaWsxeWNjUENMV3VQM0RBclNGdTg1YjFmMjhzUzM3cTh1Rkk2UzNKUkdsdjQ0SHZ4X2JwTFJQaXZoZUVXTWxlT3pvWVpRWGZwc3NHOG96N0lmZmpBazVXRVFzVEppZkREZw?oc=5",
+    "title": "Your Driverless Cab Is Spying on You",
+    "source": "WIRED",
+    "published": "Fri, 02 Oct 2026 10:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "WIRED examines the surveillance infrastructure embedded in autonomous vehicle cabins and its privacy implications for passengers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "privacy",
+      "surveillance"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkYtN2xPY1M4dFd0N1R4ZnNMV0s1NE1vYXpNMVV6ZktXY29Ga1FXNEJnV2lsanlPWmhCYTFTbEEydmNqR0VSMDZjNEgyM3lIcGx2REVCZTRnOFNPdzAwemxVYXJGdzNnQ0k1bWRFUDcwYmRrYW1vYlB1Vm1OejUxQW56d0FOS2YwRml6UDhEYnhIclFIM3ZOTUdNSUtxck1nOEJXRlJyYUJBX2xNTzFneXh0RQ?oc=5",
+    "title": "Autonomous Orange: YMX adds self-driving tech to its electric yard trucks",
+    "source": "Electrek",
+    "published": "Sun, 04 Oct 2026 13:48:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "YMX has equipped its electric yard trucks with autonomous driving capabilities, expanding self-driving technology beyond on-road vehicles into industrial logistics.",
+    "companies": [
+      "YMX"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "electric trucks",
+      "yard automation",
+      "logistics"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEQzeFUwS3VNQWFjZl85YTNibXczYjJzQ0tBM1phVGdwa2plWGg3cEJzQmNnNEhMUVE5dzhjV29MUDNYbmU5U0dVSTBPbDBhMVQxc0VOTS1VRmpJY3dhbjNHRE5HOWtpekdQYmUwTjlTSGRjOUNGTTVQUGRsanlGWDNHenRnTmJRM1U2aUdJQ3hZTVFTWkZIdmM1c0s?oc=5",
+    "title": "Tesla Grows Austin Robotaxi Fleet While Skeptics Say Waymo Still Leads",
+    "source": "notateslaapp.com",
+    "published": "Sun, 04 Oct 2026 14:45:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla padded its Austin robotaxi service with 111 more Cybercabs and longer hours, a tangible sign of scale-up even as skeptics like analyst Gary Black argue the company remains behind Waymo in actual autonomous capability. The contrast underscores a widening narrative: Tesla's growth is counted in vehicles and hours, Waymo's in miles driven without a human behind the wheel.",
+    "companies": [
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [
+      "Gary Black"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "autonomy"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEQzeFUwS3VNQWFjZl85YTNibXczYjJzQ0tBM1phVGdwa2plWGg3cEJzQmNnNEhMUVE5dzhjV29MUDNYbmU5U0dVSTBPbDBhMVQxc0VOTS1VRmpJY3dhbjNHRE5HOWtpekdQYmUwTjlTSGRjOUNGTTVQUGRsanlGWDNHenRnTmJRM1U2aUdJQ3hZTVFTWkZIdmM1c0s?oc=5",
+        "title": "Tesla Grows Austin Robotaxi Fleet While Skeptics Say Waymo Still Leads",
+        "source": "notateslaapp.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGVvdjF4UDRvbEJnYlFwNHZubzZvSnlRNFdzVXZuZzJuVTlNUUkxTm54SGtteFRkU3M2cl9rX0hPLVhHV0dzQjNqaFpTQXhlN3Jqc1lxRzU1ZjVQZ08tdnNjdHRmZFZwRUtKemI4OEJkUTZDTnZtaW5FNXF3Vk43RFR4ME1lOUZ3VDVVTl9CeFVxYUE0a0w5YVFPUzQ3SWZ4c081dlFLcklxLTJDaEtuUThVVjA1Z0Y2M1RXT1lrZmUxY3ctRk02NjQ5akpBdw?oc=5",
+        "title": "Gary Black Flags Waymo Is Leaving TSLA Behind On Autonomy Even As Tesla Beats Delivery Estimates In Q3",
+        "source": "Stocktwits"
+      }
+    ],
+    "body": "<p>Tesla this week expanded its robotaxi operation in Austin, adding 111 Cybercabs to the fleet and extending the hours during which the service runs, according to notateslaapp.com. The move, which comes as Tesla also reported stronger-than-expected delivery numbers for the third quarter, is the company's latest attempt to prove that its driverless ambitions in Texas are becoming a real business rather than a pilot project running on borrowed time and investor patience.</p>\n\n<p>The expansion is concrete: more cars on the road, more hours when a rider in Austin can summon one. But it lands alongside a pointed critique from analyst Gary Black, who argues that for all the fleet growth, Tesla is still trailing Waymo in the one metric that actually matters for autonomy — demonstrated capability. Black's argument, reported by Stocktwits, is that Waymo has pulled further ahead on the hard technical problem even as Tesla piles up favorable headlines about deliveries and vehicle counts.</p>\n\n<p>The disagreement isn't really about whether Tesla is growing. It plainly is. The question is what kind of growth counts. Tesla's story is told in units: Cybercabs deployed, hours of service, cars on a map. Waymo's story is told in a different currency entirely — miles driven with nobody touching the wheel, a number that has become the industry's de facto proof of trust. One company is scaling a fleet; the other, by this account, is scaling a technology. Those are not the same achievement, even if from the sidewalk they can look identical — a car pulling up with no one in the driver's seat.</p>\n\n<p>Why this matters extends well beyond Austin traffic. Robotaxis are the clearest commercial test of whether self-driving technology is ready for ordinary people, not just engineers with safety drivers and clipboards. Investors are using fleet size as a proxy for progress because it's legible — a number you can count from a press release. But regulators, insurers, and the riders themselves will eventually care about something harder to spin: how the cars behave in the unpredictable seconds of real driving, the pedestrian who steps off a curb a beat too soon. If Tesla's expansion outpaces its actual autonomous reliability, the gap could surface publicly — in an incident, a regulatory inquiry, or simply in rider experience — in a way that no press release about fleet size can soften.</p>\n\n<p>For the broader robotics and autonomous vehicle industry, the episode is a reminder that scale and sophistication can diverge, at least for a while. Tesla's bet is that deploying more vehicles, faster, builds the data and public familiarity needed to close any capability gap. Waymo's bet, implicit in its slower, mileage-first approach, is that trust is earned car by car, mile by mitigated mile, and that shortcuts show up eventually. Which bet wins will shape not just two companies' stock prices, but how quickly the rest of the country gets comfortable sharing the road with a car that has no one driving it at all.</p>",
+    "slug": "tesla-grows-austin-robotaxi-fleet-while-skeptics-say-waymo-s-39ccdd"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGVvdjF4UDRvbEJnYlFwNHZubzZvSnlRNFdzVXZuZzJuVTlNUUkxTm54SGtteFRkU3M2cl9rX0hPLVhHV0dzQjNqaFpTQXhlN3Jqc1lxRzU1ZjVQZ08tdnNjdHRmZFZwRUtKemI4OEJkUTZDTnZtaW5FNXF3Vk43RFR4ME1lOUZ3VDVVTl9CeFVxYUE0a0w5YVFPUzQ3SWZ4c081dlFLcklxLTJDaEtuUThVVjA1Z0Y2M1RXT1lrZmUxY3ctRk02NjQ5akpBdw?oc=5",
+    "title": "Gary Black Flags Waymo Is Leaving TSLA Behind On Autonomy Even As Tesla Beats Delivery Estimates In Q3",
+    "source": "Stocktwits",
+    "published": "Sun, 04 Oct 2026 12:53:50 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Gary Black argues that Waymo has pulled ahead of Tesla in autonomous-driving capability despite Tesla's strong Q3 delivery numbers.",
+    "companies": [
+      "Waymo",
+      "Tesla"
+    ],
+    "people": [
+      "Gary Black"
+    ],
+    "themes": [
+      "driverless",
+      "autonomy"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQU82dWhpb0VmdE9fQnNvdGtuNzM2UnpCSzQ1ZTNINmh6VTBwZW9jdkowbDhsbmxWX3JkMUZUd21ZM3RUTUg2cGxCdXZoN09FQ0tudGRsZzg3cG1KY3NQQzd4c3hRTlNhYmxUaGplQXhGeEpwdnZLQ3h1eUtNd2xVUmxjR1dpQUxDRjN6dkVPaUdHUDV3QklFMWtyZVQ4bG1CWFJWSGhVeTZFUVkySzh6WXkxY0hnTFA2bUtBX2tnTnNsQnFsUmFYNksyajdadw?oc=5",
+    "title": "Tesla Robotaxi's Nighttime Problem? Elon Musk Says It's 'Grey Kittens on Grey Tarmac'",
+    "source": "Benzinga",
+    "published": "Sun, 04 Oct 2026 08:44:46 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk dismisses concerns about Tesla's robotaxi performance in low-light conditions with a metaphor about visual detection challenges.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "perception"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ180WjVWN25LQU5nU2VOd05OM0FiT3JnZFZIeTdFNU9PS0hLeTNFamhnSUtfY2hvQ3ROa1JHWmg1N1pZM0xPT0ZWMW9xQ2FnVjFucVJYck1Lblc5YncyMUxUZmdXWXBuSmhrUjNlc2xJQThSSzhsUlFWdDhhZDNTZjZPWnhTOXdENVpPRkhIcHdNWDlCdEUwWE1Tb1dWTHRINDJwamhXUWhHVWh3ZnJYa0d1VXU4Zw?oc=5",
+    "title": "CNBC-TV18's Rachna D. Dhanrajani takes a ride in a Waymo in San Francisco, a car with nobody in the driver's seat. Watch to find out how the self-driving car sees the road, the technology behind it, and what the ride was really like. #Waymo #SelfDrivingCars",
+    "source": "LinkedIn",
+    "published": "Sun, 04 Oct 2026 14:40:27 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "CNBC-TV18 correspondent Rachna D. Dhanrajani took a ride in a driverless Waymo in San Francisco and reported on the experience for a video explainer.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Rachna D. Dhanrajani"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "self-driving"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEZHa2sxSG9DbHFNMHBQUnhQZzRFVXpIQjRVS1llLXdVd2xDUjRPejRiZW1NemI1bVdSZENRNjR5T0U1RE1WQ2lydVRZcUhTT1RWQjJXeWp2MG9ib0dyQ2wxTG93OUJiY1Q2d1pHS0N0czE3ZlZua0lwMVVKRkltUTJaRDNHT2NYSWZwX0FQSVFjRUo0d0piOG5Qd3FkdXpvNEVCYg?oc=5",
+    "title": "Elon Musk says Tesla Robotaxi still struggles to see pets at night",
+    "source": "Digital Trends",
+    "published": "Sun, 04 Oct 2026 17:33:06 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk acknowledges that Tesla's Robotaxi has difficulty detecting pets in low-light conditions, a technical limitation he disclosed in recent comments.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "computer vision",
+      "safety limitation"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWNxWURaWHZ4V2FveVNFMVMydTJtSVFpZ0ZpbzR4N3dadk5TcmhpZ01MTUZZOEk3RjVSLW5VN1R0V0t4Z0RVWF9Ma3AyU0lfaUFpbDFsMXhHS2FhdWRfRVhSRGRkeVFlZ2h5QnZPLVVkQ3pUblFsM2xMLUU5amVJakFvWXUwWXVPWWNtLW5ydGJHclliV1Q4OURJM1MyQ3lFWHp6YS1ublVUU1dXdWNF?oc=5",
+    "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
+    "source": "Moomoo",
+    "published": "Sun, 04 Oct 2026 04:47:45 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk attributes Tesla's Robotaxi nighttime limitations to the absence of lidar and argues the technology is necessary for safe autonomous driving in low-light conditions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "lidar",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdk5COUctWUVCUGlpT2lSdkE1cmtkZTQ5VWtGRmxuSUxkeG5VLWxwdjJzY1lhUEFYN1ZGdWNLLVRJTkQ3RGNTOWNpTnd1ZmN6djI4XzdURmNYTE9HNVhXUzViYVZlVFAxZ2EydXNPYW53UHo3VkVPSkkzVFU1OHYtNnRxV1BaSEtrelpTV1V6LUNnc3dFVk04UHRHYW56YkZDeEtCb0w1VFdBaUwxRlJCNmdhTHI5bUF0M3hjQk5BT3E2Z0F4ZzN3ekFaRnFtNHBKUVQwX2lTNl8?oc=5",
+    "title": "5 Engineers in a North African nation have built a $1.15m attack drone without the vulnerability of relying on GPS, bringing advanced tech to frontline warfare",
+    "source": "Business Insider Africa",
+    "published": "Sun, 04 Oct 2026 18:11:49 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Five engineers in a North African nation have built a $1.15 million attack drone that operates without GPS, reducing vulnerability in contested airspace.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "attack drone",
+      "autonomous navigation",
+      "military"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVg1LUFqZ0VOUUNFRG0yVWVsNVJKMC1FSzVObGtxV1RZSS1TZGdtdm5BMGpORkNHdnFLSkNsR19FamtpYnNlODdwQ1Q2Z3AzUkoxMHdVY21zbm93ck5VbzNTYzl6RUxlcVpVUDlvTTR1QUY3aG5vaTRwSkFwZUFoU2lRMkRlNVlLRFJKZUhHQ1haSGZRUUllSm40MWVqa250OEtlNnFoMXhqTkNCNjJGUEJkU2JNaE51MGZyV01Yb09jeFNrQ05Pa29Jb1lXZFJvbms4MV9RWDhKOW1HbGxv?oc=5",
+    "title": "UAH puts autonomous drone technology to the test in final international NATO competition focused on disaster support",
+    "source": "The University of Alabama in Huntsville",
+    "published": "Wed, 30 Sep 2026 19:34:49 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "University of Alabama in Huntsville is testing autonomous drone technology in a final NATO competition centered on disaster response.",
+    "companies": [
+      "University of Alabama in Huntsville"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "disaster response",
+      "NATO competition"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3FMOC1aYWhYV01LZUdvckd2MzFfcWp5RmNPS3lEbzh2UXFXRkRsQzhPNDc1MVZXNFRSRTdGYWJDMnhOaXNhRGpJV2xCUnBsOXFfcW5zNHN6LWFCLS10ajFPTlJiM0lUOVppb2FCSjU2V3FoMkkzMHdQU25fM0t1WWhYMWxlVWhvOTRJVDFpZHU4NndKMXc?oc=5",
+    "title": "Around the Commercial Drone Industry: Drone-in-a-box, Autonomous Cargo Delivery, City Regulations",
+    "source": "Commercial UAV News",
+    "published": "Fri, 02 Oct 2026 15:41:56 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Commercial UAV News rounds up industry trends across automated launch systems, last-mile logistics, and municipal oversight.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone-in-a-box",
+      "autonomous cargo",
+      "regulation"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVlXY2hSXzNaQnlqY2F0Yi1idXBBeW50NnZDNXJFazdobHFxLUU5eE5BSGtHZXNyS0V6YzZWZUlvTkoxR3FKZHNZS3d5eEF0UHhjbTFEcUhkZ1Q0aHJBSmNTeVczb1VjamV3MXh4bG03WkFWaTIwMW1nckpJTXhEUXVZSDhYcjUwcXQyUzdEdjZHNkZHOHdoeGdn?oc=5",
+    "title": "Tianjin University Lab Unveils 3-Gram Non-Invasive Brain-Computer Interface That Hides in Hair",
+    "source": "Pandaily",
+    "published": "Sun, 04 Oct 2026 10:38:16 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Tianjin University researchers have unveiled a 3-gram, non-invasive brain-computer interface small enough to be concealed in hair, marking a step toward wearable neural devices that don't require surgery.",
+    "companies": [
+      "Tianjin University"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "non-invasive",
+      "wearable",
+      "neural interface"
+    ],
+    "first_seen": "2026-10-04T18:30:36",
+    "week": "2026-W40",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
