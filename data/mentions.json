@@ -69817,7 +69817,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70185,7 +70185,7 @@
     "first_seen": "2026-09-28T21:02:14",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70806,7 +70806,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72643,7 +72643,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73151,7 +73151,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74273,7 +74273,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75574,6 +75574,1055 @@
     "why": "A 3-gram brain-computer interface hidden in hair pushes neural tech away from surgical implants like Neuralink and toward something closer to a wearable. If it performs outside the lab, it undercuts the entire invasive-implant model.",
     "duplicate": false,
     "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tbEZyall5cUNSUXBqMy1OcXFnTmU1QVJxNVQ1YUFjM3c5YmJkZ1F1Qk9yTEFnaDBaajVVSXNTZnF3NUxGN0kwb2t0eDB1c2gyb3NrM0tnYXZVVkdVOU5NWlJOWDRmejd5WkxjR3VHeVZocWF5bXh2MFBR?oc=5",
+    "title": "First humanoid robot surgeon performs live surgery",
+    "source": "Mashable",
+    "published": "Mon, 05 Oct 2026 18:58:12 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A humanoid surgical robot completed its first live operation, marking a concrete step toward automated surgical assistance in real hospitals.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "surgery",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHAyZnlCaGh6OE9pUUJpYWJaWEZnU01lTXFIUkd2OGFJelJzM3JseHIyVGNoUmR0VFpYQXpPR2JyUnVxdy12Nl9TWmJac044MVQ3ZFEwb1FHUUFzWkJJdnFRVEVjRGJoWWFFSWRLQ3hGS2poMmdtb1R2UjUxODF4eG84ZGlhbU50Y19KSU9B?oc=5",
+    "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+    "source": "The New York Times",
+    "published": "Mon, 05 Oct 2026 12:57:32 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The New York Times visits a South Korean park where humanoid robots work, finding the reality falls short of the hype.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSnViOEg1aXFrWDJHdU80VWRBaHd6MEt0WTFMMGhMekkwc1EtNzFIQnd6S2VQNmZ1T29XdTNrNlE5STBBX0UwUHBhMlVPbVY0NF9QbDJaTFBmeWg3VTMzLUFxeENpY2JqaXl5WmhEaXlRemV0bkl3azhYdnJQTzFoVFo0WVJ3QmM3TDlwcnRrTl9IVXZ5eVozSXhRZlBSanV3MGRCLWZ0U1ZWQQ?oc=5",
+    "title": "Figure's Molten-Steel Demo Fuels Brett Adcock's Humanoid Hype Machine",
+    "source": "Industrial Equipment News",
+    "published": "Mon, 05 Oct 2026 13:14:06 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Figure unveiled footage of its humanoid robots working around molten steel, a splashy demonstration meant to show the machines can handle dangerous industrial tasks humans would rather avoid. Forbes, meanwhile, traces how founder Brett Adcock has turned such stunts into a disciplined media strategy, courting investors and headlines as much as factory floors. The molten-steel clip reads less as a finished product than as the latest chapter in that narrative-building campaign.",
+    "companies": [
+      "Figure"
+    ],
+    "people": [
+      "Brett Adcock"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial deployment",
+      "extreme environments",
+      "marketing",
+      "funding narrative"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSnViOEg1aXFrWDJHdU80VWRBaHd6MEt0WTFMMGhMekkwc1EtNzFIQnd6S2VQNmZ1T29XdTNrNlE5STBBX0UwUHBhMlVPbVY0NF9QbDJaTFBmeWg3VTMzLUFxeENpY2JqaXl5WmhEaXlRemV0bkl3azhYdnJQTzFoVFo0WVJ3QmM3TDlwcnRrTl9IVXZ5eVozSXhRZlBSanV3MGRCLWZ0U1ZWQQ?oc=5",
+        "title": "Figure's Molten-Steel Demo Fuels Brett Adcock's Humanoid Hype Machine",
+        "source": "Industrial Equipment News"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0RXaHd6dEk4RVJJRkVNUUhYcUJvOWNIVHFGcEt4c1UwaExSQTJadGRFZF9pOGltSllObk1faEVnbElodTJxdnNJUUFXdWtsNk1VZFRmWEJPRk5UMHhSVjBJdTBkS25vUUVrYjdlN2pFUnBWM191R0NBYmFOTlU1MDRyU3laRGdzWTJXd2hIRWhmbnpsNXlzMGtjamppUWhubHo3S3FJNklLU0d3ejVVaTdfa2szRHA4eFE?oc=5",
+        "title": "How Brett Adcock Built Figure's Humanoid Hype Machine",
+        "source": "Forbes"
+      }
+    ],
+    "body": "<p>This week Figure, the Bay Area humanoid-robotics startup, released footage of its machines working in close proximity to molten steel, a demonstration the company says points toward a future in which its robots handle industrial tasks too dangerous or unpleasant for human workers. The clip, reported first by Industrial Equipment News, shows the humanoid moving with apparent composure near the glowing vats that have, for the better part of a century, been the province of workers in heat-resistant suits and respirators. Figure did not specify a factory, a partner steelmaker, or a timeline for deployment. What it offered instead was an image: robot, fire, proof of concept.</p>\n\n<p>That image arrives in the middle of a broader story, one Forbes laid out in a profile of Figure's founder, Brett Adcock, who has become something of a connoisseur of the industrial sublime. Adcock, the piece argues, has built Figure's public identity less through quiet pilot programs than through a steady cadence of dramatic footage and press attention, a strategy aimed as much at investors as at factory managers. The molten-steel video fits neatly into that pattern: spectacular, easy to share, and conspicuously short on the operational detail — duty cycles, safety certifications, cost per unit — that would tell a steel executive whether to actually buy the thing.</p>\n\n<p>None of this makes the demo meaningless, exactly. Humanoid robotics is still a field trying to convince the world it deserves the money being poured into it, and in an industry starved for believable use cases, a robot standing near 2,800-degree metal is at least a vivid pitch. But the gap between demonstration and deployment is where the humanoid-robot boom has repeatedly stumbled. Robots that can walk across a stage are not the same as robots that can survive a full shift, pass an insurance audit, and get fixed by a plant technician who has never heard of Figure.</p>\n\n<p>The stakes of that gap are not trivial. Humanoid robotics has become one of the most heavily capitalized corners of the robotics economy, with venture money betting that general-purpose machines will eventually do the unglamorous, hazardous work that keeps workers' comp lawyers employed — steel pouring, foundry labor, chemical handling. If the bet pays off, it could meaningfully reduce injuries in some of the most dangerous jobs in manufacturing. If it's mostly theater, it risks another cycle of inflated expectations crashing into the slow, unglamorous reality of industrial engineering, the kind that doesn't make for good footage.</p>\n\n<p>For now, Figure's molten-steel clip functions less as evidence of a finished product than as a chapter in Adcock's larger narrative project — one in which the line between demonstration and advertisement is doing a lot of quiet work. The robots may well be capable of what the video suggests. But in an industry that has learned to be skeptical of highlight reels, the harder, less photogenic test is still ahead: whether the machine can do the job on a Tuesday, unsupervised, for a thousand hours in a row.</p>",
+    "slug": "figure-s-molten-steel-demo-fuels-brett-adcock-s-humanoid-hyp-bdef78"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0hpTEVCb2JjdU9vbWtLR2Z6bTVKU1NMTUpOTDU1N2tZWklLQ2pYU09zVlB3QW14OU51UGtDV0ZzSDQ4V1QxNHdGcktLVGk0OWEtTUZ4OTRvTnVVN0lfUW9CRjNxTUs3RHhycVJuTnVndzc4b2dSSVhVTmFpVmZlSVcwUlhHNlZRbEZGcUxILTdsamF5cXlYOA?oc=5",
+    "title": "What are humanoid robots actually for on the battlefield?",
+    "source": "breakingdefense.com",
+    "published": "Mon, 05 Oct 2026 19:38:51 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Breaking Defense examines the tactical limitations and uncertain military utility of humanoid robots in combat scenarios.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military",
+      "defense"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVV1Z19mR0lEVmtGcUlTbkZucXlkQU1waExjMFFTY0xRaVd0SHdvcXBsUVZHNC1EN3NJelNfTG9USzRvVW9hcnZPZGYzUUhkQWpsbXphYWNCRWItSlFFd20xZ0swVDU2UWt0Y29sQVN1TWRnak96bjJfR3JSb0JfdDM4bXdtUVpLNV8xQ3BpY3FOOEJiTGFSd3pQd09vbDBrNlhXYUV3?oc=5",
+    "title": "The hottest trip for Silicon Valley investors? Robot factories in China",
+    "source": "Business Insider",
+    "published": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Silicon Valley investors are making pilgrimages to Chinese robot factories, drawn by the promise of manufacturing scale that American startups struggle to match.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics manufacturing",
+      "China",
+      "investor interest"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2tfeDBQWUN4U3I0UEwzYlppUjB4SXliTXZrSTk2RTRWdXBOWHRzcXNJLXRWdDlOQWJOdDVFc0ZfR1d3X2o4dHV0cDFJXzc4NWxMUllYZ1JTN2ZDUjdPSVFCRjduU0VnRmFoOWtWeHhLN2VrWmNYSU9lR0dscWVEVDkzMXo2YlYwbnp5LTRHaTFRSVV4Q1E?oc=5",
+    "title": "New RP1 humanoid for open-source robotics research unveiled by RoboParty",
+    "source": "Interesting Engineering",
+    "published": "Mon, 05 Oct 2026 13:24:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "RoboParty unveiled the RP1, an open-source humanoid robot designed to accelerate research in physical AI.",
+    "companies": [
+      "RoboParty"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "open-source",
+      "physical AI",
+      "robotics research"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXc4ZHA1LUVmUWh1V213b1ZlZ1ozZ0hKMHZqb3dEQ0REWVoxTXJyZUZFaTkwbnhTOUxTcndxRHRXX2FLcHlMekZvQzlkV01yWTltdFE5UjVtR1cwQmNzVUNHV0tOdjAyd1VHSk9WU29jQ3cyWUJqeEUzejNnRWpPM3dwZVRIV1BqaDRfYl9McWpOQ3VoOHZLM05SSTR2ai14ZWxjYkJ3?oc=5",
+    "title": "Data centers to factory floors: Walden robots learn on the job",
+    "source": "SiliconANGLE",
+    "published": "Mon, 05 Oct 2026 12:57:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Walden has deployed learning-capable robots across data centers and factory floors, where they acquire skills through on-the-job experience rather than pre-programming.",
+    "companies": [
+      "Walden"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "automation",
+      "machine learning",
+      "deployment"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWxuRUZxLUdrMW13bXdSYktRTFVBZDlkaWgzRlQ3MzRpN3F3OVZWWDd2akpOb3VCdjlic21qN0tHLTN6OTlFaFVuYmxGb0s1cHA5Y2Z6NzczMVlqaVBneXdZdmRGMFhDNUc2bUFudEYwdndZNU1fQS1ucjhIMTVPNDFBbk1JeTJJRGs1MWtLOVVrZWdmdmcw?oc=5",
+    "title": "World’s first high-performance full-stack open-source bipedal humanoid robot showcased",
+    "source": "Interesting Engineering",
+    "published": "Mon, 05 Oct 2026 05:21:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A new open-source bipedal humanoid robot, fully designed for public use, has been demonstrated as the first high-performance system of its kind.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "open-source",
+      "bipedal robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0RXaHd6dEk4RVJJRkVNUUhYcUJvOWNIVHFGcEt4c1UwaExSQTJadGRFZF9pOGltSllObk1faEVnbElodTJxdnNJUUFXdWtsNk1VZFRmWEJPRk5UMHhSVjBJdTBkS25vUUVrYjdlN2pFUnBWM191R0NBYmFOTlU1MDRyU3laRGdzWTJXd2hIRWhmbnpsNXlzMGtjamppUWhubHo3S3FJNklLU0d3ejVVaTdfa2szRHA4eFE?oc=5",
+    "title": "How Brett Adcock Built Figure's Humanoid Hype Machine",
+    "source": "Forbes",
+    "published": "Mon, 05 Oct 2026 10:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Forbes profiles Brett Adcock's marketing strategy for Figure as the humanoid-robot startup courts investor attention and media narrative.",
+    "companies": [
+      "Figure"
+    ],
+    "people": [
+      "Brett Adcock"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "marketing",
+      "funding narrative"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aNW5YalJtUVFLaGxJc040aGU2aVdTWjBuanN6UTZNbmc0R0dTaHlsRURBZXNfc25QLUhud1NvbG5RWlp3MDRJenZMTHVyWFRNNmRuN1NqOHV4dw?oc=5",
+    "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+    "source": "Japan Wire by Kyodo News",
+    "published": "Mon, 05 Oct 2026 00:56:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "RoboParty unveiled RP1, an open-source humanoid robot, at the International Conference on Intelligent Robots and Systems.",
+    "companies": [
+      "RoboParty"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "open-source",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjMtdEJ0RlpsQWJLN2VSdkhwRDYzMDB2LWd1ampKa1dpRGhvMDNUMEJsNExiRzRCVi1rMElJWUlFb0VmbFA5bGhZT2c5WjhUM1RpV1lmdURGQWNiVE92dzcyLVdGNmhUVEJndzZtNXkxWm5qdWV6VTh1eENvdzdzQkYwdU9qVVM4ZlNvQUZWaDdEWDJEdHYySVNiSnVIWmoycnh6YVlhcWhDc0NFdjd2R2M3UQ?oc=5",
+    "title": "New center trains humanoids for dangerous public safety mission",
+    "source": "Interesting Engineering",
+    "published": "Mon, 05 Oct 2026 16:17:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A new training center is preparing humanoid robots for public safety work in hazardous environments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "public safety"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYktYa2piUzVWSjdlZnc5ODAtd0NvOVh1WlZsQzJIdmstV0paQXp0U1FiLXI1LTJvWEYxaWlmNGcyNWRuc3BrV0xfWVg1RUU1d1U2SHRRVTcwYVowY19CSHg3a25fcG5hUFE4cEd2Qm5wMm0xRjgyeFV5ZTVFUW5tMDNXcmlXMFFaQmFOMDlhOXdDMldnUFowZVowZjRHaXViYkZWTWpR?oc=5",
+    "title": "As robotaxi accidents increase in L.A., the data reveal the safer driver",
+    "source": "Los Angeles Times",
+    "published": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "A Los Angeles Times analysis of accident data compares robotaxi safety records against human drivers in the city, finding that autonomous vehicles have lower crash rates despite rising incident counts.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "robotaxi"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43c1NEU0hrQ3MtcE42MWlsd1cxTGxLRWdqSUtLN3NMVmoxLXAtTFdoTjhYOFhSMEVfLWhZMXpxVFUwYTdKZ0VpTXYxUk9kWDdkWU9faktKbHZGR0ZNZmZCUkhxZmJ4ZkNWZ3d2NnFwaEJYZw?oc=5",
+    "title": "McNeese Grad Student Interns With Waymo",
+    "source": "mcneese.edu",
+    "published": "Mon, 05 Oct 2026 20:44:33 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A McNeese State graduate student has secured an internship with Waymo.",
+    "companies": [
+      "Waymo",
+      "McNeese State University"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "internship",
+      "talent pipeline"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOelZ1ejdmRVE5SWpMWUZoSV83emtuVE1EQTg1ckFUNEg3RjZqZGpGYjNDeUZFVGJnVC11WVZQR2o3LXY2YnFoNHNNV0l3V1BBVzczVEJiLS1NVWtsOU9BRF9Wem5pamNTNFVOY1YxSVJtcTVEV2h6SGJHRzJWVlhXb0w5YzNfSEJlZTdGVXRhb2J0ODFoWEVEajV3?oc=5",
+    "title": "Raleigh Police Are Considering Driverless Patrol Cars",
+    "source": "Governing",
+    "published": "Mon, 05 Oct 2026 21:03:01 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Raleigh police are still in the thinking stage about driverless patrol cars, with no concrete deployment or contract announced.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "law enforcement"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYno5eTJlb1ZKb2ZuaUFTRUJlbjNCN2NDMzFwcFlmQ3BrVTZ1b2NWV3ZBM2hNb282MVNNYkdac2w4cTV3YkFkQ0pXUUR0c0FENDhnOEUzZjBJZVB5RWxfdnZlcXJXY0RGY2wzTms2MWVEbVQxUXNfTEhRekg3VFQ0ZjJHbGVMeTl0THJ0V25YREVESUVERjRXdUpB?oc=5",
+    "title": "Americans are warming up to the idea of autonomous vehicles, survey finds",
+    "source": "marketplace.org",
+    "published": "Mon, 05 Oct 2026 19:43:24 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Marketplace survey finds American attitudes toward autonomous vehicles are shifting more favorable, though the story offers no new product launches, deployments, or regulatory breakthroughs.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public perception"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NOTFfa2ZmMEptQ1BxUjZBOXNrdVh4S0U5bEd4bnFkbTNoT1o0Sm5QVlBxckt6c2luT1VhSTc1TVJOVjZ5TnMzd1piXzdpQ1A1blY5Q0pJQzF0NmlJYkUyT2RtUWswVzZvQlBocTdOYjdfOWs1eFI0NUJB?oc=5",
+    "title": "Kodiak's self-driving trucks are hitting the highways, and I took a ride in one",
+    "source": "Mashable",
+    "published": "Mon, 05 Oct 2026 19:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Kodiak Robotics is deploying autonomous trucks on public highways, a milestone the company marked by inviting a journalist along for a ride.",
+    "companies": [
+      "Kodiak Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "deployment"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTlOZ3hNVzdSQlRFcFNjNV85UkdocFVhQkZ1RUJ2cllDQlNqZ3Q5YnR2ZXJhNUNmYnpFaGZFWjlucmNmNGZmb0NxX3p0ZXdxaGtZLW9JNk9uSjVzOWFLT3ZnWUowYWdYckZhN0pkbW1kX2tKalktNHVfblBvY2RwcHVVWFBHcWNNcGRRUEI5VEpRSUxubGJZTU9OTUVEYWhkVFU4?oc=5",
+    "title": "Robotaxi Accidents Rise In L.A., Data Show Safer Driving",
+    "source": "KFI AM 640",
+    "published": "Mon, 05 Oct 2026 17:55:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Los Angeles robotaxi accident data show autonomous vehicles crash more often than human drivers but cause less severe damage.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety data",
+      "robotaxi"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMlpQQTNNVEdPSUhHMTR1N1FWMUUyY0JhRUlxVXdzNGxnUXRMT2NwUjBqNmJ1ZXNWM3VSODR6ZldjMTlja1R1QmppNlZ3MW42bDVaZnBMX0dkdEN3dE53QS1LRGdISTNUOUw2cFZpem9zQkc2QWVaOUFGN1hiV1JYUnlxQTVDRDI0OTBsdGttZWNuNVl2QTBpaEY2Tmp6RjM1LWJvZTFTSURKTVE5RHZqTlhkYnpVOVNsc3VUNzRjQm5BT3phQ0FvMHhoQQ?oc=5",
+    "title": "Driverless, autonomous freight trucks operating in central Ohio",
+    "source": "The Columbus Dispatch",
+    "published": "Mon, 05 Oct 2026 21:33:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Autonomous freight trucks are now running cargo routes through central Ohio, marking a live commercial deployment of driverless logistics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "freight",
+      "logistics"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3huaE5tUktWcHZQa1dvV3ZwVXZfclRwdkF1NVQwUkZRNElzYVpjc1EzakxURWxIaWkzRHJxRjNxQXJER2xqRm1EaFpndHhPSHlHR3hjZUVFdnZfWklKNlE2RjhfSUkzRWx6Sm9oUlNGRm1TcUQ5QklMc2h6NTZ6bFVrckJ1dWY4TzRXR1ItNDdBYXBoM25lcEN3?oc=5",
+    "title": "Tesla Robotaxi expands hours, Musk explains why it’s been a challenge",
+    "source": "Teslarati",
+    "published": "Mon, 05 Oct 2026 16:35:01 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's Robotaxi service extends its operating hours while Elon Musk cites the difficulty of training its autonomous driving system at night.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTM3RkNZVF9aNnNjMXM4S2JnaU03eFVmbWxCSEx4QkNPR1FnU211ZGtHaFVLVGNxa3JqcTFENTJvLXNGV21oM2pnS1F5a1NvU0JUaFRVT0l6UjNRakFxNkNnQ2Fla1h2OWpOY1h3OXpXb2FSeWhnWnVTTUhQYllZZk5nUzFWUmZ0WUhpYTZUNUxIbFVXUG1Jb1M2cmctUQ?oc=5",
+    "title": "California to Fine Robotaxi Companies for Blocking Emergency Responders",
+    "source": "Yahoo",
+    "published": "Mon, 05 Oct 2026 16:00:31 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California regulators will fine robotaxi companies that impede emergency vehicles, a step toward curbing a mounting problem in San Francisco and Los Angeles where driverless cabs frequently obstruct fire trucks and ambulances.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWtkOXlmSG5HRnlSYU5IZ25QYnMzb2JfRDloYkZuWTJmY2EzX0NrUy11dF8ybng5a2VVSFdxZHJnOFNxbHdQQWdKVkUtckMweHpVUkw2cTBxZkhkSEFyLUI0cWl0a0FxOTV4WFFsX1VyQVBRcVp4TWtZYmY3bkp0SXVFNmI2UlRN?oc=5",
+    "title": "Ready for Driverless Trucks? I Took a Ride in Kodiak’s Autonomous Semi",
+    "source": "CNET",
+    "published": "Mon, 05 Oct 2026 12:00:15 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A CNET reporter test-drives Kodiak Robotics' autonomous semi and reckons with whether driverless trucks are ready for the road.",
+    "companies": [
+      "Kodiak Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "testing"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFdmdUJoR01PTVJmZFg1UGtTb2dQVURpYzBkMkdySFp0Smd2WTI0ZWhCN3JIT1VVVTVnTHY3WWUxT0xVeUhGdG0ySWFyZjY1TlFTSzFKNElHdGdOTlRrak9fdWJldzJnZ2FqbnU0MFhPeC1SVWFRdzhSZnhOY1czWFhHdG1fdmJtTGFROE5RcUVmNm1JeVl3WA?oc=5",
+    "title": "Organized Labor Takes Aim at California’s Driverless Truck Rules",
+    "source": "The Advocates for Self-Government",
+    "published": "Mon, 05 Oct 2026 20:37:45 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Labor organizations are opposing California's permissive driverless truck regulations, framing autonomous trucking as a threat to driving jobs.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "trucking",
+      "regulation",
+      "labor"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3g0SGFtSFNXaTFXdkE4QTB3bk9oVzJHSXNmLXA3dHFjWnpVMFdCZTQ4UFlhUTU0NWdENVBuejNKazg1WHFTRlZLQkZRTnNzdm5rOFg0VGVrdHJhbGZhdlZ6TXVWc2dlTzltbVV1Tk9aV3RFQWpSTUlMWUpkQnN6dlpsc0RwdWI1OVJXNTdfV0Q3OVVxVnRGSXVPdTFBRnRxN0FFNkZ3?oc=5",
+    "title": "Waymo's Quiet Human Backstage Comes Into View",
+    "source": "eletric-vehicles.com",
+    "published": "Mon, 05 Oct 2026 12:56:36 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Two reports peeled back Waymo's autonomous facade this week: a since-deleted employee post revealed the company is testing driverless drop-offs at San Francisco International Airport's terminals, while USA Today found Waymo quietly pays gig workers to walk out and shut the doors on its robotaxis. Together they sketch a company whose 'self-driving' service still leans on unseen human hands to smooth over the rough edges.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "airport operations",
+      "robotaxi",
+      "labor",
+      "automation"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3g0SGFtSFNXaTFXdkE4QTB3bk9oVzJHSXNmLXA3dHFjWnpVMFdCZTQ4UFlhUTU0NWdENVBuejNKazg1WHFTRlZLQkZRTnNzdm5rOFg0VGVrdHJhbGZhdlZ6TXVWc2dlTzltbVV1Tk9aV3RFQWpSTUlMWUpkQnN6dlpsc0RwdWI1OVJXNTdfV0Q3OVVxVnRGSXVPdTFBRnRxN0FFNkZ3?oc=5",
+        "title": "Waymo's Quiet Human Backstage Comes Into View",
+        "source": "eletric-vehicles.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN2psN2lPUjFUVFRyT3ViTjZPeHliczVYcWNFU1p0bXIxUDZyTmdxU3lwZDJhb21kbGJIVkg1VlJzMXEyQkpFdDhURXd2MXpxWVk4T2tGei05ckxTeVVxX2NCNkJ1OU50SUtLQl9TMTNwMGhkNFhSNVZvWF8xXzNYSnFDejMtRU5ZaUNjUk5NTko2S3h6bFgxX3BycmVRZk5vekI5ak5rQ2VNaHozMzMxU0J6cTEwYldiUFVOZFBjODRyYm8?oc=5",
+        "title": "Robotaxi reality check: Gig workers get paid to close Waymo doors",
+        "source": "USA Today"
+      }
+    ],
+    "body": "<p>This week, two small leaks did more to illuminate how Waymo actually works than any press release the company has issued in months. The first was a since-deleted post by a Waymo employee, spotted and circulated before it vanished, describing tests of fully autonomous passenger drop-offs at the terminals of San Francisco International Airport. The second was a USA Today investigation finding that Waymo pays gig workers — not engineers, not safety drivers, just people hired through app-based labor platforms — to walk up to its robotaxis and physically shut passenger doors that riders have left ajar or improperly closed.</p>\n\n<p>Neither revelation suggests Waymo's cars are unsafe or that the company has misrepresented its technology in any legal sense. But together they puncture, gently, the image Waymo has cultivated since it began charging fares in San Francisco and Phoenix: a vision of driving fully handed off to software, humans reduced to passengers. The airport tests show a company still cautiously probing one of the hardest environments in American transportation — a curb thick with taxis, rideshares, luggage carts, and distracted travelers — before it dares let the cars loose there without a chaperone. The door-closing arrangement shows something more mundane and, in its way, more telling: that even in neighborhoods Waymo has served for years, the system still needs an occasional human hand to finish what the robot started.</p>\n\n<p>The gap between those two images — autonomy as frontier science and autonomy as a service quietly propped up by Task Rabbit–style labor — matters because Waymo has become the industry's bellwether. Investors, regulators, and rival companies from Cruise's ashes to Tesla's robotaxi ambitions all look to Waymo's numbers as proof that driverless transportation has graduated from demo to business. Every mile Waymo logs without incident gets cited in arguments for looser regulation elsewhere; every awkward human patch gets cited by skeptics who think the industry is further from \"full self-driving\" than its marketing suggests.</p>\n\n<p>For riders, the practical stakes are modest: a door that doesn't latch, a car that waits an extra beat at a terminal curb while some unseen test runs in the background. But for the broader robotics and AI industries, the stakes are about trust and disclosure. Companies building autonomous systems have leaned on the public's willingness to believe the human is gone from the loop. What these two stories suggest is not that Waymo is faking it, but that the last mile of removing people from the system is proving stubborn — populated by gig workers closing doors and engineers watching airport footage, the unglamorous labor that keeps the illusion of total autonomy running smoothly just behind the curtain.</p>",
+    "slug": "waymo-s-quiet-human-backstage-comes-into-view-74b201"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTW5oV2dxLVhaWTRrUk1rOXZGZzltdldOeUs4QmJTSG9DM0ZJS1JhNW1MeXJwX1J2R1VwZk9MUmI0c19tb2N1bUpqRVRtU3BKMmhoR3FCMmVST2l2QjFfbkdvMXJZZV93dzljRHUxUDdZLS1Xam9pX0d3ZGhvTTZHMzJPRQ?oc=5",
+    "title": "Tesla reveals early Robotaxi charging strategy, showing scrappy DNA",
+    "source": "Teslarati",
+    "published": "Mon, 05 Oct 2026 18:33:45 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla disclosed its charging infrastructure plan for the Robotaxi, emphasizing pragmatic engineering over polished vision.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "charging infrastructure"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN2psN2lPUjFUVFRyT3ViTjZPeHliczVYcWNFU1p0bXIxUDZyTmdxU3lwZDJhb21kbGJIVkg1VlJzMXEyQkpFdDhURXd2MXpxWVk4T2tGei05ckxTeVVxX2NCNkJ1OU50SUtLQl9TMTNwMGhkNFhSNVZvWF8xXzNYSnFDejMtRU5ZaUNjUk5NTko2S3h6bFgxX3BycmVRZk5vekI5ak5rQ2VNaHozMzMxU0J6cTEwYldiUFVOZFBjODRyYm8?oc=5",
+    "title": "Robotaxi reality check: Gig workers get paid to close Waymo doors",
+    "source": "USA Today",
+    "published": "Mon, 05 Oct 2026 17:26:02 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo is paying gig workers to physically close doors on its robotaxis, exposing a gap between its autonomous-driving claims and real-world operation.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "labor",
+      "automation"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXBJaGpoMkY5Rm1MYm5RRDVEb2VjRF9pelRhUENLSlV4c3BNNHdGT0p5elVDREI0WkxnOEVUVGZCb3dsdVZfLUlocDdXNGxsWmFYTVRNckYxd2taa3FQQTJEd3d4ZkFJSkFOcWFQcUF6WW1iREtYSmpPUDFuVnFGeVN2cHJJVFZ4aDM0QVlZRGpfZXR6UjljQndsSjRqM1h4Z3pScFlfU3NIMWpQd0dHa3c2T1E?oc=5",
+    "title": "Kraken and Saab UK develop pioneering autonomous ‘drone seeker’ vessel",
+    "source": "navalnews.com",
+    "published": "Mon, 05 Oct 2026 15:08:45 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Kraken Robotics and Saab UK have built an autonomous surface vessel designed to detect and intercept hostile drones at sea.",
+    "companies": [
+      "Kraken Robotics",
+      "Saab UK"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "maritime",
+      "drone defense",
+      "unmanned surface vessel"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRbV8xS1lzYmNEMHB0ekVGaU5IR0JCaFVSa1laekE0M19OZWJkQ1Rod3paV0RNNmxXZWl6Ni12REhqT21BU0tzWU9INHk5R3VqYlhvOTlNamFub2hWbXAtS3FkMzNmS1pGNkVMZ2pBWVYtWGZDR2c?oc=5",
+    "title": "Northrop Grumman YFQ-48A Talon Blue completes first autonomous flight",
+    "source": "qz.com",
+    "published": "Mon, 05 Oct 2026 20:31:59 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Northrop Grumman's YFQ-48A Talon Blue autonomous drone completed its first flight, marking progress on the company's efforts in uncrewed aircraft development.",
+    "companies": [
+      "Northrop Grumman"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "uncrewed aircraft"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVTZUbHYwVEpJQXpuUU5XUnpXaWNNNFhuWDJoQWNwZzZfdUxSZU90RE9TTnI5ay1DbnBGMWw0VXJ0NlpFUzZ2WDNpWnNkWXJ0RWJWSVl4UUJSeTVOOXVFTWVQeDhXS3FhcXZIUGZKTGdON3FzaVp1S2YyOUN1dkRIOFhYTkpmNzNjb0FuZEIxS3QxQUVMOEtsVksxeGtjbUZMVjRpclZTcEpMamc0SjBERVpxNnVhT2RBckxXa0pMQ3JoWjZFWnc?oc=5",
+    "title": "Saab UK and Kraken collaborate on pioneering autonomous ‘drone seeker’ vessel",
+    "source": "Saab",
+    "published": "Mon, 05 Oct 2026 12:16:52 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab UK and Kraken have partnered to develop an autonomous vessel designed to detect and neutralize drones at sea.",
+    "companies": [
+      "Saab UK",
+      "Kraken"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous vessels",
+      "drone detection",
+      "maritime autonomy",
+      "counter-drone"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak95SFh6bS10c2x0STF0b3pwelZUMzJtdEM4NUxPRVpHYTlSMFo1d29RNktUdHNGcFdFcGJpYVN3VU5fU1hRcFhBd1lmM0pXUFhyUnpBWGo1Z0I0d3Mzaml4ay1xVjZsaWl3LTVLWkhuWHlyejRmU3BVR29WaXpxTVotSzU0eGhXczJNWHhvQ0xoYmxtV2hKTQ?oc=5",
+    "title": "Northrop logs first flight for self-funded drone wingman",
+    "source": "breakingdefense.com",
+    "published": "Mon, 05 Oct 2026 17:54:21 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Northrop Grumman achieved first flight of its self-funded autonomous drone wingman, a prototype designed to operate alongside manned fighter jets.",
+    "companies": [
+      "Northrop Grumman"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "military aviation",
+      "unmanned systems",
+      "drone wingman"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1FNNVFEY0VyMWVrenBMWE1YdWo4SndFWGREN3d6aFlScWU2UXlFc2tuTGhmZThwb2RvYWR0ME5wWFNnMFJfV3lqenMwX19ucnRUWDVuaHZON0FMcnNIaG9ETlhlR3Y2VUR3TTVfTEUwVEcwMElxTUhhZWRTSnlOYVpjV3ZQanlpT3N5WjNnaWp2Y1NNemN0UHB5TksyenVJQlF6M0F1RGJEREtKZFJFUjN1T3NCYklqeDhF?oc=5",
+    "title": "Saab and Kraken trial autonomous vessel for maritime drone detection",
+    "source": "IOT Insider",
+    "published": "Mon, 05 Oct 2026 10:20:14 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab and Kraken have trialed an autonomous vessel equipped with maritime drone-detection capabilities.",
+    "companies": [
+      "Saab",
+      "Kraken"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous vessels",
+      "maritime",
+      "drone detection"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjA3WmtKLTk4UkhRSHBZT0g1RVRPdm1BcEFReVByUEp5T01jV2NfSDVXbl9ZLWVsbHZXRXlSSUhwbWJFT2Ytdmp1SGVKei04aVBFanZ1dE1sZTlzVU1OYW5SRzBZTmhTUVdoSlp5V2xEbVpnZENrNy1QZEYzSGV1cGxJS0hhdkktYjVNTmtyOA?oc=5",
+    "title": "Northrop’s Talon Blue Drone Wingman Makes First Autonomous Flight",
+    "source": "The SOFX Report",
+    "published": "Mon, 05 Oct 2026 03:57:55 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Northrop Grumman's Talon Blue autonomous wingman drone completed its first flight, advancing the company's push into uncrewed combat aircraft.",
+    "companies": [
+      "Northrop Grumman"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous flight",
+      "drone",
+      "wingman",
+      "uncrewed aircraft"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GeG54UWJnVFFud09Iby1vTFpmVHZVWnNZLXUzTGJrZXNLMzBGU0hqeTRoeFlGNU9oRGxNcjN2T2dVZW9acFhzNzZUdXZnLWs3UWc2WDdJWXlTc3hTVTVaNUQzbEVVdkNBeUtxUWVRYVl4UEotcnc?oc=5",
+    "title": "Autonomous drone inspects operating Rødsand 2 turbines using cameras and thermal imaging",
+    "source": "Energies Media",
+    "published": "Sun, 04 Oct 2026 19:40:33 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous drone equipped with thermal imaging has begun inspecting wind turbines at the Rødsand 2 offshore wind farm in Denmark.",
+    "companies": [
+      "Rødsand 2"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "wind energy",
+      "infrastructure inspection",
+      "thermal imaging"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVBOX2l1MmdnN0dJTk1HMUJYbWJmYjZxT01vZlhvX2N3cTEyT3MwU0lKTGhkb0dJVi1zcUhobDI2cGJEckp1NXo4LUVDV1Fnc25rdWZXdVdxVDNZUTJOeng1TFpuLXFHMVVqeGJkTUJSMDlXRzMxWkJYN0xVLTZOaGlWSHJPVkRkTGRoQWVmdGtQY3pQZnJGZHVrd3Z1VHNWakhXNlBkTzlxTEVFMENvZ0J1RmZrY3E5WkF3S1NJQQ?oc=5",
+    "title": "Saab, Kraken Develop Autonomous Maritime 'Drone Seeker' Vessel Prototype",
+    "source": "marketscreener.com",
+    "published": "Mon, 05 Oct 2026 08:48:19 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab and Kraken have built a prototype autonomous vessel designed to detect and intercept maritime drones.",
+    "companies": [
+      "Saab",
+      "Kraken"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "maritime",
+      "drone detection",
+      "vessel"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTjNmTW9zWTBTZVU4b1lkSjU4d3NJd0RXUml1R0VvVWJSbTNIMkdqMmJlVEppNmd6WUQxeW9rZHFwbERpRUY5YmRjSzAwdGdael9XeHZwOHFlcFZha3l6SG1ZMWlQeGd4R1dNY3lqNkNwamc3SUxIQjdvdUFPVkUwcDAyWHBINW5kU3A3RWVQTzFPRnk3X21Oa3AtVS1tLTV6cG15R1MzYlRVRmMySjVTNWtBUE9JcnMzSlZaX1FieGR5TFVCSTFWeEdSQnpzNlNUSDVTWkVRRHRZdm1MNmdZZW5RMmVmNHlnenVVUg?oc=5",
+    "title": "Saab UK and Kraken integrate Giraffe 1X radar on autonomous vessel to provide early warning of drone threats to ships and ports",
+    "source": "Defence Industry Europe",
+    "published": "Mon, 05 Oct 2026 11:46:12 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab UK and Kraken have integrated a Giraffe 1X radar system onto an autonomous vessel designed to detect incoming drone threats to maritime infrastructure.",
+    "companies": [
+      "Saab UK",
+      "Kraken"
+    ],
+    "people": [],
+    "themes": [
+      "drone detection",
+      "maritime security",
+      "autonomous vessels",
+      "radar",
+      "counter-UAS"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1NnN0eVVXZnFfLVJRWmh1N2NHWW9HNzBOSVRlWnFyMG1aRGVFNG5LVW91TWVERXQwRzVKLWNOcS1jVHJoQ0RYbkRhbWVpdEtNLVVDWFVMVTBIYW1nOEZoaVk4SzZWT25tWHYtdkFKZTZLV20xVmpuZktSS1ctSHc?oc=5",
+    "title": "A brain implant you could get with just a shot in your arm",
+    "source": "Tech Brew",
+    "published": "Mon, 05 Oct 2026 18:06:58 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers have developed a minimally invasive brain-computer interface deliverable by injection rather than surgery, potentially broadening access to neural implant technology.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "minimally invasive",
+      "injection-based delivery"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wing.com/news/wing-walmart-new-metros-nations-largest-drone-delivery-network",
+    "title": "Wing and Walmart name new metros to expand the nation's largest drone delivery network",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing and Walmart are expanding drone delivery to Denver and Seattle in 2027, reaching nearly twenty major U.S. metros and over forty million potential customers.",
+    "companies": [
+      "Wing",
+      "Walmart"
+    ],
+    "people": [
+      "Heather Rivera",
+      "Greg Cathey"
+    ],
+    "themes": [
+      "drone delivery",
+      "expansion",
+      "logistics",
+      "residential delivery"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://percepto.com/percepto-launches-next-generation-inspection-intelligence-for-energy-infrastructure/",
+    "title": "Percepto Pushes Autonomous Drones Deeper Into Energy Infrastructure Inspection",
+    "source": "Percepto",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Percepto rolled out a next-generation inspection platform that pairs autonomous drone flight with AI asset analysis, letting utilities expand inspection coverage without hiring more field crews. The same week, the company's autonomous optical gas imaging drones earned EPA approval as an alternative test method under Subpart OOOOa and OOOOb, meaning oil-and-gas operators can now use Percepto's drones for methane compliance checks instead of sending workers into the field. Together the moves position Percepto as a go-to automation layer for an industry under growing regulatory and cost pressure.",
+    "companies": [
+      "Percepto"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous inspection",
+      "energy infrastructure",
+      "asset intelligence",
+      "drone",
+      "autonomous",
+      "methane detection",
+      "regulatory compliance",
+      "oil and gas"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://percepto.com/percepto-launches-next-generation-inspection-intelligence-for-energy-infrastructure/",
+        "title": "Percepto Pushes Autonomous Drones Deeper Into Energy Infrastructure Inspection",
+        "source": "Percepto"
+      },
+      {
+        "url": "https://percepto.com/autonomous-ogi-drones-now-alternative-test-method-for-epa-subpart-ooooa-oooob/",
+        "title": "Autonomous OGI Drones now Alternative Test Method for EPA Subpart OOOOa, OOOOb",
+        "source": "Percepto"
+      }
+    ],
+    "body": "<p>Percepto, the Israeli-American drone-automation company, announced two developments this week that together tighten its grip on the unglamorous but increasingly lucrative business of watching energy infrastructure so humans don't have to. First, it launched a next-generation inspection platform that pairs autonomous drone flight with AI-driven asset analysis, pitched squarely at utilities that want to inspect more substations, transformers, and transmission corridors without adding headcount. Second, and more consequentially, the U.S. Environmental Protection Agency approved Percepto's autonomous optical gas imaging drones as an alternative test method under Subpart OOOOa and OOOOb — the federal rules governing methane leak detection at oil-and-gas facilities. That approval means operators can now send a drone instead of a technician to satisfy compliance checks that have, until now, required a person walking the site with a handheld camera.</p>\n\n<p>The timing is not incidental. Both moves land as energy companies face a familiar squeeze: aging infrastructure that needs more frequent inspection, a labor market that has made it harder to keep skilled field crews fully staffed, and regulators who are no longer content with occasional, manual spot-checks. Percepto's answer to all three is the same drone sitting in a box on-site, launching itself on a schedule, flying a programmed route, and handing the resulting imagery to software that flags anomalies — a hot bolt, a leaking valve, a plume of methane invisible to the naked eye but not to an infrared sensor.</p>\n\n<p>The EPA approval is the sharper of the two headlines, because it changes the economics of compliance rather than just the convenience of maintenance. Methane monitoring under OOOOa and OOOOb has traditionally meant dispatching workers to remote well pads, often in difficult terrain, to perform optical gas imaging surveys by hand. Letting a drone do that job as an officially sanctioned \"alternative test method\" removes both a safety exposure and a recurring labor cost from operators' books, at a moment when methane rules are tightening and enforcement scrutiny is rising. For an industry that has spent the last few years lobbying over the cost of emissions compliance, a federally blessed automated option is not a minor convenience — it is a lever on operating expense.</p>\n\n<p>For the robotics industry more broadly, the news is a data point in a familiar pattern: autonomy earns its keep not through spectacle but through regulatory plumbing. Warehouse robots needed insurers to sign off; self-driving cars needed state DMVs. Now inspection drones need the EPA, and Percepto appears to have gotten there first in this particular corner of energy infrastructure. That kind of approval is sticky — competitors will need their own sign-off to match it, and utilities and oil-and-gas operators tend to be conservative buyers who favor whichever vendor already cleared the regulatory bar. If methane and asset inspection become default drone jobs rather than novelties, the quieter effect will be felt by the field technicians and inspection contractors whose work increasingly consists of reviewing a dashboard rather than driving to a well pad.</p>",
+    "slug": "percepto-pushes-autonomous-drones-deeper-into-energy-infrast-e879c5"
+  },
+  {
+    "url": "https://percepto.com/autonomous-ogi-drones-now-alternative-test-method-for-epa-subpart-ooooa-oooob/",
+    "title": "Autonomous OGI Drones now Alternative Test Method for EPA Subpart OOOOa, OOOOb",
+    "source": "Percepto",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Percepto's autonomous OGI drone system wins EPA approval as an alternative test method for methane emissions compliance, eliminating the need for field crews on oil-and-gas sites.",
+    "companies": [
+      "Percepto"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "methane detection",
+      "regulatory compliance",
+      "oil and gas"
+    ],
+    "first_seen": "2026-10-05T21:47:59",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
     "sources": [],
     "body": "",
     "slug": ""
