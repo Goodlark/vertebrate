@@ -153,3 +153,19 @@ def test_run_build_renders_without_api_key(tmp_path):
     monitor.run_build(datetime(2026, 7, 15), out_dir=str(out_dir), data_dir=str(data_dir))
     assert (out_dir / "index.html").exists()
     assert (out_dir / "human-touch" / "index.html").exists()
+
+
+def test_weekly_week_survives_a_cron_slipping_past_midnight():
+    """The Sunday-evening cron is routinely delayed by GitHub. Once a run lands
+    after midnight it is already Monday — the NEXT ISO week, which has no stories
+    yet — and the edition silently publishes nothing. The weekly must always cover
+    the week that just ended, however late the runner picks the job up."""
+    intended = datetime(2026, 10, 4, 23, 0)   # Sunday 23:00 UTC, as scheduled
+    slipped = datetime(2026, 10, 5, 1, 20)    # what actually happened: Monday 01:20 UTC
+    assert monitor.weekly_week_for(intended) == "2026-W40"
+    assert monitor.weekly_week_for(slipped) == "2026-W40"
+
+
+def test_weekly_week_is_stable_for_a_manual_midweek_run():
+    # Running it by hand on a Wednesday should still mean "this week".
+    assert monitor.weekly_week_for(datetime(2026, 10, 7, 9, 0)) == "2026-W41"

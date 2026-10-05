@@ -101,6 +101,20 @@ def run_daily(now: datetime, topics: list, client, out_dir: str = "docs",
     return summary
 
 
+# The weekly edition covers the week that just ended. GitHub routinely delays
+# scheduled jobs, and once a run slips past midnight UTC it is already Monday —
+# the NEXT ISO week, which has no stories yet — so the edition silently published
+# nothing (2026-W35..W40 were lost exactly this way). Anchor the week to 12h
+# before the run, so a cron that slips into Monday morning still writes the week
+# it was scheduled for.
+WEEKLY_SLIP_GUARD = timedelta(hours=12)
+
+
+def weekly_week_for(now: datetime) -> str:
+    """ISO week the weekly edition should cover, tolerant of a delayed cron."""
+    return store.iso_week(now - WEEKLY_SLIP_GUARD)
+
+
 def run_weekly(now: datetime, week: str, client, out_dir: str = "docs",
                data_dir: str = "data") -> dict:
     mentions_path, weeks_path = _paths(data_dir)
@@ -363,7 +377,12 @@ def main(argv=None) -> int:
     elif args.captions:
         run_captions(now, client)
     elif args.weekly:
-        run_weekly(now, args.week or store.iso_week(now), client)
+        result = run_weekly(now, args.week or weekly_week_for(now), client)
+        if not result.get("mentions"):
+            log.error("Weekly %s wrote nothing — no stories in that week. Failing "
+                      "loudly so a lost edition never looks like a green run.",
+                      result.get("week"))
+            return 1
     else:
         run_daily(now, topics, client)
     return 0

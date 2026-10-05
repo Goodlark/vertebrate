@@ -2,7 +2,10 @@ name: Weekly edition
 
 on:
   schedule:
-    - cron: "0 23 * * 0"     # Sunday 23:00 UTC (still Sunday afternoon PT) — end of the ISO week
+    - cron: "0 20 * * 0"     # Sunday 20:00 UTC (= 13:00 PT, still Sunday) — end of the ISO week.
+                             # Deliberately NOT 23:00: GitHub delays scheduled jobs, and a slip past
+                             # midnight UTC lands in the next, empty ISO week. monitor.weekly_week_for
+                             # also guards this, but the earlier slot keeps the slack generous.
   workflow_dispatch: {}       # also runnable by hand from the Actions tab
 
 permissions:
