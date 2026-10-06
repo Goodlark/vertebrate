@@ -70700,7 +70700,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70779,7 +70779,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -70941,7 +70941,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71075,7 +71075,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71143,7 +71143,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71223,7 +71223,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -71455,7 +71455,7 @@
     "first_seen": "2026-09-29T19:45:17",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72089,7 +72089,7 @@
     "first_seen": "2026-09-30T19:46:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72142,7 +72142,7 @@
     "first_seen": "2026-09-30T19:46:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72513,7 +72513,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72695,7 +72695,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73864,7 +73864,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": "Thirteen degrees of freedom gives Atlas the dexterity to grip tools and objects designed for human hands, closing the gap between locomotion — which humanoids have mostly solved — and manipulation, which they mostly haven't. It's a direct challenge to Optimus and Figure, whose hands remain comparatively crude.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74298,7 +74298,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75652,7 +75652,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -76128,7 +76128,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -76247,7 +76247,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -76621,8 +76621,952 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
+    "duplicate": true,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GaGUxQ09ENjJWZjRsdTVCNnNKTnpvOFFMZ21hUHAzbTFfc3NtSnhUZVVnV055bjE4dmp1c1ZUUXZ6QlhIX180RktsclM2WW9mdTloeDRYa2R3Qm9MMDYwNFFMZ2s4V3dUZ0xPY2tVWEF5cUxmSGhPSjdR?oc=5",
+    "title": "Figure melts retired F.02 humanoid robot fleet ...",
+    "source": "eeNews Europe",
+    "published": "Tue, 06 Oct 2026 17:28:29 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Figure is scrapping its older F.02 humanoid robots to recycle materials for next-generation models.",
+    "companies": [
+      "Figure"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot recycling"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTNpOURjM2FWYl9ZQVgwMTY1THBpWWQ3dFNrWDdVM0draG1ITmZwVVhmVXhZUE5tejAtSS01aUFDTm94TkpIZGlRa1ZodnUwT2pQTmdLdTFPOTNvSWZwaXVGOS1KNzNzdFQ0RDkzUEhrNTJJenUyc1BpRkZZM3AzX0FDbjlwanJ3eHlNMlA3S3A?oc=5",
+    "title": "New humanoid robot built in five months remotely handles bombs, hazardous energy jobs",
+    "source": "Interesting Engineering",
+    "published": "Tue, 06 Oct 2026 18:38:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A newly built humanoid robot designed for bomb disposal and hazardous energy work was developed in five months and operated remotely.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "hazardous work",
+      "remote operation",
+      "bomb disposal"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2cxNEtMTnZoQlhCcWJra2ZNZWctczhkUXRHdWw1UVNOWURJdExyZWtkREZGamhDYjhxb0ZRX2dqa2V3NTV3VzAzRjhPRjFjOE0zcm5NNjdtNXB1cWJNR01SbVZJUDJvaGtwTXdXNnJpNVdVeTJsdTNhSmRNUjZxMQ?oc=5",
+    "title": "Minerva Humanoids raises $10M for robots that do bomb disposal and rig work",
+    "source": "The Next Web",
+    "published": "Tue, 06 Oct 2026 14:07:37 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Minerva Humanoids, a startup building humanoid robots for hazardous work, raised $10 million in funding to accelerate development of machines designed for bomb disposal and oil-rig operations.",
+    "companies": [
+      "Minerva Humanoids"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "bomb disposal",
+      "industrial robotics"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMElZY2RmeW03aGxPckJSRkpqcUktQk9iNWlzcHNIMmpCN3FJazVLSGZaSDRWN29MSXZBUVhVNGNKSVRweGo1RS1nWXp4eHJLTlBETlRjYlZyVkh3ODBKRXN4R2ZOTko5QkE1RnRPdG9jem1Meml0SERpSXVNbDQ4TW9RVXVDTG1nZFg1Z2dEOGw2WVRqVGNsazFOMHRzY2M2X0Y5ZTVJdW5SeVdyS1E?oc=5",
+    "title": "Boston Dynamics Leans Into AI, From the C-Suite to the Factory Floor",
+    "source": "Design World",
+    "published": "Tue, 06 Oct 2026 19:34:01 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Boston Dynamics named Rohit Prasad, the Amazon executive who built Alexa, as its new CEO, signaling a shift toward merging robotics with large-scale AI systems. The move comes alongside a parallel bet from parent company Hyundai, which is investing with Boston Dynamics in AI-powered training systems meant to get robots onto manufacturing lines faster.",
+    "companies": [
+      "Hyundai",
+      "Boston Dynamics",
+      "Amazon",
+      "Raytheon BBN Technologies"
+    ],
+    "people": [
+      "Rohit Prasad"
+    ],
+    "themes": [
+      "physical AI",
+      "manufacturing",
+      "robot training",
+      "deployment",
+      "humanoid",
+      "commercialization",
+      "foundation models",
+      "robotics"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMElZY2RmeW03aGxPckJSRkpqcUktQk9iNWlzcHNIMmpCN3FJazVLSGZaSDRWN29MSXZBUVhVNGNKSVRweGo1RS1nWXp4eHJLTlBETlRjYlZyVkh3ODBKRXN4R2ZOTko5QkE1RnRPdG9jem1Meml0SERpSXVNbDQ4TW9RVXVDTG1nZFg1Z2dEOGw2WVRqVGNsazFOMHRzY2M2X0Y5ZTVJdW5SeVdyS1E?oc=5",
+        "title": "Boston Dynamics Leans Into AI, From the C-Suite to the Factory Floor",
+        "source": "Design World"
+      },
+      {
+        "url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
+        "title": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
+        "source": "Boston Dynamics"
+      }
+    ],
+    "body": "<p>Boston Dynamics has named Rohit Prasad, the Amazon executive who spent a decade building Alexa into a fixture of American living rooms, as its new chief executive, the Waltham, Massachusetts-based robotics company announced. The appointment arrives alongside a separate but related commitment from parent company Hyundai: a joint investment with Boston Dynamics in AI-powered training systems designed to get robots working on factory floors faster, according to Design World.</p>\n\n<p>Taken together, the two moves describe a company trying to shed its old identity. For years, Boston Dynamics was best known for videos of Atlas doing backflips and Spot trotting over rubble — viral, slightly eerie demonstrations of mechanical dexterity that rarely translated into paychecks. Hyundai, which bought the company from SoftBank in 2021 for roughly $1.1 billion, has been patient. But patience in robotics has a shelf life, and the installation of an AI executive at the top, rather than another engineer steeped in actuators and hydraulics, suggests Hyundai wants the leap from spectacle to product line accelerated.</p>\n\n<p>Prasad's background is instructive. Alexa succeeded not because of any single breakthrough but because Amazon relentlessly trained it on enormous volumes of real-world interaction, iterating in public. Applying that same logic to robotics — treating a warehouse or an assembly line the way Amazon treated a living room, as a vast, messy source of training data — is the implicit bet. Robots that can only perform narrow, pre-programmed tasks have limited use on a factory floor that changes week to week. Robots that can be trained quickly, the way a large language model is fine-tuned rather than rebuilt, are a different proposition entirely.</p>\n\n<p>That is also the logic behind the Hyundai investment in AI-powered training systems: the goal is not a flashier robot but a faster, cheaper path from robot to revenue. Manufacturing has long been robotics' most lucrative market and its most conservative one — plant managers do not want science projects, they want machines that show up Monday morning and do the job reliably. If Boston Dynamics and Hyundai can compress the time it takes to adapt a humanoid or quadruped to a new task, from months of custom programming to something closer to an afternoon of supervised training, it would matter well beyond one company's balance sheet.</p>\n\n<p>The broader industry has been circling this same idea — that the real bottleneck in robotics is not hardware but the software layer that teaches hardware to generalize. Competitors from Figure to Agility Robotics are making similar bets on foundation models for physical tasks. Boston Dynamics, with Hyundai's manufacturing footprint and now an AI executive's instincts, is positioning itself to turn a famous name in robotic acrobatics into something more mundane and more consequential: a supplier of workers that happen to be machines, showing up on the line in cities with auto plants and logistics hubs long before any of them attempt a backflip for the cameras.</p>",
+    "slug": "boston-dynamics-leans-into-ai-from-the-c-suite-to-the-factor-03b80a"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBYZzhQanlmVXk4bVN3cG8yckF0YXlJV1F3SmFDcWdtWlNHakFjMzdTRHo3b3V1dGVuaGtDWDh4VldHdkRucU92VGxaMkdIemltcHo5OEJHNVd3LXE3WkdNRWY2QlFPT1J0bkd6QVZnaE5HRFN2cVlCUnpsRmx2bFQtN0FoM3ZxaVkzeDZiUnFsYV9ZOW55T1Nn?oc=5",
+    "title": "These Robots Built BMWs, Then Hurled Themselves Into Molten Steel",
+    "source": "The Drive",
+    "published": "Tue, 06 Oct 2026 16:23:20 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "BMW's manufacturing robots, once core to the automaker's production line, were destroyed in a scrapyard ceremony that captured the end of an industrial era.",
+    "companies": [
+      "BMW"
+    ],
+    "people": [],
+    "themes": [
+      "manufacturing",
+      "industrial automation",
+      "end-of-life robotics"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlJpbjVxeWFab20zQUIzUndpdjdBRWh3SDJ4MWFmX2xlZEc0SXlycDJXejBpNGR6M0J1d09vMHpKN3N1ZC1kS2dZUEtraWt6ejdGUExJUXB2ZTlXRlgyNWJoaDE1VUNyMjhjb1ZnR3g1VmRXTWJhN1R1RDFBY042ZElCZVNEVTZ5OWt5cjFaQTFPZW5YbG1uMlRkRlRIcVlkazBqU21qdWdGdVhJU1c4QlFrLWE?oc=5",
+    "title": "Agility Robotics to Livestream Analyst & Investor Day Today",
+    "source": "Business Wire",
+    "published": "Tue, 06 Oct 2026 11:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Agility Robotics is holding an analyst and investor day, a corporate event rather than a product or business development announcement.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid robotics"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjRHQUVvWWIyaUFjNW4zQlpYV2t0ektWMTFtNFkxZ21mRnkwMEVnRnRJZkd2dDVLanVjYzlRMXFRSlBKd3V4UmpHQURpQnpVN2JpY3JyTm5wSUNUUWdyY2txeGhSQUJqblFDWnBjX3VlaE03anRJWndOaUhLWV9vZVJyOWo0X244QXNB?oc=5",
+    "title": "Kawasaki bets on physical AI to make Kaleido humanoid fully autonomous",
+    "source": "Interesting Engineering",
+    "published": "Tue, 06 Oct 2026 13:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Kawasaki Heavy Industries is integrating physical AI into its Kaleido humanoid robot to enable full autonomy without human teleoperators.",
+    "companies": [
+      "Kawasaki Heavy Industries"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "autonomy"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHVueWNORkR6UmcyUkY1ME1nVWdFTkI4T29mM1BwUmpfTGYwZHhzdXR0MVFwVVdVSEFXaEtMc18wa1plMnltcUc4eVVONlJJWkF1RkhZbGtubHdKWHdXdDF3NGkyZ2JaM05FWkw2d3E4YWNCNzFWSlNXVnp0eEJvWlo2YVJsb0JOcUFIcFJFWXo5cmhj?oc=5",
+    "title": "Minerva Humanoids Emerges from Stealth with $10M Led by GC",
+    "source": "Tectonic Defense",
+    "published": "Tue, 06 Oct 2026 14:36:32 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Minerva Humanoids, a startup building embodied AI robots, announced a $10 million seed round led by GC after emerging from stealth.",
+    "companies": [
+      "Minerva Humanoids",
+      "GC"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "embodied AI"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJCN3FTeXhyUHBSQWJpRHdjSk1tVGhDUXctbEN4cnRhNFZ2T0oxT04wZHA1UnZJT002OENsTFQyZjFXZ0ZjUVhfSHBuMUVaM0d2NndCQWs4Um9WVEt1ZlhwRjQ5SldfaV9JaFRuNkxOZUdtMlh5a015aEFpbEc4Z1c3Q0RrMzVMbEhTT3lB?oc=5",
+    "title": "Five things that are keeping Tesla Full Self-Driving supervised",
+    "source": "Teslarati",
+    "published": "Tue, 06 Oct 2026 18:55:37 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Teslarati catalogs five technical and regulatory obstacles that keep Tesla's Full Self-Driving system from operating without a human supervisor at the wheel.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "full self-driving",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkpWdS12RloteW4zRUw4Tk9lWGJraDNVWEhLbkM2eG1zRlRjNTNNaVpnUDFwalJHQ2FmZjc2MmwzWi12dlZwTWoxeEcwWlNJQlZ4ejNWVkxuVkhLSmtuNV9NVHlrdVNpYWJVMlZGbGxYcGdZY3czZENXZ0dHVC1EYnNVV0Z6clN1Y3pXMzQtZ9IBlAFBVV95cUxQRUoyeFNRZERYbk96enQzdWZfMEhEZHhtYXNFNkhKa1I0Y1NDd1dtNHRHd3JlbkVFQ0pQYzdRZGxfTDEtT0dIT2tvcXVRT2Itb3Q3b1RvQjI2clA5U0lrampWQjdESmVwYXpHQWc5cVR0akE0WVpkRjJyM1BnSDZSaXBqb2FqemxyN2x5RUZJdk5MNUZI?oc=5",
+    "title": "Robotaxi accidents rise as more vehicles take over streets",
+    "source": "NewsNation",
+    "published": "Tue, 06 Oct 2026 18:02:14 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Accident rates are climbing as robotaxis expand their presence on city streets, raising questions about the safety readiness of autonomous vehicle fleets.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2pKeTkxY1pGWHBoSTRnX3dSc0hoRXZpQmFxeUVqdWxRdzJDOXY0STZJa1pFQmdMSHg5cV95TWM3SmFGRUlGTHhhWWNySnBFSlNGLUZxR05KMXhVTHFxMU8wcnVSRDRZUTloZUtTQkFRUFlET2VhM2F5YlJFckVFdG9TcVd4SknSAYwBQVVfeXFMT3c5WG40cHNncm5yWDdLWDRjdkNnZENUU1l3WFd1SkFPRUM1eXdfcHgyNS1Ja3c0MThoTDVIbWVmUTVFd3loZlVtcTVfVGFkREpVbEU3Q3llVEtEeUdPaFdCQV9sVHNPNEVzV3dTZUFtLTlCb1BwSzRPNm1yX2owODY2WmNocGt5REFqMVk?oc=5",
+    "title": "Local unions to rally against proposed DC 'robotaxi' bill",
+    "source": "FOX 5 DC",
+    "published": "Tue, 06 Oct 2026 11:35:14 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Washington-area unions plan a protest against a proposed District robotaxi bill, staging labor's opening move against driverless deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "labor"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGJMVHo5dEpzODdEeEVjQ3dNYWdnYWpMeC0zMjJ5RzcyUHBWU2ZvdkJWX2xWUHlZclpLaFZQa1pGYm80MU5adFVDMGNmWF94MU04QWs5SWV1dHJUTzYteGo4YzNZZ3F4c05sQXNpc3pka05mc1ZXU2EtUUhocE9CQ2FHbGpxYnpTOXNtS18wQlEwa2FJei13VnRn?oc=5",
+    "title": "Waymo starts driverless rides in Detroit; public service planned",
+    "source": "Detroit Free Press",
+    "published": "Tue, 06 Oct 2026 19:27:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launched driverless ride-hailing in Detroit, with plans to expand to public transit service.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUjY0OF9RMTR2Mlo0aVlHN3FoaDN5YWJFNkdnQkl3SVlDRjR5a2RXZGxuNnlTMGpwaXFmSnRSM3NfX3BRYm9XeFVUNnJHWVpCRXI1NllZakFIdzZmamtXcnJiNjZsMDV5TTN1a1hSbGJjLWxpWklSWmFocG0yNUVSNTItX2VLTTk1c2QzLS11Q1dnWDR3VDBNNElSQzdzcUc4Y01xTlNJTFFERW5DRGlXSC1ib0gtRmRwdmhQZUk4T0FMZEl2TUpoRTVhMFRqVDgwb2tPWlJsbTJrSHRWZ2o2ZVlmSQ?oc=5",
+    "title": "Tesla's self-driving 'Not ready for prime time,' safety group says",
+    "source": "The Detroit News",
+    "published": "Tue, 06 Oct 2026 14:32:48 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A safety advocacy group argues that Tesla's autonomous-driving system lacks adequate safety measures for widespread deployment.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXZlQXB3SER3a055RlBXeDZEMENMUzdLbXQ4bkV4bWVlTU40c2dScF90SlZoY2Y4bUl2ZjJDQkNFTkIxZVczT05QdFVhbEZVcEFjVGNxVWNxZ2ZjcXNkYzllZ01yMEhvaHpKUTZSdzA1TnVCVjNvVm1vR051T1JUT1BhVExIdXBySFZIMjJzYWZTUGgyellmWDAyVkVnWk3SAaQBQVVfeXFMT0JicmFlb2dVRF9KUUFScURncm1wblBqdmpFUTYwT0NfUHRWSUl1b0F0cm80SndNLTh2YVlVTGdWS1AzMkFlNTZ2V3JDbWZ3T08xcWJEOFpQMzMzNDJwQ2NWUUxTYnBfcTY2TTg2UUNBNU1vTHRBTUpwb05TSUlhNUtmZExUNVVqWVA4RmNBR2taWTJEUUVCTXNwekpnLXdmb09hRjg?oc=5",
+    "title": "San Francisco restricts Waymo service during Fleet Week",
+    "source": "KRON4",
+    "published": "Tue, 06 Oct 2026 16:03:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "San Francisco has restricted Waymo driverless taxi service during the city's Fleet Week celebration.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "regulation"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
     "duplicate": false,
     "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUs5d3h4empfMDhrUFkyVWNMbUFZVWJ1cEdBQ2gtTDJlRkdSODYxN3hOaEJ3R3V5Qk5OSGx4VUVQS0t3XzFEZVpXQy1BcndZSTc4ZGJQVmsyVHl1ek9TODliNmJuV1lGd2dEV2c4YkRnTnMzeVBTUTVLaTl3NjBZTk1tTFl3bUtFS00waHFVWnhwM0ZPek9RaGwxMDZGVDViQkJBY0RORU9XblEtVkk4WGx4MFpXZHpFdW1MM2hOYnUwX1B2aGh0UE9oZU81bnIwN2drdzZHMm5BUFpr?oc=5",
+    "title": "Raleigh police consider driverless patrol cars that can stream live video, raising privacy concerns",
+    "source": "WRAL",
+    "published": "Tue, 06 Oct 2026 03:29:19 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Raleigh police are exploring driverless patrol cars with live-video capability, prompting debate over surveillance scope and public privacy.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "surveillance",
+      "law enforcement"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVRubnYtX0lCeFBzM0hSM3JNc0U4ZGZJTlRwc3RUX1Nic2JmeWw0S2c0MHozX1piRHo4TTM4c2JrenltLXVySWJqVXJNZ2lDaEFuV21idkxTWUN3Ml8xTGNjYkFWa2g3aFhEdHdhX19lYnQ4MDZ4RXI0cGhrbmNfV2x1STBIVlRGd2J2cU8tX2drSnRPWC1BS2xZOGx0bzJFaUtyb2pWdXc2di1jQlIwZFQ2YW1IUVZY?oc=5",
+    "title": "Waymo's Growing Pains: Restrictions, Safety Complaints, and Labor Backlash",
+    "source": "Inside the Magic",
+    "published": "Tue, 06 Oct 2026 18:07:48 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "As Waymo's driverless taxis spread into more American streets, resistance is spreading too. San Francisco curbed Waymo service during Fleet Week, Orlando's Inside the Magic accused the company's cars of flouting traffic laws near Universal theme park, and a Washington, D.C. union leader cautioned that the robotaxis threaten thousands of local driving jobs. Together the items sketch a familiar pattern: cities and workers grappling with a technology that keeps outpacing the rules meant to govern it.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulation",
+      "labor",
+      "job displacement",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVRubnYtX0lCeFBzM0hSM3JNc0U4ZGZJTlRwc3RUX1Nic2JmeWw0S2c0MHozX1piRHo4TTM4c2JrenltLXVySWJqVXJNZ2lDaEFuV21idkxTWUN3Ml8xTGNjYkFWa2g3aFhEdHdhX19lYnQ4MDZ4RXI0cGhrbmNfV2x1STBIVlRGd2J2cU8tX2drSnRPWC1BS2xZOGx0bzJFaUtyb2pWdXc2di1jQlIwZFQ2YW1IUVZY?oc=5",
+        "title": "Waymo's Growing Pains: Restrictions, Safety Complaints, and Labor Backlash",
+        "source": "Inside the Magic"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtTm1tcVcwRjdWT3R2ZzZ1VlBubFVvUzRiYXNGd3pXSWVwWXhXcGZaNHRmOVFmaFdHM0NMQ29vUEpFeno0NjdWNzFMWGQ3aWl2a1I5bFhVSXJ4RU1pX3fSAWNBVV95cUxPT0hUS1l2akJCNHNSaUVlVUxJRmlUQlFaTV9KUVRIMFZxMGFCc2NzaFZZd3ZDeE5wNVN6d2FCY3I4MHI3eWpDY2lSMWpOYW5yN1ZRQkhRRWxCTU9NTG9oaDROS1E?oc=5",
+        "title": "D.C. union leader: Waymo threatens thousands of driving jobs",
+        "source": "FOX 5 DC"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXZlQXB3SER3a055RlBXeDZEMENMUzdLbXQ4bkV4bWVlTU40c2dScF90SlZoY2Y4bUl2ZjJDQkNFTkIxZVczT05QdFVhbEZVcEFjVGNxVWNxZ2ZjcXNkYzllZ01yMEhvaHpKUTZSdzA1TnVCVjNvVm1vR051T1JUT1BhVExIdXBySFZIMjJzYWZTUGgyellmWDAyVkVnWk3SAaQBQVVfeXFMT0JicmFlb2dVRF9KUUFScURncm1wblBqdmpFUTYwT0NfUHRWSUl1b0F0cm80SndNLTh2YVlVTGdWS1AzMkFlNTZ2V3JDbWZ3T08xcWJEOFpQMzMzNDJwQ2NWUUxTYnBfcTY2TTg2UUNBNU1vTHRBTUpwb05TSUlhNUtmZExUNVVqWVA4RmNBR2taWTJEUUVCTXNwekpnLXdmb09hRjg?oc=5",
+        "title": "San Francisco restricts Waymo service during Fleet Week",
+        "source": "KRON4"
+      }
+    ],
+    "body": "<p>San Francisco spent last week's Fleet Week doing something it rarely does to Waymo: telling it no. City officials restricted the company's driverless taxis from parts of the waterfront during the air show and naval celebration, a crowd-control measure that also amounted to a small, symbolic rebuke of a service that has otherwise operated in the city with few formal limits. Three thousand miles away in Orlando, the enthusiast site Inside the Magic published an opinion piece accusing Waymo vehicles of flouting traffic laws near Universal's theme park gates, warning tourists to watch their step around the robotaxis. And in Washington, D.C., a union leader told FOX 5 that Waymo's expansion into the capital threatens thousands of local driving jobs.</p>\n\n<p>None of these is, on its own, a crisis for Waymo. A parade-route detour, a blog post, a labor leader's warning — these are the ordinary friction of a company scaling fast. But taken together, they trace a pattern that has followed autonomous vehicles since the first test cars rolled through Phoenix: the technology expands faster than the civic machinery built to absorb it.</p>\n\n<p>That gap matters because Waymo is no longer a novelty confined to a few sunbelt suburbs. It is now a fixture in San Francisco, Phoenix, Los Angeles, Austin, and is pushing into new cities like Orlando and Washington, each with its own traffic patterns, tourist density, and labor politics. A fender-bender near a theme park reads differently than one on a quiet residential street; a union leader's warning lands differently in a city where driving jobs are a meaningful rung on the economic ladder. Cities are discovering, case by case, that they have limited tools to shape how these services behave — Fleet Week's restriction being a rare example of a municipality asserting control, if only for a weekend.</p>\n\n<p>The labor question is the more durable one. Taxi, rideshare, and delivery driving has long served as accessible work, especially in cities like Washington, where union leaders now see an employer-less employer arriving with no negotiating table at all. Waymo doesn't bargain with a union; it doesn't have a workforce to organize. That asymmetry — a tech platform replacing jobs without the usual channels for workers to push back — is likely to recur in every city the company enters, long after any single controversy about a near-miss by a theme park fades.</p>\n\n<p>For the robotaxi industry more broadly, these frictions are a preview of the regulatory and political terrain ahead. Waymo has largely won the technical argument, racking up millions of driverless miles with a safety record it touts in every market entry. What it hasn't yet won is the harder argument — the one happening in city council chambers, union halls, and local news comment sections — about who gets to set the terms when a company's cars become part of a city's daily traffic, and part of its labor market, before anyone quite agreed to the arrangement.</p>",
+    "slug": "waymo-s-growing-pains-restrictions-safety-complaints-and-lab-90c66e"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGNldjdVaXNvYnctVnJieUszWGdzZmU3QzZMOFNCdngtQUdvZzBDeGN5dkZzaEhNUXZaSmxqbHRpNHVSSGhYNHNmNk5UUHV6R05tSHRvcUlickpLTEVEN2hCR0R2RHBjSWpDQml0NnVkT2ZUVkQ2eWI5RThIMFVSOExLblc1Ti1fMG1JX2RQVGU0LTlUekc1T2tn?oc=5",
+    "title": "WATCH: Rogue Waymo inches through red light",
+    "source": "WKMG",
+    "published": "Tue, 06 Oct 2026 15:01:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless vehicle was captured on video rolling slowly through a red light in what appears to be a safety incident.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle safety",
+      "traffic violation"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOblJFZDVoMW1kazVPZW1tLUZGLXl0Q2tVR09WNGdaYmx1aE9rNHBCRUZzQ2piMmNMS2p0X0NNRk5mdHZqc2MyaTBvNHZHUjRXSEEtaC15dnRBVElWYVJpb0duclNnOXN2ZXZ2WnJPbENVNGtYalJraF9DLUkwMVRmUQ?oc=5",
+    "title": "Einride, EASE begin daily driverless freight runs in Ohio",
+    "source": "FreightWaves",
+    "published": "Tue, 06 Oct 2026 17:07:50 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Einride and EASE have begun regular driverless freight deliveries in Ohio, marking an operational milestone for autonomous trucking.",
+    "companies": [
+      "Einride",
+      "EASE"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "freight",
+      "deployment"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFNUWGZDWTJ2eklCM0ZpaXFvMGw1bEdYNDJycW9jWGphWnhHenhjZFVvRC1fLXhzTnhWWnFlaUZsWF9qS3ZpdmhPTUNjQ1JmaGFadHY3YlZFaGhiaFA2S0t4RThKbGR5SWg5c054NDdiWlFHWWNCQTR2dWJKdmxqcy1zYk53M0E?oc=5",
+    "title": "Inside Europe’s new robotaxi service: A ride in Verne’s driverless shuttle",
+    "source": "Automotive News",
+    "published": "Tue, 06 Oct 2026 06:34:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Verne launches a driverless robotaxi service in Europe, offering rides in autonomous shuttles.",
+    "companies": [
+      "Verne"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous shuttle"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTF9laVNRWDczcHhMNnliemFQaUxMOGplSjM2dUt5OUdoSWhQeG9qdVZyQVhuNWZ2S014QkxtTUc5M01QOHRXSUVDT2pOMWljVTZtTXJiNVJlNFR2WENGVVBkdzVSTzgzc2lLZFhqZXFLdjd5Tjg0ZEM1cUtuUnlncUdqSTYtcUttOGdGcUV3aUc3Zm8?oc=5",
+    "title": "Waymo to start offering driverless rides in Detroit (GOOG:NASDAQ)",
+    "source": "Seeking Alpha",
+    "published": "Tue, 06 Oct 2026 18:45:02 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless taxi service to Detroit, its seventh U.S. city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "expansion"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUNFRktPZklsWThTcFZMY2oxYVZjLWUzT2V0VTNzRkxCaUdZclhrbFBYd0RmWGRTOGM0bW1sRXZyeHc2TmpXNG9WY3Y5eWljRVBTdE5FcEl0QTU2b1RvTUU2SkdaSngzWHYxdlhhMmpOQVczRndIaXFUaDhtUUppMUlDZjBGMVBabFExRWhST1NscURWem4tYXdWMnRmelR5aWlkeERuWkU3X1pvbmFxcV9SVmpyR1dpMVdpQmFEd0J4eVZHcVlsblZ3?oc=5",
+    "title": "Tesla to Showcase its Cybercab Robotaxi at Paris Auto Show",
+    "source": "Bloomberg.com",
+    "published": "Tue, 06 Oct 2026 16:05:13 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla will display its Cybercab robotaxi prototype at the Paris Auto Show, marking a public unveiling of its autonomous vehicle ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtTm1tcVcwRjdWT3R2ZzZ1VlBubFVvUzRiYXNGd3pXSWVwWXhXcGZaNHRmOVFmaFdHM0NMQ29vUEpFeno0NjdWNzFMWGQ3aWl2a1I5bFhVSXJ4RU1pX3fSAWNBVV95cUxPT0hUS1l2akJCNHNSaUVlVUxJRmlUQlFaTV9KUVRIMFZxMGFCc2NzaFZZd3ZDeE5wNVN6d2FCY3I4MHI3eWpDY2lSMWpOYW5yN1ZRQkhRRWxCTU9NTG9oaDROS1E?oc=5",
+    "title": "D.C. union leader: Waymo threatens thousands of driving jobs",
+    "source": "FOX 5 DC",
+    "published": "Tue, 06 Oct 2026 04:17:46 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A D.C. union leader warns that Waymo's autonomous vehicle expansion imperils thousands of driving jobs in the region.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "labor",
+      "job displacement"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdlR2dW9TS3F2eTRDSnJMVVA4SE5MVlZnWk56WWc1TUtTMGRla0k3Y3J0Y05ldGNjWEczQ2ZkbHIxUUFQUmcxdTBTZXQtSlFTTWd2enB6RFJSTjVMX3pqZi1tTzZQUHM?oc=5",
+    "title": "Tesla's self-driving system misreads speed limits, safety group says",
+    "source": "Reuters",
+    "published": "Tue, 06 Oct 2026 10:38:38 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Tesla's Full Self-Driving system fails to reliably interpret speed limit signs, according to findings by a safety advocacy group.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "computer vision"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVRlM3JlZDRlY2tLYnRmVnVERHZIdEx6LWJ2d05lREQxNElQSXZpY0dPTGF2TU96ZVQ0LWxUdkFwVjdLR3NCTzhWYm8tNkZpQXFqNG81V0FXUXltSjNOeldLUFR4VmJSeTY1UXBuSXJmMFREVGJIdU1QWDB2MjFuTV9zQzcwcVNWSll4LUxoWEk5dkRTN1E?oc=5",
+    "title": "Saab, Kraken team up on autonomous drone seeker vessel",
+    "source": "NavalToday",
+    "published": "Tue, 06 Oct 2026 07:14:08 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab and Kraken are partnering to develop an autonomous vessel equipped to launch and recover drones at sea.",
+    "companies": [
+      "Saab",
+      "Kraken"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "drone",
+      "maritime",
+      "vessel"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ldHpMWV9sWHQycWRpR1BGRmNaTjRjTlFBYmdqVFp3aEFWVzJNNDM2Z1Zab0dSNzBoaWc2TGFPUzZWb0N5cE9hT18zSEpTRWRDTUZmWnNWNXFnZVVZcnFtNFdfakp6MWpOWXl6bF9zZktlOXIzVUE?oc=5",
+    "title": "Saab UK, Kraken develop drone detection USV",
+    "source": "WorkBoat",
+    "published": "Tue, 06 Oct 2026 14:22:57 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab UK and Kraken are launching an unmanned surface vessel designed to detect drones over water.",
+    "companies": [
+      "Saab UK",
+      "Kraken"
+    ],
+    "people": [],
+    "themes": [
+      "drone detection",
+      "unmanned surface vessel",
+      "maritime"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFlHOUhpUHRxaHB5R2xvcmlTOVBEZ2RrSmE5LXRYOWJJNjBzNGZsQkVhcHFVUmdUSmNJbFlxX0puR09RX1VySHpLME9UcUZfajZyUTNqYTNJZEhvOFBTSnlFMjZOT3JGc2YwdEpPWGJmbGMxYzlEbFFaV21wQktnVWpvNVVYQzdSSncwbFF0cFdGYXJKb1YzNC1nY0hybWZTRy02b21hbTQya0tDNjBZWTMyUkxRZkFibWM2T1BoekV0eG8zWkRv?oc=5",
+    "title": "ZenaTech Provides Build Update on ZenaDrone 2000 Heavy-Lift Counter-Drone Interceptor Prototype",
+    "source": "Quiver Quantitative",
+    "published": "Tue, 06 Oct 2026 12:20:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech released a development update on its ZenaDrone 2000, a heavy-lift interceptor drone designed to neutralize hostile unmanned aircraft.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "counter-drone",
+      "interceptor",
+      "heavy-lift"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XZUJwcDIyMk1zQW5hRlEzRzdpYmtMeVQ5czVqSkpKdnZZdEowdnR0eHRudzc5bVk2UElIdHNoTGROSjlkamtONy11QU9PcllYODNnOWFGUXdURWlhZ2JZbDNRRQ?oc=5",
+    "title": "Wearable counter‑drone tech enters frontline service across US, Ukraine and IDF units",
+    "source": "The Jerusalem Post",
+    "published": "Tue, 06 Oct 2026 07:21:11 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A wearable counter-drone system has entered operational use with U.S., Ukrainian, and Israeli military units on active frontlines.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "military",
+      "wearable technology",
+      "electronic warfare"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jZHJfQkllc0lFUzItc0RqRUc0a1VDSy1fbC1UQVNodm5BaHdZdmdfVEtiUWhmT1BVa3lOS1Z2dFhHR0pBVFdTd0d6Nk5mS1plQ0daZWRHZXVjVGVhdlB2dGpxVHZQSk8xNFBZ?oc=5",
+    "title": "Saab and Kraken develop autonomous vessel for drone detection",
+    "source": "Naval Technology",
+    "published": "Tue, 06 Oct 2026 13:16:09 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saab and Kraken unveiled an autonomous vessel designed to detect drones, addressing maritime security concerns with a platform that combines naval expertise and robotic autonomy.",
+    "companies": [
+      "Saab",
+      "Kraken"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous vessels",
+      "drone detection",
+      "maritime security",
+      "naval robotics"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45Z0J4dWFhbUlHWlUweUhiUWV5c3hXVDV0X1pZangxTEtyY0p6VWo0eUlTM2t0WFZPcmgxWUFUOXBFY0NfRTllSDNkTmo?oc=5",
+    "title": "[News] Ouster Partners with Seneca to Advance Autonomous Drone Technology for Wildfire Response Operations",
+    "source": "LEDinside",
+    "published": "Tue, 06 Oct 2026 07:54:32 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Ouster has partnered with Seneca to deploy autonomous drones for wildfire detection and response, adding lidar-equipped systems to emergency management workflows.",
+    "companies": [
+      "Ouster",
+      "Seneca"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "lidar",
+      "wildfire response",
+      "emergency management"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUZ4cmdxYzFaamR2VUNDVmZUTGNkU2Nxc2ZRTF94TnRLRWlSNExneVdWUXRZVnJ5RHkzd1YtS3FyLUM3OFZsRVRKb3ktN040dVhDMzhoNGg4X3VGRmxSSWZ5dnR2NXJKQUhRa0l2VHJFM0UweFhlY3UtLXc2aDg2YmlHb3l0UzlrbVJIcVdYbTRyeC1vLUxrUmYwSVBEUE4xMC1GS05aQkM?oc=5",
+    "title": "Septentrio expands mosaic-G5 GNSS ecosystem for drone and autonomous navigation",
+    "source": "GPS World",
+    "published": "Mon, 05 Oct 2026 22:19:18 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Septentrio announced an expanded mosaic-G5 GNSS ecosystem designed to improve positioning accuracy for drone and autonomous vehicle navigation.",
+    "companies": [
+      "Septentrio"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous navigation",
+      "GNSS",
+      "positioning"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc1AwUlJselNjelNGZVJaNzZoclBQRnNGbU1KR1cwNERjZjhRYU50enRVdnBHcjNOeVk5N3MxU3hBbkdWaTVPbzJwa3ctY19rek01VzBDTUpjRGFYMkF0RU8tUGV4eU4zYUVqN2Z2NTZHR3pKUXgyRHFIOTVHWDdfN0dGcDNCTnZNdnZ5RHBvcmVQcGtoLVlVcnBzVTQ0UzI5dDdhYVl0LW5McmtiYlRBLTdkY3FWbEtUSWpjcTN5VFJNNUlqaktkeGswUGlqS21CZDUxOUNGeDVLckxEaFNDN0hmNlFEMlZaUjBfSjNfaTVEMUdaUnI0dF9qMnUzWHpSZ2VEQlVR?oc=5",
+    "title": "This Brain Implant Allows People With Paralysis to Speak and Gesture at the Same Time Via a Mind-Controlled Virtual Avatar",
+    "source": "Smithsonian Magazine",
+    "published": "Tue, 06 Oct 2026 16:08:56 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink's brain implant has enabled a paralyzed patient to control a virtual avatar that speaks and gestures simultaneously, demonstrating a new level of neural interface sophistication.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "neural implant",
+      "avatar control"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2pOQ0RxNGpEZ0Y2aldTVkRVX1VwTmVGa2hQSDFvVVY4eEFqcnY4eUF3QnZIUmhaamtiWVMwSEtXZXltV0o3X1dzWWxVb2ZXMXlqZEM0Qnl3VEpUUW5xaHRma3BQT0lmMk85WHFMbzFlTEh5R1RqcjV3OHNyVVBUNDBscEJWRDl3?oc=5",
+    "title": "Elon Musk Splits With Neuralink Director Shivon Gillis",
+    "source": "조선일보",
+    "published": "Sun, 04 Oct 2026 04:52:24 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Elon Musk has parted ways with Shivon Gillis, Neuralink's director, in a personnel shift at the brain-computer interface company.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk",
+      "Shivon Gillis"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "personnel change"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
+    "title": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
+    "source": "Boston Dynamics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "other",
+    "one_line": "Boston Dynamics appoints Rohit Prasad, the former Amazon AI executive who built Alexa, as CEO to merge robotics with large-scale AI commercialization.",
+    "companies": [
+      "Boston Dynamics",
+      "Amazon",
+      "Raytheon BBN Technologies"
+    ],
+    "people": [
+      "Rohit Prasad"
+    ],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "commercialization",
+      "foundation models",
+      "robotics"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/silver-ojai/",
+    "title": "We're adding a new version of the Ojai to our grow",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is rolling out a refreshed version of its Ojai robotaxi with improved interior finishes and amenities, beginning trials in San Francisco, Los Angeles, and Las Vegas.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "fleet expansion"
+    ],
+    "first_seen": "2026-10-06T19:57:24",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
     "sources": [],
     "body": "",
     "slug": ""
