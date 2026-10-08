@@ -72409,7 +72409,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -72591,7 +72591,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73099,7 +73099,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": "Choosing a cloud partner ahead of a driverless highway launch signals Kodiak is thinking about scale, not just engineering — the kind of infrastructure bet that matters once trucks generate data across thousands of highway miles rather than dozens.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73440,7 +73440,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73467,7 +73467,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73543,7 +73543,7 @@
     "first_seen": "2026-10-01T20:04:44",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73703,7 +73703,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73892,7 +73892,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74750,7 +74750,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75212,7 +75212,7 @@
     "first_seen": "2026-10-04T18:30:36",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -76773,7 +76773,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77005,7 +77005,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -77102,7 +77102,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77235,7 +77235,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -77813,7 +77813,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -78121,7 +78121,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -78671,7 +78671,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -78700,7 +78700,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -78716,5 +78716,1085 @@
     ],
     "body": "<p>Bridge Neurotech has closed a $13.5 million funding round and announced a partnership with Butterfly Network, the ultrasound imaging company, to develop a brain-computer interface that requires no surgery at all. The two announcements landed together, a signal that the startup sees capital and technical firepower as two halves of the same bet: that the next generation of BCI won't need a neurosurgeon.</p>\n\n<p>The partnership pairs Bridge Neurotech's signal-processing work with Butterfly's ultrasound hardware, aiming to read brain activity through the skull rather than from electrodes implanted beneath it. Terms of the collaboration weren't disclosed, nor was a timeline for a working product, but the ambition is stated plainly: a fully non-invasive system that sidesteps the single biggest obstacle standing between BCI and the mass market.</p>\n\n<p>That obstacle is surgery. Every prominent BCI effort to date — Neuralink's implants, Synchron's stent-based electrodes threaded through blood vessels — has required some form of invasive procedure to get sensors close enough to neurons to pick up a usable signal. That's fine for the clinical trials these companies currently run, mostly in patients with severe paralysis who have little to lose and much to gain. It's a nonstarter for the much larger population of people who might want a BCI to type faster, control a prosthetic, or interface with a computer, but aren't willing to have a hole drilled in their skull to do it.</p>\n\n<p>Ultrasound is one of the few technologies with a plausible shot at closing that gap. It can penetrate bone and soft tissue to sense — and in some experimental setups, stimulate — neural activity without breaking the skin. Butterfly Network built its business miniaturizing ultrasound into a handheld probe that plugs into a smartphone, undercutting room-sized imaging machines in hospitals; applying that same chip-scale approach to the skull is a logical, if difficult, next step. Bridge Neurotech's contribution is presumably the decoding side: turning the faint, noisy signals ultrasound can detect into something resembling intention — a cursor movement, a word, a command.\n\n</p>\n\n<p>Whether that's achievable at a resolution useful enough to rival implanted electrodes remains an open, and old, question in neurotechnology; signal quality has always been the tradeoff for avoiding surgery. But the money matters regardless of the science's final verdict. BCI has spent years as a story about paralyzed patients and venture-backed moonshots led by Elon Musk's gravitational pull. A credible non-invasive approach, backed by a company that already has FDA-cleared hardware in Butterfly's ultrasound probes, pushes the technology a step closer to something ordinary people might actually use — and pulls the industry's center of gravity away from the operating room and toward the medicine cabinet.</p>",
     "slug": "bridge-neurotech-raises-13-5m-partners-with-butterfly-networ-d88c41"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa21HY0ZpWDR3VVVBMlotTXB1RGxRc0JLQVRvTVVhQXBCaGRQQjZGRzJGRXlqZ1N0R0tzYVp5cXFUdXpBaHh2RERqRWp5c3Y3c053RWVzTmlJM0dtdkd1NElYYW10MWd2YTh5ejVpTERjOXFBbmZfSVpTcllVdTJ5ZmZWWEdrWFl5VGJnY1h2YlliOEU?oc=5",
+    "title": "Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.",
+    "source": "The New York Times",
+    "published": "Thu, 08 Oct 2026 14:40:13 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "California regulators block a cage match between a human and an armed humanoid robot, treating the stunt as a public-safety violation rather than entertainment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "regulation"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdGb2V6YWlNaUZ2Q0MzSzI1d3o5X0ZRa2xCckNpX3NnTk9pMnJWMTNwY1Z4STB0QTZaTFhCQVNnUjlFLXlNbUJOejJ1aEYtTVFlcE81QkJjbXdaQnIzVHdxZ3pQeEI5NGNXNE4wMzVuRjRpMC00cDlCUHRteWpyc2tidjRzSlFkaTJUakdIYnBGSGhsN3dZM2VXUGlOd1RzVEs3elhCS0NWSG8?oc=5",
+    "title": "Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "source": "Ars Technica",
+    "published": "Thu, 08 Oct 2026 11:15:33 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Nvidia frames its physical AI strategy around safer robotaxis and humanoid robots, positioning the company as a key infrastructure player in embodied AI.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotaxis",
+      "humanoid robots",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNUwxS2xWMmR2YVZZU25VZm1IekREeXJQbWtRMnlUUUpKLXJ6d2NBNkgtZTZXcVBBb295bjhwR21mWFM0QTJYLXR6NjF1dWFtM08yU00tS3BadmVWVEdlY3Fmc1JPZlE2ZGRNV04xanB5R3FKaVdpSnJoY2Y4R2ozaGo2YTI3cFRjMnR3LWFRdGpZb3MxR2dOaXlrY0VnT09TSS0tQV9RdnBVWTFaTEhxNEdYRUZtOVg1cmFzNkE2OHFFM3VIOXVCRG5TTWNRdUxROWdF?oc=5",
+    "title": "California regulators sent a cease-and-desist to fight promoters who pitted a human against several robot combatants in a San Francisco cage fight. https://nyti.ms/4hFgvyc",
+    "source": "Facebook",
+    "published": "Thu, 08 Oct 2026 18:56:17 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "California regulators issued a cease-and-desist against promoters of a San Francisco cage match between a human fighter and multiple robots.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "combat",
+      "regulation"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnFQcnh5VkdwZGxxWUhnalJkR01FcXRKeVRzUnk0V2d1LVpGSVo3R3JjV3d1SDU2TDlJeUtZVkF6WjFPYlh2ampUYl9oSFlCNE1XQkhSY2NBMkpmNjk1Um5PUDVPTmEteW1LQTg0S0VzMHB3N0hkVXllY19TQ1Z0VDJhV2hrd01mekdEbHlERU9WVTVwMjB1NS1FbGZjUnprbXlrclptcGxHUQ?oc=5",
+    "title": "Tesla Seeks Patent for Touch-Sensitive Skin for Humanoid Robot Optimus",
+    "source": "Electric Vehicles",
+    "published": "Thu, 08 Oct 2026 10:44:15 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Tesla has filed a patent for touch-sensitive skin technology on its Optimus humanoid robot, adding tactile sensing to the machine's physical capabilities.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "tactile sensing",
+      "robotics"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZW52S2dJZExkUTdlN0czeHpmNDlxNVN5SHNIMWhWemdkVm01LU5aeFdZdGlTby1Wb1VhYnNzakxEMnJVLTcxU2xyN1BDcjk1RmQ3VnZMbXcyeDF2czdIamdPbEV5UGgzdHNTUFVjeTY5aXVYdnpyckpIWmZkTDRmOXlEV255WUZ4RnJnb0E3ZVNPdjc4X20yU3VDNVFzT2EtUW9kcWZubEpwbEZ3RElmTnhyeThSZXhCS2J1dVJKNUlsdw?oc=5",
+    "title": "AWS Launches Physical AI Toolchain to Accelerate Industrial Robotics Development",
+    "source": "Assembly Magazine",
+    "published": "Thu, 08 Oct 2026 13:15:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AWS released a suite of tools designed to help companies build and deploy industrial robots faster, signaling the cloud giant's deeper commitment to physical AI.",
+    "companies": [
+      "AWS"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "industrial robotics",
+      "toolchain",
+      "robot development"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUxPZzNqWTNJT1RVWDJGbUJDRjFrU3Y2TXpGaDhQTEJtcjFuX3I5YTE0Z3paekUxTnZER21RNGd0REhrejdnZHJ6Nm5WTURtUjU0T0t5SHlXcG0zRG5ta0N0Z1JHN0hEUldvT3hOb181LUI1ZUpyTjNYcFdmbEZMRkZ5YTA?oc=5",
+    "title": "Odyssey-3 drives a car in India and runs humanoids from one world model",
+    "source": "The Next Web",
+    "published": "Thu, 08 Oct 2026 16:23:10 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Odyssey-3, a unified world model, is simultaneously driving a car in India and controlling humanoid robots from a single neural network.",
+    "companies": [
+      "Odyssey"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "world model",
+      "humanoid",
+      "autonomous driving",
+      "multimodal control"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0t4Wlg2NnpNSll2R0VGZDR5NlRZODdRano2bEdtQnBHN0dCRk5aMXpObU5HNWpCSVB3NFlCeS1DVDB2Z01xODBxZHJBU3luTkZZTnBZb2xKV3ZPM253NEtKYmVmVVFfM1RXamNuMmlsU2N4bHVVZkhldUkweXhRdUtWclljdV83QURaeDJEY1oyVDlrWmYzMGJhd2ZSY2dNQlBQbXhGTEh4dWhjRVlpbC1wd0JTU05uOWZXeF9UYzRQZnR4ak5PUFlEdjJLRnky?oc=5",
+    "title": "Hyundai Is Now Officially Training Humanoid Robots for Factory Jobs at Metaplant America",
+    "source": "autoevolution",
+    "published": "Thu, 08 Oct 2026 13:45:27 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Hyundai has begun training humanoid robots for factory assembly at its Metaplant America facility, marking the automaker's first large-scale deployment of embodied AI on the production line.",
+    "companies": [
+      "Hyundai",
+      "Metaplant America"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "factory automation"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLTJpRlJSbmUtY3dESEhSa0JUMnZ3dTNwd3FIMjVIdTZWSmtoaVF1dzJJSHRjY1k4WGtGTDRhNDUwYk9mOXpzUTBURG5mclk4RUlGcEl0VXlPMXJ0VVBFNW41dEJJSzBhZnZnVWszV1JDWkt1Wmw5Y1FpclREYjhZWDZYWS01NjE4RGdnVk5SODEwQVoxbWd2ektsMkRub2MwaWExSWRvOUN3TjJ2ZjBmd053aTBHMnRZYVdRYmdqZ3dyMXV3M21VSEtpQXFxSjRtOWtyT1ExeFFMek03N2tNN2RR?oc=5",
+    "title": "UBTECH, FAW-Volkswagen partner on humanoid robots for logistics and smart manufacturing",
+    "source": "Gasgoo",
+    "published": "Thu, 08 Oct 2026 05:38:23 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "UBTECH and FAW-Volkswagen announced a partnership to deploy humanoid robots in logistics and manufacturing operations.",
+    "companies": [
+      "UBTECH",
+      "FAW-Volkswagen"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "logistics",
+      "manufacturing",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3Z4OGZKRW1sWWNicGxDYTczNHd0YmlNWHp6c3FxU3p5VE8yMlBzRXotaXpsWkpCUDBGNHg1YlNCVmQ4SmllbjN0OXRiVFJmTGdPQk1NOGJHQnpoR1o3blpobzgydW5FUzNOcU5ONHE5RVVmREZkZS1MYXhoQ3hwUGFkTVVuVUwzcVBibFdiWG8xb2psZHB2QmRpSDNCSWJJSFphVVBQeFMyWE1paFBVY3ZVN1JqcWd2U2N3clJZYkhBNVgxOXJBQVRR?oc=5",
+    "title": "Robot cage fights bring real-life 'Real Steel' to San Francisco",
+    "source": "USA Today",
+    "published": "Thu, 08 Oct 2026 17:37:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "San Francisco is hosting robot cage fights, materializing the movie 'Real Steel' as a real spectacle of physical AI combat.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot combat",
+      "entertainment"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFJjZmtncTEyUG43UjRhdVRJLXowSXdJajRTUm1WbzBsakc0ZnN3SUYtVjF5TlliYmptakNpSk5RUUxCd3ptM0FlbUhlTFllOEJoZnQyYTNraWhobWJpMWpzUXJSSjYwRjJOaTdaNE9RN3V2REg3VVMzT1hoQ3ZGak53RVVmYV9YMmlUdlRUMVNmWkQ3TUE?oc=5",
+    "title": "AWS launches open-source Physical AI Toolchain for robotics",
+    "source": "The Robot Report",
+    "published": "Thu, 08 Oct 2026 13:40:17 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AWS released an open-source Physical AI Toolchain designed to help robotics developers build and deploy machine-learning models on robots.",
+    "companies": [
+      "AWS"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "open-source",
+      "machine learning"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFJXWmZ5UXQzOGZpQUt1Tm9GeHp4bE9tOVdwcHRDQWZfYUx0UDVDM0hkS2NScl9pZjJmRUgwYkI0ajNnRXphVl94LTZpeDJwdlBmNWdrT2JhZ2xuaU5JWm9jRzU4RGNzRnpZaWRXY3c1ekQySG5mR3FkRFJlSHhSYmpkMWNTcXF2VDR1aWhVbmFURFVuUkhHYlpyOG00enlm?oc=5",
+    "title": "DEEP Robotics' Humanoid Robot Debuts in Xihu District, Exploring New Approaches to Smart Transportation",
+    "source": "Yahoo Finance",
+    "published": "Thu, 08 Oct 2026 08:15:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "DEEP Robotics has deployed a humanoid robot in Xihu District to test applications in smart transportation infrastructure.",
+    "companies": [
+      "DEEP Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "smart transportation",
+      "deployment"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDR0Zzlaelh5SEI1OVNPb1hzMlNQcEg0YjVEeXVQUGtYdVJwZlZjamIxYjlTV1JObFBKdlFheWFFeGFLeEZQM2t0VHVkMWZnZUhTWUhUTEpWVHE1dXNwYXBIZXRac2dmSUJoUmJOelBTZGVrS096UFVGWmsyWklZME9yS1BzNFpHWElKaU9xTk03bzVtdmNjcXNtSHhlbjBQOFJTbklhRlREYXBQeE5aYlJpa1lTVnNVOUxCcEpVOXVMb3RteDB6ZzBHVUZWY2tRZXc?oc=5",
+    "title": "Robbyant and AFDE partner to expand embodied AI and robotics across Middle East",
+    "source": "Robotics & Automation News",
+    "published": "Thu, 08 Oct 2026 19:10:55 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Robbyant and AFDE announced a partnership to deploy embodied AI and robotics systems across the Middle East, expanding physical AI applications in the region.",
+    "companies": [
+      "Robbyant",
+      "AFDE"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "robotics",
+      "physical AI",
+      "regional expansion"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDJiN1NQVnk2anRnY3dTUzJmR0ZiWXJVZWRwandkRGQ4SUhEYzlMZjRYYTdSbUNTQVRXMFE1Y2QyaFlxOXJnWVpGRDhFejhUdERZb3ByMDFQSFFNbmNzX3JtYXVBcEQxZFVxd0d2cDB6ZXJBWkJRQWdIVEkwQWV3SFR2UnBsaDM4TmhaY3Yxd1FHdXZFbWZ4QkNQLU9MRndtVktsU0hmcVllZkVhNUE?oc=5",
+    "title": "AWS Launches Open-Source Physical AI Toolchain for Robotics Development",
+    "source": "AI Insider",
+    "published": "Thu, 08 Oct 2026 13:17:15 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AWS released an open-source toolchain designed to simplify how robotics developers build and deploy physical AI systems.",
+    "companies": [
+      "AWS"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "open-source",
+      "developer tools"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnlmbUpXMDhvY0JWUUt2UWFIV244UzJQY1puTGNCQS1UcmFYcVR1SEtXM1h2dDJmVThJQXFtbTlQZXpkRFFjNG82Ul9UUlpvSWF6eEFtYmJVTlkxMXA4elVOSGhlS2wxZlFGSHNvV1RwVUN0UzVWU0tXdGlJUlhZbDRPbklvampNVThiemI4dDkzQ0U?oc=5",
+    "title": "Osaka Metro testing AI humanoid attendant",
+    "source": "Honolulu Star-Advertiser",
+    "published": "Thu, 08 Oct 2026 10:07:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Osaka Metro is testing a humanoid robot attendant in its stations, putting physical AI to work in a real transit environment.",
+    "companies": [
+      "Osaka Metro"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "service robot",
+      "deployment"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDZOc3FJanFsblNQYTJtTlFQWk9SUG5ySTlMSkRadG5qSnFNclFUMFJHZ2NPUWhpZlNINVJxZmluMmJUa0VtdV82VE5Vc2wwbUFteDNraHpycG5SWXhtVGpiOFpwTlBLWlliZ1BCbEtxN081eVlJSXBWUnRjMXBZS0t3SXVNSkxhSXVHRFpRRmJCSHIyX0xpY3BDVkF6UzNXRm02aDVyaDNiR0lVaWdoWHJmc2NKMGxWc0FPeHhxWGN4TWxyeDRDWjhn?oc=5",
+    "title": "Lumos Robotics stages the ‘world’s first’ humanoid robot theater in Shenzhen",
+    "source": "Robotics & Automation News",
+    "published": "Thu, 08 Oct 2026 08:26:08 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Lumos Robotics staged what it claims is the world's first humanoid robot theater performance in Shenzhen, putting embodied machines on stage.",
+    "companies": [
+      "Lumos Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "performance",
+      "robotics"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnaWFGRS1PMldDZTc4WGZhbHlNRUZYUmNZY2V4YnB2Q3dSQzIzSm9pUFZPSk1xSDNNZUZ2Z2FrVS1rWU1DTG80dGVIZmRYS2VLUHVDTVdnUkNHYWxQTjBDM0dndkhJRGhOYkJNb2ppeWZ3X0RlOHI4?oc=5",
+    "title": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+    "source": "Waymo",
+    "published": "Thu, 08 Oct 2026 13:48:57 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo secures $5 billion in debt financing to expand its autonomous vehicle operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "financing"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0hkcWk3SGVuRHo2Rl92bWlManRvOXl3Zzl4T2FxOFNxclV0Vjl0cldtVC1lT3Q3Q1dHTmxaakFDTWdBZy04Tkw5SS1kSUI0MnBRNUtIZDg0SE1VRE5VdkNPYmhEN0JuTEpMcmdqMlFRcDBtSHNzSUVNU1ZVUnlOOFNHS19UZUVvdVZXZWtXWEcwbVF0Z1kySVVScnJXX2hmRXk5d2Q2X3V1Nm5Tb2c?oc=5",
+    "title": "Alphabet's Waymo secures $5 billion term loan to accelerate expansion",
+    "source": "Reuters",
+    "published": "Thu, 08 Oct 2026 16:22:44 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo closes a $5 billion term loan to fund expansion of its driverless ride-hail and trucking operations.",
+    "companies": [
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "funding"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjlhRElvb3F6ZXgtX0hiYjNkdC1GdDlRQk52azA3NjZsQjdIV2VnM204cldKV0poVzliNWRhSWV6Ym9OR3JISjd3YXM4ZDlNWVkxUUdYTDZrNVY3S2FoUWF1LWlLZUUtcVY4RUwyR3Z2MXRwRzM3MzBfSno2eGpBZWVNcHpLVFg1bk9aNWlqYkNTYlFqRmFuMUxLcHFRZnlkajRwNlNyX3B1QQ?oc=5",
+    "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
+    "source": "TechCrunch",
+    "published": "Thu, 08 Oct 2026 14:16:56 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo secured a $5 billion loan from Blackstone and PIMCO to accelerate its robotaxi fleet deployment.",
+    "companies": [
+      "Waymo",
+      "Blackstone",
+      "PIMCO"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0piZVpUSDJsU0tfRHA1XzJkeWZTczRsYlNTUlA5ZWlObC1UdzlBcTF0Sm11cDJGVlZmdk1UanpUZGxVVTdtRG9nM2FJNEw4S3dPQWVqVDZmU0JpSndwYURqNFZEYzNtWUswTjFia3BLNnZRVVhZVjZ1VXhNUnFPUk05SEVEUUxqZFhZcjRXTjNBWWNWVC1pWlV0UXB2TVE?oc=5",
+    "title": "Waymo Launches Driverless Rides in Detroit Amid Mixed Local Reactions",
+    "source": "94.7 WCSX",
+    "published": "Thu, 08 Oct 2026 14:13:58 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is bringing its driverless taxi service to Detroit, where public enthusiasm for autonomous vehicles remains divided.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-sharing",
+      "urban deployment"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenFyblFIV2otMlVNSUhlSmhfelB6R3JwMWtVUDF0bW1qeHAyZ2RPWXRkOGxvZUFxbDg1RXNyZHh3X0k1aFRLZ3J4V1oxTXN2bVhmMkxPQ0M3blFCUnp2S2o4TEhLNV9MbklURTVudm9lRjUwT3l3MGpRQmp0T1oyX0tYaTkwQm1ELTlfdWpjazJqb3NRc3F2TmVEcGJ5MjZoYWcwVA?oc=5",
+    "title": "NVIDIA exec says one company has the edge on self-driving cars",
+    "source": "Detroit Free Press",
+    "published": "Thu, 08 Oct 2026 14:34:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "An NVIDIA executive offers a prediction about which company will lead the self-driving race, without naming specific winners or providing new data.",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWnNIT0JJUXBzOEZlQkt0QkhDYkRCQlAxVldPR2RUREQ3MUdkRjY3aG5kd1pnLU5OMHI2Wmp0OWJmS3BZVkdKUnZiNHVyWlFHZzBvd1VSUE9BY1Z5X19XR0ltdjJJb19mUDE3cDUwMDBVRHBIVy1xWTVYYmVwSGJ1M3gxeEwtWWNZOGFnUDh2UEdMWG84UzFZSU9Deks0eU93TEF2SkZ3MXNHd0NpQTRwN2NyWdIBuAFBVV95cUxOVzR2VjBwSHQwaHBJdHo5dHZ1RVpXOVhHZFpTRFhVOXNqeW9pN3Z3TVd5c3dZQm5kc1lhZlFjcWVPbzhaUDd2dzlBNGtVR0FpMWg0M1FtUkZVZDlQX0lRcW1JTVlRYXBDQlFSMndEallobDZsMng1NGpxai1ZekZKMzRJRXZtMTI3aFhmV2NDaC1NT0dIYjVDU1V2QUNXcFh6NG1LUjNLdlFUMHBNdDdDOXpycHNYNEFx?oc=5",
+    "title": "Waymo's Expansion Hits Turbulence in Tampa and Denver",
+    "source": "WFLA",
+    "published": "Wed, 07 Oct 2026 22:31:27 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo pushed its driverless taxi service into new territory this week, including a baptism-by-traffic in Tampa, where robotaxis navigated the chaos of a Buccaneers game crowd. Meanwhile in Denver, the company's robotaxis got a less ceremonial welcome: a passenger filmed a man hurling eggs at one of the cars. Together the clips suggest a company whose growth is outpacing public patience.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "public perception",
+      "vandalism"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWnNIT0JJUXBzOEZlQkt0QkhDYkRCQlAxVldPR2RUREQ3MUdkRjY3aG5kd1pnLU5OMHI2Wmp0OWJmS3BZVkdKUnZiNHVyWlFHZzBvd1VSUE9BY1Z5X19XR0ltdjJJb19mUDE3cDUwMDBVRHBIVy1xWTVYYmVwSGJ1M3gxeEwtWWNZOGFnUDh2UEdMWG84UzFZSU9Deks0eU93TEF2SkZ3MXNHd0NpQTRwN2NyWdIBuAFBVV95cUxOVzR2VjBwSHQwaHBJdHo5dHZ1RVpXOVhHZFpTRFhVOXNqeW9pN3Z3TVd5c3dZQm5kc1lhZlFjcWVPbzhaUDd2dzlBNGtVR0FpMWg0M1FtUkZVZDlQX0lRcW1JTVlRYXBDQlFSMndEallobDZsMng1NGpxai1ZekZKMzRJRXZtMTI3aFhmV2NDaC1NT0dIYjVDU1V2QUNXcFh6NG1LUjNLdlFUMHBNdDdDOXpycHNYNEFx?oc=5",
+        "title": "Waymo's Expansion Hits Turbulence in Tampa and Denver",
+        "source": "WFLA"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2VMZEUxOEZybjRjeWtXTXlYMjlZZ1dUYWZmRFBqWkttQk9PSk9YcHJXOXBHREg5LUJLQzEzUWVtNVhWMXFDcUtCWS05dGprU3Bja05OZEczX2NacHdPempzUldraDZiZEFBc0V4bUY1MnM2czRNb0JGTU1vSTVTMklVT2NlVkE1cExMMmdnMTctNHBTOWJMNTdPeVBaSTUxLWlKRzZn0gGrAUFVX3lxTE1iZ2o4eTljOEY0ZXc3LUpBOGFtOFVhbDFUd29PRXJKMThtSEg1YVZPd1FQeFF6SUlzME81Q0tTZzBvd09zeXRDR3EzbVFFTkdFdGhPY1g2bmlMLXo2YmRfTzluQlMwY1kwUWRKdkpRWTNyNUVQQTl1aXlGa19iV1pCVXRJMUhYWEVFdHpWMEd2cG5LUzlnMGpVZ0pSS0I3aGhtejBuYU40bTUyOA?oc=5",
+        "title": "Waymo passenger captures video as man hurls eggs at the driverless vehicle",
+        "source": "KDVR"
+      }
+    ],
+    "body": "<p>This week Waymo's driverless taxis made their debut in two new American cities, and in both cases, the welcome was less a red carpet than a gauntlet. In Tampa, the Alphabet-owned company sent its robotaxis straight into the swollen traffic of a Buccaneers game, a baptism by gridlock captured on video by local station WFLA, showing the cars threading through crowds and oncoming cars with the placid indifference that has become their signature. In Denver, the welcome was more pointed: a passenger riding in a Waymo vehicle filmed a man hurling eggs at the car, footage that aired on KDVR and quickly made its way around the internet, a splattering reminder that not everyone has made peace with the idea of a car with nobody at the wheel.</p>\n\n<p>Taken together, the two clips are a tidy snapshot of where Waymo finds itself as it pushes into new markets at a clip that would have seemed implausible even two years ago. The company, born out of Google's self-driving car project, has expanded steadily across Phoenix, San Francisco, Los Angeles, and Austin, and is now reaching into cities with their own particular textures of chaos — the tailgating frenzy of an NFL Sunday, the unpredictable sidewalks of a Denver neighborhood. The Tampa footage shows a company confident enough in its technology to send cars into the kind of dense, erratic traffic that was once considered the edge case too risky to attempt. The Denver footage shows that confidence colliding with a public that has not necessarily asked for any of this.</p>\n\n<p>That friction matters beyond the novelty of a good local-news clip. Waymo's entire business model depends on a slow accumulation of trust — regulators, insurers, and ordinary pedestrians all have to be convinced, repeatedly, that a car without a driver is not a hazard but a convenience. Every viral video of an egg hitting a windshield chips at that case, regardless of whether the technology itself performed exactly as designed. For a company burning enormous sums to scale its fleet, public sentiment is not a side issue; it is close to the whole ballgame, since cities and state regulators can slow or halt expansion in response to backlash long before any software bug does.</p>\n\n<p>There is also a broader economic subtext. Each new city Waymo enters is a test of whether autonomous ride-hailing can become infrastructure rather than spectacle — a service as unremarkable as hailing a cab, built into how people get to the airport or home from a game. The Tampa footage suggests the technology is inching toward that mundane reliability. The Denver footage is a reminder that the human reaction to sharing the road with a driverless car remains anything but settled, and that the hardest problem Waymo faces may not be engineering at all.</p>",
+    "slug": "waymo-s-expansion-hits-turbulence-in-tampa-and-denver-f856c0"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2VMZEUxOEZybjRjeWtXTXlYMjlZZ1dUYWZmRFBqWkttQk9PSk9YcHJXOXBHREg5LUJLQzEzUWVtNVhWMXFDcUtCWS05dGprU3Bja05OZEczX2NacHdPempzUldraDZiZEFBc0V4bUY1MnM2czRNb0JGTU1vSTVTMklVT2NlVkE1cExMMmdnMTctNHBTOWJMNTdPeVBaSTUxLWlKRzZn0gGrAUFVX3lxTE1iZ2o4eTljOEY0ZXc3LUpBOGFtOFVhbDFUd29PRXJKMThtSEg1YVZPd1FQeFF6SUlzME81Q0tTZzBvd09zeXRDR3EzbVFFTkdFdGhPY1g2bmlMLXo2YmRfTzluQlMwY1kwUWRKdkpRWTNyNUVQQTl1aXlGa19iV1pCVXRJMUhYWEVFdHpWMEd2cG5LUzlnMGpVZ0pSS0I3aGhtejBuYU40bTUyOA?oc=5",
+    "title": "Waymo passenger captures video as man hurls eggs at the driverless vehicle",
+    "source": "KDVR",
+    "published": "Thu, 08 Oct 2026 09:36:21 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A man threw eggs at a Waymo driverless vehicle in Denver, captured on video by a passenger.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "public perception",
+      "vandalism"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkFJVF82d0p5U0ZxNS1EeUMxaGdYNW96NDlTNE1NcC1teFMxM3JibzlKOFhFMDBnNmRmNzN0bEQ3ZmFaSEJ5TVJMQ0k3YjJCbm5HYUtIMzl6Q2dkNzF3RDI4T1BfTkZJejRxTlVCZWtUcFdwd1UwQ0NRY25rU25URVkyaVExdjJtcjJVbkdOYlB3QQ?oc=5",
+    "title": "Waymo gets $5B in debt funding from outside lenders (GOOG:NASDAQ)",
+    "source": "Seeking Alpha",
+    "published": "Thu, 08 Oct 2026 16:22:19 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo secures $5 billion in debt financing from external lenders, marking a significant capital raise for the autonomous-vehicle company.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "funding"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMkN4eFZLMW1PTU1KaVRudkM5M3RHX25SN3Z5SUFHT1dGZ21ZTFhDU3FmYUd2THAySzdsRlFvT1ZKbm9waG95Mnk4NzhGYkNCVnpRZFUydEcyMEd4azBtTF9KeVNjbER2Zkw2Nk1aMUFRaXlUV1FOZFBJdFo4MklRbXIwakp6RnNPSThQT0dCdzRGeHZFM01rSHo0STFHMW0tQnZXcV94REFyekZGZjl4Mi1qQk1oZWRja0o4dFRtQ2owc3RkQ25VUlpUUGowcy05YV9zNDdjRkJPVXowOS1pNjZ6QWlqQXR1VktiQVJ3SGd5dXVCeEg1bzJGOA?oc=5",
+    "title": "Alphabet's Waymo secures $5 billion term loan to accelerate expansion",
+    "source": "The Lufkin Daily News",
+    "published": "Thu, 08 Oct 2026 16:22:11 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo closes a $5 billion term loan to fuel its driverless expansion, signaling investor confidence in the Alphabet subsidiary's path to profitability.",
+    "companies": [
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "funding"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjZZenU5YzZ2Y0RESWVzMjdGdllXallTQWl5Ti1sVTBrRTZzQ3dlU2ZiU3lnM3FmSXVSN3o3THBVUk9hREk5ZTFmbjBTdkdBeVNnT3o2SEZXT3lwYU1TTkxoa3pnaVhEeVl3a0lfaUpiNzZ2TkZaQUhIUTBKUEM2Um5rSU94VmJEamZqbExhWjg0aUJpQTJQak4ySQ?oc=5",
+    "title": "Waymo Adds Debt to Its Robotaxi Bet",
+    "source": "TradingView",
+    "published": "Thu, 08 Oct 2026 18:52:19 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo takes on debt to fund its autonomous taxi operations, betting borrowed money against the profitability of driverless rides.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "financing"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDlLVUhMaWcwdk1wSFQtMGc2eE9SVHNLZE9teUZWTEVHWE9sNjU4bnprQUJzMHEzLUJmZUU1U3ZVdXV4Y2lKbjJqVEFJMXFzNzVSWU1KQ21NWDM4bWFoLTA0MmZ1dXdqTnhDSzZkNXd5S1d0QUpEWWZvRDJ5VFlCS252OEtzY2xIUnNITVN2cw?oc=5",
+    "title": "Slovakia to approve Tesla's self-driving tech",
+    "source": "Reuters",
+    "published": "Thu, 08 Oct 2026 10:37:54 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Slovakia is moving to approve Tesla's self-driving technology, clearing regulatory hurdles for autonomous vehicle deployment in the EU.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12a213c2tmMkdTa29DSXJKeVFYMHljOTJCdW02RkpXQkpDMGgyQVVKdlI3XzhOZTFFUDN2X1BMVGpOTG10UUtLYkpZR3FaMXdESVIxQmNxU1lxNm1sZm84bUJqOEZlUjRfeVJfLQ?oc=5",
+    "title": "Preparing for the Unexpected: A New Framework for AV Incident Management Exercises",
+    "source": "Waymo",
+    "published": "Wed, 07 Oct 2026 19:27:32 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo publishes a framework for training autonomous vehicle teams to handle unexpected incidents.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "incident management"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01eXFPSUFEenVyVjEzUmd2bG5XU09IbGdKZ2VWaHdhZTVsMGJHYV9uUERIUDFUeHNzbGlHVXQyRHVYejJJdFVYVFBMcXZpUTdlU1VGcDU1TUFWdENxTTNZdGJFeUJsVmVTeUZMQTkxcC1lQQ?oc=5",
+    "title": "As robotaxi accidents increase in L.A., the data reveal the safer driver",
+    "source": "Los Angeles Times",
+    "published": "Thu, 08 Oct 2026 17:24:16 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Los Angeles accident data show which robotaxi operator—Waymo or Cruise—has the better safety record as collisions mount in the city.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "robotaxi",
+      "accidents",
+      "data"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUl4WVdvZlJQTUswVDlPWnBLY3NGWmFhY0VieDIwV3dtUWdqMHFyUnJ3VHZlQzR0alZHdUgwTExWUWxFNElWYzZoTVFKTjU2N3BkYzJBUmdKcE1OMkRDd2I4UzMtbUx4RloxOVNiQjJFT1prM21YTmctNDBFV0lTS3JBMjRTODNRQVduNmVfcmRrc1VHYXk5b2x4MVhhYUEwSGdqQ2V6ZjAwNHBYZHlN?oc=5",
+    "title": "XPeng Opens Robotaxi Sign-Ups in China After Over 2,000 Internal Test Trips",
+    "source": "Electric Vehicles",
+    "published": "Thu, 08 Oct 2026 17:00:13 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "XPeng opened public sign-ups for its robotaxi service in China after completing more than 2,000 internal test runs.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFRuVTJVc2pkUy1iQTV5aDN1Nm5WSUQzRklvN01HdHFPOWpWNHU3dERzeXlad0RDWTJMNjdwTkI5clgtN3ZHTV83TGNBV2FWc0ZMQzZQVC1VUERROFJGWFIxaWkxX0pKQ19zaW13cEY3eFRaNVB2OWV1SElkM19kQnRkVGlNMzA4MFhKVVZn0gGTAUFVX3lxTE1vNDlTV3RpSjNIUUNuRVVOdkRBWWM2YVlteTA5SGhQX3hNX3huWFA4UTdDb0hEU1hZY2g3bjNlNm52UUVFZnowTHNmQ05vbnFGSE5EYkFzaGFRQ3B3OEhoQldkeDNWSnlzelJFVmZEY0pILS1hakF6Mng3VktFRC1UQ3hVbmc2Zm1MVHlIbHdVVzRZcw?oc=5",
+    "title": "Autonomous drone delivery touches down in Round Rock",
+    "source": "KXAN Austin",
+    "published": "Thu, 08 Oct 2026 19:01:24 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous drone delivery service has begun operating in Round Rock, Texas.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONk1JeG9pcDZEeGNKNDlmdlZwZ2VwVnI0ZERDYTZzVExPZnRSdzg4Y3Yzdy1HV3JPUVZEelVOMUg2VDFrdXFvZVNmNlg0V29HMmlPeEtkRFhKdktaMzA1Nm9tc1RyNVI1Wm5hWWpiYklTZ00xWFhaZ2F0c2duZ1dqRjM3S3l3b2M0SllwSDdLTV9wUmhYSnI0NXN1VVRmaGxIUk1CQVBwVnY?oc=5",
+    "title": "U.S. Navy Tests Autonomy Integration With General Atomics' MQ-20 Drone",
+    "source": "Aviation International News",
+    "published": "Thu, 08 Oct 2026 14:03:12 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "The U.S. Navy is testing autonomous capabilities on General Atomics' MQ-20 Avenger drone, expanding the military's operational use of AI-assisted unmanned systems.",
+    "companies": [
+      "General Atomics",
+      "U.S. Navy"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomy",
+      "military",
+      "unmanned systems"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzYxNC1TM3BsaDBwb2swYXdfdnkxMF9sczUwaXFSeUx2cjQySDN6ODVNNkxCLWxzZHAyRXZFLUR2UmlkWFF3VXMwZWpmanNNdzZFLXdrWk1aUjlRT1ZDU1VMQkNtS241WjRmb0hGeUp0S1NqQzIxbldVU05tZ3hJS0RLenVpaHBvT1NtODNLWTFwRnF0M3hCa0ZyeGt4SGRfYnE5TFNXN1ExQ2hsYXB5c3ZhMA?oc=5",
+    "title": "Autonomous Underwater Drones Secure Mine Countermeasures Award",
+    "source": "Unmanned Systems Technology",
+    "published": "Thu, 08 Oct 2026 09:11:49 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous underwater drone company has won a military contract for mine countermeasures.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous underwater vehicles",
+      "mine countermeasures",
+      "military deployment",
+      "naval robotics"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3NhNVUzR1NQN0lKank1VU9LRkNpYkFfbFJiUzRFZGFNLUJZYWhQYUNTRFRCVnQ1U1JLaXRHaFE0bUdobzdWVE9jLWx3ZE1lWUNTeTdScVF2TzJvcEFYb3huU3FBOXV3TVMzUkxDSHlOcnRyZ1cwejViT3RQQkpEb1pZUTdPRTdSNzBTVjlFZUwzY2RadERYN0oyUEZDN0R6OEZUQWctZjVLYzNBTDRobkxWRkdVMkc0TmZ1c19vT3RkRW1kcFgwUHpNTUlHX29HVjVIaktkWE5QQQ?oc=5",
+    "title": "Sikorsky’s “Black Hawk 2070” Strategy Includes Drones, New Engines, And Flying The Pilotless U-Hawk This Year",
+    "source": "TWZ",
+    "published": "Thu, 08 Oct 2026 16:41:57 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Sikorsky plans to fly its pilotless U-Hawk autonomous helicopter this year as part of a broader modernization strategy that includes new drone systems and engines.",
+    "companies": [
+      "Sikorsky"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous helicopter",
+      "pilotless",
+      "military aviation",
+      "drone technology"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CTDVITG4wamZTLXJkSFlIeUlSS0ZjazZ2Z0pxTnkweVJPUHNRVkYyUGZEVjBiQXkzZlFaM0dlXzlDZGJ0THdQVndWMk1HUUZ2WDA5UTFVRmFnYWJwMHVpRVRUa05QdHFja3JKR3BSMVRpWVVzLWplWVB3?oc=5",
+    "title": "This robotic arm could change how drones launch in combat",
+    "source": "DroneDJ",
+    "published": "Thu, 08 Oct 2026 07:11:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "DroneDJ speculates that a robotic arm mechanism could alter drone launch procedures in military applications, though no specific product, company, or deployment is detailed.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "robotics",
+      "military applications",
+      "drone launch systems"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMk5jR0NnSkdHS25wLVVWRHM0andCUXp4b2hxdzdrQmFLUXZSR0JBZ0ZnQXhsOFNiNm9JYWpZUmJ1Rk5iZVFWQmh5VnpVSmFhc1hyMzYxa002aFFVMEx0NklydGZleDhfZXE3ck9qZkxJb254eXRvLXczUUIzZkFBOHpmQWVJOXlxM09zYUZuQzBtb3dpVWNybENsak5fLVNUNUNlckNIRUt2SUVyRW5lajVRVmFHbi1HMW1wRktfSHZtejA2Z3pqQlFyRURqV3lKSUZxczFyS3RiNUEwRy1CRw?oc=5",
+    "title": "Sesame Solar, Target Arm and AG3 Labs Partner to Launch the First Made-in-USA Persistent Drone Operations Nanogrid",
+    "source": "sUAS News",
+    "published": "Thu, 08 Oct 2026 05:46:03 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Sesame Solar, Target Arm, and AG3 Labs are launching a domestic microgrid system designed to keep drones flying persistently in the field without returning to base.",
+    "companies": [
+      "Sesame Solar",
+      "Target Arm",
+      "AG3 Labs"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "persistent operations",
+      "power systems",
+      "domestic manufacturing"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzFwenJwOVVqRkotLW5sVzAydUIxbk5hWlY3ay1JOS1SU1lxN1pkaWpOSHgwTXEyVU83aGZSVi1RbklmT3BnNjBVTGREMF9JSTVlNTdwWi1OYWpZNHF5ZTFHZGpILTFlVlJva1pTLXRlM1RzTzBBUURrNlVzcHQtLUI3TXBSSTdiT2QyaXNKS0xLR3hURDMxZA?oc=5",
+    "title": "Morocco Signs Deal For Autonomous 2,000km Strike Drone",
+    "source": "Aviation Business Middle East",
+    "published": "Thu, 08 Oct 2026 11:23:25 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Morocco has signed a deal to acquire a 2,000-kilometer autonomous strike drone, expanding its military drone arsenal.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "military",
+      "strike capability"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPME1NSUNaYk9pR194Z1AwdU5FTldTTVBHR0x1SnF3eGwtNXkwNFBBbWhqc0plZmVRYlhiMjd2WFhDVjFCcWFWWE5RS2lINDdWRXZVNnh1LWczSTk4WDJVZVk0d0hUcVowb25rWF9WaXl6cUdMUWM4OUd6YXBmczFfZ3NBSFFGdFJYZHRZYzRUTmlJcjFiREtLcUs5ZWliUDB4bnJld21EbUEzZw?oc=5",
+    "title": "Paradromics Demonstrates Four Years of Stable Neural Recording in Major Brain-Computer Interface Durability Milestone",
+    "source": "Yahoo Finance",
+    "published": "Thu, 08 Oct 2026 13:03:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Paradromics achieved four years of stable neural recording with its brain-computer interface implant, addressing the durability question that has long shadowed the field.",
+    "companies": [
+      "Paradromics"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural recording",
+      "implant durability",
+      "long-term stability"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTnp5VGVBUWk5ZHBvX0tWc1BIU01PWXlDb1ZQOGoxZXZ6YlFZR3VYaUNiemlCTjlCM3pxaTlpcXdBa1c1czB1RUdSc2ZCQ3puNEx1dzRkR2Z2RUlvbVpVWW5FRTljempXQXZ5cjh4NWlrT29aTW5Jc2ZBRGpJaENfM29VQVlrN0lySnZsNkRSMl9EUy1tNE5QV1NsN2hQZ2o2ZE5OUXB6aXJCS3lLc3Z3RmVyMVZkaDlwYkhSa000ZmU2dWVhN3BCMy1EOC15WE15QW1UMWpCNnNCVXJwZkQ4MDc5dW04Q0hRY1pnb0VFaUlqUFRJMDZ1QUYwOEU5SmR1U3c?oc=5",
+    "title": "Medical Bionic Implants Market Forecast to 2035: Neural Interface Demand to Accelerate on Aging Population and Neurological Disorder Prevalence",
+    "source": "IndexBox",
+    "published": "Thu, 08 Oct 2026 04:11:04 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "IndexBox projects the medical bionic implants market, driven by neural interfaces for aging populations and neurological disorders, will accelerate through 2035.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "neural interfaces",
+      "medical implants",
+      "aging population",
+      "neurological disorders"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelVBZTFCZDBjUTQwLVhob2kwR3A5UklXQ2lyVGlYZDluNW5zd1RrcjdJb2pCLVpfZHZtR0dXZ1YwaUJTdXBSalVsUnc3UzFiQ1Zhc0U0em1CVHZOdzdITHJEdHlvTHNOT2ZPU1I3RXR3ZFZfN3pIMlhYdXhJWV9FVU1Wdm1FdVVtUkh6MUxjbWx3TlduVS1kTE5ZNWtFck9fTTl1b3NKVDZXUlJqdDF6R0phZ2t3SHcwUS03OG40b9IBxAFBVV95cUxQZFlpeXBnSTJURFZRb01Ua2NvM1A2VHNocTN4UHd3QXZjcDVUN29aMFFtRlc2MTNJcTl6dVBobWNCa21MdzFXWEtSQ1RncEdqWFRjNDdZSmxqd3Vac29vLW5rZUlQc1hXOTQ5ajZVdHZEcWU3aHBWWXNOZHpHVVhVMXpHQVFET2lPbU5tQzFZRXppa1Nna1l4dW9mdDdPN28yQWVZZFppTThOakZZSmhzbDhRUWtYX2ZGdUJYWUQ0ai1HZEpf?oc=5",
+    "title": "Bridge Neurotech Raises $13.5 Million To Develop Non-Invasive Brain-Computer Interface Using Ultrasound",
+    "source": "Pulse 2.0",
+    "published": "Wed, 07 Oct 2026 21:14:36 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Bridge Neurotech raised $13.5 million to develop a non-invasive brain-computer interface using ultrasound instead of surgical implants.",
+    "companies": [
+      "Bridge Neurotech"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "non-invasive",
+      "ultrasound",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+    "title": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo closes $5 billion in debt financing, its first, drawing backing from PIMCO, Blackstone, and Sixth Street as the autonomous-vehicle company accelerates global expansion.",
+    "companies": [
+      "Waymo",
+      "PIMCO",
+      "Blackstone",
+      "Sixth Street",
+      "Capital Group",
+      "Apollo",
+      "Goldman Sachs"
+    ],
+    "people": [
+      "Steve Fieler"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "financing"
+    ],
+    "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
   }
 ]
