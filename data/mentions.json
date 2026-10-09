@@ -73837,7 +73837,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -73919,7 +73919,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74062,7 +74062,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74117,7 +74117,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74324,7 +74324,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74401,7 +74401,7 @@
     "first_seen": "2026-10-02T19:43:25",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74724,7 +74724,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -74804,7 +74804,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75059,7 +75059,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75108,7 +75108,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75317,7 +75317,7 @@
     "first_seen": "2026-10-04T18:30:36",
     "week": "2026-W40",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -75521,7 +75521,7 @@
     "first_seen": "2026-10-04T18:30:36",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77005,7 +77005,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -77102,7 +77102,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77209,7 +77209,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77235,7 +77235,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -77479,7 +77479,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -78762,7 +78762,7 @@
     "first_seen": "2026-10-08T20:28:20",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -79310,7 +79310,7 @@
     "first_seen": "2026-10-08T20:28:20",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -79789,6 +79789,1102 @@
       "financing"
     ],
     "first_seen": "2026-10-08T20:28:20",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnhQbW5aVF9TWjZTTEQxSV8wcXNVVWpoS1dyaTFZREh5bWkxMzlKYmJWbjJoWGw2TnVyQmtkZUtwX1dyNUhQOXlWWEZnd2MyV0dIM3ZhcTlheWpweXRleWZidjM3VzlLbG9tX0hmQzdMX0dMVTZvODhWbVozc1dBTk9LTmdTbGxaYXV4VF9DX0lLS2ZUeEI4YlV3aFFrQlNMcjBabGxqS3gzcmU2SFQteDNYZy1NRmNNLUlkSUtNMHpUcjhSaXdoWWROLXc1TkMwRXdj?oc=5",
+    "title": "IDC: AgiBot Leads Global Humanoid Robot Shipments With Over 8,600 Units in H1",
+    "source": "Gasgoo",
+    "published": "Fri, 09 Oct 2026 12:16:28 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "AgiBot shipped more than 8,600 humanoid robots globally in the first half of 2024, according to IDC data, establishing itself as the market leader.",
+    "companies": [
+      "AgiBot",
+      "IDC"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics shipments",
+      "market leadership"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhdGFNa1ZFbElGblkzNUQ2Z1Mya055bWN4YWtFVXhfU1p0VnQ2NDhHNGZ4Z1duRTI0Sm5tNkdRWUZuZndqZG1ZR2pFV2hIUEc0UGRaNktXd2ZiUklvZE15MVUwWlVVNFdKZHE1cTExb3M5bEYz?oc=5",
+    "title": "BYD humanoid robot design emerges as formal debut remains pending",
+    "source": "CnEVPost",
+    "published": "Fri, 09 Oct 2026 05:59:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "BYD's humanoid robot design surfaces in advance of an official launch that hasn't yet materialized.",
+    "companies": [
+      "BYD"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXZrZ3JqbVpUeVVudkxXc3NfQnBmUkoySWJYVTVTUVNlNFFqUTE3NGJ2THhuLWZDaGVZQkdZQWZnQnRiSzVWeWswTm82YUNoUGFIUmo1NTVCRmRmYU16ZXV6bllLVWxSQ084OGhKZHBWZUJSZ3l5LXNURGx5Z0ljQmdOUHQ0d2NDRllNVkN4SkdmX202Yl9QaEk2UFFMQ2FvdnhRSzlyY09XXzZUdXpwaG1sX251WDg?oc=5",
+    "title": "A tiny humanoid robot uses an Android phone as its brain, and it costs just $400",
+    "source": "Digital Trends",
+    "published": "Fri, 09 Oct 2026 11:40:31 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese startup has built a pocket-sized humanoid robot that runs on Android smartphones and retails for $400, making physical AI accessible at the impulse-buy price point.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "mobile-powered",
+      "low-cost"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjhrVVprTXRPX1RaekYyTlJTZ0hQOVpCMG9wcVZyV2VITUZRZ015cHlTOXJBYnJBMG11TG9kcHNqLTliSXNkUUJTWDg1aFRCci1ueUhralBIRjZUeUZ2NDNUODQtelZjZmlmbmpQMEdRTFJ1UXdEZ0ZoSXFjdW5jZ2hEbFNvX1FjQlZxSlVFY1FrZ2RnUGtKdFJ6QzhtVzJaMVRvZGxyQkdPbTNQdlgzbndHSF9ZWFlTa2FIemFQcHFjdVBIRDYwUWx5VQ?oc=5",
+    "title": "UCCS adds humanoid AI, 'Ami', robots to campus as learning tools",
+    "source": "KOAA News 5",
+    "published": "Fri, 09 Oct 2026 07:03:46 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "University of Colorado Colorado Springs deployed humanoid robots called Ami to campus as teaching aids, marking an institutional embrace of embodied AI in education.",
+    "companies": [
+      "University of Colorado Colorado Springs"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "education",
+      "robots"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM2hjVk1DWTN3Y0tIUUFQZGVWWEhvNXBkb0h3a2tFYVhUSHVNbHUxMkExeGFqZWJlYzAtUDEtVDVYYmlOZW40OENlWFUxUG9lZ0F5WkZvLUgwazJaUDlTTWJJRTBpSFNPenJmMTFqdXJEc0pGUEZRcDBCZkNYRXhidTJSQkpVYW9EQzZxWVdsSTBuclQyeFJVOTNLandhQlBsWEdoNTMzUFE0Q1d0VGtua2RXUTJ6VVBOaTN3R2RYdm9CeUJDMVNGVnlCUmZ6cFMyclNr?oc=5",
+    "title": "ROBOTERA Tops Embodied AI Benchmark RoboDojo Without Additional Data or Agent RSI",
+    "source": "PR Newswire",
+    "published": "Fri, 09 Oct 2026 14:44:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "ROBOTERA achieved top performance on the RoboDojo embodied AI benchmark without requiring additional training data or specialized hardware.",
+    "companies": [
+      "ROBOTERA"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "robotics",
+      "benchmark",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXRLQkFMRnFmM0dkN3FaZzBOWlhwbkI1akNSX0g1VjJCRHhoT1NhR1VMbHVfWklaTzJFdzFZTDJKbXVTa2o5c0VaUi1zeXR1Sl82TzZaTEdtbDZocVVRcmJOQUs0LVlvWW9IVGQ3eXJ5QlNkVzE3NVlQcnZoLThheTBFajNGTWhjM21oNzF3?oc=5",
+    "title": "UBTECH and Volkswagen team up to test humanoid robots in car factories",
+    "source": "Interesting Engineering",
+    "published": "Fri, 09 Oct 2026 10:07:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "UBTECH's humanoid robots will be deployed on Volkswagen assembly lines to test real-world manufacturing tasks.",
+    "companies": [
+      "UBTECH",
+      "Volkswagen"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2xOdW5zSkJ0b2FNVV9sNGVDUG9VN3VLX2hPREZ4YVlYaEsyb214Q3VNejh2WDdaWG1yYjJtTlN2NGVDN1QwUTktRHB1MlJlaG9OeDdvdjZkOV9VUi1WTTlxM0ttRzBhS1RfSmM5bEszMlpacmpFaUxDeGJ2UUlYa3cxU1dHLTlyRjVMQVZiSUxtNE5oRlhpSS00ZkxOd3BU?oc=5",
+    "title": "China Tests Humanoid Robots to Direct Traffic in Heavy Rain",
+    "source": "TechRepublic",
+    "published": "Fri, 09 Oct 2026 19:22:50 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China deployed humanoid robots to direct traffic during heavy rain in a real-world test of autonomous physical systems operating in challenging weather.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "autonomous systems",
+      "deployment"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xaXBNaTRxMHh1Z1NMWEV0bHBBR0E4RkRORWY2VFpJNHktaUZ1enhTT2s1SFdQclJsMXNFZmFyRWZ6RVIyNTBkQi1Gd3ZUV0NvY1JfU19ocFYzVkRwNkRhOF95am94UnJjd0Y0?oc=5",
+    "title": "California athletic regulator orders REK to stop unsanctioned human-robot fights",
+    "source": "Digital Watch Observatory",
+    "published": "Fri, 09 Oct 2026 18:52:02 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "California's athletic regulator ordered REK, a robotics company, to cease unsanctioned human-versus-robot fighting competitions.",
+    "companies": [
+      "REK"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "combat robotics",
+      "regulation"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVE9FVndDaTRvd0VmWG5CRzc0MUt0YjJjVlY1bWNtYzNtanFXM3NYa3dwQS1VanZpMEM1d0NJTnB0VEFEYjJIM1B5SnpxWGdiaTQ0V01YNmJncktvV3pFM3h2T1dGcFhYZFZxLTZ0MGRhQ3U0SURBWWJiUFBSa05EUVlxU2FvVmtraGFXcjBfRUM1SXh2cWNrRFlZeVZpNHlieEE?oc=5",
+    "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
+    "source": "The Robot Report",
+    "published": "Fri, 09 Oct 2026 17:09:06 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics unveiled design details of a new humanoid hand for its Atlas robot, engineered for dexterous manipulation in industrial settings.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "dexterity",
+      "manipulation"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0ZCNU9aNThHZmlvLW1jbW9KaEJiY0dQcExJdEJFc1VoZmpJbDhiQlMzMXlhdGdKZExyZ3VzUzhGTDdFZVVvSzl5dTJ4VFJMeVVVUDdxSWZTVVQwTmFCbmxMNmNVYUMxelJEcjk0ZlhLWEdXSmxqcGdkVU43RGsySDdWYnlJQ2xUUUVqMkotZUpQMjd1?oc=5",
+    "title": "Jabil discusses the pace of humanoid robot development and production",
+    "source": "The Robot Report",
+    "published": "Thu, 08 Oct 2026 16:28:24 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Jabil, a contract manufacturer, offers commentary on the timeline for bringing humanoid robots from lab to factory floor.",
+    "companies": [
+      "Jabil"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "production"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb040LWdLbXpDcWVpQVVPaGpEUW81Q25vTmgwNm9TV25lbnpkRl94aG9DQXM0NGlTRG5kZlJtVE1sbXJUYnB2S1M1Z3Z0dEgxcVZqWXNXRjNDUThhdjNQT3EzY1dSNTcxcGR4MjZZX1lDc3BPMk1Qa1laWVZPSHNPME56ZXhMTlBwSkhFX0FHZnZURFU0Y3ZJNnZxcHRfLUU?oc=5",
+    "title": "Mobile OoH: Seedtag Sends Robots Through Manhattan In Ad Campaign",
+    "source": "Sixteen:Nine",
+    "published": "Fri, 09 Oct 2026 14:16:11 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Seedtag deployed autonomous robots as mobile billboards through Manhattan streets, expanding programmatic advertising into physical space.",
+    "companies": [
+      "Seedtag"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous robots",
+      "mobile advertising",
+      "physical AI",
+      "out-of-home"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUXJuOENfRjJXd2VuWVF0Y05YM2xHdGhpM1ZUdkNRSU9mbVNzV0JlVlhNZXVfSHgya19vdGxwOW1JQXB1OHNWSV9oQ2RVUmhFWUs1dVJDWDdPVWhoLWx1eWE5VjNYbS10SFh6V3ZBMUNNdlJ2T2ZURmtBY1JqUjI1UmRoQdIBiAFBVV95cUxNRlBma0lLUGdYbVJ0QXJ6a09wa25uVVVuRWs0c1d4aVB6dE1ZN0l2M2dPUjZwd3BmWmJCakJIakJvcndKYTQ3UTVGMk91VUVtcjJKbHdnMEwwclZjM293TlQzUFN0YUJ3bTN4N2VvbXVRczZYODcyc0JDXzRUdklKSHRlQjFkdTJG?oc=5",
+    "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+    "source": "CNBC",
+    "published": "Fri, 09 Oct 2026 17:10:13 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla rebrands its driver-assistance system in Europe to sidestep regulatory objections to 'Full Self-Driving' marketing claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "marketing"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV250TWJ1ZlRmak0zTWREOUloN0VqTXBaMUFDM25yRENjSllTdHNMZ0RrSF91WTBOUVhMYkxXVkswQWJGaWhKaV8wLXdOYVJ2bXEyZkliMlpmMDlYU3I1YVFuYWw4V0N6dEpyNnoybTBXOUVFX1ktSEZxQ19IaGxEUk1PT1dQOHVBdWpyOUg2WWM3OUdPNVZMQWdRRktzYWFaR1JSZGREQXJJZGdYQnpfUGM4YkF6RTh0M1dpNkwxUUlIcDctVjhvNzV4dUxjeUdNSkJ4Mm43MDI?oc=5",
+    "title": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software",
+    "source": "Reuters",
+    "published": "Fri, 09 Oct 2026 15:09:19 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla rebrands Full Self-Driving as Assisted Driving across Europe to navigate stricter regulatory requirements and secure official approval for its autonomous software.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory",
+      "autonomous driving",
+      "software certification"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnJEV3lEaHZrclRXcmRvamIzWE9TSktyUDI2bjJKdkJNamtYWkpqVE0yOVVhaDJjcThTd1FDc2VLY1NvQ3VaQVdSQllNM3pHOHJpQTZ5djI0X3JOQVhoNTloeG5KZ0Z2TlBpRVN2dTc1WnM3S1VaWllRcklRYlE5Y1lrNEtWZjNkX2RORDBCU2JjNWtUZ0tWczJ6VHJwNENtSjF0Qw?oc=5",
+    "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+    "source": "TechCrunch",
+    "published": "Fri, 09 Oct 2026 16:07:26 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla relabels its Full Self-Driving software as Tesla Assisted Driving in Europe, a regulatory concession that drops the word 'autonomous' from a product that can't drive itself.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory compliance",
+      "marketing"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1o1S3BSdEtZWnpqMmlNb240Y0NNU216QWFSblJmZHRFbUN0cjcyNzNtdlV6RGVibDNEbTV1UXIwM2xHRHZud2psT0dscmw4TkxGa1pqaWxnZGFlUlAtZnJZUGExcHR2ZmxkcTZpYW1XQ202Z2g4STVMOERMZEVSNU9YaWNvQQ?oc=5",
+    "title": "Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
+    "source": "Electrek",
+    "published": "Fri, 09 Oct 2026 15:16:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla renames Full Self-Driving to 'Assisted Driving' in Europe after German regulators object to the terminology.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory",
+      "marketing"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3lxaTg5UE9DV1RCWUIxWXdkV3lkM285ZnNSWXJLamNoc09JQlRpSnd4bDFBeTFoaWF4LW9FNkRLeXlNdGppeTVWSGJ6NVcyamh4UDRKb1B4VnhVY2RVeW9TcWV4anN3ZXc2RnEyVkZCV3lET3JSZE8zelNXR09hVlc4U0xkVkU?oc=5",
+    "title": "Tesla is rebranding \"Full Self-Driving\" as \"Tesla Assisted Driving\" in Europe",
+    "source": "Quartz",
+    "published": "Fri, 09 Oct 2026 13:12:37 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is renaming its Full Self-Driving system to Tesla Assisted Driving in Europe, a legal retreat in a market where regulators reject the autonomy claims baked into the original branding.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory compliance",
+      "autonomy claims"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tRFBKWXBuenFwbU91N1Z6WnVpb2tBNUZ3TDNFYlIwOGlyNXItVVBoa2ZUUExWOXpZekJHMWdoQXc3THJVcWtqM1FZTDM0eFBiSlNjanVLZ0d6SUVnR1Mzd2xEUFBJSEl0anNqSWhaWlpyYTBi?oc=5",
+    "title": "St. Paul City Council president seeks rules around Waymo",
+    "source": "Pioneer Press",
+    "published": "Fri, 09 Oct 2026 12:31:47 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "St. Paul's city council president calls for regulatory oversight of Waymo's autonomous vehicle operations in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGJYNjYtb3c3V1dKcVdDWmlmdUwzQXRiYkJ6ckk3VjVjUlUzdkFWQXE1bWw1dHotLWNQUlFLYU16VmNPRGFZTUc3SF93eWZ5bjdlaHhYU19TbHQ1YVZMWWI5eTBfT1ItdVVHelJwVW9BLVExVDVENU9ORjl1R1d3Vk8tVQ?oc=5",
+    "title": "FMCSA exemption gives driverless trucks a green light",
+    "source": "Land Line Media",
+    "published": "Fri, 09 Oct 2026 15:30:48 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Federal Motor Carrier Safety Administration granted an exemption that clears the way for driverless trucks to operate on U.S. roads.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "regulation"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlJFN0VXNGlFRHFoMWhfV2lOMXlIRUJqb3lUbGRrSGlOMVRvSkVubVRoSkhvc0pieVpSUGQxTnJCbkN1bWVRZmRPdU5WN1paWE1oQVdacWZIdjVIME4tUzIxelhqaDJxeTdhd1NWU3hHckFoYmRhYlB1THpYeE9ub1BUa3hfQjBFYnRIY2FadjZsdldZWUg4OVJITmluck9TMlVadFo1MGhBUXFJeXFudENQQQ?oc=5",
+    "title": "Tesla Drops ‘Self-Driving’ Branding to Appease Europe Regulators",
+    "source": "Bloomberg.com",
+    "published": "Fri, 09 Oct 2026 12:00:35 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is dropping 'self-driving' language from its marketing in Europe to comply with stricter regional regulations that forbid claims of autonomous driving.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory compliance",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmRsa2IydTNNdDVuQUxubjROVzlRU0tmdHJIUDVYY0M4bDFvcGY5ZG5zWmV3cnJCQ3BKdGVVdGxZcjlzYnRORy1SLU9GLVRBUUMycEN5MllUQXc5Yjd3TGkycV8zdmpPT09Fd0VtX3B0OU15amZsbkpodlFsNHNKR2Rtbw?oc=5",
+    "title": "Waymo's Expansion Hits Local Speed Bumps in St. Paul and Philadelphia",
+    "source": "PhillyVoice",
+    "published": "Fri, 09 Oct 2026 09:01:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "As Waymo pushes into new cities, it's running into skepticism rather than red carpets. In St. Paul, the city council president is calling for formal oversight rules before the robotaxis get comfortable. In Philadelphia, after more than a year of testing, Waymo still won't say when — or if — it will drop the human safety drivers. Together, the two stories suggest a company moving more cautiously, and meeting more resistance, than its California and Arizona rollouts might have implied.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "testing",
+      "regulation"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmRsa2IydTNNdDVuQUxubjROVzlRU0tmdHJIUDVYY0M4bDFvcGY5ZG5zWmV3cnJCQ3BKdGVVdGxZcjlzYnRORy1SLU9GLVRBUUMycEN5MllUQXc5Yjd3TGkycV8zdmpPT09Fd0VtX3B0OU15amZsbkpodlFsNHNKR2Rtbw?oc=5",
+        "title": "Waymo's Expansion Hits Local Speed Bumps in St. Paul and Philadelphia",
+        "source": "PhillyVoice"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tRFBKWXBuenFwbU91N1Z6WnVpb2tBNUZ3TDNFYlIwOGlyNXItVVBoa2ZUUExWOXpZekJHMWdoQXc3THJVcWtqM1FZTDM0eFBiSlNjanVLZ0d6SUVnR1Mzd2xEUFBJSEl0anNqSWhaWlpyYTBi?oc=5",
+        "title": "St. Paul City Council president seeks rules around Waymo",
+        "source": "Pioneer Press"
+      }
+    ],
+    "body": "<p>Waymo's autonomous vehicles are now familiar enough in Phoenix and San Francisco that they barely register as news. That is not the case in St. Paul or Philadelphia. This week, the company's expansion into both cities produced not fanfare but friction: in St. Paul, the city council president is pushing for formal oversight rules before Waymo's vehicles become a routine part of the streetscape, and in Philadelphia, after more than a year of on-road testing, the company still will not say when — or whether — it plans to remove the human safety drivers currently riding shotgun.</p>\n\n<p>The Philadelphia testing program has run long enough that its ambiguity has become its own kind of answer. Waymo has operated there for upward of a year, accumulating the miles and data that typically precede a driverless launch elsewhere. But when PhillyVoice asked for a timeline, the company offered none. No date, no season, no milestone to watch for. That silence reads differently than it might have a few years ago, when Waymo was racing to prove the technology worked. Now the technology mostly isn't the question — the politics and logistics of a new city are.</p>\n\n<p>In St. Paul, the conversation hasn't even reached the question of driverless operation. The city council president is asking for rules to govern how Waymo operates at all — a request that implies the city currently has little formal say in the matter, and would like to change that before the vehicles become entrenched. It's a preemptive move, the kind of thing municipal officials do when they've watched how these rollouts played out elsewhere and want a say before, rather than after, the cars are everywhere.</p>\n\n<p>Taken together, the two stories complicate the narrative Waymo has built in its home markets, where the robotaxis have become something close to civic furniture. California and Arizona got years of iterative buildup, regulatory relationships built over time, and a public that grew accustomed to the vehicles gradually. St. Paul and Philadelphia are getting a company that has already proven the core technology and is now negotiating, city by city, for the social license to deploy it. That negotiation is turning out to be slower and more contested than the engineering ever was.</p>\n\n<p>This matters beyond Waymo's quarterly expansion map. The company is the furthest along of any robotaxi operator in the country, and its experience is the template other cities will reference when autonomous vehicles come knocking. A council president demanding oversight rules in St. Paul, or a company declining to commit to a timeline in Philadelphia, signals that the easy wins — the cities eager to be first — are behind the industry. What's ahead is the harder, more typical American city: skeptical, procedural, and in no hurry to hand over its streets without conditions attached. For an industry whose entire pitch rests on scale, that slower cadence is the real story.</p>",
+    "slug": "waymo-s-expansion-hits-local-speed-bumps-in-st-paul-and-phil-553062"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYldMeElseFhadXkybkktR0swTklvbVVTZVpZazBhcUYyZGR3dHhUMUE2ZVVsOC1pbFRjcVJGajk5Tlo3bFhqeGRVX0ZSSmV3aHVWR1FyQmFYQTJfR1MxVFB6UUozLTNoRHNiMVUwcEpFTk51TEk0MUxuRlM2X0ZJRm8wemM1MVo2cFFQcGRlVVlkcUZmNnVDREUtTmdORnJVLXZ5SXRYT2VWLXNEdlFaSDQ1NXE4Y2syTm0waWpPUUpmWVBxTi1xMjRvTWZhTlRoeUNDb1h1OUtPdw?oc=5",
+    "title": "Stellantis CEO says Wayve tie-up can cut self-driving costs, development time",
+    "source": "Reuters",
+    "published": "Fri, 09 Oct 2026 12:02:24 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Stellantis CEO Jean-Philippe Imparato says the automaker's partnership with Wayve will accelerate self-driving deployment and trim engineering costs.",
+    "companies": [
+      "Stellantis",
+      "Wayve"
+    ],
+    "people": [
+      "Jean-Philippe Imparato"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "cost reduction"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SRGt0bWFBQVhHZUZRaEp2c19MXy1qS1dnMXgwdlBMdU1IWGhnTUt1U2FxM1k3T0lQMEM2cXZfWjlCM0xyeDIwSEU1WFpjSWJzZGMteXdDNVZtYTZYd3QxQzA1R2pVYllMSjMyWg?oc=5",
+    "title": "Tesla renames Full Self-Driving to Tesla Assisted Driving across Europe",
+    "source": "The Next Web",
+    "published": "Fri, 09 Oct 2026 17:36:39 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla rebrand its Full Self-Driving suite to Tesla Assisted Driving in Europe, a legal hedge that acknowledges the product's actual capabilities rather than its aspirational name.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory compliance"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWRVOFd6Mnlsc3RDZUZIODdKMUM3YzBHbGR0eGx4NV9fc3RIWTUzeHY5MzRzZ3NKWnd6VC1Id3g4NmJlYnphSURpMnNLZVpKRU12Y1FUSGQzdEV1anBKZ3lLazNPRTRGMEhrUlJSeW13SDJoZFVrWENTbnZjaVZsWUlweDktaHhfT0pZWEtIRTJ2eW4wQ1lfTE02QW9xNUtmMWc?oc=5",
+    "title": "Tesla Drops ‘Full Self-Driving’ Name in Europe",
+    "source": "Yahoo Autos",
+    "published": "Fri, 09 Oct 2026 18:14:30 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is rebranding its autonomous-driving suite in Europe, dropping the 'Full Self-Driving' label amid regulatory pressure over misleading nomenclature.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory compliance",
+      "autonomous driving",
+      "branding"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVRmOW8yQWRUa29wdTJCaEV2Q1hDSzJUR1dEcDU3YUNTYVdJV1JiNm55Y3VBZ3F6VlVrdUdNcEVpYUMzVUsyaV82NHFYRWZRSktpZm1jTXBIejNZM05rakNQRThYQXpNTnZOVWpEZXpZSTJNb1dSTkxHLW9kRnQwR1AtcGpLNXd5VEQ4WUlhZ2QwX1FoMHdIdjFwUWpTb0JaTEVwbUdDd2l0WFRUOExQZVcyaw?oc=5",
+    "title": "Arrive AI and Modovolo Partner to Advance Autonomous Drone Delivery",
+    "source": "Stock Titan",
+    "published": "Fri, 09 Oct 2026 12:17:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Arrive AI and Modovolo have partnered to develop autonomous drone-delivery technology, betting on a market still waiting for its first profitable operator.",
+    "companies": [
+      "Arrive AI",
+      "Modovolo"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous delivery",
+      "drones",
+      "logistics"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1ZmT2U3QTRCcVl6RGlUNHBRaUIzOWpmS1UwTlVLbm43aXZyS1NwaFQ3ZTYwdnpOV05tNDNMNkVyM0E4ZE1tcDZTTm1IaDN3YzVaRG9fWjhRTWVUQUpVanpucXd3VndJejJHUHl1LTFJUURiS1d5dzhCZ3o1YnRHNGdyVDhCUHdFeFp2WkZUdmk?oc=5",
+    "title": "Bringing real autonomy to battlefield drone swarms",
+    "source": "Breaking Defense",
+    "published": "Fri, 09 Oct 2026 12:32:50 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Breaking Defense examines how military drone swarms might achieve autonomous operation without constant human control.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone swarms",
+      "autonomous systems",
+      "military applications"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWh5N2kwUUNkQjI2Vmo2RzNQbkZYU2oyUE5zRUNDQTM1OXJJa3RoaUxrZlNJQkcwbVhYVUowb1lwWXNVbkxvRHc1aWd0VFdCMXRic2hwTU5kMV9WdFpNSXlmZGd3QmRrWWhWWjE0TU5hSDRKcVJ5TnpFZG02RVVfOE9qUnpLeWR0SUwtWmVZcmZIMVFsRnZEMGxmcWlpMG5E0gGmAUFVX3lxTE1Fc05rdEhYa1p1RV9QdnJneFJaMVVFNlI3dE90NXJWM0NxX1JDU3BSeDFkSVAwMzljdTBNNTIxU05hdjFwdkp6NC0yeUhDa3dKb0ZXTDFjejhmTHlaX0doRWZQTkUzeThVc3h5d2oyY1R0MS1HR3NvbnI5eTF2dXpCM2hLOUxqenQtNFhNaUQ4cmEtc3NkVHlnRGJ3MGJmT2tialhVdnc?oc=5",
+    "title": "MIT Develops SANDO Navigation System For Collision-Free Autonomous Drone Flight",
+    "source": "Pulse 2.0",
+    "published": "Fri, 09 Oct 2026 16:15:40 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "MIT researchers unveiled SANDO, a navigation system that lets autonomous drones fly through obstacles without collision-avoidance slowdowns.",
+    "companies": [
+      "MIT"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous flight",
+      "collision avoidance",
+      "navigation systems"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWXhTcXU3YVJhOWRpNGQwdC13aFMteFp5Y21fSUdIZS13UmEzdUhPeS1Mdk5QSjJuVU5HalRxR1N5dzFmQXJLYWtocndqMFgwQUJvd0k1ZmFMTjZGbHhkNEw2UVh4dkpaeTNaREZkZVJnbGhVNi1PNno4LVdXYlRRdmtzeVpRNk9qbDV6RTZ0YzF6OGVySE1sWmFZQURuN3dzTlhGaXozODBGSG5KbGo5U0xFdnd6ZUhtOEJXYkdZTGk3aG5TZU1fb0s0LTQyd2N5MnhocDNoX0FSTW5aaU04ZVJWbGtZa2pK?oc=5",
+    "title": "Arrive AI and Modovolo Partner to Advance Autonomous Drone Delivery",
+    "source": "Eagle-Tribune",
+    "published": "Fri, 09 Oct 2026 12:22:06 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Arrive AI and Modovolo announced a partnership to develop autonomous drone delivery capabilities.",
+    "companies": [
+      "Arrive AI",
+      "Modovolo"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous",
+      "partnership"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFl5aUo5SUNiRXJKNWkxdFFaR1V1WV9mMVpnLWVuWnR4OE9CRHFvTkp6REMyU2J5RWt0UUxvZkdxZTdUTzB4Mng4eGhIQkNyQ2NKU2dqdUM4Q2pIOHJZYXZheFNjd1I1anhkemdrQUZHNVBVOUNnTHNnZ3lYRmZBbDJIeDN3SURIZ2FMSzNnbnN0TU05Nk11Y0g0R1dFM05HSklxQWFROVBlMXc3NVFubEhKTHBJa09zMzU4?oc=5",
+    "title": "US Navy bets another $150M on fighter drone that skips the runway",
+    "source": "The Register",
+    "published": "Fri, 09 Oct 2026 12:44:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "The U.S. Navy commits $150 million more to develop a carrier-capable fighter drone that can take off and land vertically, eliminating the need for a runway.",
+    "companies": [
+      "U.S. Navy"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "fighter aircraft",
+      "vertical takeoff",
+      "military",
+      "carrier operations"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUU1MHktTkhnNk9IcWo2UWhhM0JIMW1RR1pMT0pOY083Qlo3UXBkdEpDTGxOanRWek5vLTJCSDJFdlNWSzkwc21uTENmNXpheXEtSmVHdXRUOTlnZHNHcWtqTE5WZUFrZ2h0RGFPUHFCRmZheHlrLUFER1V0S0VHOGdGU3VweXVNbGpxWVBZVWhKc3dQRVhvbzFzWEhnZUpXTEhYeGpjblJhN0VmX1lTbkFlOUlfQkw4M1E?oc=5",
+    "title": "Arrive AI and Modovolo partner on autonomous drone delivery",
+    "source": "StreetInsider",
+    "published": "Fri, 09 Oct 2026 12:26:15 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Arrive AI and Modovolo announced a partnership to develop autonomous drone delivery capabilities.",
+    "companies": [
+      "Arrive AI",
+      "Modovolo"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous",
+      "partnership"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFZQbV9pV3FfeGFNUnFmbjM3VkhlbGcxM2k2MzRtbDJZaDNCMHMzVUxMbGEwSzNHV1ZRMFNla3AxTUVPNUNUN0R6X2U0TUtIMXVRRFNrdjJ1ZWx6VXhWTzBKMGd5NVg2OHRrLVRHaUFmVHZVTld1WkNEbGxMRUwyTTd6TnVSeEhSeTY2eXRya3FTMVUwVGlUZm5SMHVaVW0yVC10SWpmNW5USUx5MEtYbm1VMGU0RDhXUGZDSlZ30gHDAUFVX3lxTE9ydTRJRmxic1d6OXJVRTRqMVNqb3phdUY0Skl2TlVXMmpieFZjSC16aWJNZVNOaHg1U09lYXNOVGJXRUUtVF9HTlNqY1FvRmppUjVYZmVpN1BsTXJFQXE4aVBSYVRTSmFMLWpMdGZ0NWd6Zm1MWW5ZOFBNcFo3MFNYZkhiY1lnQTVndFZpc0ZFejVVSXMyc05vaGRnT3dFSXZicUJ3eEZMdzdOMWs3MXREc1lWcUxYSW9vRm9rRkVyZWZZQQ?oc=5",
+    "title": "Ouster Stock Faces A Bigger Adoption Test After Drone And AI Vision Deals",
+    "source": "Simply Wall Street",
+    "published": "Fri, 09 Oct 2026 09:04:30 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Ouster signs drone and AI vision deals that will test whether customers beyond autonomous vehicles will adopt its lidar sensors at scale.",
+    "companies": [
+      "Ouster"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "lidar",
+      "AI vision",
+      "adoption"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1VrUktsYmlNeUZQZWZDT25MYjI4Y1dteHRHdklwaENLdlgtTVB3bms2VXk3WkpGdy1kaE5DcXRfMmRZMHRUSnBCQWIzaHJhbzlQTUxvdXZuOE5YUjRqM1VpSWxQX3U3OHFmY21vS0NyY19MRGl4RGU5M3BDRnFTcGVPem1ZOHBSV2dqWDVPTUFMTEUzVWRsYVlFX1FkZ2plbDZuNjh3YjBEaTBNU0VVTlk2UXZpUjlqSGc?oc=5",
+    "title": "Skyeton introduces Stormbird fixed-wing drone for autonomous and guided precision strikes",
+    "source": "Defence Industry Europe",
+    "published": "Fri, 09 Oct 2026 06:17:52 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skyeton has unveiled Stormbird, a fixed-wing drone engineered for autonomous and guided precision strikes.",
+    "companies": [
+      "Skyeton"
+    ],
+    "people": [],
+    "themes": [
+      "fixed-wing drone",
+      "autonomous",
+      "precision strikes",
+      "military drone"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1A0ZWZsUEFXanVQSVBuZVU0U20tdl8zcGNoME1OSzFsLWsxR0Z0dDlyUGQyd0tDeW1Bb3NQMm1MMmtxN3QxQ1A5LUN4eGlmY2pQRmVFSjlLSjd0S3Q3NTE0SHFPVVh2Tl9RY3dGcW8tb1RpLUx0cDFPWnhQZlRVUktaUFNGQnYzb3RVOVBTQnNneGRHRDRaNTB3NU9wSUUyckhRSUhJbkp3VHQybFJvQV9hTEVhS2MwLS11Wk8xUGswUzZYWVE?oc=5",
+    "title": "AI, Autonomous Systems and Counter-Drone Technologies Move Up Korea’s Defense Agenda",
+    "source": "Asian Military Review",
+    "published": "Fri, 09 Oct 2026 04:38:27 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "South Korea elevates AI, autonomous systems, and counter-drone technology as strategic defense priorities amid regional tensions.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous systems",
+      "counter-drone",
+      "defense policy",
+      "AI"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1VpVTZMdlgyN0YyLTg2SnZtWlhybFBXZnNRYWhkeDlrN2NvWjBiS0gwSlEyNXo5YzhybF9IXzB1Rm80d3JtZFFoLXlDUFlFREtWSmRadkFYRnFVZ0hxZExHcXZIYjBuSkZ5aWgwdW1Pelg5cTY5cVBrYjFVZFRSQUx3dnJqemNLOFV1TlBubUE?oc=5",
+    "title": "Autonomous drone delivery touches down in Round Rock",
+    "source": "Yahoo",
+    "published": "Thu, 08 Oct 2026 23:18:12 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous drone delivery service has begun operations in Round Rock, Texas, marking another expansion of commercial airborne logistics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous",
+      "logistics"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGV5eW1xTnplVFp0TlBOVEJhaDVVTVVmSkR0Vl9nd1FGLTNGZTdBWVZnM0lEcWhDXzhXdXJSVlVDU21pbjBvOW4zcWtuRWhKV0UwWmJVRFFpRDRZSjZ1bzJFYTdmbUM0X1EydnkxdVpRcTQzeGRUNFlsU3BxN3BFZw?oc=5",
+    "title": "This AI-powered brain implant hints at the future of human interaction",
+    "source": "Fast Company",
+    "published": "Fri, 09 Oct 2026 10:34:56 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Fast Company explores how AI-powered brain implants might reshape human communication, without reporting a specific product or company development.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "AI",
+      "neural implants"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTndKazZFRDFPTjlLam1IX2piS3ZYMlh0dEFEZ2l2RjFFeHJfM2hxazlOaHE4Y01XS0tHQVljTGIxMTFfbTRhcEc5aWJuR1BqdWJNSVNqS0YzcS1XMTF0NnZUdWpGcFRrUnBFenhTd3VzS3prVkdHeGFxaTlaLVRDSk5VVWMwZ080QzNqUEpuWE1Jb3Q1a1E?oc=5",
+    "title": "Before Elon Musk Takes Neuralink Public, Here’s Where to Look for Profits",
+    "source": "InvestorPlace",
+    "published": "Thu, 08 Oct 2026 22:01:30 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "InvestorPlace surveys the investment landscape around Neuralink and Elon Musk's brain-computer interface ambitions, focusing on publicly traded alternatives and related plays rather than reporting a concrete development.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "investment",
+      "neural implants"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVZvWmxYQjVCRzBfOXlCN0dLTjV2OTU2cmk4MXhIcDNwZ1hCZTBVSHZUcmtUVHZ6RFpXbzNvZFJUUE9qNTdvcjdvX0xBcmM4WHY1V2JwM2M4Z0VtYUpiZk1yc0RBbmpLWWlCVUo3RHgySjlsZ19JdFVucDRaQUI0WXBoMHNfb0hwQmgxYW9vWjRhdk9JVVVOYkI2XzY2M1Frd0JlaUY2RzVjT0pDelB2ZURn?oc=5",
+    "title": "MintNeuro raises $5M to build brain implant chips and bring these closer to patients",
+    "source": "Tech Funding News",
+    "published": "Fri, 09 Oct 2026 13:49:04 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "MintNeuro raised $5 million to develop brain implant chips for clinical use.",
+    "companies": [
+      "MintNeuro"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "implant",
+      "funding"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlRuZ0RfcnBQbFMxZWthaUtkVUJyeXJ6VjRHbGVGNkdnVFpzOEtJcndYc05TTjJGMzRabkJzWE1QZ19QUWZmdUpiMi1WajNqaUxzaVJ3SjIxVXYwTmhrRTFIOFR4UmJ6TzFIVUNSQlVhb1R0YVdlck5US1c0TWoydEVqV184blUzMm5Ic2gyNFZVV3J0RUhfODdaTnlZQUE?oc=5",
+    "title": "China develops brain-computer interface to restore visual perception",
+    "source": "Realnews Magazine",
+    "published": "Fri, 09 Oct 2026 13:23:24 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Chinese researchers developed a brain-computer interface that restored visual perception in patients, marking a significant advance in neural decoding technology.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "visual restoration",
+      "neural decoding",
+      "medical BCI"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFo4MVFRaVJma0hSTUFLTmtmREQ0NjlUem9jZGlSRW5PZkhWVzRqM3VKQnB1UjB6R2w4M0VVQVhyRjdrMmxHdXZMSGs1X1N0SF96Y1psSzBTcERQNjhWOEVZU0Nxbi05bEF1TUZCa0p0b242MmJoLVNncEpFb2UtOUlvWkdQV1hlU1JNYUxzQlFwWTB5QnF2M1ZBTQ?oc=5",
+    "title": "Single Brain Implant Decodes Speech and Gestures Together in Paralysis",
+    "source": "Bioengineer.org",
+    "published": "Thu, 08 Oct 2026 23:53:59 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A single brain implant has decoded both speech and hand gestures simultaneously from a paralyzed patient, expanding the palette of communication channels a BCI can translate.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "speech decoding",
+      "gesture recognition",
+      "neural decoding"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vbTFlWW9QT2w3ZWRGLWdkWERwSkVoZUgyemZSRUpHenBCRlAteTJGQ0FQdzBUUFNiNU42MzhCT3dfQjI0TGlpWFJaRzhJMnEwZmZEeEdwdHBiS3Rfem5nRlVFemVJYm90ZlNfNTM3cy1iSnFFV1E?oc=5",
+    "title": "China's Neuracle: The \"World's First\" Brain-Computer Interface Approval, Zero Revenue from Flagship Product, Racing a 2.5 Billion Yuan IPO Against the Delisting Clock",
+    "source": "BigGo Finance",
+    "published": "Fri, 09 Oct 2026 11:25:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Neuracle, a Chinese brain-computer interface company with no revenue from its flagship product, is racing toward a 2.5 billion yuan IPO before facing delisting.",
+    "companies": [
+      "Neuracle"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "medical device",
+      "China",
+      "IPO"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0x2YW1QWjFCYVpDWTdzRGdkdjZVd0xtLWQ0N0J4NlNwdHIyZnJOSGhXTDMwU3ZsYkpYcUpXZFBfMFRGbWJYdnJTRmk2RkdfZUM1bW5GSG5Ud1c1dmdnd2d1MVFQTDlndTVQaGNaaHFGNDJhQVBRQ3pqeDZvWmRRLTAteVJ3b2tBNF9PNW9saDRuNnBWbnRZQXNRb1dPakd6NTlldw?oc=5",
+    "title": "Butterfly Network to chase ultrasound brain-computer interfaces with newcomer Bridge Neurotech",
+    "source": "MassDevice",
+    "published": "Thu, 08 Oct 2026 19:22:18 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Butterfly Network is pairing with newcomer Bridge Neurotech to develop ultrasound-based brain-computer interfaces, a shift from traditional electrode invasiveness.",
+    "companies": [
+      "Butterfly Network",
+      "Bridge Neurotech"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "ultrasound",
+      "non-invasive"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2RWJjRjZHM25EOVEwbmppenZGakYtR2dLN0Y4djRNWkNISHhuNUowR1pzVl9DMzB6aTgxVnVPblJ2QUYycWhfQTF2NnQ0Wlk1d1Fj?oc=5",
+    "title": "Neuracle Profitability Analysis: World's First BCI Certification & IPO Sprint - How Far Is It From Turning a Profit?",
+    "source": "36Kr",
+    "published": "Fri, 09 Oct 2026 04:43:30 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "An analysis piece examines Neuracle's path to profitability following its certification milestone and reported IPO plans.",
+    "companies": [
+      "Neuracle"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "BCI certification",
+      "IPO",
+      "profitability"
+    ],
+    "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
     "duplicate": true,
