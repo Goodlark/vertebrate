@@ -74750,7 +74750,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -74778,7 +74778,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75135,7 +75135,7 @@
     "first_seen": "2026-10-03T18:30:39",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75287,7 +75287,7 @@
     "first_seen": "2026-10-04T18:30:36",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77507,7 +77507,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77621,7 +77621,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77648,7 +77648,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -79819,7 +79819,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -80032,7 +80032,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -80321,7 +80321,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -80885,6 +80885,607 @@
       "profitability"
     ],
     "first_seen": "2026-10-09T19:58:42",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEVtZWRfY3J0SzQtR1c0clZUbFh2V0hCa296VjZUd1pRN21Xai1oTmZEbXd0TmJjb3RvbnlLN0MtcjlLQVNhbkZNcnRVQzFReUFINmJzSGdNdjFYLVMwOFVhY3YzRkNCUEdaQ0s5VWd5UDZsUG0zb2RWckw1V180cm5pQWRZMU5UWkc1ajlaTEx0V1JY?oc=5",
+    "title": "UCCS adds humanoid AI robots to campus as learning tools",
+    "source": "Colorado Springs Gazette",
+    "published": "Sat, 10 Oct 2026 14:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "University of Colorado Colorado Springs has deployed humanoid robots on campus as teaching aids, marking a real-world integration of embodied AI into higher education.",
+    "companies": [
+      "UCCS"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "education",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRDh5Z01EZEpPMW1zcF9lWm01dV9CVTNEYmU3Qi1BeFlLWloyYkZXUHdRT2xnTjdBZTVJbUt6Y2hPVW9mRVpOSVROeERsR3N1Q2lSalM3b0NJNE9IUl92SGhDQmdCSkUtTmJiOUw0dV9EZklINkZ6Sm5pRGhVZzdyRVVqRDhhM0ZDUThJNlR4RkQxakkzOU9YdFF0MTd4Yk9pZjVlRXVGUHB3bUVsbkR4ZXd1SXhoS1FUVjhkcnc3Y0NqVkJCdTB6UFlIYnJMZGtQMFV0T3BMbUh6eVlqRGlCdXl5VFdDZw?oc=5",
+    "title": "Interview: Humanoid robots are advancing fast. Manufacturing them at scale is the next challenge",
+    "source": "Robotics & Automation News",
+    "published": "Sat, 10 Oct 2026 12:13:48 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "An interview explores the technical and manufacturing hurdles facing the humanoid robotics industry as developers race to move beyond prototypes.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "scaling",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUVoczJXOFdCQmQxZGJ2OTl2SXVBQTBOTE5YMEU5Z2dfTHoydzZvd0VMNkVOcUZqVG5zTmhpQlo3Rlg2ZzFsc011VElvcFlUXzlyOThHSnY2blZUNEZkbTdTaUNpREJzaVctb1hFeC10dDg2QzBFdmU0alo0WlM1ZHl3VEY0R2NyTE82d3ZvdnhrbzZhVzRZWkMwSTc0U0pm?oc=5",
+    "title": "BYD unveils design for its first self-developed humanoid robot",
+    "source": "CarNewsChina.com",
+    "published": "Sat, 10 Oct 2026 06:25:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "BYD, the Chinese EV giant, has unveiled its first in-house humanoid robot design, signaling expansion beyond automotive into embodied AI.",
+    "companies": [
+      "BYD"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot design"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPM1BmUGlQMmxSZXlaZVRMU1hYOUpLcnNDR3lRZVZJdFdIaGNZc2JvUWdibnEwNnFaekp6dWtWcnl0WHVKRFhTcGQ0UWg0MHpSRkRhLVgyR2pfalhaU1NXTGJOQVQ0TDI4WlEyOTF5b3hpQlM0Z0k4aG9UUG83ZDA3V2hkeXU3Q2pFZTlUMUlKb2gzWUVuZTc0VnhBX29uX3NiM1dYdl82MV9LSnlZTjhlbFpiVVF4aC1CbEJPR3RWeVJlMjJ0NUNGUUxGYmRCc1lGQ3RtaVgzT3lQVERGbml2SWpiaWFCRWZaVDhLcWlDMU9hSU4tODJTTmY4eVVOeV9qQnRBWnRYSUY4VGpVQzVzUERqUXU?oc=5",
+    "title": "Robot Entertainment Kombat, recently held a fight in San Francisco between its 6-foot humanoid robot \"Terminator\", and humans.",
+    "source": "The Daily News | Texas' Oldest Newspaper",
+    "published": "Sat, 10 Oct 2026 09:06:25 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Robot Entertainment Kombat staged a public fight between its six-foot humanoid robot Terminator and human opponents in San Francisco.",
+    "companies": [
+      "Robot Entertainment Kombat"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "entertainment"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMzJuMjFmNkY1eEVCQnVqQWlBOHNZZ3ZkM200Ny1PU280dm5KNF90LU1pODFrT1ZhUHJpQ2Focnh3TnZnSGRRLUdWSXV1dXl0QVF3NnJLeXBtNmdab1ZDTVppZmRuWTFpenJNWXhhWllWaXVlN3REeVNsazVDXzhRMURZMU45T20yUFpxVEVoT2FLQnB2OEwweUZTMVRCaXpkX2FueWYyYWJMbFFLV0FEVmJLZ01nRFdaRjF1M2R5dTRSRFdFTVhkOGlwYWE2NVhYR2FXMkdOSkQwalI1Nm0tMVkwTnI?oc=5",
+    "title": "Hexagon Is Putting 1,000 Humanoid Robots In Schaeffler Factories. This Is Not A Copy-Paste Process",
+    "source": "Forbes",
+    "published": "Fri, 09 Oct 2026 22:53:43 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Hexagon is deploying 1,000 humanoid robots across Schaeffler's factories in a customized integration that rejects cookie-cutter robotics deployment.",
+    "companies": [
+      "Hexagon",
+      "Schaeffler"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "factory automation"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV09ac2QtTXFvV2dpMHNFZGJOM2xNd2RQUEVtZDYzX0dsM25GRG40V1U3TmFNR0ExUTlHaERpMlBtb1JaREtKYlZBVEcyMkNKX2FxNmdRcVEzTVZFNUpBSm9oNlVCelpGVDNmb080WDNVZkNqVDA2YzJCTF9kNWtPWGUycEE1QWxYNlJmLVpwNEtaSFU?oc=5",
+    "title": "How AWS is helping companies build physical AI machines that think",
+    "source": "About Amazon",
+    "published": "Thu, 08 Oct 2026 13:12:46 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "AWS publishes a marketing piece on how its cloud services enable physical AI development.",
+    "companies": [
+      "AWS",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "cloud infrastructure",
+      "machine learning"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX2Ewa0o3Sk9IYTBHOXdSNkpReHExSjM1YTVtUjkyVDlsbTlvVGNmZU9xRmJyVWJveXB1dTkxeEZYT2RHUnpJb1hVdm9KVnY0NkpEeEJlZk92TFNzTXlnNDcyalUzY2U0ZFhWc29la2J2TlNxR0pBM214bFlMLWRwU3otWUhtT1pJZ0lhSk9jSkRoNW0wZkN5LUdVaEVKT08zWGxxcVY0QVlQdlE5M21WNkRpSmNIakJf?oc=5",
+    "title": "Can a humanoid robot clean your house? A San Francisco company says yes",
+    "source": "Dispatch Argus",
+    "published": "Fri, 09 Oct 2026 21:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A San Francisco humanoid robotics company makes a public claim about household cleaning capability without reporting deployment results or customer orders.",
+    "companies": [
+      "unnamed San Francisco humanoid robotics company"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "household robotics"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNek9fUklOeEVGYmhHMzZmOEYxWEdxWkNGeUlWRFpYckZ4QVM0aDlkUC1OU3BZWllrSWFsQWR3eHR1SHlvTm04U3ZFNTl5eUNqT2dUS1BKOVpCLU1sMnl0UGJPVDhZWU04aC00ZW1sUjVubm15blRnZDREUGcwVjcxMUQ2aFpyNlk1?oc=5",
+    "title": "Tesla's Full Self-Driving Is Now Called Assisted Driving In Europe",
+    "source": "Engadget",
+    "published": "Sat, 10 Oct 2026 11:12:55 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla rebranded its Full Self-Driving system to Assisted Driving in Europe, bowing to regulatory pressure over misleading marketing claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulation",
+      "marketing"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdy1iSkc0ZEdYRzVOZDZtNndUbThKSmdMRlo4M3Bwd2hWdld4ajB3SFBUMmRhWXd4WG45V3VCY284TmpSam5FVkFheHNCN2VrNzRXcnN0MFpkb0ZXbDN4SWZmLU5pd0ZXU1c5c25sYmdOV3ltSXV4NHZNUENqZ2VieWctSFBCMExFdWFpa0kxaDA?oc=5",
+    "title": "Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe",
+    "source": "WIRED",
+    "published": "Fri, 09 Oct 2026 20:18:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla relabeled its Full Self-Driving feature to Assisted Driving across Europe to comply with stricter regional regulations on autonomous vehicle claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle regulation",
+      "marketing rebranding"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkw3dE5sVklsc09ERUtwakQtTG0wYTZfYXY0Vk10NWlEc09ILUJYQWQ5ZUNpb2pYTlFCVTQ1T1RGYWU5Nk40UzB6MHZ6RF9SU2c0MEhiQ3AyOE0wMGVaSnlFZTlab1dKck9IcHJqOV9hazdoZDlydDlJWFpFY2pVTjdlSXd3eFJhTGNpVFAyVndCcDRXaEJBa0Zn?oc=5",
+    "title": "Tesla Drops “Full Self-Driving” in Europe, Where Its Revenue Fell 10% Last Year",
+    "source": "Yahoo Finance",
+    "published": "Sat, 10 Oct 2026 06:52:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is discontinuing Full Self-Driving in Europe as the region's EV market contraction forces a strategic retreat from its signature autonomous-driving feature.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "market contraction",
+      "regulatory challenge"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUZ4dXZxSXBGNmZTMjdvTFFxb0xuN2hWa29Hbi14M0hPSk9wRUVmdDV1RlRCeU1kMHh5V005MUNHYkttYTk4SDJqTk5tVmZKMnR0bzEtUXh1ZXVBakR2LTdTX05tYXF5VEYyRWFqd3ZkT0o3dnBUQTFKaDhCNV9OMnYwSnktX3BIYW1HaXpHY0I2Uk9Jc1FncVVfOHpoRlMw0gGmAUFVX3lxTE5ETVpTb2dDaUxsUmw0Y1BaQk56SzhoSUNnUm5ERGhVZ0QwZjZOTGdPbGlVSnhncUYzTUhJVzdZNGFONTdwVGFFUzMwQ0lDV1ctT3l6aG1MdUczTkdvVktxeVZSaEhjVFZsT3MySkdKNlJ2aWwtOUF6bHdWNXlmZTZSZDQtYjV5UUJ2M0M4ZFdaT05FR3BxWTdsYmRqNkhHbEZIX3JJX3c?oc=5",
+    "title": "Workers erupt over DC plan to bring robotaxis to city streets: ‘This is bulls---’",
+    "source": "Fox News",
+    "published": "Sat, 10 Oct 2026 09:30:14 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Washington, D.C. taxi workers staged protests against a municipal plan to deploy robotaxis on city streets, citing job displacement concerns.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "labor",
+      "regulation"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Wb2QwbWxjTzFiaDJXdTI3UkU1bFJESFpXbDhqLW9TZy1FWU1UR1F6UVRzVzltX1VwY2xrblhSSXRvTzZpcXZUdWRRcExabU5SQVlJdG5SSkN4d1g2anBWejBuVGRmN3NBQ3pJ?oc=5",
+    "title": "XPENG ROBOTAXI IS OFFICIALLY NAMED \"XPENG YOYO\"",
+    "source": "XPENG",
+    "published": "Thu, 08 Oct 2026 10:25:57 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "XPeng officially unveils its robotaxi under the brand name Yoyo, marking a formal entry into China's autonomous vehicle market.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9md0VMd1BiSTE1REtaTnFWc1JsME9TUlNfZE0weU90emJaRk5JazZoLWNnVXpTZVJURmJMWFJnTDZXdmlYV0ttck5XaXhmMWZfSVQ0RXM2dlJ4TWtKNHJTSnJid3kwdDh0Vmlwc3BsdjFobWc?oc=5",
+    "title": "Tesla Drops ‘Self-Driving’ Branding to Appease Europe Regulators",
+    "source": "Claims Journal",
+    "published": "Fri, 09 Oct 2026 15:14:02 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is dropping the 'Self-Driving' label from its marketing in Europe to comply with stricter regulatory standards that prohibit overstating autonomous capabilities.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "branding"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpdjRVVTNWVVpzd19WdGxmNHhfNFp2ajBmY3FOMlVNQXJHaFQ4Q2o2NXFwM1dnbnZvM09IYWxuTTB5LU5DYzhyeFpRT2pKX3lSSVRwZXgyOUFpUGx2M0FLczBn0gFnQVVfeXFMTzBmSHlmMmZUZkhFTDFOUHZQYlVzZHVOWGdZdFVOdjRSQjlGTnRRSUR1ZDhrYnc0dEZyaTdER2Nsc0lqYnljTjhtd28wMGd5SDl3T05iQW9yWmVMLW5ZV2lkdHlUcmNQZw?oc=5",
+    "title": "Wrong way Waymo",
+    "source": "FOX 13 Tampa Bay",
+    "published": "Sat, 10 Oct 2026 03:12:18 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "FOX 13 Tampa Bay publishes critical commentary on Waymo's operations without reporting a specific incident or development.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGNibUpfVzFYanFSbHVUcmdMeG1NSjlObkZ4VjBFdUh5cXlXX2tfQUUzMnNLWHNxZVFkWTlSYWJNYjlnMUExTUE4RVk4c0p0amNPekZvblRiM0RHbkppYXowM3NRRnEtbjJEZHBHaGtqVGgzZ0gwMFRGLXFQdmNMZjhFLUFfMVE3OEU2RVBfY0ZTWlE?oc=5",
+    "title": "Autonomous drone delivery touches down in Round Rock",
+    "source": "KXAN Austin",
+    "published": "Sat, 10 Oct 2026 14:11:53 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous drone delivery service has begun operating in Round Rock, Texas, marking a concrete deployment of commercial drone logistics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEpSMkIyaVhXVEtNaHJqQjhrX0pPUE91aFNZZ19nSTB0dGFtTTA3NVZDMHFRcEFtVFVSZTlCMGFJQ3Y4cWgxdlNoLUJEYjdPNmxOTEp1NWcwRVdMMFB3RFJUR211ak9ESWlnNkxtZTJWVkJweWpydFFxUTdFV2hWcGZkSFpwMVd3a0MwbENaUTlGcjZ1WVV4eHJmRVFWUmI1dGtSdVRJMzlpMTNDemxOb0poSVZkUDN5Rng1eg?oc=5",
+    "title": "Zipline launches drone delivery service in Round Rock for groceries, food and more",
+    "source": "WOAI",
+    "published": "Sat, 10 Oct 2026 18:21:21 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline launches a drone delivery service in Round Rock, Texas, bringing autonomous aircraft to last-mile grocery and food delivery.",
+    "companies": [
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous aircraft",
+      "last-mile logistics"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZm1MZEUtQnpPNTRqUldURHV1cVNlc19FdHN5ZGNXWWI4dnFWUjVSZzhWOGtFbVpDSFloeXdxb0lOZzN6b28zVUtuNTVzRkpMWl90eW91WjdxQjkyZUN2dDdob2Z6aWFKNHNmLUVhd05ZOWoxVjNwM3FfVm1pc2I4NThiQXZKWXFESnJoc3NRQWtqU1R1Q1JxblduMlJISENRNjJ5NkVaSFYzNzY0TDVYdXBYQ0gwU0thZVc4Z1hLOENSanlxcElNTzU0SkQ?oc=5",
+    "title": "Zipline launches drone delivery service in Round Rock for groceries, food and more",
+    "source": "KABB",
+    "published": "Sat, 10 Oct 2026 18:29:17 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline launched its autonomous drone delivery service in Round Rock, Texas, ferrying groceries and prepared food to homes in the suburban market.",
+    "companies": [
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous drones",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYllHM1NMUWlPZEdNN2hCdDdJcFZJSU9yYjREanhpZE53S2hiWTVxVnYtN3l6VDVKendUZmk2ZzRfZFNWLVhKbl9qZnRUTnhrdlJoTVMzd0hhanJITl9MQ3hDOEJIbWc4ZG8xQmg1bXVDRVVkaGRMNVlyQVBEaDByMHE4TEdkZGM0ZFk1VnhjWVIzaXNwNHNZQ2VDaUZhZy1ZVWpacGlMclpqSE5JNzZCaDFieVBBUnV3V2o4TGJwNGYteElaSE9KVWdHV0tBNGVmSUFhQkw5LWpURXF2bUtwZUpMa1kxMUVjTFN0ZA?oc=5",
+    "title": "Zipline launches drone delivery service in Round Rock, giving local businesses another way to reach customers",
+    "source": "KVUE",
+    "published": "Fri, 09 Oct 2026 22:37:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline has begun operating its drone delivery service in Round Rock, Texas, offering local merchants a new last-mile option.",
+    "companies": [
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "logistics",
+      "autonomous delivery"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNelhORXp4Y0YzdHhhVTV1Wlc0SFpKS0tETzdYd0dpak9uQndHTWhCZFo4YThzUkczSExjN0hHYjZvZjVmWnV4NHpCeFhQdUFoMUJhbGdWM1FnZU1qOWQxSm1HZWRaWXVFU3h5cDF5RjhhTFR1SzYxY05yeGRrVUQ2ZFZHc1h2RkdiUTdOQW9IbHo5TlJySF9WWEtJdXQ0Q2xtaWtIeGRUYVRWdTExMFZMOXRyNEkwUmRVRWp3?oc=5",
+    "title": "Arrive AI and Modovolo Partner to Advance Autonomous Drone Delivery",
+    "source": "USA Today",
+    "published": "Fri, 09 Oct 2026 14:21:38 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Arrive AI and Modovolo have partnered to develop autonomous drone delivery technology, combining Arrive's logistics software with Modovolo's hardware expertise.",
+    "companies": [
+      "Arrive AI",
+      "Modovolo"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous delivery",
+      "drone delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlhpMFpkRjZtOFZkcGJielJyc1l5ZkREcnJBZzk4WXpEUXExckk3QkNyQXhFR3dGMVNaT3VlYWxnaS1YWmtPRUU4bWtXcEo1SWdXV3FmM0pISy03ZzhPREswWVZsR25Xb0N1YWJFc0g3Z2VIM25kRmhEemRfSlBSenRjcUM0SVdJZXhOcjExU210YnJDbzQtWGN0OHR5OWQz?oc=5",
+    "title": "Zipline launches drone delivery zone in Round Rock",
+    "source": "Community Impact Newspaper",
+    "published": "Fri, 09 Oct 2026 01:58:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline launched a new drone delivery zone in Round Rock, Texas, expanding its autonomous logistics network into Central Texas.",
+    "companies": [
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous logistics"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUVQUjlrTkYzeUVrOHVQY0E1cHJVNy01em5JSjd2TmtCbUt6WVFlUC1TbXN5bVBZSUxQNGVsRmU0YnVuYVRJT2F6dGMyVENwM1ZUbHoxdmZWRmlucE1ObTVvT3UtbzdMMkdNZmI3SjY0dWVNMXdqbXNGdVRaZ2JRYjZRR1VvdlNkVTBTRA?oc=5",
+    "title": "Zipline Launches First Flight Drone Delivery Program in Austin",
+    "source": "Unite.AI",
+    "published": "Fri, 09 Oct 2026 20:53:04 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline is launching its first drone delivery service in Austin, marking the company's entry into U.S. same-day delivery.",
+    "companies": [
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous logistics",
+      "urban delivery"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSG9Xamt1Tmp2QXd5d0Z4Vm9sakF4UVFnaGlIbnBCM0NSS3k4T21kcGpjUTV2a3I0ZFY3czVjVFRVT0V1ZnItaWs4bzVUV0VSS3M5ZzJnV1pGdXI4Ymktdl9rbndHcU1iQVRNNHAybmJIT1QzV1lRNjdGeHhzZms2Sm1pN1VBdzJucDNlWC1BSE9neEx6NEF2eFZEb1R5c2JYSlU1QnU4blBZQ0pZM21vNGdlQWV1UDBYUF9lS1c1Ymd6ZXRtSC1aZWZ2RU0?oc=5",
+    "title": "Pitt brain implant study shows touch sensation can be safely restored in people with paralysis",
+    "source": "TribLIVE.com",
+    "published": "Sat, 10 Oct 2026 14:05:11 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "University of Pittsburgh researchers demonstrated that a brain implant can safely restore touch sensation in paralyzed patients, a milestone toward restoring natural sensation through direct neural interfaces.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "sensory restoration",
+      "paralysis",
+      "clinical trial"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wayve.ai/press/stellantis-wayve-scale-ai-driver/",
+    "title": "Stellantis and Wayve Demonstrate How AI Can Scale Across Vehicle Platforms",
+    "source": "Wayve",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Stellantis and Wayve are demonstrating that Wayve's end-to-end AI driving model can scale across multiple vehicle platforms, a step toward commercializing autonomous driving across Stellantis's range.",
+    "companies": [
+      "Wayve",
+      "Stellantis",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "AI",
+      "end-to-end learning",
+      "platform scaling"
+    ],
+    "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
     "duplicate": true,
