@@ -75161,7 +75161,7 @@
     "first_seen": "2026-10-04T18:30:36",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75470,7 +75470,7 @@
     "first_seen": "2026-10-04T18:30:36",
     "week": "2026-W40",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75740,7 +75740,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75793,7 +75793,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -75997,7 +75997,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -76102,7 +76102,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77425,7 +77425,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77621,7 +77621,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -79389,7 +79389,7 @@
     "first_seen": "2026-10-08T20:28:20",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81046,7 +81046,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81486,6 +81486,464 @@
       "platform scaling"
     ],
     "first_seen": "2026-10-10T19:06:21",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XLXBxRmhINndGQ0pfdnVkb3BEemg4bkNfWmlfTW5WUFFLT0FWS21DUkZpNmJKQ0VFRXF5NEJHU3NhTktjOVAtdWhFbXpSakRrdkp0dElVN0RDSFBmS3JrWkpGMUtBM2N4T2kxN0U5MHBrVjg?oc=5",
+    "title": "I watched 6-foot robots fight with blades. This is San Francisco now",
+    "source": "The San Francisco Standard",
+    "published": "Sun, 11 Oct 2026 13:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A San Francisco Standard reporter witnesses six-foot robots wielding blades in a spectacle that captures the city's preoccupation with physical AI spectacle over practical application.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "robot combat"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbzY3S2gwTElWV1pTMnM3R282enplM280bXRHUklENWRWcnRlQkpvSEhXeXFVWkNfeHkteVNDdm9RUno4ZVc2VlBmRFBGNlJyTVdpVllQN19BTzBtNUx2d1ZQMFN0T0FYRldGSEN0YXJVeE1xQkoxZW1weXhlRURQamRuRnVueEdBdnNPVDUwWE1sbUEtcTVTLUdYMnN0OGhJSTVpLTJZN3NlZzg0RnJpQTBrYXdHa0pTODhDcFZiZV9peEtTSnZjb2VZMA?oc=5",
+    "title": "BYD’s humanoid robot has 31 degrees of freedom and a dexterous hand",
+    "source": "Interesting Engineering",
+    "published": "Sun, 11 Oct 2026 18:11:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "BYD has unveiled a humanoid robot with 31 degrees of freedom and a dexterous hand capable of grasping and manipulating objects.",
+    "companies": [
+      "BYD"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "dexterous manipulation"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFydDhqa1ZHMXlGZUVGOEFTWEo0dkpOVkI3Qk45Nk9EY0xkMjh0dllDOXdGb0VQVlp3b0VIeTZuZEQtV1NscnNfNkp0YzRMUHhwal9HNmtMLWw4VkJrS3U5YmVMSlMteGFHVThjOFVkTlVNWnBfaHZPLWRaWnIzU25DZ2RzTk84YW14NDJtYWNaano4R25Xb2x3M3RQa2hZTnV2SlFhQkFrWWhxR013LXpzS05qbDFEZ1VHcUJFUUdqNm1KZnc?oc=5",
+    "title": "Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night",
+    "source": "Euronews.com",
+    "published": "Sun, 11 Oct 2026 12:37:05 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Denmark is piloting humanoid robots in supermarkets during night shifts to relieve staffing pressure, marking a real-world test of physical AI in retail labor.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "retail",
+      "deployment",
+      "physical AI",
+      "labor automation"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWg5TjJCR2hxLTNHTFZnakp1NGV1d3dZU25TM2pHNDR1V1pVNGFLajlfcjY0dEphbmh5WkM2ZUc0c2xBeFhpTjBXUHg2RmEtM2JFTFpKa1dVOGFDQks5ZTJoSFE4dHZ0ZkphUy00YXM1cmEyZkczcWlyZjdYS0gzOWRPc3pRUDlEa2R6M0dXa1plb2NDcFBqaDlXNA?oc=5",
+    "title": "Tally's retail takeover: 3,000 robots proving physical AI pays",
+    "source": "Dealroom",
+    "published": "Sun, 11 Oct 2026 10:21:12 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tally has deployed 3,000 robots in retail environments, demonstrating commercial viability for physical AI systems in warehouses and stores.",
+    "companies": [
+      "Tally"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "retail automation",
+      "warehouse",
+      "deployment"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWlmWGRsdm5FaEQ3Y0xpVWZVNUEtUFhjdG1IS0J1WHk3ZmN2c2phSGswVUgwZFlpVTZOOXJULXgzb2UyMzc2aV91cU1xbk5tdmdnRnF3VFR2SmJFUU1LaG1ObU92LW5UdEx2YlhHSzNFdVhLcGVhS29KUWNuUTVoeUtFT0twQUNFOXRHNlAxTU5hdWFRdThfWHZ0R0hrdmRrTmRhT3ZVUDg4UUlMZ1hiMHNSaVZIRFd2MnAw?oc=5",
+    "title": "Waymo's Numbers Game: Safety Data and Investor Buzz Converge",
+    "source": "The Motley Fool",
+    "published": "Sun, 11 Oct 2026 10:17:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo's push toward a million robotaxi rides a week is drawing attention from two directions at once. The Motley Fool is pitching Alphabet as the stock play on that growth, while a Georgia traffic columnist is parsing Waymo's self-reported safety statistics, which claim its driverless cars crash far less often than human drivers. Neither piece breaks new operational ground, but together they capture the current mood: Waymo's scale and safety claims are becoming the company's two favorite talking points.",
+    "companies": [
+      "Alphabet",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWlmWGRsdm5FaEQ3Y0xpVWZVNUEtUFhjdG1IS0J1WHk3ZmN2c2phSGswVUgwZFlpVTZOOXJULXgzb2UyMzc2aV91cU1xbk5tdmdnRnF3VFR2SmJFUU1LaG1ObU92LW5UdEx2YlhHSzNFdVhLcGVhS29KUWNuUTVoeUtFT0twQUNFOXRHNlAxTU5hdWFRdThfWHZ0R0hrdmRrTmRhT3ZVUDg4UUlMZ1hiMHNSaVZIRFd2MnAw?oc=5",
+        "title": "Waymo's Numbers Game: Safety Data and Investor Buzz Converge",
+        "source": "The Motley Fool"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSkh5YmpoV0dSa3BVNDBuNjRuMjZwZUxCX29SVnJmTjA2X3hhMWpjaXFzLTRvenVZa24zNGF6QS1yYkljSG9yU3hILXktQ2l5cEtPVUhWakFFZ0trdzFsZkgtTVFURWY0Zi1peWxQaEg3UGMwM3puMjZuY1VkdWF3cTdsNVZrdTZ5dkN2VUZrbXRrYXF0OV9zN3NPdjhTWDlicExibVRKVXMzLTdfc0NSTTVIRnZ5ZVVGUWhSQl9adHRzaVRzM3NYc0ZFdVZPUjJnQkxtYURHRzZ4UHd3Wm9JSUZoMkExNmFfelJiZFVhREhPSVBXWHRoYXIyMm45OTVuZWVsZXY4RUR5cHY4U2xiSDRR?oc=5",
+        "title": "Gridlock Guy: Waymo says its robotaxis are far safer than humans and has the receipts to prove it",
+        "source": "11Alive.com"
+      }
+    ],
+    "body": "<p>Waymo did not announce anything new this week, exactly, which is itself a small sign of how far the company has come. Instead, two very different audiences circled the same set of numbers. On the financial press circuit, the Motley Fool told investors that Alphabet is the way to play the robotaxi boom, pointing to Waymo's march toward a million paid rides a week. Down in Georgia, a traffic columnist for 11Alive combed through Waymo's own safety data, which the company says shows its driverless cars crash far less often than human-driven ones. Neither piece broke operational news. Together, though, they tell you what Waymo wants to be talking about right now: scale and safety, the two metrics it has decided will carry the argument for robotaxis going forward.</p>\n\n<p>The million-rides figure is a milestone Waymo has been building toward for months, expanding service across cities and adding vehicles to a fleet that started, not so long ago, as a curiosity in Phoenix. The Motley Fool's pitch to shareholders treats that growth trajectory as the investment thesis itself: a business moving from pilot project to transportation utility, with Alphabet's balance sheet absorbing the capital costs along the way. It's a familiar Silicon Valley arc — subsidize scale now, monetize later — but applied to a sector, automotive transport, that has chewed up plenty of well-funded hopefuls before reaching anything like break-even.</p>\n\n<p>The safety numbers serve a different purpose. They are Waymo's answer to the question that has dogged autonomous vehicles since the first fender-benders made headlines: can we trust a car with no one at the wheel? Waymo's self-reported statistics, as parsed by the Georgia columnist, argue yes, emphatically — fewer crashes per mile than human drivers manage. The data is Waymo's own, compiled and released on its own terms, which is worth noting without dismissing it outright. Companies rarely publish numbers that embarrass them, and regulators and insurers will eventually want independent verification. But directionally, the claim has held up well enough that it's become a core piece of the company's public case, repeated at every opportunity.</p>\n\n<p>What matters here isn't either article alone but their convergence. An industry that spent a decade mostly justifying its existence — explaining why driverless cars should exist at all — is now being evaluated the way any maturing business is: by growth curves and risk metrics, by Wall Street analysts and local news columnists alike. That's a meaningful shift for the robotics and autonomy sector broadly, since Waymo's numbers function as a proxy for the whole category's credibility. If the safety claims hold and the ride volume keeps climbing, it strengthens the case for autonomous fleets in other cities, other countries, other use cases — delivery, trucking, the works. If either number falters, under real scrutiny or a bad week of headlines, the skepticism that still lingers in much of the public will have fresh fuel. For now, Waymo is winning the numbers game on its own terms. The harder test is whether those terms survive contact with people who don't work for Waymo.</p>",
+    "slug": "waymo-s-numbers-game-safety-data-and-investor-buzz-converge-9d5900"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSkh5YmpoV0dSa3BVNDBuNjRuMjZwZUxCX29SVnJmTjA2X3hhMWpjaXFzLTRvenVZa24zNGF6QS1yYkljSG9yU3hILXktQ2l5cEtPVUhWakFFZ0trdzFsZkgtTVFURWY0Zi1peWxQaEg3UGMwM3puMjZuY1VkdWF3cTdsNVZrdTZ5dkN2VUZrbXRrYXF0OV9zN3NPdjhTWDlicExibVRKVXMzLTdfc0NSTTVIRnZ5ZVVGUWhSQl9adHRzaVRzM3NYc0ZFdVZPUjJnQkxtYURHRzZ4UHd3Wm9JSUZoMkExNmFfelJiZFVhREhPSVBXWHRoYXIyMm45OTVuZWVsZXY4RUR5cHY4U2xiSDRR?oc=5",
+    "title": "Gridlock Guy: Waymo says its robotaxis are far safer than humans and has the receipts to prove it",
+    "source": "11Alive.com",
+    "published": "Sun, 11 Oct 2026 11:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo releases safety statistics claiming its robotaxis outperform human drivers, but the piece is analysis rather than a concrete operational development.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "robotaxi"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3A5ZURJVV95RmhHWlVrRTVFSUt3czI3M2pCNkhIUVYta3lzZWFLelQ3Mm5ZWXBIN3FPR2hjUXlUZW40SXN0anhoNUM1ZnhTSG5mYi1fbUNvaWNVUHRDUGpweVE0Q3FRZVQtNEF5NlZPUW9OQVhBQjd4TUNYbnd0cHVBZnVSbmZrMHE5VnBvRlotR2owODNKWmc4QjVCNzJBTEJTV3VoZw?oc=5",
+    "title": "Waymo Secures $5 Billion Loan—Its First—to Fuel Expansion Plans",
+    "source": "Inc.com",
+    "published": "Sun, 11 Oct 2026 01:58:13 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo closes its first major debt financing, a $5 billion loan that signals confidence in its autonomous vehicle rollout while reducing reliance on parent Alphabet's balance sheet.",
+    "companies": [
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "financing"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQXh1aUFpTjV2UFF6enZBeEpCZVotSVN2NlMyNkhUX2JZcTAzOGd6a0t3Z0FSRk9ZQU5ZZm54N2Z1ZURLaVhoSVRMOFpKS2swUVdaRHA5cEgwNVZFUTlVancxSkx2aERLNnFkRHVUVWJveWwtcXRTZFN0NllNNUVnMVY4SEtFWmQ1VXM3LQ?oc=5",
+    "title": "US firm’s new driverless military vehicle can outsmart drones",
+    "source": "Interesting Engineering",
+    "published": "Sun, 11 Oct 2026 12:42:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "An unnamed U.S. firm has unveiled a driverless military vehicle designed to evade drone surveillance.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "military",
+      "autonomous vehicles",
+      "defense"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFlUUm9WTXl1SEJteVFnOUlQUWFXam5RM1pKVjNMaEh2YWFabHV6a3NOOXdHWVVVY1o5am42QVNzelRjTUdwTkNULXRsdnV5SExNNEo5UXQ0V0JoR19rWHJQQ05GVTZQb3hTTUlxNTVRRFNhWHJQWThhZllLVm1xWS1iUURsLVIxU0xMU2R6czJFUVo1Qm9PSQ?oc=5",
+    "title": "Tesla Drops ‘Full Self-Driving’ Name in Europe as Germany Backs Faster EU Approval for ‘Tesla Assisted Driving’",
+    "source": "Yahoo Finance",
+    "published": "Sun, 11 Oct 2026 10:45:18 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is rebranding its driver-assistance system as 'Tesla Assisted Driving' in Europe and securing German backing for expedited EU regulatory approval.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulation",
+      "Europe"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclJQMHpreE1IZ0l2cF9MRVhGZVlTc3pTMUhlZTZ5Nm9USkxSbzZ5NGhWal9qdHM1YnNkeFVsMkd6WVJ3WDQtU3QyUGlldDNsVnl5T25LQ0I2Q2RyUVQ0Nk81LUwyRGg5b3h0X3VGeGY5ZVY0M0tHamE0YkUtSXVCb1VrdktwLTlXQnZMaE5pbWlYd1NGYThNU1E1UzI?oc=5",
+    "title": "Tesla Renames Full Self-Driving Package to Assisted Driving Across Europe",
+    "source": "Yahoo Finance",
+    "published": "Sun, 11 Oct 2026 05:11:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla rebands its Full Self-Driving package as Assisted Driving in Europe, a regulatory retreat that strips the autonomous promise from the product name.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory compliance",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQjdNX2hPOU5XZTRxU3Npc1llWkxxLUV4TmhIalNaX183Y3o4LWFVWUgzWHJodGhZdjFkT0xQcXpOZnRmRTdxMVVUcWNiS2pDV01DeGQ2blNxSm5iZWlpWEZ2Z1Z5Njhwang5Nk9HaGctNUZmZ2ZKZVZqUjhzN2VYblpzVQ?oc=5",
+    "title": "Alphabet Is the Robotaxi Stock to Buy as Waymo Chases 1 Million Rides a Week",
+    "source": "AOL.com",
+    "published": "Sun, 11 Oct 2026 09:37:02 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "An investment analyst argues Alphabet presents the better robotaxi opportunity as Waymo pursues aggressive growth targets.",
+    "companies": [
+      "Alphabet",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFRuVTJVc2pkUy1iQTV5aDN1Nm5WSUQzRklvN01HdHFPOWpWNHU3dERzeXlad0RDWTJMNjdwTkI5clgtN3ZHTV83TGNBV2FWc0ZMQzZQVC1VUERROFJGWFIxaWkxX0pKQ19zaW13cEY3eFRaNVB2OWV1SElkM19kQnRkVGlNMzA4MFhKVVZn?oc=5",
+    "title": "Autonomous drone delivery touches down in Round Rock",
+    "source": "KXAN Austin",
+    "published": "Thu, 08 Oct 2026 19:01:24 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An autonomous delivery drone service has begun operating in Round Rock, Texas.",
+    "companies": [
+      "Autonomous delivery drone service"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous",
+      "logistics"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZmFGc01ES09jMlM2aDc0b0tKVTA3YnBmNGpLUHkyRGRKcFpORmFYWHhwUVVyTVI0QWJJYVRyYVdLYlN4a1BueUpia2xLbXNnY096WHg1RS1MaUJvZ1I1enVMTGVKSUZKVWhNbEI4Z0dqaXphenJTTFhOMEkwMzhXV2p6NXM2QQ?oc=5",
+    "title": "Autonomous combat drone capabilities to get massive expansion with $16 million funding boost",
+    "source": "Interesting Engineering",
+    "published": "Sun, 11 Oct 2026 02:55:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Autonomous combat drone maker secures $16 million to expand weapons capabilities.",
+    "companies": [
+      "Autonomous combat drone company"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "combat drones",
+      "weapons technology",
+      "military AI"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM1Zha09peEFFWHo5azNxZEtzcU1aNGVjdDdhV2xQM2FTNUlxRFBuZzVqY2hIQVhLd29pV0FKYnNMOHp3UUpqU1FTUGt5enhGMlJ0cnpMTHBKMnBCNXo3cF8yUF9XOEN5Tjc3OGZvMzBxTm9yZDM4VkFMVjdsQUYtWnh6MHJQeU1ERWFvODZqR05qTTNiSXlfU2JNX1FYdGJDZ3BZdlozX1pIZENhY05mZ3hqd0N2dUtTUWJwazRxNkZxQQ?oc=5",
+    "title": "Zipline launches drone delivery service in Round Rock for groceries, food and more",
+    "source": "KABB",
+    "published": "Sat, 10 Oct 2026 21:51:34 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline is launching drone delivery in Round Rock, Texas, ferrying groceries and prepared food to residential customers.",
+    "companies": [
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "food delivery"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkk0eDh6T2hRTGpEdGduRVF5LXNnMGlsWEFFUTZZbU5ZWDl4U1VEbXZLUU1nMGF4YUswMXlFVVNoeXpSODlNdlFrUVlkZWFGQmRsZDNOUWJfTE9BRWFFUThMSkJpQ3RhY0E0dU5URi1aN3M4amhPdEZPREZRVEpYbUZyWWJ3Nnpu?oc=5",
+    "title": "New system that generates power, charges drones, and offers launch space can transform warfare",
+    "source": "Interesting Engineering",
+    "published": "Sat, 10 Oct 2026 19:55:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Interesting Engineering speculates that a power-generation and drone-charging system could reshape military operations, but reports no concrete deployment or testing results.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "power generation",
+      "military applications"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVRfZWhvZF9BZU5GOVZpd3IzdkJTcWZNbGtqZlhmbzhZS2R1dnFoX0Nnc0NyZXNuWTFfLXp6ejNCZmpCXzk2MzFILUFsT2RBZTIzcGVpaktndmpRYzVfeWhMdzluWnpGN3hDMVRPeEJKcWdJS08tdG9ZZThoVFZKS3NsOTlIaDFpZ2dSbUVteTQ5Z2RjZDNCNlBZcWNBX0I4Nng4Q3VCTVp3TW5UbDI1VERvTkVpaUhtN21rZE1n0gHDAUFVX3lxTE9kMTdZTEl4QXpPcmdTZ0x3NHF6RDh4SmNBYTBBV2huVVFjazRLV1ViR0E1OWtZSTV4ZlR4VGw1RW5LWmxLZ3NJeHlfZzY2dHJNcWFfMERURVhZM0luSXlLdjNMLWJIbE12cWV4QmxWV0JyaG5RY0M2YVNGNGxJRUZxVWZHQjRkNjFIbVEzQllvQTFlTTYzWjNJNUwyTmVZa2JSeUtWSEVUV01vTURwdDlQenFqTlZVT21kSWRKWTRxUGZRcw?oc=5",
+    "title": "Ouster (OUST) Could Be 31% Below Fair Value On Seneca Drone Deal",
+    "source": "Simply Wall Street",
+    "published": "Sat, 10 Oct 2026 22:33:39 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Simply Wall Street applies a valuation model suggesting Ouster stock is underpriced relative to the upside from a Seneca drone deal.",
+    "companies": [
+      "Ouster",
+      "Seneca"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "valuation"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
+    "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjVGcm4xOC1SZ0hlRHJaTWJMa1UtYnFLc09oYXJ0UFVnT0I4QjFvUnNkYzYySWZFVEtOX3BOVWI4UGxQaXdJMWlmc0VBQVBQN3Z6bS1RUklXVmhtc1JINTdtOTRiSDlhNU1pQUlqWW1Ua0thRm1iSzhIS080OTZPYjAweXdsWW1yUFNFcWRNZUw3S2V0UjNxb0NYNTJ6TVU?oc=5",
+    "title": "Kraken and Saab UK Develop Pioneering Autonomous ‘Drone Seeker’ Vessel",
+    "source": "Seapower Magazine",
+    "published": "Tue, 06 Oct 2026 21:50:24 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Kraken and Saab UK have built an autonomous vessel designed to detect and neutralize hostile drones at sea.",
+    "companies": [
+      "Kraken",
+      "Saab UK"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous vessels",
+      "drone detection",
+      "maritime defense",
+      "counter-UAS"
+    ],
+    "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
     "why": null,
     "duplicate": true,
