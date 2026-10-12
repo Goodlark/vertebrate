@@ -76074,7 +76074,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -76220,7 +76220,7 @@
     "first_seen": "2026-10-05T21:47:59",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -76647,7 +76647,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -76877,7 +76877,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77209,7 +77209,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77915,7 +77915,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -79389,7 +79389,7 @@
     "first_seen": "2026-10-08T20:28:20",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -80294,7 +80294,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81657,7 +81657,7 @@
     "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -81945,6 +81945,958 @@
     ],
     "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkpLRDVkZ3pqcWpONkJ6X0tlOTUyVnJEeWpOWXRFeGNDUHZBR05ONERoTjE2MVJiOFBSTFdJVjhOU0pBMXlsVDdVcmZ6dHotb2xKODdCYmtKNkV5X3pVdUJFQjJZZGFVd1NsOWl4bUpQT2E3OW9oeXdiSnRUUDByckYtNlRtcENwVUl3MVo2RHVGeEY3WTk3ZXh6clZsbHk2V2MxSGhReEhSdGx0cXlIbDZVU1ZWR3VvdXpFNl9SVWVPQWZ4Z2N4Ymdn?oc=5",
+    "title": "UBTECH and FAW-Volkswagen Expand Humanoid Robot Testing Into Factory Logistics",
+    "source": "A3 Association for Advancing Automation",
+    "published": "Mon, 12 Oct 2026 10:06:57 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "UBTECH is expanding its humanoid robot testing into factory logistics work alongside FAW-Volkswagen, moving the technology from the lab into production operations.",
+    "companies": [
+      "UBTECH",
+      "FAW-Volkswagen"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "factory automation",
+      "logistics"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTU5HdENJWVZwMjM1eG9TRWFOeEpFYUlicklybWMtLXktenZpcWhtdjZoTWZOeFN1TlJpemI4QXpGWEQtb2RjaU1YQWRHVGtnS2dhV1NRSG84ZktPMFF4TDRNQTRCWE81SnZ1T2xfSUliVzRjRVBpOTYyQXkzRnZKTDFJdkxJbnVTWDZqVmdFQk9WaTlaT0hjY2pR?oc=5",
+    "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
+    "source": "Robohub",
+    "published": "Mon, 12 Oct 2026 07:56:22 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A Robohub commentary argues that humanoid robots must master mundane household tasks like laundry to prove practical utility beyond flashy athletic demonstrations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "domestic robotics"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSl8ybjcxcGs0NGNVVGt5RlYxcHIycjdNX1ltRHg0ZWFLQ2w1ckZja0FkYzJvUWVPOTFDYy1GY1A3NlVXU3BoUjB5N2VsM3Z6ZEZVV1ZneU9OV2ZOaVZDaVJDeDhrUDZ0MHdERHZrOHhWcjlBWTlpcmNqMk9Bd2dxN1NYaXZsenpTUmdMbVgzZDMyd2IxalRaMHJFSXBiU1E?oc=5",
+    "title": "China debuts heavy-duty wheeled humanoid and 110-pound-payload cobot",
+    "source": "Interesting Engineering",
+    "published": "Mon, 12 Oct 2026 15:53:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China has unveiled a wheeled humanoid robot and a 110-pound-payload collaborative arm, advancing its industrial robotics ambitions in the physical AI space.",
+    "companies": [
+      "China"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "cobot",
+      "heavy-duty",
+      "wheeled robotics",
+      "physical AI",
+      "industrial automation"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FX0VSRU81QWk3MXdKZlB4NjVNZ0ZvTTN2SUtYN0pMZFJJbmh2alJPSlVBc081VldtVXRUZTFvZUtqeTBMdlhRLXFlUTVUWFE1VVNfd1BpSEJjSFlrZTYtVkdIbUdHZkpybVpjSDA2bjVTWTZhbzdEZV9Vbw?oc=5",
+    "title": "Humanoid robots will report to work soon as ‘ChatGPT moment’ for physical AI arrives: Ex-Boston Dynamics CEO",
+    "source": "KED Global",
+    "published": "Mon, 12 Oct 2026 14:29:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Marc Raibert, former Boston Dynamics CEO, predicts humanoid robots are approaching a transformative moment comparable to ChatGPT's impact on AI.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [
+      "Marc Raibert"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOElnYlNSdTJEQXNENDh3NDFCUFJxU3YzQ2ROb2NKVGRZZ0lzaGhUVmU4X09mX3BYdjBxYjVQX2FSR09Hb24tZlZWSUJYMXQ3cUsyelNERFEzN3dNeUdfYnBCTjRDTEttM0twR2ZTbnJMRWZ1QWRNZnVSQzBva2NhNWduTXV2a1Z2OUE0ekZLSnV2aEhqWVpuMDRSR3A4Rlp4dGFZZUVmckdsMGJxdkMwQ29mSkhWNEV6Z0F1NmlkZw?oc=5",
+    "title": "TD Synnex CEO: BlueStar Acquisition, Kuka Robotics Pact Fuel New Physical AI Push",
+    "source": "CRN",
+    "published": "Mon, 12 Oct 2026 13:40:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "TD Synnex CEO announces the BlueStar acquisition and Kuka Robotics partnership as the distributor's bet on physical AI and industrial automation.",
+    "companies": [
+      "TD Synnex",
+      "BlueStar",
+      "Kuka Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "industrial automation",
+      "robotics distribution"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdHbXdyNHRTcFJmcE9lMVQ3ODBYUE1iUk4yS2t6Z25SZjNOaU0xUVFxWkxuQl94UHpmbjJpOUdOQjl4ZWJ4ZThjY3lSZ2V0UG5NWXdIaWM2QUQweUlMWkJYdnUwUldHa0xLamY5cWN4OTRYaDUyUGt0bzlLRWUzeUJTWWttc3hDVlpESTZlcHRxN1d3S3N3V0hrY0FseU0?oc=5",
+    "title": "Volkswagen’s China Partner Taps UBTECH to Test Humanoid Factory Robots",
+    "source": "TechRepublic",
+    "published": "Mon, 12 Oct 2026 15:14:48 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Volkswagen's Chinese manufacturing partner is deploying UBTECH humanoid robots on the factory floor in a pilot program aimed at automating production tasks.",
+    "companies": [
+      "Volkswagen",
+      "UBTECH"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics",
+      "factory automation"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHRFY0pHRmt1T25BSkUwdkM3MVJ3dXlpbzNJeF9EZ01qU3hIWGNORnByM3EtbDk0ZUFkWk91R2pLalpxb3pUWWlCVV95b3RiTENBZHdqM00yYzNHWjlqVVZPMWNQLXU4VUZhcUVZdHdaUWFtSmJTdVBMTjVWUjA4Q2kyS1FvRnBqSzExT1ZR?oc=5",
+    "title": "Humanoid Robot Conducts Marching Band in Slovenia",
+    "source": "조선일보",
+    "published": "Mon, 12 Oct 2026 15:33:26 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A humanoid robot conducted a marching band in Slovenia in what appears to be a performance stunt rather than a meaningful deployment of physical AI.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics demonstration"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdSalJYWnZPbFdweEo2a1ZNS0VNaUxwb2JCUnMyd1VUTkF4RWpZdFN1Wl9UYi1xaTBaaVptVV9VeV84c3ZFRnh5WTFRX3g2Yk5PYW1ZdjFNSkhrWHNMS1V1UjhwU05IejVZOFlFeFB3TFpBWmRXR2xTaXQzMGJpWDg0NEVTandCcEh1dlU5QmVEUHRzMmtwUFk0VGxDY2QyazF1M2M2Y1dCNmZkMlVCVFAyMHpCOUJEMmhRRlVzQ01JV0ZFa2UxMDVR?oc=5",
+    "title": "Forbes Global CEO Conference 2026: Chinese EV Maker Xpeng To Launch Humanoid Robots",
+    "source": "Forbes",
+    "published": "Mon, 12 Oct 2026 07:37:38 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese EV maker Xpeng announced plans to launch humanoid robots, expanding beyond vehicles into embodied AI.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjZkFCUTY1UmJDMjdvUmRKUVpGNF9sUjVmNUdoREJ5alZlQmZQOUltWjZCOFcxLVZuTTY0U2RfSUw4QkkyVzJhYlc1cHpTTF9SUXFxRDh1blF4LTY4ejVEdV93?oc=5",
+    "title": "Chinese robot upstart sets goal of selling at least 10,000 humanoid robots by 2030",
+    "source": "Global Times",
+    "published": "Mon, 12 Oct 2026 07:26:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese humanoid-robot startup announces a target to sell 10,000 units by 2030, betting on manufacturing and logistics.",
+    "companies": [
+      "Chinese robot upstart"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "manufacturing"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ozanV4bE5iRXh3TFR6eE5KOFFqd1RZSmlGSWZWZXlyeE12WTdvRUZjMXZIUUJFOVhyM0lUUVI4aFNSX1NNUmlKTXFvLVNWR1NFUjRvVGtlX2wxMzUtYlBGWGpjOVZKNEFFOGVETDRVTUZxU0tMNWtWVHMxLWJMbFc0MGZFR2RmU3pjaDBMTmFpSUtLSlg4djM1cEFTVVN1VUhQNTZWTFFLR0VsRUNoUQ?oc=5",
+    "title": "DeepSeek leads $400 million funding round for ex-Tencent scientist's robot AI startup",
+    "source": "Startup Fortune",
+    "published": "Mon, 12 Oct 2026 12:20:21 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "DeepSeek leads a $400 million funding round for an unnamed robot AI startup founded by a former Tencent scientist.",
+    "companies": [
+      "DeepSeek"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "funding"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTZQTEtBNGFSYzhJZkJhRDItU1VIOEUzel9FX3lHcF9KWWJ5bVpwdXU4WkhRdXVrd0V3dmZsU2xCZmRrcUFpVHVXUTlFNS1mc3ZXcFNXX0JKNEhrRWl0bmtJLUhtdlJKR041MWZFQkVnSVV0MVV4WEdtVVg5eWVzTDdPM29YcFhUUkgtSW5TaEJZdHR2SHh4RENqNA?oc=5",
+    "title": "We’re Learning to Live with Waymos. It’s Going Weird",
+    "source": "The New Yorker",
+    "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The New Yorker observes how San Francisco and Phoenix residents are adapting to the growing presence of Waymo driverless vehicles in their daily lives.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "urban adaptation"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRDVPQ0dVV3NkLTJxaHVmek83WE4zam9ZMXVZMEFyN2lBMGZud2Iwc202bmFnRTY3S3VuYjFiRU9mZDZfX1ZDX2tyRDQwQjBqcDh1NzU0cmtYZkNZNnlLeDJ1bFNrMXlRdllObmQ0VFlrNjFJMGhhdXN0OFB3d2MzR2F0MVNBbm93TGtsaGdXMkJYWlJnbkotNDBMS3cwbk5hZS1ZTEFXNXpHWHFqRU9IWUVnT2lYcndoTFFLXy12MC1aNG95T19MVWhmZXIwMmQ2SHJmRElYQUU2cnNNNnN4LThsSktpbEZ1NWNFaUU5TzlxY25VWWJHNFl1dmVTZjdrV3lyanZvYWt4dUVzR21DMnBsanVTc1dXQ1dZYUtNdUQ?oc=5",
+    "title": "Portland to weigh robotaxi rules as rideshare drivers warn of job losses and safety issues",
+    "source": "KATU",
+    "published": "Mon, 12 Oct 2026 20:23:39 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Portland considers new robotaxi regulations as rideshare drivers raise concerns about employment and safety.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "labor impact"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdktGTGpJZExmNjJqWmNrU0ZxT2pTZG9fOEg4d1Y1dFNyNXItQlV4WTFTa0VGU3BLak4xVTBkWHVjVGVxaER3NmhGWWp6OHJfMDgzR291QzhldmdUTHJNdHBWQ0Jfai1ocDlXcVRLZlZtRUpfUWN1U1U1VDBPVkRyOXdzMjBMeXZPZi1oczd2SGg?oc=5",
+    "title": "Why Tesla Renamed ‘Full-Self Driving’ in Europe",
+    "source": "Barron's",
+    "published": "Mon, 12 Oct 2026 12:38:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla rebranded its autonomous driving feature in Europe to sidestep regulatory scrutiny over the misleading 'Full Self-Driving' name.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "marketing"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTdkNHoyTWk1U2NaZXF4amczMkU1ajNydkFNOEhqYVdXVHR6UGJuaktYS2loeVdzWVJtQTRLT3gxYVEtZEQtTnJYNXA1WUlMMVJra01xV2otVlVkSG56cUl4V2RBOFRlUDRnMkVBTUFFU2lLWTR6UmlLSC1aUXY1Q1lNZGE5M2RkWkZzWWp0b0I3OXhicG5EWENhbnhmVnVIMWRwSm9SYXU5U2xn?oc=5",
+    "title": "Researcher Using $7M Grant to Create 'Self-Driving' Lab at Ole Miss",
+    "source": "University of Mississippi | Ole Miss",
+    "published": "Mon, 12 Oct 2026 15:01:29 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "University of Mississippi researcher receives $7 million grant to establish autonomous vehicle research lab.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "research"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT285bTkwSl84dC1PdW15UWtXUXVwd1JIYnBfeW9xMm9TTmJ0MC1BLVU3ejU3ME95VC15VGFYbVpPbm1uaEYxWmdHM0Y1a3dmTWxfd2F3UGRraVdIVzdHbTd6LWdLTzVXMlk2SXhiNGRoUFVSdDQwbHlYTDA2M0hhT3NUYTh1UQ?oc=5",
+    "title": "Tesla Drops ‘Full Self-Driving’ Name For ‘Assisted Driving’ In Europe",
+    "source": "Carscoops",
+    "published": "Mon, 12 Oct 2026 18:17:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla renamed its Full Self-Driving suite to Assisted Driving across Europe to comply with stricter regional regulations on autonomous vehicle claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory compliance"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnRJaFluSG9LbjgyblZZaVVNTURaQTdfbjBtQXZ1VDBsTzk3Ym5pUXFndUlRSWg2TWVXbnE3OXZlblluRDVER091dE9uWG8xcnZGUjJySGQ0NUlFcm1FcW03TS0ycE9Tc1R0ZndYQ0NzV1I4UXprZ2pHSkhiLVo5MHRIVS1MLUdqZ3ZoaWJtaXNvMHIwREhjRU8wUl9Fb19wTm5qYzVJWmM?oc=5",
+    "title": "Waymo Passenger Unable to Exit Driverless Car Until Customer Support Unlocks Door Remotely",
+    "source": "Yahoo Autos",
+    "published": "Mon, 12 Oct 2026 14:28:15 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless car trapped a passenger inside until remote customer support manually unlocked the door.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicle",
+      "customer experience"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbnVVd294MW12UXVWd3ZjUFpxUC1nZC1paE14MFFQYlZ4X2RoWXpiaXlkQmNvNjNheXFYSW1GSVRDeGdvUTFvcjNYYzB5aldSTWZyWjg0bERfTXViNkljWWo1RllEOG04UmNxdEViZHQ4d29DMXhNeUo5Nk9NbzhJVGs3Ui1CT1RQajlROThvdFhUMDBJSUpkZl9BT1pENEFyZ0lWNTJMSUlqSWc3UEVwTXUxWUFzaGpqSDFVay02U0lmQnZwYWc?oc=5",
+    "title": "Teamsters Sue California Over New Driverless Truck Regulations",
+    "source": "The Legal Examiner",
+    "published": "Mon, 12 Oct 2026 21:26:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Teamsters union sued California over new driverless truck regulations, escalating labor opposition to autonomous freight deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "trucking",
+      "regulation",
+      "labor"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHU0c1NDR2lpLUdLTnlfbkxBaGhuNHZ1UktXOUNRQUZIazVrWXE0WnplcFA2ZkZrNUYtTEdvcG9ZNXhQMDVyVlg0c0ZfX1RHQmZXbDJjaFBPVWlJV3htS1lDQURpdnRuUmJsQ1M2XzdXOGxCdTFxMlpPbzVBUVVCd1c4eFFXVUswWC1FdzR6T3J5QQ?oc=5",
+    "title": "Tesla drops ‘Full Self-Driving’ name in Europe; Albert Gore on clean tech",
+    "source": "Automotive News",
+    "published": "Mon, 12 Oct 2026 17:36:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla rebands its driving-assistance system in Europe, dropping the 'Full Self-Driving' label under regulatory pressure.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulatory compliance",
+      "branding"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5SktyMXY2NEMzQ3ZrQnItSG0wT2ZGZmJPV3BMU0g0ZTRMWG5UMWFmckRGQm1HT1QxSnVmbVprb0kwU0s1LXhpeFNzY2l6NE1UUTVrNGJZTDVYZU1xbnFMMG5lTmI4OGxvVWwxMFdFOHNwZw?oc=5",
+    "title": "U.S. regulators are probing Tesla's robotaxis for speeding in school zones",
+    "source": "Quartz",
+    "published": "Mon, 12 Oct 2026 12:34:35 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "U.S. regulators are investigating Tesla's Full Self-Driving vehicles for exceeding speed limits in school zones.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjdsSkpPY2FoNUNvTHJTWF9kODVIYXljblF1MlZDb01aX2l5c1Rtd3c2cFlSbmpkT04zeHRwWjRMN3ZuSklIbHNUNzhYNDJud0k1NnpQUms0YW52MDk0dTNHei1JVFA4bEh6bW1nV0VvTHNoc21CM1Y1cDhMa2RvMFRFODhpbzJQQ0tIMmxXcw?oc=5",
+    "title": "Tesla Drops Full Self-Driving Name in Europe Amid Regulatory Scrutiny",
+    "source": "TechRepublic",
+    "published": "Mon, 12 Oct 2026 16:30:56 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is rebranding its Full Self-Driving suite in Europe to avoid regulatory action over misleading autonomous-driving claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory",
+      "autonomous driving",
+      "branding"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3NCMHVqNjc2VlN5WDJEbkpucUZ0WUFsQWc3OEowNTVCOWwtQ3V4M1A4SmdWVjkxa1RubnZFcEpPQTNJNTlWRHIwVUJSWWVzV0lIdHdkWGRVYjVkdnh4Mzl6cTQtUmtTcFVRR0VZcDZUd19KMjZJcGw2V3lXN1VQclNRc21WMFJiZ04yUmRfTHVOSTd4ZDVYSG5fYnI1N2x0T3VucHAzQW81NTFlYWhUTnFR?oc=5",
+    "title": "Tesla robotaxis face investigation over alleged speeding in school zones",
+    "source": "New York Post",
+    "published": "Mon, 12 Oct 2026 19:20:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's robotaxis are under investigation for speeding through school zones, the first regulatory action to target the company's autonomous fleet operations.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkpPMzdaaUNRYl9pN0hRWjdyOGI0WFY5WFoxOFU1RkpIRXJJTl9IT3pReEdXZS1XSHd1THR3WVNwMDdUVUxGMWZOLTROb1pybmN0VTIybTRmQmgxbmJaMlVwZXpaaGV2b3JsbXAyemd5cktaMGlaWlVUdEtXOUJ5Y0cxTXJINkM4ZXoyLUdoYV9PdF9KZ3Y4bjN1cXduZw?oc=5",
+    "title": "The Feds Are Looking Into Whether Tesla’s Robotaxis Have Been Speeding in School Zones",
+    "source": "Road & Track",
+    "published": "Mon, 12 Oct 2026 15:30:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Federal regulators are investigating whether Tesla's robotaxis have exceeded speed limits in school zones, a potential safety issue for the autonomous vehicle program.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZm9rZ3JoazJUR0J6My1aRzlERnlQSEo0TE1VOVJqeGJRYm0xaDZxRjNiNGFsWW5PNHRmZ0Y2SE9jNUNwQ1ZVMTI3clhPdWpta1liVkdFaThmLWloZ2oyMXhXM05DSHhmOEhiRmJBcVhMVVlKOHhXZEZadmJvdEVQd3poT0VrY0dZUnhlV0cyWFhvMDJ5REVNNGJwc2FVa05aelJaajBWcGR5dXg1?oc=5",
+    "title": "Tesla Finally Forced to Rename Full Self-Driving as ‘Assisted Driving’—in Europe",
+    "source": "The Drive",
+    "published": "Mon, 12 Oct 2026 13:41:20 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is renaming Full Self-Driving to Assisted Driving in Europe after regulatory pressure over misleading marketing claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulation",
+      "marketing",
+      "Europe"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmtNTEpNeGRfY081ZGxYYWN5ckkxanBzMmtDRWRLVWJkS2tMTTRBSDNtSExfM3V6VjMxY2pvYmNta1pFcTRybEtOT1p2SXdiR0lZUl92MG85RXRDX2pmTmVVOGFBcjBzbEJvdHJsT1RkbXlSRDB3a3dHbWRDMWtDNDlyajI?oc=5",
+    "title": "Tesla Forced To Rename 'Full-Self Driving' In Europe Due To Regulatory Pressure",
+    "source": "Jalopnik",
+    "published": "Mon, 12 Oct 2026 13:55:33 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla will rebrand its Full Self Driving system in Europe after regulators objected to the name as misleading about the technology's autonomous capabilities.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory",
+      "autonomous vehicles",
+      "product naming"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcy1zdlFnRmoxUlRrZTl5aThuNXBOM2dkTmp1eFFJVm9hLWhMTU9PT053a0xyaEhqZHI3X1BiQmZYSmFUbm56OFpETVVKenFYUzdNYzZ2aHV0Sy1lTmpDcGJnbW9DOExIM1A5TXlJc0NwX3V4T3lscm1UdDRBemUyNlZPTmlDVXNobHB3OTBuU2owMU5LNWx4RFRR?oc=5",
+    "title": "Waymo Just Borrowed $5 Billion for the First Time",
+    "source": "Yahoo Finance",
+    "published": "Mon, 12 Oct 2026 11:15:00 GMT",
+    "topic": "Driverless",
+    "category": "funding",
+    "one_line": "Waymo secures its first debt financing with a $5 billion loan, signaling confidence in its autonomous taxi operations and a shift toward capital-efficient growth.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "financing"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUlc4X0RWaUFwU19oOE15ZExqVEtvVEs4V1RURHctX3VJQmRmQTM1VWxZWUpnZ0tlS0k5S2NLdGp4X0h0NnBKY0FQbjZDTndHYWVkMWdFOTNKM3JZR2UzeW4zMGFBR1UzYWZJZkljampiakktU2Zxdkw1MkdOSmdnZjNJMDBwb0ZTd3ZfdTVYSlNzbHRlM054b0JjT1Y1REVZajRWQVRUdk5ITDh1NDJVVmEyajFEUjBLajljQ0NDWW9keVRSVkZYd0JZZTh5X0xjbmoxTHh0eURON21QZGxjellhZDczaFdrZng0YktsV2t4MnE5a3ViaXo0dHdhcGhNYVRPM0tfQXJoS1AyejNya3hLRWVHZw?oc=5",
+    "title": "Kimbal Musk Says Tesla Cybercab Is ‘Amazing to Use’ as Driverless Fleet Explodes in Austin and Raises Sta",
+    "source": "Benzinga",
+    "published": "Mon, 12 Oct 2026 11:00:14 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Kimbal Musk offers a testimonial on Tesla's Cybercab experience as the driverless fleet expands in Austin, but the story rests on subjective praise rather than concrete data.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Kimbal Musk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "Cybercab"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0JtUFlpUXk0NmprOGN5UjNtX0p4Mk5lVGdkU0xhenVNYVZadEhrdWk2RlRZVW52elNQZExUa3p6NUw0ZVg0UWZRZTQ0cXItbzRtUHBlMHMxOW1iM2RUb2FFbjZmSTZURUFSdWF4VEY0bVJuV3V5ZXg1b1JOaFdEX3dZT0tQM01QOFBTZE1laGRuUXp3NEJTdmd5Yw?oc=5",
+    "title": "Waymo's Expansion Brings New Perks and New Headaches",
+    "source": "Sustainable Bus",
+    "published": "Mon, 12 Oct 2026 08:46:05 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "As Waymo's driverless cars become a fixture of daily life in San Francisco and Phoenix, The New Yorker finds residents adjusting to robotaxis with a mix of fascination and unease. That ambivalence got concrete this week when a passenger found themselves locked inside a stalled Waymo, waiting for remote customer support to spring the door. Meanwhile, Waymo is trying to smooth its integration into city life with a new $2.85 transit rewards credit in the Bay Area, nudging riders to pair robotaxi trips with public transit.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "multimodal transit",
+      "rewards program",
+      "autonomous vehicles",
+      "urban adaptation",
+      "safety",
+      "autonomous vehicle",
+      "customer experience"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0JtUFlpUXk0NmprOGN5UjNtX0p4Mk5lVGdkU0xhenVNYVZadEhrdWk2RlRZVW52elNQZExUa3p6NUw0ZVg0UWZRZTQ0cXItbzRtUHBlMHMxOW1iM2RUb2FFbjZmSTZURUFSdWF4VEY0bVJuV3V5ZXg1b1JOaFdEX3dZT0tQM01QOFBTZE1laGRuUXp3NEJTdmd5Yw?oc=5",
+        "title": "Waymo's Expansion Brings New Perks and New Headaches",
+        "source": "Sustainable Bus"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTZQTEtBNGFSYzhJZkJhRDItU1VIOEUzel9FX3lHcF9KWWJ5bVpwdXU4WkhRdXVrd0V3dmZsU2xCZmRrcUFpVHVXUTlFNS1mc3ZXcFNXX0JKNEhrRWl0bmtJLUhtdlJKR041MWZFQkVnSVV0MVV4WEdtVVg5eWVzTDdPM29YcFhUUkgtSW5TaEJZdHR2SHh4RENqNA?oc=5",
+        "title": "We’re Learning to Live with Waymos. It’s Going Weird",
+        "source": "The New Yorker"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnRJaFluSG9LbjgyblZZaVVNTURaQTdfbjBtQXZ1VDBsTzk3Ym5pUXFndUlRSWg2TWVXbnE3OXZlblluRDVER091dE9uWG8xcnZGUjJySGQ0NUlFcm1FcW03TS0ycE9Tc1R0ZndYQ0NzV1I4UXprZ2pHSkhiLVo5MHRIVS1MLUdqZ3ZoaWJtaXNvMHIwREhjRU8wUl9Fb19wTm5qYzVJWmM?oc=5",
+        "title": "Waymo Passenger Unable to Exit Driverless Car Until Customer Support Unlocks Door Remotely",
+        "source": "Yahoo Autos"
+      }
+    ],
+    "body": "<p>In San Francisco this week, a Waymo passenger discovered a small, specific horror of the autonomous age: the car stopped, the doors wouldn't open, and there was no driver to ask for help. The ride ended not with a human hand on the latch but with a remote customer-support agent, somewhere offstage, clicking a button to spring the lock. The passenger got out. The story got around. It was a minor malfunction with an outsized moral — a reminder that in a car with no one driving, there is also, often, no one to ask.</p>\n\n<p>The episode arrived amid a broader rollout. Waymo this week launched a transit rewards program in the Bay Area, offering riders a $2.85 credit for trips that pair a robotaxi ride with public transit — a nudge toward treating the driverless car not as a replacement for the bus or BART but as a feeder into it. It's a modest sum, calibrated less to move markets than to shape habits, and it signals something about where Waymo wants to sit in the civic imagination: not a novelty, not a threat to transit, but a cog in the machinery of getting around.</p>\n\n<p>Both stories — the stuck door and the transit credit — are footnotes to a larger one that The New Yorker took up this week: the strange, incremental business of a city teaching itself to live alongside cars that have no one in the driver's seat. In San Francisco and Phoenix, where Waymo's white Jaguars and minivans have become as unremarkable as delivery trucks, residents describe an ambivalence that doesn't resolve so much as settle into routine — the mild thrill of the first ride curdling into the background irritation of a robotaxi idling at a crosswalk, or blocking a bike lane, or simply existing as an unblinking presence at 2 a.m.</p>\n\n<p>That ambivalence is the real story of Waymo's expansion, and it matters beyond the two cities where it's unfolding. The company's bet is that autonomous vehicles will graduate from curiosity to infrastructure, the way the elevator or the escalator did — technologies nobody remarks on because they've simply absorbed them. But infrastructure earns public trust through reliability, not marketing gestures, and a locked door with a passenger inside is the kind of failure that lingers in a way no transit credit can offset. It touches something more primal than convenience: the sense of being in control of one's own exit.</p>\n\n<p>For the robotics industry, the stakes are not abstract. Waymo is the furthest-along example of driverless technology meeting mass urban life, and its missteps become data points in a debate that regulators, insurers, and rival companies are all watching closely. Every awkward moment — a trapped rider, a double-parked robotaxi, a transit credit that reads as both perk and public-relations balm — becomes evidence in the argument over whether autonomous vehicles deserve the city streets they're increasingly occupying, or whether the city is simply the one doing the adjusting.</p>",
+    "slug": "waymo-s-expansion-brings-new-perks-and-new-headaches-809c8d"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejRicHE1MXJqZHgyLS0zdkJxWjFuUVd3c3kzRmM1a25Yd1JfMGk1NVIxeTcwNjdPWjkzaDFPSHdYdjFqWURCRFNpellSdlJ3MEFkZ0RNT2VXODFTX1lXSnRPNWx6cXp1VTJHdm1ydnowWjBVZDBqaDZjR3libWNZekZZNXl6bzBLRF80Yi03OHQ0Q3FORHh3NFI4Mlhud090dURIeGlRZjdGT2pqd3BjMkFySXlTVjdjTjdKWFp3d2tDZVk?oc=5",
+    "title": "Powerus unveils fully autonomous drone interceptors",
+    "source": "Military Times",
+    "published": "Mon, 12 Oct 2026 14:20:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Powerus has unveiled fully autonomous drone interceptors designed to detect and neutralize airborne threats without human intervention.",
+    "companies": [
+      "Powerus"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone interceptors",
+      "defense technology"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2dJZmxISlpBV0lQZ2pUaUdfVFlmZEc1UVZVckxBZWFSeThRR3VlYkRocHpIdGtKOUhta3NfaEdiM3NtU3RjSzFQZ2xrMjhOSFd1aUdWek5QYWNZUURSaVdLUUY3ZDRiNXpkQy1Rb0NzamVZeEt0c3JvYVI1bjBQQ3B0UXlGX3lHN2tVWFpSRlNpYTBZZ1lDclJqN0lPSVA5ZWcwN0otU3ZoeFFOVW1WVkxqTmd1cmpV?oc=5",
+    "title": "A2Z Drone Delivery Chosen as Technology Partner for Indonesia Drone Delivery Trials",
+    "source": "sUAS News",
+    "published": "Mon, 12 Oct 2026 14:43:53 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A2Z Drone Delivery has been selected as the technology partner for Indonesia's drone delivery trials, marking a significant expansion of commercial drone operations in Southeast Asia.",
+    "companies": [
+      "A2Z Drone Delivery"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "commercial drones",
+      "Southeast Asia expansion"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOU9CODhESGtMcVU0MUF1ZlpIcjAzZlpka1ZiWjNmaG5fZncxb1JGWTVmdjRiVHlYYXZpYjlSZ2RJRlZjM0R6NG5DaFMzWnJKZnQwMHdKSFA2eTBYSEVBeGo2UnR6bF9STE1vbXdPVmV6ZUVnQ0xpVVlVeGpNcHNJSA?oc=5",
+    "title": "Sikorsky Unveils Containerized Drone System",
+    "source": "AVweb",
+    "published": "Mon, 12 Oct 2026 16:56:44 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Sikorsky has unveiled a containerized drone system designed for rapid deployment in remote or austere environments.",
+    "companies": [
+      "Sikorsky"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "containerized system",
+      "deployment"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZWFaWFB0Q09oRjZnREo4TFVmTHYwcnhfc0k2SEVRVFl0dWwxTHBVdFpDSFg2eklGem1KUHZuNXlpNzdFQU5Ub3ZiOUp3Qmxwc1FKYjlIMWJMajkxdUlXZ0YxMFVMczFnZFRsdFNmVU4zcGlmaU8xSVc2ZVRYWGg4RC13MENzeUJQNmdqTWE3WUZzTmNjOTloMk5vMFB2MFl4a2RhTE96T0dSNTljVl9iTGVWMVFMdFVURWlxNVNlX28tRjJObGhwRHVjQmRLb3FnTVNRaHBGODF6M241aEZUX19yMnVFNWJmSlJOT0l2OWVUQW82dkM0V21MZ25RS295Mkt0OG4yNV84R0lGZ2ltSzZaVDM2UQ?oc=5",
+    "title": "Fortem Technologies and MBDA Expand Partnership to Build Autonomous Counter-Drone Protection into European and Allied Air Defenses",
+    "source": "Business Wire",
+    "published": "Mon, 12 Oct 2026 05:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Fortem Technologies and MBDA are expanding their partnership to integrate autonomous counter-drone capabilities into European air defense systems.",
+    "companies": [
+      "Fortem Technologies",
+      "MBDA"
+    ],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "autonomous",
+      "air defense",
+      "drone detection"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQk1oV2wzQWgxMmhXQUpTSWFKazRTN2ZoMkJfcVk3aWo2TmEzRnhkUjFTYjlOMW5DZGVxOGd1dEtZc2dLZnhyUW1ZSjlQc3NwT3ladS1xS2ZDOGk4RjJqLU01aHpKbmFXVEt5Qms0QVRKdUVpWjlOeTZwUDJzRG9jcmNUMUpubE15MGZDeGRyOWJQdmdwMHZ6RVlpS3BXRUFMX24xSllBYU8xNnFxYWJVX1FIdzFUdw?oc=5",
+    "title": "Fortem Technologies and MBDA Advance Autonomous Counter-UAS Defense Across Europe",
+    "source": "UASweekly.com",
+    "published": "Mon, 12 Oct 2026 13:21:28 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Fortem Technologies and MBDA are deploying autonomous counter-drone systems across Europe to intercept hostile unmanned aircraft.",
+    "companies": [
+      "Fortem Technologies",
+      "MBDA"
+    ],
+    "people": [],
+    "themes": [
+      "counter-UAS",
+      "autonomous defense",
+      "drone interception",
+      "Europe"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEw0Xy1LbjY0T1Z2eER4WmxRRkhIaGhyd29ocmtpZWNlTUpRQ01tdDBXVm1sVm50ZXYxZ044R1hSdmN2WTBWZ1Y4TzNCa2NTbmNhRzNYUk9XTV9zZkdMRW14Y1VxUHhQMWZ0LW1VaFktcEVjVzBaUldMV3cwaVVuVDlOS21DZHByT2ZwRHMzU2dPZWg2V0h5b2NzZDR3am45Z0NvTl8wN0NuVWYyMWdSaA?oc=5",
+    "title": "ABILITY Neurotech Begins Testing its Brain-Computer Interface Technology",
+    "source": "Medical Product Outsourcing",
+    "published": "Mon, 12 Oct 2026 17:18:02 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "ABILITY Neurotech has begun testing its brain-computer interface technology, moving the startup from development into human trials.",
+    "companies": [
+      "ABILITY Neurotech"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neurotech",
+      "clinical testing"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91TmROQWJ0X1gxck54TTNUTGk3SjBUeTFZVmRnUGVZVU00M3ZTb1BqREphSUJFbDh2YnY4MHpBYm81ZXNqaXFPZFJnLXFwRFJQLWVDbjBqOTZhVzlucUpaVkxfRU1KT19BOERNY2hzc2lBZw?oc=5",
+    "title": "Precision Neuroscience raises $250 million in Series D funding to advance brain-computer interface technology",
+    "source": "MedTech World",
+    "published": "Fri, 09 Oct 2026 13:52:21 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Precision Neuroscience closed a $250 million Series D to scale up its thin-film brain-computer interface technology.",
+    "companies": [
+      "Precision Neuroscience"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "BCI",
+      "neural recording",
+      "medical device"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19ONUhEa1FWekFHMmV2V0o5aWdnLXJ3THpkMjRUVXVFNmwtVXhjTXpxVGhZUFBLSEhEOWszc2pvckdFZGVyN0UtM2ZjM3p1OUt1YXJ5YVpQbHFtWkNTOXBoTE1SeE1vbTlyTEI2QWhjMlNRTmZLN2c4SVp6V3ptZVZtNDdjSlljMWVXYWF5TTJkSjlOdzZXVGZ5NF9DTnh4dTFGLWZPaXJMcUk?oc=5",
+    "title": "Brain-Computer Interface Enables Coordinated Speech and Movement",
+    "source": "European Medical Journal",
+    "published": "Fri, 09 Oct 2026 08:09:10 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers have demonstrated a brain-computer interface that coordinates speech and movement output simultaneously, advancing clinical applications for paralyzed patients.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "neural decoding",
+      "motor control",
+      "speech synthesis"
+    ],
+    "first_seen": "2026-10-12T22:22:14",
+    "week": "2026-W42",
     "why": null,
     "duplicate": true,
     "folded": false,
