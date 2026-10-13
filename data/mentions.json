@@ -76877,7 +76877,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77030,7 +77030,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77209,7 +77209,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77397,7 +77397,7 @@
     "first_seen": "2026-10-06T19:57:24",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77734,7 +77734,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -77915,7 +77915,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -78172,7 +78172,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -78273,7 +78273,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -78352,7 +78352,7 @@
     "first_seen": "2026-10-07T20:23:38",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -79245,7 +79245,7 @@
     "first_seen": "2026-10-08T20:28:20",
     "week": "2026-W41",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -79389,7 +79389,7 @@
     "first_seen": "2026-10-08T20:28:20",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -79468,7 +79468,7 @@
     "first_seen": "2026-10-08T20:28:20",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -80294,7 +80294,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -82529,7 +82529,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -82638,7 +82638,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -82669,7 +82669,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -82899,6 +82899,1183 @@
     "week": "2026-W42",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUms0ZzNmWG9fSnRia1dqS1BMR1FKX1dGeVNkOUNobTJjVXdRbGplQ2UtLXo4bDVfLVk0MUZjU2EzSHMxWGVPYmlDOXQyMlJZcC15QkNDRGNJWHhrZEZpYVJpaGdvQ2d5QkEwRGdmeTVseXNibHJHbkR5TFpWdnhzdW92OHI2OTZsXzNzaUxVUHJRM2hReVI4?oc=5",
+    "title": "The First Pure-Play Humanoid Robot Stock Is About to Go Public. Here's What Investors Need to Know About Agility Robotics.",
+    "source": "The Motley Fool",
+    "published": "Tue, 13 Oct 2026 15:15:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agility Robotics, maker of the bipedal Digit humanoid, is going public as the first pure-play humanoid robot company.",
+    "companies": [
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "public offering"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWIxWUQ5WnZpczFFMFpiSEJYRGtjXzhSZzQ5MFYySmlPMmYySTZLd2tqdzFpUUg0MnpRTEw3OEFycExnWWMtODFiamlVXzBpM083amppcEJieEZOS0JLRTM2NlEtREdsOXR0QlRwY3NpNXhQaTlZSVFDdncwT2FmNm5YTHROUndEWXg0SEd5aDNiUGNWVWU4TktobVdGWkJybEpFQS1ubWNsZkxwa0NMODR3?oc=5",
+    "title": "Humanoid robot ‘sexually assaults’ teenage girl in Germany",
+    "source": "The Times",
+    "published": "Tue, 13 Oct 2026 11:07:12 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A humanoid robot incident involving a teenager in Germany generates sensational headlines but lacks specifics about which company built the machine or what actually occurred.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjg4Ul9tSkhucGdKWUJKTWR6dF9qUFVQNGJOVnloTEF2NHQ3OGNibXc4aDR6cUxwLVpsZmpVbWdWUlhWOHBTV2JZcnI3UDVpTHRuSURibUdWaW5OZ0ljeVNybjg2WldjWXFsZkdBSUFlcS1Uc1EwbHZpT3NpQjRSdzRnV3A2b0RPWDUxUzB5OS1JWjk5ay1ucg?oc=5",
+    "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
+    "source": "The Robot Report",
+    "published": "Tue, 13 Oct 2026 13:12:03 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Promise Robotics has partnered with D.R. Horton, the largest U.S. homebuilder, to deploy physical AI robots on residential construction sites.",
+    "companies": [
+      "Promise Robotics",
+      "D.R. Horton"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "construction",
+      "robotics",
+      "deployment"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeE5PTXFuTy15VUdMbjBlYVFDbFJvYlR5MFM4T3hVTkV5NW1QSnFPTXl3dDgyeUJoVmVTWklRX3diV2pCa3dDc2MtWHZtdWtHWjNvVjVBVUNMZjJ3SW1IdkluVmFfeHFRMXdfcjFuRWplUTdoRGN4ZEpoakZzekJ5U1V2S3NqTW5GZFBveWMtbWxUVjdCZG9EYkNud0l1MFdnWEFCSGRrX1ZFZ1NGWUdFVkhfNkliV09rbU1Ga2JFbko2R01UT1ZqRFpEYlBaVXU2b2tYenRHTnNzSzNkQUV1T1g1UmprdTdCQ2dmM1FjU1dBcU1pRGstRUpQMlExUzYzZWJ1VFdOei00eDNVQ2EtWjRlaVNldVJaXzZEbw?oc=5",
+    "title": "As Humanoid Robot Output Climbs Toward 100,000 Units, MES Inc. Outlines the Manufacturing Shift From Billet Machining to Volume Production",
+    "source": "PR Newswire",
+    "published": "Tue, 13 Oct 2026 13:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "MES Inc. is scaling humanoid robot manufacturing from small-batch machining to high-volume production as the industry approaches 100,000 units.",
+    "companies": [
+      "MES Inc."
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "volume production",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mcEwxYTFONVZINHFNYlRySkRGWUJ3MnVLUUdnZXJBQWNxajdUVnEtU01lUUd2WVBEbGVHbWhIUmdWazZYR210eTVULXhCdUsyYUxONFlKQkszWWJGUEVuVFg0T3RrTXZ3UFlCQ1VTcWYxRk03Rnc?oc=5",
+    "title": "INTERVIEW: Techman positive about robots’ long-term prospects",
+    "source": "Taipei Times",
+    "published": "Tue, 13 Oct 2026 16:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Techman's leadership expresses optimism about the long-term commercial viability of industrial robots in a wide-ranging interview.",
+    "companies": [
+      "Techman"
+    ],
+    "people": [],
+    "themes": [
+      "industrial robots",
+      "manufacturing automation"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjBGd1otWlhwZFZXMGY5S3BsM2JuN0J3N25vd1hBSU5DcGtod3ZoVkt1TkNlOUFsaUxBSnQ1bzdHZ3RCT0dxVExBRXY3ZEgyeE1YNEppQndKa0h1SUV5cG93UWw2M3dUdmQzdUM5c1hwUnhSNGRLdmdJX1N2X1Zxa3pQMXdUTVlDRnF4WTZlakR0RkNLTnlHS0pHTkx6V3Z1NDVsTg?oc=5",
+    "title": "Figure AI's former safety engineer says its home robot can fracture a skull",
+    "source": "Startup Fortune",
+    "published": "Tue, 13 Oct 2026 20:03:01 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A former safety engineer at Figure AI claims the company's home robot Figure 01 possesses enough force to cause serious injury, raising questions about physical AI safety protocols.",
+    "companies": [
+      "Figure AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "safety",
+      "home robot"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEdpS0JHLUdfODJ3NHRnemdpWTlvcldxTXFWczFEY0lzRWs1LUVlVlJSR0ozM0RicGtfaXdkNFlkOXo2WllpMEYxczRNZ0JFTTYtQXlFVFBkcjh6d3lQYkZRMzNVZmNFOWtqMk5zWi11RjJVMW5FdHotRS0xU3ZaNnNyOVJ5NFlPY01lYmd3YTIyQVJOMUFzOUJZSG1XQnkzNWFYenR3?oc=5",
+    "title": "'Human vs. Robot' cage match was a hit. State says event was illegal, but organizers aren't concerned",
+    "source": "Los Angeles Times",
+    "published": "Tue, 13 Oct 2026 18:52:53 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A 'Human vs. Robot' cage match drew crowds in Los Angeles despite state regulators deeming the event illegal, signaling growing public appetite for physical AI spectacle.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "public engagement",
+      "regulation"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcE5sLTE0VHlrVEdEcWU1NlN1Vy1PeU1wRUd1MFNZc2YyVkRtdjgzQ2hoaG1iSmRabFE5Wlc3dkNUUnBVNnlsYlV5b2hhMlFlanlzYUlaanVQRENiSld6WXRLeExjb3lwZF9yWEVVWE9MSXVoa3JhTHpDbTAxZGJjNl9HUTFrVHFrU2xnUExpTFFLSFVTcU16NzUzR2lZU3FFdU5HQzVB?oc=5",
+    "title": "Spranic builds spatial memory for physical AI",
+    "source": "SiliconANGLE",
+    "published": "Tue, 13 Oct 2026 16:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Spranic has developed a spatial memory system for physical AI robots, but the article offers little evidence of a concrete product or deployment.",
+    "companies": [
+      "Spranic"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "spatial memory",
+      "robotics"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWGszcEkySm5oSXFqR2VaT1RlZWxOZndBRmNLajNuejFCUk00YTJrbGhmTVVPYjdzMVltYnBNcU4wYmRlTi1oUkUxeWVKeS1KTmxhYUhkUXhzWWZyYVI0cXZiT2FnaTFhSV9SRnMxR21jRlR1T1M1d2s1MHcwQlZ2TWM0dm1yVGF6MzBxQmJDdHA2WFNsRWc?oc=5",
+    "title": "Why humanoid robot demos still fail the generalization test",
+    "source": "The Robot Report",
+    "published": "Fri, 09 Oct 2026 19:46:01 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The Robot Report examines why humanoid robots struggle to perform tasks beyond their carefully choreographed demonstrations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "generalization",
+      "robot capabilities"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkFmTjJLVXFuTjNYd3dqTDF5R1pZbjZmMmpBb3ZfSmVEQnUwek9DNXl2Y1VSRWViX2J4Wl9PUUhLbkVaQUtfbUI5NnE0Tjltcnhkcmg1TTBiNjFvSExYZDYySXFOanJiS2tGd2FTNm12QzdYMElPNGFSMXlINUNJdUhiQWRJVlNMbEFFd1RuMEZBZUNqUW8xUlZRWVF6aUsxTm8xTnpOR3E2dFVpZzM3Umx5RU5nZw?oc=5",
+    "title": "XPENG plans humanoid robot deliveries in 2027 and European rollout later that year",
+    "source": "TechNode",
+    "published": "Tue, 13 Oct 2026 07:32:40 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng will begin shipping its humanoid robot to customers in 2027 and expand into Europe by year's end.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot delivery"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zRjE3Z01qN2x3RHViMFhvTkdLVlliWjF0bkpUYlNXdEg3cG1wYks0bnhrTHhUQ3hNZ2l6Um9HU2lQel9jblNiaThFNTl4ZmlEV1ZqYXZwNmJLZTB4Nno2enR3?oc=5",
+    "title": "Xinjiang’s first embodied AI robot assembly line expected to be completed in April 2027",
+    "source": "Global Times",
+    "published": "Tue, 13 Oct 2026 10:18:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xinjiang plans to open its first embodied AI robot assembly line by April 2027, marking China's expansion of physical AI manufacturing into its western industrial zones.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "manufacturing",
+      "robotics assembly",
+      "China"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1hEa2hiY0lNVmFJdVlaSEU4QWNza2Y2eVF2ek02d0Q0UDQyV0tFRmM2X2Fzci1adkloU0R4SHdGQUpRdThScVQ1YzlvdzhrNFAyeF9SekFLZnFKellKbUdPSnVNc0tqcExpd2RTZXdOdFBfek9FN1gwZ3JJc3Q2eDhLUzMxQ045ekNpeGMtdjY0SFdKbkttTUR3?oc=5",
+    "title": "Waymo begins airport rides in Nashville. Here’s what you need to know",
+    "source": "WSMV",
+    "published": "Tue, 13 Oct 2026 20:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launched driverless airport rides in Nashville, expanding its autonomous taxi service to a new market.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "rideshare",
+      "airport"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04M2pjdUNKYXg3MW1MMl9wSm43c0JuMl9EbEpZTEtlcV80RzBobk9JQWUzQzBzSUhibTRxR2xtbk14c2Y0SmQtUUdtZDlpLUx3NXA3eGR3R3ZFd1NCN2hxaWF1cU5xaDJRN2RLcA?oc=5",
+    "title": "Uber executive overseeing robotaxi expansion to depart",
+    "source": "Transport Topics",
+    "published": "Tue, 13 Oct 2026 12:47:53 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Uber's head of advanced technologies is departing as the company pushes deeper into robotaxi deployment.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY2Q5T2tDY0EtMmJTSmsyNENnWlF6SllFMUxMQ3VwN25QRnVYZmFNbUJUN0FTU3RZLS1vNlRaamFsTzFCSG8yTHV1eUNwZjBpdGdkd0tCZnQyZHFTQXF1Q2JvVHU0bm1OZ1FPRzZOUmZZeWJXdVRDZEtHSmw4U05BUtIBhgFBVV95cUxQOWNZNGgtY2RWeXRyNEZOek9jSVlEeVJTclF4aXBVX0JhRTU3QUVCQTV4ckl5cGZUNVJHVmhMS1N1M0JlMXBSdGNqeVRSOFZpaGF6YVdHNkk1TXE3NWxXTjhHTUZEZVdIemNsT2xmemk1TDZtTExKZ3ZtWUNGODhvSGlFbkh3UQ?oc=5",
+    "title": "Waymo starts service at BNA",
+    "source": "WKRN News 2",
+    "published": "Tue, 13 Oct 2026 17:35:31 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has launched driverless taxi service at Nashville International Airport, expanding its footprint beyond its established markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "airport service"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGU5dmV1R2VERlRIblZGd1VWbDlsVTRTN3dUOEtVRkxqMUxGMWlCQ2JZVGxxNVdKQUM0dDY0RlBuTnZuM0hjWDFQa0FQWmd1MkVnaHZQcXo5dTQ3NjRFQzhoaXcwWUpaY19JOEZiZzdQMlk5WUNJVE9iV1dRUTZwNTFiY05xWGV2cHltMFJ5TjY4TEFrY19aUDhqanFXUGlJUTVnNE1ESWJpMS1IRXEyWnhYczVuX1Nu0gG-AUFVX3lxTE15ZHVUU1NnWVVfQUhhZmx3QXhNZW9ISlc3ckY3ektSV1drcThTYzlrZlU3TFl5N1l0UnlGUXBvTi1DN2JnOUhSVmxINnMwOFZDNlRSTUM1SHp2M1RzUDljTW1ORkFaUllRQ1dwUU1IcnNQb3dXY3M4LTI3YjRPelA1Q3FRTmdEMU9OWWRYc25KV2wxVU53MldBcEFzS2tRczZDVEV6T0hwa2VsajVhZ050NkEtWkEtTVg4a2J4b2c?oc=5",
+    "title": "Elon Musk calls Waymo cars ‘pet destroyers’ as robotaxi rivals clash over safety",
+    "source": "Fox Business",
+    "published": "Tue, 13 Oct 2026 02:02:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk attacks Waymo's autonomous vehicles as unsafe, escalating a public feud between Tesla and the Alphabet-backed robotaxi rival.",
+    "companies": [
+      "Tesla",
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzl6cGFTN2RkLWhUYjhhR2dMX2NXN0ZKTnRiNFFBNTVFeGx3eDAxclo1dUI2MFIzQnBuOC1QSW41Qm1USVJyXy1MemFkOEQ2NW1SVlR3UzJUQ3pUS3dfeXZ3SC1NREUwaFFjS1F6b3d1RmQ5Q1JQN3RpTldjVWdyMmltLUJYWExyc3Zlei1HV0l0bk4yWWlBbHc2NU5EalF3US1rb3loUDlxUlh0a0hCZFR3X29MeFFCdVh5eTJSYk11UQ?oc=5",
+    "title": "Waymo Has Not Set a Timeline for Driverless Rides in Philly After More Than a Year of Testing",
+    "source": "92.5 XTU",
+    "published": "Tue, 13 Oct 2026 14:02:53 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo remains uncommitted to a Philadelphia launch date after more than a year of testing, signaling that roadblocks to autonomous deployment persist even in markets where the company has invested significant resources.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "deployment",
+      "testing"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnhsblZMTmRiQXZ0NndwLUtBalMzeUdyNmdlY0ljeGJjRm5vT1V2eUhreGM0SjJpMUxVOUlJNDBNMDNnM3A3WEhiUE9iempzQ2lFVTMxZE1zT1NJMWtWWm5FcnpwWVFKdE90WTVDYmI1RFZwRmhpcUtxWGhZRWI3M2Ewa3A4YmJ4eUM2Nk5fLURCVkpvU0FqU0VnZjB3WUpGLXJRd2JQOA?oc=5",
+    "title": "University of Tampa students recall a Waymo ride gone wrong",
+    "source": "WUSF",
+    "published": "Tue, 13 Oct 2026 09:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "University of Tampa students recount their experience with a Waymo vehicle malfunction in a local news segment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle incident"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUhpWDVleDJ4T0VHNUpEM29TYWZxcmZORTEyMndfb1pLQ1ExSjgybEZuMm1LZjRqaTVKei1McE9FSW5QQURIS2dHYkpWRWFNekEtMDdRazg2LXJsOFJ1LVE5Wjg2OEV1QVQxbnBydXVmVUxqM09Wc1hoMXRXMDU3TnpoVHlRQkRwMllGQ1h0aDBQUUJ6TmY2dkxrRnlHWWdpQUF2cVd2QjlzRC01cTRFeUU5dw?oc=5",
+    "title": "Uber Executive Overseeing Robotaxi Expansion to Depart",
+    "source": "Bloomberg.com",
+    "published": "Tue, 13 Oct 2026 13:15:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Uber's head of robotaxi operations is departing as the company scales its driverless taxi service.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa283SmdTdGJKdF9BWm5fNzNFV2FiMlZyS2tHZ1dmOHJvWlVQLXlSZl9KR1haRm9yQTZpdUVBdXBDbFM3X0U2RTU5b0F3ZHM1Y3J1S2FqT2J1Mjd0bW5EVng2MlpULVFrck4yQlNGcmNwNkpVX3lCWlFSdFlzLTAtSHRjcDFONkpEZVp3UVY3RnpyMXhndFhaSw?oc=5",
+    "title": "GM's Plans To Rival Tesla's Self-Driving On Track For 2028, CEO Says",
+    "source": "Investor's Business Daily",
+    "published": "Tue, 13 Oct 2026 13:38:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "General Motors CEO pledges the automaker will deploy a Tesla rival in self-driving by 2028, a timeline that remains contingent on regulatory approval and technical milestones still in flux.",
+    "companies": [
+      "General Motors",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "self-driving"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlVRTk1zNHRWQnNXcm1RV2Y2Q1VIR212OXJxaUVVb1oxQWxpUjY1WVhiMHhMZzVrSml2TGdVQVN5a3czLUpmNDZZUEY4cEkxTUFmMktBSUppQUNxNkpRcUYwa1VEdmF3NzROR0J2dmdXdGM4QS0ySjg1dTZONFdqOEtIc2NndGU2cjNtWTVlNDlTX3VoZXkwelRYdU43dlk2WGFpRy13NU0wSXA5LUctZDM5ZTlDRjFr?oc=5",
+    "title": "FMCSA lets driverless trucks swap warning triangles for cab-mounted beacons",
+    "source": "Trucking Dive",
+    "published": "Tue, 13 Oct 2026 13:44:54 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Federal Motor Carrier Safety Administration has approved driverless trucks to replace roadside warning triangles with electronic cab-mounted beacons, removing a small but real friction point for autonomous freight operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzhIRjJKc3dma2UweHRyY2EtWkJtREVSaHV3cnN4WVMtaEY0bEp2dk5sMm5fdVg4TXJDOTUtQmhxMkZhN2o2VTQzUDhBcV9vcUlkbnBpeFpJRUpnMmNhRi0tZVFuVDBFVW4xd2NRT1BsaTZOVmJTZjNldDQtdDROeEhUTUtEQWZ6cU9mWEdDVFZURWpRaXhaVFV5RU9NNmZFeS16X1NZMDNJazNONGxoVVRWZUJQbThTaE9ES2k1SVlhelE?oc=5",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "source": "TechCrunch",
+    "published": "Tue, 13 Oct 2026 17:30:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Laplace Intelligence offers red-teaming services to stress-test autonomous vehicles and robots before deployment, positioning itself as a safety checkpoint in the AI hardware pipeline.",
+    "companies": [
+      "Laplace Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety testing",
+      "red-teaming",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkt0TmFDajhDNWgtVktmS3V6cHlQS3pRbGtXX2VNME4wVHNEdXNjX2NpM0VIRW9Fd1F4SHBlWW9SdzZyZmJ3V1VZT3JFUHJBY3NSTTlGcnBtS2ZDSnBWU1NFd1kwanVWUE1IMDc0NnhwOF81bkhscGtURFd2LUhZVF9vNm9sUGJNQjE0aXAweENUSnJvalpjRWJrR2c?oc=5",
+    "title": "Tesla Drops \"Full Self-Driving\" Name After Pressure From Regulators",
+    "source": "Yahoo Autos",
+    "published": "Tue, 13 Oct 2026 19:55:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla abandons the 'Full Self-Driving' brand name after regulatory scrutiny over misleading marketing of its autonomous driving system.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "naming",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTWNBX0h2ZUNNZVA0WkNUd1NOT05rWDJ0eWJHMzFfOGhRbnZBOHMwOFNaN2l1bWxvVEFMSU1iSThqN29hcE80bG9XSkFhbV9TZUpxWUg1Q3l2YTItWXpqbUF6WkUtY2JtYWNVREp2MTE3ZWdlazllOTNSUEM1X3czUXRYOU1ManRKNHlwT1ktaWNkX1c5bjJhOWdPR2ZUSU9YbmtIVUh2Y0RIUW1BdUZ6UGJBcGE0TlhEcnZ5SDVwOUM1NkUxY3p1T3FKczczbHBMOGNN?oc=5",
+    "title": "Bot Auto Selects Lenovo AD1 built on NVIDIA Hyperion to Scale Driverless Trucking",
+    "source": "PR Newswire",
+    "published": "Tue, 13 Oct 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Bot Auto is deploying Lenovo's AD1 computing platform, built on NVIDIA's Hyperion architecture, to power its autonomous trucking operations at scale.",
+    "companies": [
+      "Bot Auto",
+      "Lenovo",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeG5LVl9RbkUtb3dNM3drbllJYzNsb2ZJZ3o1U2Y2VzZFbEVZMFRBYk1ocnROejBpTjA1RWI4N2tNTnNkZXdFLXpOTGxRbjFVVXdlemRmVG4xc204NENMRGJlTzdCRmV1QjVFZlZzSXpYLVNzNlVRZHVYbHpWOEtGNDhtUFNTS3JNYndBQ0IyekZhV2gyaWl3XzJQb1BIOWgtT1E?oc=5",
+    "title": "GM Defense Is Prototyping a Self-Driving Chevy Silverado HD Pickup Truck for the U.S. Army",
+    "source": "Road & Track",
+    "published": "Tue, 13 Oct 2026 15:24:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "GM Defense is building an autonomous Chevy Silverado HD for the U.S. Army, moving self-driving trucks from commerce into military logistics.",
+    "companies": [
+      "GM Defense",
+      "Chevrolet"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle",
+      "military",
+      "pickup truck"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW8zOXpEWDFHWW9Cd0hlMXJma0d5Z2JkRDlabzJpNkV5Wk5EQ2V1cUl3bkVVaWtBblBtS094dExIR1RMLXVJQzZLR2t4ZVpwTXBnQ1Rhck5IOHVCVVNzYVJIQjNHZ0ZEekxfdWR4LUZoREQ3ZkhnYTRmdFZqZmVDcU00Q3hHVmVRc0JMTlA0V2lnZXloS281S0VQSmZqb2dS?oc=5",
+    "title": "Waymo's Uneven Expansion: New Airports, Old Doubts",
+    "source": "TravelPulse",
+    "published": "Tue, 13 Oct 2026 17:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo added airport runs in Nashville and Las Vegas's booming Harry Reid International, even as it keeps Philadelphia waiting more than a year without a launch date. The rollout's rougher edges surfaced in Tampa, where University of Tampa students described a ride gone wrong, and in Elon Musk's public jab calling Waymo vehicles 'pet destroyers' as the robotaxi rivalry with Tesla sharpens. Together the stories sketch a company sprinting into new cities while safety questions and cautious timelines trail behind it.",
+    "companies": [
+      "Waymo",
+      "Harry Reid International Airport",
+      "Tesla",
+      "Alphabet"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "airport",
+      "expansion",
+      "autonomous taxi",
+      "rideshare",
+      "autonomous vehicles",
+      "safety",
+      "autonomous vehicle incident",
+      "deployment",
+      "testing"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW8zOXpEWDFHWW9Cd0hlMXJma0d5Z2JkRDlabzJpNkV5Wk5EQ2V1cUl3bkVVaWtBblBtS094dExIR1RMLXVJQzZLR2t4ZVpwTXBnQ1Rhck5IOHVCVVNzYVJIQjNHZ0ZEekxfdWR4LUZoREQ3ZkhnYTRmdFZqZmVDcU00Q3hHVmVRc0JMTlA0V2lnZXloS281S0VQSmZqb2dS?oc=5",
+        "title": "Waymo's Uneven Expansion: New Airports, Old Doubts",
+        "source": "TravelPulse"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1hEa2hiY0lNVmFJdVlaSEU4QWNza2Y2eVF2ek02d0Q0UDQyV0tFRmM2X2Fzci1adkloU0R4SHdGQUpRdThScVQ1YzlvdzhrNFAyeF9SekFLZnFKellKbUdPSnVNc0tqcExpd2RTZXdOdFBfek9FN1gwZ3JJc3Q2eDhLUzMxQ045ekNpeGMtdjY0SFdKbkttTUR3?oc=5",
+        "title": "Waymo begins airport rides in Nashville. Here’s what you need to know",
+        "source": "WSMV"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGU5dmV1R2VERlRIblZGd1VWbDlsVTRTN3dUOEtVRkxqMUxGMWlCQ2JZVGxxNVdKQUM0dDY0RlBuTnZuM0hjWDFQa0FQWmd1MkVnaHZQcXo5dTQ3NjRFQzhoaXcwWUpaY19JOEZiZzdQMlk5WUNJVE9iV1dRUTZwNTFiY05xWGV2cHltMFJ5TjY4TEFrY19aUDhqanFXUGlJUTVnNE1ESWJpMS1IRXEyWnhYczVuX1Nu0gG-AUFVX3lxTE15ZHVUU1NnWVVfQUhhZmx3QXhNZW9ISlc3ckY3ektSV1drcThTYzlrZlU3TFl5N1l0UnlGUXBvTi1DN2JnOUhSVmxINnMwOFZDNlRSTUM1SHp2M1RzUDljTW1ORkFaUllRQ1dwUU1IcnNQb3dXY3M4LTI3YjRPelA1Q3FRTmdEMU9OWWRYc25KV2wxVU53MldBcEFzS2tRczZDVEV6T0hwa2VsajVhZ050NkEtWkEtTVg4a2J4b2c?oc=5",
+        "title": "Elon Musk calls Waymo cars ‘pet destroyers’ as robotaxi rivals clash over safety",
+        "source": "Fox Business"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnhsblZMTmRiQXZ0NndwLUtBalMzeUdyNmdlY0ljeGJjRm5vT1V2eUhreGM0SjJpMUxVOUlJNDBNMDNnM3A3WEhiUE9iempzQ2lFVTMxZE1zT1NJMWtWWm5FcnpwWVFKdE90WTVDYmI1RFZwRmhpcUtxWGhZRWI3M2Ewa3A4YmJ4eUM2Nk5fLURCVkpvU0FqU0VnZjB3WUpGLXJRd2JQOA?oc=5",
+        "title": "University of Tampa students recall a Waymo ride gone wrong",
+        "source": "WUSF"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzl6cGFTN2RkLWhUYjhhR2dMX2NXN0ZKTnRiNFFBNTVFeGx3eDAxclo1dUI2MFIzQnBuOC1QSW41Qm1USVJyXy1MemFkOEQ2NW1SVlR3UzJUQ3pUS3dfeXZ3SC1NREUwaFFjS1F6b3d1RmQ5Q1JQN3RpTldjVWdyMmltLUJYWExyc3Zlei1HV0l0bk4yWWlBbHc2NU5EalF3US1rb3loUDlxUlh0a0hCZFR3X29MeFFCdVh5eTJSYk11UQ?oc=5",
+        "title": "Waymo Has Not Set a Timeline for Driverless Rides in Philly After More Than a Year of Testing",
+        "source": "92.5 XTU"
+      }
+    ],
+    "body": "<p>Waymo this month opened its robotaxi service to two more airports, adding Nashville International and Las Vegas's Harry Reid International — the fastest-growing airport in the country by passenger traffic — to a route map that already touches Phoenix, San Francisco and Los Angeles. The expansions, announced within days of each other, let riders summon a driverless Jaguar straight from arrivals rather than hailing a human-driven cab or rideshare. In Philadelphia, meanwhile, Waymo has logged more than a year of testing without naming a launch date, a silence the company has not explained and that locals have noticed.</p>\n\n<p>The contrast is the story. Waymo, the Alphabet-owned company that has spent a decade and a reported tens of billions of dollars building the technical and regulatory case for driverless cars, is moving at two speeds at once: aggressive in markets that reward splashy headlines and tourist dollars, cautious in places where the terrain — literally and politically — seems trickier. Airports are good theater: steady demand, predictable routes, a captive audience of travelers happy to skip surge pricing. Philadelphia's dense grid, older infrastructure and unresolved state-level rules for autonomous vehicles make for a harder sell.</p>\n\n<p>That caution looks more reasonable against the week's other headlines. In Tampa, University of Tampa students described a Waymo ride that went sideways, the kind of local news segment that rarely moves markets but chips away at public confidence one anecdote at a time. And in a public spat that says as much about the robotaxi business as any safety report, Elon Musk called Waymo's vehicles \"pet destroyers,\" sharpening a rivalry between Tesla's camera-only robotaxi ambitions and Waymo's heavier, sensor-laden approach. Musk's insult was crude, but it landed in a moment when Waymo is trying to project unimpeachable safety as its core selling point against a competitor with fewer vehicles on the road but a louder megaphone.</p>\n\n<p>None of this is fatal to Waymo's momentum — the company now operates in more cities than any rival, and airport access is a meaningful commercial foothold, since airports are where many Americans will have their first encounter with a driverless car. But the unevenness matters beyond optics. Every new airport launch invites regulators and the public to ask why Philadelphia, a top-ten US media market with its own airport and dense urban core, remains stuck in perpetual testing. Every viral bad-ride story and every Musk jab adds friction to an industry still trying to convince skeptical city councils, insurers and pedestrians that robotaxis are safer than the human drivers they're meant to replace. Waymo's expansion is real, but so is the gap between its glossiest announcements and its quietest hesitations — and that gap, more than any single ride gone wrong, is what will shape how fast driverless cars actually spread.</p>",
+    "slug": "waymo-s-uneven-expansion-new-airports-old-doubts-f12af5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oUTJRdkY3bkpvMEdZbW5Ib05jZEJ4V1JwTjNWUkVmSXhWLVlvUE5UMHlzcTNZcllqV0hUQVpwcl9wX0ZXSnQtakJ4cUkyVDRpZG8yTHd6Tl93WmttUmRabFd6ckEyclBiWktpRkRjTUd1Zw?oc=5",
+    "title": "Waymo starts service at BNA",
+    "source": "WKRN News 2",
+    "published": "Tue, 13 Oct 2026 20:18:52 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo launched driverless ride-hailing service at Nashville International Airport, expanding its autonomous taxi operations to a new major hub.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "airport deployment"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTFoOHJ4eE1CSWtRUjFKbVRfbC1yWU93cmMzd1R3MzVSZmh0SndVYUlRLUlVcXZrNUlDeXdDTFh1Y3FnM18ydHFBZ0VMUEZZQXozOGxxMHRRNnNTbHFxTXM2dkRJbVhXMHpDRERMcWRvVEFhNVd4VXlxZjRLV3laUThXYUZncFctUk9mdkRQZllDM0hOVTV5aUZQNnc?oc=5",
+    "title": "Tesla Drops The ‘Full Self-Driving’ Name In Europe After Regulator Pushback",
+    "source": "Yahoo Autos",
+    "published": "Tue, 13 Oct 2026 18:00:01 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla is abandoning its 'Full Self-Driving' branding in Europe after regulatory pressure, a forced retreat that reveals the gap between its marketing claims and what regulators will tolerate.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmMyTnVKM2h6aklXcXh5dWNoU1BQSG9rRXcxM1JHRkxIR29TU2x2eWR1X1BibzNYZEcweGFEbFcwakR1MHBkX3BWcG9fSmcwNE1nbVIxOUZRbVMzZU56ZEFiblhLcWd4a2cxUkhTcV9uX0k5LUdnRzdyWVV0Rno0X3FwT2I3ckJESk5MYmd0dHY3MEhudWhOeg?oc=5",
+    "title": "School zone petition adds to Tesla’s robotaxi probe pile",
+    "source": "Automotive World",
+    "published": "Tue, 13 Oct 2026 13:42:12 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla faces mounting regulatory scrutiny as a school-zone safety petition joins existing federal probes into its robotaxi ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjVmdW5KX0I1UVVQUklfU1lRMnV1eGM3Yy1fWjZiTkpCRW5nVXBhRUJDRzg1c3RjbkFZQzE5a0xPdEFpUzBNN053MUM1X2NCREZYeHN6R01xb2FWb2k1RmlHR19RUVRoekRvb2JwRXNGZ0x2a2d3OGVob3lLSXl2VFYzUllYRVQwWWNfUmJsbUxEVjJmMUlUVnlmeE0?oc=5",
+    "title": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
+    "source": "The Verge",
+    "published": "Tue, 13 Oct 2026 17:40:15 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Federal regulators are investigating Tesla's Full Self-Driving robotaxis for exceeding speed limits in school zones.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle safety",
+      "regulatory investigation"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tVXg3dllJZWpmT0RPSHJfYk1hQ0dCWURFTm03bDFfSmFROEx0b2wxT0JNSmxfQ18yUTZPUklyM3ZfMnE2aks5R1RGaHJkTXB0R3Iyd2UzTjRLSXJESmtGRDV6MVBsb1U1RC1pZTFVTHBXTHZKZk5lRExKaFg?oc=5",
+    "title": "Tesla Rebrands Full Self-Driving In Europe After Regulators Called Name Misleading",
+    "source": "Motor1.com",
+    "published": "Tue, 13 Oct 2026 11:53:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla rebrands its Full Self-Driving system in Europe after regulators deemed the name misleading, a regulatory reality check for the company's autonomous ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory compliance",
+      "autonomous driving",
+      "branding"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hZVdZVUEyTV9VVERfRGZVNjFNS1N0aGhLWEhXVnM5bnZiQW1xU3JUUDBPalUzMVZacXlkanh1bzB6YVg3LXBPUGZaZzBHaVVnQmluVXhMRzhDeTVLRDBHS0prMTg1czVRQWR0b3hfeTgwdw?oc=5",
+    "title": "Powerus unveils Guardian-3 fully autonomous drone interceptor",
+    "source": "DroneDJ",
+    "published": "Tue, 13 Oct 2026 19:10:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Powerus has unveiled the Guardian-3, a fully autonomous drone designed to intercept other unmanned aircraft.",
+    "companies": [
+      "Powerus"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "drone",
+      "interceptor",
+      "counter-UAS"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzJ3V1pjUmxxYTdQcU93Rjh0NHh5ZExqemU2clh4dmt0NHJsdUUtRU1lb01YaTNWM0hfcHhxNUh6a0J5RWRJTm0ySDQ0c29uZlRpb3BWMjdZNHpTbHJWQzVzVWVWQUhBM3JRay1NSkRWYXNLb2JuVUllVGEteTVrT1Vsa0RQMWxZMVcyelBUM3N0VzNCVEhzTmMxMEpNdGUybjZGakF1b0tnX1RhVlBxaVlVQ2daWlJDVDNUYmgyLS1ULVhFUGZ5QnFic0VjZw?oc=5",
+    "title": "Powerus (Nasdaq: PUSA) Unveils Fully Autonomous Drone Interceptors at AUSA 2026",
+    "source": "Business Wire",
+    "published": "Tue, 13 Oct 2026 12:30:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Powerus unveiled fully autonomous drone interceptors at the AUSA 2026 conference, entering the counter-drone market with what it describes as a major advance in autonomous defense technology.",
+    "companies": [
+      "Powerus"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "counter-drone",
+      "defense",
+      "drone interception"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0RQRDZkTGJCaUZuVnB4UldxemNaU0JROWR3RDdseTltSzNYUHBmSXJPZmZuUVdUOFVNNG54QzBpY1o0dzRBdjRnMU1rLUZxLWlfUHA3bXRNQzltbm1vdnAyWFlZbVctMDNVXzVZR0xtcHd4R2F5d1Z2N29uY1gwdkxFZ0c3a25vc3h4dFdpSU92WG9rVWF5eFNJQkh3OVVSenI5SlNMV1J4b0xt?oc=5",
+    "title": "Badland Batteries Opens Drone Battery Cell Manufacturing Facility in Fargo",
+    "source": "Dronelife",
+    "published": "Tue, 13 Oct 2026 14:42:54 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Badland Batteries opened a cell manufacturing facility in Fargo, betting that drone operators will pay for batteries made in the U.S. instead of imported.",
+    "companies": [
+      "Badland Batteries"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "battery",
+      "manufacturing",
+      "supply chain"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdW9MRGFsbG1mQkU3TnRnSnNLMHY4NmNQNkNYY2FURmZWQmFza1I3MXVvQl9XZ2x1VWU0MV9BMEZOclRKNGY3cEhvR005U1k2Y1pYMGZZdWZMcW15UE9FQWdBdVZ6d0h3SFhBdXRadUFLdnAyVUJ2OUVjZTdQVHJ4X2pUZE5JdjFZSXNEa1pkV252blBuZ3VxemoxMHdhdVMyb01PdnlnTUtpWmNaSFNvNHQyUlg3Wmp4eXlpWUVJZWJnOGpybnV5cw?oc=5",
+    "title": "First Breach Inc. (FBDT) Completes First Fully Autonomous Drone Flight",
+    "source": "TradingView",
+    "published": "Tue, 13 Oct 2026 12:31:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "First Breach Inc. completed its first fully autonomous drone flight, marking a milestone in the company's development of unmanned aircraft systems.",
+    "companies": [
+      "First Breach Inc."
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "unmanned systems"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWtSYjF4VS16Tk1KN2tGNDdXSWQ5M0R0VGVtbG5VampsWlFkRFRLMm82XzhBZm9uZ2xLRnJ2ZVRCVHBwS19CWFo4eU4zVEY2TnhTN3pHSF9OSE1QcE1EVUpwX3ZGN1d5dzFPY21rM1pxTE1icW4wZ1NtVVlRbGRJa2dUdFdFQ09uaTBsQm5rZUo0MHFtTUtRMW03MWhEbThFVEVYQXhZazBIdw?oc=5",
+    "title": "Lantronix Introduces Spotter to Close the Compute Gap Holding Back Drone and Robot Autonomy",
+    "source": "Yahoo Finance",
+    "published": "Tue, 13 Oct 2026 11:05:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Lantronix unveiled Spotter, an edge-computing module designed to give drones and robots the processing power to run autonomous tasks without constant cloud connectivity.",
+    "companies": [
+      "Lantronix"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomy",
+      "edge computing",
+      "robotics"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkN6N2c4TWhadXcybUQtZnBGczdFcS1zRmtrNDZ1ZVcxUkNWYzR3VHMzQmRhSlVObW1YcUdQSFgtTW5za0FxMTZGY0Fsd1hCbDZycDBOTTIxS0RiTW16aThlZWpSUXBnR0ZUOGxRejh5eU9pUi1sVDRLMTVobnJCNkRVckFuU1dZbnhjOUV4eGxUM0xfYW85SElzT0RsTlB3UHZNdGRWSS0ybzVyZVZCQ2IyWWdYbUkwZm00QkxNVQ?oc=5",
+    "title": "Nokia Drone Networks to Expand in Japan Through Hitachi Sales Agreement",
+    "source": "Unmanned Systems Technology",
+    "published": "Tue, 13 Oct 2026 06:17:56 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Nokia Drone Networks secured a distribution agreement with Hitachi to expand its operations in Japan.",
+    "companies": [
+      "Nokia",
+      "Hitachi"
+    ],
+    "people": [],
+    "themes": [
+      "drone networks",
+      "distribution partnership",
+      "Japan expansion"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUmdFRW5mSTdqY2VPY19tY3V2WjRsemc4WGxaaUhVN0NLZEMtZzRCTGpmSU1WQmktQmtybTVEbHl6ZUxaSkRyRDZ2YzZ6d3NSLXVmYlk4ZWtoZzR2aHFzMHh6S3JNQ29ZNHo5SDdPb25fVTh4TV9pcDFaZU0tWHZYNjZ2WU9Wa3VKLXNpMW9Mem52U0owckpSSWpmYjRkUXRfYjhYS3BsUXgtTHNFVFRrMGhsWDR1em5zSVJSMkFDVQ?oc=5",
+    "title": "Powerus unveils Guardian-3 autonomous drone interceptor at AUSA",
+    "source": "StreetInsider",
+    "published": "Tue, 13 Oct 2026 12:32:22 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Powerus has unveiled Guardian-3, an autonomous drone interceptor system designed to counter airborne threats.",
+    "companies": [
+      "Powerus"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "drone",
+      "interceptor",
+      "defense"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWgzVkdLVUZSWXNQLV9IRHRsQ0ZQWVdVYnYwaDN6RVBFTmFIbG81WVlkNEU4TTNBcExaSk96TU1LVjFmaWh5RWpSZkIzeU96T2JUNVcxQzlYSzhfSzZ3NnhvLWJTQjhBSmJWMlVhUDBvc0pCdVBxMlZnUUI0MjdhY1lYaWpqSEozbVB4bm9RTTV2REt1clp3TGtnVzZGeVJVaGZTeDhydjhpMFhaQlo1cVJGUnBxdjF5ay1vNWpB?oc=5",
+    "title": "Battle-Tested in Ukraine, Portuguese Drone Maker TEKEVER Expands Into Germany",
+    "source": "UNITED24 Media",
+    "published": "Tue, 13 Oct 2026 14:03:43 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "TEKEVER, a Portuguese drone maker whose systems have been deployed in Ukraine, is opening operations in Germany.",
+    "companies": [
+      "TEKEVER"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "military",
+      "expansion"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ0F0a1JlQkN5MUk5WWtsSnpGMl9TVjBVSVpRVkdpQUl5ZzkxUzhkMU01eEZ3SXM1aUFHYW9Oek5RQ092VGw0S0pQSHg1NnBrV25GVXFsMDRmWnA1Zk1FN1JvQW9UMlNOSGJuajFBQ3FNMGgyVG9XQjd0aUVxNVlKSzJXVlFiZl83SUJiX1BDcmE0NEs4cy1vRUdRajRtaU44T2VTTmVzUzFNb1RmRGtQUXE0dEFFTEZwbk9tQ1g5RWJ2em0xdGswQ1pPT2M1dUhqaTJ0Tk9RclQxM216WEYyUDN2T04?oc=5",
+    "title": "First Breach Completes First Autonomous Flight of Proprietary Drone Prototype",
+    "source": "ACCESS Newswire",
+    "published": "Tue, 13 Oct 2026 12:42:25 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "First Breach flew its proprietary drone prototype autonomously for the first time, marking an early test of the company's custom aerial platform.",
+    "companies": [
+      "First Breach"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous flight",
+      "prototype"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa295Q2JySGJpUGdJT1Z6ejBQZ0NPRTZBTHhnUFNlbkN3M3lZQkJ4M3Q4N2JLOGNoQ25Qa3N5M2FoUm4xOXVIUmJrMW01UXkwYk5NT0xiVEUzV2o3ZGFaZUowUEVJa3duOG9Fa2NPaVNrc1RTSkJmV05Ib1VKV1FJRnFOdzBKQlc5d0ZWOEVkYkpvTDZsYi03MWZKWjVaNVpWZTZfbFJkVTJDWkp1UGJzeFk3blk3b2xiZE8xSDdvenNfQQ?oc=5",
+    "title": "First Breach completes first autonomous flight of drone prototype",
+    "source": "StreetInsider",
+    "published": "Tue, 13 Oct 2026 12:34:22 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "First Breach achieved its first autonomous flight of a prototype drone, marking an early milestone in the company's unmanned aircraft development.",
+    "companies": [
+      "First Breach"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous flight",
+      "drone",
+      "prototype"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmRfcUFWZ25vdFRqbjlNNVlzRV9KR2tuS0lNTzZBcHB1b0s5LVg1QjZQd0JKN2VRU3hQdWlxN2hYVU15bVdsZWdJTTN6V1l0cmVKRjVJSm1HTTN5MDQ0MFoydGF4NEFwd1A5MDdBRzBtbk55WDRRdUw3ZDZNWEhYUk1SR2l1N09fdlFNRzJPcUhzLWJNOGE5YllROHVNNzQ?oc=5",
+    "title": "Arrive AI and Modovolo Partner to Advance Autonomous Drone Delivery",
+    "source": "Yahoo Finance",
+    "published": "Fri, 09 Oct 2026 12:17:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Arrive AI and Modovolo are partnering to develop autonomous drone delivery systems.",
+    "companies": [
+      "Arrive AI",
+      "Modovolo"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTm1HYjFQQmZlREprUktqdlY2V1I1cFVMX1Z1dUZ4LUExQnU2ejFEX1M3N2o0T3NEZUhveFowbzhYVlp0QlFjekVYTG10eUNheEZTY1pWWUxXZDBuVVJRN3RrblpLUVNvZVBXZzhzb2FqUlI2Y0FnQ3lrNXJfRFhKN1l1aDJuYlZ2Y0tXVkUzSWoyMG9PTWx1bFdhYkZHVnZlN3hBbVc1ZHRsQXl2Q0VncnVGVGc1TGFzbWtxM0VxelFOTDNyajFrWHNqRU94LXdv0gHWAUFVX3lxTE80dVZmMm56Y0sxZ29hdkdEUHlockpsdU0wMHdNWVRzMjhpOEJQcXVGMWRCRlMwU3NrZjZMWDgyNnpTMC1FT2V0RVJkVjBUa3hwN2d6X1lVb3V4UjJ5QzlFT3d2eGxleGMybEVVZUxjWU9rRHRRa2RxRE5DZTNkS0ZvVkRrSWVFc01acG9CV3hCQlNRTGszYmhEZTJYVkJob01DaXNBY1l3UzFacVNCVFR3VDJkby0tMlRZakVueDk0WXZsd0xZVlN3dmozbGVNV0FqdmdJX1E?oc=5",
+    "title": "Powerus Takes Its Counter-Drone Strategy To The Next Stage With Guardian-3",
+    "source": "Simply Wall Street",
+    "published": "Tue, 13 Oct 2026 13:38:37 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Powerus has released Guardian-3, an updated counter-drone system designed to detect and neutralize unauthorized unmanned aircraft.",
+    "companies": [
+      "Powerus"
+    ],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "drone defense",
+      "detection",
+      "unmanned systems"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://www.pi.website/blog/api-beta",
+    "title": "New Frontier Models for Every Robot",
+    "source": "Physical Intelligence",
+    "published": "",
+    "topic": "Robotic Hands & Manipulation",
+    "category": "launch",
+    "one_line": "Physical Intelligence launches a beta API offering its foundation models for robotic manipulation, allowing developers to fine-tune π's latest models on managed infrastructure without building their own ML pipelines.",
+    "companies": [
+      "Physical Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "robotic foundation models",
+      "manipulation",
+      "API",
+      "fine-tuning",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-13T20:29:22",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
