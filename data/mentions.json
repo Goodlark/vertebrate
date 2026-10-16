@@ -79953,7 +79953,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -80166,7 +80166,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -80677,7 +80677,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -80860,7 +80860,7 @@
     "first_seen": "2026-10-09T19:58:42",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81046,7 +81046,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81684,7 +81684,7 @@
     "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -83319,7 +83319,7 @@
     "first_seen": "2026-10-13T20:29:22",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -83344,7 +83344,7 @@
     "first_seen": "2026-10-13T20:29:22",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -83397,7 +83397,7 @@
     "first_seen": "2026-10-13T20:29:22",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -83622,7 +83622,7 @@
     "first_seen": "2026-10-13T20:29:22",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84629,7 +84629,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86057,7 +86057,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86273,7 +86273,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86302,7 +86302,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -86444,7 +86444,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86803,6 +86803,1150 @@
       "sensorimotor integration"
     ],
     "first_seen": "2026-10-15T18:51:21",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2MxVXJGZWlIdkxPTTZOeGFqZGpVR3NfSEZRbzlhS1R3LWxRdzVTRlhrTVZGbU8tclBFdWxrS0NLbzRvZmctZ3BPaGZ4UGwwS3lwNmNrYzlZZENsWVl2ZDNwUElHZkNEWG15V1puWUVwajlTS3VTU0ZsWEJuTDRselRsQXRTUFNXdk53dEJHZ2NKRXdHbmltYURjZkNkcjVVaVJRb0ZEVnB2bmNMSnRfdFhqQzFQUG5RWm1uNmIta2FVajFTVmNncmplR2xEQjE5T2o0?oc=5",
+    "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+    "source": "MarketWatch",
+    "published": "Fri, 16 Oct 2026 16:05:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A MarketWatch reporter spends an afternoon testing two humanoid robots at their purported household task, finding the $55,000 machines struggle with the dishwasher.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "home robotics"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tUVVKUEdTblhiWmRpdWE1R0tyV1VPalNJZFM2cmJxRUdWenZoa2hwR29uakVDZEJIdm42OGc2Mm9MOUpFRDV0Um5DZW9CbF9qVW1xbjVwWXV6amhIcFVjWEV0T0dMVkhEWGM1VWg5UWc?oc=5",
+    "title": "Faraday Future unveils a $2,490 humanoid robot for developers and schools",
+    "source": "The Next Web",
+    "published": "Fri, 16 Oct 2026 09:03:05 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Faraday Future announced a $2,490 humanoid robot aimed at developers and educational institutions, entering a crowded market for affordable robotic platforms.",
+    "companies": [
+      "Faraday Future"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "education"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjcyNXRrT3VTYnV3b3A0MHFPRTVxblk3THBteW5BQXZaMEtHLUJzQmVtQUtaM0dvNlJCcV9vQ3NjYkZkTzU4UDZiZ1h1eENwdURLSzhwZUtVSnh1bVZDQVRwTVRCVXlFaFAzU3h2cW5Fd25UbUs2WU1ZNlYySmkta0R6Q1hqZ3lXS2RYZEFRakRWbzhY?oc=5",
+    "title": "FF EAI Robotics Launches $2,490 Humanoid Robot and Agrees $200 Million Acquisition of Faraday Future Robotics Assets",
+    "source": "Yahoo Finance",
+    "published": "Fri, 16 Oct 2026 10:59:42 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "FF EAI Robotics unveiled a $2,490 humanoid robot while acquiring Faraday Future's robotics division for $200 million, betting on a mass-market entry into physical AI.",
+    "companies": [
+      "FF EAI Robotics",
+      "Faraday Future"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM1p4enpFQnhGRGhMdXRSU3lkWElNRG5vNlFfeWhkTC1XbzVBU2lSV1BrX1hwRHEtVFV4S1g1Tlpsd21ZN29ZbnVKOEh2MC1rbk9iQXd6R0c0bE9jZmd1UFJWZm5KQ2J2V0FheFNTSmhtOThNSXNHdkZQTy1pNDJOTnZsQWFoenhoODVaajRWcw?oc=5",
+    "title": "FF launches Nova humanoid robots and Physical AI programs",
+    "source": "Engineering.com",
+    "published": "Fri, 16 Oct 2026 07:17:56 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Faraday Future launches Nova humanoid robots and announces Physical AI development programs.",
+    "companies": [
+      "Faraday Future"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPempSRnh6dzVqekdoLTEySUU3VmRFTUVQdW1uRlR5OHp2V3hHVTAzZDlYSmFoc0ZUZXQwUDFMZEI5N2k2RUo1MS1yMUNkdGszbzdxSnhUcVpoOUNONkVFX19LcVBGbU5vOVNOQ3JRTFBrYjd6VjBDbmQ4aWhxUkh1aHpLUEtDaXdQbGxSRzcxNmtXYTRxRllXRGRTSmFTd1gtR2IxQ2h3V3A2NFBjX3VQMUh6UndOX1l6cERGVzU2OEExNVpNV3VDRW1taVpxYm5wQmFGTld2YmdUYVlVcGZKTDBFU3pTc3Z0T2ExTHpOWTNMWlQ0M2Q0NzMwMDdOeFEwWEo3Zk9KSzZQcEtkVC12LXlFeTZZTjgwR1U4R0NEWG03SWZXMGgwU2RZel9GcU9wZzBkMHlaV0cxTExKOEs0T292SXJXZGg1MzV2MVdKX0tVRWNNa1NKUURqcFFjUWlrYy1URVFycFowMGdhUXNaWGphYURQS2JtQm14ZDU2N0NoSkZKS1BhSUl5VkRuQQ?oc=5",
+    "title": "FF EAI Robotics (FFR) and FF Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recr",
+    "source": "PR Newswire",
+    "published": "Fri, 16 Oct 2026 03:40:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "FF EAI Robotics and FF jointly introduced FF Nova, a humanoid robot priced under $2,500, along with a developer program and curriculum to seed the physical AI ecosystem.",
+    "companies": [
+      "FF EAI Robotics",
+      "FF"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "embodied AI",
+      "robotics",
+      "developer program"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazJSZ1A3S0tralNPZ2lmRklDczYzUlc0V3F4c3I2VElmdzBWZ29LREJnbC1wV05GUmxTU1NFdG1IQ3VoVk5XWUV4QUZKcDBUNEJUbm0yOVBRcl8yMUE2Y1hqUVBkQ2FUU1VwS3BKZWJlRzdQSF9QTVlZcXJray1iZzNEOXJGT3BsWVVXbTYxam5kc3VQbmRlejRmWndSSEQtU2FsczJTazByOHNfOS1R0gGvAUFVX3lxTE83RmJvb3o2WDhSTGp2OTZlZS1fYm9tRDN5M1VMTlFFdF9rVkg0c3hZd014TkJyZzhLNG5VYjVvM3BUTGhOZDYyVWYwalFyemZ1WmxRNEFHdng5dlc5dFJ6S3FjWlZFMnpXRGR0SGZiQWVFUjlsRFpVa0NiUHk0RVB2QXAxdVctaHpUN0VxRVVyTVlXX3NLZnJxUFNtMTkxempuU0o1Sy1QZ0llX1hhZFk?oc=5",
+    "title": "Hong Kong vies for role in robot boom with embodied AI hub launch",
+    "source": "South China Morning Post",
+    "published": "Fri, 16 Oct 2026 04:00:39 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Hong Kong launched an embodied AI hub to position itself as a center for physical robotics development in a competitive regional market.",
+    "companies": [
+      "Hong Kong government"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "robotics",
+      "physical AI",
+      "hub"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVl1TVJmUWpmMUZ0TVFfZl9jY0x4YWZWYkNXMDFmWWR1MGFHcXNaX0NoQ19USE5TV1JRZ19PQlJaUHZnZGt6WmRJQ2pDcl9kbnBpYmN3YmlIdktZc183RzBEX1BwSy1HNjJQSzV5eXVSZndSS0VJODhpSVFkcTM5NG9xcUlrUHN3TTgwSVJkT1JVU2hQMF83Qk1Rdm1WbDA4bmEzTkcwblZZVi1icWVHSjNPMzktVGVxNUZ5SFgyVVF1TndpZG5qRTN6T2E3UmQtNlE?oc=5",
+    "title": "UCLA Open-Sources PhoneBot: One Android Phone Replaces Five Humanoid Robot Systems",
+    "source": "Tech Times",
+    "published": "Fri, 16 Oct 2026 13:42:41 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "UCLA open-sourced PhoneBot, a system that uses a single Android phone to replicate tasks requiring five separate humanoid robots.",
+    "companies": [
+      "UCLA"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "mobile manipulation",
+      "open-source"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQlVVcDY4S2VRdERwcmhsWnhkblJfUzBKMWE4ZGNGRHhPaWoxOWhmeGtRXzJTMUhlMHB2S0dkeWVNLXMwWkY0UDh5ck53ZnNseTEwSkZ0SHFZUG4yRVQ5MG9kS3VWajRHNEhtcUpURE1oOU1xSnpoVDJUZjNBUlY4M1l5X0FEYWZrbmdLc0tDUVdXMW44Unlhb2x3ajMwOGVXaG5ndHdCV1p5R0k4VVljWmdiZjZaQzZuUjUwWGN2aXJ0bzRNbkEyN0x0bFNROF93Tm1jWk1Id0dpeEFLNXc?oc=5",
+    "title": "XPENG Presents XPENG AI ENGINEERING, Opens Smart Vehicle and Physical AI Partnerships",
+    "source": "Gasgoo",
+    "published": "Fri, 16 Oct 2026 14:25:27 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng launched XPENG AI ENGINEERING as a new business unit focused on smart vehicles and physical AI partnerships.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "smart vehicles",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFhmWUpCdFdMbnFabjhhZDRaUTNWZXVwMHplUUZYeU1hWDVlSWtkeGwtbG02TE1PeHRjUmVVRS1IMmpIcHpEcDA2S1FhZTRWbW1BZk03QkJPZE1nSXluMWIyZ1RDYmh0UEhiZlljZC1raFhtRkozNUhBMXRaQkxGa1JLRVJDcTVmbVdzUl9haXMyc0xiazRRNkJBNWtORllSaU51T042WDN0Ql9Zd09nWHpPVU9oSzl6S0xUWTdRRmY4MFZLMlRQS2k5MFpsV2s?oc=5",
+    "title": "FF EAI Robotics launches humanoid robot at $2,490, acquires FF assets",
+    "source": "StreetInsider",
+    "published": "Fri, 16 Oct 2026 10:26:48 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "FF EAI Robotics unveiled a humanoid robot priced at $2,490 while acquiring assets from the defunct EV maker Faraday Future.",
+    "companies": [
+      "FF EAI Robotics",
+      "Faraday Future"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iaGdtM0xlNnU3QkpPblcySmZBdlZJVF9yQ055WDlNclBTWFoxdFRoNWV2OUZHdGdYdGd6N09FSG52bmJuQVE2ZEsySVRnSm9rU0hMejdfVGVhNTdWNjlmZm8xaUlLOEFFMU1DVUFmUnRoLUkxTUZv?oc=5",
+    "title": "Does a robot cost $2 or $35 an hour? A multitrillion-dollar market depends on how the answer",
+    "source": "Fortune",
+    "published": "Fri, 16 Oct 2026 12:34:45 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Fortune weighs how robots' true hourly cost—a calculation that hinges on automation, labor, and capital depreciation—will determine whether physical AI becomes economically viable at scale.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics economics",
+      "automation",
+      "labor displacement"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQmdBRWFaaDMtdXBIdGFtdlBMaWRlaTk3N0tpbmh5TXVkbGNBRkJZcnNySWdQS1VZUHA1cGpUbUJPNUh4VGw1X0RJanNBQmRDd2YtNHhQWFV6M1ZJek1vZFdWTVNvRjFTeUdvOXU3MlhUWkxBaHBHdjE4YzVfT1lvTU9kTWtiYWZ6MEhmWmtHUk95YnlJMEhPeXhzTG81VDV3NU5RdEJmOWVJcWRJM2hVWHI1OV9zSWlkYmtBbmYyN0haZ0UxNXpuWHJQX0k0M1BldEE?oc=5",
+    "title": "Rareview Capital and Tuttle Capital Management Launch Humanoid Robotics ETF HOID",
+    "source": "PR Newswire",
+    "published": "Fri, 16 Oct 2026 11:02:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Rareview Capital and Tuttle Capital Management have launched HOID, an exchange-traded fund focused on humanoid robotics companies.",
+    "companies": [
+      "Rareview Capital",
+      "Tuttle Capital Management"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "ETF"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGJQRndPM1hxdldPaTQwT3owVGhxUzRaRlUyVHBsdXV5b1V5QUdzTEhPNzJYeUhaeHVuMzM2ZWVRMXBGNHBiYnZraE01eXNSR2hrVkxzTUI1Y21TdC1EWThUTW44b2hoLUZic25lNVRLTFJWaFdtdUhxWGlIZUMzN2F2QjdBTnpDOUYxUGNpaUo0X2xubVdyd1h5bEVTTEpmWWkyNW9OckRqaUNRQ1Q1RWFnRWhSNXk3OWVYNnphMA?oc=5",
+    "title": "Japan’s Shimizu Invests in Noble Machines to Develop Humanoid Robots for Construction",
+    "source": "AI Insider",
+    "published": "Fri, 16 Oct 2026 10:31:06 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Shimizu, a Japanese construction giant, has invested in Noble Machines to develop humanoid robots for on-site work.",
+    "companies": [
+      "Shimizu",
+      "Noble Machines"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "construction",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pbEpGNjF4MFJrbXRlTmRyRXQxd25QVWl5eWQyYUx4MHM0SkdiTmt2cmdWaWFsU2t4RklCbU5vWm9QSlUwdnlqWHZqeHp0bGVaUVZpMl9rcC14dXdjbFMwRVNScU4xYnZfN05jUTA2ZFd3OHdNZGk3MzZCd0g5dw?oc=5",
+    "title": "Astribot brings T1 to North America, showcasing a physical AI stack built on 'Design for AI'",
+    "source": "China Daily",
+    "published": "Fri, 16 Oct 2026 09:34:10 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Astribot is bringing its T1 humanoid robot to North America, demonstrating a manufacturing philosophy centered on making hardware that AI can actually control.",
+    "companies": [
+      "Astribot"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "manufacturing"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNd0V4a3dyemVuVjlLcm1VejhvWl9QYm5DMWNmWUF5dktObE83dEZUazNXYUNQaGxydC1lWkhPVWluemZhd3RRU1dueXlkV3BpQTIzSzdndzJhUlFBU1VPY2tzWmtHRTM2UDRWZ2lxdzBEbHdJVTVleDhlb3dYb1RwLUtscnV5MzZkTFRONkZxR0tMYTFUc3FlUUJVZXVQWEZCbnVzalBtN284MDFULWFBSTFaeGRTV2cwYWJtUE9MRHVVMndwS3dVTDZNRGJsRnNCdTNORmwxWDY4Q05tTGUxZzY0SU02MDNxNDZ2ajhiZjlMeUFfVng1Tkp1N1o2VHVKQ2pOTDJyNGpPVU9HMXc?oc=5",
+    "title": "AiMOGA to Launch Home Companion Robot Mobo and Open Global",
+    "source": "GlobeNewswire",
+    "published": "Fri, 16 Oct 2026 15:38:40 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AiMOGA is launching Mobo, a home companion robot designed to perform household tasks and provide companionship in living spaces.",
+    "companies": [
+      "AiMOGA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "home robot",
+      "physical AI",
+      "companion robot"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzgxeVhoX3BqOXBHbGhBdlZ2cHA5NGMwR1ZMVXdxTl9GcUhSTi1RNnZjWUxMUjZVWVdCTU5xVFVWcWFkMHZOVWJqZm1KaUVHSW8wU3hPbmRHcmhZWmlCelVadDhOVWVNRkJWbGh4S2dNbDhueXRHdEVUejVLSjB3LTQxSXR5TTZuU1U4d2VyZmQtMGc?oc=5",
+    "title": "Faraday Future Unveils $2,490 Nova and $299 Nova Mini Humanoid Robots",
+    "source": "Unite.AI",
+    "published": "Fri, 16 Oct 2026 04:08:14 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Faraday Future introduced two consumer humanoid robots—the Nova at $2,490 and a pocket-sized Nova Mini at $299—marking the company's entry into the home robotics market.",
+    "companies": [
+      "Faraday Future"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "consumer robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV3kyOXpZZ3Zod1dDZ2drVkdOc2FmMWVOMDJWMUVwRkpYaUowTG5Cck5IUC1ZVDdtVDE4MkFodXRpN0lJZ1ZDNEl0Zm96S0M4X3hXUGIxNXg1aHl6TVE2Q0huZHVOT3dxVmRfNGgwY3RDOUxmT29HU2dKWk8zM3hlWlVIa3Z5eFlVSmNuOHBoelNTeXhUcE9MNXdYWQ?oc=5",
+    "title": "Waymo to launch first phase of driverless taxi testing in Toronto with service expected in 2028",
+    "source": "CBC",
+    "published": "Fri, 16 Oct 2026 15:34:18 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo announced the first phase of driverless taxi testing in Toronto, with commercial service targeted for 2028.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "testing"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUVFbmxpclVROHZTbFhvQTBNNnIyZVJjVzc4MXBvNWFSQ1ZydU1Da1B1czVLbUJOZGg4MmJWVzNudDgzQ01BMm83NjBwbUludm9yc2RBMkM0SEppZ1lxaDUxVkcyY1FoZ1NyOF9vd1ZkU18xcXBxb1c3VGJpbzhDSW5MdjVkeW84OGN4Vmd2Q1JBQkVlU1F5TF9RSlRjNzRUTUIxeDR3WHZXQnc?oc=5",
+    "title": "Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028",
+    "source": "Reuters",
+    "published": "Fri, 16 Oct 2026 12:04:45 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo, Alphabet's autonomous-vehicle unit, is plotting its first Canadian robotaxi service in Toronto with a 2028 launch target.",
+    "companies": [
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WYzUyZkRoUDdhUHo3dmV3TTJ3NXBtQTlIYnRwRVFxT0ZKZHZFRW5rS2RRamVVY1FwbFVEZUdDTDR3WUlVbkFEN0NTTUNEQ2lnQ1AwejVsVTlUOS1MMWp6UFdodjcyWHM0dGlrN1c5S1hxZVpoZUNtOEo3b1o?oc=5",
+    "title": "Waymo’s robotaxis are headed to Canada",
+    "source": "TechCrunch",
+    "published": "Fri, 16 Oct 2026 16:06:38 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless taxi service into Canada, marking the company's first international deployment beyond the United States.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "international expansion"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14akRSdFViazk1emhQSVVzbjRGTVZNajd1R3dXM1FvOE1YT0xsWkNqakxGenlUcTgtdFhvbTI0VDFnY3ZzZjd2X0U2SVdhZm1VWWlBaktqSUJ5RVpGVFpkT1VVbXA4M2NPR05ta0hQaW5OejlL?oc=5",
+    "title": "Waymo picks Toronto as first Canadian city, targets riders in 2028",
+    "source": "Electrek",
+    "published": "Fri, 16 Oct 2026 12:07:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding into Canada, choosing Toronto as its first market and aiming to launch a driverless ride-hailing service there by 2028.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUxBYnNJUE1HbS1mZzFveDlsNGlEZGx4ZUVZcFN4Q1FfVm10ZHRBZXpVN1JadkRoTTgySS1YT2x2Nlh6NjlSVE9NTWJfQW5SM0s1Yk9EV3dzdUp5RmtBWFdfRkN4a1FPQVFOYzczOFY4NFNSY3JfSUJ3OEtjblRNLXdYeUpPY1lxb1dR?oc=5",
+    "title": "Despite rising backlash, D.C. robotaxi bill set for council vote",
+    "source": "Axios",
+    "published": "Fri, 16 Oct 2026 15:30:14 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Washington, D.C.'s city council is moving toward a vote on a robotaxi regulation bill amid growing public opposition.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "policy"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENndTU25rSG9uWmNwS1AxSUQ2YUZTcDNjRWVJS0UxRVVUak83QXlYMm5ZV3NoLWJTaXlId3FtMEkyMnlaVTdsSlFlanlrM2dUR1ZkeVJ3blpKSUxOamdrSlk4V09vc2g5bGFXOQ?oc=5",
+    "title": "Waymo to launch robotaxis in Toronto under pilot program for self-driving vehicles",
+    "source": "Global News",
+    "published": "Fri, 16 Oct 2026 12:15:34 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching its robotaxi service in Toronto, marking the company's first Canadian deployment of driverless vehicles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IdFpTejRzTDc4dGpQM1BZWlM4bGI1ZVdKV3drTm1talRwQkVucVRWQ1FYZ3ZoSXJIUFBoNW1talZQZkFSbUVyTWk3ZmZDaGhvOXhFVnRWVWM3NFlLQ0RhblE3MXZzOUZMVE9HSUxQZjZsYlNK?oc=5",
+    "title": "Waymo Plans First Canada Robotaxi: Toronto by 2028 [2026]",
+    "source": "https://tech-insider.org/",
+    "published": "Fri, 16 Oct 2026 16:40:38 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo plans to launch its robotaxi service in Toronto by 2028, marking the company's first Canadian deployment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWFJY3dtSVh2RkQ5ekhHdmRQQWJFU3V0ZUkxZzdoOVYxeE03aGtHOUVMVTNXVG00UjlZSGtuSW5ZTkZ2djdWLTRRcXBNYjVJM3IzZzZVblZEa25RdnA1SzhYMTB6em02cW8xbzhmWldQOWs3c1g1Q3VJMDhnTUNvaUliemhjalg2VlBBUEcwNTZ3Ymd0OVZibEdwR3JURURtQ1ZyMGozeGZjRkxYQ2JlcDI5V1plNWxEaFBhNGg3LUI?oc=5",
+    "title": "Are driverless cars ‘Waymo’ or way less expensive? KSAT compares rideshare options",
+    "source": "KSAT",
+    "published": "Thu, 15 Oct 2026 23:15:17 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "KSAT publishes a price comparison between Waymo's driverless rides and traditional rideshare services.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "rideshare",
+      "pricing"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFdoeUxBeHRCdDZlUmV1X291cjh2c190Qk1sYUxEUkFZb0FCWGhEUUtKU2l5NlFNeFhlXzJJUGpMYkc3OTBaUXNyQl8wTEM5M1Q0RWRWWmQ3NF96bmI5aVZaLVMwWnJlNVFtYVcxR3dKVVlJQkpJYXM0NUdLSVJTdUFpSXRBai1DcF9tdEdweTIwOWFKQVpHaUl1ZUl0bWFVX0hXQ0lNVnFVVVhuVFktM3lPbw?oc=5",
+    "title": "Waymo Says Self-Driving Robotaxis Are Coming To Toronto In 2028",
+    "source": "Autoguide.com",
+    "published": "Fri, 16 Oct 2026 17:31:41 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo announced plans to launch self-driving robotaxis in Toronto by 2028, marking its first Canadian expansion.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW5rT2FvTXh5WjZSSmt6N1JkU0VNMWhBTFdMNWZXTHpVQXAyVGg0c3NxNVoyNWNSbGtLMl9ucmZna2VnaWZKbGFyRHkxOU9qQlBpOUdiNzNOV1pKNVBEY01OdHAxMS1UTmFrLTlTODVYZjJWT3l4V3JiZGFXV1pyeXdnZENDUEY3ZTlxbVo1TzJjaWRYVnZ6cUJmOS1EaUJfNGNUNXl3ck1obW5taTBKeVRreVZWcHdDODJj?oc=5",
+    "title": "Waymo to test robotaxis in Toronto, aims for 2028 launch date",
+    "source": "CP24",
+    "published": "Fri, 16 Oct 2026 17:55:10 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is testing robotaxis in Toronto with plans to launch commercial service by 2028, expanding its driverless ambitions into Canada.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFdQazg5WXhaSUdLRGEwbGswOHBQRTBrMHppMkY0R1NUMFNvdzZlX2dGY3k5R0R2ZEdQUlQyUm1VSkF2NDBHenRGUHoxazF6TmFpNGxZRzhKOGk1RkRaMTc1X2dpcUQzTWhPX3RQYjZkUFFzNlFBNUVvMUp2cURETDhtaFgxeHkxNGFrR1dmTndJZTMyY0RtOUkwVTNwWHZ5RFQ1RG84UHTSAa4BQVVfeXFMTldfbjJzcWMyc1p3MGlwQkJkVGJ6Z0tVX0dubUxFaURQa1VSWFZWLWNJWEhrcms4ak1PcFBlMTc0T1JyVzdhOE5FRmFJZXR2TmhPdjBwZjZOTWFnSzFDWWdLTHA2Z0pBNllxXzFYUmRkWm9VOXlLcXRvQ2hLNkhtemdSdmdycjU4U01lYW9oLTZuQkZQYy1fcFVpdE9vbEoxUjJQMUU2OFpzTE01Uzln?oc=5",
+    "title": "VIDEO: Driver asleep as Tesla in self-driving mode plows into scene of crash on I-80 in Fairfield",
+    "source": "ABC7 Bay Area",
+    "published": "Fri, 16 Oct 2026 06:48:16 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla operating in self-driving mode struck the scene of an existing crash on I-80 near Fairfield while its driver slept.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous driving failure"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkpLcVpZWEc2dGRtc0pJdW1YX1RrS2ZTZmxRWWl2b20tNEIxdlNQQ1VzeTdVaTN1SnZMQ3M5WFF5akUydzl1elFqVmp4elJoaUF6NHhRRGEtaFdScFRkbjlyWllHRDN6ZFdvT3BBTzFlTkF2Vm1SRGVuRnVnbl9RUXpSNmQtX0ZtVU9jajdFX1hfS2ZOcVM0VUFMYw?oc=5",
+    "title": "Tesla receives approval for self-driving tech in Slovakia",
+    "source": "Reuters",
+    "published": "Fri, 16 Oct 2026 14:31:44 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla won regulatory approval to deploy its self-driving technology in Slovakia, marking another European entry for the automaker's autonomous driving ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulation"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFdTdkFFVC1RczlRM0lXNnFENHdJckMzRkxYNjVJcm5ER2J3eG96TGYxaGtfUzVxd251cHlOM1BGbGJESEdmRm5jdEVlZVkzdjFRREpuR3hRa25DblplT2IwbDhVYzMwejlNYnRHekFYMWFfY1FQVHNHbjJFU21CaVF2N3NKdmM?oc=5",
+    "title": "Waymo plans to launch self-driving cars in Toronto in 2028",
+    "source": "Yahoo! Finance Canada",
+    "published": "Fri, 16 Oct 2026 14:10:21 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo targets 2028 for its Toronto debut, staking another geographic claim in the race to operate robotaxis outside the United States.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2JBRTQ4N3VZS3FoQkptaS1IM1RvYjRfYTVzcnF2WktpR0VQSl9Mc3RkeGtVcHIwTXJJUVlLdDB0U0xTbVA5azJ0eFdYMVg3UGpxQklnSC1zZXhYNU1FWkZ0VDN0UFFIcGctUGFpdTlaX2VRODRHY2c5eldMbGVDcU9rT3dnM1ZQaGRCUEh2cw?oc=5",
+    "title": "Waymo targets Toronto robotaxi launch in 2028",
+    "source": "Yahoo! Finance Canada",
+    "published": "Fri, 16 Oct 2026 15:05:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is planning to launch its robotaxi service in Toronto by 2028, marking the company's first Canadian expansion.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0FuRmVrMTZyTUg1MkREdnpRS05SYkthaDNPelkyUzN5NkNrRktJNGd0a1VId2JCSUV6bnl5U2lXT3pGbkRQVWhpOGhidVFoemcwSHdZNXhoNHhfdHQxUnpqdDc1QnBDSmM5cXc5R0pKZHhTZVVuaTdpNl9YYThQUmVHQkowVHM?oc=5",
+    "title": "Element Fleet Begins Next Phase of Waymo Partnership Ahead of 2028 Toronto Launch",
+    "source": "Yahoo! Finance Canada",
+    "published": "Fri, 16 Oct 2026 17:15:42 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Element Fleet is expanding its partnership with Waymo ahead of the autonomous ride-hailing service's planned 2028 debut in Toronto.",
+    "companies": [
+      "Element Fleet",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "Canada"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRTFrZEFuWjVlS2NKV3FCWlpiSkRTblhYdXBLQkluTmZQbnUxekVtSUhaRTNEMTl0NTNzT282aWs4TlB6XzFKNDQ2SUxoeFAxbGNIcXZVMFdneEt0RVZQakVNTDcweUFDQTBHMmUtMA?oc=5",
+    "title": "Waymo plans robotaxi service in Toronto by 2028, its first in Canada",
+    "source": "The Next Web",
+    "published": "Fri, 16 Oct 2026 12:20:06 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo plans to launch robotaxis in Toronto by 2028, marking its first expansion into Canada.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTm1GUFR1WjFWTnJzMjQzWEY0azhTMTl4dlpqc0NSd3VDQVh2cExlck5MLUhVMGhJX2JjdGh0Q3ZUMmYwdHNVX0x3Y3FMejRKbURGTzVkWnl4RkowMm1UamI4eEprQ0xraE1HOEtyei1uRk5ZcnBUU1h4TUpVbE9rWFAxQV9PcE1vVDRjUEY2WlBjM0xsSDdadnhIOFhtSEZNREFXUGV0Y0JVRjhfUl90YVViRXJhcnNleEU2aGVVYjhwMU1JY1liZWd4OHVVckFHLWFNS05hVG9KTkpUc2c?oc=5",
+    "title": "Element expands strategic partnership with Waymo as autonomous mobility arrives in Canada",
+    "source": "PR Newswire",
+    "published": "Fri, 16 Oct 2026 10:40:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its partnership with Element as it launches autonomous ride-hailing service in Canada, marking the company's first international market.",
+    "companies": [
+      "Waymo",
+      "Element"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous mobility",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmNjN0FTRUMzbkk1aW1rTmduRWpJeURBWXJCVm8yUFFpc2xsZFlGanZtNWZBbTMxaWJYSXotcnNVSEg5NzNoTDRLUnRvUjhCS0RyZS1LSjNYVDlud2E2a0pSYnVURWEyc3hZd2VCbkdGWjR5aENqR2ppZHZRcG9SUlBLWDhpcDVI?oc=5",
+    "title": "Waymo eyes Toronto launch in 2028",
+    "source": "CityNews Toronto",
+    "published": "Fri, 16 Oct 2026 11:07:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is targeting a 2028 launch in Toronto, betting on Canada's regulatory environment and urban density.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YUUZDUmQyWHVXYWNhM1JWR0o5TUJNOTN2TGhveDBndUZCYlp3QVo5czB6dWZVTEdhYzlyU1I0QjVJWElSNVRocW5qX0I2QW1xTTZKdVNrU2xTNHJyR01FTFBTZk9JcndJamNFVjRuZVNrRWFFYXVOV3d2REZWZw?oc=5",
+    "title": "The Fire Service Scoop: Drone Partnerships, FireDome's Autonomous Wildfire Defense",
+    "source": "Firehouse.com",
+    "published": "Fri, 16 Oct 2026 14:07:41 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "FireDome is deploying autonomous drones to suppress wildfires before they spread, marking a shift from detection-only systems to direct fire intervention.",
+    "companies": [
+      "FireDome"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "wildfire suppression",
+      "fire detection",
+      "emergency response"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ21Zd0hSV1NUeUg3a1QxRVY1YlMwMkl2eTJta2hLLXJLVjBVMjQ5WkstQ1ZoMXBpM0VTYWRybXl2V1hBbkktd2pUSU5aZWQ5ZFo1Qy1qbTdzcTJsQlY5U2p1R1RUZkJWR3JldUVvSWZjS2htM01hcEJ4UENERFg5cTZxT1hqWlNFWC03WmJuN1FVWnNvaGpRZHpzZEphQkRhWHpfM2pBQlpoWWUzR1BCV2JuTnRZR1pWa2UwODNR?oc=5",
+    "title": "U.S. Navy Successfully Tests Autonomous Drone Landings on Moving Ships Without GPS",
+    "source": "oodaloop.com",
+    "published": "Fri, 16 Oct 2026 16:10:03 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "The U.S. Navy has successfully tested autonomous drone landings on moving ships using vision-based guidance instead of GPS, clearing a major hurdle for shipboard operations.",
+    "companies": [
+      "U.S. Navy"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "maritime operations",
+      "vision-based navigation",
+      "GPS-denied environments"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRktHN1M4M3pPUzZBdmdObTBXQUVWN0xIZ2lzRTRfY0E2SzZSVnJxeUs3cTB1Wlk5bDFfTkl6TklscDdMRnRPelpvbWN4eC1mZWY0MG1LSmtWWHhsdmNYbFA5ZTRmRmtxWW1HaEpSbUVXOXF6cUF6cVRpSVV2blVSZ1pKdVlxbTJPRm8xOS1Xa1BEc0ZCRXVSdlgxdHprSVhsWTkzRUJvX3NiNjF0Z1JGOGwtVHRfdmwyd2ZRVDkxOXA?oc=5",
+    "title": "Hegseth: Autonomous Warfare Command Has Always Been End State",
+    "source": "U.S. Department of War (.gov)",
+    "published": "Wed, 14 Oct 2026 21:47:32 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Pete Hegseth frames autonomous warfare as the military's long-standing strategic objective, signaling institutional commitment to autonomous systems beyond human control.",
+    "companies": [],
+    "people": [
+      "Pete Hegseth"
+    ],
+    "themes": [
+      "autonomous warfare",
+      "military drones",
+      "defense policy"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3pBUTNIWnZvaXlpWHE2M1JNay0tOTdBbzFCcnRuQkZKMmM5U1dmMUN1LWZ1ejNxejRVdzNLb0UtUXZHWEJJbms4M0llOGVJa2FlNmh3aHQ5MmdZWVZiR3M1TXUzc0dkalFfMEZnOEp2dURvSllGLXRYYjZkS1J5S2E4UQ?oc=5",
+    "title": "Counting penguins with autonomous drones",
+    "source": "Stanford Doerr School of Sustainability",
+    "published": "Fri, 16 Oct 2026 03:38:11 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Stanford researchers deployed autonomous drones to count penguin colonies in Antarctica, using aerial imagery and machine learning to track population trends without disturbing wildlife.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "environmental monitoring",
+      "machine learning",
+      "wildlife research"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1M3YlFKSGVIZUVvYVdEOVpGYTJfN0lZcFk5aDV1amJldTIwSmwwbGprV0V5ZXRnQVczeWhqVzRSNHZhbGhRdEFOSE5lQXRNbldEanhlcmVKczJubFVxNHd3VnZuNmZPdk5HTGV4YVUzOTdPeDRvSzF0VThrN2pFQ01STUVFVGFzN29rSnNUam5yLXFPZDFWZFoyV0tkRDFqM2tLYWp5UEh4cjg?oc=5",
+    "title": "Teriyaki Madness takes to the skies with Zipline Autonomous Drone Delivery",
+    "source": "Fast Casual",
+    "published": "Thu, 15 Oct 2026 20:17:07 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Teriyaki Madness deployed Zipline's autonomous drones to deliver orders, marking the fast-casual chain's entry into aerial logistics.",
+    "companies": [
+      "Teriyaki Madness",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "food service"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXMxZHBsVTdWTUJkZlk0aTRmMFVtRlo0RVVlOHBNbF84a2l4WVNfdHUxSmNaVUc2QUtMaUNua1NLRmllZWNET2tlVnV1QTBRNUtUN1pLNEpyaDh6OG8tRzFnSHE3alVIY3hFMHE3ZmJIdEo0X0FzaTZMQkV3dnN3ektZTzBONXNvbmxYTEZESmdGQzJPenhyNXV1UzUzQQ?oc=5",
+    "title": "US Navy drone lands autonomously on moving ship without GPS",
+    "source": "NavalToday",
+    "published": "Fri, 16 Oct 2026 06:36:13 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The U.S. Navy successfully demonstrated an autonomous drone landing on a moving vessel without relying on GPS, using onboard sensors to guide the approach.",
+    "companies": [
+      "U.S. Navy"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "drone",
+      "maritime",
+      "GPS-denied",
+      "naval technology"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXhpeUZFYlgtOFRZNmJlM1pxa3pXR1VJemM5UE1OaHRfMlprYmtKWDJKTmZkYW1paGVDVzZHZ0xwV0dmOC1ONERnWVdXQ05Cd3ZuekJEb3lxa0RNaXhkVThIeERXWFprQ0tjUE81ZWxIVFV2Wlg4RTVtNmZUalNoNURISnlxZ1JKb0tmQ25aai1xam9jRDc5eWlfLVNPUm53?oc=5",
+    "title": "Eva Defense, Brings Autonomous Drone Program to AUSA 2026, Advancing Defense Partnerships in Washington",
+    "source": "Yahoo Finance",
+    "published": "Wed, 14 Oct 2026 15:10:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Eva Defense is showcasing an autonomous drone program at the AUSA 2026 conference to pitch defense partnerships.",
+    "companies": [
+      "Eva Defense"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "defense",
+      "defense partnerships"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaXlGQm5ibWJIM3A4dWV2Um00eUhLbnFubVc5dVJEQ2pQOXYyNmJDdzBNU2dhY2RKVjd1ZnNZZFFoVU9TUFhqQzdLQjFjQWFOeFdtYVktZ0l1T19zUjdRaWFocjJnc2F2ZzVYdHU0Tjh6UU8xcVk2eVVaNTczSUNTOUVZbEVMdnJYVWswR0JUWERlaWljdng5aVk3a1djMGdVUFFINGlwMUYzRV9RUzhiZFBFUmh0YW1vY1dNTGZOMC1lTzkyUmxTbTVzNXFiOXRQNDNkQWxMMFJTNGVxMlo5Rjg4WDlrRHFxclhQMkZ4bzlNNzZDMGlJUEVB?oc=5",
+    "title": "Defense Physical AI Roundup: Pentagon Writing Checks for Autonomous Systems, Drones & AI-Piloted Aircraft, Plus Latest in UGV Systems",
+    "source": "AI Insider",
+    "published": "Fri, 16 Oct 2026 11:42:16 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "AI Insider rounds up Pentagon spending on autonomous drones, AI-piloted aircraft, and unmanned ground vehicles without naming specific programs or contracts.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "AI-piloted aircraft",
+      "UGV",
+      "defense"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wY1NNNHF6RndJX0doN1NBUk5XYklwMDJsMkQtT2x6QXJhRGoxcUlGSG95LUxQME9MQ25BTFAyVDlDYXlrVFF4bG1IMnJrU0c3cWlsNEx2MGR4N0ttSS02bzBNSVRiZ2Z2YjlGLUtTTHhwd1NCeWhmajJBNm0?oc=5",
+    "title": "Fortem’s DroneHunter nets a bigger role in allied air defense",
+    "source": "DroneDJ",
+    "published": "Fri, 16 Oct 2026 06:16:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Fortem Technologies is expanding the defensive role of its DroneHunter system within allied military air-defense networks.",
+    "companies": [
+      "Fortem Technologies"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "air defense",
+      "military",
+      "counter-drone"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+    "title": "Hello Toronto! Waymo is En Route",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is establishing operations in Toronto with a goal of launching its autonomous ride-hailing service in 2028, partnering with Element Fleet Management and leveraging existing relationships with Magna International and the Canada Pension Plan Investment Board.",
+    "companies": [
+      "Waymo",
+      "Element Fleet Management",
+      "Magna International",
+      "Canada Pension Plan Investment Board"
+    ],
+    "people": [
+      "Tekedra Mawakana"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "geographic expansion",
+      "mapping and validation"
+    ],
+    "first_seen": "2026-10-16T18:35:07",
     "week": "2026-W42",
     "why": null,
     "duplicate": false,
