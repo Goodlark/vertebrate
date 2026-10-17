@@ -80914,7 +80914,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -80965,7 +80965,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81152,7 +81152,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81328,7 +81328,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81381,7 +81381,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81432,7 +81432,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": "Austin becomes the latest battleground for drone delivery, pitting Zipline against Amazon Prime Air and Wing in the race to make same-day drone drop-off routine rather than remarkable. The real test is whether Zipline can scale past novelty neighborhoods into everyday ordering habits.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81488,7 +81488,7 @@
     "first_seen": "2026-10-10T19:06:21",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81918,7 +81918,7 @@
     "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81974,7 +81974,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -82791,7 +82791,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -82819,7 +82819,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -82845,7 +82845,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -82872,7 +82872,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -83319,7 +83319,7 @@
     "first_seen": "2026-10-13T20:29:22",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -84629,7 +84629,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84871,7 +84871,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -85436,7 +85436,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -87950,6 +87950,810 @@
     "week": "2026-W42",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDJKUVljV191T3VaUU5FU2w0UWt5Vzc3b3JUWUdkR1RwSGxFVGJGLV9vVWMwdzJhU1VTTXJaX20tU0ZoTnYtaGdZcUJxaG5NWWxQVHRtSjhfMjljNHc5Ri10dzk4OUx1cVdOQ3F0dFBrQ0l6Sldla3BWWm13bV9aZm9FN2U0YlpxNTV1Qjhud2NIdWEtck1yNjJPR2hmTTBT?oc=5",
+    "title": "AiMOGA to Open Global Pre-Orders for Mobo Home Humanoid Robot",
+    "source": "AI Insider",
+    "published": "Sat, 17 Oct 2026 10:42:18 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AiMOGA is opening global pre-orders for Mobo, a home humanoid robot designed for domestic tasks.",
+    "companies": [
+      "AiMOGA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "home robot",
+      "domestic automation"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0RfV0ZuZTQ0QlVlMV93UFN0eFAtZWZZSFp6V2RSYkhPUHRaU1NyMFpONUt6dWpXdXFVRmR4TnNKMzR5RUZ5T2lPY2x1aTJGZHotQVdRdXlTYmswaVVQZUQ1dmlNdVJxOTVvb3NoU0xHWnlqVHZRLWtFNURDaDZwZk9FWVB0YUNIbGh5U004UEpGeWc?oc=5",
+    "title": "Livestreamers Film Themselves Using Humanoid Robot to Sexually Assault Teen Girl, Prompting Police to Seize the Bot",
+    "source": "Futurism",
+    "published": "Sat, 17 Oct 2026 14:50:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Police seized a humanoid robot after livestreamers used it to sexually assault a teenager, marking a grim milestone in the physical AI era.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "crime"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUHFMUG1zR2Z3QklhcGFxVmlPZU5vSkZfVGgwZHdmVW1Ob1pPRnZNYU9HYmJwZlktRHQyQ0tKaXV5aGc2TXpkN2xtZUZybFVkdW95V09USFBhR0I4QldiVlY0eXlVS0JkNzJGaVlHV25vNEFsdlFLZUhUYnpXYm1LNzVLVmFEaExtNGcyMFVrcXQ?oc=5",
+    "title": "DexForce Trains Humanoid Robots With Synthetic Data to Cut Costs",
+    "source": "Technology Org",
+    "published": "Sat, 17 Oct 2026 06:47:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "DexForce uses synthetic data to train humanoid robots more cheaply than traditional methods, reducing the cost barrier for robot learning at scale.",
+    "companies": [
+      "DexForce"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "synthetic data",
+      "training",
+      "cost reduction"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sRG5KVm8wb1JjUXpuazFGMVp3NkFaT0gwbmREZllIaHNtZHE3N3RCRTA0M1NwVFViYk91NFMzdFhLcUhEV1NISzkzUllmNnlwVTYyNnlxLTR1bVRPZGh1cFJRdjREOXFuUmh5OEppaXRzSmFBeFBKTg?oc=5",
+    "title": "Boston Dynamics Assembles a Complete Atlas Humanoid Robot From Custom Parts in One Day",
+    "source": "TechEBlog -",
+    "published": "Sat, 17 Oct 2026 17:35:45 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics demonstrated rapid assembly of a complete Atlas humanoid robot from custom parts in a single day, signaling manufacturing efficiency for its physical AI platform.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVXFKMThLMzB6OXAyZkVwWU1TTWR5aXhnR1ppUDNpU1FOa1pidlVDRUY0NkNfUTFOcGcyRmNMeFc0NjBiNFJuZlZOVnlieS1aOFRqRFVxT1BOalUwSDV1RExFYUxGQjVNQVIxZjM3bXN0d2YwQ3JIbkdTa0VZMjFkTE80Z2dDMmJUN1o3X1g0Z0FOYmVzVTkxejlxVmhtdTlINmc?oc=5",
+    "title": "Robotics Remains In Its ‘Lego Era,’ Says Former Nvidia Leader Turned VC as Physical AI Awaits Its ChatGPT Moment",
+    "source": "Benzinga",
+    "published": "Sat, 17 Oct 2026 05:38:59 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A former Nvidia executive turned venture capitalist argues that robotics is still in an early, modular stage and awaits a transformative breakthrough comparable to ChatGPT's impact on AI.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "venture capital"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWFAtWDNjanZOX0F4OTl6U21CUC1ndGotalJVMUp3R0pralNUbFUxWmEzbjRhenpCbzNtc0Rwb3dvWkduSTlGT2lxTkp0Mk1tSkppSWZVbHMwMGtvZndub2FVejhQeHNWdGdaTTNjQVduaWlBSHN5Y1pzTUpmRE5EQWlIeWo5bHp5cXQ5Mkx2WHdOcW8zN2wyTVNfek56eTk5V2FuOV8wZk1tNWtfSHc3OVdBX1I3VkdZS1ZfQ3NxcUNiazdy?oc=5",
+    "title": "China Unveils 13-Foot-Tall, 2,400-Pound Humanoid Robot Capable of Lifting Over 1,100 Pounds",
+    "source": "BBN Times",
+    "published": "Sat, 17 Oct 2026 13:13:35 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China has unveiled a 13-foot-tall, 2,400-pound humanoid robot capable of lifting over 1,100 pounds, marking a significant advancement in industrial-scale physical AI.",
+    "companies": [
+      "China (state entity)"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial robotics",
+      "heavy lifting"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93OW9admIyUlN5bFZhR01TY2d3S1J1a19qSDdpOEJONWtORnNBVm9rWGMyaEtXV05KRXBJTjZPWUNXOVFSSFA3R0tPTWhXQUdEaEhaVWFfMDFYMHNLT1M0dzFTclE3ZlVKdkhSZXp5dk1feXdUdXl2WnZNM0xQZw?oc=5",
+    "title": "The Most Polite Trucker in America Is a Driverless 18-Wheeler",
+    "source": "WSJ",
+    "published": "Sat, 17 Oct 2026 00:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Wall Street Journal profiles a driverless 18-wheeler operating on American roads, framing autonomous trucking through the lens of vehicle behavior and politeness rather than reporting a specific deployment, product launch, or operational milestone.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucking"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEpNRXl4UXFuM09zMmJSZFdxOG5mZHlGN1lhWVd2NHl5UDJJNVZkWE1OMmlRV0tWZmNNYUtjbVBxLXVScHBROXN1aWpWaVhQR3RCOVRfeXcxakVnZHFrWDBENE01U0lPNzdJMlRjZHdCSXVpeERCQnRzMjZWWWFEVjcyMDJGcDFUcGN5Z3M3LWlEVms1LUp6LTFrTHlHS0g4RVV6cXhiOW5ZMnVtY3BxMVBWd3UyWG1UMm9CN0VaNXE?oc=5",
+    "title": "XPENG Could Bring Chinese Self-Driving To Europe Sooner Than You Think",
+    "source": "Forbes",
+    "published": "Sat, 17 Oct 2026 08:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "XPeng signals ambitions to export its autonomous driving technology to Europe, though specifics remain vague.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "international expansion"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkpaYWZsQzhlMkI2R3Y3b2VVZjlrWk45d0djenY5TkNmRzhpNG05RjhMZmY4aTFHSkFaTl9QMk9aYm9WRmdtRV9UdFRGczJ6T011Qm4zekhSUFREYXM0Z3UwMnhfYmdRT052RWJ0MWJOUkx6dW9NZnNUUFdfdWlsSTdvSF9PaDlkdmhiSDlGVEt2LXRhOU1aRlNlWkkwdHdQcnlRcXJxcEJyZjQ?oc=5",
+    "title": "Tesla Just Won in Court: Self-Driving Buyers Can’t Sue as a Class",
+    "source": "24/7 Wall St.",
+    "published": "Sat, 17 Oct 2026 15:10:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla won a court ruling that blocks self-driving buyers from pursuing class-action lawsuits over false advertising claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "legal",
+      "autonomous vehicle marketing"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkR2Z3ZYbm1HZFU0VmtYTC1OOWhjVzkwdE9LREk5cDYycW5lc0dkZTJrMDdVOThEWTRCNWM1TE10dGpVMzMyZG1BcjRVMV9lUTZNSkhWOWV1dk0zX2E0dVIyM3Q3SDZCSXAzSVhEU2tSMGFZUHNwcWx2blJ1OE53dllzX3hZdDllTGtuWUR1Ymg4OTRw?oc=5",
+    "title": "Tesla Just Won in Court: Self-Driving Buyers Can’t Sue as a Class",
+    "source": "Yahoo Finance",
+    "published": "Sat, 17 Oct 2026 15:10:22 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla prevailed in a federal court ruling that bars self-driving car buyers from pursuing class-action lawsuits over the technology's performance or marketing.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "legal"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXpWaW1YYXplbkJnTzFEYV9LVmpRT2lvY0dxMmNkakw4OWNJQzVNVFpQbW55SUFhT0lvUGNsaV8zY1VUdUhmem52LUtRZl85TXBDaFVDc0U1UGc3Rno1SnQ0Z3hwcDJlNEpWQ0hZV3lRT1lDTDAxbGpjUlhNWV93Yg?oc=5",
+    "title": "Croatia Robotaxi Goes Driverless: Pony.ai Hardware, 22km [2026]",
+    "source": "https://tech-insider.org/",
+    "published": "Sat, 17 Oct 2026 11:35:42 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Pony.ai will deploy driverless robotaxis in Croatia on a 22-kilometer route starting in 2026.",
+    "companies": [
+      "Pony.ai"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "deployment"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTXJFVEp5SHJYeVp0U0hTc0JfT3VLd2JjdGRjZTc1S0xpQ1dFR09qTEg5WnNhWXNkVGJQOGdkdnFfY0tOMDFJaktteHNWYnJmd3VMTWNobnZsbHo3aG96Si15bUQzakRMZEMza09TZ2F2TDRsdU9tazZWejUxTl9nZExHUU1TTTZHUEVUenZhTWdHV0hKbHg4WHdZMXhTSXVaVFZLclhwV1l1NDdObVp6YUl2ejNBN0dSSjZUZ1A4TXAzYXBUSXlDTUtrTFhVQk9BVWtkLUl1UzZHbGxVYnZCWmJKa1JHa2Vv?oc=5",
+    "title": "Chery Auto to Showcase L4 Robotaxi and Sign Strategic Agreement with UAE-Based K2",
+    "source": "GlobeNewswire",
+    "published": "Sat, 17 Oct 2026 15:36:06 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Chery Auto will debut an L4 autonomous vehicle and sign a strategic partnership with UAE firm K2, marking the Chinese automaker's push into robotaxi commercialization.",
+    "companies": [
+      "Chery Auto",
+      "K2"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "L4 autonomy"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0pGTXBPWGlGeWZfU2pJZUU3TUxjNVFjRGVzU1RXb0s2QkdqNnNDMWtlaWpFQlZmRUktWlQ4MENYNHgzWUItX0RtM05BdmtURWloZjZhNWd5ZXZBQVVxUThUV0dBWFhwSk9zR0FWMFBtTnhLajFkcGdDdHd3bnRXU1luOEgtcW1xVDRGdi13Q2t1ZnlLQWZFbnZiU2lDTVA3X000d2l6UTRmNkU3TmcyUjFOZk1QM0VZdGpfZWNlUkJFZG13cDR5NmUwT3JfSUnSAdQBQVVfeXFMTUQ1SVRJMXB4cTVibHFlbExQdFRpcmF5UkJPMV9rX0tRa19DYXhPaG13eWlPajE4Q2JaaEt6elVvSWJtX1c4LU1XTVpPa0NRdHpabnRCSE5pTTRHRkt3RE1saC01SFExTFZPZkM0Vk9Nd2dKdFpKdGNIdEZXN21kQ2FPU3hrbS1LOWRxbG1PcWRFWWwyMHVLbFZsYlNjemVfdDUxLWdTdmlXRFd1aF83WTl4dVd1Y0t2SnB3eWRtRnVJa1NjRzBkMnJrUDNnRVVkT3hlWkU?oc=5",
+    "title": "Could Waymo accept riders in New Orleans? See proposed rules for the robotaxis",
+    "source": "NOLA.com",
+    "published": "Fri, 16 Oct 2026 23:49:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "New Orleans considers regulatory framework for Waymo robotaxi operations, with proposed rules still under development.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0ROQXpRRXpNRTlUczdiMW1tN1NVUGNjeEZqWGgya3lKN2hOa2ZveVJtNWlJUy1CMlRaazRmTTFoMVRuUDViQy1BLXdWREJWS1BwWTVXRk95RU1JVzhIaU9td2JVZTZNanREMVZBTTZTTjNvdjJqaDFjd05NNGNuTmM0YTc3dy1kS0FXTUs0NVJXSTZ0NXd4d0psTl9aZ1Bwc0ZhemdQdld2TzNpM252SWV3?oc=5",
+    "title": "CHP: Tesla driver says he fell asleep in Full Self-Driving before hitting CHP cruiser",
+    "source": "KMPH Fox 26",
+    "published": "Sat, 17 Oct 2026 03:51:52 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla driver using Full Self-Driving told California Highway Patrol he fell asleep before his car struck a parked cruiser, raising questions about how the system handles disengaged operators.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "Full Self-Driving",
+      "safety",
+      "accident"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHRra1JueUltN0l3VjRxdHdybzQ1TDlxd2JsRjhabGNTWmctWThMT0NQbVBnSmJpci1zbUVhRFVMSlB6SjNwRmFRaGN5VXBWSERESE5lekJqNjRIMzl5b1VlbUpiZmxwdzNURmxPWmlqTkNkYlRNSlBTWWtCYk9pUFIySGFnbDRydV9uSlp3QjZaMVNTU2YxR0dwWkk5R3pKSEpxNkVVV3BRS1pKRUxEMVlva2NnVGJMdHl2TjBJT2ZVUGJld1RUbk9Lc3BtakppS1hLWTNMdWVJcHNC?oc=5",
+    "title": "What Daimler's Finance And Global Chiefs Revealed About Diesel, Driverless Trucks, And The Future Of The Industry",
+    "source": "FreightWaves",
+    "published": "Sat, 17 Oct 2026 17:32:16 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Daimler's finance and global chiefs discuss the company's strategy on diesel engines, autonomous trucks, and industry transformation in an interview.",
+    "companies": [
+      "Daimler"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "diesel"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEFiTTZoMWc1U1NYZlRHZl9yd0JQcVdCUGxvVGoxMFQyRzBwOXB6eC1HQjFkbl80SkZFb2w5X0lNcThtMXBIQlhuS1BDMHZDSDg4bE9Ianl0R29JR3dvSElKVnBkZE9xaUF6cktPUWxFcDJCQTdQb1NkTlp3dndGYW8tMW4zYlQ0TVpLOGVQVXR5bUNsamFz?oc=5",
+    "title": "Waymo Puts Toronto on the Map for Its Robotaxis",
+    "source": "CNET",
+    "published": "Fri, 16 Oct 2026 19:03:10 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is launching its robotaxi service in Toronto, marking the company's first Canadian expansion.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcm9hZVJuX1JJQWNoTmplZ3YxMnBxRXQ2Nzloejl5Ul85Z2FnLVpVMHdrX1V0Z1NMRlNmYUthU0EtNlgtY2MycHJUSEFYTFdQQzRNbU16cTBOYjZVZjhiV1NlU3QzQjczdU5CYm1FSXVKR2RPbUR5THBBMHc0Q3RuLXVn?oc=5",
+    "title": "Waymo is coming to Toronto. Will its self-driving cars be winter-ready?",
+    "source": "CBC",
+    "published": "Sat, 17 Oct 2026 08:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its robotaxi service to Toronto, raising questions about whether its self-driving cars can handle Canada's winter conditions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "winter conditions"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVEzWGEtX2dvLVBMdkY0bURvQ1pHU1FPRHJHRlJQR0dvTlBnOE1oQVlhSklOT3A1Y1ZBV0lGUjB0U1hIZzM2U3UwN2lqLTIteXF2UDNNbG8wRklkLThRM1k2c0FvaUZQaEI5b2MzUHFvMFAzT2twQXdtTGpURTltZElVSEttbWJpQXdrQTJqS1lVYnQ4ZkttNnJjQTh5ZWxCX1VNT21Td2MwZndhWmUtVVRKRkt3eVVxV01Z?oc=5",
+    "title": "Watch: Tesla on Full Self-Driving Slams Into CHP Cruiser After Driver Admits He Was Asleep",
+    "source": "MotorBiscuit",
+    "published": "Sat, 17 Oct 2026 10:01:18 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Full Self-Driving system collided with a California Highway Patrol cruiser while the driver slept at the wheel, raising fresh questions about the system's ability to handle emergency vehicles and driver inattention.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "safety",
+      "Full Self-Driving"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDZwQ0JZVk43MUtnTUp4OXVZVWhKV1dVek4tcXM1RTVyS1NfM3hQQlJlb0QyRjJENHRveXIyMW8xUXRlOThEWWNsOHVyLWpIMlMzeE53QW40aU90V2YzdUtPMHVoQ19QMFJOR2hxYlIxNlgyQ2kwY2N0bHBwS0FWWVhDYllWSjd4SGVV?oc=5",
+    "title": "Feds Investigating Tesla Cybercab Robotaxis For Speeding In School Zones",
+    "source": "CarBuzz",
+    "published": "Sat, 17 Oct 2026 12:00:13 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Federal regulators are investigating Tesla's Cybercab robotaxis for exceeding speed limits in school zones.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSi1jRE51Z3VxRjhwUXZnVmc5UncxU1h1VEJLMWtJV3JCRk44WEE1MWNvY0I3RGFONU51OHhWczRnb2R2UVA1WU9ZQi1sWDVCLXBCbXlXM1hsejJUazVNWDJsUWs1RXVuY3NucVpMQmhDazd1Y1dzREo2QUhRZ0RkTVhlT2g1RGZiWjBqbXg1U3YtOExkLXNfcVVhWTBOQ2M0am9wdTlrQmdVUHJkMDlaWEItSmZOaUR2eWZlQlUwSXlVbGpORkhN?oc=5",
+    "title": "US appeals court blocks class actions over Tesla's self-driving claims",
+    "source": "Reuters",
+    "published": "Fri, 16 Oct 2026 19:21:06 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A federal appeals court ruled that Tesla customers cannot sue the company as a class over misleading autonomous-driving marketing, upholding arbitration requirements in vehicle purchases.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "legal/litigation"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkVzUjNId1NVcFh2VUJaVjJYMG0tdUZscFg1UGJyTV9FTjJDakd6aTIxYXRSX0QwX0Uya0N0d0YtdHdDOUg0MkI4OElKZzJ6SVU3eTVWQ3VPU1RoRFUySFc5aWp1RjdTZ29XQ1hNV1V3LTlYeUM1VEltcklSMGZjTWhCYW04RzF0d21Qc1R4Vmltdw?oc=5",
+    "title": "In a first, an F-22 Pilot commands a combat drone from the cockpit",
+    "source": "Interesting Engineering",
+    "published": "Sat, 17 Oct 2026 15:51:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "An F-22 pilot has successfully commanded a combat drone from the fighter jet's cockpit in what the Air Force says is a first operational test of manned-unmanned teaming.",
+    "companies": [
+      "U.S. Air Force"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "manned-unmanned teaming",
+      "F-22"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWZlV2JmWlJkejRkRnpsRXNiUGx0c01Lci1NSFphaUNFX2ZCQTh2VkRnT1F5d0t4YVh0THRUT2pmVXFTcnZwSVpYcGNBRE5KeE81bXptLTZzWGlWUDdKU2NzSUVZY2ZjdkJOTzR6QmVUdlE3d19faEp5UE00bUtDRE8tRGNKSVpCNVFZRy1EYjZ4aC1OUWl4andhZHVEQWhrR1pqWkRLYll2MkVkUUtwM0tVNHg3WUVzYXA1VXZvVjVZenlW?oc=5",
+    "title": "US Navy deploys unmanned maritime drone to support carrier strike group in historic first",
+    "source": "DefenseScoop",
+    "published": "Fri, 16 Oct 2026 18:51:47 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The US Navy deployed an unmanned maritime drone to operate alongside a carrier strike group for the first time, marking an operational milestone in autonomous naval warfare.",
+    "companies": [
+      "US Navy"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "unmanned systems",
+      "maritime",
+      "military deployment"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnhNUS1VZEZJYjV1ZmMyVlpydmFtTzdRNXdadHNrYXhqak1TRzhvdmhMM3hINmpHU2RYMk5ZYU9LQWV1ejhoMzhIOEFhZ3ZtWXRDUlNzcG1sVDljazFzQkhQdV9hNUo5RDFfY1ZtOTNJY09pSmlCcjl2RGJpRXJKLUJWSEpwcXczek9nckp6S051QVdFSjBGNGM4NHROaFR2Tml5Mi1hS1NGUQ?oc=5",
+    "title": "F-22 pilot commands YFQ-44A autonomous combat drone in flight for first time",
+    "source": "Air Data News",
+    "published": "Sat, 17 Oct 2026 06:42:52 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An F-22 pilot has flown the YFQ-44A autonomous combat drone for the first time, marking a milestone in manned-unmanned teaming for the U.S. military.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "combat",
+      "military",
+      "manned-unmanned teaming"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUlQejNyUkZvcW9qZ3JLaUFvR0RhNXVRS0l3X2poVm90RHY2RzJtRjB4QWtYTDN4WkZTb1hpTFZVOWV5ME9LNTNrWFFpaDJWM3dNQzVaTnlEeXRBbXQ3ZXc1c2JMRUpuYW5GR0Q3eXpVNzE4SWwxbG56QTVpc1pTVjZ3LWFNd1hiMGI5TjAzZm44TEVWRFdHUUNUM2JYbC1TMzFFYk9nWkpsVXBSV19WcjZ5bEUtczVEZThXQS01OE5BYWgxWGh0aw?oc=5",
+    "title": "U.S. Air Force Tests F-22 Raptor's Control of Anduril YFQ-44A 'Fury' Autonomous Combat Drone",
+    "source": "Defensemirror.com",
+    "published": "Sat, 17 Oct 2026 15:21:27 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The U.S. Air Force demonstrated F-22 pilots controlling Anduril's YFQ-44A Fury autonomous drone in flight tests, marking the first operational integration of manned-unmanned teaming at that scale.",
+    "companies": [
+      "Anduril",
+      "U.S. Air Force"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "combat",
+      "manned-unmanned teaming",
+      "military"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZW1pQWw1N04zRWNHa2N2VThfWXg3OWxfcnh2WEVscG5EZVo1MzhQRVFxbE9sV1JaQ2lDZDNXb0E2TlhJcVNNamVrazhKQ1Z5dTl6QkU4NG1XaGU0WEJJbjdSOG1XU2RwdkFoTFd4RDRnaDNuZGl1OHhCOXBsM0pRaE5ROHlETi00SHhiRE5hX0NwaVl2TW9BQTdXY2RyTWxNSkN6R2ExQ2tmUk1xWWFTdy1wbWo0akhBaHRLOWNma1JBXzY2RmNaMER3NFRQMjVOVm9zaUpCRHlFSnJCeHdvckNzR0dNOVozLXQ1OHkxNG9wZEkzbURxV1FkcUw4ZE1FRXJz?oc=5",
+    "title": "Eva Defense, Brings Autonomous Drone Program to AUSA 2026, Advancing Defense Partnerships in Washington",
+    "source": "GlobeNewswire",
+    "published": "Wed, 14 Oct 2026 15:10:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Eva Defense will exhibit its autonomous drone program at the AUSA 2026 conference in Washington.",
+    "companies": [
+      "Eva Defense"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "defense"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmgwRmp0UW9zZmpvU1lvdDd5R3F6a3BLSUIyS0E2WlZzR1VFUnRSd3R2U2pfQ1Y0S0dSR3kzOFdJTTJSb1pnTkRQelNiWnZHclI2MTdGRmcxaW1rTWlaT3o2ZXRmSVpKNTQzOHdrNFkzOFg3R1pRQkhBbmdjTEpfb2RCTmQzNjRUTWZzV1BMcw?oc=5",
+    "title": "Humans Are No Match for This AI Racing Drone",
+    "source": "Hackster.io",
+    "published": "Fri, 16 Oct 2026 19:20:45 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "An AI system outperforms human pilots in drone racing, a proof-of-concept for autonomous aerial navigation that remains more demonstration than deployed technology.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone racing",
+      "AI navigation"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPcjlMRTZlUGMya050NktWUEk3dExSWTQwWW1fcVFyZHkwNGtRQXctb08xR2ZibDd1SGZKTlMwNGZrYmhWeDVWSmNRNm82UU55RXFVRXV5dWthYkpoeFF6c1M0X0trUnB5UWVTc1VoRXhqRnVVTVFDQl93TmxvSHJ6N0xoZ2FXal9hQWxuZGJwUFJJczcwN2hFVXZzdG9rZ2VGVHdkZUEtZy0zNUlldV85VUZIeF9sTU9vMkJHTGQ2RXVvYWhnclJwNDJPVlNabXdaTUpHRGVZWHVIUXdsWVRaT1VPdC15eUliRDJKc0pTR1UtWGZxOW50YXVCWXQ2RllsZW5Ldlc1YXJaQWJLREJtazZzajF0U2NXZGk3cjgzY3p6UktBWFAzOVR0b0pKUG05aV8xWlY1M2V1ZXdMR3dSd2p2LXBMemI0TlVPc0lYVTFuTkFER1dtMGFVbzdCaURjMkUxSkdvR1JiMEVtbHcxZXFWd9IB-AJBVV95cUxNTlE4X2poUmY3UEtfdjVZZ0pXYlBsNmJVbTFuTV9RcHF1OFdIamVnbGpQclI0d2xPNEduUjhsVDdzRnk0OGN2TFQtbXU5QXl6aU1DQm9FQzNZUndHY1RpMTZ5VjlxYmUxV1NXUDVNU2hpY1FfTVl2YUh6REpmS1dKZWcxUVFGcVcwUTFjT3Z5b0N0MHB4dHdyYnFOM2ptTmt4eGlQV1RLSFdidXU5TFE2LS1RTjRLbUtMaXBKRlJrQ0RzNWVLRlhwZTZBOG1aeG1qUzNuZTgzZWRyanlPYVEwVmttNTNUWlRLT0dWWW5JSGFCWkRpaUZTNzVLVmo3WW1xNEpFM3VDdGFFRXRvOWRpNjJoZmtVZ1hta3U0RUVMeWt1STJwQ0hYZEVOZHd5TmI0bWpXTjJESi02Z2V3dGNTTkdhOENlRUpTOEM4T0hsZUJsV0xCT1UxTmN3eG9LUVpBSFpIS3Bzc0tjZHFlempQbUhsNjRFXzNa?oc=5",
+    "title": "Musk Talks Up Neuralink, From Patient Banter to Grand Promises",
+    "source": "The Times of India",
+    "published": "Sat, 17 Oct 2026 16:03:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Elon Musk spent part of the day doing double duty as Neuralink's chief booster: replying directly to a brain-implant patient's social-media claim of feeling 'connected' to his device, then separately declaring the company will 'help millions of people.' Neither exchange came with new data, trial results, or timelines — just Musk's familiar mix of personal engagement and sweeping prophecy.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "brain-computer interfaces",
+      "neural implants"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPcjlMRTZlUGMya050NktWUEk3dExSWTQwWW1fcVFyZHkwNGtRQXctb08xR2ZibDd1SGZKTlMwNGZrYmhWeDVWSmNRNm82UU55RXFVRXV5dWthYkpoeFF6c1M0X0trUnB5UWVTc1VoRXhqRnVVTVFDQl93TmxvSHJ6N0xoZ2FXal9hQWxuZGJwUFJJczcwN2hFVXZzdG9rZ2VGVHdkZUEtZy0zNUlldV85VUZIeF9sTU9vMkJHTGQ2RXVvYWhnclJwNDJPVlNabXdaTUpHRGVZWHVIUXdsWVRaT1VPdC15eUliRDJKc0pTR1UtWGZxOW50YXVCWXQ2RllsZW5Ldlc1YXJaQWJLREJtazZzajF0U2NXZGk3cjgzY3p6UktBWFAzOVR0b0pKUG05aV8xWlY1M2V1ZXdMR3dSd2p2LXBMemI0TlVPc0lYVTFuTkFER1dtMGFVbzdCaURjMkUxSkdvR1JiMEVtbHcxZXFWd9IB-AJBVV95cUxNTlE4X2poUmY3UEtfdjVZZ0pXYlBsNmJVbTFuTV9RcHF1OFdIamVnbGpQclI0d2xPNEduUjhsVDdzRnk0OGN2TFQtbXU5QXl6aU1DQm9FQzNZUndHY1RpMTZ5VjlxYmUxV1NXUDVNU2hpY1FfTVl2YUh6REpmS1dKZWcxUVFGcVcwUTFjT3Z5b0N0MHB4dHdyYnFOM2ptTmt4eGlQV1RLSFdidXU5TFE2LS1RTjRLbUtMaXBKRlJrQ0RzNWVLRlhwZTZBOG1aeG1qUzNuZTgzZWRyanlPYVEwVmttNTNUWlRLT0dWWW5JSGFCWkRpaUZTNzVLVmo3WW1xNEpFM3VDdGFFRXRvOWRpNjJoZmtVZ1hta3U0RUVMeWt1STJwQ0hYZEVOZHd5TmI0bWpXTjJESi02Z2V3dGNTTkdhOENlRUpTOEM4T0hsZUJsV0xCT1UxTmN3eG9LUVpBSFpIS3Bzc0tjZHFlempQbUhsNjRFXzNa?oc=5",
+        "title": "Musk Talks Up Neuralink, From Patient Banter to Grand Promises",
+        "source": "The Times of India"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbk9LTlZEa1M1SFhiOGZZUmZXTWRVWEhzbW9rRE5KS0Q5bXV1a1MwTDZycV91cVdTOVFScU9aZ3NUYnY4ZTlacFJOUGg0UUg5WFVPOGhsQVFzc0xKNDE0R0dtVWxNWDEtckZmTWF4eTY1SFVNY1I2b1lRODU5NjNLdDJCYzFXanRnLXRwaFM2QUg5RlBOcFpJUE1Ea09sdw?oc=5",
+        "title": "Musk claims Neuralink will 'help millions of people'",
+        "source": "Breakingthenews.net"
+      }
+    ],
+    "body": "<p>On a day otherwise unremarkable in the long arc of Neuralink's public rollout, Elon Musk did what he often does: he logged onto X and talked. First, he replied directly to a Neuralink patient who had posted that he felt \"connected\" to the brain implant threaded into his skull. Then, in a separate post, Musk declared that the company would \"help millions of people.\" No study was published. No trial results were released. No timeline was offered for when, exactly, millions of people might expect to benefit. There was just Musk, being Musk — equal parts proud parent and prophet.</p>\n\n<p>The patient exchange is small in itself, a reply of a few words tossed off between a billionaire's other obligations. But it is also a window into how Neuralink has chosen to build its public case: not primarily through peer-reviewed data or FDA briefings, but through the testimony of its earliest implant recipients, amplified by Musk's own account to his hundreds of millions of followers. The company has, to its credit, allowed some patients to speak publicly about their experience with the device, which is designed to let people with paralysis control computers and other devices using neural signals alone. That openness has generated real goodwill. It has also meant that a single enthusiastic post from a patient can travel instantly into the realm of corporate promotion, with Musk himself serving as both responder and amplifier.</p>\n\n<p>This matters because Neuralink occupies an unusual place in the brain-computer interface field: it is simultaneously one of the best-funded and most-watched companies in the space, and one of the least transparent about its clinical progress in traditional terms. Competitors like Synchron and academic labs working on similar implants tend to publish incremental results through conferences and journals. Neuralink's updates often arrive instead as social-media moments — a patient's post, a Musk reply, a grand claim about scale. For an industry trying to establish credibility with regulators, insurers, and a medical establishment that moves slowly and skeptically, that pattern is a double-edged sword. It builds public excitement and investor interest, but it also risks collapsing the distance between anecdote and evidence, between a single man's experience with a device and a company's claim that it will someday serve millions.</p>\n\n<p>For the people actually living with paralysis who might one day be candidates for the implant, the stakes are not abstract. Brain-computer interfaces carry real promise for restoring autonomy — the ability to type, to browse, to communicate without assistance. But that promise depends on rigorous trials, long-term safety data, and a regulatory pathway that doesn't bend to the gravitational pull of a founder's enthusiasm. Musk's talk of helping millions costs him nothing to say. Making it true will cost Neuralink years of unglamorous, undramatic work — the kind that doesn't fit neatly into a reply on X.</p>",
+    "slug": "musk-talks-up-neuralink-from-patient-banter-to-grand-promise-333b6b"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbk9LTlZEa1M1SFhiOGZZUmZXTWRVWEhzbW9rRE5KS0Q5bXV1a1MwTDZycV91cVdTOVFScU9aZ3NUYnY4ZTlacFJOUGg0UUg5WFVPOGhsQVFzc0xKNDE0R0dtVWxNWDEtckZmTWF4eTY1SFVNY1I2b1lRODU5NjNLdDJCYzFXanRnLXRwaFM2QUg5RlBOcFpJUE1Ea09sdw?oc=5",
+    "title": "Musk claims Neuralink will 'help millions of people'",
+    "source": "Breakingthenews.net",
+    "published": "Sat, 17 Oct 2026 00:40:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Elon Musk restates his ambition for Neuralink without disclosing new milestones or timelines.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "neural implants"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVB1U25pRHp6ZE9XdV9BZHFYRnkySE5GZzFobDZFZ2R0cjlOSkQ3T0pyVk1GNXV2WXBRT0NlS3RFVzhpeHViRkVlRlFVTzM1TUVSVEF2ZVZKanozc0pFVDRSWDA4M3pSbWNNMUdVZXc2YmNHVlNJd2g1SmtFd1dIcG1TYmJ3TTVEeUJnTkl4NmVJMHF5OUJYUF9TQUROdHJBYkxXdE5EdnFVTFVyTmJMWkU0TWhsSkN0a2UtSWg3Z0N3cW9VdGRN?oc=5",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "source": "TechCrunch",
+    "published": "Tue, 13 Oct 2026 23:13:31 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Science Corporation implanted its vision-restoring brain-computer interface in a patient with Stargardt disease, marking the company's first human trial of the retinal implant system.",
+    "companies": [
+      "Science Corporation"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "vision restoration",
+      "retinal implant",
+      "medical device",
+      "human trial"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://nuro.ai/blog/nuro-appoints-rajiv-bhatia-as-chief-product-officer-to-drive-commercial-launches-and-platform-expansion",
+    "title": "Nuro Appoints Rajiv Bhatia as Chief Product Officer to Drive Commercial Launches and Platform Expansion",
+    "source": "Nuro",
+    "published": "",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Nuro appoints Rajiv Bhatia as chief product officer to oversee commercial launches and platform expansion for its autonomous vehicle operations.",
+    "companies": [
+      "Nuro"
+    ],
+    "people": [
+      "Rajiv Bhatia"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "executive hire"
+    ],
+    "first_seen": "2026-10-17T17:43:40",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
