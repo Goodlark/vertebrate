@@ -81512,7 +81512,7 @@
     "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81538,7 +81538,7 @@
     "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81736,7 +81736,7 @@
     "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -81868,7 +81868,7 @@
     "first_seen": "2026-10-11T19:18:27",
     "week": "2026-W41",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84020,7 +84020,7 @@
     "first_seen": "2026-10-13T20:29:22",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -87520,7 +87520,7 @@
     "first_seen": "2026-10-16T18:35:07",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -88659,7 +88659,7 @@
     "first_seen": "2026-10-17T17:43:40",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -88755,6 +88755,612 @@
     "why": null,
     "duplicate": true,
     "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazcwM2J4aXV5bl9WSEYya2Q1VGNVTXp3SmNnY3VJR0tvckxvVVVFUThGdmdJdGQ5bzU0a1czMks1SVY4LWh2UWRqcDNmeExzT3BoWGVrcHhxczlFYWl3UzFiN2RFd0NLaHRwdTE3LWdsRkMtdlBwem53MnotS0tVQ1ptbEtDRFowZ19GZm56Z1l5X19NYVE?oc=5",
+    "title": "OpenAI Is Building A Humanoid Robot, But The Body Isn't The Real Challenge",
+    "source": "Engadget",
+    "published": "Sat, 17 Oct 2026 23:45:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Engadget argues that OpenAI's humanoid-robot project faces its real bottleneck in software and control systems, not mechanical design.",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTV92MHJ5YS1PelZJX2p4emV4X0NQX1lNRTNlNGJ0X0ZyVDlsZVpPTk8yTDNseGN3T1RJa090RTBRT0t3Zi1GLVhJQWk2eGxHT2poRkFxX1F3SDduaXExZlFENXU1UFpHYm5qNW0tQ1BORWphaUpxRGtxR0M0SjVNa19SakNWXzdoT2s0WkFLdVM3WUxkR3A3VVBLV2FLdlVmOVRlZFFYREZJUTFoS21rUm5mREt1eW1La0E?oc=5",
+    "title": "Germany's New Robot Billionaire Is Betting Big On Humanoid Gyms",
+    "source": "Forbes",
+    "published": "Sun, 18 Oct 2026 10:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A German billionaire is opening gyms designed to train humanoid robots, betting that physical conditioning will unlock commercial deployment.",
+    "companies": [
+      "Humanoid Gyms"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "training infrastructure",
+      "deployment"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2d5QXJiN3NBZHBDS2pZLUNzU1JBaC1tcVktdjhtZEx1Y3ZpcWp6WWJQb2xRcWU3MEpGUFd6QldQMV9ZNzR4QW52SDRjOVVlblgxbEJkTEMwa2s0ZUgxTVNXems0VHlnMk5zSUJtSWlNSTRfN2I1dXRXY3U2VHVTZXNrajlmWXR4QVQ1bjVSdlVZSlZnR2w2dW5R0gGfAUFVX3lxTE5IVkRfMG9kallxVzFPU3JCSFFsRlprbkJnWnpLLVBwRDRMODYxS1pYUHVRSjFXQ1ZybnNXeDNueEZDaURva3VjM1htWHgyeXMyTWpzX0toZEY4SjFXVi1OQlM3TjRILU1ZcW5PZS1pbjlVUmVVVGE1Y2c5U1RCcE1Wc3hQRnF2YTFUV1g2ZHlhZ3p4YmRJaHRCMThPZWFRbw?oc=5",
+    "title": "Meet 'Codey' the humanoid robot that hopes to tackle loneliness epidemic",
+    "source": "ABC7 Bay Area",
+    "published": "Fri, 16 Oct 2026 03:24:05 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A startup has unveiled Codey, a humanoid robot designed to combat social isolation through companionship.",
+    "companies": [
+      "Codey"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "companionship",
+      "loneliness"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORVQ4d1ppbVE4VEc1cmhlc1h3eXhnbVUycW8yaVFOQk1QOGJGY2JZVkNFcjluWmdLY0FhLWhMMjRBUUdIVU9tY3lxbEdGS3Fsd09zZWNrQ2ZreHdpM0NfUXZBMmVGelk4MlVvZnhKWDFDUGZXaDFXbU5FLVB1TmZUa2tZaFk?oc=5",
+    "title": "RoboParty launches open-source RP1 humanoid robot",
+    "source": "Engineering.com",
+    "published": "Fri, 16 Oct 2026 11:25:25 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "RoboParty has released the RP1, an open-source humanoid robot designed for research and development.",
+    "companies": [
+      "RoboParty"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "open-source",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVzYwN3FDRVFlOHVwS01XbUVvbXNlWUMyMi1VaERzR0ZBcGMzSVpBM2ZqYS1OYjd6VU9Oa3NfbWVaNXFpYXdqUjdrYllCbUE2TndQSlhiYUJMWU9KbHRERDBlSUFkTlE5aTExcGFxdmFvYmJZU0E?oc=5",
+    "title": "OpenAI Confirms In-House Humanoid Robot Development; Altman Says Intelligent 'Brain' Takes Priority Over Hardware",
+    "source": "BigGo Finance",
+    "published": "Sun, 18 Oct 2026 08:55:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "OpenAI confirmed it is developing a humanoid robot in-house, with Sam Altman emphasizing that building the intelligent software matters more than perfecting the physical form.",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LSnRwZ1FheFRmNjJDdDJ6T0VXSWIwM3VzY2JHQmdnZmJXYzhjVEkxWi1sVVdaeWRYLXluUms1NDV0dDd6TWx3dXhCcHUxS1FZQlJ4Tmp1ajRkaEZna3NLSE1R?oc=5",
+    "title": "Chinese robotics firms race to roll out components and data systems, helping robots perceive, understand, interact with real world",
+    "source": "Global Times",
+    "published": "Sun, 18 Oct 2026 05:13:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Chinese robotics companies are developing perception and interaction components to enable robots to understand and operate in physical environments.",
+    "companies": [
+      "Chinese robotics firms"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "perception",
+      "real-world interaction",
+      "components",
+      "data systems"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13cDBqZDZSX1BXMlBjNG9MS2E2YnE5NGlpMGo3RUxxYkJmVEc1M0pldmtRRXYzNXJ3dDhzc3RQVThvZEM4dnloU0dRN09yWkMwZHZfREVveHRCbmVydGRGX2ZGUDJtQXVrTVpIdmkzMV9DLVN6a2RxclVB?oc=5",
+    "title": "Hyundai AutoEver looks beyond IT to connect factories, robots",
+    "source": "KED Global",
+    "published": "Sun, 18 Oct 2026 12:39:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Hyundai AutoEver is positioning itself as a factory-automation platform company, moving beyond IT services into the business of linking robots and manufacturing systems.",
+    "companies": [
+      "Hyundai AutoEver"
+    ],
+    "people": [],
+    "themes": [
+      "factory automation",
+      "robotics",
+      "manufacturing integration"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtcjl5MzhjbFZ2RUFpSDhkWHZGQklSUHFzLXhoalhNazM0NkU4eVRFU0VsSmZUZ1RFZDNNTzRmaDJPbnZxQkRnMnl5UU4xLTFRUE0ySTR5SEh0U3RKS0Z4UW1ZaGlOaklYRGMzeTBmTzU5dXp0ajgyNA?oc=5",
+    "title": "Police: Investigation underway after robot controlled by two men inappropriately touched teen girl",
+    "source": "KCRA",
+    "published": "Thu, 15 Oct 2026 09:24:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Police in Sacramento are investigating an incident in which a remote-controlled robot operated by two men made inappropriate contact with a teenage girl.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "law enforcement"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFdXZUg1TUZvWENYTnFUbGpKNzF4cExPWDJLMVdUUktQblN6ODBpY0F0QW5CajlPNDFxRWJJQkVjVFpiTTY1SEVVV1JET2h5NE9kYllobk5zQkZGM1pFSkdBNUc1bGdlSUlUYUh4ZnRybWFiWDhka0RzVFdJZlo5TVVWdW1wZjZ0VFdkUzE4czkwQ0EtcVpUX3UycWdKaWJGNXlBUC1hR1ZINjFjSWNr?oc=5",
+    "title": "Look, no hands: Euronews rode driverless in Europe's first robotaxi in Zagreb",
+    "source": "Euronews.com",
+    "published": "Sun, 18 Oct 2026 06:00:55 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Euronews took a test ride in a driverless taxi operating in Zagreb, offering a firsthand account rather than reporting a commercial launch or deployment milestone.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5samVGbDZlQ2Y4dHI5bDJPNHBKT0IwNTh3OG9jUUtDbW41ckpGRU9wa0t5bnVTQlF0eWJKcU5WcTRPR096SVZXbFgtZEppTnAyQUJR?oc=5",
+    "title": "From the road — October 14, 2026",
+    "source": "Waymo",
+    "published": "Wed, 14 Oct 2026 18:58:30 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo publishes a routine update from its autonomous vehicle operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObG1JWGNETUtYcERLOGFHaUR0SlJwUnVFT21hNGw1Q0lHdDdmRE9BcGR6QTVSeW9ramdWVDNPTmY5czhWc1JjVk1KaG1wbkd3R0tBbXBwUHlMeDk2SnlSWGNTU09sQ3RlRE5wU0hnODNIVlJEZmFQb3prakV0dHhydVQxUDdWaHdMSF9XM0JhazFwaXVIeHJCRUoybU9SQQ?oc=5",
+    "title": "US Appeals Court Overturns Class Action Lawsuit Over Tesla Self-Driving Claims",
+    "source": "Yahoo Finance",
+    "published": "Sun, 18 Oct 2026 12:55:02 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla won an appeals court ruling that overturned a class action lawsuit challenging the accuracy of its Full Self-Driving marketing claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory",
+      "litigation"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wZzV3clctaTJJclBsbnkzakhtYVZDalRJbkp3TU8wYTVaM00wd2JKWmM3SDltdmktX0JIQURnam5pRTExa1o0ekRxRDRVbnd5QTNpdVhhZ1dIOXc?oc=5",
+    "title": "Protesters call for London robotaxi trials to stop",
+    "source": "BBC",
+    "published": "Sat, 17 Oct 2026 17:39:17 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Protesters in London demand a halt to robotaxi trials, citing safety and regulatory concerns.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWHI4M1I1NnNzMFdqSHhibEpXT3p6VGd4b1NkRWp3bDFwall6dUhZbzFJLVhCZm84UV9scEhJbURvbGlodHNJTVpCS19BQV9UOHJ0bFdoc3BwdkNLWUZpMDBlTC05b19WZ01DR2JUd1VQU2ZaMVhaZ05GOW5kU3hSZ2VaRXExRWpXZDNWRlBSc2VzX25QdlZNNnd6YnF1czh0M0E?oc=5",
+    "title": "D.C. Mayoral Nominee Says District Should Not Rush Waymo Legislation",
+    "source": "The MoCo Show -",
+    "published": "Sun, 18 Oct 2026 09:00:33 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "D.C. mayoral nominee urges caution on Waymo legislation, calling for deliberate rather than hasty policy-making.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "policy",
+      "regulation"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTRDY1ZqTEhFUU8wM0dla2NVSVVKbFZOdWZTWUhXSHlyX1Btam9janZiVUZKeDVkamZ1MWJXNTZ5bVBxWVBHMmJtdnZ0UExyNG9QeEhBdXpTUlNSb0hoQUV1ZUFTbUVHa2RPaEc2ZUVEYlJhWlBNNzh1UUVPNW1OQmdUdFY3TnFJVkVpakNSdTk4NGNhNl9rc0xzVTFrYkVwYnVmdTlHOERwaGwzSFlqaXl5eHdHbms?oc=5",
+    "title": "Tesla's Robotaxi Fleet Grows Eightfold, But Remote Drivers Keep Crashing It",
+    "source": "cristinaiglesias.com",
+    "published": "Sun, 18 Oct 2026 14:34:19 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Elon Musk says Tesla's robotaxi fleet has ballooned eightfold, even as he dangles a thruster-equipped Roadster to keep the hype cycle spinning. Less discussed: the remote-operated drivers steering those same robotaxis are racking up a worrying number of collisions, raising questions about whether teleoperation is a safety fix or a new liability. The contrast between Musk's expansion boasts and the fleet's bumper-car reality underscores the gap between Tesla's marketing and its operations.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "remote operation",
+      "safety"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTRDY1ZqTEhFUU8wM0dla2NVSVVKbFZOdWZTWUhXSHlyX1Btam9janZiVUZKeDVkamZ1MWJXNTZ5bVBxWVBHMmJtdnZ0UExyNG9QeEhBdXpTUlNSb0hoQUV1ZUFTbUVHa2RPaEc2ZUVEYlJhWlBNNzh1UUVPNW1OQmdUdFY3TnFJVkVpakNSdTk4NGNhNl9rc0xzVTFrYkVwYnVmdTlHOERwaGwzSFlqaXl5eHdHbms?oc=5",
+        "title": "Tesla's Robotaxi Fleet Grows Eightfold, But Remote Drivers Keep Crashing It",
+        "source": "cristinaiglesias.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaW5QNEFSSmMxUmtSaTQ1RzVQVzZET1BNSnhxTWFlZ2huOXQ2dUJqemtLV1BIY084SEhscm4tX0Y4SkQ3SkphWC1sVDZJcmNaTGxzVkF4M0JfLUQ2ME5pTzJkMmFsUHBMYXQ2Tjlnb0UxVHhhT3plOTJ6Uk9SZzhNOW5nN0xqUmEwUkJ2SXdfRnhpVWNnRTVVY3BHdDJEUQ?oc=5",
+        "title": "Tesla's Robotaxi Remote Drivers Keep Crashing Into Things",
+        "source": "Autoguide.com"
+      }
+    ],
+    "body": "<p>Tesla's robotaxi fleet has grown eightfold in recent weeks, Elon Musk told followers online, a figure offered with the usual Muskian lack of footnotes — no baseline number, no city-by-city breakdown, no third-party verification. In the same breath, Musk teased a thruster-equipped variant of the Roadster, a vehicle that has now been \"coming soon\" for the better part of seven years. The announcements landed together, as Tesla announcements often do, one dazzling, one unverifiable, both engineered to keep the stock-watching public looking up rather than down at the pavement.</p>\n\n<p>Down at the pavement is where the trouble is. Tesla's robotaxis, it turns out, are not simply humming along on autonomous software while engineers in Austin and Palo Alto sip coffee. Many are being steered, at least part of the time, by remote human operators — a teleoperation layer that was supposed to serve as a safety net for the rare edge case. Instead, according to reports tracking the fleet's operations, these remote-piloted vehicles are racking up a notable number of collisions: scraped bumpers, curb strikes, the unglamorous vocabulary of fleet-damage reports rather than headline-grabbing catastrophes, but a pattern nonetheless.</p>\n\n<p>That pattern matters more than the eightfold-growth claim, because it cuts against the entire premise Tesla has sold investors for a decade: that the company's camera-only, AI-driven approach would leapfrog competitors who lean on lidar, high-definition mapping, and yes, human remote operators as a crutch. If Tesla's own fleet is now depending on teleoperation — and crashing while doing so — the company isn't leapfrogging anyone. It's running the same experiment as Cruise and Waymo did in their messier years, with the same unglamorous failure mode: a person in an office, watching a screen with latency, making split-second calls about a car they cannot feel or hear.</p>\n\n<p>The stakes extend beyond Tesla's balance sheet. Robotaxi fleets operate on public streets, among pedestrians and cyclists who never agreed to be test subjects for a remote-driving interface. Regulators who have already slow-walked Tesla's robotaxi permits in multiple states will take note of collision data more readily than they take note of Musk's thruster jokes. And for an industry still trying to convince a skeptical public that autonomous vehicles are safer than human drivers, every scraped quarter-panel is a data point the skeptics will cite for years.</p>\n\n<p>There's also a simpler story here, one about attention management. A thruster-powered Roadster is the kind of detail that generates headlines and forum threads; a spreadsheet of remote-operator fender-benders does not. Tesla has long understood which of those gets covered more breathlessly. The gap between the two — between the fleet Musk describes and the fleet that is actually, haltingly, bumping its way through city traffic — is where the real robotaxi story lives, and it's a story investors and regulators alike would do well to read past the headline.</p>",
+    "slug": "tesla-s-robotaxi-fleet-grows-eightfold-but-remote-drivers-ke-3f89f1"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaW5QNEFSSmMxUmtSaTQ1RzVQVzZET1BNSnhxTWFlZ2huOXQ2dUJqemtLV1BIY084SEhscm4tX0Y4SkQ3SkphWC1sVDZJcmNaTGxzVkF4M0JfLUQ2ME5pTzJkMmFsUHBMYXQ2Tjlnb0UxVHhhT3plOTJ6Uk9SZzhNOW5nN0xqUmEwUkJ2SXdfRnhpVWNnRTVVY3BHdDJEUQ?oc=5",
+    "title": "Tesla's Robotaxi Remote Drivers Keep Crashing Into Things",
+    "source": "Autoguide.com",
+    "published": "Sun, 18 Oct 2026 11:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's remote-operated robotaxi fleet is accumulating collision damage at a rate that suggests the teleoperation program may be creating new safety problems rather than solving them.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "remote operation",
+      "safety"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT0p0Rmw4TEExUlhrbktyWThzM1FrdU5SR3VvbnJraS1rNjM0QlZ5SGItTFV2RXdWSmliTUZUbWNxLU1fSmJnMFltcUNkSmZqTmtGa2pmRTBWRFFEZ1hPRE0wQldaYnNidzlkVGZiTFRWMGx3WWUzWkxZT1l0alIySHU1QnlsM3dxLVlIZHk0NkpHQdIBkgFBVV95cUxPcGk4T1lpVHpIZGdtWlBTY2JRYmpnVkM3RXdjUEY2UzVfTU1fa05BekpObzdaQ3RBWnZFd2U2bmRLUXJzSFpzanJxWXB0OGM0YkpNencwQkwwYUQ4LUVTTU9QREZiMUtzYThrUmNwMFh3Wk0tR25oZ2VrMkNBSHB1akJNbG5yYi04SVBQbHFMdkFiQQ?oc=5",
+    "title": "Mercedes-Benz to develop self-driving cars with NVIDIA",
+    "source": "Qazinform",
+    "published": "Sun, 18 Oct 2026 14:21:58 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Mercedes-Benz and NVIDIA announced a partnership to develop autonomous vehicles, combining the automaker's engineering with NVIDIA's AI computing platform.",
+    "companies": [
+      "Mercedes-Benz",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "AI"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOME91ckFHaVdZM1FKUkpnMHRWdmtLWTdDdmJmUzdzQy1TbzU2RWtSUGJod3pJeVFGdmY1aVg5eFhuM043SVQzdkViRXE0VThFYWxVUm1TQ0lRdnZ4SmQyMTY2VHVZLW40Nm02VFVmYXpOd0RMWTJab3NqRkhDQWtLTWx4dzlfU201Q2RTcWt4T1dMSUpQcmY3Q0lNNHZ2NVhUNTBvQVB30gGrAUFVX3lxTFBCaENKS0lqNUN0YzU1bnVXQzBBeHZqejZtNExLYm5ZMy1mRWRjNWxXUEVMYlNwZGFWRzNqYjhubUxhbndtRVBVdlZKaU53OHFNZF9CT2ZCQ3g4OFNDRWcxVE5Iak9YbVhmYnhqcVQyZEZkRU51QnBjVWp0dGF1Q1lJZ0MzZXI3THVvVjNmVmc5eWFOYkJXQzlTenBoT2ptdEVVMkg0OF9aYk45aw?oc=5",
+    "title": "This robot dog was made to save soldiers' lives as US races into new era of autonomous warfare",
+    "source": "Fox News",
+    "published": "Sun, 18 Oct 2026 10:00:50 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Fox News reports on the U.S. military's turn toward autonomous systems and robot dogs in combat contexts, framing the shift as a race into a new era of warfare.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous warfare",
+      "military robotics",
+      "robot dog"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0lkeGgyem9taDlCSWtvUGNmQUhhMnYwNDFHUVI2QkE1TzRnUHNqWkhEbVhUSGhOME5IWGowQVJ6cWZjYnhKOFF2YThMOElLb2E3ZHJIQVVuUDNxNFl6V3FTdHN5Q2Fzb3RPU0lsTVMwY0hISFVuRDRxUnE0RFYtc01RWDJUXzZrbm9RQktJRWtCNVhHQXU0?oc=5",
+    "title": "Powerus Reveals Autonomous Drone Interceptor",
+    "source": "Aero-News Network",
+    "published": "Sun, 18 Oct 2026 10:57:52 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Powerus unveiled an autonomous drone interceptor designed to identify and neutralize airborne threats without human intervention.",
+    "companies": [
+      "Powerus"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone interception",
+      "counter-UAS"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2JVY2Q4Y0VQYkxtWkdvSFpkWHlxaUpVX29lblQtSHFiYTc3OFYzeWV6a3pDcnBzM2tzX1Fab0w0cDFyRmRPRDQtSzFFMW9scy1RNmlrSE1UTnhXdDFFdXpFQ3l0U0dDa1V2dHJIQnpaeGtrbGk1N2dZRUxlbzktdkM3MlBoMnRubjI4MW04bThoN185bkdrZktjdHF1UVBNRVdfUQ?oc=5",
+    "title": "Powerus unveils Guardian 3 autonomous drone interceptor at AUSA 2026",
+    "source": "Dealroom",
+    "published": "Sun, 18 Oct 2026 07:14:38 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Powerus unveiled the Guardian 3, an autonomous drone interceptor designed to neutralize airborne threats, at the Association of the United States Army's 2026 conference.",
+    "companies": [
+      "Powerus"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "drone interceptor",
+      "counter-UAS",
+      "defense"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXRZOURqbktQTkVQendBQm9PUmRrTDRVY2VzbDByd005ZXIwcWI3V0taVnlyZk90Rzdlc0RJUW1PYW5TTXV3ZEVfNm0ydFBZa3RodTk0b1B4TTlaOExGUHkxMFVTYk9BVW11TE5NQjVmdkJjM1c4QUJqSHVoa3lwVUxQMHBld1l1ZWQzeWN5dzZTQ2d5bWJiVHBDRFp4Um5pOXZWcFNENDNaenpyZmVBZm1ISHRHN3pzZmc?oc=5",
+    "title": "Skydio Pushes Deeper Into Military Drone Market With L3Harris Partnership and New ISR Platform",
+    "source": "L3Harris® Fast. Forward.",
+    "published": "Thu, 15 Oct 2026 15:55:50 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio is making a coordinated play for defense dollars. The company unveiled ISR Command, a software platform aimed at intelligence, surveillance, and reconnaissance work, while also announcing a partnership with defense contractor L3Harris to wire its autonomous drones into battlefield communications systems. Together, the moves position Skydio's drones as both the eyes and the connective tissue of a 'connected battlefield.'",
+    "companies": [
+      "L3Harris",
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "military",
+      "defense",
+      "partnership",
+      "drone",
+      "ISR",
+      "autonomy",
+      "surveillance",
+      "national security"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXRZOURqbktQTkVQendBQm9PUmRrTDRVY2VzbDByd005ZXIwcWI3V0taVnlyZk90Rzdlc0RJUW1PYW5TTXV3ZEVfNm0ydFBZa3RodTk0b1B4TTlaOExGUHkxMFVTYk9BVW11TE5NQjVmdkJjM1c4QUJqSHVoa3lwVUxQMHBld1l1ZWQzeWN5dzZTQ2d5bWJiVHBDRFp4Um5pOXZWcFNENDNaenpyZmVBZm1ISHRHN3pzZmc?oc=5",
+        "title": "Skydio Pushes Deeper Into Military Drone Market With L3Harris Partnership and New ISR Platform",
+        "source": "L3Harris® Fast. Forward."
+      },
+      {
+        "url": "https://skydio.com/blog/skydio-isr-command-drone-dominance",
+        "title": "Skydio ISR Command Drone Dominance",
+        "source": "Skydio"
+      }
+    ],
+    "body": "<p>Skydio, the San Mateo-based drone maker that built its name on obstacle-dodging consumer and public-safety quadcopters, announced a two-pronged push into defense work this week: a new software platform called ISR Command, built for intelligence, surveillance, and reconnaissance missions, and a partnership with L3Harris Technologies, the Florida-based defense contractor, to plug Skydio's autonomous drones directly into battlefield communications networks.</p>\n\n<p>The pairing is deliberate. ISR Command gives Skydio's drones a brain for watching and reporting on a battlefield; the L3Harris deal gives them a nervous system for talking to everything else on it. Together, the two announcements amount to a pitch that Skydio's aircraft shouldn't just fly over a conflict zone taking pictures, but should be woven into the same communications fabric that connects soldiers, sensors, and commanders — what both companies are calling, without much modesty, the \"connected battlefield.\"</p>\n\n<p>For Skydio, the timing tracks a broader pivot. The company spent its first decade chasing a consumer market that drone incumbents like DJI already dominated, then found steadier ground selling to police departments, utilities, and inspection crews. Defense has increasingly looked like the next, bigger prize — not least because Washington has spent the past few years trying to wean the Pentagon and its contractors off Chinese-made drones, DJI's included, on security grounds. That policy pressure has created an opening for American manufacturers, and Skydio has been angling to fill it.</p>\n\n<p>L3Harris brings something Skydio can't build quickly on its own: decades of relationships inside the defense procurement system and battle-tested communications hardware already fielded by the U.S. military and its allies. For L3Harris, a company whose revenue runs through radios, satellites, and sensors rather than flashy autonomy, Skydio's software-heavy, AI-piloted drones offer a modern front end to attach to a very traditional back end. It's a classic defense-industry marriage: the startup supplies the nimble engineering, the prime supplies the access.</p>\n\n<p>The stakes extend past one partnership announcement. Drone warfare has become the defining lesson of the wars in Ukraine and Gaza, where cheap, autonomous, and semi-autonomous aircraft have reshaped how ground forces fight, scout, and die. Militaries around the world are racing to field systems that can operate when GPS is jammed and networks are contested — exactly the conditions ISR Command and the L3Harris integration are meant to address. For the robotics industry, Skydio's maneuvering is a signal that the most lucrative customer for autonomous flight may no longer be the real estate photographer or the power-line inspector, but the defense ministry. And for the public, it's a reminder that the same obstacle-avoidance algorithms once marketed for filming mountain bikers are now being adapted, quite explicitly, for war.</p>",
+    "slug": "skydio-pushes-deeper-into-military-drone-market-with-l3harri-dbc18a"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkRJWVNab3JoelZzOXdjZE1yMzdHamhDVXJfWERvS1kxUHFBX0oxSjg0cFNLeV9oTjdZYUlZSUNNMm4zRUZqTGdpQ0IwRmotYmFYNUFMd0Y1czB4VFNfa1NGZ3BYb2NkaGtqTTd1MHltOWQwVGw4RVZ0Z2lFU2p0S1l5YnJuTFdrUGlhend0c0RYNTdYbjFMOGZnYw?oc=5",
+    "title": "US racing to field drone wingmen to close fighter gap with China",
+    "source": "Asia Times",
+    "published": "Sun, 18 Oct 2026 05:11:30 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The U.S. military is accelerating drone-wingman development to counter perceived Chinese fighter advantages, according to defense analysts.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "autonomous",
+      "fighter aircraft"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://skydio.com/blog/skydio-isr-command-drone-dominance",
+    "title": "Skydio ISR Command Drone Dominance",
+    "source": "Skydio",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio has launched ISR Command, a software platform for intelligence, surveillance, and reconnaissance operations.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "ISR",
+      "autonomy",
+      "surveillance",
+      "national security"
+    ],
+    "first_seen": "2026-10-18T17:45:47",
+    "week": "2026-W42",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
     "sources": [],
     "body": "",
     "slug": ""
