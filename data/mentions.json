@@ -82421,7 +82421,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -82610,7 +82610,7 @@
     "first_seen": "2026-10-12T22:22:14",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84629,7 +84629,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84871,7 +84871,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -86110,7 +86110,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -87810,7 +87810,7 @@
     "first_seen": "2026-10-16T18:35:07",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89119,7 +89119,7 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -89359,8 +89359,884 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
+    "duplicate": true,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5",
+    "title": "US Army competition explores military uses for humanoid robots",
+    "source": "Defense News",
+    "published": "Mon, 19 Oct 2026 16:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "The U.S. Army is running a competition to test humanoid robots for military deployment, exploring how machines might handle tasks too dangerous or physically demanding for soldiers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "military",
+      "robotics competition",
+      "defense"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnhpM3l5d1JqOGxudWVYNXpNY245N3VLUmdMeTN2b2RreXZZTE1BRjVLbm1OVTNWOF81WTVBcWdiUW1jN1Q2bnZMaHZZTmc2SGF3WV9CRG4wbnRqMHB6ejUyR19LdVVLNEhodVlReExMLVJLOExVOE0yVi1McVFVeGxsN2hIaGpsOXFfWg?oc=5",
+    "title": "Why Honda is redesigning cars for humanoid robot workers and how Toyota is already using them",
+    "source": "Automotive News",
+    "published": "Mon, 19 Oct 2026 15:34:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Honda is redesigning its vehicles to work with humanoid robots on assembly lines, while Toyota has already deployed them in production.",
+    "companies": [
+      "Honda",
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "assembly",
+      "automation"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzYyUUFMSTBPUGNvRTNNZzkxUzdocUNnbURwZjhwR3hSVVBGS3VWeV9LS3JremJtX29OYlk1bnVUcWEycFRyZFhjdnRXbVZPNklGeUV0MC1CeW8tOTBmQUkxQXo1cmV1SEh5eUhtRzBmZENkOEdVRlFlNUUxZExaeGIzazdYb2JD?oc=5",
+    "title": "Faraday Future Launches $2,490 Humanoid Robot and $299 Mini",
+    "source": "TechRepublic",
+    "published": "Mon, 19 Oct 2026 14:33:33 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Faraday Future enters the humanoid robot market with a $2,490 tabletop unit and a $299 miniature version.",
+    "companies": [
+      "Faraday Future"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "consumer robot"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0RLSnBIU001ZHQxTzVfeDN6dnVrZTY2V29Wa3Nwa2JTQkxhZFl5NmRJOWFLeWd4Q05zUFFLaDRuV0hmVzJUN0ZUT3Z1SkwtMUZ6TV9XUXUwalBudzd6aEhQenlNaVZVdUZWcEpuNUYwWXRNbWhGZTBPcWFZSS1nQVd4eUlDVWZ4STJ0TzM4bWdVS3d0bW1WcFpoTU5TOVJaNE91M1VSMmZibDFvTDg5RTFR0gG3AUFVX3lxTFBsaWF0SGZKLUZNSGpwRmJadFJPeEczNHY4NUxUTnItYWlqSkRuZnk4UzRhVTFCWklZZXp0WVRWcW1xWWRocDdkdDlvV1puNHJjZFpITjFNem0wZHpuRXZYekJwT1phSWdKeHhjS3BldnA0SGZOSHlFekFoODNGdTI2RkFfN0dJVWpLMHJrTVotZExoNkwwdzViZkQzT0xZRmlkMGFqQTc5NnRqWTVINjJLaTdjQWxZZw?oc=5",
+    "title": "2026 World Humanoid Robot Games: A Brave New World for Sport, Technology and Regulation",
+    "source": "The National Law Review",
+    "published": "Mon, 19 Oct 2026 18:58:54 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "The National Law Review examines the regulatory and legal implications of the 2026 World Humanoid Robot Games as a test bed for physical AI governance.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "regulation",
+      "sport"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHRoRk8wVWw3aTN0V0JEQ3Z2Q2cxWnBkUFRLVDJ1NHMxd1dmX0NxZG4yUDVhaWxpR1gxc0Fob01kci1ESG00a1ZzVmhKX05hUXFHUUhzZXpyeThqTDIxQzNhNTAtX3AxeWpMODg3TXU3RWFtUkQ2aklSUzZDbG1odGEwWVJPUFUwTGtLVTNDYw?oc=5",
+    "title": "Humanoid robot covers 348 miles in a grueling 9-day treadmill test",
+    "source": "Interesting Engineering",
+    "published": "Mon, 19 Oct 2026 19:40:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "A humanoid robot completed a 348-mile treadmill marathon over nine days, demonstrating endurance capabilities that exceed previous benchmarks for bipedal machines.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "endurance testing",
+      "locomotion"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGU2tFOXJWZmtZaWpPNVBZdjBueW5BNU8xSHVkTmY4em9aM3drUFVpaF9VWDBsVFpOdXFIOFZPaEI5azBJQjE1MnRMaUd0NTFvQmUzTnhZSWl6S2ZoTmxxb3hHdnVsWWM?oc=5",
+    "title": "TDK InvenSense Develops Magnetic Sensors for Humanoid Robot Joints",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "published": "Mon, 19 Oct 2026 10:10:42 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "TDK InvenSense has developed magnetic sensors designed to enable precise joint articulation in humanoid robots, addressing a critical hardware gap in physical AI.",
+    "companies": [
+      "TDK InvenSense"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "sensors",
+      "robotics hardware"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWl6dHJhUDFuV1BRU3lEMWNrcnVEdFVlc3NhLU1ZR2tDVUdoRWYtcG9jQW01c3FuYjhYUlFERWZQTzVzTXF1QnNiWEpHS1h0SFUwWEpUZFkzVnpteThoa2lDcHJoNGltTHgzS1FxVno0blVfTVUxUG9PMkh3RDh3X0NhTE41U2RYNW1RR0V5Q3RJMG9rNFdZNkIxTXM3ejJ0NEFHdEE4Q1NqVkk0anI5UGZqcw?oc=5",
+    "title": "The Robot Group opens UK enquiries for X-Humanoid robots",
+    "source": "Robotics & Automation News",
+    "published": "Mon, 19 Oct 2026 11:51:09 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "The Robot Group begins accepting UK inquiries for its X-Humanoid robots, signaling commercial availability in the British market.",
+    "companies": [
+      "The Robot Group"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZV1FLT1BlUjRMMnF1U2hqVGFOZU9YWE82cGZzWExmbHhheGdtWEJ2RFR0THZ6THhuenVza0dFaWl5cFBfZmh3WWpxQVItMVpZR0tKOXZSY2dJZ184VXE0elp5bXhkZTA?oc=5",
+    "title": "Namuga Secures Camera Module Deal for Humanoid Robots",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "published": "Mon, 19 Oct 2026 10:10:42 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Namuga has secured a camera module deal to supply humanoid robot makers, betting on the near-term commercial demand for physical AI systems.",
+    "companies": [
+      "Namuga"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "components",
+      "camera module"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmV0Q1pTMkVCVkpUVy1pVmx4SzU1ci00WS0yak9xaENJNWVfcW5pcmtHM3B1Q2Qxa3V0T1A5TXNtaWNDalVENGdiQ29YRGJKYTFoa1pUbUdSOFFCbExqNmJIUTAwQzNLcHZ4Z21PSEtsb1BJdDZHM2Rha044OHdEdldsUmtXRHpDZDRsSmU2OEZiY0tRYUpkTURQekU2TThlaC0wT3VtS3dFSWQ5aGlFU09R?oc=5",
+    "title": "Robot company bets touch, sound can give bots an edge over vision AI",
+    "source": "TechTarget",
+    "published": "Mon, 19 Oct 2026 19:04:53 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A robotics company argues that tactile and auditory sensing could offer advantages over vision-based AI systems in embodied robots.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "tactile sensing",
+      "multimodal perception",
+      "robot sensing"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd0U0bEVJWksyeEFmbmNPak1Yd2pjUjVVRmV1TzFjejExSXVURVhqSktuZXFiZHVNZlh6U1RYSHVDRkc4UHdJQ2dGZlpaUzkyVGxIaU10Sy1ZaTctM296dmtxZVdQSHZwdDVjdG1nQWppNzZLdjF4YnA4UjMwOXY0YWg4LVM1RjZEWWM2UzNWTFNkVW1mWlJhODVod2x6dlp6UFZTdEZZbDlhN3FwNlVwN3M4cjg1TjVJMElCRHQxZ1dZN0ZNVUxMd0dLaDIwYTlzYVdkaHQtV2hmT2tLeFZsSg?oc=5",
+    "title": "NOVARC TO SHOWCASE PHYSICAL AI ON ROBOTIC WELDING SOLUTIONS AT FABTECH 2026",
+    "source": "GlobeNewswire",
+    "published": "Mon, 19 Oct 2026 13:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "NOVARC plans to demonstrate its physical AI welding robots at the FABTECH 2026 trade show.",
+    "companies": [
+      "NOVARC"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotic welding",
+      "manufacturing automation"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUIwUjFUdDNua29ET2NIcl9tZjVIY1RTcjdUOWREd25ybzNVcHozSDlFVFVyNWdhclZ1UWJxaEk0bXJBaUFBMWo3THNkaXQ0S2V6YmVSSDNfelUwTGxTUGhPVExzaUtHZm1fakN2Z3JFY2M0QkJ4Qng4Mzlla3ZBUU16allzMW9rVG9ZeVFvSmZ2cGZnVENha0JaVW1JYThtZkFJYUFfRXJfQWVUX003S0dJMGwwUGNkemY3Vw?oc=5",
+    "title": "Waymo's Robotaxi Ambitions Ripple Outward, From Chinese Factories to Midwestern City Halls",
+    "source": "New York Post",
+    "published": "Mon, 19 Oct 2026 10:30:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless taxi business is expanding on two fronts at once. The company has ordered thousands of Chinese-built vehicles to beef up its US fleet, a notable supply-chain pivot as it races to scale operations nationwide. Meanwhile, in St. Paul, city officials have commissioned a feasibility study on autonomous vehicles, explicitly pointing to Waymo's existing service as the template they'd consider following.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "fleet expansion",
+      "policy",
+      "municipal regulation"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUIwUjFUdDNua29ET2NIcl9tZjVIY1RTcjdUOWREd25ybzNVcHozSDlFVFVyNWdhclZ1UWJxaEk0bXJBaUFBMWo3THNkaXQ0S2V6YmVSSDNfelUwTGxTUGhPVExzaUtHZm1fakN2Z3JFY2M0QkJ4Qng4Mzlla3ZBUU16allzMW9rVG9ZeVFvSmZ2cGZnVENha0JaVW1JYThtZkFJYUFfRXJfQWVUX003S0dJMGwwUGNkemY3Vw?oc=5",
+        "title": "Waymo's Robotaxi Ambitions Ripple Outward, From Chinese Factories to Midwestern City Halls",
+        "source": "New York Post"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93ekt4TWhtU3VSNWxiU00zZlJFZzdlZkw5czkycVE1Nko2eWtuandFWm01ZUp3aTN0YnJQb2pQYzBxaUVBS3A4S1VLdDlDR3preEd0Q0huc21YZThxdzFBcTJPeUhrdzZwYWlmLXM1MExrVjZWUlpDblVLdEs?oc=5",
+        "title": "St. Paul seeks study of autonomous vehicles like Waymo",
+        "source": "Pioneer Press"
+      }
+    ],
+    "body": "<p>Waymo's driverless taxis have spent the past few years proving themselves in the controlled chaos of San Francisco, Phoenix and Los Angeles. Now the company is making moves that reveal just how fast it intends to grow, and in which directions. On the supply side, Waymo has placed an order for thousands of Chinese-built vehicles to pad out its US fleet, a procurement decision that doubles as a statement about where the automotive hardware for robotaxis can actually be built at scale. On the demand side, nearly 1,500 miles away in St. Paul, Minnesota, city officials have commissioned a feasibility study on autonomous vehicles — and they're citing Waymo's existing service, explicitly, as the model they'd consider adopting.</p>\n\n<p>The two stories are not really separate. They're the front and back ends of the same expansion machine. Waymo cannot put more cars on the street in Minneapolis or Miami or wherever comes next without first solving a more mundane problem: where do the cars themselves come from. Tesla builds its own. Cruise, before it collapsed, leaned on GM's Bolt-based platform. Waymo, lacking a legacy Detroit parent, has always had to shop around, retrofitting vehicles from Jaguar and, more recently, Hyundai with its sensor suites. Turning to Chinese manufacturers for volume is a pragmatic bet that the cheapest, fastest path to thousands of additional vehicles runs through factories that already know how to build cars at the scale Waymo needs.</p>\n\n<p>That bet carries risk beyond the balance sheet. American politicians have spent the last several years building a wall of tariffs and restrictions around Chinese-made vehicles and components, worried about both economic competition and, more pointedly, data security — a self-driving car is, after all, a rolling sensor platform. A company whose entire business model depends on public trust and regulatory goodwill is now exposing itself to exactly the kind of scrutiny that has sunk Chinese EV ambitions in the US market. Waymo is gambling that scale wins the argument before politics does.</p>\n\n<p>Meanwhile, in St. Paul, the conversation is less about where the cars come from than whether they should be allowed to drive at all. A feasibility study is a modest bureaucratic gesture — not a contract, not a pilot, just a city asking consultants to tell it what it already suspects. But the fact that officials are reaching for Waymo by name, rather than speaking generically about \"autonomous vehicle technology,\" says something about how thoroughly the company has become the default reference point for this entire category. Five years ago, robotaxis were a Silicon Valley curiosity. Now they're a line item that mid-sized Midwestern city councils feel obligated to study, the way they might once have studied bike lanes or streetcars.</p>\n\n<p>Together, the two developments trace the shape of an industry maturing in real time: a company wiring itself into a global, occasionally fraught supply chain while simultaneously becoming shorthand for an entire mode of transportation in the minds of local officials who've never seen one of its cars in person.</p>",
+    "slug": "waymo-s-robotaxi-ambitions-ripple-outward-from-chinese-facto-e659c8"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmM1bkNtNGFOUWNvcDBZYjRTQmI2Qk55SHBVLWtIT0NyWXp4VEJnNE9HSENhRi0zNEU4ejY5b29TVnh3RXFvWkxleW9kYzdiSlN5UWdGQlpLTzlZYTFTNk9JUm8ya0xhNkVUUjRoREtoVVVUeEV2OFdsQTFWTE91dHVudk9QQURBS283ODgzOXpORXF1ckh6REQ2TUZJZlR6Sk5rbXl6MHh2Xzk0dmc5M1VqV01BYms?oc=5",
+    "title": "Self-driving cars take on Paris’ chaotic Arc de Triomphe roundabout",
+    "source": "Los Angeles Times",
+    "published": "Mon, 19 Oct 2026 15:16:12 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A test of autonomous vehicles navigating Paris's notoriously anarchic Arc de Triomphe roundabout serves as a real-world stress test for self-driving software, though the article provides no details on which company conducted the trial or what results it produced.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "urban navigation"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSm5xdlZtbXc5S2I5NGc1d09XN21RRmhTcWpWUnQwQ3ROMURBVW5NdkthbmVCdEdHbTRBMmRnaENJU3dPVnNjSmFfamRSZFpJbWlJM0diZG9icUxxWDZlX1NmYi13al9tbnlVaGFIRC1EcW9vTjlWQTMtVGNhMkV4Z29Vd1B0cmNxUG9ZcHhhRXM3LTl5WEYzVGp4Qko4WmRfd3EzbnZKZ1VGc1duSUxZWFQ1VHNMQQ?oc=5",
+    "title": "Self-Driving Big Rigs Rack Up Miles, Just Don’t Tell Them to Back Up…Yet",
+    "source": "WSJ",
+    "published": "Mon, 19 Oct 2026 11:02:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Autonomous truck operators are logging significant highway miles but still struggle with low-speed maneuvers like backing up, revealing a gap between long-haul capability and real-world deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "self-driving",
+      "limitations"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdjU2Z01ZMmcxNnFncU5YcC1wbVVkMHJZeF9ISmUtcm1UYXAxQUtZamV0M1BSRjNSX1l2cDdMTk1WcXFsaHI1ZGx0YnVmZUMzcXRhX1FZWEFCNWEyZEdCQXl5bGFud1hqY0o3WURSNnU5VHJYT29WbXdVV0lWa0F4T3IzaW85ejctd2VUd05nS3BEb3VmNmREX0ZPY2ZXX2VZM3pVdERsVUgwOEVIWThja3QxQXFpMDdTWWU5RWdhMVBoZ0E?oc=5",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "source": "TechCrunch",
+    "published": "Mon, 19 Oct 2026 12:30:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Laplace Intelligence offers red-team testing services for autonomous vehicles and robots, positioning itself as a safety checkpoint before real-world deployment.",
+    "companies": [
+      "Laplace Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotics",
+      "safety testing",
+      "red-teaming"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEYTk4LUNIY0N1Ujh4ZndLeF9ZNldCNnRhNllPXzdad0YyRmZ6UHl3NjktTU4xeG1qMVdnbzZ0aE1WY01tNEwwUk5HVXhwTHVBZlIzSFVPQVE4cnM?oc=5",
+    "title": "Margate driverless vehicle trial on public road",
+    "source": "BBC",
+    "published": "Mon, 19 Oct 2026 15:24:51 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Margate begins a driverless vehicle trial on public roads, marking a step toward real-world autonomous deployment in the UK.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public road trial"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTZhcUEtWnMtRXhobnQtaUs2OGNObkdDQkVNZ2I4ZWVqVWd1ZjE2Z054d3ItMnc5NWdELWtLVWl0ZmliRUhxMUpnWGxnV1pKUU1pYzZIUjNLc3VvQ2l4TEJ5akY3Qk5IZkw0WjF1R0ZRa09ETHRsM1V5RzRDLXRzOGt6dVZVdkhFQ2lXZ3B3dUxHd19HSDY2QjFhM2VGVW5OSUZ2T2M5QzYtREFSVUd0SHhlV2N5eHhtcjNJSElXUUE?oc=5",
+    "title": "Waymo Expands To Toronto. Will They Use The Ojai? Robotaxis In Canada",
+    "source": "Forbes",
+    "published": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its robotaxi service to Toronto, marking its first deployment in Canada.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWNPTXFLNUFXYUNEZ1pvWWlQRW5oWGxoSkZ6cm44NjUxaTRTWklvOEp0V1ZPdC03VFZOVVZ3OGJ3TnFoY1NMZVJfR05xMlVNSEJ0aG5kUEdhcHVlbEtCZWNSenJQUHhlVW9oWHZwQ3VrbkkyVHRpTUEtWXUyWi1pYzZnYXg?oc=5",
+    "title": "Cities want to put the boot on robotaxis",
+    "source": "The Verge",
+    "published": "Sun, 18 Oct 2026 12:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Cities are moving to restrict robotaxi operations as permit challenges and neighborhood opposition mount against autonomous vehicle deployments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVpkM21UQmhGQTd1N3dPTHRtQ01OTHF0S1k4RmpfaVFZenFiNDZ2RWczNjlTcnZtVlg4M0x2Q1RSQVJIVldkNVotMEtlOEZCb3oya2xlZ3N5cjRlNVc0aXYxbDZjdldQTnF0cHZ6ZGVTWVdHeVpXTFNocktBeHdNdTlUZ244VXQxWng4ejQzUHlENlN5MWFSd3JSREE2R1QxZ1FUZ0pueUZad3c?oc=5",
+    "title": "Waymo Bill Moves Forward in D.C. After Likely Next Mayor Calls for Delay",
+    "source": "Electric Vehicles",
+    "published": "Mon, 19 Oct 2026 10:51:56 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's bid for expanded autonomous vehicle operations in Washington, D.C. advances despite incoming Mayor Muriel Bowser's call for a delay.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Muriel Bowser"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVm1GNF9LTEsta0lUbDFfa2lZMTRRZnQ1endqdHpIVmNhYVdReEEzMzFFNmh2cW1ETjNjb0ZtRkI0c3ByZVh0anA2dFZhZV9Pb2FOdDZ4WmpYbUdJRFNXX0JmMmt4cU93MVJvZUJULUV3OUJPU0J2ZUpoOThyUTd5eERBX3RYb3BISFVtVmk2OXNLZlJtQ3pfR0VQamFDamprVjNaTHFMQVlIT2VfNVJfN0RjYVVqczdFQmUzcFZrdmZ4SnA1cFpTMl9NMDdZY2hnUElJZXJRSUtObHI3OWZSZjFMZmFfaVJMNEtTM3N6U1c?oc=5",
+    "title": "Waymo Is Bringing Robotaxis To Canada In 2028 - Amazon.com (NASDAQ:AMZN), Tesla (NASDAQ:TSLA)",
+    "source": "Benzinga",
+    "published": "Mon, 19 Oct 2026 16:50:46 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo plans to launch robotaxi service in Canada by 2028, expanding beyond its U.S. operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHJQR1daM1pmNmxXeTE1ckZGb3laS3doN3FESmRXUGlXeUEzeXI2TEFPQjJtdjZhRGVjdmNlY0VnRy1teDdQOURubjRFN3lkNWFrOUhCemN0dDlHaDlHcWNaaURnb2xJRE9STS13Q0hubS02V1RfdVZwYXI3Z0JjaTFUbDRrRkxzVmxFR1JMMEV0NV8tckJFSW5iSFc?oc=5",
+    "title": "Tesla’s Full Self-Driving Faces an Aggressive Driver in a Crown Victoria, and the Results Are Surprising",
+    "source": "Yahoo Autos",
+    "published": "Mon, 19 Oct 2026 14:22:23 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla's Full Self-Driving flunks a stress test against an aggressive Crown Victoria driver, revealing gaps in edge-case handling.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "self-driving",
+      "autonomous vehicles",
+      "safety testing"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93ekt4TWhtU3VSNWxiU00zZlJFZzdlZkw5czkycVE1Nko2eWtuandFWm01ZUp3aTN0YnJQb2pQYzBxaUVBS3A4S1VLdDlDR3preEd0Q0huc21YZThxdzFBcTJPeUhrdzZwYWlmLXM1MExrVjZWUlpDblVLdEs?oc=5",
+    "title": "St. Paul seeks study of autonomous vehicles like Waymo",
+    "source": "Pioneer Press",
+    "published": "Mon, 19 Oct 2026 16:57:43 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "St. Paul orders a feasibility study on autonomous vehicles, citing Waymo's operations as a potential model.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "policy",
+      "municipal regulation"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
     "duplicate": false,
     "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ19oblNJdHlHR3BOdFhvV3BWSHB1MEdHM3VQMmgtdGJNQklPNnRDZ05ZUWN0cWJVdXNtQ3VhWjlEZVFiRUJla1h5WE1mRjBSbEFGQjZpcExvMHZZd2g0S1dKdTZmNFByMlA2ZDZ3NC1lSWoyb2JOd0daTlNaRHZvR0IxQ3Vrcmo4T3BoRVZYYndwTzN4Q1E?oc=5",
+    "title": "Santa Monica Moves Forward with Zoox Robotaxi Parking Agreement",
+    "source": "Santa Monica Daily Press",
+    "published": "Mon, 19 Oct 2026 10:01:27 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Santa Monica approved a parking agreement with Amazon-owned Zoox, clearing the way for robotaxi operations in the coastal city.",
+    "companies": [
+      "Zoox",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "deployment"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWVlVZkVDZ3VFWVduSGFBaXFtNmZWVWgwY1k1VDJiM19jMWxVcE5jUjF0ZmR1MUhCcXJKYU4tSXl6eUt5YzYtY0p2TUxQQkoyNkY5SVBwS3FBZnB3TTVRYWlSaFA0bWxoQmR5RGY0ckhHUGdLNXEybDZUNVplM29rWHZpMGpJN1hNMmRFc0ZNR0pwZ1hBUFBlbDNMZw?oc=5",
+    "title": "DOW expands autonomous warfare efforts as Huntsville drone industry grows",
+    "source": "256 Today",
+    "published": "Mon, 19 Oct 2026 12:00:53 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "DOW is expanding its autonomous warfare capabilities as Huntsville's drone sector accelerates.",
+    "companies": [
+      "DOW"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "warfare",
+      "drones",
+      "military"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4UHBZaTVXc296ZUt4dFlSLXd3RDZUOUJxbnFHYmFrbE5OSEpTLTA4aGdLc0c4Yno1bjBLc2tkR0xHd3V0WURIajlmTTJiYUdaVC1ybXFfZjJVT3lhOHI4SmlpTE1IUjJU?oc=5",
+    "title": "UAE defense group EDGE increases investment in Israeli drone software company",
+    "source": "CTech",
+    "published": "Mon, 19 Oct 2026 14:12:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "UAE defense contractor EDGE deepens its stake in an Israeli drone software firm, betting on autonomous capabilities across borders.",
+    "companies": [
+      "EDGE",
+      "Israeli drone software company"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "software",
+      "defense",
+      "autonomous systems",
+      "geopolitical investment"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVE1xTGxjWGdkUVB2NDBfWEM1T1R0N2pZSkxJRTRhRzFIZ0NpdkNtc2NFMkR5VnpyWU1Hai02RkVWNWY0SGxra0Y3X2lNRFlTREphSVNOWkJSbUFXeFEyYlBoX3pIVmJsdkZHbnJoenRtTE1oYjRiU3pUZnd0eDRMOFhNQVBsVzc5aVR2YnVn?oc=5",
+    "title": "Ukraine's Fourth Law: Jamming Fails Once a Drone Picks Its Own Target",
+    "source": "DroneXL",
+    "published": "Mon, 19 Oct 2026 12:08:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Ukrainian military analysts articulate an emerging operational principle: once a drone has autonomously selected its target, jamming countermeasures become ineffective—a hard lesson from the battlefield.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous targeting",
+      "military drones",
+      "electronic warfare",
+      "Ukraine"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xUXRXdWFEV2E4TExTc3lEVkhqOG9xVUJWMDNNbWpVWDhtcC1aUy1LeVNWbUEzb19WeWdvYTB6QnFyQzlxUmxoSFdFbndyVDVfQl9zYWZkbFUxRzVtY1cxdUtzS3NPZw?oc=5",
+    "title": "The Emerging Need to Protect Critical Infrastructure and VIPs from Weaponized AI Drone Threats",
+    "source": "The Soufan Center",
+    "published": "Mon, 19 Oct 2026 04:04:24 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The Soufan Center outlines the growing security imperative to defend infrastructure and high-value targets against autonomous weaponized drones.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "security",
+      "critical infrastructure",
+      "AI"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0lhbVNHZm9GWVJRWDJoY2JjYWRFUWdiN1IyNnlzQ2gyZDJ3Z1Jqa0xxbk93ejhyNGJmUktEYzJ0bkdiRjM1c2RBRjM3aFBvbFlseVhuZHV3Q253czdhdWpFYy1pcWRxTTdDNUJ0bzNMaTVpRmJhYk9GVXpUWFNXS3Vpc9IBiAFBVV95cUxOdFQ1N21SWEUxZDVXSlM4WjU4OVFaS0JKa3FRbHJ3ZjNHMjZja0pvaDdNc1pFWDR5Mm1pcThQUUZTTkgxRVh5Nk4zbmplVEsxd1poVXNxVFBSa2x0MzE3TGpIM1ZFVFpOUnQ5MlRiSWs4MHY4UEg0WGFhTGxuSXh6QlROS2hjMnpN?oc=5",
+    "title": "ZenaTech’s New Autonomous Interceptor Bound for Maiden Flight in 2027",
+    "source": "The Defense Post",
+    "published": "Mon, 19 Oct 2026 12:44:17 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech plans to fly its autonomous interceptor drone for the first time in 2027, targeting the military market.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "military",
+      "interceptor"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xZHVHT21yTEhxZ2tQWFA4LVdETk9Mb0pBY01pM1VSUHhxZjhlOHlxb3FZaGlOVU16ZTVCY0RzVDVadTczSmNWb1pKQ1lxVElhLTR2UTlaNDlQd1Z5LWFJUjhB?oc=5",
+    "title": "Israeli drone software firm High Lander reaches $30 million in funding, eyes US defense market",
+    "source": "Ynetnews",
+    "published": "Mon, 19 Oct 2026 13:17:40 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "High Lander, an Israeli drone software company, raised $30 million and is positioning itself for the U.S. defense market.",
+    "companies": [
+      "High Lander"
+    ],
+    "people": [],
+    "themes": [
+      "drone software",
+      "defense",
+      "funding"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmlBeU9XR2NJZUViTzZsWVNWZ0pMa05KMmZwSDcxRGlmblh3YTZud0N5d21BakVOWWV2cGpPMUQwUDVYaDVVLVFoUmdJcWx1V3hJdWJ0Yl8zeVBsRk1EeVdIbjhYODJyV3czLXUwZGwtZFZBLV83VWowR3Y5UnFwTWpYX1pxeUZwNkdoeHlrNzl2RXNpSHB3SW9wQlJ6dDZNaDVacTdyLWV1X0JjLVlmMVk1aFZZaGxoTVBKODFyNkppZw?oc=5",
+    "title": "An F-22 pilot flew the Fury drone from the cockpit for the first time - AERONAUT.media",
+    "source": "Root-Nation.com",
+    "published": "Mon, 19 Oct 2026 16:29:45 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An F-22 pilot successfully operated the Fury drone from inside a fighter-jet cockpit, marking the first crewed remote operation of the system.",
+    "companies": [
+      "AERONAUT"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "military",
+      "remote operation",
+      "fighter jet integration"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXRlNExsTkQyMG53eENDZEZpRXBvZWFMXzlDQVV4T1JjcGM0UFVLSUpYNG14QXNhc0h6bFVjTzFfSmlESUNLb05jWUU3VFk0Y3dNLVZ3eGw2bjJOa3FaOFZNZzl2V0dEbmljdS1vVnFiSW1GZlcyb1ZJRTdWb1U5QlhZZm9pZ3ZnRUREeg?oc=5",
+    "title": "One pilot, two aircraft: F-22 Raptor directs autonomous combat drone in glimpse of future air warfare",
+    "source": "TechSpot",
+    "published": "Mon, 19 Oct 2026 11:15:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "The U.S. Air Force demonstrated a single F-22 pilot directing an autonomous combat drone in coordinated flight, signaling a shift toward human-supervised autonomous warfare.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "military drones",
+      "human-machine teaming",
+      "combat autonomy"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seWhTa2FtSGFJN3BPVFBuZzlyTlRpc1J1MHVKcnFETEJsTEI0OXMxeGR1bUZKazJOYjdNbHFTb3NTTHJSMjJKNWEtaU9FSmZ1ZE9PRXJWdjN3SEIz?oc=5",
+    "title": "The science behind the world’s fastest autonomous racing drone",
+    "source": "EurekAlert!",
+    "published": "Wed, 14 Oct 2026 18:33:45 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers publish technical findings on the autonomous racing drone that holds the speed record, exploring the aerodynamics and control systems that enabled its performance.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone racing",
+      "robotics research"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1pKRjg2bXNNczFxNXF3Y0xDYTF1YjBRdWYtODFYNm5tUEtCQWhKYUVJWFBzdGN6OFA3YjFYX0xPLXVuZGNvWWZxTDlMbW1BUldubGxINk9RRXJMWllnNU1CbTQxcVdpZW52MjhfVUJ2TUZoSGRNMm1BM2tnOWtCM3FTcU1aNGVkUGRPczdSTHZGNG9rbXRYUVVCb1F2TnNLVkI3Z0o2cDhnQXBqdlE5azlTWk9ONWtDb0l3V000RWdXeWM?oc=5",
+    "title": "Brain stimulation plus brain-computer interface shows no clear extra benefit for stroke arm recovery",
+    "source": "Bioengineer.org",
+    "published": "Mon, 19 Oct 2026 12:56:21 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A clinical trial found that combining brain stimulation with a brain-computer interface offered no additional benefit over the interface alone for stroke patients recovering arm function.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "stroke recovery",
+      "neurorehabilitation",
+      "brain stimulation"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Na1hGR0l6ZGhNZEFnR1dLaGgxMWk2TWNjM3hBX1M5NTdSVVM1aTR0c2NzQ0w1Mlc2RHJFcm91WUlPdjB5V2JrUkEzdWVjeTBvcUhtVDdTX2ZDYS1BT09PbmpDaExTVTQ5NzF0WA?oc=5",
+    "title": "Neuralink is becoming as much a part of patients' daily routine as getting out of bed. For people living with ALS, that means being able to control a computer through their thoughts throughout the day. Think about being able to send a message, browse the inter",
+    "source": "X",
+    "published": "Mon, 19 Oct 2026 07:30:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's implant is enabling ALS patients to control computers and send messages through thought alone, moving the brain-computer interface from laboratory to daily use.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "neural implant",
+      "assistive technology"
+    ],
+    "first_seen": "2026-10-19T20:19:50",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
     "sources": [],
     "body": "",
     "slug": ""
