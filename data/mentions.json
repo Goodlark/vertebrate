@@ -84231,7 +84231,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84629,7 +84629,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84788,7 +84788,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84814,7 +84814,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -84968,7 +84968,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -84994,7 +84994,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -85151,7 +85151,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -85383,7 +85383,7 @@
     "first_seen": "2026-10-14T19:08:54",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86110,7 +86110,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -88448,7 +88448,7 @@
     "first_seen": "2026-10-17T17:43:40",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89738,7 +89738,7 @@
     "first_seen": "2026-10-19T20:19:50",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -90493,7 +90493,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -91484,7 +91484,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -91518,5 +91518,1128 @@
     "sources": [],
     "body": "",
     "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSWlrTXdiY0hPLXRzcTlxMWNtdDhWa3h1Q1o1MXA5eV9wRXhXMEFKTUFDdTdwdzlnSHRGT1o5RC15ME5LSGVxbWRoTDVHYTlmLVdVaFF0alhTakVCUWF1cTVrSlRuXzJ4bF9HM25MdEVnTTZMZER1UmNKOFBvYkhOcTRuSVFlN3dMUVRxaDJoWW8tT3NVNWVfQVc0TnRpT0EwOTk3OVowWGg5clQ3QV9BMGl5VVY2elVtc19QY1RrazE1aG56S2NCbFhGU2lnWjNydmlmOFZPX21FR3VqNVAzcEwwOVBnM2lEMGphckZSSVY5RVNnWHc?oc=5",
+    "title": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+    "source": "NVIDIA Newsroom",
+    "published": "Wed, 21 Oct 2026 10:28:59 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NVIDIA introduced a reference humanoid robot and expanded its Isaac platform with new simulation tools and frameworks designed to accelerate general-purpose robotics development.",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "simulation",
+      "reference design"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
+    "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
+    "source": "Reuters",
+    "published": "Wed, 21 Oct 2026 16:56:09 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Jensen Huang, Nvidia's CEO, promoted European AI development at an event that included robot ducks as visual spectacle.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "Europe"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5",
+    "title": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin",
+    "source": "Yahoo Finance",
+    "published": "Wed, 21 Oct 2026 11:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Nvidia unveiled a safety platform for autonomous AI agents and released new tools for humanoid robot design at GTC Berlin.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid robots",
+      "AI safety",
+      "autonomous agents"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlA5N1ZHREhSSFRwUlBYQjFzQndYcDRockIzWldXRVVDUDB1UUpyN3pTTDRyTDhXcENBWnJtbzU1OTZpYUpTQmNwREY3Q2U3TmdSVzRLanNKXy12RWZHUUJZRXBpVWloaC1sWkc4WVN3NUtWNDQ0dWlJandVOFlLUFJTbk9GLWp2M2JLc1VDVURLU2tvb3ZJa1k2MmlxSjZHOWZ1MTRkMWMteHRDZnQ4LW5kYlpTSmFQ?oc=5",
+    "title": "Humanoid Robots Head To Kansas To Build Farm Equipment For AGCO",
+    "source": "Forbes",
+    "published": "Wed, 21 Oct 2026 17:50:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AGCO is deploying humanoid robots in Kansas to manufacture agricultural equipment, accelerating physical AI's arrival on the factory floor.",
+    "companies": [
+      "AGCO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "agriculture"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWi1vemIzNXVIcHpKUHZ2RWtQTVFoNEZPeGQzMkxiN2lqVG1MSTYwaDNNbXpERmdCU1QwZEJRamFrMHA4SVV0WkpXVTZSLWxpTXp3UHc3cUVzcFBucldfSlhqQmlnOXYxNmNnNkQzTUQ3LURJNEh6SE40UzRGNllIa0NYM29GRkUzWkdrWmZoeVJrUUp5azEyZHFCZnVwN3ZGUXFQeXVDcFk?oc=5",
+    "title": "AGCO rolling out humanoid robots at manufacturing facility",
+    "source": "Michigan Farm News",
+    "published": "Wed, 21 Oct 2026 17:42:04 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AGCO is deploying humanoid robots on its manufacturing floor, making a concrete bet that androids can handle factory work.",
+    "companies": [
+      "AGCO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "factory automation"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUZCUzAwcG1Nb2lqQS1xSU5STGtfLWQ3bEVTSmliWWxsUzV0ZkxCekVTM05mXzV0ZDFSa013a2xpN2VEYndPZUNORTkyNHZZUzVFZFM2cmVRNzdEaE1kM2NrMDlQc1hYM0Z1X2NXWFFiS0F1SUEtOFZIUlRvM3hGRE0wemY1YlFUQnJ0Mk1wT0E?oc=5",
+    "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+    "source": "The Robot Report",
+    "published": "Wed, 21 Oct 2026 13:22:16 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AGCO will deploy Agility Robotics' Digit humanoid at its Kansas manufacturing facility to handle repetitive warehouse tasks.",
+    "companies": [
+      "AGCO",
+      "Agility Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "warehouse automation"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWlaU1Q0c0hkd0xLYzlKRHJDdm0xWkZIVmROOUJ4STJlNFJFUVV5ZmlGd3NQdWFPRE9jcnRPZGM3YmhCaGlSLXpqRU5oZnJHaWhieDhKMUI0RDVjVkVGb0I0Q3NZR1pnQU9QeFFoMnNrSFZqYVFkUW8tbzRJSXN6TDZPbG9jTnpHdnQzQU82YVJwQkZnX1ZpaEM4R2tqMG4zS25MSU1LRy1JcGNrSjBVWDFmUGhCamlPWmNnMng2TlhZSjg?oc=5",
+    "title": "AGCO's Humanoid Robot Pilot Puts Factory Economics to the Test",
+    "source": "A3 Association for Advancing Automation",
+    "published": "Wed, 21 Oct 2026 10:01:41 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AGCO has deployed a humanoid robot pilot in its factory to test whether the economics of automation justify the investment.",
+    "companies": [
+      "AGCO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "factory automation",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZE9KRzNJVW44VVptaHY1T1BUY2V0R2Rpa0dfcHJDaFFwNHFNUVByWi1PZnVfS29qdC1QY1dUNFgwS05LZ1Z4d01CdTJZN21YalZFaVlmQjUzUXdhRkRRMWhjZ1ZhNkwxTTdXbUJweVZCNE40bXlZTmNnQ3hiZTNDMVpVLURjTzZBSWowNUNLWmkxT3UyOGRvUEpnbUNObmVRMnlLRUJUVURONVBIRlJKa1o1WnZfVkwyaTZqSENTVzFqRjlEYXJWTW44eXZ5WDMxeGhaRy1ZWnlLNTdtUzVORm5LVkpIdERpQWlwSE5PTm1GSlN5cVhlazFfS2VudVVNT19rWA?oc=5",
+    "title": "Unitree reveals its H2-X bodyguard robot — a 'Kung Fu' humanoid with an 8-hour battery life and some serious martial arts skills",
+    "source": "TechRadar",
+    "published": "Wed, 21 Oct 2026 12:22:16 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled the H2-X, a humanoid robot that performs martial arts moves and runs for eight hours on a single charge.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot launch"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNTVManIxeDlWLVZEV18yV1p4X3JvSktVSzFsYm1DcTZ4R2EydnQ4WGxITl84LXduTS1ub1B1bl9ZcmI4Uk5DLUM2VWxRSnBOc2h6dFhHaUIzVG5PT091aHhiRnh1Z0luUjQ5LW5oeVk5WHVkakpCSDl5Nko3THZNOVFvV0JuTzBrSm1zV1cyRmpwd0ZUbGdzbURhWXdSOFpmUmc?oc=5",
+    "title": "AGCO Tests Humanoid Robots for Smarter Manufacturing",
+    "source": "Farms.com",
+    "published": "Wed, 21 Oct 2026 16:47:23 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "AGCO is testing humanoid robots on its factory floor to automate assembly and quality-control tasks in agricultural equipment manufacturing.",
+    "companies": [
+      "AGCO"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "automation"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR1VuSG5fN1FzVjh2WEVwS3pCM2M2ZWNqam40dXAyTEJ5S0l1cUZTU2pwR2NaclhPMDBucXMyeHpJTk9hYVJNdF9LSVBUUG9tR0JUblRWUVNLSnZBcUlRR3hxOEw1R3owY1N4TC1LcnRDVmhOcEtodEdlZGRoTjhiWTRsemJ0VXJUN3VnTXR1UjRjLTlPQnBJdG5TM3NmUGdqeEEzZU1rVm5ZVG1yU2oteXRHeHB0NURMSDlZM0FZaGdZYktPTHMwUi1XTXIzN1YxUzJ4SUNmaWZOdw?oc=5",
+    "title": "Daimon Robotics Participates in Drafting 6 National Standards for Humanoid Robots",
+    "source": "Gasgoo",
+    "published": "Wed, 21 Oct 2026 07:21:11 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Daimon Robotics is helping draft six national standards for humanoid robots, positioning itself as a voice in the emerging industry consensus on safety and design.",
+    "companies": [
+      "Daimon Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "standards",
+      "regulation"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXcyZHM3RTRvS3ctTGVNUWNYRk5Gb1Y5ekRVWTdIMmgtYUJwNmFDblZzMHZmOUU2T0N4R1ZHc05vRFlQZVVGUlg3cklER2NtZXJMdEpIblJjLVV4d2JvbHZ1M3Q0cGFtendfaGZQQmdiSmRMY2hrUlBNWXJmMkZRVFp5NnBlLUg1UjNRWGNyaw?oc=5",
+    "title": "Video: New humanoid home robot promises to find lost items and tidy messy rooms",
+    "source": "Interesting Engineering",
+    "published": "Wed, 21 Oct 2026 12:24:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A humanoid home robot concept promises to find lost items and tidy rooms, though the video demonstrates claims rather than real-world performance.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "home robot",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGWldhQ0JEYk8zNVpMRHVROW91OXRHUlpsMUpXZjA1cFEzUFNUdXBiMlc0cUFhUUNBYkI5WWFyTFVGWlZOTHl2QVl2ZGpadXRncmVCRTVKdmNjYjdjamZKWQ?oc=5",
+    "title": "Nebius Physical AI Workbench brings agentic workflows to robotics teams",
+    "source": "Nebius",
+    "published": "Wed, 21 Oct 2026 11:41:14 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Nebius released Physical AI Workbench, a software platform designed to help robotics teams build and deploy agentic workflows.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "agentic workflows",
+      "robotics",
+      "software platform"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU2V3WXRDTXFONHM3YzFvR1pEMjVSeUlyUDBCdjlWekZGZFBLYnphbi13cjdSbW9WcWMySXRpT0NLUjktU0x6S0xRaWRnMFlZdVJldnl0VjNnWVlWa01XenN3Y3pKT2lhaURwR204ZFdPRjItU1llTGp0cWFGVlAyRkowVnlEWkdRdUJYWTNUMFFtSzRuWVZQekY5RmlnQVYzaElkd3BFQ2tmYjNVSUhPc21BUndYRXlYaXJqNW9BRzM0eHlxSGc?oc=5",
+    "title": "Mitsubishi Electric Develops Physical AI System Linking Humanoid Robots With CNC Machines",
+    "source": "AI Insider",
+    "published": "Wed, 21 Oct 2026 11:51:22 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Mitsubishi Electric has built a physical AI system that lets humanoid robots operate CNC machines, marrying industrial automation with embodied AI.",
+    "companies": [
+      "Mitsubishi Electric"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "industrial automation",
+      "robotics"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmpRYmxFSERNZU1TcEZueVRpOUx6SE0xanR5TzRsMVVEQWY4aFJQTy1feGxiOHg1XzZKR3dSZVdkWTlNaUlsdzZZSTI1WURVTml1MUZrVUUzM3FhaGxQLWEwYUtMRWtLcmNfek4zc25jUGVxQzFQUUJidXltQmUzMGt2NWV4YmFqemptVU1NVlZGMHJjSUtMVXBoaDJyb2VMc0hTcVExOGR3RENRVDRXaGdJUFpNNUlKa1hBN0I3SEZQdkxCSi14V0JOdFA?oc=5",
+    "title": "Chery's AiMOGA opens global pre-orders for MOBO home companion humanoid",
+    "source": "Gasgoo",
+    "published": "Wed, 21 Oct 2026 11:32:57 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chery's AiMOGA has opened global pre-orders for MOBO, a home companion humanoid robot designed for domestic tasks.",
+    "companies": [
+      "Chery",
+      "AiMOGA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "home robotics",
+      "companion robot"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQek9OT004UDZNbXNmaWVucVFiYkd4akhhY0FFVXpiS2ZwbEgxX25qaWtpTFZfNzZRSVdDdm4yT1N0Q0xvXzRhZHFFMnN2THBTV3Z2b2NLOWkyYjJKX3BPT3FhZ29oTnR6VXQwS2VoQjN1Sm9ER3ZGVW5NWFhaUmczTTVCY3lQNDhPWjBVclhHR0k2NVYzQlo2RXNnaFZYeXBk?oc=5",
+    "title": "Peraso Demonstrates 60 GHz Wireless Connectivity for Humanoid Robots",
+    "source": "Yahoo Finance",
+    "published": "Wed, 21 Oct 2026 13:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Peraso has demonstrated 60 GHz wireless connectivity designed to enable faster data transmission for humanoid robots.",
+    "companies": [
+      "Peraso"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "wireless connectivity",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGJVNHZWcFp1b0U5bk9CYktzTFQ0dWtxU0lGaW0zVGVpeGVsazdKeTMwLV9LT0FhRTQxWFhyUHB5N3M2dnloekE0UThjb2dINVQyb1B5WEdhTFNidElPdnNWZ1RWSy1IeGxzYS14M3BCZFBuNmxTSFVFdW9TdUxMY3VsbzNNQ1VHdGdPaWVKOVBJNm5IQWk3YmxwTUNhNlJEUmlaMkQxYlp5b01hM0cxMjVmaHR6R3dQa05r?oc=5",
+    "title": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion",
+    "source": "NVIDIA Newsroom",
+    "published": "Wed, 21 Oct 2026 10:23:51 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "NVIDIA publishes a promotional overview of European automakers and robotaxi operators building on its Hyperion platform.",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeTY5TWYzTF9lNlExZC1ScWdHR2MwZHlOZ3BwRnJNR3VISW9DUFpqRWZFTjRJMWJSeEZXMk1KeEp2QnVudWVIRWVONFE2cTUyMTU4NTducVUtLUFEeXNuYzhLNXVIX1VnM08yYTlac1JvUzZmZTNrbEpGbkNiUHlmU004UFpwcWJKVkJHYXBhaGE?oc=5",
+    "title": "Waymo starts offering rides at the Las Vegas airport",
+    "source": "TechCrunch",
+    "published": "Wed, 21 Oct 2026 16:59:44 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo has launched driverless taxi service at Harry Reid International Airport in Las Vegas, expanding its commercial robotaxi footprint beyond San Francisco and Phoenix.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "deployment"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hUTExcUVTcXVzMlM5M0JjV3lsLXZqV2IxUHFLZEstWHZXMWJmTnhJak5wX1FER2h0OWR4UnVUVzhXaFFGRzE5TjVib2I2aDQtNm1GelMwUEYtTzNUZE1ucQ?oc=5",
+    "title": "I took a Waymo ride. Here's why I'm hooked",
+    "source": "New Jersey 101.5",
+    "published": "Wed, 21 Oct 2026 15:58:05 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A New Jersey 101.5 listener recounts a personal ride experience with Waymo's driverless service and explains what impressed them.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0RvZTY3MzlmY3VaSE9CTGVlUWZLZWlBYzU5a29qVlpCZE1YbFozWUxabjNRYmx1TEV4WHZ5d2dVYjBvenQ4TnVobjlfN2NGdHZJQXFRUHVQTHJsUm9RTEktOGgzVzJaRVNJT1E1bTRpVXJCMGhxVHRCdnhqcmVYYjdBMVZOVlNsUUU4V3hGeWtHWk1fWU5tUE1NbzB3VWc2cUhxYWJSRQ?oc=5",
+    "title": "Tesla Cybercab hits pothole in Austin, raising questions about sensors",
+    "source": "Austin American-Statesman",
+    "published": "Wed, 21 Oct 2026 10:10:55 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Cybercab struck a pothole in Austin, exposing sensor limitations in detecting road hazards during autonomous operation.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "sensor technology",
+      "safety"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEFIVWxsdm9QSkVrWDY4UTgzc3RXRUE5YWZTVmRkaWlzZHR2THozNnA0Rkx6dWp2QndzaXdoMllsM0V4WDZEZW9XZUVKVnFicHp5eEhEbkNNNXVvZFlJZW5hVjhMcklwY0tnWHhsTWx2amd6V2RZSGY2RmVGNFpJVnRIcG1jQ2ZEYWZNd0xfeTRmRGhRSkN5WWpoQjhqM00tenZ3U3VvUXdmTUhpTVNvUVZXWUQ4aW9yVlFvWHNmdXpKeEk?oc=5",
+    "title": "Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks",
+    "source": "Reuters",
+    "published": "Wed, 21 Oct 2026 10:57:43 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Einride is deploying Nvidia's reasoning AI model in its autonomous truck fleet, expanding a partnership to handle real-world driving decisions.",
+    "companies": [
+      "Einride",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "AI reasoning",
+      "self-driving"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2lMaTdGZ3U1aHhWeTRKNkJGM1hPdGxjYjRqX1M3YTdFUkZDOFg1eVZiUGJFbzN1T2prYldJdUxRenJfeHN2dU1pSUNoRHg5elNIY3dMWEJXd1NmNklwWVhmTUQxRmxJU0ttQklZekZHTTVJT1RkNzF5YzlKczBHbkRXZzF1XzVqSkdZUk92V3dDclROQjE1bGh3UWlqSlFNNzlka19JRmpOWGxlTHJ3MFQ0WWdRT0tsSnI4QTRDVldQWEwyUlAwS0tlVldBRE9sQ1E?oc=5",
+    "title": "Waymo now available for Las Vegas airport rides",
+    "source": "KSNV",
+    "published": "Wed, 21 Oct 2026 16:56:45 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is now picking up and dropping off passengers at Harry Reid International Airport in Las Vegas, expanding its paid robotaxi service beyond Phoenix and San Francisco.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "airport shuttle"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGpGbmVka0h0MG5Ga05zQjNfNklHV0xJV2syTm9DaVFjLVlyRjd3NlNPTVp5OXZIa3NuNGxCMmRQcGhkc0RaZ1JqTmwyT01lc1cycGx0eDRCTWtPd0Z4SFk2TF9HRjEzOGRHcHlVVURBVmlGMXRwaV8wVndFS3VPeklTbm9zdw?oc=5",
+    "title": "Nvidia Pushes Its Chips Into Europe's Robotaxi Future",
+    "source": "Electrek",
+    "published": "Wed, 21 Oct 2026 17:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "At a Paris event flanked by robot ducks, Jensen Huang made the case for Europe's AI ambitions while Nvidia unveiled its Hyperion platform as the backbone for a wave of European robotaxi and safe-vehicle development. The announcement landed alongside news that Lucid will put 25,000 Bolt vehicles on the road as robotaxis running Nvidia's self-driving software, underscoring how central the chipmaker has become to the autonomous vehicle supply chain on both sides of the Atlantic.",
+    "companies": [
+      "Lucid",
+      "Nvidia"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous driving",
+      "fleet deployment",
+      "physical AI",
+      "robotics",
+      "Europe",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGpGbmVka0h0MG5Ga05zQjNfNklHV0xJV2syTm9DaVFjLVlyRjd3NlNPTVp5OXZIa3NuNGxCMmRQcGhkc0RaZ1JqTmwyT01lc1cycGx0eDRCTWtPd0Z4SFk2TF9HRjEzOGRHcHlVVURBVmlGMXRwaV8wVndFS3VPeklTbm9zdw?oc=5",
+        "title": "Nvidia Pushes Its Chips Into Europe's Robotaxi Future",
+        "source": "Electrek"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
+        "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
+        "source": "Reuters"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGJVNHZWcFp1b0U5bk9CYktzTFQ0dWtxU0lGaW0zVGVpeGVsazdKeTMwLV9LT0FhRTQxWFhyUHB5N3M2dnloekE0UThjb2dINVQyb1B5WEdhTFNidElPdnNWZ1RWSy1IeGxzYS14M3BCZFBuNmxTSFVFdW9TdUxMY3VsbzNNQ1VHdGdPaWVKOVBJNm5IQWk3YmxwTUNhNlJEUmlaMkQxYlp5b01hM0cxMjVmaHR6R3dQa05r?oc=5",
+        "title": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion",
+        "source": "NVIDIA Newsroom"
+      }
+    ],
+    "body": "<p>Jensen Huang took the stage in Paris this week flanked, improbably, by robot ducks — a bit of stagecraft that nonetheless framed a serious pitch. Nvidia's chief executive used the event to declare that Europe's moment in artificial intelligence has arrived, and to unveil Hyperion, the chipmaker's new computing platform for autonomous vehicles, as the backbone a cluster of European automakers and robotaxi operators intend to build on. The announcement arrived in the same week that Lucid, the California electric-car maker, disclosed it will put 25,000 of its Gravity and other Bolt-based vehicles on American roads as robotaxis running Nvidia's self-driving software — a deployment number large enough to signal that autonomous fleets are moving from pilot programs toward something resembling an industry.</p>\n\n<p>Taken together, the two announcements tell a single story: Nvidia is no longer just the company that sells graphics chips to train chatbots. It has positioned itself as the indispensable supplier underneath the entire autonomous-vehicle stack, from the sensors and compute inside a robotaxi to the simulation software automakers use to validate that the car won't run a red light. Hyperion is Nvidia's attempt to make that position permanent in Europe, where regulators have historically moved cautiously on driverless cars and where no company has yet built the kind of robotaxi fleet now operating in Phoenix or San Francisco.</p>\n\n<p>The stakes are not abstract. Europe's auto industry — long the continent's industrial crown jewel — has watched Tesla, Waymo, and Chinese manufacturers pull ahead in the software-defined, increasingly autonomous car. German and French manufacturers, squeezed by slowing EV demand and Chinese competition, have incentive to buy rather than build the underlying AI infrastructure, and Nvidia is happy to sell it to them as a packaged platform rather than piecemeal components. That is a lucrative position: it makes Nvidia a toll booth on every mile a European robotaxi eventually drives, much as it has become one for every large language model trained in Silicon Valley.</p>\n\n<p>For riders, the Lucid deployment matters more immediately. Twenty-five thousand vehicles is a figure meant to signal scale, not experiment — a fleet that, if realized, would be among the largest robotaxi commitments announced by an automaker rather than a dedicated robotaxi company like Waymo or Zoox. It suggests that the economics of driverless fleets, long promised and repeatedly delayed, are starting to look plausible enough for a mainstream carmaker to bet real production volume on them.</p>\n\n<p>The robot ducks were a gimmick, but the underlying message wasn't: Nvidia is betting that whoever controls the chips and software inside the car will matter more than whoever puts their badge on the hood. If Hyperion becomes the default platform for European safety and robotaxi systems the way Nvidia's GPUs became the default for AI training, the company will have extended its chokehold from the data center to the street corner — with consequences for who profits from the future of transportation, and who merely assembles it.</p>",
+    "slug": "nvidia-pushes-its-chips-into-europe-s-robotaxi-future-c06060"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdFpKZXYwUy1RWXFCNGl5MHprZGFGWnlCUXFOZ1l4YmR5TG9WR0pwM2doakFzZXRoaVF0dkU3b2NtYXNaTmxSRGRaWHI0Z3lqUVFxQ01ndjZET1F3T0kxV2tNVDRhZHoxRURPTElkd0t0ZW1qa1gwM3RB?oc=5",
+    "title": "GM unveils sweeping tech and self-driving overhaul",
+    "source": "Axios",
+    "published": "Wed, 21 Oct 2026 18:01:31 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "GM announces a broad restructuring of its autonomous vehicle and technology operations, signaling a shift in the company's robotaxi and driverless strategy.",
+    "companies": [
+      "GM"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi",
+      "self-driving"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE93am5ucTZXeENQN2U1LXVQN1F0X0lOeDRXTjN6MTNyMUViSFIyVTZvWDM4NFhwdDlENXBGdmhSX01nWjRESW1vUlJJWGdxR0diZlBLZlhkU3BORGNteHZDdE5Wcm12bDdYTmxFQVFRWmtxT3IwUWRlM0p3V2I2bGFXWUl4Y2RSbWdfWjE3cTlzUk5iQ3QzZ2lfNGk3RDlDb3RNdVlWQWFsampuZnBF?oc=5",
+    "title": "Tesla’s New Robotaxi Website Shows 70% of Driverless Miles Came Since August",
+    "source": "eletric-vehicles.com",
+    "published": "Wed, 21 Oct 2026 18:36:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's robotaxi site discloses that seven-tenths of its driverless miles accumulated after August, suggesting a recent acceleration in autonomous testing.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzB3QzYyWl9lM25rNTAwNE5NN2hMMk0zT0JVYWNmNm4xbmRZOFk0NHEtaDNyWkh6WXB2S2hOMkdkY3FWX3ljVllVWC1sYklKbnc5aVNvb0RVOGJvQnYtMnJGeVE0MkVXZDVMX3plcWVWWkd4dHFPY2NBQmhsNTRmcUtuNzRCVmVkTnhFYXN2dG1lQVJfRFpfQ2cxU29wY1lmd3NLQg?oc=5",
+    "title": "Waymo plans driverless service launch in Spain in 2027",
+    "source": "Yahoo Autos",
+    "published": "Wed, 21 Oct 2026 10:15:39 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will launch a commercial driverless taxi service in Spain in 2027, expanding its autonomous mobility operations beyond North America.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "international expansion"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVlhdGZlNW9kbG91b2IwcWliTjExLVBmVXRsbnV0Rlp5RXNrN0FfaTc5SVpiNzRxZkdZZVhFZnExa3hPVE5TZnhlSnF1VDJGQ3BrT3FDWUpUS1E3LXBOTGlSYXlHVGFJV2FPemcyb0pDNHlEdmRmQ0Q5NnpNaVNzZXFTUE5RS20wb2ZtMGVUeFY5clRRZUJHWHJmdmpfeWUzMnI0?oc=5",
+    "title": "Aurora (AUR) Is Scaling Driverless Trucks. Can Revenue Catch Up With the Spending?",
+    "source": "Yahoo Finance",
+    "published": "Wed, 21 Oct 2026 13:43:35 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Aurora continues scaling its autonomous truck operations, but Yahoo Finance questions whether the company can achieve profitability as spending outpaces revenue.",
+    "companies": [
+      "Aurora"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "unit economics"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUo5dFI3dVFrVlBRekYyRlJNN3hkaDg2emg0U1BSaGRtMXd5MENEcXM2MXNBd0lvdGo1cnJ3ako1bm9DQzJIUEhoY0oxbTRNQXZkSlhIZm5yNUNUVmpPUy1heFZoOEpZd2dlM0l2Z05lYjhvZFkzdkZCYWNpUlVfQUEwYm9tdTdBY3JHRUk4eG1QaV90VjJQN25B?oc=5",
+    "title": "Denver Got Waymo Six Weeks Ago—Now Someone Keeps Egging the Cars",
+    "source": "MotorBiscuit",
+    "published": "Wed, 21 Oct 2026 16:18:15 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Six weeks after Waymo launched driverless service in Denver, residents have begun pelting the robotaxis with eggs in what amounts to a low-grade campaign of civic resistance.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "public reaction"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVGZ5ZWxqVmk1YzhydjNNV3NaTHlqUHhXVDVVdlJXcHlXZ0x2REwxa2s4UTFZZS1fRDdmZHRoUVNYajk4QTZYbjJ1d3VYVXgtcXg0cC1NOXU1c3dGcTdud09NV3RqdmVOaDd0al93NlBMN3kwWnI5UVNqOVg4ZmRGN3gtVmQzR2hNcTl2T2N3V2pGTFNtdmpzcjkzQTc5MktrczJfN1RUZXNuVG5sRV84SXFwSTVBME4xQU5OQWVJRW9SSkIzV0dOc3RWT21NWmtf?oc=5",
+    "title": "The robotaxis are coming. Are they ready for New Orleans' potholes and floods?",
+    "source": "NOLA.com",
+    "published": "Wed, 21 Oct 2026 17:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "New Orleans faces questions about whether driverless vehicles can handle the city's crumbling infrastructure and climate challenges.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "infrastructure"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnVzeFNZMUtsNGVzalYxeldQUUhEeDBlNlFqR2tJUzZLNDhIb1o1VGNVODJvTV8zaWZRZVl5X2VCUklWVHZJWmFwQV9ucE1kcE0yWTFEYUF3Tnk1MjVnaFdNVENyR2FuSEJ1TkNFTUVMbmJDX2xXT2RURWxPMWxHTEYyWXpsZWNDc0tIbWRBX3AzeGNSaExXaDZYUFZQSW8yUzNZ0gGoAUFVX3lxTE5yaW5MRDNqZ0RacmNIcFpYYkJLSWhhVTk0elVZTnRXcWNSOUo0dW9fWkItcnBWdHFoQ3plTFlqaDZkMUp1eVh2WnRLLUp6UDJOSEYza0l0SDhjTU8xYWR5UldzM2otUnktX3VVNjB3S1dKa2JGaS0xQnFwXzRFbDdtcXlQMWNjdnJRYm9LN09GVFktYVRSV1VmczFFRDV3RktFbW5CYkxjdA?oc=5",
+    "title": "Exclusive: Pentagon letter outlines new four-star Autonomous Warfare Command",
+    "source": "NewsNation",
+    "published": "Wed, 21 Oct 2026 16:13:51 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The Pentagon is establishing a new four-star Autonomous Warfare Command, according to an internal letter, signaling a major institutional shift toward autonomous military systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous systems",
+      "military drones",
+      "defense policy"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUS1vZmtPVVdoR1ZfYmFKRExwUjU2QzdWZGFEUy1neUpmcVhycy1pcGNaQnlTR0VvejZwRVpNR2hOQVk4dEZkdWMxWXIxSFlKMlJ6ckFXUlJxdUo4YkwwTFhDdGQ2WDdvYkE0OFQ2dUtWSktDRkM5ajdmQzdMS3dXa3M1dk1OcGVRU3FKei14SXI3SmxyZmZIS3F2MnVpajlIMENrS05CaU4?oc=5",
+    "title": "Army’s tech chief talks autonomy, acquisition and the future of drones",
+    "source": "Breaking Defense",
+    "published": "Wed, 21 Oct 2026 13:08:56 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The Army's technology chief discusses autonomous drone strategy and procurement challenges in an interview about the military's shifting priorities.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomy",
+      "drones",
+      "military"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTFFUm5qUEs2bDdjQ2YwRWNYWHJWdVM3TE1lMGFpakxoTHV6S3NYRzJzV3B1c3A4WTVISEFNTVUyWWlNNlVYTzlrWWdUYy0tdnlsZzVkd2FEN3B0a01YTmR0dXRCQkU0cnJTelQ5ZElVenhBbkdSc0t4b0JqdzlVSXpHVkJLTVF3WTJ6Y1dlaHlNOHppRjZicWhZUkl3aTNCU2ZrWHhaQl9vLVMtRnlWNjdBNUc?oc=5",
+    "title": "Red Cat Launches Unified Aerial Division & Unveils VTOL ISR Drone",
+    "source": "Unmanned Systems Technology",
+    "published": "Wed, 21 Oct 2026 05:50:55 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Red Cat created a unified aerial division and unveiled a new vertical-takeoff intelligence-surveillance-reconnaissance drone.",
+    "companies": [
+      "Red Cat"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "VTOL",
+      "ISR",
+      "surveillance"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNM0U2RHFpSmhQcjlKVm1qQUtiRktGMTRrUk1fMkFfR2NPSUREMUlmeVFuVzFiaEhNTm1vMElRcXlPRV9LeHF0MUJsZjBYSW1fSG52dzBFRVUzSHVxREtFbVBsS0tVU2lvTlNDRmVzQmhvOU9rNkpVWHl2R3pIOFNCVEE0UjF5SEREUlBNNk1nckxlMW9TUUZGN3VHcm9MX0lFb2NHdmVBbk9mZ1JVODhqV2VMdWN4VzN3ZmRNaDRUSnBTVUJlS1RucUNVZ0ZXbkZGc0FYTTFidXFNd01hbEtHWU1tY1FVaVZfd0xTMFc5VVQ1ZTQzdWxYazZYYVhTeDU2TjNHeTdHSlAtelHSAZACQVVfeXFMTmRNSG1TQ19teHZlYy1yTWNjYVpWZkpkQ0pkY0dYeENlVENIQVdldmREdmNnc3hKaVA0bkJyd3dLQ1FqYjBuUnBqc2JTSWhabTFreUpueDMwZWpReXQ4eEttQ3pfZ1UwbUE0eEJnRHViQU1mVnhSZG1oUk9mUU5mTXBkV19BQVlxcWZSRExHdUNwMlZGVHhlUFdrNmFYeXRmdWFDTFd4UktpWUdaQlFYTFU5ZFJJaDdDc2hFSGxhdXRsUXVOSmNLWEF4VnQ3WGZZTjl5c0xzWVpKa3dtWExKLXVEUGdUMHZyWVMzcHRpZXhoclpRbXZveVZIRGxuVzFSZzJNOFBxcG1DVlM4cktiaEk?oc=5",
+    "title": "100 reps from drone firms participate in IAF's industry outreach programme on unmanned & autonomous syste",
+    "source": "The Times of India",
+    "published": "Wed, 21 Oct 2026 17:39:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "India's air force convenes 100 drone-industry representatives for an outreach discussion on unmanned and autonomous systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "unmanned systems",
+      "autonomous systems",
+      "defense"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzV2MUZhS2MxYkZ2NEpfLThnUXh2S1RPVzQ0MnJudXp5SnlrSmRZVTZLcHlYb3dMU3Z4bUlxeFZXTHE2MjNXREpYaXZEeVhtUkIwYVZQM0RnSlpvdGRXa1ZpVzNFNWJfRzRDRjNTb3QtUnFyQXhaQnl0R2tRS2ZIQ1pNeHRYZGIwR09RNkw0RU1IajZCSEpEdFFudnhkdnNVUElMVGNQeVhFbWdMQXc2UEozMTVHUQ?oc=5",
+    "title": "Navy Halts New Orders of Aevex Drone Boats on Performance Issues",
+    "source": "Bloomberg.com",
+    "published": "Tue, 20 Oct 2026 21:13:27 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The Navy has suspended new orders for Aevex's autonomous drone boats after they failed to meet operational performance standards.",
+    "companies": [
+      "Aevex",
+      "Navy"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous vessels",
+      "military",
+      "performance failure"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkRwMUFLUldmaGF1Y1ZnU2tMZGVsUmZ0WmIwNXNqM0ZVeXFCS19ITUVVWmJTN3B3ZW1ZYUxTTTNNdTZYTGo4YU1taUpLNXlrQzVBOUtHTG5ibk5xVm5GQzNKOThoYjEyWi1vVElYTmhnRm9BUlNGblllb0pLY3dLR1Z6WENGS1BnYU1yUTd6bW1JbTF2ekhydw?oc=5",
+    "title": "U.S. Navy is said to halt purchases of Aevex drone boats (AVEX:NYSE)",
+    "source": "Seeking Alpha",
+    "published": "Tue, 20 Oct 2026 21:35:28 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The U.S. Navy has halted purchases of Aevex's autonomous drone boats, marking a setback for the company's military ambitions.",
+    "companies": [
+      "Aevex"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous vessels",
+      "military",
+      "procurement"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3k3Q082QjgzbERqNFBwTGZfaEpHTEdOVWtJZXNmSXd2cEY2YVBjSmFhOThDaDhWVnFNektjUFp4cHc5QV83QWhfNnZBX280ZklmX3gtbDlKTWtfeUlXZjJRYnNiSXBPNGpPWVI1SFRjUkdWcHhuWklzMmNRb0RnYVhabjA3V2F5Z21CaXpKZw?oc=5",
+    "title": "A 23-foot drone sailboat left Tasmania to circle Antarctica alone for 200 days, met waves over 26 feet within days of leaving, and will log more than 13,000 miles measuring how much carbon the Southern Ocean swallows before coming back to swap its sensor",
+    "source": "Autonocion.com",
+    "published": "Tue, 20 Oct 2026 21:00:28 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A 23-foot autonomous sailboat departed Tasmania to circumnavigate Antarctica alone for 200 days, measuring carbon absorption in the Southern Ocean across 13,000 miles of open water.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous vessel",
+      "marine drone",
+      "oceanography",
+      "climate science",
+      "uncrewed sailing"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14TndCVUFOdlExVktTYkhGUzVBTlZFT0FNa2ozelJnYjRBZU95b21QZ1g2Nmg3V2xsTE5DYi00VDJCbzR4VU43VjlEMzg2M2FYeTU3cXdDb2g4S25kdnR6OUplS0dmYVdKTl83UjU4OUJTaFdSYTBWQg?oc=5",
+    "title": "Matternet Expands NHS Drone Delivery Network to Children’s Hospital in London",
+    "source": "Dronelife",
+    "published": "Tue, 20 Oct 2026 17:20:18 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Matternet extended its NHS partnership by deploying autonomous drones to deliver medical samples and supplies at London's Great Ormond Street Hospital.",
+    "companies": [
+      "Matternet",
+      "NHS"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "healthcare logistics",
+      "autonomous drones"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkIwamstY3g1M2NCSVNVSnlCTjJ6S20zYUtpU0FmVTdNUnhtZ2NKQ3VuLWxnc0JiVm5COWR2c0IyMFpfVm03UWFqVUFqWXhLUTJQV2xnREtDdmpNOEhacXhTR2hDOHNzVDY3RTFuN1k1RnNyZkE4ZFBfamhhM3BYZHhSX1FhYl9BbW94RkpkQTRDM0RTeHp2Vg?oc=5",
+    "title": "Computer science student takes engineering skills to Neuralink",
+    "source": "UT San Antonio Today",
+    "published": "Wed, 21 Oct 2026 08:05:14 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "A University of Texas at San Antonio computer science student has joined Neuralink, Elon Musk's brain-computer interface company.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "neural engineering"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHFzUDRBbnNkMU84YVI2MEl2aTZjd0NUTEQzZDJSbmR3ZVJoU0JFVFdaUml4N0hvUEdQVXVlUWQ2c3VmVkFGN0tuN2RMQ3Nudm1yTDFqUjdzUG1VYUNzZ0Roa1h4elF6VkxoM2x0SkdYTGFPTVV3RFVHSkRPSTg0UDgzUkUyNzJQbWZkUm1aaE8xUnJvTkhRWTdRcjVmcTdPeVdQTE1HSzdKczJscjI3OS1FMmVFS3p1ekZSQUZyV1RsdDg?oc=5",
+    "title": "Brain-computer interface training shows preliminary cognitive and daily-living benefits after stroke",
+    "source": "Bioengineer.org",
+    "published": "Wed, 21 Oct 2026 00:33:14 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A brain-computer interface training program demonstrates early cognitive and functional improvements in stroke patients, suggesting potential for motor recovery without conventional physical therapy.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "stroke rehabilitation",
+      "neural recovery",
+      "assistive technology"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FTzhaYm42TFl6MW84LVFUTWpZdnZ2N2F5Y0FDU0xNdjdoVVh6NWlfU3h0REh4ZzVXVW5BckN6c0Rjbl9GdFpfOVJSSXJSbXUzNXExRmY5anZMRklZVWxmZDUtZ3ZOMkpYT3BuNDhoTnNOOEV1dHlnOGlB?oc=5",
+    "title": "Meet the Removable Brain-Computer Implant",
+    "source": "CNET",
+    "published": "Tue, 20 Oct 2026 19:56:16 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "CNET profiles an emerging removable brain-computer implant technology, a step toward less invasive neural interfaces.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "removable implant"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://thehumanoid.ai/humanoid-expands-collaboration-with-nvidia-to-power-its-next-generation-of-humanoid-robots/",
+    "title": "Humanoid Expands Collaboration with NVIDIA to Power Its Next Generation of Humanoid Robots",
+    "source": "Humanoid",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Humanoid expands its partnership with NVIDIA to equip next-generation humanoid robots with edge computing hardware including Jetson Thor, consolidating onboard systems to run sophisticated AI directly on robots in real-world deployment.",
+    "companies": [
+      "Humanoid",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "edge computing",
+      "robotics",
+      "onboard AI"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/las-airport/",
+    "title": "Waymo's Expansion Hits Mixed Reception: Airport Service in Las Vegas, Eggs in Denver",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo keeps pushing its robotaxi footprint outward, launching driverless pickups and dropoffs at Las Vegas's Harry Reid International Airport for existing riders ahead of a wider rollout. Meanwhile, six weeks into its Denver debut, the company's cars have become targets of a scrappy backlash, with residents reportedly egging the vehicles in protest.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "James C. Chrisley",
+      "Arica Gately"
+    ],
+    "themes": [
+      "driverless",
+      "airport service",
+      "autonomous ride-hailing",
+      "Las Vegas expansion",
+      "robotaxi",
+      "public reaction"
+    ],
+    "first_seen": "2026-10-21T19:05:03",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://waymo.com/blog/shorts/las-airport/",
+        "title": "Waymo's Expansion Hits Mixed Reception: Airport Service in Las Vegas, Eggs in Denver",
+        "source": "Waymo"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUo5dFI3dVFrVlBRekYyRlJNN3hkaDg2emg0U1BSaGRtMXd5MENEcXM2MXNBd0lvdGo1cnJ3ako1bm9DQzJIUEhoY0oxbTRNQXZkSlhIZm5yNUNUVmpPUy1heFZoOEpZd2dlM0l2Z05lYjhvZFkzdkZCYWNpUlVfQUEwYm9tdTdBY3JHRUk4eG1QaV90VjJQN25B?oc=5",
+        "title": "Denver Got Waymo Six Weeks Ago—Now Someone Keeps Egging the Cars",
+        "source": "MotorBiscuit"
+      }
+    ],
+    "body": "<p>Waymo opened a new front in its robotaxi expansion this week, launching fully driverless pickups and drop-offs at Harry Reid International Airport in Las Vegas. The service begins with riders who already have accounts in the city, Waymo's existing foothold since 2023, before widening to the rest of its Las Vegas service area. It is a notable milestone: airports are dense, rule-bound environments with curbside cops, honking shuttles, and travelers dragging roller bags into traffic, and Waymo has approached them cautiously elsewhere. Getting an autonomous vehicle fleet woven into that chaos is less a victory lap than a stress test the company clearly believes it can pass.</p>\n\n<p>Eight hundred miles northeast, in Denver, the reception has been less cordial. Six weeks after Waymo's cars started roaming the city, some residents have taken to lobbing eggs at them, a juvenile but pointed form of protest that nonetheless signals real unease. It's not a boycott or a lawsuit — it's yolk on a sensor housing — but it captures something harder to legislate against: a segment of the public that simply does not want these vehicles on their streets, and has decided that civic disobedience looks like a dozen eggs from the grocery store.</p>\n\n<p>Together, the two stories say something about where Waymo actually stands in its national rollout: simultaneously ascending and contested, often in the same news cycle. The Las Vegas airport launch matters commercially because airport runs are lucrative, predictable, and visible — exactly the kind of use case that proves autonomous vehicles can handle institutional infrastructure, not just suburban errands. If Waymo can reliably slot into an airport's curb management system, it builds a template other airports, and other cities weighing whether to let robotaxis in, will study closely.</p>\n\n<p>The Denver egging, by contrast, is a reminder that technological capability and public consent are not the same thing. Robotaxis have driven anxieties in other cities too — about jobs, about safety, about who gets consulted before a company reshapes a street corner — and Denver's episode is a small, sticky expression of that anxiety. It costs Waymo very little in material terms; a windshield wash solves it. But it's also free data on sentiment, the kind that doesn't show up in a safety report or a quarterly earnings call.</p>\n\n<p>For the robotics and autonomous-vehicle industry more broadly, the juxtaposition is instructive. Expansion into critical infrastructure like airports signals that regulators and institutional partners are willing to extend trust. Eggs on a windshield signal that trust from the sidewalk is not automatic, and has to be earned block by block, city by city. Waymo's path forward likely runs through both kinds of proving grounds at once — the formal, infrastructural one, and the messier, more human one where someone just doesn't like having a driverless car idling outside their house.</p>",
+    "slug": "waymo-s-expansion-hits-mixed-reception-airport-service-in-la-ee5cc8"
   }
 ]
