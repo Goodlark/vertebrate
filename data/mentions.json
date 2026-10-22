@@ -85549,7 +85549,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -85711,7 +85711,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -85764,7 +85764,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86110,7 +86110,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86418,7 +86418,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86471,7 +86471,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86730,7 +86730,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -86754,7 +86754,7 @@
     "first_seen": "2026-10-15T18:51:21",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -87838,7 +87838,7 @@
     "first_seen": "2026-10-16T18:35:07",
     "week": "2026-W42",
     "why": "Landing a drone on a moving ship without GPS solves a hard, practical problem: operating in contested environments where adversaries jam satellite navigation. This is the kind of unglamorous engineering milestone that actually enables autonomous carrier operations at scale. Watch for integration into standard fleet procedures rather than remaining a one-off test.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -87864,7 +87864,7 @@
     "first_seen": "2026-10-16T18:35:07",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -88000,7 +88000,7 @@
     "first_seen": "2026-10-17T17:43:40",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89119,7 +89119,7 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -89157,7 +89157,7 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -89894,7 +89894,7 @@
     "first_seen": "2026-10-19T20:19:50",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -90722,7 +90722,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -91002,7 +91002,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -91456,7 +91456,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -91484,7 +91484,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -91569,7 +91569,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -91596,7 +91596,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -92256,7 +92256,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -92641,5 +92641,1720 @@
     ],
     "body": "<p>Waymo opened a new front in its robotaxi expansion this week, launching fully driverless pickups and drop-offs at Harry Reid International Airport in Las Vegas. The service begins with riders who already have accounts in the city, Waymo's existing foothold since 2023, before widening to the rest of its Las Vegas service area. It is a notable milestone: airports are dense, rule-bound environments with curbside cops, honking shuttles, and travelers dragging roller bags into traffic, and Waymo has approached them cautiously elsewhere. Getting an autonomous vehicle fleet woven into that chaos is less a victory lap than a stress test the company clearly believes it can pass.</p>\n\n<p>Eight hundred miles northeast, in Denver, the reception has been less cordial. Six weeks after Waymo's cars started roaming the city, some residents have taken to lobbing eggs at them, a juvenile but pointed form of protest that nonetheless signals real unease. It's not a boycott or a lawsuit — it's yolk on a sensor housing — but it captures something harder to legislate against: a segment of the public that simply does not want these vehicles on their streets, and has decided that civic disobedience looks like a dozen eggs from the grocery store.</p>\n\n<p>Together, the two stories say something about where Waymo actually stands in its national rollout: simultaneously ascending and contested, often in the same news cycle. The Las Vegas airport launch matters commercially because airport runs are lucrative, predictable, and visible — exactly the kind of use case that proves autonomous vehicles can handle institutional infrastructure, not just suburban errands. If Waymo can reliably slot into an airport's curb management system, it builds a template other airports, and other cities weighing whether to let robotaxis in, will study closely.</p>\n\n<p>The Denver egging, by contrast, is a reminder that technological capability and public consent are not the same thing. Robotaxis have driven anxieties in other cities too — about jobs, about safety, about who gets consulted before a company reshapes a street corner — and Denver's episode is a small, sticky expression of that anxiety. It costs Waymo very little in material terms; a windshield wash solves it. But it's also free data on sentiment, the kind that doesn't show up in a safety report or a quarterly earnings call.</p>\n\n<p>For the robotics and autonomous-vehicle industry more broadly, the juxtaposition is instructive. Expansion into critical infrastructure like airports signals that regulators and institutional partners are willing to extend trust. Eggs on a windshield signal that trust from the sidewalk is not automatic, and has to be earned block by block, city by city. Waymo's path forward likely runs through both kinds of proving grounds at once — the formal, infrastructural one, and the messier, more human one where someone just doesn't like having a driverless car idling outside their house.</p>",
     "slug": "waymo-s-expansion-hits-mixed-reception-airport-service-in-la-ee5cc8"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5",
+    "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
+    "source": "WSJ",
+    "published": "Thu, 22 Oct 2026 00:05:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Elon Musk said Tesla plans to start selling its Optimus humanoid robot next year, joining a crowded race to commercialize physical AI.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2x0dnpsQW10bFFMUXpYdERVX05KRklRbElKYnppRFZ3VWl1UXVUTXF3eHdoaGVrV2hJd3RMUmlGaTNkU0ZSb0o0NS1NZm85SnQzcjJXZW5WTEZKbGx6bmV2MHZJUmFHblQ4Wjh5M0hHUmszSFJtcmVvdnlXTjJEbW5MYlZnTFp6ZERyYnozbWc0VXVEMWkwcEUzMUtXdWx2dVFpeGxEWmRLYUxDdC1RMXg3eC1hSFpNcVdNOTRRdHpmZVk?oc=5",
+    "title": "Nightmare Humanoid Robot Scenario: Hacked Robot Stabs ‘Human’ Hand In Test",
+    "source": "Forbes",
+    "published": "Thu, 22 Oct 2026 09:14:45 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "A security researcher demonstrated a humanoid robot stabbing a synthetic hand after hacking its safety controls, exposing vulnerabilities in physical AI systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "security",
+      "safety"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUldCSzhZMjR0SDd6VmdZemMwVFIxdWZBU24xcmJMRG14b2NJcXVZajFVcFZ5UzhzOHFMcGwtYUZlMmRBVUx5SkdjOW9GR3BuM2RRWXZPNUt1VWtvRTJ3MUZOZmZoLXVqX2pzVXhnMlRnSVZjb2FNUFM4RW04amVRR0cwLVBoRUptTFNpWHAwRQ?oc=5",
+    "title": "FCC Robot Ban Cuts US Humanoid Robot Revenue 58%, Send Chinese Robots To Europe: IDC",
+    "source": "Yahoo Finance",
+    "published": "Thu, 22 Oct 2026 15:54:45 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "IDC analyst claim that an FCC robot ban has halved US humanoid robot revenue and redirected Chinese manufacturers toward Europe.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "regulatory",
+      "China",
+      "trade"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LaGJPZzd5M3JjekhEck94TWpzaUpyUDlkQzd0Z29ITVB3RVdYZ3VjSVZoY3NVOVlqTHBhd21OVS12LWY4S1JWak9Ba2lwaFhuM1owdERaLWY2YW1kNHNBYnVPVXBHQU9naXRnbnZ5LWo4RGxZNVhj?oc=5",
+    "title": "Nvidia Quietly Becomes the Chip Inside the Robot Boom",
+    "source": "The Next Web",
+    "published": "Thu, 22 Oct 2026 12:17:56 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Agility Robotics confirmed its new Digit 5 humanoid will run on Nvidia silicon as the company heads toward a Nasdaq listing, while a separate, unnamed humanoid maker reported an eightfold cut in processing latency using the same Nvidia stack. Meanwhile, AI Magazine traced how Nvidia, test-equipment giant Teradyne, and robotics startup Sereact are stitching together the hardware and software needed to industrialize 'physical AI' at scale. Taken together, the items sketch a company less interested in building robots itself than in making sure every robot that matters needs its chips.",
+    "companies": [
+      "Agility Robotics",
+      "Nvidia",
+      "Teradyne",
+      "Sereact"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "compute",
+      "inference optimization",
+      "scaling",
+      "industrial automation"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LaGJPZzd5M3JjekhEck94TWpzaUpyUDlkQzd0Z29ITVB3RVdYZ3VjSVZoY3NVOVlqTHBhd21OVS12LWY4S1JWak9Ba2lwaFhuM1owdERaLWY2YW1kNHNBYnVPVXBHQU9naXRnbnZ5LWo4RGxZNVhj?oc=5",
+        "title": "Nvidia Quietly Becomes the Chip Inside the Robot Boom",
+        "source": "The Next Web"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGtRVWY4NWtkTVlhcEtSU211eE0xaklIMzFPckhMQW9EM0w3UXB4bWZxVXpOZjJuZEpUeUtTYU1xZXJ4Z2MxVUE5RDFJRG0xODAtZlJ2TkhJQ2MyYlRUbTQ3WnUtTk5aOV8wbjM4TFc5dF9UOGljUVVKd2stY2Y5NXBaREp1UzJ5WHItd29OWHQ4WWdYNXVqMldB?oc=5",
+        "title": "Humanoid robot cuts model processing delay 8x with NVIDIA tech in internal tests",
+        "source": "Interesting Engineering"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzkzc3otcWhReHRKWEJRZWZQUEQwM193U1lrSTJyaG11aHpHdi0tUWNuY2JoNVEwX3I3S1NGNlRNVDBtZHdZY1NGTzdzakpPLXg3VTBkVFZyWGFFU1pSVjZjUlhGa0ZrWDBzOFRlLWxKX1dpdVFSSzZLZ1dDRWpEdHR3dlB4QQ?oc=5",
+        "title": "How NVIDIA, Teradyne & Sereact Are Scaling Physical AI",
+        "source": "AI Magazine"
+      }
+    ],
+    "body": "<p>Agility Robotics confirmed this week that its next-generation humanoid, Digit 5, will run on Nvidia silicon, a disclosure timed to the company's march toward a Nasdaq listing. The announcement landed alongside a separate report, from Interesting Engineering, that an unnamed humanoid manufacturer had cut its model's processing latency eightfold in internal tests after adopting the same Nvidia stack. And AI Magazine, in a less splashy but perhaps more telling piece, traced how Nvidia has been quietly wiring itself into the industrial plumbing of robotics through partnerships with Teradyne, the longtime chipmaker and test-equipment giant, and Sereact, a European robotics startup focused on warehouse automation. Three stories, three companies, one thread: Nvidia everywhere, Nvidia visible almost nowhere.</p>\n\n<p>That invisibility is the point. Nvidia is not trying to build the robot that walks into your kitchen or packs your Amazon order. It is trying to make sure that whichever robot does, it is thinking with Nvidia's chips and Nvidia's software underneath. Agility's choice to name its silicon supplier in the same breath as its IPO plans suggests that Nvidia's brand has become a credibility stamp for hardware startups chasing public investors — the robotics equivalent of \"Intel Inside.\" The eightfold latency improvement, however anecdotal and company-unspecified, is the kind of number that matters enormously to a nascent industry: humanoid robots live or die on how fast they can perceive, decide, and react in a room full of moving humans. A robot that hesitates for even a few hundred extra milliseconds before catching a falling box, or stepping around a child, is not a product. It is a liability.</p>\n\n<p>The Teradyne and Sereact connection reveals the less glamorous half of the strategy. Teradyne has spent decades building the equipment that tests chips before they ship — the unglamorous machinery of industrial reliability. Pairing that expertise with Sereact's warehouse-automation software, under Nvidia's computing umbrella, points toward something more ambitious than selling GPUs to robot makers: an attempt to industrialize what the industry is now calling \"physical AI,\" the project of training machines to perceive and manipulate the physical world with the same statistical confidence that large language models bring to text. If that scaling succeeds, Nvidia becomes not just a components vendor but the operating layer beneath an entire category of machines — factory arms, delivery bots, humanoids — the way it became the operating layer beneath the generative-AI boom.</p>\n\n<p>For the robotics industry, this concentration cuts two ways. Startups get access to proven, fast, well-supported silicon without having to design chips themselves, lowering the barrier to building a humanoid at all. But it also means an entire sector's pace of innovation, and its cost structure, becomes tethered to one supplier's roadmap and pricing. For workers and consumers, the stakes are more immediate than abstract market structure: latency is safety, and safety is the precondition for letting these machines out of the lab and onto a warehouse floor, or eventually, into a living room.</p>",
+    "slug": "nvidia-quietly-becomes-the-chip-inside-the-robot-boom-999e10"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5",
+    "title": "Tesla's Optimus Timeline Wobbles Between Hype and Delay",
+    "source": "Business Insider",
+    "published": "Wed, 21 Oct 2026 22:37:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Elon Musk promised Optimus humanoid robots would go on sale next year and likened training them to raising a toddler, even as Tesla reportedly began limited production. But Electrek reports the company has quietly pushed full deliveries to late 2027, citing persistent problems with the robot's hands — a gap between Musk's commercial-certainty rhetoric (and a 24/7 Wall St. piece treating 'millions of units' as fact, with Texas Instruments cited as a beneficiary) and the slower reality on the factory floor.",
+    "companies": [
+      "Tesla",
+      "Texas Instruments"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics production",
+      "robotics",
+      "robotics manufacturing",
+      "training"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5",
+        "title": "Tesla's Optimus Timeline Wobbles Between Hype and Delay",
+        "source": "Business Insider"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5",
+        "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
+        "source": "WSJ"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHZBUVpkM09icDQ2U09vM1VNNzZ6TnBWNHVESVg4ZzBSTnVYU2w0dFZsOG5oMzAydzZ4QXoySFExWkI3WTdab2FZLVZyUUxUZXNpaVBhSjRkLUFMUjhSY0liSTNVV3J4aVNrZkV0b0hHNDBGX2ZqZmVIUkRCWEw2Wk5FTXV5bjNCWHc?oc=5",
+        "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
+        "source": "Electrek"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOUVmV21WdzYwYXdLeEx3d0hhUFdaeHlQbWNiVXpsRGRhTEsxWEZteFpVOGtJZGJKeGNhUHpYam5UYWQ0Sm1rQ2hJYVoycU84a1hxZ2g4N3pkMDZBSUlzTjN2QkpTM2RWQmV3VG5yUC1DUE9oWlBxX25aNDh3RDNfTFV1Q2tHdHdENEcxZDVLekF4Y2FINVFRSmxnXzl5alFRcGpBSXQtd0d3SzZMbTJzQk9tNUtPeDV3MHJqTFJVMWFtRjZYU19HcVZR?oc=5",
+        "title": "Tesla Will Make Millions of Optimus Robots. Texas Instruments Can Get Paid on Every One",
+        "source": "24/7 Wall St."
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWl4c2xjeEg3dnhZRDFEYkJVVDVXWTY0S09uTGp2bFVZNnBzRDBzOTJNZmc5TkdIV1RQYXg0cm5EM2hDdGhiV2hQRVRaamE4RkdiZmJSYUhSUTljNnRmaXE5OGd1QWxGaUZsS19RcHhOU2N1aTFtUzVPdDAwUXNrS0s3dm9VbXQzZUFBYmtTanI3MDFq?oc=5",
+        "title": "Elon Musk says training Tesla's Optimus robot is like raising a toddler",
+        "source": "Business Insider"
+      }
+    ],
+    "body": "<p>Tesla has begun what it calls commercial-scale production of its Optimus humanoid robot, with limited units reportedly rolling off a line in Fremont, California, even as Elon Musk told investors this week that the company plans to start selling the machines next year. But according to Electrek, which cites people familiar with the program, Tesla has quietly pushed full-volume deliveries to late 2027 — a two-year slip the company has not announced publicly. The sticking point, per the report, is unglamorous but fundamental: the robot's hands still can't reliably do the dexterous work — gripping, manipulating, handling objects with any nuance — that would make Optimus useful outside a stage demo.</p>\n\n<p>Musk, for his part, has offered a different register of update. Asked about training progress, he compared the process to raising a toddler, a metaphor that is charming, faintly profound, and tells you almost nothing about torque curves or actuator yields. It's the kind of line that plays well in a keynote and poorly as an engineering status report, and it arrived in the same week that 24/7 Wall St. published an analysis treating \"millions of units\" of Optimus production as settled fact, with Texas Instruments flagged as a downstream beneficiary of all those future robot hands needing chips.</p>\n\n<p>The gap between these two timelines — Musk's \"next year,\" and the factory's \"late 2027\" — matters because Optimus has become a load-bearing pillar of Tesla's valuation story, one that lets a car company trade like an AI company. Investors who've priced in robot revenue, and suppliers positioning for a windfall, are reacting to the toddler metaphor and the \"millions of units\" framing rather than to the actual bottleneck, which is a decades-old problem in robotics: hands are hard. Dexterous manipulation has stumped labs at Boston Dynamics, Figure, and university robotics departments for years, and no amount of Fremont tooling makes gripping an egg, or a wrench, trivial.</p>\n\n<p>This isn't academic for the broader humanoid-robot industry, which is racing Tesla on parallel timelines and watching closely to see whether Optimus becomes proof of concept or cautionary tale. A slip from \"next year\" to \"2027\" is a meaningful data point about how hard the last-mile problem of embodied AI actually is, even for a company with Tesla's manufacturing muscle and Musk's gift for narrative compression. For workers in warehouses and factories who've been told humanoid robots are imminently coming for repetitive tasks, and for policymakers drafting labor and safety rules around them, the real timeline is the one measured in hand actuators that don't yet work, not the one measured in Musk's next earnings call. The toddler, it turns out, is still learning to hold a spoon.</p>",
+    "slug": "tesla-s-optimus-timeline-wobbles-between-hype-and-delay-139240"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
+    "title": "Unitree Bets on Self-Improving Robots and a 2027 'ChatGPT Moment'",
+    "source": "South China Morning Post",
+    "published": "Thu, 22 Oct 2026 13:30:12 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Unitree is developing an AI system that lets its humanoid robots learn and refine their own performance without constant human reprogramming, part of a broader push toward autonomous skill-building. Founder Wang Xingxuan says the industry could hit its own 'ChatGPT moment' by 2027, though he admits that leap in capability won't automatically translate into commercial deployment. Together, the items sketch a company racing ahead on the technical frontier while staying candid about the harder business of turning clever robots into viable products.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Wang Xingxuan"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "self-learning",
+      "robotics",
+      "commercialization"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
+        "title": "Unitree Bets on Self-Improving Robots and a 2027 'ChatGPT Moment'",
+        "source": "South China Morning Post"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44dm81VWpXb0F0dUVZNzJ6SlJxNWliYndxNXdnV19rUkNBaWpFMGE3a3h5RmU4MjltNlBfd3hJNmE5X0RKSXRXNk9aUnBhZUpIRk5YeXF6UzZ0Z0h5Wnp1czNB?oc=5",
+        "title": "Humanoid robots’ ‘ChatGPT moment’ could come by 2027, but commercialization remains a hurdle, Unitree founder says",
+        "source": "Global Times"
+      }
+    ],
+    "body": "<p>Unitree, the Hangzhou-based robotics maker known for its backflipping humanoids and bargain-priced robot dogs, is now working on something less photogenic but potentially more consequential: an AI system that would let its machines get better at their jobs without an engineer standing by to patch the code. The company says the system is designed to let humanoid robots learn from their own performance and refine their movements over time, rather than waiting for each new skill to be hand-programmed and pushed out in an update.</p>\n\n<p>The disclosure came alongside remarks from founder Wang Xingxuan, who told reporters he expects the humanoid robot industry to reach its own \"ChatGPT moment\" — a breakthrough so sudden and legible that it resets public expectations — by 2027. It was Wang's framing, not a marketing slogan, and he paired it with an unusually candid caveat: even a leap that dramatic won't by itself solve the harder problem of turning a capable robot into something companies and consumers actually want to buy and deploy at scale.</p>\n\n<p>That combination — technical bravado married to commercial humility — is the real story here. Unitree has spent the past two years building a reputation as the industry's fastest mover, undercutting rivals on price while matching or beating them on acrobatics. A self-improving AI layer would push that advantage further, because the costliest, slowest part of deploying robots in warehouses, factories or homes isn't the hardware anymore; it's the endless cycle of reprogramming machines for every new task, every new environment, every new edge case. A robot that can watch itself fail and adjust, the way a toddler learns to stack blocks, would cut that cycle dramatically.</p>\n\n<p>It would also change the economics of the business. Robotics companies today sell largely on specifications — torque, battery life, range of motion. A system that lets robots accumulate competence after they've left the factory shifts the value proposition toward something closer to what software companies sell: a product that improves on its own, long after purchase, the longer it's used. That's the pitch behind every \"ChatGPT moment\" analogy in robotics right now, and Wang's version is notable mainly for how unsentimental it is about the distance between a lab demo and a loading dock.</p>\n\n<p>For an industry still haunted by over-promised, under-delivered humanoid robots — Boston Dynamics parkour reels that never became products, Tesla's Optimus timelines that keep slipping — Wang's acknowledgment that capability and commercialization are separate problems reads less like hedging and more like realism. If Unitree is right that 2027 brings a genuine capability jump, the harder test will be the one that follows: whether factories, hospitals and households are actually ready to let a self-teaching machine loose among them, and whether anyone's figured out how to price, insure, and regulate a robot that keeps changing after it's sold.</p>",
+    "slug": "unitree-bets-on-self-improving-robots-and-a-2027-chatgpt-mom-eece4f"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GTGlCd0JYdnIwclVReWw0aGxTdTdfVkJBRnJNOGMwajM1MGVQdFJ0MzlLQm5yRGptYlRGNk52cXNJSzNPanBiUW80MkRzMHg3VmN2V3l5SFhLVmd0QkxERHd5NmlFMHBwVHgzY1NrVUpxM2J3amxfdnVDYVo?oc=5",
+    "title": "Tesla started Optimus humanoid robot production as profit fell 43%",
+    "source": "Quartz",
+    "published": "Thu, 22 Oct 2026 12:10:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla has begun production of Optimus humanoid robots even as the company's quarterly profit plummeted 43 percent.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics production"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEstYTJidm8xUFAzNE5OdjdfWUtkdWpJZ2ttQUsyRUlIT2NfZTFJR2lHdlZKcWgwZTdudWZRTDRoZFNuWHpYcDA2V3liNmktd2R4RUNmQ3RYWlBhNU5FV0liMnQ1RDg0UDVXYXMxYkhZY25wdy1LSG9EeHA4MHhhY0JNT2tlTWVicVJtQjVjN1QxbW9EbVE?oc=5",
+    "title": "Figure AI’s Humanoid Robot Walks 348 Miles in Just 9 Days",
+    "source": "TechRepublic",
+    "published": "Thu, 22 Oct 2026 10:35:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Figure AI's humanoid robot completed a 348-mile walk in nine days, a demonstration of extended autonomous endurance.",
+    "companies": [
+      "Figure AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "autonomous systems",
+      "robotics endurance"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOUVmV21WdzYwYXdLeEx3d0hhUFdaeHlQbWNiVXpsRGRhTEsxWEZteFpVOGtJZGJKeGNhUHpYam5UYWQ0Sm1rQ2hJYVoycU84a1hxZ2g4N3pkMDZBSUlzTjN2QkpTM2RWQmV3VG5yUC1DUE9oWlBxX25aNDh3RDNfTFV1Q2tHdHdENEcxZDVLekF4Y2FINVFRSmxnXzl5alFRcGpBSXQtd0d3SzZMbTJzQk9tNUtPeDV3MHJqTFJVMWFtRjZYU19HcVZR?oc=5",
+    "title": "Tesla Will Make Millions of Optimus Robots. Texas Instruments Can Get Paid on Every One",
+    "source": "24/7 Wall St.",
+    "published": "Thu, 22 Oct 2026 15:15:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Texas Instruments stands to profit from Tesla's Optimus production ambitions, a financial analysis piece that treats a speculative robotics roadmap as commercial certainty.",
+    "companies": [
+      "Tesla",
+      "Texas Instruments"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics manufacturing"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXRTOUhzTFBiMWZxUDFhQTFuUG5VaDg0NFFha2VMVFo3OS1yOEMxU1kzbDBZS2RYUnZLYTBqeU96eGFFRnNiWXdkNDNKZFFNeGZuaDNBNUw3b1VTQXVoaFV0ZTlIdGhLME5QbUpIRTF4dDVBQmNZMTdIWTJLVW4zNEFobUJEblFNajNqRg?oc=5",
+    "title": "Unitree unveils humanoid robot designed to act as real-life guardian",
+    "source": "Interesting Engineering",
+    "published": "Thu, 22 Oct 2026 08:18:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled a humanoid robot intended for protective and guardian duties.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pMm44ektYWkFCWUZuMmdaUjE2M3dkeVdYQ181S1NocWp5a0lJb0J0QTlBV3IzRkVOYkVXQV9KcHpoYTMwLVVuMUdmT3M0cDZGWXFjZUx5d3NQQkRqV2ViVzBB?oc=5",
+    "title": "Unitree unveils H2-X Kung Fu Legend Guardian, sparking discussion on potential of humanoid robots serving as security guards",
+    "source": "Global Times",
+    "published": "Thu, 22 Oct 2026 08:59:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree has unveiled the H2-X Kung Fu Legend Guardian, a humanoid robot designed for security applications.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "security",
+      "robotics"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHZBUVpkM09icDQ2U09vM1VNNzZ6TnBWNHVESVg4ZzBSTnVYU2w0dFZsOG5oMzAydzZ4QXoySFExWkI3WTdab2FZLVZyUUxUZXNpaVBhSjRkLUFMUjhSY0liSTNVV3J4aVNrZkV0b0hHNDBGX2ZqZmVIUkRCWEw2Wk5FTXV5bjNCWHc?oc=5",
+    "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
+    "source": "Electrek",
+    "published": "Thu, 22 Oct 2026 15:56:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla delays Optimus production to late 2027, citing unresolved issues with the humanoid robot's hand dexterity.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWl4c2xjeEg3dnhZRDFEYkJVVDVXWTY0S09uTGp2bFVZNnBzRDBzOTJNZmc5TkdIV1RQYXg0cm5EM2hDdGhiV2hQRVRaamE4RkdiZmJSYUhSUTljNnRmaXE5OGd1QWxGaUZsS19RcHhOU2N1aTFtUzVPdDAwUXNrS0s3dm9VbXQzZUFBYmtTanI3MDFq?oc=5",
+    "title": "Elon Musk says training Tesla's Optimus robot is like raising a toddler",
+    "source": "Business Insider",
+    "published": "Thu, 22 Oct 2026 10:33:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Elon Musk compares training Tesla's Optimus humanoid to child-rearing, a metaphor that offers little concrete detail on the robot's actual progress.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "training"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44dm81VWpXb0F0dUVZNzJ6SlJxNWliYndxNXdnV19rUkNBaWpFMGE3a3h5RmU4MjltNlBfd3hJNmE5X0RKSXRXNk9aUnBhZUpIRk5YeXF6UzZ0Z0h5Wnp1czNB?oc=5",
+    "title": "Humanoid robots’ ‘ChatGPT moment’ could come by 2027, but commercialization remains a hurdle, Unitree founder says",
+    "source": "Global Times",
+    "published": "Thu, 22 Oct 2026 12:13:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Unitree founder Wang Xingxuan predicts humanoid robots will reach a breakthrough moment by 2027, though he acknowledges the gap between technical capability and actual deployment.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Wang Xingxuan"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "commercialization"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGtRVWY4NWtkTVlhcEtSU211eE0xaklIMzFPckhMQW9EM0w3UXB4bWZxVXpOZjJuZEpUeUtTYU1xZXJ4Z2MxVUE5RDFJRG0xODAtZlJ2TkhJQ2MyYlRUbTQ3WnUtTk5aOV8wbjM4TFc5dF9UOGljUVVKd2stY2Y5NXBaREp1UzJ5WHItd29OWHQ4WWdYNXVqMldB?oc=5",
+    "title": "Humanoid robot cuts model processing delay 8x with NVIDIA tech in internal tests",
+    "source": "Interesting Engineering",
+    "published": "Thu, 22 Oct 2026 02:06:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "An unnamed humanoid robot manufacturer reports an eightfold speedup in processing latency using NVIDIA technology, in internal testing.",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "inference optimization"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejByRENoRnRwNmFjTHdzcTFMYTlwZ25jaENTNS1ucV9iQjNwT3ZBQnVydHFjU0EtYzNaMHBEOE1rRW92OXpERnVRa2Z2ck9zOV84VHhQNXdMeFF3R0g5YU5NSktudnAxb1BQTlM2S0pkSUtudXAyRDNHV0JIVDhGeUs4MkRYRTZKRGdGM0lYUndEcHhVYzBpb3lBcDdNdw?oc=5",
+    "title": "China’s Unitree Shows Off H2-X Robot With Kung Fu Moves and Rescue Skills",
+    "source": "TechRepublic",
+    "published": "Thu, 22 Oct 2026 14:31:13 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree unveiled the H2-X, a humanoid robot that performs martial-arts moves and emergency-rescue tasks, demonstrating dexterity advances in physical AI.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "rescue",
+      "dexterity"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzkzc3otcWhReHRKWEJRZWZQUEQwM193U1lrSTJyaG11aHpHdi0tUWNuY2JoNVEwX3I3S1NGNlRNVDBtZHdZY1NGTzdzakpPLXg3VTBkVFZyWGFFU1pSVjZjUlhGa0ZrWDBzOFRlLWxKX1dpdVFSSzZLZ1dDRWpEdHR3dlB4QQ?oc=5",
+    "title": "How NVIDIA, Teradyne & Sereact Are Scaling Physical AI",
+    "source": "AI Magazine",
+    "published": "Thu, 22 Oct 2026 11:54:57 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "AI Magazine examines how NVIDIA, Teradyne, and Sereact are working to industrialize physical AI systems.",
+    "companies": [
+      "NVIDIA",
+      "Teradyne",
+      "Sereact"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "scaling",
+      "industrial automation"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaDhoczRMMXEySjFBWDhaZ1FNTDNCWlp1d1QwZF9qbHpMaGRtMGF0dXdrV0tUN3ZNS0diek81T1hQR014SkNvMjY4eDBwczhUX2pTcVFacy1YSHBkd2pTVnN3?oc=5",
+    "title": "Chinese vendors dominate global humanoid robot shipments in H1 2026",
+    "source": "Global Times",
+    "published": "Thu, 22 Oct 2026 13:36:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Chinese manufacturers shipped more humanoid robots than the rest of the world combined in the first half of 2026, according to Global Times reporting on the emerging market.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "market share"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tNXFSOXpUR0U0SnZ3S01pUUtKYnpPaWlxQ3UwRmlwakoxeFlvdV8wakpSaTZZbHFKZWxGZ0ZUcDdWQmh2cFFsSHRycDRnOFBpbjNsT0JPN0lQbUVlMDlrc3dubS16akZ5dDE2QTlrcTlwOUtkVVdWRzdBTXQ?oc=5",
+    "title": "Commentary: Colorado is way behind on Waymo rules",
+    "source": "Colorado Newsline",
+    "published": "Thu, 22 Oct 2026 16:56:26 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Colorado commentator argues the state needs to establish regulatory rules for Waymo's autonomous vehicle operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUdndklNZE5QbzYyWWpsb1lSUTRiR2tLNFNMbkF4cWZBN3JtUEdpNWtMSEpRaFRFbTZxeGFka2QwX0c2dUdzVEJKMmtCOU4wak1ULWdiR291R2MxTDRfS1J1U1F2QmpXMzhZX21iTFQ1RU9jNUlEUE43dXdLaFhqVl9teElOOVBXSFVPZFBZTEoxT3FmOWtnNg?oc=5",
+    "title": "Waymo's Growth Outpaces the Rules Meant to Govern It",
+    "source": "Autoblog",
+    "published": "Wed, 21 Oct 2026 21:31:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "As Waymo expands its robotaxi service into new cities, squeezing Uber and Lyft drivers out of fares, a Colorado commentator argues the state has no regulatory framework ready for the autonomous fleets already on its roads. The two pieces together capture a company moving faster than the laws meant to keep pace with it.",
+    "companies": [
+      "Waymo",
+      "Uber",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing",
+      "labor displacement",
+      "regulation"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUdndklNZE5QbzYyWWpsb1lSUTRiR2tLNFNMbkF4cWZBN3JtUEdpNWtMSEpRaFRFbTZxeGFka2QwX0c2dUdzVEJKMmtCOU4wak1ULWdiR291R2MxTDRfS1J1U1F2QmpXMzhZX21iTFQ1RU9jNUlEUE43dXdLaFhqVl9teElOOVBXSFVPZFBZTEoxT3FmOWtnNg?oc=5",
+        "title": "Waymo's Growth Outpaces the Rules Meant to Govern It",
+        "source": "Autoblog"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tNXFSOXpUR0U0SnZ3S01pUUtKYnpPaWlxQ3UwRmlwakoxeFlvdV8wakpSaTZZbHFKZWxGZ0ZUcDdWQmh2cFFsSHRycDRnOFBpbjNsT0JPN0lQbUVlMDlrc3dubS16akZ5dDE2QTlrcTlwOUtkVVdWRzdBTXQ?oc=5",
+        "title": "Commentary: Colorado is way behind on Waymo rules",
+        "source": "Colorado Newsline"
+      }
+    ],
+    "body": "<p>Waymo is adding cities faster than Uber and Lyft drivers can refresh their earnings apps. The Alphabet-owned robotaxi company, which already shuttles paying passengers in Phoenix, San Francisco, Los Angeles, and Austin, has been pushing into new metro areas at a pace that trade press now describes bluntly as a threat to human drivers at the ride-hailing giants that built the gig economy. Each new city is another market where a fleet of sensor-studded Jaguars can pick up fares without a driver who needs health insurance or a bathroom break.</p>\n\n<p>That expansion has outrun something less visible than market share: the rulebook. In Colorado, a commentator writing in Colorado Newsline this week laid out an uncomfortable fact for state regulators — Waymo vehicles are operating, or poised to operate, on Colorado roads without a regulatory framework built specifically for them. The state, the argument goes, is \"way behind,\" relying on patchwork traffic law and goodwill where it needs statute and enforcement.</p>\n\n<p>Put the two stories side by side and a pattern emerges that is becoming familiar in American technology policy: deployment first, legislation later, if at all. Waymo's commercial logic is straightforward. Every city it enters without a dedicated regulatory apparatus is a city where it can scale on its own terms, setting precedent through presence rather than through permission. That is good business. It is also exactly the dynamic that has alarmed consumer advocates and labor organizers watching driverless cars multiply from a handful of pilot zones into a genuine transportation network.</p>\n\n<p>The stakes are not abstract. For the drivers currently working for Uber and Lyft — a workforce that leans on gig income precisely because it offers flexibility unavailable in traditional employment — a robotaxi that undercuts fares in a new city is not a hypothetical disruption but a direct hit to take-home pay, arriving with no transition plan and no negotiating table. For riders, the appeal is obvious: a car that shows up, drives itself, and never asks for a tip. For city and state governments, the Colorado complaint points to a gap that matters well beyond one state — questions of liability in a crash, data collection on public streets, curb access, insurance requirements, and who exactly answers to regulators when the \"driver\" is a trunk full of lidar.</p>\n\n<p>What makes this moment notable is not that a company is moving quickly — Silicon Valley has always moved quickly — but that the gap between deployment and governance is now wide enough to make the news twice in one week, once as a labor story and once as a policy failure. Autonomous vehicles are no longer a research curiosity confined to a few sunbelt test markets; they are a commercial reality spreading into states that have not yet decided what rules should apply to them. The robotaxi is already on the road. The traffic laws, in more places than Colorado, are still being written.</p>",
+    "slug": "waymo-s-growth-outpaces-the-rules-meant-to-govern-it-201136"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGYzTEYzYkhWX3Utdm9WQnduTERIZEZ1Q1c5Mm5aT1R0WE80NkJsYThUa3h4OTFVSGJIcHFWTVhLXzBWWF9ncUd0U1FDTFVTZXNnWUhMUHc5Nk43UWpoZDZLbE4xbDNCOWFzckQyREprS1BfdUJYSm5XaVo0SXRMaEZtVzZZelQ3cXRIMDVibmphNU82d0E2d0ZocndyMF8tV01Z?oc=5",
+    "title": "Tesla Outlook Supported by Self-Driving Software, Robotaxi Growth, RBC Says",
+    "source": "Yahoo Finance",
+    "published": "Thu, 22 Oct 2026 15:46:58 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "RBC analyst affirms Tesla's outlook based on potential gains from autonomous-driving software and robotaxi expansion.",
+    "companies": [
+      "Tesla",
+      "RBC"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXBDb1VReG1uZ0t3RTdBbHVMMy1GdHZJRlVkZzB2azgzaEcyaWEyb2tuNVpIQTRXNnBpZEJiQXRKWk0taWZWbGpZWGtpVzZfSGcxQ2xOX2RHV0Z2STlSRU9sVTFvdlF2OVg5blcyd2EwQjR3U3pLQTZleS1WRmdoTUlvOEZBX0VfYnlGLXdOdTNSeDBNMW85OF9mZ1NPYWFrWjZRMnh30gGrAUFVX3lxTE9haWFGcXpILUlfY09XVy0wZzVpRjNkSWwwcU0xaVNGUWNrbVJ0dDRUODQwajlzRFVTVDBLY0lDZXJ6V0RQSFAxMnM5LUtfWW1pZ0tDR3A3cGVnT3VUM3l0V0E1aC1ZV0F1czRnbVJFRS1ZeXRad1g0ZVpvMkpGVDBNZ1Y0OVM3cFBVcWlwR3lBdjFONl84eWpFM1BSNWtzWWVGN2YyT3VsRHVfMA?oc=5",
+    "title": "71-year-old pedestrian killed by self-driving Tesla crossing I-80 in Vallejo: CHP",
+    "source": "ABC7 Bay Area",
+    "published": "Thu, 22 Oct 2026 16:14:28 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla operating in autonomous mode struck and killed a 71-year-old pedestrian on Interstate 80 in Vallejo, California.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMm43ZGNLbE1IOG45a1l6WF9DSVI4UkVfSlZzX1p0R3kxem5tdGxtU0s4VTA0ckZ6VjdlYV9wTThyN3kyWTUwX0dpWlRlTGtZX2FLaHM4cjFENEpjeC1qUlQ5akREWlR2WGVWWE9kUUc4ZkFVbFNpaHdycDdIVEl6YmlTOGhKQnlscHh5MEFDTzVoaTY3MmVzd05wWFIxVFo2?oc=5",
+    "title": "Tesla posted a highlight reel of its robotaxi avoiding collisions with rivals Waymo and Avride",
+    "source": "Business Insider",
+    "published": "Wed, 21 Oct 2026 22:03:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla released a marketing video of its robotaxi dodging competitors' vehicles, a highlight-reel performance with no independent verification.",
+    "companies": [
+      "Tesla",
+      "Waymo",
+      "Avride"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFdzNllPdWRwSEpweGw0UlRvUk1QODNXZ1RxRWlnbFYyUGJEb2h2SmpiTnowUVU3azQwcENKMkdjaXdrY3EyUjk0bTBuY3VqTHdXdmhwQ2U0U2JOeHNYVlBLS3JFQmZuTTY0S19raURkbUFSQS1vT0xzQU5IQTJXQVVjZl91TTdYc19BUHBYbWxqYUJFVlY1R2FtRGQ4QTZoLUZfZVpMZ3dkaTh6YVRieXY5NXRFUQ?oc=5",
+    "title": "Self-driving Tesla hits and kills 71-year-old pedestrian on California freeway",
+    "source": "Los Angeles Times",
+    "published": "Thu, 22 Oct 2026 17:32:28 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's self-driving vehicle struck and killed a 71-year-old pedestrian on a California freeway, marking another fatal collision involving the company's autonomous system.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "fatality"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3RZR2JrMFlDbDRKTG1HQUQ4WThTQXlVWGVhQzJCWEdtc2tLbmlMQW4yTnhPTnFxOU1uWE1OR2gyck5nZjdvdXN2bDJvRFFtYWNVa2dRWnNkanFZZFQyX09IYXNrMFdYVlBFZ1Vnc0FDb2JsSVk0REhVNldGVlBJaGtob1ZkbURjajRNMV9LZExUSDRwa0E?oc=5",
+    "title": "Tesla sees EV output more than doubling to 5 million by 2030 behind self-driving demand",
+    "source": "Automotive News",
+    "published": "Thu, 22 Oct 2026 14:15:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla projects EV production will more than double to 5 million units by 2030, betting on autonomous-vehicle adoption to drive demand.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "EV",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeU1zX2NMZ2xmd2E3ZS1SdlplakNNWGJvMU15UmxqVGV3SlVwU0w3SXlOLWltSXd5Y0xybmMtMjUzdkZ1NzcxSUhaQm9scm95T0hKWDdYYVZrb3hjZU1FSl90Nlg5dXdpNTRnTVN5QmdBNXA1cnYyODBxZzgxc1NIMk1aLTQwc2F2cER1bko2Ukk0QTBQcXVGdWhaVlpBM3ptLWw2Tml2cTJCdw?oc=5",
+    "title": "S.F. Tesla driver who fatally struck man crossing highway said car was in full-self-driving mode",
+    "source": "San Francisco Chronicle",
+    "published": "Thu, 22 Oct 2026 17:43:57 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla driver involved in a fatal highway collision told authorities the vehicle was operating in Full Self-Driving mode at the time of impact.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "full self-driving",
+      "safety",
+      "fatality"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzVUZU5xdUg0Z2gzam9kSHdoWEhOeVZ0R0pROUpoNGFfc1FPSUc2clNBRHRwTFZWUDRBNWF6enZLVnJOZ0JWaThCcjJrOWd1OTZNSElvazdEZ1RoS0R6SklkV1pjQUdseHRkeGNRUzNSSnY0eG1YSmxRelE2WUdOOFV3bjQ3NHc2d3ZIeHN4Y2FHNlAtQkdiQWVCeEhoUXZJQlViTGR5SXjSAa4BQVVfeXFMUDllb3VfVFJPSEYtSlNnc0VQNHp5NDhma0lEV0haSU5aZ0x6c2ZZcFNvMnZNVGU2cHdrMDBvYy1NM3RyUmQwWkF3U1NKR2xYTTFCc2t5aDhSODFzOUFFVmdMLVVoa0RaLWlxV2dQSDR5bkVaWENjUnZ4WV82TkQxcDUtZk9wbTZfMnBjMDM5Z1k5bDUzVHIyTWxIbGJiTUJ2TDRhalpvWmNVMXc4OXZ3?oc=5",
+    "title": "Vallejo man dies on I-80 after struck by self-driving Tesla, CHP says",
+    "source": "KRON4",
+    "published": "Thu, 22 Oct 2026 14:59:28 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla operating on autopilot struck and killed a pedestrian on Interstate 80 near Vallejo, according to California Highway Patrol.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety incident",
+      "autopilot"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMG1rN25tZEdWSzd4eWMwZ2Z0cC1aanV1RFVWQ1FNbTQ2cHpNV0UzZFVYeDQxbGF4eUl2SlpJcFBVUHViVGlWanlXMXRoRHZNbTNxQmRkLXpVaEtOTERTZTlqZktzUGtxLXlvMFp4d2d1RU5wR2s1X092c3BGNklEaWlVZHJoZWd5eHBmczQxZlBMb28?oc=5",
+    "title": "Driverless taxi service eyes Spokane-area launch",
+    "source": "Spokane Journal of Business",
+    "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "A driverless taxi service is planning to launch operations in the Spokane area.",
+    "companies": [
+      "Driverless taxi service"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "taxi service"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkpMMVEzYmpXbnI0RXZKeG5rWW04dzNLbVp4S1ZGV0hJUmdfS24xZ0R1dTdsUHYwdk5DVHF5RzhaVV9QaW9oNW9zckJOLUFVaGFMMHlEV2VXYUlZMkRlRjV2QmRiUHlvZXN1LVVkX1VSTlU2ZHF5X2ZlOUdNQ2NucFlNdWxNRC1WMF9QSlhMWkVvZkd2TlNDOFVR?oc=5",
+    "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
+    "source": "The Verge",
+    "published": "Thu, 22 Oct 2026 18:07:02 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla driver operating Full Self-Driving struck and killed a pedestrian crossing I-80, marking another fatal incident involving the autonomous driving system.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "Full Self-Driving"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXI4aWZfSjhFQlZfemJmRlhocFg1SWx5ejhwQkVaTTN0cHBFRjRZMFctOFNlUHRwMU8wVG1wYXYzV0s1eElTMmNicTZ5aW1JbnpnNGQ3czlObk43ME1ZRlE1TVZDSE5wT25qY1RNWjBSbFV3aGJOd3pTU1lnazRoQjctaTE4enNCNVVuMy1FR0M2SVZC?oc=5",
+    "title": "Tesla in ‘self-driving’ mode kills pedestrian, 71, on California freeway",
+    "source": "New York Post",
+    "published": "Thu, 22 Oct 2026 18:33:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Autopilot feature was active when a Model Y struck and killed a 71-year-old pedestrian on a California freeway, raising fresh questions about the safety claims surrounding the company's autonomous driving systems.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "Autopilot"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelZwbXE4QWtpNVMyVnpQajNpdXZmSVcwbl9sT2sxaWZfMHZGdjlGRWJTSmdOM09qODF0VHhvbERUUVRER2JacXJvOUZPRmM2aElkRS1RNkNIRVZlVTg3bUdqa0owa1UySmlDb2VJZG9DNm9yN21IN2NmSGpGeG5GbTNEM0Z5ako3TEJxaG5FSWI?oc=5",
+    "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
+    "source": "Teslarati",
+    "published": "Thu, 22 Oct 2026 17:52:56 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Teslarati reports survey data suggesting Tesla buyers prioritize Full Self-Driving capability over vehicle hardware itself.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "Full Self-Driving",
+      "consumer behavior"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM18tSVg0am9IRy1GYkttVHZ2NnZEbFhma2R5ODNicEx1NG5iVURfWUl3Um9RanNFcHlXOHY4U1VnRDM1cUJWQVNUbzhCS1UwbThQUnM4U3pfbHdtemVhVURZR3NXT2JkdDQ4ckI4M3A4WkpUS3V2aFpFWkV6Q2QtVVMwRFdNbmd5d0ZxN21qX0RzNUFsYjl1Yk9B?oc=5",
+    "title": "Waymo to launch its robotaxi service in Spain",
+    "source": "Yahoo Autos",
+    "published": "Thu, 22 Oct 2026 15:09:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is bringing its driverless robotaxi service to Spain, expanding its European footprint beyond existing deployments.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemVMYmFKei0temVTcGlqdE41WTVIUV9JUHJDdmhxcDhnX1g4TTUwR2s0RW5zRXljYUUxWVVFNUlNSnJtaW5xM2MwM1U1WHV3MmVnZFB0aDlGNGFhWUtPa0pnWTFTS0N2Rkp0cFVBVmZlVHhVT1hUc1BMZXROdTBCZHhCZ0Zvc1VlRTlFT0djeVJ6UFllZmxXbFZfTXJ0MGRVN3c?oc=5",
+    "title": "Waymo Is Bringing Robotaxis to Canada in 2028 — Toronto’s Winter Weather Will Put Them to the Test",
+    "source": "Yahoo Finance",
+    "published": "Thu, 22 Oct 2026 10:17:21 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo announced plans to deploy its robotaxis in Toronto by 2028, betting that its autonomous system can handle the city's brutal winters.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "winter weather"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVZnR3FOb3RPTmZrR2plcmZtaldoYXNRd1FnYWZvdUI4UkZIdUIwckc0M2RqaEdQOHZ1eW5ySlNrc25sVjNPeGF5RGVFMGI4LW9qWmJ4VmNodDlMR0EyWUN1UHkxTmpXM2x6a2lUTldlaXpwdzJwUGFHRUdRcW5pckViSmtVcE4wLWZLZXo3VUVsc05yVkJvWTJRQ3BOdzM3LW9yUHNUYzJIeUxoTXozN3gzdWYyZw?oc=5",
+    "title": "GM's Vehicle Boss Makes the Case for Self-Driving Cars, From Factory Floor to Family Dinner Table",
+    "source": "The Drive",
+    "published": "Thu, 22 Oct 2026 17:47:09 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "In a wide-ranging conversation with The Drive, GM's vehicle chief laid out how the company is juggling V8 engines, EVs, and autonomous systems on parallel tracks rather than betting everything on one future. The same executive argued that self-driving technology's killer app may not be robotaxis but something quieter: letting aging parents keep their independence without the awkward conversation about handing over the keys.",
+    "companies": [
+      "General Motors"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "electric vehicles",
+      "autonomous driving",
+      "autonomous vehicles",
+      "elderly mobility"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVZnR3FOb3RPTmZrR2plcmZtaldoYXNRd1FnYWZvdUI4UkZIdUIwckc0M2RqaEdQOHZ1eW5ySlNrc25sVjNPeGF5RGVFMGI4LW9qWmJ4VmNodDlMR0EyWUN1UHkxTmpXM2x6a2lUTldlaXpwdzJwUGFHRUdRcW5pckViSmtVcE4wLWZLZXo3VUVsc05yVkJvWTJRQ3BOdzM3LW9yUHNUYzJIeUxoTXozN3gzdWYyZw?oc=5",
+        "title": "GM's Vehicle Boss Makes the Case for Self-Driving Cars, From Factory Floor to Family Dinner Table",
+        "source": "The Drive"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRm1ZV3BxR1M3Y1E3RldFR1FEVlpXWnppRVcySk9qVnBhR1RNRG1jUUhMM044M21sLU1vekdKbUxqTThXcmYweTZFNS05cndVLWI1ZVFxZFZYc1p5bzdubExFeW1CeTM1eWRJal9ZcVc2MU1pSUY4RUJRUzNnM1E1bXh2eXVidUJMMDAtOS1aVUFZa2JRRmRVbnZTV3lBZm1BZUhtM3pFdE4yNkRFbVBPVGtCbG1qTzNzZURoMg?oc=5",
+        "title": "Taking the Car Keys From Aging Parents Is Brutal. GM Wants Self-Driving Cars to Change That",
+        "source": "The Drive"
+      }
+    ],
+    "body": "<p>In an interview published this week by The Drive, General Motors' vehicle chief laid out a strategy that amounts to a refusal to pick a lane. The company is developing new V8 engines, expanding its electric vehicle lineup, and advancing self-driving systems all at the same time, on parallel engineering tracks rather than in sequence. There was no press conference, no stage in Detroit or Austin — just a conversation in which GM's top vehicle executive explained, in practical terms, why a company that once bet big on an all-EV future is now hedging across three technologies at once.</p>\n\n<p>The more striking part of the conversation wasn't about horsepower or battery chemistry. It was about dinner tables. The executive argued that the real breakthrough use case for autonomous vehicles may not be the robotaxi fleets roaming San Francisco or Phoenix, but something far more domestic: giving an aging parent a way to keep driving — or rather, keep going places — without ever having to say the words \"it's time to give up your keys.\"</p>\n\n<p>That framing matters because it reorients a debate that has mostly been fought over spectacle. Robotaxis make for good footage — a car with no one behind the wheel gliding through an intersection — but they've also made for messy headlines, regulatory fights, and public skepticism after incidents involving Cruise, GM's own autonomous unit, which the company dramatically scaled back last year. Pivoting the pitch toward eldercare reframes self-driving technology as infrastructure for dignity rather than a taxi-industry disruptor, which is a smarter, humbler sell to a public that has grown wary of robotaxi promises arriving years late.</p>\n\n<p>The three-track strategy also reflects a broader reckoning across the auto industry: EV demand has cooled faster than forecasters expected, combustion engines remain stubbornly profitable, and autonomy is proving far harder to commercialize than Silicon Valley roadmaps once suggested. GM's answer is to avoid betting the company on any single timeline, a hedge that is less a long novel than a legal brief against its own costly Cruise retreat.</p>\n\n<p>For the robotics and automotive industries, the significance lies in the reframing of the business case for self-driving technology. Instead of chasing the economics of fleet ownership and ride-hailing margins, GM is pointing to a quieter, slower-moving market: the tens of millions of aging Americans whose independence is tied, awkwardly and sometimes dangerously, to a driver's license. If autonomy's first mass-market success story turns out to be keeping a 78-year-old able to get to church and the pharmacy without a family intervention, that's a smaller, less cinematic win than the robotaxi dream — but potentially a more durable one, built on an emotional need every family eventually faces rather than a hypothetical urban-mobility revolution.</p>",
+    "slug": "gm-s-vehicle-boss-makes-the-case-for-self-driving-cars-from--19b32a"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWM5dnVTbXd6TGlPWF9nSm93V3NiSWl6YXRueFd4VTRraGpDUWprQ3NkNjluZFh4YWJYT19IMnBJSmdDdWJjY0ZDZXN2OTZicUhvMTVtalZCbHRtUkswdDFkTFdXTWd3OVdXLS04c3JNSWEtakVtTDlaekRzX2ZnX0hHMTFZLUZSUVRqWE9xb2ZpYWdRU21FTVBvMTNUeHZhZUxMSWswLW1Dak5FenI3ZDNXYXNnYVU?oc=5",
+    "title": "Tesla Leans Into Robotaxi Narrative With Marketing, Fleet Expansion Plans, Analyst Praise",
+    "source": "The Verge",
+    "published": "Wed, 21 Oct 2026 23:36:31 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla posted a highlight reel showing its robotaxi dodging rivals Waymo and Avride, part of a broader push to sell the robotaxi story: RBC reaffirmed its bullish outlook on Tesla citing self-driving software gains, while the company said owners will be able to add their own cars to the robotaxi fleet starting next year. None of it has been independently verified, and 'will it happen?' remains the operative question.",
+    "companies": [
+      "Tesla",
+      "Waymo",
+      "Avride",
+      "RBC"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWM5dnVTbXd6TGlPWF9nSm93V3NiSWl6YXRueFd4VTRraGpDUWprQ3NkNjluZFh4YWJYT19IMnBJSmdDdWJjY0ZDZXN2OTZicUhvMTVtalZCbHRtUkswdDFkTFdXTWd3OVdXLS04c3JNSWEtakVtTDlaekRzX2ZnX0hHMTFZLUZSUVRqWE9xb2ZpYWdRU21FTVBvMTNUeHZhZUxMSWswLW1Dak5FenI3ZDNXYXNnYVU?oc=5",
+        "title": "Tesla Leans Into Robotaxi Narrative With Marketing, Fleet Expansion Plans, Analyst Praise",
+        "source": "The Verge"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMm43ZGNLbE1IOG45a1l6WF9DSVI4UkVfSlZzX1p0R3kxem5tdGxtU0s4VTA0ckZ6VjdlYV9wTThyN3kyWTUwX0dpWlRlTGtZX2FLaHM4cjFENEpjeC1qUlQ5akREWlR2WGVWWE9kUUc4ZkFVbFNpaHdycDdIVEl6YmlTOGhKQnlscHh5MEFDTzVoaTY3MmVzd05wWFIxVFo2?oc=5",
+        "title": "Tesla posted a highlight reel of its robotaxi avoiding collisions with rivals Waymo and Avride",
+        "source": "Business Insider"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGYzTEYzYkhWX3Utdm9WQnduTERIZEZ1Q1c5Mm5aT1R0WE80NkJsYThUa3h4OTFVSGJIcHFWTVhLXzBWWF9ncUd0U1FDTFVTZXNnWUhMUHc5Nk43UWpoZDZLbE4xbDNCOWFzckQyREprS1BfdUJYSm5XaVo0SXRMaEZtVzZZelQ3cXRIMDVibmphNU82d0E2d0ZocndyMF8tV01Z?oc=5",
+        "title": "Tesla Outlook Supported by Self-Driving Software, Robotaxi Growth, RBC Says",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "body": "<p>Tesla this week posted a highlight reel of its robotaxi gliding through traffic, deftly avoiding collisions with vehicles operated by rivals Waymo and Avride. The video, released as part of a broader marketing push, circulated widely online, showing the company's autonomous vehicle navigating around competitors' cars in what reads as a none-too-subtle statement of confidence. Separately, Tesla said that starting next year, customers will be able to add their own vehicles to the robotaxi fleet, a move that would significantly scale up the service beyond the company-owned cars currently in limited operation. The announcements landed the same week RBC reaffirmed its bullish outlook on Tesla, with the analyst pointing to gains in self-driving software and robotaxi growth as reasons for optimism.</p>\n\n<p>None of it has been independently verified. The video is marketing, not a safety audit; the fleet-expansion promise is a plan, not a product; and the analyst note is a bet on execution, not evidence that the execution has happened. This is, in other words, a very Tesla week: a company that has learned, more than perhaps any other industrial outfit in America, how to make a press release feel like a product launch.</p>\n\n<p>Why it matters is that Tesla is trying to win the robotaxi race in the court of public opinion while Waymo continues to win it on the street, with paid rides operating in multiple cities and millions of autonomous miles logged. Tesla's bet has always been different — cameras instead of lidar, software improving via fleet data instead of painstaking city-by-city mapping — and the company needs the narrative to hold because its valuation leans so heavily on the promise of autonomy and robotics, not current car sales. Every highlight reel and every RBC note that cites \"self-driving software gains\" does real work for the stock, whether or not the underlying technology has cleared the bar regulators, insurers, and skeptical pedestrians will eventually demand.</p>\n\n<p>The owner-fleet idea, if it arrives, would be the more consequential of the two developments, because it imagines ordinary Tesla owners as Uber-style micro-fleet operators, letting idle cars earn money autonomously — a vision Elon Musk has floated for years without delivering. Making that real involves not just driving software but insurance frameworks, municipal permitting, and liability law that no amount of marketing can conjure into existence by fiat.</p>\n\n<p>For the robotics and autonomous-vehicle industry more broadly, the episode is a reminder that the space now runs on two parallel tracks: the slow, regulator-supervised expansion of services like Waymo's, and the faster, louder narrative-building that Tesla specializes in. Investors and the public are left to sort marketing from milestone, and \"will it happen?\" remains, as ever, the only question that actually matters.</p>",
+    "slug": "tesla-leans-into-robotaxi-narrative-with-marketing-fleet-exp-d86b89"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjdRWV9JLWFNakI0M0NCdHRRVC1mOUJ1MXBiY0NfaEE0N0piU2hWSXpRYWJfTHBSZkpmNFRhVlc5SWtTdzUtbFo0bjRkNkl2eGJsY1k4dC1pY0JyOS1RX2ptQ05DOHNBc2ttN0s1ZzZWLVM1cmxldzZ3UXVwYjhLWnVndzhPRndjU1VuWEt4REZfNHl1bXRTUlhsaUM1UQ?oc=5",
+    "title": "Elderly Man Killed By Tesla In Self-Driving Mode on I-80 In Vallejo",
+    "source": "SFist",
+    "published": "Thu, 22 Oct 2026 17:32:25 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla operating in self-driving mode struck and killed an elderly man on Interstate 80 in Vallejo, California.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "fatality"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRm1ZV3BxR1M3Y1E3RldFR1FEVlpXWnppRVcySk9qVnBhR1RNRG1jUUhMM044M21sLU1vekdKbUxqTThXcmYweTZFNS05cndVLWI1ZVFxZFZYc1p5bzdubExFeW1CeTM1eWRJal9ZcVc2MU1pSUY4RUJRUzNnM1E1bXh2eXVidUJMMDAtOS1aVUFZa2JRRmRVbnZTV3lBZm1BZUhtM3pFdE4yNkRFbVBPVGtCbG1qTzNzZURoMg?oc=5",
+    "title": "Taking the Car Keys From Aging Parents Is Brutal. GM Wants Self-Driving Cars to Change That",
+    "source": "The Drive",
+    "published": "Thu, 22 Oct 2026 18:53:10 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "GM positions autonomous vehicles as a solution to the wrenching family conversation about when aging parents should stop driving.",
+    "companies": [
+      "General Motors"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "elderly mobility"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VMXdKVm5ORU1QZ19KLWljMUFKb3JWUmEyT2trVkY3cmY4alk2LWp4TVFRNkN2TnFFNVBOd0JBQ3BqZXZOUC05bGlnbV9VZEF5cW93STJGaGxPRTVvRnBPMF8tVlJiWHJGczNN?oc=5",
+    "title": "Drone system uses VR for warehouse inventory",
+    "source": "Tech Xplore",
+    "published": "Thu, 22 Oct 2026 11:28:23 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "A drone system pairs virtual reality with warehouse inventory tasks, combining two familiar technologies without apparent breakthrough or deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "warehouse automation",
+      "VR"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk9wODNFRDhJOU50dnBIcFdzZ0hLaFFoSWFPc3MzNEJUZkgzQmtOSVhVbTQyT1ZrY3RtMHc5N25SeXdRVVVHdEZ5TlNjelVHTHp2SmM0cERneWo3T1QyVmRWMExVa0lmZXlSekViUTc0MjdmZjd0QVBvc2Jrazk5YVBoemlXcTZkN1BQMi16M2lmbjk0a1RhbENQUGdhdDhQMC1TTGdiNURYLW1hV21v?oc=5",
+    "title": "University of Cincinnati Engineers Use Sound to Detect Drone Damage for NASA",
+    "source": "Dronelife",
+    "published": "Thu, 22 Oct 2026 14:46:20 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "University of Cincinnati engineers developed an acoustic detection system for NASA to identify damage on drones in flight.",
+    "companies": [
+      "NASA"
+    ],
+    "people": [],
+    "themes": [
+      "drone inspection",
+      "damage detection",
+      "acoustic sensing"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdm0tVzh2SF8zQlVKOWI4bVlHMnBKNDdXWXlaU2xSbWxHaU1CUzlmaUFKdHVVdEtJRFR1UWhEUmQ0aXdnaXd6cGhWVTVoYURYdmtnZTFOU2dOOFBNTWJCMHl2YjlkbjByNnpGVmlzWlZaeHQ3LW5vajE5RFFDSzVPa0UweC0?oc=5",
+    "title": "How a Drone Light Show Company Is Attempting to Build a Caribbean Cargo Network",
+    "source": "Commercial UAV News",
+    "published": "Thu, 22 Oct 2026 13:05:10 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A drone light-show company is pivoting to cargo delivery across the Caribbean, betting that island geography will prove easier than mainland logistics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "cargo delivery",
+      "drone network",
+      "logistics"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlA4M3dRMW5va3JENlV4NHBaRXZqU0dDTFZ6T1hRM0ZFcHJZMmFYR0IyS0FILXQxUmRHVE9QWWJBVDkxXzBYUWFmaGJwODJqS0VqWUZQMmpIYzI4SngyVEkxUko3b2h2VzBPalpDRERKZ1FRTldETjBXOGI5dHhadzBaU2xLRzZ1OFNibE5RUmlvc21WLUJFLTlqb245S3Rz0gGmAUFVX3lxTE9ZXzgyeHJxN3VyRFk0OU4zU2RfZ2RMQ3FxbHV5bm1qS2NJQ1dGZXNncndyTmFIU0EtXzYwZTItYlBSUmprUmUwN0JFd2VvNFh4d0xCd25uNGdXUEtnTHFZZDFnd2tuY2M1YVdLdzFOOWtzRTcySTBQZ0xBYTlGeEZ3UHRhZ0g0VlFGV0c1WXFhSUNmajF2S3k3SEJZMWZvR2d5VDA4bVE?oc=5",
+    "title": "BCPD gets $200,000 to launch semiautonomous drone service",
+    "source": "WOODTV.com",
+    "published": "Wed, 21 Oct 2026 20:21:35 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Battle Creek Police Department received $200,000 in funding to deploy semiautonomous drones for law enforcement operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "law enforcement",
+      "semiautonomous"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjZndEhyU1FzRFZDWUl3dF84ZjQ4aHEtMmxJLU5jZlNtVDFCbWQ0MWtLSHFKMDNPRjBVM1BqOG8yOC1CZXljMnBjOXBSZUtvNjRDQTlST01RRjNTTklEdnhpRmZkbllBblFMQnhTcEtxc1Q0djF4ZzQzc1RfSHdnWE5FOXNWS1BDdDJKMGtnb05iTFh6QU9kM0NkdktUN2N2V0xfcERjUnFuUDRCbk91LTk5WUs1aGZP?oc=5",
+    "title": "Evolver DFR Launches Integrated Drone as First Responder Solution for Public Safety",
+    "source": "UASweekly.com",
+    "published": "Thu, 22 Oct 2026 17:29:37 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Evolver DFR has unveiled an integrated drone system designed for first responders and public safety applications.",
+    "companies": [
+      "Evolver DFR"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "public safety",
+      "first responder"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQUltMnFsdFBpU0xEdDRBZVJxR0NaVTZZVlpZSWFnMF9mOHdKVExsb3FFZGtXSl81NzBLbUVCUm0ybjA3TDJzM3hsc1lGUExWN0tKUkszaWFyOEJfcEU5Zk1iRHFNS2J0d01BQ2dTa0ZxRUh2cGZxaWIzYnltZFFDN09RUVpsUlkyZTdPek9DRDgwLUx4ckJ4elZZMnhIdEJ3YVFvZ1ZyTGVxZVp4XzF3cWgyUTJORjBoUE5oNHBIMUNUNVRPN1Z3WnVha1ZvTU0?oc=5",
+    "title": "ZenaTech Details Drone Services Growth, Acquisitions and Defense Expansion",
+    "source": "TradingView",
+    "published": "Thu, 22 Oct 2026 04:02:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "ZenaTech disclosed expansion into defense contracting and a series of acquisitions as it scales its drone services business.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drone services",
+      "defense",
+      "acquisitions"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlNDSllRZDBadjExUVdZS2NIRmFOWlRfX255bGNlcWJfXzFIUkFvZTk2TUZfR2Q3dllEMkdRSS1HbF9TZFp1NnRKZm1xN1hNcm9mNUdGcWFUd1gxN3JNYXR1YmNGbzJ5S19mZWdGQ1U5djg5Y1NQeTNaVGVoV2t6SDk3ZEVGQTQ1TzV0SmZnLTdWeGd0UUxHQXZVekJtQXF0YVh1bkxUVklSUkhNNjhQWlJPS0Q4a2tiWDB0WGtkV1o?oc=5",
+    "title": "Evolver DFR Debuts a Complete Drone as First Responder Program for Public Safety Agencies",
+    "source": "sUAS News",
+    "published": "Thu, 22 Oct 2026 12:09:50 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Evolver DFR has launched a turnkey drone program aimed at first responders and public safety agencies.",
+    "companies": [
+      "Evolver DFR"
+    ],
+    "people": [],
+    "themes": [
+      "first responder",
+      "public safety",
+      "drone deployment"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTU3RWpRem8tQmp1OU4za3JLN21tSVRtX0FNR0ozc3JsZ3JCX1ZmSTFXNzJ4ZFU1NE82dENDVWZrQ3VRWmZrbU1lQ29UNUFqd1NWQlpudGl0Z3BZVDJuQy1mLUphZnhhNS1mbGpTam9uZFpHTzdBX09KTlU2RkpoTjAtRE1zbU5TWm9PNFZHc2pESjBCOS1ON0RremhIT1I2UGxfZ1YxUmQ2a0ZBX1E?oc=5",
+    "title": "The US Military Wants to Build an ‘Autonomous Warfare Command.’ Here’s How.",
+    "source": "The National Interest",
+    "published": "Wed, 21 Oct 2026 20:22:36 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Military theorists propose a new command structure to manage autonomous weapons systems, though no concrete organizational changes have been announced.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "military",
+      "defense policy"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmVDQjY5VzVkbjlWcWRFbGxYMDgzeFJhekpZRm5NWEZib09mVjdRWWNzekVSd2V1Wkk4SlVCM0JsenB0X1dZNnA2SGljX1hwUVh1TE9EWnMyTnlUSnkyRWtmU09ZNWFsZTNCQjg5ZS14bjBpZnlBU0R2OGhXbl9sVA?oc=5",
+    "title": "Evolver DFR Launches Integrated Drone as First Responder Program",
+    "source": "Dronelife",
+    "published": "Thu, 22 Oct 2026 13:37:12 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Evolver DFR has launched an integrated drone program designed to support first responders in emergency situations.",
+    "companies": [
+      "Evolver DFR"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "first responder",
+      "emergency response"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmU4Q1B2QldwYTFtZDFpMXkyZ2tiMnZRRXI0NkFHQTh1RmpsQ0dLS1E1SzJqRnlCTGhEUWlrdllUb20ybnFqRlBVX1lSdDJVamlBWkNndDUzaWJyNEhNZ1VnVHlvSGx1WmdhOGZqVEdHelVyc0xPSzBYX1ZjMm5HbVhuQlltV3ltd3BvaEVB?oc=5",
+    "title": "A brain-computer interface may give unresponsive ICU patients a voice",
+    "source": "Medical Xpress",
+    "published": "Thu, 22 Oct 2026 16:50:01 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers explore whether brain-computer interfaces could restore communication for patients with severe consciousness disorders in intensive care.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "medical devices",
+      "neurotechnology",
+      "patient communication"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0RWcVpJemZ1ZnlVZkt5WG9WZGdZUzlfS0hVd01qR2VwSWoxQXVsQmNkOW13SFJveE0tS0ZCVHM2SjA5NXVabWo3QVRkVFZiR1JiUlZObVlsUnFHcno4cGVIbDRHWFNkVlRpU0lNSFQ3aEM3QlgzU0VVUTRWSjJiOGpYZGdOWUhZWS1laVczSTdwOTFLQ0FSV00tdUNEa1BHZzJqRkhZLW1PTnNETVU0LUFtTG1qU29yNzVHdUo4bWNqVWpxeHJiWNIByAFBVV95cUxPZXZhNS1JazE3dXZla2lqdkptNG5WNGVhWHBjWm43d2p4OXZjLW94Ulp2ZVJCZmlvWnVleG9OQkMwbjBuTzVLaENpOFhST0hMZTV4TmRTbm15bHlSQmFMRnREdUJUOGxRbE4wZkpCTEhaM2Zsc056aEVxbTFYRkkzS05OT0J2aExTN2lWMk82N1JHU1B2WmFVellCWmVvdFRsT2JTZHBYSC1DWC1IblNWc1J4Q3pqZ2xPTXRYNXRUYlRfQXhQUF9ISA?oc=5",
+    "title": "China takes step to standardise technology linking human minds to computers",
+    "source": "South China Morning Post",
+    "published": "Thu, 22 Oct 2026 06:00:26 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "China has released draft standards for brain-computer interface technology, a regulatory move that signals state backing for the emerging field.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "standardization",
+      "regulation",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVhyc3RtdWJtQ0lDWmhIRGNzVjU3VklVOHFMbzRJaUdEaXlndTVXWGpnTkxoUWdKWHdUME9fX1dXVGFPU0NaMjhqaFU4VU9JcFVZSm5fTGhpUHlJbW1yTWJMNDRuZnVIOUFscE50WXpfSlB4b0YtYURnUnVNUHZXY29HUEx1VUFwZnB1dGtRQlRoZDho?oc=5",
+    "title": "Dual-stage motor imagery boosts brain-computer interface decoding",
+    "source": "Bioengineer.org",
+    "published": "Thu, 22 Oct 2026 06:28:28 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers report that a two-stage motor imagery approach improves the accuracy of brain-computer interface signal decoding.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "motor imagery",
+      "neural decoding"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmFqaEZiY21KenFXbDZqWXZsMlUzdXVndThHaXY2eXBQSF9FYjBVUGNsU05XNnNpUG5KdTYyeUVKWjY0RzZwcjFaT19qVUxNZ2RtN0hMdFg3SjFIdVRoT3pWUmNtaVhLZEFqRkZ6Zzg5RHJVdURzdE9sVUVzM1VBS0NFZlNBLTBCX3NQQUxNNHZ2NE9FVFdRMnk4U0JCZzQ?oc=5",
+    "title": "OpenAI and Peter Thiel Just Joined a $45 Million Bet on a Brain Implant That Fights Cancer",
+    "source": "Inc.com",
+    "published": "Wed, 21 Oct 2026 16:47:02 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "OpenAI and Peter Thiel's venture firms back a $45 million round for a brain implant company pursuing oncology applications.",
+    "companies": [
+      "OpenAI",
+      "Peter Thiel's venture funds"
+    ],
+    "people": [
+      "Peter Thiel"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "funding",
+      "oncology",
+      "implant"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT2tuaE42NzBXYVVkT1lzTkl4cXgwdUpUOU9rY3haMTB1UXhka2pWdWZCNkhvVV9qVnRyMjNIM2tXM1FYTXBEZTlVV2IwenhaY3VxX29qbWlkYXktOWJiR25abzdlcjRwZUFqZEo5YUNYSVREVEZDc3JucVJ2bXBKZDJKVTY0dUFoUFJTNkhOeVNSX3hHOEE?oc=5",
+    "title": "Brain Implant Helps People With Paralysis Communicate",
+    "source": "News of Bahrain",
+    "published": "Thu, 22 Oct 2026 07:23:10 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A brain implant has enabled people with paralysis to communicate by decoding neural signals into text and speech.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "neural decoding",
+      "assistive technology"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWEwLU1QOHU2WjNFeUM2MEVqSDU3Ujh1UnVFYW5jd0ZqelRCcGR5dlpMZ3pCd0UxaVVPYlRMN0ZQc0lDQ1RfNTJFaG5saTNHcE4ydDNrbEhxNjduWTBkenJiUjhvdnhKc2tRVTg1UXV4QzNiZGF3ZEQxZllLZV9OQ3BuMEtFcS1CMWI1TkZtS2pIZWRvUE1JTVdWSzhVellKQ3c2dkxCWUJGNnNQcjAtX3RqMlhLNVBxOGxjSExUN0tkbjJXSWlHRkJZX0R6ZzRLUkt0WTQ5UGdnQTBvemJJ?oc=5",
+    "title": "Neuralink plans 'high-volume' brain implant production by 2026, Musk says",
+    "source": "Reuters",
+    "published": "Wed, 31 Dec 2025 08:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Elon Musk said Neuralink plans to reach high-volume production of brain implants by 2026, a significant acceleration from the company's current early-stage trials.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "neural implants",
+      "manufacturing scale"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tOUR4OU9lWng4cVNIdElGR01DXzUtU2p5NlMyMzV6bThwSzhrMnl3eU9YSFFjcTdraXJLUTd0eXZvM1A1d3h4Z3hEQ1htb0xQTWFmeQ?oc=5",
+    "title": "Brain-Implant Race Heats Up Between Neuralink and Synchron",
+    "source": "DongA Science",
+    "published": "Fri, 16 Oct 2026 23:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Musk said Neuralink aims for 'high-volume' brain implant production by 2026, a leap from its current early trials, while a video showed one ALS patient regaining synthesized speech to talk to his wife through the device. Meanwhile rival Synchron is readying its own large-scale clinical trial, positioning itself as a direct challenger in the race to commercialize neural interfaces.",
+    "companies": [
+      "Neuralink",
+      "Synchron"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "neural implant",
+      "speech restoration",
+      "clinical application",
+      "brain-computer interfaces",
+      "neural implants",
+      "manufacturing scale",
+      "clinical trial"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tOUR4OU9lWng4cVNIdElGR01DXzUtU2p5NlMyMzV6bThwSzhrMnl3eU9YSFFjcTdraXJLUTd0eXZvM1A1d3h4Z3hEQ1htb0xQTWFmeQ?oc=5",
+        "title": "Brain-Implant Race Heats Up Between Neuralink and Synchron",
+        "source": "DongA Science"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWEwLU1QOHU2WjNFeUM2MEVqSDU3Ujh1UnVFYW5jd0ZqelRCcGR5dlpMZ3pCd0UxaVVPYlRMN0ZQc0lDQ1RfNTJFaG5saTNHcE4ydDNrbEhxNjduWTBkenJiUjhvdnhKc2tRVTg1UXV4QzNiZGF3ZEQxZllLZV9OQ3BuMEtFcS1CMWI1TkZtS2pIZWRvUE1JTVdWSzhVellKQ3c2dkxCWUJGNnNQcjAtX3RqMlhLNVBxOGxjSExUN0tkbjJXSWlHRkJZX0R6ZzRLUkt0WTQ5UGdnQTBvemJJ?oc=5",
+        "title": "Neuralink plans 'high-volume' brain implant production by 2026, Musk says",
+        "source": "Reuters"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZHNtMzZiMnZtbVN0QlUyU3BYSmNESXhYZE1vZ3ZPWGtRZXQyZWcxNzR3Z21fcGJPTG4xTDRUWXZXcmNMSl9uUkR0ekU3QzNqbW94UzgwVzFvRU94Zk9waFRLUWpsSzdNYVZUOWhkLTJxSFpfSnBjSW1KRzdaN1d5c25CeFN1VUxsSXk4V2JYZm9YSlBKSEhzNDJwNm5iN3FvWFdZcDQ3bmt1Zk5hTzcwOFhrYlFHYlRrdHdRUGJIdktyck44el9fQkhvblpQd2I2dTFPamxlWTJkdw?oc=5",
+        "title": "EXCLUSIVE: Synchron, a rival to Musk’s Neuralink, readies large-scale brain implant trial",
+        "source": "Reuters"
+      }
+    ],
+    "body": "<p>Elon Musk told investors and reporters this week that Neuralink intends to reach \"high-volume\" production of its brain implant by 2026 — a startling acceleration for a company that, barely two years ago, was still implanting its device in a handful of patients under careful clinical supervision. The announcement landed alongside a video, released by the company, showing an ALS patient using the implant to generate synthesized speech and, for the first time since his diagnosis, speak directly to his wife. Meanwhile, in a separate Reuters report, Synchron — a New York-based rival that has taken a notably different surgical approach — confirmed it is preparing a large-scale clinical trial of its own implant, setting up what increasingly looks like a two-company race to put electrodes in human brains at commercial scale.</p>\n\n<p>The ALS video is the kind of image that tends to outrun the caveats around it: a man who had lost the physical capacity to speak, talking again, to his wife, in something approximating his own voice. It's a powerful demonstration, and it is doing real work for Neuralink's narrative, which has otherwise been dogged by questions about electrode longevity, trial transparency, and Musk's tendency to treat product roadmaps like applause lines. \"High-volume by 2026\" is the kind of phrase that means very different things depending on whether you're a regulator, a surgeon, or a shareholder. Neuralink has implanted its device in a small number of patients so far under FDA-sanctioned trials; going from that to volume manufacturing implies not just engineering confidence but a bet that the regulatory and surgical bottlenecks — training enough neurosurgeons, scaling chip and electrode production, managing the inevitable complications — can be compressed into a couple of years.</p>\n\n<p>Synchron's countermove matters because it breaks the assumption that Neuralink is operating in a vacuum. Synchron's implant, delivered via blood vessel rather than open-skull surgery, has always marketed itself as the less invasive, more scalable alternative — and backing from Musk-adjacent and non-Musk investors alike has let it quietly build out its own trial infrastructure. A \"large-scale\" trial from Synchron suggests the company believes its surgical approach can be the one that actually survives contact with hospital systems, insurance reimbursement, and the slow machinery of regulatory approval, even if it loses the headline war to Neuralink's showmanship.</p>\n\n<p>What's at stake isn't just bragging rights between two Valley-adjacent startups. Brain-computer interfaces have spent two decades as a niche of academic neuroscience, tested on a few dozen patients in university labs. If either company actually reaches commercial scale, it would mark the first time implanted neural technology crosses from research curiosity into something resembling a medical product line — with everything that implies about cost, access, and who gets to decide which patients are candidates. For the broader robotics and AI industry, it's also a signal: the interface between human intention and machine action, long treated as software's province, is becoming a hardware race, fought in operating rooms rather than server farms.</p>",
+    "slug": "brain-implant-race-heats-up-between-neuralink-and-synchron-ef8881"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qOHBBdGNnc05HQXlNUW5iaU9pQTkzeXlsODlUTVJIeFpSZzYyS240d0V0aks0cXdab3I1LTdIeVNYdzd3aERPN1g5RlVmNC1UV0t4ZlZ4Uk1kY2REUzlaRDV1VTh2WlliMEpBMGZSQm5vNXpXTnB4QW9zS2o?oc=5",
+    "title": "Neuralink’s First-in-Human Clinical Trial is Open for Recruitment",
+    "source": "Neuralink",
+    "published": "Tue, 19 Sep 2023 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink opened recruitment for its first human clinical trial of a brain-computer interface implant.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "clinical trial",
+      "neural implant"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5elVGR1FGUnN2QW9kc3kzendVaUhKcEhXRjlVVnktMnVZQllKMFN1OGxqVEVQZXZoUXhTeElmTzhNZnEwUk9WWWdIc2E0ZWJRRWQtTU5PNmh5VzhmYV9maDlCaDBFZ1VZRnc?oc=5",
+    "title": "PRIME Study Progress Update",
+    "source": "Neuralink",
+    "published": "Fri, 12 Apr 2024 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink releases progress data on its PRIME brain-computer interface trial, the first human implant study to track real-world performance.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial",
+      "human testing"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6WjlZYjlpQmFqNG9pdFl0N0FFNU1CX1dkekM0QjZKTThNZVRzQnMyYS04S09VSE1LMk9lSWo2emhCLVhTdDdrUkl1ZVN4VmVPeWhkTi1ySGtLbFJlVzA4?oc=5",
+    "title": "A Year of Telepathy | Updates",
+    "source": "Neuralink",
+    "published": "Wed, 05 Feb 2025 08:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink released the first annual update on its brain-computer implant patients, revealing functional gains a year after the initial surgical placements.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "patient outcomes"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQnBwSmNKOVl5ZXFhZTJ3bkJrY0xtZEpqakpIMVFxT1I2Y3RoR1J4SnB6dlduUTdsVG9PNzlmWWJMcEtVZTlOZ3VTbUxUSWY5X1d0ZlF1RGdhMFg4QmQ2ekhXc3FwVUdnckItck54YjlxVUN2Ym1FRE5jTjhwb2s?oc=5",
+    "title": "PRIME Study Progress Update — User Experience",
+    "source": "Neuralink",
+    "published": "Wed, 08 May 2024 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Neuralink publishes a user-experience update on its PRIME brain-computer interface trial, emphasizing patient feedback rather than announcing concrete clinical results.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "clinical trial",
+      "neural implant"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZHNtMzZiMnZtbVN0QlUyU3BYSmNESXhYZE1vZ3ZPWGtRZXQyZWcxNzR3Z21fcGJPTG4xTDRUWXZXcmNMSl9uUkR0ekU3QzNqbW94UzgwVzFvRU94Zk9waFRLUWpsSzdNYVZUOWhkLTJxSFpfSnBjSW1KRzdaN1d5c25CeFN1VUxsSXk4V2JYZm9YSlBKSEhzNDJwNm5iN3FvWFdZcDQ3bmt1Zk5hTzcwOFhrYlFHYlRrdHdRUGJIdktyck44el9fQkhvblpQd2I2dTFPamxlWTJkdw?oc=5",
+    "title": "EXCLUSIVE: Synchron, a rival to Musk’s Neuralink, readies large-scale brain implant trial",
+    "source": "Reuters",
+    "published": "Mon, 08 Apr 2024 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Synchron is preparing a large-scale clinical trial of its brain-computer interface implant, positioning itself as a direct competitor to Neuralink in the race to commercialize neural recording technology.",
+    "companies": [
+      "Synchron",
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXc0SHZOaUlwOE9BYlhhdG90ZkljMndNeU1QbEpONEZGbDdhSmJmVUM4MlhwZzdGd25scTc3MV93cU95OVVMcDhjejM2c2FmbjU5QVFELVpBdnF4aTI2Q2pkbWhHLTZqTWwtaF9QUFkxNzZEUnp6QTVEdTUxSVFUT2FfdEJUMjRlN2JtSDItM0xILTRpU1AtZ2Z4YUdLdFpaR2Jnc2Fn0gGrAUFVX3lxTE1XNmNFbC1qRUd5WUNQWndpY0xVTFozTWQzWGNsUjBBak9KQVFRblRXNW92UDFSNVJKeE5GcmtsQVlLRTltcGpTZ1NMc3kydzN0WU9ocHExejJnVDNSTTBYdWtqdUZUdk8xb2U4ZVNuV1A5Q0ZkSG1wVzdRU2gtbzYwMWYyYU1MQWRMU0hIWF9EN0xXdnZ0NmozalMtSWJoWThhcEhlU2hZTEphRQ?oc=5",
+    "title": "This patient’s Neuralink brain implant gets a boost from generative AI",
+    "source": "MIT Technology Review",
+    "published": "Wed, 07 May 2025 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink enhanced a patient's brain-computer interface implant with generative AI to improve signal decoding and control speed.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "generative AI",
+      "neural decoding",
+      "patient outcomes"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://neura-robotics.com/tum-robogym-munich-4ne1-gen4-launch/",
+    "title": "A Powerhouse for Physical AI: NEURA Robotics and TUM Open RoboGym in Munich",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics unveiled its 4NE1 Gen 4 humanoid robot and opened a research center with TUM in Munich to train machines on industrial tasks.",
+    "companies": [
+      "Neura Robotics",
+      "Technical University of Munich"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "foundation model",
+      "robot learning",
+      "manufacturing",
+      "logistics"
+    ],
+    "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
   }
 ]
