@@ -86966,7 +86966,7 @@
     "first_seen": "2026-10-16T18:35:07",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -87838,7 +87838,7 @@
     "first_seen": "2026-10-16T18:35:07",
     "week": "2026-W42",
     "why": "Landing a drone on a moving ship without GPS solves a hard, practical problem: operating in contested environments where adversaries jam satellite navigation. This is the kind of unglamorous engineering milestone that actually enables autonomous carrier operations at scale. Watch for integration into standard fleet procedures rather than remaining a one-off test.",
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -88028,7 +88028,7 @@
     "first_seen": "2026-10-17T17:43:40",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -88055,7 +88055,7 @@
     "first_seen": "2026-10-17T17:43:40",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -88108,7 +88108,7 @@
     "first_seen": "2026-10-17T17:43:40",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -88753,7 +88753,7 @@
     "first_seen": "2026-10-17T17:43:40",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89184,7 +89184,7 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89234,7 +89234,7 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89894,7 +89894,7 @@
     "first_seen": "2026-10-19T20:19:50",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -90661,7 +90661,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -91002,7 +91002,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -91596,7 +91596,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -92048,7 +92048,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -92593,7 +92593,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -92746,7 +92746,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -92795,7 +92795,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -93021,7 +93021,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -93049,7 +93049,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -93077,7 +93077,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -93159,7 +93159,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -93210,7 +93210,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -93385,7 +93385,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -93544,7 +93544,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -93625,7 +93625,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -93666,7 +93666,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -94152,7 +94152,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -94294,7 +94294,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -94349,6 +94349,1056 @@
       "logistics"
     ],
     "first_seen": "2026-10-22T19:01:39",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BdE5BMTd6blp4ZmtlTnc0UVZNNmRYRkxHVmxlVUxhV3JGbm1ma1ZiaEN1cGpyOTB4akg2LVpEblFrTXQzUnFxVHZ6ZWlVOWp1cG92UXZmQ2hwa2NuQWNaaUpCMktZbElhYzVORjJtS0dSdGdQ?oc=5",
+    "title": "Washington's robot curbs could slash the U.S.'s humanoid robotics revenue by 58%, as companies lose access to China",
+    "source": "Fortune",
+    "published": "Fri, 23 Oct 2026 13:26:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Fortune models a scenario where U.S. export controls on humanoid robots could cut American revenue by more than half if companies lose the Chinese market.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "export controls",
+      "geopolitics"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLW9TMDZnOXA1SDU4MWxocjVwQ0FVNThUVFlDOFpoeXBmZW83SUtpOGlIekNHbjU2Vy02SWwtaTYzbnFkdFhIa0NfejBhYWpBaEZ5MTg4TjFFb3ZWOUFNM0RYTXZoNFlaaXRfeHZfUnV5dnVOanhYQTRpUmxCaV9nSlNsdzLSAYoBQVVfeXFMTnJPNThFeU0wc2lQcDVpV0V1TXhCcDNsSE9UTmJndWVVYXdOS2R0YnFTZUpkeElSaFNMb29Mck9RYmc2MTF3UlhNSVZuY2ZpOGNmVzdMZWw1WVFSMWdLenRRTGpZVEdZS0t0Ni1NekM0RzVIZlF2aUhBVlRRYUVTaURuNnhsVHBGdzFn?oc=5",
+    "title": "Tesla begins production of 'Optimus' humanoid robot",
+    "source": "ABC7 Los Angeles",
+    "published": "Fri, 23 Oct 2026 04:38:19 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla has begun production of Optimus, its humanoid robot, moving the project from prototype to manufacturing.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics manufacturing"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmxNOWVoWW1iMXNXQ2xLTGt3eFRmZGxBakY4d0h6dERlbVZod1lGbHVIa1pMbkczYUFTUXVHaWZQR2pZZ3JVM0FmTmhQWDczTy1mOGRCRGZqTEZWN1FXemR3X19uSHJSeHo2ZWM2dW0tcnZlVURHV3Q2U2VfODZoOE1wQUVjcGxCeHB5ejN3SHlBV0NqNHlKaQ?oc=5",
+    "title": "LG Innotek Teams With Nvidia to Develop Humanoid Robot Vision Systems",
+    "source": "Channel Insider",
+    "published": "Fri, 23 Oct 2026 14:20:50 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG Innotek and Nvidia are partnering to build vision systems for humanoid robots, targeting the embodied AI hardware race.",
+    "companies": [
+      "LG Innotek",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "vision systems",
+      "robotics"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONkZNdVFTT2ZXLVZOSGg3QXRrRlVJaUI1TTVVbTVzSkJzLWVHaE50bUdIbnBrRjkzdEotVTJEejVsdDhNdGpHMlVHaUxPaWh4Sk1xWnlRWU1ib3p4MVlQWV9xSUotdmhHLWZtNnRZU2lpc05WYmZpZVNhdnNEa0NPcENGZUlLakx6MERXeGVDQQ?oc=5",
+    "title": "NVIDIA expands Isaac tools for humanoid robot development",
+    "source": "Engineering.com",
+    "published": "Fri, 23 Oct 2026 13:29:32 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NVIDIA expanded its Isaac platform with new tools aimed at speeding up humanoid robot development.",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics development tools"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkF3ZVg1NFVoRGVTazkybmVGanVqc3EzRXdNVHpFRW9XOFJvRWZMeWJtTzZENDA2MEx5ei05UENHRTExSU1DdUlvWlMzbEdHRGRGelR2aER4M2w5RzU3V3BJTXdMUUZCUDFJc0hrS0JNb19TTjlCMk42RkxrUUFGT3d2eVR5Zw?oc=5",
+    "title": "NEURA’s 20% lighter humanoid robot with touch and force sensing moves toward production",
+    "source": "Interesting Engineering",
+    "published": "Fri, 23 Oct 2026 13:48:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NEURA has engineered a humanoid robot that is 20% lighter than its predecessor and adds touch and force sensing as it moves toward production.",
+    "companies": [
+      "NEURA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "touch sensing",
+      "force sensing"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFRKeEdIdDcwZVhzXy11UTc3YTVKX0FENzFzWkczSm9FZ1pibEpGdFpKbXMyMHpJc25vdnRDRjFRamx0NnRkMGdNTUwwcU5Fd3VCQkViZk1XajVJN21HRjFPTkhpR1VIWXY0OTBtQTRqeHhnQ3pqYWRBVUUyaVNJVEVGdTZ4YlJNVDItWGM1V1VaRnNjYmRpazliZnEySFdpTGRuSU5tX1BBQm1YNGlPRWNWbWV6LWwwcXU1bGd30gG-AUFVX3lxTE5aQnlhNTZtWl90WWZVNWVKSUtEa0Y5OTFOUkxXcEpBTkFybG5ONWJRVGNFelZPZU0xY0ZhQnRJS2NoQWNUdkRyRVRhUFdObVc4eTFaZVlxUmRTS3RzVG1uTDJKNS05U2I1UEwzMGNsd1lXazZJUmh5d1VfYldCUnRZRnBQRGFVWXFNYWZvVVdzbC1tdE1FdktZblAtb09aczFsZjJ4ZFY4MDMwQU40MVBnUUJ2TnFyVVRRd0JmWFE?oc=5",
+    "title": "China’s humanoid robots go job hunting in South Korea",
+    "source": "South China Morning Post",
+    "published": "Fri, 23 Oct 2026 08:00:33 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Chinese humanoid robot makers are testing their machines in South Korean factories and service sectors, marking an expansion beyond domestic markets.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "international expansion"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mS0xtdlphZ1lCSUd3WVpuajJWT3FGQkN5RlNKei1Gc2I1alpNNzRWVENyUEN4azgyNllJVExmY0lVbFhMc3pjcGVOMUJqQ1RvUFJpRUJFdzJMREhpcWpGN2U0d0JfNnVOYjFVUGM1VE5mTU5pWFdmeg?oc=5",
+    "title": "LG hires ex-Hyundai robotics chief amid Korean corporate race to secure physical AI experts",
+    "source": "KED Global",
+    "published": "Fri, 23 Oct 2026 17:25:53 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "LG has hired a former Hyundai robotics executive as Korean conglomerates compete to build physical AI capabilities.",
+    "companies": [
+      "LG",
+      "Hyundai"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "hiring"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
+    "title": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+    "source": "Bloomberg.com",
+    "published": "Fri, 23 Oct 2026 08:29:20 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Unitree founder predicts a robotics breakthrough by 2028, offering a timeline without disclosing concrete developments.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Unitree Founder"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXA4NGZ5cFV0S2E5U2hNRk4tZ0piay1jWWhScjJ0bWRPQllrcDRZUzFNamdHc0tGZF9NOFFpQnZXQ0c0SjZuaVhKQV82MXFRRnJZUVV0a2l1OTZLaGVoZHNQNVlfMGwzXzNWY0pTYTQ5ZlRRc2tSNnNUc3pPbFcyU0xTLXdJNlhYOE1odjk0QWtEc2FBTUctazRRWXNKcHl4Sm1LUEpKdWxlQU55c0staTJrYkNLYXlQREpHdG5wcEhmemxQTGc?oc=5",
+    "title": "Formic Raises $50 Million to Scale Physical AI Across U.S. Manufacturing",
+    "source": "Industrial Equipment News",
+    "published": "Fri, 23 Oct 2026 15:49:23 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Formic closes a $50 million Series B to deploy physical AI systems in American factories, betting that robots can learn to handle the unpredictable chaos of real manufacturing floors.",
+    "companies": [
+      "Formic"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "manufacturing",
+      "robotics",
+      "automation"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01d1VCWDlNVHkxSGtiNXBOSnEwanhJdG9IOEhLZ0diXzM3M1BjRDU4SnFWMnJ4b1RwYnJBYWppSDhVczhnOEtabUFnVjZTUWNKcE12ekxFQVpna3M?oc=5",
+    "title": "China’s Humanoid Army Pushes Japan to Rethink Its Robot Future",
+    "source": "IEEE Spectrum",
+    "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "IEEE Spectrum argues that China's advances in humanoid robots are forcing Japan to reconsider its robotics strategy and competitive positioning.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "geopolitics",
+      "China",
+      "Japan"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZzZUa0pRRURQaTVkdEFSN1Y1XzZSQkFiNmxPaHJSeXdwNUpSZ1RxTENJZ3dNeXl4M1ZlT3pXWFo3V3RvVEo5UHdDZWhBLUx0bHVYb0Y4aVJGc2FXS0hEWlpFX244V0dhYkt4eGJKSDhhTDdhMHpOeG9wSmpiUEpWV2NMVzZZV2FyYlMwTnRoNjZaM3lweVZ4QnhiWG8wTXdpZ1BTcV83NkJSaVgwMjFBcFotMEE3ZVFHeUw4?oc=5",
+    "title": "Audi Is Training Humanoid Robots to Take Over Certain Factory Operations",
+    "source": "autoevolution",
+    "published": "Fri, 23 Oct 2026 06:18:10 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Audi is deploying humanoid robots on its factory floor to handle specific assembly tasks, betting that bipedal machines can adapt to auto manufacturing's demands.",
+    "companies": [
+      "Audi"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "factory automation"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkt6YWd3eXdtVUlIaWdjdE1KYnpUUWpmMmtGMTVKV2pyMlUzY1dlcFZHV0MyZkNROWdONDYwSHByMjBZeEdKN3ZqanVKTDEzdmstR3lMU2c2LTUxWFQyVlpublJ3bk56NXlsWjI4aGlsbWxabG5Bbl8zQjlZcFhieHQxWUpBNWczaVZDcGdmMVJOcXRsWS1WaDZ3?oc=5",
+    "title": "Tesla Starts Producing Humanoid Robots: Who Could Get Them First",
+    "source": "Daily Voice",
+    "published": "Fri, 23 Oct 2026 14:25:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla has begun producing its Optimus humanoid robots, marking the company's entry into the commercial physical AI market.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA?oc=5",
+    "title": "Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack",
+    "source": "TechRepublic",
+    "published": "Fri, 23 Oct 2026 09:46:48 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Agile Robotics is shipping its ONE SN humanoid robot pre-loaded with Nvidia's robotics software stack, betting the bundled approach will lower the barrier to deployment.",
+    "companies": [
+      "Agile Robotics",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics stack",
+      "deployment"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSTdLYzhUYThPNkhHOElYNGlodlYzOUkxTXhnUXFST0xlYXphWmR0Q01ULXVuT3JqR1k1SW5iZzNNdVN5Z1NYVUxYVVNjUGo4bkRuczRuNzBPaFRLTXZIMEs5dUtHSGktWHh2UkRXOUd3TUxVMTZfZW1fRXNpMGlKcnRaLUgzejNCT28zNEJ1dEFYWHVtT3hJU1g4S0NNX2JwZ25lcnFoR3drNUFkaFA3SjNqaWg0MVlMWVRtQlJjYjFvVm5WTW9jQzItMXRHZGdl?oc=5",
+    "title": "FCC Robot Ban Cuts US Humanoid Robot Revenue 58%, Send Chinese Robots To Europe: IDC",
+    "source": "Forbes",
+    "published": "Thu, 22 Oct 2026 15:54:45 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "IDC report claims a hypothetical FCC robot ban would redirect Chinese humanoid exports to Europe while cutting U.S. revenue by 58%.",
+    "companies": [
+      "IDC"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "regulation",
+      "market analysis"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR3JTc1VMOXpkNFdBam10d21hV2doQmZwNk1LSEU1UjVDQThjY1h0T3BuUGdXSlZTVHZiYVgybWFuS0l2d3RGZERCdUxoREVCazQ2QUdqZ082UWdjcV9xakNxX2ZXX3pHamlNU1Q2blhTTHdHS0xkbjAxX3paQWRqZ3FnMVFKNUU2bGxnQjdleWw3Mlg0Mm4yYzhaWjlsVXBpVE56OWFDMA?oc=5",
+    "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+    "source": "TechCrunch",
+    "published": "Wed, 21 Oct 2026 20:33:09 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla has begun manufacturing its Optimus humanoid robot in California even as the company's quarterly profit plummeted forty-three percent.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robot manufacturing",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcUl6bGxJdkU1a3dZU1JRbmY1WWNfZ0RfV0V4LXhOTi1ZLUxpVFV1cjNFS1lHRTVsTkhmUTRpVHpKOHd4dXp1a25TazhJTXUwdFdWNWotNE9qRExzZmVmVnVnbnRmbGJJRV9SbU93UVhSdGxYUnpkX0pXYy11UVc3VGdrSW1XQjdqQTVVZHl0MFJGMVZtdlJzQVU5RQ?oc=5",
+    "title": "China's Baidu tests robotaxi on London streets",
+    "source": "Reuters",
+    "published": "Fri, 23 Oct 2026 15:34:37 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Baidu has begun testing its robotaxi on London streets, marking the Chinese autonomous-vehicle company's first public deployment outside Asia.",
+    "companies": [
+      "Baidu"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWhUal96SUMzM0RCbURnU0FPWnNfYzF2Qmtjc09PbjcwUmgzTmFyR1lyOHdtbUNFV0tuX3hMTzhIamtJTGk2cVBFeGI5dXJYOW04NERCU005LVp3NkdUMlVwSjVGYzJJcGZDTElfRVhfYjJYNnpPdmNVNjhlRUtHQ1hwbjZKc1NDNXc3cUdGbWtmNVJrRW1oR2d3SGtmemZfV0s0dmhVT2tqQWtQWHoySEN1SFpiYk5yUnc?oc=5",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "source": "TechCrunch",
+    "published": "Fri, 23 Oct 2026 04:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "InDrive plans to launch robotaxi trials in Central Asia by 2027 using Pony AI's autonomous technology and Nvidia's computing platform, expanding driverless services beyond Uber's current footprint.",
+    "companies": [
+      "inDrive",
+      "Pony AI",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "robotaxi",
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeFJoSkZFelk2OUw3U2RkNDBxaFJqTWNrb2x5UHJEZERKVEd0N2o5NFUyZnZDRTd2TmE2bHdELWkxeHFRM25KN2RJUXp2WURxcmtRQ0ZEbi1QOXVGTDZtUy1PQVdMeTAydGtPODQwUHB0VG11SzdKLXdIazdaN0p2MVczUUVsTU9Yc1hRV1VwemVaUFRsYVBZTm52Q3A0ZDQyRFFEVkRZYjFjcmc?oc=5",
+    "title": "Baidu and Lyft push ahead with plans for a robotaxi service in London (BIDU:NASDAQ)",
+    "source": "Seeking Alpha",
+    "published": "Fri, 23 Oct 2026 16:38:35 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Baidu and Lyft are expanding their robotaxi ambitions beyond the U.S. with plans to deploy driverless vehicles in London.",
+    "companies": [
+      "Baidu",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zZExRVkJtcWlkajAydjNsOGNXOEU4ekNBYnF6ckhxZHFXTWZMTzNENmZWRHdjakdkRzllalhVSVdaRFk1dWd2dXBybkpaSS1aNEsxUzFzbTFmMUc0RWpuS2hUM1AwbGVKaHlnUnJMZUxJdERjd3lDRg?oc=5",
+    "title": "Union concerns keep Illinois self-driving car plan in \"park\"",
+    "source": "Audacy",
+    "published": "Fri, 23 Oct 2026 14:23:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Illinois's self-driving car initiative stalls amid labor union resistance to driverless deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "labor",
+      "policy"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFJ3d0duQ29HV0NPRkRYUGpOcUYwX1pTbl9UUVhIMFJIbjNzRDRrTzhOMG9vbkJDMHBnTERLcjlpQ0ZTQmJnR05XZkJfekNWVlNnTmw0WnFzcHZsQWQ4V1d6M1F5Z1FiZkNuWHJnZkc0RzFBemdJZzNUSnJCVThYdWFGcTk3a1djR0hGWnpVUmVuc2t4d3c4OUVldjFnNFU1bHV6amFndjlzTGota3Y5NWZGYw?oc=5",
+    "title": "Green-Blue Lights on the Road Could Soon Mean a Driverless Car",
+    "source": "Bloomberg.com",
+    "published": "Fri, 23 Oct 2026 16:55:48 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Bloomberg explores the possibility that new road signals could eventually communicate with autonomous vehicles.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "infrastructure",
+      "vehicle-to-infrastructure communication"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlhNUkpFdW5CVFA0N2NuS3NzSHN0YkwwWHFlVmJYMWhNdFFGNEt0R2o2aTRxckhPdm5QcklCSlR2alN0NWFRUzFQTmdnbm1vQ1duaWNqV1FaNjNIYkVxWjY1aEk2cjM2UUFxVXdSUFpvSk5FbWt4S3NpaWp2Z2g4eGJFNFJpRXlDUVpXMXlZQ2lzTWpIZkppREU0SGk?oc=5",
+    "title": "Waymo Rolls Into Airports, But the Meter Still Runs the Same",
+    "source": "Airport Industry-News",
+    "published": "Fri, 23 Oct 2026 11:34:28 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo's driverless taxis have started picking up and dropping off at Harry Reid International Airport in Las Vegas, extending its service beyond city streets. Yet a cost comparison at San Antonio International Airport found Waymo rides priced no cheaper than Uber — the only real savings being the awkward absence of a tip line.",
+    "companies": [
+      "Waymo",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous rideshare",
+      "airport transport",
+      "autonomous ride-hailing",
+      "pricing"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlhNUkpFdW5CVFA0N2NuS3NzSHN0YkwwWHFlVmJYMWhNdFFGNEt0R2o2aTRxckhPdm5QcklCSlR2alN0NWFRUzFQTmdnbm1vQ1duaWNqV1FaNjNIYkVxWjY1aEk2cjM2UUFxVXdSUFpvSk5FbWt4S3NpaWp2Z2g4eGJFNFJpRXlDUVpXMXlZQ2lzTWpIZkppREU0SGk?oc=5",
+        "title": "Waymo Rolls Into Airports, But the Meter Still Runs the Same",
+        "source": "Airport Industry-News"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkxObzFiOHB4QlFDbUI0U2FzM0EtUGRMeVhFMlB2WUVnc1dWTEZDRGFoRlV3Z1Y5U0dVbVdKS1Z6NFBoNEpxY1lNTjlTa2FVVno2WmVrZWY0ckJ0ODQ2LW9fX1F6MXNLdGVMTUJRWUxjUzRBTXNjWDhhQmRuRDBpY2FMWThqUEFrdVI1OFFmNVNMVEVDQzY4?oc=5",
+        "title": "Waymo Was No Cheaper Than Uber in This San Antonio Airport Test (But at Least You Don't Have to Tip)",
+        "source": "Yahoo Autos"
+      }
+    ],
+    "body": "<p>Waymo's driverless taxis began picking up and dropping off passengers at Harry Reid International Airport in Las Vegas this month, the company's latest expansion beyond the city grids where its robotaxis have spent years learning to navigate without a human behind the wheel. The move extends Waymo's footprint into one of the more congested and high-stakes corners of urban transportation: the airport curb, that chaotic strip of asphalt where taxis, rideshares, shuttles, and harried travelers with rolling luggage all compete for a few feet of space.</p>\n\n<p>The timing is notable. Airports have long been considered a proving ground for autonomous vehicle services — predictable routes, high demand, and travelers who are often more willing to try something new when they're already out of their routine. Waymo's arrival in Las Vegas, a city that has embraced self-driving technology more readily than most, suggests the company sees airport service as a natural next step in scaling beyond its core markets in Phoenix, San Francisco, and Los Angeles.</p>\n\n<p>But a separate test, conducted at San Antonio International Airport, offers a dose of reality that cuts against the futuristic sheen of the announcement. A side-by-side cost comparison found that Waymo rides were no cheaper than a comparable Uber trip — the autonomous option's only tangible saving being the absence of an awkward moment at the end of the ride where a tip percentage flashes on a screen. For an industry that has spent a decade promising that removing the driver would eventually mean removing a chunk of the fare, this is an inconvenient data point.</p>\n\n<p>The gap between promise and price matters because it reframes what Waymo is actually selling. For years, the pitch for robotaxis leaned on a simple economic logic: no driver means no driver's wage, means cheaper rides, means a transportation revolution that benefits riders' wallets along with their commute times. What's emerging instead is a product priced like any other rideshare — the novelty and the absence of a human driver apparently baked in as a premium rather than passed along as a discount.</p>\n\n<p>That has real implications. If autonomous rides cost the same as human-driven ones, the case for Waymo's expansion rests less on affordability and more on convenience, consistency, and the particular comfort some riders feel — or don't — about sitting in a car with no one up front. For commuters and travelers, that means the robotaxi arriving at airport curbs isn't necessarily a cheaper way to get to a terminal, just a different one. For the industry, it's a quiet signal that the economics of driverless fleets — vehicle costs, sensor arrays, remote monitoring, insurance — may be absorbing whatever savings come from cutting out the driver. The technology is advancing into new geographies. The ledger, for now, isn't moving nearly as fast.</p>",
+    "slug": "waymo-rolls-into-airports-but-the-meter-still-runs-the-same-60ce18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ka1V4OGk1WmNhYnlGM3o5SG5xM2dCZnFwczczMkVWSDRSQlFQYTJmeU1ZYnRaYmVyYVQ2NFVocG93YlhtOHBQYkVoWjNzSEdZdUw4VVNDc2VKQjVHYVRQZzJKM0luU2Q3NWhSREQ4ZFA2dw?oc=5",
+    "title": "U.S. safety regulators are proposing cyan lights to mark self-driving cars",
+    "source": "Quartz",
+    "published": "Fri, 23 Oct 2026 17:36:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "U.S. safety regulators are proposing cyan lights as a standard marking system for autonomous vehicles on public roads.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkxObzFiOHB4QlFDbUI0U2FzM0EtUGRMeVhFMlB2WUVnc1dWTEZDRGFoRlV3Z1Y5U0dVbVdKS1Z6NFBoNEpxY1lNTjlTa2FVVno2WmVrZWY0ckJ0ODQ2LW9fX1F6MXNLdGVMTUJRWUxjUzRBTXNjWDhhQmRuRDBpY2FMWThqUEFrdVI1OFFmNVNMVEVDQzY4?oc=5",
+    "title": "Waymo Was No Cheaper Than Uber in This San Antonio Airport Test (But at Least You Don't Have to Tip)",
+    "source": "Yahoo Autos",
+    "published": "Fri, 23 Oct 2026 17:37:21 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A cost comparison of Waymo's driverless service against Uber at San Antonio International Airport finds no price advantage for the autonomous option.",
+    "companies": [
+      "Waymo",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "pricing"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTBUZnRWeFotYVBoQTE3bEhJVDdxdFotMFI4cFNXd1dlbTFzZDVsR3pxSVJSWGszOFJnemVGR29JWnBIS0NzZ0w4SVVvb2lkR1p5SWI0LURpVG02Q1lBMmNNLWloaDBQblZOcUtvT3BNR1licHNqR0lSWWZNaDZhLVVYdDFmSFhzcjFXdUw0UlFWcGI0Vk81RjNTS05GMG5YeFk0ZVhGME9Wa0VxVUs5UzlETFZtUQ?oc=5",
+    "title": "Tesla to Launch Unsupervised FSD, Let Owners Join Robotaxi Network in Q2 2027",
+    "source": "Not a Tesla App",
+    "published": "Fri, 23 Oct 2026 15:31:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla plans to launch unsupervised Full Self-Driving and a robotaxi network for owners in Q2 2027, a significant escalation in its autonomous vehicle ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxi",
+      "full self-driving"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1F3ZHlEMFhOQ3RmNnhFZHVvbzUySmRwdVhJSGVxTFJBcXRuWC1CQllzU3N5QVJ1MnByMEE5aXNiYWd6blJuVjA4RFhFNkJEMkIwRnRydGdvcEpWUWk5WVFlVGJ2RHIzTnBwak9CQV91WFNBUWZOOHBac1BURXpzS19DY3c2UF9yR1dtYzJpeWZzN2Q4MHNGa1NDT2Zxdw?oc=5",
+    "title": "Man hit and killed by Tesla in self-driving mode on California interstate, authorities say",
+    "source": "Gulf Coast News and Weather",
+    "published": "Fri, 23 Oct 2026 10:19:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla in self-driving mode struck and killed a pedestrian on a California interstate, marking a rare fatal collision involving the autonomous feature.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUW5XdFhnX3FETmNOTmNMZEdzRUEtQ1RYVUdYUElqbWpjbUZUa1NoVU9uUXZkZ1BOcnItR0p6Z1l2dzBDb3lvMnhfM2JQWWNhQUVDRU93ZXhiVDRfZndyUjJEZzVRN0tYS19ER0g5aFV5VkFpbld3Vzc2cHROVnk3cHhja3VFZVdKaExEWWdOM000elBBbUxkb1VzVlgwWkM5dUdPT3dma2k3MHZzVklCUDYwS2pLLXo5aUk5ZDJ0djA5V3kxR3owT3dNcVB0NWI4eWpNWlRBSVFrYlB5bUw5WHVQV3FHQl9RMHpnWEt3WTZUXzVuZ01ZUkRZMjlrU0trSktodTZPd1VUQzdoN1VjaXZSUndXQ28?oc=5",
+    "title": "Capitol News Illinois | Bill aims to study how self-driving vehicles can be integrated into Illinois transit",
+    "source": "The News-Gazette",
+    "published": "Fri, 23 Oct 2026 09:45:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Illinois lawmakers introduce a bill to examine how autonomous vehicles might fit into the state's public transit system.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "public transit",
+      "policy"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKR2VWYV9kTV80VVRWR0I0RkhjaDNMUFJxRHJHdVRjbDNBTkNCVzRRLTYtamNmM1J4eVBhR29tR1JERUttVllTWXRDamRlbm1MTG40ZEJnUWlUQ2Q1cnhGcER1UzIxMnJ4NXFpd2FsWC0tV1ZCSVJsRGQ2VQ?oc=5",
+    "title": "Wayve, Stellantis and Nvidia team up with France on self-driving cars",
+    "source": "The Next Web",
+    "published": "Fri, 23 Oct 2026 17:08:56 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Wayve, Stellantis, and Nvidia are partnering with France to develop self-driving car technology, signaling a strategic push into European autonomous vehicle development.",
+    "companies": [
+      "Wayve",
+      "Stellantis",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "partnership",
+      "Europe"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQODRnUUxTVXhZclA1YUpWWDlHYm1RSGJ4X3BQbDZqMnk1TTZ5R0I4UV9wNEM1Nm9ncThsN1BxMDJOYU92Z2tmblU5cDhfN0FhU3dGYUVTVGZ3cmVabUpHWFlGMjhDMnJVc1g2dDhxRzVqR2JHUFNvVHVXMFNNaDhERTFqSFdCblNkcUNWMHBrbVdDT2NHWFFOSTdyeTFadlUz?oc=5",
+    "title": "Tesla vehicles involved in self-driving accidents",
+    "source": "NBC News",
+    "published": "Fri, 23 Oct 2026 06:52:54 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's Full Self-Driving system has been involved in multiple accidents, renewing scrutiny of the company's autonomous driving claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle safety",
+      "Full Self-Driving"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEMzbWpMczE5QldaZHllUnRtdWlqOHhOMVNsUTB4NE9nemdUTjJqRjVvUFVLYnV1Ti1OQkEybG5kTjhJN0l4N3hFUE1tSHV5cWJIUnJTZVNDM093NmJMeXlfNno2ZlNpbXZKbHF4TTVESTRnMTB2OC1ZRHdUODliV0FjMkNOSWJ2WXY5ZUFfeDc1VWdzWWFGOXk5blNubzN3WXpNUTFEN2tnaVYxT2R3cDRzdlkwdWpmTDBrV001dm9yNVR5dnZ6SEZ4ZDF4ak9UOUZwdGFWVGZna1BqT0x4dERlUUVfVUJ0Z0ZjRmtob03SAfYBQVVfeXFMTjUyREZpNGxMNm1UTmJKUU9PUjJxRHZmT1dSVjlaajZwb0Nza2RnWmxYdVo2QXMweTdDMVlOeFVFbjB5V3hfazNiYUZReGhuLS1mVng3Qm1pSVZMd3NkNl9jUVJ1dWNEV1Rmc1FQZWhoRUphVS1IZ1R0emFObC1abFJIclVZRUNNMWdTUURfQmFpc3hLVElVb082OWJSc2xhZnBsWFNOdEFMOW52cHZ5YjhKeVp0WXR1YzdpQlVwME9Kb2V3MkQ4R0RMdDA0dERxRjF1V0ZRMXU3dkxjUVpfMm5wRnUzbnJOU0tFN090RUk5M1hIN2xB?oc=5",
+    "title": "71-year-old man killed as Tesla in full self-driving mode hits him on California freeway",
+    "source": "The Times of India",
+    "published": "Fri, 23 Oct 2026 15:41:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Tesla operating in Full Self-Driving mode struck and killed a 71-year-old man on a California freeway, raising fresh questions about the system's real-world safety.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "Full Self-Driving"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDJXRUQ1cVdMMlNWUEl6VkI2UkRvRk1GU09NUVlyd2lydWZQMGp1Sk5NRTJKMThNaTlaX2RsN0hJMlVwQ2tZOGdEcjJZdWRFU2dUbnZiWmxQTVAzekJWNWRZcEgteXBhUm8zZ2Qzb3AxS3VZN3RTNWpaa1ZUSS1tZmZEcXpIb2hhX0N5aHFIWUI3WFZ5R2g5M2Rzb29yaUhCeWpHUmp6Vy0?oc=5",
+    "title": "New Report Explores Waymo's Impact on LA Uber, Lyft Drivers",
+    "source": "KFI AM 640",
+    "published": "Fri, 23 Oct 2026 15:03:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A new report examines how Waymo's autonomous vehicle expansion in Los Angeles is affecting traditional rideshare drivers at Uber and Lyft.",
+    "companies": [
+      "Waymo",
+      "Uber",
+      "Lyft"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "rideshare",
+      "labor impact",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODBSYjFGbUJqd1g1UzVUSlQ5WGpmNHh1T1hDanlSZE9rc3dvYXRpbmJwcDlieGJlVDBPRWlnYlNqLTFZcm1IT2kxSzVxN19IeVlFYkxpU2dkdGd0VFF3NzNOU0VJeklwcXdMcW1ZX1d3a3ZaallHYmY4SUJ3blNnTnpIaUZlTy01Mzh3T2ZzV2EzVllVcWVBczk2NnpRV0ZXRkpyWGlzaF9Mb3RycmdyX1o0YmtNN3JqQ1Aybg?oc=5",
+    "title": "Bill aims to study how self-driving vehicles can be integrated into Illinois transit",
+    "source": "Capitol News Illinois",
+    "published": "Thu, 22 Oct 2026 15:46:57 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Illinois lawmakers propose a study on incorporating autonomous vehicles into the state's public transit systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "public transit",
+      "policy"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSEN6RktkaTVSbEh4YTYwTERuTjRvY0xsTk91Z2RvLVNseFMyYVBOMHVjd2RDVUxEcVZyV1Nzc3lJYjZfbktxMG1ZWHBnZFMtTkF4YWllSVNlSW5jMl8tVEFUV05tQWFJNGFQa09CRzA2Q1VneHlBV2duT3ZEbDVRZk05LUlJOHlPbXkzV0sxNm9adE9PTXl2Y0lObnZYT0ptQlZfUDdZTkZJRWRrNFVZMGFlT0ZaUzk5V1RsR3lrT054RWw3OElaN1h3REpTMkZlQkFnWkQ5c01wOXFIRTh0X1FGVEJndThfZUxvN2V0b2I0bG5DaUhGbkNaNnIyR3FpdUg4THczb3EweExVUHNmNzBpSnJ5S3BfVGhOa0QxUUpOTGM4N3RiRG9n0gGvAkFVX3lxTE1mbUp5R1NpZHdIOTFERHpuYTVhSmd3dVdUa0ZfRk5tSk5OZ1VOOFlwVDZtRGRyQkxrWTRQNm82MDNxX0xfMlozSXMzUjR3UGVzQkU4YnYzejdwWk1BSGJEUGJGMEpjSEIwNUFXRVBveXoyZGo4eDhKbGJJUXUxTk1iRnhERlhSa2tHREZkNVdnVU5VY2FseWxOaWxPUGNhQk1EYkJWb1JwMkQxMFNPSHY1cFR1SHZpYzg3Q2ktUmhFSmd0RXZHTS1NR29ndXV2aTJ3U1UtM3RobXhHYWs3WFE5YXRlWmFwNTg2Y1N5aEl5YzVucUZPN0NiMjdFYnhFd2xNWGt0U1RDcEk1UC0tY2U5NGw5VzZYVm1iYXNoaE51bFQzcFVFSUd0Um0tRlVkUQ?oc=5",
+    "title": "A 19-year-old Australian farmer’s son developed a drone system for moving cattle; his startup raised $1.2",
+    "source": "The Times of India",
+    "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "A 19-year-old Australian built a cattle-herding drone system and raised $1.2 million in funding.",
+    "companies": [
+      "Unnamed startup (name not provided in snippet)"
+    ],
+    "people": [
+      "Unnamed founder (19-year-old Australian)"
+    ],
+    "themes": [
+      "drone",
+      "agriculture",
+      "livestock management",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUjZYTHRycHVaR0hyMEt3OVB1U2xkdkE5N25jMVU2X2RxLWJHck5wdTVBZTRJNmtzZVYzS1huVHVld2wyT2VnRVc5eUxidFFTUkdoQnZIbExtUEhRTW16ZmV2VXlUbjRTSTRkVzFXOFlTMXBYZGJHZnBZTnRYcm0ybExocG9ETzhNdGVib2NraEN4cDR4N2Y1NkVuX2ZvZzRhLU03cXE2Ukl2MUhsWkdETWpadmJpMlVlUDhtT0d6VnlSdzB6ZzBfa21OSGlsOGUxTmZucVZnb2ExOElFV2pXYnJfU09TRDdvMGdGeUdCZ1lwNFBGU19aZkloYkc3RGF4NVNj?oc=5",
+    "title": "US Navy flies pilotless drone onto pitching ship in GPS-jammed test",
+    "source": "TechRadar",
+    "published": "Thu, 22 Oct 2026 20:35:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "The U.S. Navy successfully landed an autonomous drone on a moving ship without GPS, demonstrating a critical capability for contested waters.",
+    "companies": [
+      "U.S. Navy"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "maritime",
+      "GPS-denied",
+      "military"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmVHaURVd2dwNXE1ZW9QaDF5eXpHQXpKMU9DcFFoVGVBX3dKbXVPdlBnWmpEbkhGSHJWVUZLaEdPZzRpVktFaWVCWkdwZ0VOX1NrWWRNbEZtV2ZvUHRTeE5PNkc4d0djdDhZOUdYREhiSzVhcVM1WW9GQjdlWDN1bGRTdEctMTR2bW1wRGdzR1g3LUoyaGlJS2dwOUdZczRYSXlXczl6T1lRTkwzRWV6aXJ6b2ZxY3kyam9Hd2N1ZjVJQQ?oc=5",
+    "title": "Brain-computer interface enables unresponsive ICU patients to control sounds",
+    "source": "News-Medical",
+    "published": "Fri, 23 Oct 2026 05:16:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers have demonstrated a brain-computer interface that allows patients unresponsive to verbal commands to control sounds, suggesting a pathway for communication in critical care settings.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "BCI",
+      "patient communication",
+      "ICU",
+      "unresponsive patients",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0F5M3BiUHRsMjdCelRfVnFwMTg2emZsYzhGNzdNV0ZET19YTjN3aFdOZHd4el9vdFFoaHRZV1A0VGxfM3I0cUlTSkk4NVk1eEk0RWplYkt6T1BIS25VUTRkbmxZWFFyYTFrQzIwS3piTG5UbEFHNDR1WDhEZnNBTmFyTUd0ODZuMVAxdW9CSUdsWFhQUFhTSjJpYV9uV1p3LTMxajZKbTJ4VXJnTHFLNFRIUQ?oc=5",
+    "title": "Brain-Computer Interface Could Give Unresponsive Patients a Voice",
+    "source": "Tomorrow's World Today",
+    "published": "Fri, 23 Oct 2026 14:45:25 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers explore brain-computer interfaces as a potential communication tool for patients with severe unresponsiveness.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "locked-in syndrome",
+      "patient communication",
+      "medical technology"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjN05qYXdBaTk5MDk5TWhONklLUzREX19QcHhrT0Zid1hrM2U0SERoc1QtSGJLYW1fdTRfM1dyX0tKVnZ1MnR2RDRsTmJJSGZKNmJr?oc=5",
+    "title": "Exclusive Interview with the Father of Brain-Computer Interface: What Elon Musk’s BCI Company Can Do — My Monkeys Achieved It 20 Years Ago",
+    "source": "36Kr",
+    "published": "Fri, 23 Oct 2026 16:14:49 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "A pioneering neuroscientist claims his primate experiments two decades ago achieved capabilities that Neuralink is now pursuing with human implants.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implants",
+      "primate research"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWTFVQll1elJEYV8wRURpMmlHRXZoZ1NZTTEzek0yd2hzUzE5NnctWjFnTW5ya2RpUHdIWnA4SS1XUld2ZHgzR1pCQWtqTDdnQWw4THRJby1KNmlPcGp0X2VMYVpiQlNCNTlrM0lhTjkxSGJpZktyZWczTkFjRTIxVVQwWmlCUVo3MEJiUlpCam13ajN4eGtNcGMyZXVNSDU0YTl5RHVERHAyTWR2U1Q3a2VLUkJoTzlUS3YwbXFfWGtZRkZjRTIxZA?oc=5",
+    "title": "Phantom Neuro Implants Neural Interface in Humans for the First Time",
+    "source": "Morningstar",
+    "published": "Tue, 20 Oct 2026 14:02:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Phantom Neuro has implanted its neural interface in human patients for the first time, marking an early clinical step in brain-computer interface development.",
+    "companies": [
+      "Phantom Neuro"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmxBWVFnd3BGcmJnSjAzSEdBTlNEak9Ydk1sV3QweWNGR3hVR0RWRG9jZ3QtVmx6YkNjWHBrQTRkS2xRaXNmZFlRT21lYW9ibVBTZERHQUZ0aDRqaS10LU53SWw5b25RZENTaTlDc3lWMVUtWkRQUUlGM2xQcFNSazBob0NNcGpMajZiRkoyYU91akM5RkJvd21hVVNHTmtnUS1YdDlCWnpELVJZWjdqSw?oc=5",
+    "title": "Single brain implant lets paralyzed people both talk and gesture via an avatar",
+    "source": "Science | AAAS",
+    "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A single brain implant has enabled paralyzed patients to control both speech and hand gestures simultaneously through an avatar interface.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "neural implant",
+      "avatar control",
+      "motor restoration"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wayve.ai/press/wayve-stellantis-nvidia-collaborate-on-deployment-across-france/",
+    "title": "Wayve, Stellantis, and NVIDIA Collaborate to Advance Safe and Responsible Autonomous Vehicle Deployment Across France",
+    "source": "Wayve",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Wayve, Stellantis, and NVIDIA are collaborating to deploy autonomous vehicles across France, advancing Wayve's end-to-end AI driving technology at scale.",
+    "companies": [
+      "Wayve",
+      "Stellantis",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "embodied AI",
+      "deployment",
+      "France"
+    ],
+    "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
     "duplicate": false,
