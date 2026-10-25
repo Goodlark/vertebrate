@@ -89039,7 +89039,7 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89234,7 +89234,7 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89261,7 +89261,7 @@
     "first_seen": "2026-10-18T17:45:47",
     "week": "2026-W42",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -89920,7 +89920,7 @@
     "first_seen": "2026-10-19T20:19:50",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -90134,7 +90134,7 @@
     "first_seen": "2026-10-19T20:19:50",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -90722,7 +90722,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -91105,7 +91105,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -91321,7 +91321,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -91513,7 +91513,7 @@
     "first_seen": "2026-10-20T18:52:28",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -91889,7 +91889,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -93240,7 +93240,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -94803,7 +94803,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -94970,7 +94970,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -95478,7 +95478,7 @@
     "first_seen": "2026-10-24T17:47:19",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95611,5 +95611,521 @@
     "sources": [],
     "body": "",
     "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0QmpJcl9wSXRkYUZpNHg4QjNQRjNKTjBsaXR1Ymo3OHlfX01Kb2tlb2lvYkJyOHhTNGNPX1dhOW83VnV6NDZoTDJrVDBFZ0JWOVFTaVhqa2ZkMlVyOUozR0VR?oc=5",
+    "title": "Unitree's newly unveiled humanoid robot stumbles at demo, drawing mixed reactions on Chinese social media",
+    "source": "Global Times",
+    "published": "Sun, 25 Oct 2026 11:35:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree's new humanoid robot fell during its public demonstration, a stumble that has become unexpectedly instructive for rival engineers watching on Chinese social media.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUUl2eUdpRndYYUxJQUNqRFpvRFlfbUg1bl91UTVOTDhCVUNURWl2QjNXTTNPazBCd1lVY250OXNoRHlmMjlPU2NKS2RBMDM5SWYwcTd3MmdXQURRaEUxT1l2VzFWdlBZbDdMSzdteEhacE1rby1HZTAwSVJyZmMwM3BudURaSi1LWmRSQi1jb1FReW95cmtLN3dsRDNjUWxJUVMycjRydzlCNTNGT01PbHN2TUtPYU5XQmVZQ2tvcW9xU2pCcHNCUTlaazlXZGc?oc=5",
+    "title": "How Humanoid Robots Could Reshape Schaeffler’s Manufacturing and Services",
+    "source": "Gasgoo",
+    "published": "Sun, 25 Oct 2026 14:16:20 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Schaeffler explores how humanoid robots might transform its manufacturing and services operations in a speculative analysis.",
+    "companies": [
+      "Schaeffler"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80QVQxRktxem15Uy02NkFZcGRVb1Y3czV3ZHFpU0x3UEJBOU5yMXJ1RzZlMkxLdmFQb3RIZC1qTHVGNm1ZT1BmTEdjX3hNTU9mX2hBSWNwbDBrYmN1bHdfcG53?oc=5",
+    "title": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
+    "source": "Global Times",
+    "published": "Sun, 25 Oct 2026 02:59:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese manufacturer deployed 110 humanoid robots in a synchronized dance performance, setting a Guinness record and signaling plans for industrial-scale deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment",
+      "synchronized robotics"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSUWUzUUJtTlc1ZFYtMHFPenBDSF9XdGJsdHd4Nkw1aVhRc25BTldxVVpiVzFROG5CSExRZjEzc0J3aFVsUzlmVU1BRnNjSjAwY3dsT0xOZFAwX2pNTXhMcl9jZ3pMdFF5LWxka3hLQXAzdw?oc=5",
+    "title": "Unitree Unveils Fearsome Bodyguard Robot",
+    "source": "Futurism",
+    "published": "Fri, 23 Oct 2026 16:07:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree has unveiled a bodyguard robot, expanding its line of mobile machines into security applications.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "security",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkhUekFwd1g5bWVlWkloMWd5NmQzcjJ1cTZhZmRMREhkdENZWU9qT29jelBIVUFNNWlDRFRGemxSLW1NOEJBdkhQYlhCaldyLWdodXAtZTZSbmthZzQ0V3N4MkpiaWVTdlRmZVRRM0NlZ1hDN09lMkptMGRqTmxhbXhJaW5UTWNWOXFHa0lKNnA4c1NI?oc=5",
+    "title": "The Feds Want Cyan Lights to Show When Cars Are Self-Driving",
+    "source": "Autoblog",
+    "published": "Sun, 25 Oct 2026 14:15:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Federal regulators propose cyan exterior lights as a standard indicator that vehicles are operating autonomously, establishing the first visual language for driverless cars on public roads.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicle signaling"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORUt0NWVRY0RtVzFIVnl5T3ZWWjBKTVRCZk9WRGEtTWNmRERRbm9hQVBvcl9aMURpRXd1S2x3MjRvbzI5bE1IMkEwM0RyR1B6X3M3bVhVRjREQUYwVkw1ZVNZclJmTU1iMVFNV0F5VUVTYXhLNWg2T2M0N2FaSy16SURkdm9ObkZtcVhQcWt0ZlNxWG9kOVVicHlTV1hrS05m?oc=5",
+    "title": "NHTSA Proposes Cyan Lights for Driverless Cars Like Cybercab",
+    "source": "Not a Tesla App",
+    "published": "Sat, 24 Oct 2026 23:23:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The NHTSA proposed cyan exterior lights as a standard safety signal for driverless vehicles, including Tesla's Cybercab.",
+    "companies": [
+      "NHTSA",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "vehicle safety",
+      "regulation"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTlhXNXJZMFI3a1FKUXdzWUVKMVFpN0QzLUQ2N3NleDVBeUtTREJFeWFqS3k5aEJFMVFVSTZ6UVR1UENWcDF6cGZPYTNaYzZVNzhYRkUtUHJST0hIVkZPcUUzT1NwTWc1bzV6SFI5enk0Zno0Ul9YNFBJMnpKanJ4UFJZbmN0MEJKOUh3VG9yU19OUUFBRjRPV2YzWS05OU4xUEs5V0lQM3NmN0tMOUtYTHk5QjBrbE50cTBkbW5rTE9ZVXVlT1BwQm5YUWdRRk10Y1JfWUo5MA?oc=5",
+    "title": "Bill aims to study how self-driving vehicles can be integrated into Illinois transit, determine future of autonomous cars",
+    "source": "ABC7 Chicago",
+    "published": "Fri, 23 Oct 2026 19:39:26 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Illinois lawmakers propose a study to assess how autonomous vehicles might fit into the state's transit infrastructure.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "transit integration",
+      "policy"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0pMY3cwREJXRVRHbkJuZHNpZmkxYndVSnNHamdUZ3Jsdi1RUVF3MF9JOWk5Zkdldy11R1poN3VWU29Nc2VQNVF0dXRINWI4LTZvY1BzZEVDNDdTdmZyNWtLVUI5NGY1Z2hoTF8xcUZ1d3lodm5SdkV3R3NNUmVCdm5zMjRUS2ZQWlg2Z0NZdFpCdDJWNG1vemlfeWp5ZUs1NVZyWQ?oc=5",
+    "title": "Bank of America resets Tesla forecast as Robotaxi miles double",
+    "source": "TheStreet",
+    "published": "Sat, 24 Oct 2026 22:03:00 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Bank of America raised its Tesla price target after the company doubled Robotaxi miles in real-world operation.",
+    "companies": [
+      "Tesla",
+      "Bank of America"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkhtbzhqWVBjcFl1cEdFRk1rTkpMQ19paUxkNkZkbHM2WEpucGRwTWNLU3ctdFo0dFZGQXlPQ1R4THFxdmhoakRfbjdubnctRGQ0V1U5b1BNTWNwMi1xdlNmOVZnTW94cW1PbXcyVWw3UWJFQkpIZS1hanhOQmp0ZlJjMkxqNUtIWUxvZjhyRGF3d2NyTzIzaVBFMkdBVVFXMnV3dUJ3Q2ozNk1NT0diMHF3?oc=5",
+    "title": "Waymo Robotaxis Now Pick Up at the Las Vegas Airport—but Not Everyone Can Ride Yet",
+    "source": "MotorBiscuit",
+    "published": "Sun, 25 Oct 2026 00:03:51 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo began robotaxi pickups at Harry Reid International Airport in Las Vegas, extending its driverless ride service beyond San Francisco and Phoenix but limiting access to early riders.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0I4Wmg3TDRuZGpXR1ptV0ZkSHFPd1dPUHJTTFY2a1ozZXhoYUxqM2s1Mnp5RnJCNUZhVlowSENBeHhtNzllekZzbDNlb2dKOW5YdWRuWXplSEVBdlIzR2pnaEt2YllOcHFxYXY4bmpRU0VTX1BpMUdHT2EzTGozWGd5d051V1dZakhubTRDZmNpSkxmdWpSd2lpc1VKa2lQa1h2LVl6R0E?oc=5",
+    "title": "House votes to have state commission study self-driving vehicles – 28/22 News",
+    "source": "28/22 News",
+    "published": "Sun, 25 Oct 2026 12:57:23 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A state House votes to commission a study on self-driving vehicle regulation, a bureaucratic step toward establishing policy.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "policy",
+      "regulation"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbEFNSG5YYmhBVmt4ZEh2MEgydmlLNVA5blMwdmlLRDk5VXRSci01MjRlOGpFRWVreVNHa21XNWJTcGQtcl90cTJKeDJuWDI0VUVpOVRPOUtuaXNGazZLbU1pa2VncWlmeXdHWWtSVWQzZkNRa1ZZMWtxeS05cWVpNkNSdlFXVVVmdk50eC1mS1ZLbTR4QXBhVEdvMkFIMDVGNy1iOFRLZlR4TXJSZVJDYUE0NUNMT1d5YlY4bA?oc=5",
+    "title": "From Steep Slopes and Glaciers to High Speed: Next-Generation Autonomous Drone Landings",
+    "source": "sUAS News",
+    "published": "Sun, 25 Oct 2026 07:44:36 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers demonstrate autonomous drone landing technology across challenging terrain and high-speed scenarios, advancing a capability essential for field robotics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "precision landing",
+      "robotics research"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelhTS0Z5UFBJdkpxekZjUjB4NFhoUDRrU0ZENDFENE9wbW9idkVDajlITHU5U0R2azFlV0Izc0VUamRMWFBWRXMwX0s5emNKUThRdHhYY3p1WlltdGtYNDZlSDYzdUx3dU8tSU8yMEJkZDd5a3RxTHhZZHc5RnpyT2w3d0RhT2VZY2JqTQ?oc=5",
+    "title": "University of Sherbrooke Drones: Next-Generation Autonomous Landings on Slopes and Moving Vehicles",
+    "source": "The Aviation Hub",
+    "published": "Sun, 25 Oct 2026 12:00:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "University of Sherbrooke researchers have developed autonomous landing systems allowing drones to touch down on slopes and moving vehicles, expanding where unmanned aircraft can operate.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous landing",
+      "drone",
+      "research"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjlBQkZOeDhsTmFsQ0otdzJWMkxybWY5T2lMVkNEWS1RSGp0MEozbGJvM1Zvd0dEX2NmV1dnMHNudXBaUUhtb1drbGI0UFRlTVZRbWVtZDllTEtlZ0E5QVRydnRYbjRsVXd2Y0xZUEFlU3dEMlZWM3lJQUN5b1dUcWtzc1JMYkJ6VzJiVnF2dWh6TGV4RTdFUkUtQ3JpRnlMX3AxQ3ViSFJLMDdjS2dGVkdBWXpsR2ExMkVVbVB3?oc=5",
+    "title": "EDGE integrates autonomous vessels and counter-drone systems in demo with UAE and US navies",
+    "source": "Defence Industry Europe",
+    "published": "Sun, 25 Oct 2026 10:15:34 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "EDGE demonstrated integrated autonomous vessels and counter-drone systems to the UAE and US navies, marking a step toward autonomous naval defense.",
+    "companies": [
+      "EDGE"
+    ],
+    "people": [],
+    "themes": [
+      "counter-drone",
+      "autonomous vessels",
+      "naval defense",
+      "military robotics"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QSHBiZEQwa0w3VXVwYzQwWHd0RUlmOHlWTDNhZndmSUxpRkFwVmt3UERMQzR0SnhxTmhkeXpqMUFiTW1oMTRIQjl0ZjFNeWtHaE93VmJoeWE1d2J6SjgzdWhtZ3N5WVZs?oc=5",
+    "title": "The Army Wants 100 Drone Boats for the Pacific After One Autonomous Ship Test",
+    "source": "SOFREP",
+    "published": "Fri, 23 Oct 2026 12:00:33 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The U.S. Army is planning to procure 100 autonomous drone boats for Pacific operations following a successful test of an unmanned vessel.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous ships",
+      "military drones",
+      "maritime",
+      "unmanned systems"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SY0lBWkxzMnNFWkl5bXVBdnE1Y2ZScEwyVzZlaHRzSXVFUnRFNm1xelNPZUpBdzVvcThvTXdoRU15WUZEZnMyZ1hpVXRVQVlzSVlvTmJXc2RQQWtBbmp3MVotcEdPQmxXV2JPdEtfU2g0UW8?oc=5",
+    "title": "U.N. Warns Your Brain Data May Soon Be Used Against You",
+    "source": "The Debrief",
+    "published": "Fri, 23 Oct 2026 13:14:45 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "The United Nations has issued a warning that brain-computer interface data could be weaponized for surveillance, manipulation, or discrimination.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "neurorights",
+      "privacy",
+      "surveillance",
+      "regulation"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHE3Vk83a1FDVFdxaGczOW1TTXg0ZHFtR2tlN2huZEJxa2NnX2V5RG05ZHlJVUY4bVZaZXAxYjJfTm05NXVMUFdsdU5VcHlzVUh6NTJLaGszRktMUTVabWhxQTlua2hmazR2dzlCNFl4SERlNEZDZzF3a3JYU0pZUDVUQjFQY1hJYVU4ZlF3Z3paandZV0pSUGJpdjdSaTlkbi0xOFo4WQ?oc=5",
+    "title": "Elon Musk says a third patient got a Neuralink brain implant. The work is part of a booming field",
+    "source": "AP News",
+    "published": "Mon, 13 Jan 2025 08:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink implanted a third brain-computer interface patient, Elon Musk announced, as the company accelerates its clinical program.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TcVZpZnc4TkVRckJCbkEzUE9MeDdxZXZjUnA0SU0wdS1GNE1FZGljNlotOU1DWlVkaE9TUy03QjdpZ1EyYmhkcUd2X2JheE5fY2EtUVVlNA?oc=5",
+    "title": "Elon Musk says Neuralink implanted wireless brain chip",
+    "source": "BBC",
+    "published": "Tue, 30 Jan 2024 08:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink, Elon Musk's brain-computer interface startup, has implanted its first wireless neural chip in a human patient.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "wireless",
+      "human trial"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://draganfly.com/press-release/draganfly-makes-strategic-investment-in-ukraine-defence-technology-company-solution/",
+    "title": "Draganfly Makes Strategic Investment in Ukraine Defence Technology Company Solution",
+    "source": "Draganfly",
+    "published": "",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Draganfly, a drone-systems developer, invests in DoD Solution, an Estonian-Ukrainian autonomy firm, with CEO Cameron Chell joining the board to distribute advanced GPS-denied navigation technology for unmanned systems.",
+    "companies": [
+      "Draganfly",
+      "DoD Solution"
+    ],
+    "people": [
+      "Cameron Chell"
+    ],
+    "themes": [
+      "drone autonomy",
+      "GPS-denied navigation",
+      "unmanned systems",
+      "combat-proven technology"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://draganfly.com/press-release/draganfly-establishes-dedicated-u-s-defense-subsidiary-appoints-former-under-secretary-acting-secretary-of-the-navy-thomas-modly-as-chairman/",
+    "title": "Draganfly Pushes Deeper Into Defense Business",
+    "source": "Draganfly",
+    "published": "",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Drone maker Draganfly made two moves to bulk up its military credentials: it took a strategic stake in DoD Solution, an Estonian-Ukrainian firm specializing in GPS-denied navigation for unmanned systems, with CEO Cameron Chell joining that company's board, and it spun up a dedicated U.S. defense subsidiary chaired by Thomas Modly, the former acting Secretary of the Navy. Together the steps signal Draganfly's pivot toward selling autonomy tech for contested, jamming-heavy battlefields like Ukraine's.",
+    "companies": [
+      "Draganfly",
+      "Draganfly Defense USA",
+      "DoD Solution"
+    ],
+    "people": [
+      "Thomas Modly",
+      "Cameron Chell"
+    ],
+    "themes": [
+      "drones",
+      "defense",
+      "military",
+      "unmanned systems",
+      "drone autonomy",
+      "GPS-denied navigation",
+      "combat-proven technology"
+    ],
+    "first_seen": "2026-10-25T18:04:09",
+    "week": "2026-W43",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://draganfly.com/press-release/draganfly-establishes-dedicated-u-s-defense-subsidiary-appoints-former-under-secretary-acting-secretary-of-the-navy-thomas-modly-as-chairman/",
+        "title": "Draganfly Pushes Deeper Into Defense Business",
+        "source": "Draganfly"
+      },
+      {
+        "url": "https://draganfly.com/press-release/draganfly-makes-strategic-investment-in-ukraine-defence-technology-company-solution/",
+        "title": "Draganfly Makes Strategic Investment in Ukraine Defence Technology Company Solution",
+        "source": "Draganfly"
+      }
+    ],
+    "body": "<p>Draganfly, the Saskatoon-based drone maker, announced two moves this week aimed at deepening its foothold in the defense sector. The company took a strategic stake in DoD Solution, an Estonian-Ukrainian firm that builds GPS-denied navigation systems for unmanned vehicles, with Draganfly CEO Cameron Chell joining DoD Solution's board. Separately, Draganfly formed a dedicated U.S. defense subsidiary and installed Thomas Modly, the former acting Secretary of the Navy, as its chairman.</p>\n\n<p>The two announcements, coming in quick succession, read less like coincidence than strategy. DoD Solution's expertise lies in keeping drones flying when GPS signals are jammed or spoofed — a problem that has become central to warfare in Ukraine, where electronic warfare units on both sides routinely blind the satellite-guided systems that once made drone navigation simple. By taking a stake in the company and putting its own CEO on the board, Draganfly is buying both technology and a front-row seat in a market shaped daily by combat conditions rather than lab simulations.</p>\n\n<p>The U.S. subsidiary, meanwhile, is a more conventional play for access. Modly's résumé — acting Navy secretary, Pentagon insider — is the kind of credential that opens doors in Washington procurement offices that remain, for all the Pentagon's talk of innovation, stubbornly difficult for smaller drone makers to walk through. His chairmanship signals that Draganfly wants to be taken seriously not just as a vendor of hardware but as a company capable of navigating the defense acquisition bureaucracy.</p>\n\n<p>Together, the moves mark a clear pivot for a company that built its early reputation on public-safety and commercial drones — search-and-rescue missions, agricultural surveying — toward the more lucrative, more geopolitically charged business of military autonomy. It's a shift mirrored across the drone industry broadly, as companies from Anduril to smaller players recalibrate around the lessons of Ukraine, where cheap, resilient, jam-resistant systems have proven more valuable than expensive, exquisite ones.</p>\n\n<p>For the broader robotics industry, the symbolism matters as much as the specifics. Draganfly is a relatively modest player, but its moves track a larger reordering of the sector: autonomy companies increasingly treat the Ukrainian battlefield as the proving ground that determines which technologies get funded, acquired, and scaled. GPS-denial resilience, once a niche military concern, is quickly becoming table stakes for any serious drone manufacturer, with implications that will eventually filter down to commercial and public-safety applications as well.</p>\n\n<p>And for the Pentagon, which has struggled to court nimble, mid-sized firms, hires like Modly's and investments like Draganfly's suggest a steady institutional magnetism — fading the old line between Silicon Valley's drone startups and the traditional defense establishment that still controls the money.</p>",
+    "slug": "draganfly-pushes-deeper-into-defense-business-176bd1"
   }
 ]
