@@ -91596,7 +91596,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -91758,7 +91758,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -92204,7 +92204,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -92488,7 +92488,7 @@
     "first_seen": "2026-10-21T19:05:03",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -93240,7 +93240,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": "As Waymo expands into more cities and squeezes Uber and Lyft drivers out of fares, state and local regulators are visibly behind the curve on rules for autonomous fleets. The gap matters because it leaves safety, liability, and labor questions unresolved just as the technology scales fastest.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -93278,7 +93278,7 @@
     "first_seen": "2026-10-22T19:01:39",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -95239,7 +95239,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95345,7 +95345,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95658,7 +95658,7 @@
     "first_seen": "2026-10-25T18:04:09",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95813,7 +95813,7 @@
     "first_seen": "2026-10-25T18:04:09",
     "week": "2026-W43",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -96017,7 +96017,7 @@
     "first_seen": "2026-10-25T18:04:09",
     "week": "2026-W43",
     "why": "A third implant keeps Neuralink's small clinical program expanding, but the pace remains deliberately slow compared to the hype around it. The real test is whether Musk's company can scale safety data fast enough to satisfy regulators before rivals like Synchron catch up.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -96777,7 +96777,7 @@
     "first_seen": "2026-10-26T20:16:47",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -96880,7 +96880,7 @@
     "first_seen": "2026-10-26T20:16:47",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -97027,7 +97027,7 @@
     "first_seen": "2026-10-26T20:16:47",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -97935,7 +97935,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -98014,7 +98014,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -98097,7 +98097,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -98244,7 +98244,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -98270,7 +98270,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -98296,7 +98296,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -98739,7 +98739,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -99005,6 +99005,1175 @@
     "week": "2026-W44",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTZURmtlU3F3RURkNkNNWU12cUVZQ2Mxd1BtNTNPUXFpeDJnTnl1MFB4a2NtV0lNdm9PVEtxZy1HWlRMQmpSX3Z1RjdNVGdKRFRvNGdIVWJhSnVBV0VJM1dsSGVmTEJPYkZiQjZleVp6RXhaTi1uZU9Sc2JpRDU4MTdkS0F4MG9Od2lWWkdnVQ?oc=5",
+    "title": "Audi Testing Humanoid Robots for Logistics",
+    "source": "Assembly Magazine",
+    "published": "Wed, 28 Oct 2026 11:04:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Audi is deploying humanoid robots in its warehouses to handle parts movement and sorting tasks.",
+    "companies": [
+      "Audi"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "logistics",
+      "manufacturing",
+      "warehouse automation"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkkxMGZFaG5UVFVwY2JaNVA0RG9TTnNJOXoxaElhSmhhT0RQQWxTSUNxNkFFMWg2em1GclFpMFlYRkc1ZTQ5VGJCdHY5WFdYUDFIRU9XWk9UX2FYV054dEVtZnZzZkpyd3c1Nkc5Z2Q1cWl6RTc3RnN1V0FzbkMxMXg0bjRCZjZVbjJlbElFcm8zcGVlOHNDRWFZSVlHQ3YxaHpJTi16NVJDN1U1NklWcEZRcXdvTGpSUlE?oc=5",
+    "title": "Unitree's quarterly revenue surges 70% in test for China's robotics sector",
+    "source": "Reuters",
+    "published": "Wed, 28 Oct 2026 12:36:45 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Unitree's quarterly revenue jumped 70 percent, signaling whether China's robotics sector can convert hype into sustainable growth.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid robotics",
+      "China robotics",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUFYMDQyV0JkTmo5bkduTnk1WjlaUEg2a0pHSmpWNExMTmZzS0tQME9yOFVySW5xMkNncllLcGNxS0Exck55S0lnZTZJQ0xUaWk0aGx1Yk10eTI4QWduM21Qb0NQbEhEMzcxdUpZLS1yMm05bkJiUGxlN2xlLV8zTkxqbnE?oc=5",
+    "title": "Humanoid Robots Enter Factories and Warehouses",
+    "source": "Global Trade Magazine",
+    "published": "Wed, 28 Oct 2026 10:42:22 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Humanoid robots are moving from labs into production facilities and logistics centers, signaling a shift toward real-world deployment in industrial settings.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "warehouse automation",
+      "deployment"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPak5QNjFvV0V0NlI1TzJRY1JKNHRJZUNtSnI4Ty1zRERWeFljVVBHN3RHRXNFdmF4d3E1Z1lZQnFwMnhPTEw3dU13UUR6QTZFYjFGS2VQWHNjcEp0dUVLTUN3U0k5UkFFUnNrWEF2elBZR2dsRXVDbk44MWFuNXNSQ05xV0lzZmxqenM3UmhEVWtCQQ?oc=5",
+    "title": "Solid-state batteries for Xpeng's Iron humanoid robot enter small-batch production",
+    "source": "CnEVPost",
+    "published": "Wed, 28 Oct 2026 09:11:24 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng has begun small-batch production of solid-state batteries for its Iron humanoid robot, moving the physical AI project closer to deployment.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "solid-state batteries",
+      "manufacturing"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGdrOHNGckFaS1VYV2hkVUZYdnRHMVdiT1B6MllzaVljaEl0MDdFRDRfTmpUMk04cGh3cTdGdjlmWmdPR3licUYxMnpoa0NoeS11OGY2RVNPN2VNako2MlgwLXlBMHhwaVM0Zlp1UzBXd0ZLZFFuVThMUTJqRnZiYlNsdno2ekZJcFpFamNUbzNRTTUtT3hwTW5vZkFXc1RFZ3dOQlR5WFk5QjdNS0pkRW1lT1lsbTRuY3BN?oc=5",
+    "title": "XPeng Starts Small-Batch Output of Solid-State Batteries for Humanoid Robot",
+    "source": "Electric Vehicles",
+    "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has begun small-batch production of solid-state batteries designed to power its humanoid robot, addressing a critical bottleneck in physical AI deployment.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "solid-state batteries",
+      "robot power systems"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0FrSWlNVFBpY292UmdycVFJOGVDV3hHOWduZHZHSF9RU0JGeUM2cEFUOWJIMGtGbXh1Z0w2aUhLU2ZYdHVQNkY1Nk85NDJVYjNRY2U3NndHVWNTdk42MWMyaWl2T0Y1TWliT1ZjU2ptZFJaT2E2SW5pQ3JLSE5VUUprQ1RfTXo0cHhfQUFjd1p5VmUxUmd4Vw?oc=5",
+    "title": "110 humanoid robots dance in perfect sync to set Guinness World Record in China",
+    "source": "Interesting Engineering",
+    "published": "Wed, 28 Oct 2026 10:31:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A Chinese robotics company synchronized 110 humanoid robots in a choreographed dance to claim a Guinness World Record, demonstrating coordinated motion at scale.",
+    "companies": [
+      "Unitree Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "coordination"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMThLQmRwdTN1RjhFNmtoZjdxNlI3eDlmaW1BSUVzMVI0VkFZdmNDTFI3TGkxZzdlbzRwNk9sUXBlc1ppdVBac3lZZHVRQ2lwajhZN3hzdGJLOEVnME9mUTRrbUVUY3czaHBRRFJWU2M1Nmk0Q0lqX1JCX2UtSmd2QjNzOVFsOTRGbnVUUzFRQ3dQSHo4Q0hhVmluQ2JzQnJ2cGR3NFVXeFhfQzV4aHpkbXljNDM1b0dvYUd5MkhHcEtaY0VhUm44Qw?oc=5",
+    "title": "From Task to Fulfillment – Intel and SAP Demonstrate Physical AI and the Autonomous Warehouse in Action",
+    "source": "Intel",
+    "published": "Wed, 28 Oct 2026 08:08:42 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Intel and SAP demonstrated an autonomous warehouse system powered by physical AI, showing robots handling real warehouse tasks from order to fulfillment.",
+    "companies": [
+      "SAP"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "autonomous warehouse",
+      "robotics",
+      "warehouse automation"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaQ0l3cmZqNXFFRGNZUTJqTFVGUkNmTWN4LVV1ZW41Tk1VZm4xV0FwUVZCbFhIOURhX0x3WGY1QkdGNTNNTmNYTjBicG56bmQ4b19qS3dhOFRMeXdGVnJCTFJDLUlYcEdmYkpuY2ZPYw?oc=5",
+    "title": "How a Fake Signal Could Fool Every Robot Safeguard",
+    "source": "IEEE Spectrum",
+    "published": "Tue, 27 Oct 2026 16:20:15 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "IEEE Spectrum reports on a vulnerability in robot safety systems that could be exploited by spoofed signals across physical AI applications.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "safety",
+      "security",
+      "signal spoofing"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdWlsM3M4MDRLTDVpTkZXSEZlSVhJZS10Ympaam1XeVBPQXZramYtcVRWN0VqbWY0d25fV0xzR0VjSjRFcnRIc2U4X0hqZ3JlT3FBZEhDQ3BsNWZWazB5aTNZMzc2aGExOU1la1o0dVd1UzlVbENnb2FXbGw0UHg0WXNhS0ZiNUhpWFp2Y1dvMlNrdld1LWpkcEdTa2pubFJDazBGdmRxTGRpVTRHYld1TGR5bjIwNEhqZUk1Vkc1OEg3WVU?oc=5",
+    "title": "This humanoid robot unloads parcels from a Cybertruck and carries them to your door",
+    "source": "Interesting Engineering",
+    "published": "Wed, 28 Oct 2026 15:47:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A humanoid robot demonstrated the ability to unload packages from a Tesla Cybertruck and deliver them to a doorstep, showcasing physical AI for last-mile logistics.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "delivery",
+      "robotics",
+      "last-mile logistics"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42c3Q3QlRKTnJPSVVTLVF4TFU4d25BNXMtdmdIdk1EdU5SQmZ2VEtqWU01SlJaQ1VQYTdLcHZELWh4N3Y4RUY4OWN6VDBEdV9mdHV1T3VLZTNuSWJoeHRPc082Sk1FWDJzWFp6M0JURjhmdzhwZmRJaUVGT0lldw?oc=5",
+    "title": "Unitree unveils H2-X humanoid guardian robot with martial arts moves",
+    "source": "China Daily",
+    "published": "Wed, 28 Oct 2026 07:46:35 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Unitree introduced the H2-X, a humanoid robot capable of performing martial arts movements, marking an escalation in the company's push toward general-purpose physical AI.",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ2VrM2pzYzdwaGktVWozUERmc3NPQWhMcWJsbWYzZHRCZWJtY3pvY0NIUnAtVUdwT0xidklacDR3SnMzNzM4WGV5OXVQZXZlbDE1cllMdjJJRGZueUVmNl9Sd253Q3g4S2hHekNNdEdOM01WbXY5ZVV1NmUzZWZ4YjczbktNTXNWM0NqZm9Od2gxbUlnYVhsUTNwbWd5b2hiRFI5Y0RDVURSaGN0Z3Q5ODNpaC1iMnNYVVhrdHFrSk0?oc=5",
+    "title": "FinSight Ventures Launches $100 Million Physical AI Index Fund",
+    "source": "TradingView",
+    "published": "Wed, 28 Oct 2026 16:47:53 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "FinSight Ventures closed a $100 million index fund betting on physical AI companies.",
+    "companies": [
+      "FinSight Ventures"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "investment",
+      "index fund"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTBLTkhRYVlKYndRMW04em1OaTJyV0U4Wno3cU5QOXdCLVNvd3AyaEJOR3Rxc1RTR1JDQnNqZzNhWTdWMXRDUkw0a1pIbktLYUFPMnYyd2M0cXlyUnRhREllRFpqX3JHandSQ1pLWFN2RDV6LXVEODAwT19oeU5iT216dmpsS2I1c2dwdGxEcmlKeks1dFd6OTlMTzA?oc=5",
+    "title": "What Waymo's Growth Means for Riders and Drivers",
+    "source": "WUSF",
+    "published": "Wed, 28 Oct 2026 09:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "As Waymo scales up, commentators are weighing the human fallout. WUSF asks whether the driverless cars could be a boon for disabled riders who've long struggled with transit access, while CBC examines the flip side north of the border, where Waymo's push into Toronto threatens to squeeze out human taxi and Uber drivers.",
+    "companies": [
+      "Waymo",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "accessibility",
+      "autonomous vehicles",
+      "rideshare",
+      "labor displacement"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTBLTkhRYVlKYndRMW04em1OaTJyV0U4Wno3cU5QOXdCLVNvd3AyaEJOR3Rxc1RTR1JDQnNqZzNhWTdWMXRDUkw0a1pIbktLYUFPMnYyd2M0cXlyUnRhREllRFpqX3JHandSQ1pLWFN2RDV6LXVEODAwT19oeU5iT216dmpsS2I1c2dwdGxEcmlKeks1dFd6OTlMTzA?oc=5",
+        "title": "What Waymo's Growth Means for Riders and Drivers",
+        "source": "WUSF"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDRUdGw1NjNmSnZsdFdVT0Z2U3gyRVNlSHhpN2NEQjV2bTZtRmIzZThYc3c0eGEwcC0wU3h5TWtpcVVjZEhndFNsMjRYSVg4T3ZVb1BpczR4NlE0Yld3dnh1ZllxQjliNUU5WG1JVDA0SkJCUldndk1HQkRZUkVqYkRWdWtQT1l4?oc=5",
+        "title": "How Waymo could push Toronto taxi and Uber drivers off the road",
+        "source": "CBC"
+      }
+    ],
+    "body": "<p>Waymo's robotaxis are no longer a novelty confined to the sun-baked grids of Phoenix. The Alphabet-owned company has been widening its footprint across American cities and, more recently, signaling plans to cross into Toronto, a move that has set off two very different conversations about what happens when a car with no driver becomes a normal part of getting around. One, raised this week by WUSF, asks whether the technology might finally solve a transportation problem that has vexed disabled riders for decades. The other, from CBC, asks what happens to the humans currently behind the wheel.</p>\n\n<p>The accessibility case is not abstract. For people who use wheelchairs, who are blind, or who have conditions that make driving impossible, the ride-hail economy has often been a story of broken promises — drivers who cancel upon seeing a folded wheelchair, apps that assume a trunk will fit a scooter, the general awkwardness of needing a stranger's goodwill to get to a doctor's appointment. A car that never gets impatient, never discriminates, and never speeds off because it doesn't want to deal with a service animal is, on paper, a quietly radical proposition. WUSF's essay treats this as a live question rather than a settled fact, and rightly so: Waymo's vehicles still require sidewalks to pull up to, apps to navigate, and infrastructure that wasn't built with every disability in mind. But the underlying promise — consistency, patience, and a lack of prejudice — is one that human-driven services have struggled to deliver at scale.</p>\n\n<p>North of the border, the calculus looks different. CBC's reporting on Toronto frames Waymo's expansion as a direct threat to the city's taxi and Uber drivers, many of whom are immigrants for whom driving has long served as an accessible entry point into the economy. A fleet of software-driven cars that never needs a paycheck, a bathroom break, or a union contract is an efficient machine for a company's balance sheet and a potentially brutal one for a workforce that has already absorbed one disruption, from the arrival of ride-hailing apps themselves, with limited consequence awarded to them.</p>\n\n<p>Taken together, these two stories outline the central tension of the robotaxi era: the same technology that could extend independence to people who've been failed by existing transit can simultaneously hollow out one of the more accessible jobs available to people without other options. Regulators in Toronto, as in many cities now watching Waymo's expansion with a mix of curiosity and anxiety, will have to decide not whether this technology works, but who it is allowed to work for, and at whose expense it is allowed to succeed.</p>",
+    "slug": "what-waymo-s-growth-means-for-riders-and-drivers-701e2c"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVURiVEtaYUdaUXM4UUVVdVJMVzdIY3FEUEtmWGRoZXg4dUZXaTNtdmFYVlU3NzlKNHI4cV9kanJ3VzRfYjd0ajJJUTdYQkFLZkFDLUJJc20tUFlCZWhtQWxZNHJqRVNydHVLdFFILVA5Y1RjZHJaajVwRmcwMXN4UmtsRFctWDlVY05RdzdR?oc=5",
+    "title": "Stalled in D.C., Waymo turns to Virginia",
+    "source": "The Washington Post",
+    "published": "Wed, 28 Oct 2026 03:15:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is expanding its driverless taxi service to Virginia after facing regulatory obstacles in Washington, D.C.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicle deployment",
+      "rideshare",
+      "regulatory expansion"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDRUdGw1NjNmSnZsdFdVT0Z2U3gyRVNlSHhpN2NEQjV2bTZtRmIzZThYc3c0eGEwcC0wU3h5TWtpcVVjZEhndFNsMjRYSVg4T3ZVb1BpczR4NlE0Yld3dnh1ZllxQjliNUU5WG1JVDA0SkJCUldndk1HQkRZUkVqYkRWdWtQT1l4?oc=5",
+    "title": "How Waymo could push Toronto taxi and Uber drivers off the road",
+    "source": "CBC",
+    "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "CBC examines how Waymo's expansion into Toronto could displace human taxi and rideshare drivers.",
+    "companies": [
+      "Waymo",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "rideshare",
+      "labor displacement"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnJ3cUV1R0J4bi1JWDZoeGFKdV9oaTFKWEFyRXVuM2FEcVVFMnl2Y2ttQldHRTR5U2kxMUN2aHgzZXcwRGlOUlJHbUQ1b2t3azRncnR5djZ3T3FkV2Nra1ZfZmRZYlJBSi1obUw3RWRfMGljT01zM19iWG9mdWFLLXo0N0l3aFpZOFVYb0NUQlJ1MmRHTlhJb0FNWERTRUI5ODluWkE3ZXVZaWQzMjBxZEEtTHVRbjht?oc=5",
+    "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+    "source": "TechCrunch",
+    "published": "Wed, 28 Oct 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Kodiak Robotics has secured its first commercial contract to deploy autonomous trucks on public highways, marking a tangible step toward driverless freight operations at scale.",
+    "companies": [
+      "Kodiak Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "freight",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEs5SjVWSHhnb3dJSExjNEFUNmNNSzBpUFY4Skk2d0hqcUZJSTlrY1pSdVk4VEdGVVZZbnpVaXJ5RDlBLTRLWUhxOXU3Yk1Zb183TkRQQ1ZINnAzRU1rVEc0WXJaZlYtZzlPR2ZKQU5yRzNBamZJdElicGl5OUlFMTFFZHphTFpTc3gtSzRvaDZZLS1VcDEwbzBJYnhaRUNLSU1nQ1V4M0lobC0wNi1iSWZKUVFQX2pGN3h6ZUFHcG9HM1RCMk5xVW04cw?oc=5",
+    "title": "Waymo expands Nashville ride zone to include the zoo, Green Hills and Lipscomb",
+    "source": "WZTV",
+    "published": "Wed, 28 Oct 2026 19:57:11 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expands its Nashville driverless taxi service to cover the zoo, Green Hills shopping district, and Lipscomb University.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHMmw0ejBVaWdaNTVHZnZIQ242dWtqNFBjZHd5Mkl1TGxBTzZjUC1qV1UzcE5UZm5FZnVtVWVhZk4wWVZvZDlaY3RjdGxZakQwbWx5VU5JYUpfYmRDVFpfbHVUYkd2LXhZYVRndTMwdGx1RXBrRThsSzRR?oc=5",
+    "title": "Ninth Circuit vacates class certification in Tesla “Full Self-Driving” case",
+    "source": "JD Supra",
+    "published": "Wed, 28 Oct 2026 19:43:31 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The Ninth Circuit vacated class certification in a lawsuit challenging Tesla's Full Self-Driving marketing, temporarily halting the case.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "litigation",
+      "Full Self-Driving"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3JVVGl2c3YwVmJCaXU4MGluWkdqZzQ3cEJxNGpFMXp3LVpFNjVDcHNzTmhvcTFoTlYtWHF5X3E0RktCend6Wmw1ZVQybDVlaElTbVBhTGZFT2FhNTFlcFNWY1BaQnFubWNNUTZ2SUhXNW9QUlZSZmtJb1RNSndLLWNvZW9EMWdPZlQ2RGlMMy14d2dTTEZ6MjJMRVNObjh0QjdTdkd6NzRtci1SY081aF9MbFlMMllNcTZtcldGUkpnRFhiV2trWXdB?oc=5",
+    "title": "Driverless Waymo vehicles expected on Cincinnati roads soon, expert warns of risks",
+    "source": "WKRC",
+    "published": "Wed, 28 Oct 2026 18:33:37 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is preparing to deploy driverless vehicles in Cincinnati, though local experts are raising safety concerns about the move.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "deployment"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMHJ3NGk4bjV6blZ1d2JTbDI4U205MFZsWVgydlg2bk5hQm9lTXpWOXJGQklXU1V0TERZUE5KSGpjWDJLUGZ2M2V4eTJlY0Jla1Y4V2lHR1ZmTW9pTmN6MXVEWk1wMFo2QXVxNDdOTEpCX0R6aml2XzJtdk5SSmNFT3V0NXRyZ0VySVE?oc=5",
+    "title": "The NHTSA Wants Custom Lights To Identify Driverless Cars",
+    "source": "SlashGear",
+    "published": "Wed, 28 Oct 2026 11:15:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "The NHTSA is proposing distinctive exterior lighting to help other road users identify autonomous vehicles.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOS01NktQWTgtcnhzSzhyMzAxcE9FWUptbFJtTS1OZWMtRi0zNGFKRk1HbFdBSXBiQ3NqNnUybHdwYlZVb1hLczhGc2RSb29mMXdMUERXdDFjeXEwUnRhZWtmeGJYMC15d1FIaUs4TE5FdDlVYUdOZkt2UGpHWklRQjNBc0pZZmdYcW9DUjR1SHZvUFB0NWJHeW5hT19tYm9UTHp2bExicndYM0pfVTRsejRhVWRQaWZIUUVIUU5XVVotQW1odXhF?oc=5",
+    "title": "Waymo Rolls Its Robotaxis Into Nashville, Cincinnati and Orlando",
+    "source": "WKMG",
+    "published": "Wed, 28 Oct 2026 01:49:13 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo keeps widening its driverless footprint, adding the Nashville Zoo, Green Hills and Lipscomb University to its Tennessee service area while readying a Cincinnati launch that has local experts already fretting about safety. In Orlando, the expansion arrived with a viral clip of a Waymo frozen near Universal Studios — a fitting mascot for a rollout that's outpacing public trust.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "deployment",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOS01NktQWTgtcnhzSzhyMzAxcE9FWUptbFJtTS1OZWMtRi0zNGFKRk1HbFdBSXBiQ3NqNnUybHdwYlZVb1hLczhGc2RSb29mMXdMUERXdDFjeXEwUnRhZWtmeGJYMC15d1FIaUs4TE5FdDlVYUdOZkt2UGpHWklRQjNBc0pZZmdYcW9DUjR1SHZvUFB0NWJHeW5hT19tYm9UTHp2bExicndYM0pfVTRsejRhVWRQaWZIUUVIUU5XVVotQW1odXhF?oc=5",
+        "title": "Waymo Rolls Its Robotaxis Into Nashville, Cincinnati and Orlando",
+        "source": "WKMG"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3JVVGl2c3YwVmJCaXU4MGluWkdqZzQ3cEJxNGpFMXp3LVpFNjVDcHNzTmhvcTFoTlYtWHF5X3E0RktCend6Wmw1ZVQybDVlaElTbVBhTGZFT2FhNTFlcFNWY1BaQnFubWNNUTZ2SUhXNW9QUlZSZmtJb1RNSndLLWNvZW9EMWdPZlQ2RGlMMy14d2dTTEZ6MjJMRVNObjh0QjdTdkd6NzRtci1SY081aF9MbFlMMllNcTZtcldGUkpnRFhiV2trWXdB?oc=5",
+        "title": "Driverless Waymo vehicles expected on Cincinnati roads soon, expert warns of risks",
+        "source": "WKRC"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEs5SjVWSHhnb3dJSExjNEFUNmNNSzBpUFY4Skk2d0hqcUZJSTlrY1pSdVk4VEdGVVZZbnpVaXJ5RDlBLTRLWUhxOXU3Yk1Zb183TkRQQ1ZINnAzRU1rVEc0WXJaZlYtZzlPR2ZKQU5yRzNBamZJdElicGl5OUlFMTFFZHphTFpTc3gtSzRvaDZZLS1VcDEwbzBJYnhaRUNLSU1nQ1V4M0lobC0wNi1iSWZKUVFQX2pGN3h6ZUFHcG9HM1RCMk5xVW04cw?oc=5",
+        "title": "Waymo expands Nashville ride zone to include the zoo, Green Hills and Lipscomb",
+        "source": "WZTV"
+      }
+    ],
+    "body": "<p>Waymo this week pushed its driverless footprint deeper into the American South and Midwest, expanding its Nashville service zone to include the Nashville Zoo, the Green Hills shopping district and Lipscomb University, preparing a launch in Cincinnati, and rolling its white Jaguar I-PACEs onto the streets of Orlando, where one of them promptly went viral for sitting frozen near Universal Studios. Three cities, three different stages of rollout, and one familiar pattern: the robots arrive before the reassurance does.</p>\n\n<p>The Nashville expansion is the most straightforward of the three — an incremental widening of a service area that already covers much of the city, now stretching to take in a zoo, a mall district and a university campus, the kind of everyday errands that are supposed to make robotaxis feel less like a novelty and more like infrastructure. Cincinnati is earlier in the process, with Waymo vehicles expected on local roads soon and at least one local expert already on record warning about the risks of putting autonomous cars into a city that hasn't yet had to reckon with them. And in Orlando, the launch got its unofficial mascot in the form of a stalled Waymo near one of the country's busiest tourist attractions, captured on video and circulated with the kind of glee usually reserved for self-driving-car mishaps.</p>\n\n<p>None of this is new, exactly — Waymo has been adding cities at a pace that outstrips most people's ability to form an opinion about the last one before the next one arrives. What's notable is the gap the summary points to: the expansion is outrunning public trust. A stuck car in Orlando is a minor glitch, not a safety crisis, but it's exactly the kind of image that sticks, because it confirms a suspicion many people already have — that these vehicles are still, in some fundamental way, guessing. Cincinnati's experts aren't wrong to ask questions before the cars arrive rather than after; it's cheaper, politically and otherwise, to litigate safety in advance than to explain it after an incident.</p>\n\n<p>For the robotaxi industry, the stakes are bigger than any one frozen car. Waymo is the furthest along of any U.S. operator, and its expansion strategy — quietly annexing neighborhoods, then whole metro areas — is the template everyone else, from Cruise's successors to Tesla's robotaxi ambitions, will be measured against. Each new city is a test not just of the technology but of municipal appetite: how much friction local governments, insurers and skeptical drivers will tolerate before the convenience of a car with no one up front starts to feel normal rather than uncanny. The economic promise is real — fewer human drivers, new ride-hailing revenue, a glimpse of cities reorganized around vehicles that don't get tired or distracted. But that promise is still being sold one viral clip, one op-ed, one city council meeting at a time, and right now the clips are doing more work than the data.</p>",
+    "slug": "waymo-rolls-its-robotaxis-into-nashville-cincinnati-and-orla-b202cc"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUFFLVFoOUR5R1FiaWhfR2xmU0R1akxzSUhKSzF6d3pkUzQwNkdkdkEtNmgxWGZzdnBXSzVTb0Z1UGZMSmhndG92YXk4Z0FOZkd3TW9QZXpqUmMtYmdoNDV1Q3U5UjZrUkFTdzNOa0hnY1NQRWNRaUd5WjFnUTFQc1gzaU9pQm1ZYl95WkNsOE8?oc=5",
+    "title": "How Austin robotaxis are changing the ride-hailing equation for drivers",
+    "source": "Austin American-Statesman",
+    "published": "Wed, 28 Oct 2026 16:31:09 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Austin American-Statesman examines how robotaxis are reshaping economics and conditions for human ride-hailing drivers.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "ride-hailing",
+      "labor economics"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pOTcydGx3ZFZVZVNGVVdvcDB2OC1ZX3FGdU90akFYZmx1UWszTm1KTG9PR25ZRmhBMDE2dGRqY2l6R213UlJrMmtHTWMweTM1bTJOWTVCYkxTaFlTc3lSSTdfejJqWG9IMWRaX3BXdk5wZGpZRjR3aVhMMA?oc=5",
+    "title": "Waymo for Business now sends robotaxi receipts straight to Ramp",
+    "source": "The Next Web",
+    "published": "Wed, 28 Oct 2026 16:34:10 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo for Business integrates with expense-management platform Ramp to automatically route robotaxi receipts, streamlining corporate cost tracking.",
+    "companies": [
+      "Waymo",
+      "Ramp"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "B2B integration"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeG9zUmRmTjB4WjZWcjV3c29ZVER4THYza2lqRFZWbW8wY0kya2xBU3ZiRDlLMHRrb19Sbkh0TE5mNXBuR3owOEFoR3lOVWx6b0FHM0VLakJNalVLZnVDYnlYS0ZXOUNSS3B2eTJhVWtRU2hNR0VseGZtRzRKbVhDR0pR?oc=5",
+    "title": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
+    "source": "Electrek",
+    "published": "Tue, 27 Oct 2026 20:55:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo expanded its driverless taxi service across nearly 250 square miles in five cities, pushing its operational footprint deeper into suburban territory.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1djenZoVlpxM01NRjJSOW5qcUJwZnlHdTVCaTkwdXo1bjNyUXY1MVhUd2hVUGY3UVpUVU1MWGpEMW11b0dZYk9TeXVtUl9UZlNsTUhmNzN2RUlpUzF1aUUzTDBsRE85X1NKbEV1ZXhKbVh2UWVyWGNVd09qLVhwUG44UzVzbmVfQ2VrTUtHazgwNGF1Q0dVWlM5bWlwYnpPVk1aYV83X3R4UEttTWNiNk5jQmRfekwxMnc?oc=5",
+    "title": "Tesla’s Cybercab Robotaxi Is Probably Not ‘Unsupervised.’ Here’s Why",
+    "source": "Forbes",
+    "published": "Wed, 28 Oct 2026 12:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Forbes questions whether Tesla's Cybercab robotaxi can truly operate without human supervision, casting doubt on the company's autonomous claims.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVBlQm54YzB1OHpCck03aWFEZk1VT1ZBN3BydkZxM05vcTZlQWVfb2cwQkV6bnF2YzdPcGt0TFlldWh1aEZ0UHR0UzYzeUVBa1BMbmxucEdtX3pRWm5tT2tLcUlTUEJxR1FqZ05BRXBEUlhhSjM2cHJiN0F4enlLbXVjNF9LZw?oc=5",
+    "title": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
+    "source": "Electrek",
+    "published": "Wed, 28 Oct 2026 16:18:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's promotional map for its Houston Robotaxi rollout includes fabricated streets, raising questions about the readiness of its driverless ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3l3RmZmemxqczN1dUF0Q1VnTEJrbzkyZlJ0cVRuR1NxZ2NuRlQtX0Zta2F5bGdCX2pEY0ZTankxM2V2azFRQnBpNFhXdVlZczI3OTRMWlIyOGRHX3UtR2FqTUttS20tMnhCSlR6SFZ2V0FxTE9JMnlLVXJrcThVODRyMTVfOHplMXdiTFZvT0dpelBXWWVqUEpnSnVObWtuS0RacUZvcVhfU3N2bjlSUkZtb0NYN20wV2NlRVlYdEtTRVJjX0VOWFdETGk0Yk9CSEtlel9YOURwZkV3Tm1EcXln?oc=5",
+    "title": "Are You Ready for Driverless Big Rigs? Autonomous Trucks Will Start Cruising Between These 3 Cities in 2028",
+    "source": "Inc.com",
+    "published": "Wed, 28 Oct 2026 18:26:02 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Inc.com asks readers to consider the coming reality of autonomous truck corridors between three unspecified cities by 2028, without naming a company deploying the technology or citing concrete plans.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "commercial vehicles"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1U1NEU2Ymtzd2Z4Q0xsS2pYdklvd1lMU2QtaTJtY3VlXzdtUmZHVkUtRTJNM1BoTjF4WUtubHBJZ0J6aTVwNTJXWW9LVjFnak5PWkl5R0tsUjhXUFRHNHo3VEtONnEtU1FmSTRjMFlTVjVfcW9TWTBxU1EwQnJTcXlEWS04ZGp5Q3c4c3gwRjhVcnRJaExSeXJ4TzdVdGJEZ3FCMnJ6dWM1cERab19z?oc=5",
+    "title": "Austin hits 249 robotaxi wrecks and 14 people reportedly injured: NHTSA",
+    "source": "KXAN Austin",
+    "published": "Tue, 27 Oct 2026 20:23:21 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Austin has logged 249 robotaxi crashes and 14 reported injuries, according to NHTSA data, raising questions about the safety record of autonomous vehicles operating in the city.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "crash data",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnhtQ1FYS1NHa2I1ZXBlN0NqRmlCeXNPRnR5Q3M0Q1otYUxNcVVNdUFqenBTLXRiUGVYYzJndUdERXk1QmVGdnR4SUk0Q3V1YXNaNG41aEZvYkNxM3lYZmRLUXNKcjljNmZQNDZ0ZmswSThoQzM0RXgyeFgxVEJOZDg1OWhMaXNfdnViX2F6T0ZRZ010enBhRVpkQ1BCNTU3dWlSeW9qUmQ4QQ?oc=5",
+    "title": "Waymo Picks Ramp for Its First Business Travel Expense Partner: Exclusive",
+    "source": "Skift",
+    "published": "Wed, 28 Oct 2026 12:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has selected Ramp, an expense-management platform, as its first business travel partner, integrating the startup's software into its autonomous vehicle operations.",
+    "companies": [
+      "Waymo",
+      "Ramp"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "partnership"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2h2MFMycUU4YVNBRTZoVG80X0V6N3A0LTdxdEhsbWFzXzhBbk1MUVRNcmNMa0pxY21pUVhKTVJUenZlTHdsT3VYVk5ndnQ0Tm5lbEFXckFMR2pUeVdzSjFLM1I1ajI1OGM2T19wZFduWURHN1VfMEVGSUVkRFZRNGZSMU81MVlULXhQYzdiTmJESHYwYklB?oc=5",
+    "title": "Reach Power Achieves First-of-Its-Kind Persistent Autonomous Drone Flight Powered Wirelessly for 10 Hours",
+    "source": "Yahoo Finance",
+    "published": "Wed, 28 Oct 2026 13:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Reach Power demonstrated a wireless-powered autonomous drone capable of 10-hour persistent flight, a milestone in eliminating battery constraints for long-duration operations.",
+    "companies": [
+      "Reach Power"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous flight",
+      "wireless power",
+      "persistent operations"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNdXpGWlY3b2NrU2hJUnQ3VnJJMFRrM3B6TkNwYUdSejU2T3lnRWFlM3pFeEdKMFNMZHVDNnM5dGx0NWpZa0hwNUZtTm0zbmltWG5WWUI5WE0yMWdEYS0xUWhDVWlOWkdNcnJwU0NaVV9yZHFkODNJaUdCYmpnSHFCaGVUMGhHRTVYTDU0QTVTWTFMQWUxUjI4V2dOaW5qZE5MMkZyenQ5UExvVHY1ZHhqQ24tNE9ZSjZRLTF1dTNoNDJrekFybWpFa19jOWR6ZnBvbWxmRWlNQjczOVNjREVBWWdDSmo0eElnc2NHYnhKSUFibUVXT0lzdTNwanNYc0lBQTF5cFlpcHpHUE9DVkIzTDBmWXUyd3pBekxqaG01dklXOG5XNWlLQjRmRjczVGs5bVBGMzBsLVFlVWJqc2xtYVROWlptTzhrYU9MVjFJRUttZjAyMjR5MDczS1VKbE5mazJUY1pkQlZoSjJmOFFqd2ZVNU9zaVZlc0E?oc=5",
+    "title": "Taiwan working on autonomous drone swarms to counter China’s increasingly aggressive grey-zone military tactics — island has already completed flight simulations, now working towards flight trials over maritime areas",
+    "source": "Tom's Hardware",
+    "published": "Wed, 28 Oct 2026 11:30:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Taiwan has completed flight simulations of autonomous drone swarms designed to counter China's military pressure, and is preparing maritime trials.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone swarms",
+      "military",
+      "Taiwan",
+      "China"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajBkbVBLOVU2YUZkVVp0Y3hQUmNHUmtORDFGdkkzdkFLV1A1VVpSbUhhT0J4dDg3bTBRdXcxYXdzdU4wemJqeDk1VlFZYzBTOVJTSmNIQ3pvLU04ZTU2V1MxQmU1Nk9oTFBkaFNadDlkbWVmMjFYZVNCU2o5QU1LQVR2UXVfX19K?oc=5",
+    "title": "Rownd showcases military drone tech in Hartford",
+    "source": "WisBusiness",
+    "published": "Wed, 28 Oct 2026 06:00:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Rownd puts its military drone technology on display at a Hartford showcase event.",
+    "companies": [
+      "Rownd"
+    ],
+    "people": [],
+    "themes": [
+      "military",
+      "drone",
+      "showcase"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3hKTTc2dlhZWEZBUGpMbS1WWC1IdkU2YVJLdF8zblcwLXNGT2ZZYjZTbkhKTlZXSTMzZ1BjQ3RpbjVrZkxBNEVRUjE2eFVwSnpLLWlfd3VGc2tSTE1JbmNST3F0MTZEM21HOV9HR2dUV21oS2haeVBiMVZldDRkVVhWSnZ1Z25MODVsUHpwU1RFc2M0V2w4OUluM3dQWVViTlE?oc=5",
+    "title": "Watch this autonomous drone chase a person through a forest without GPS, maps, or cloud computing",
+    "source": "TechSpot",
+    "published": "Wed, 28 Oct 2026 13:19:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers demonstrate a drone that pursues a moving target through dense forest using only onboard vision and compute, no GPS or external infrastructure required.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "drone",
+      "vision-based navigation",
+      "edge computing",
+      "tracking"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXzAtQUU1VENkN3BHdTBWVW91eFNHMUZnMndNRElHMEFacUh3blR4dEwzSi1TWWRKSGF3V1B0bzJZd2Q3QS1MbUZOS3k0WElfMlhRTmNDZXV3bUMwLUlWU0JUOEtmcGI1QW85OGF2SmR5bXg1dEF1eHFRTE1CUi0yb3d5M3ZpSDY1emtmS185Z29YZXVJR1ZiNTBEUlBkUXRaa3J1ZUdyMkZuXzZuaGExXzhTYw?oc=5",
+    "title": "The US has developed an autonomous drone with AI that can chase a person in a dense forest",
+    "source": "dev.ua",
+    "published": "Wed, 28 Oct 2026 08:10:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "The U.S. military has developed an AI-powered autonomous drone capable of tracking a person through dense forest without GPS or human control.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "AI",
+      "tracking",
+      "military technology"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcW10aXZRMFhYUzhseE1BamIzYU9NdWtUWklCQzAwdHZjVGIwXzRpOHNWMU5PNVlmMTlOU1hxeW5uUTU5bGpyZzZxN2EzM0tYQURRVWRUbVFuSFVDY1FsUHEySmpSWVN0eUt6VDBNMmZsbGh4U0tVV0RZWXB5NVJJNXVoYTNUSmJlR1UtWmxQanhJNk4zbWZhd1pxQVBTeERZYUNoTHhkV094MnhaY09idVA2eFUxQk1aSm5kampSQ2x2d1VqNFhhMHFQT0V3VGRWaHlHRXBTaTFlQQ?oc=5",
+    "title": "Mobilicom (NASDAQ: MOB) Showcases SwarmiX Drone Swarm Technology at ARC WEPTAC 2026",
+    "source": "TradingView",
+    "published": "Wed, 28 Oct 2026 15:32:42 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Mobilicom is demonstrating SwarmiX, its drone swarm technology, at the ARC WEPTAC 2026 conference.",
+    "companies": [
+      "Mobilicom"
+    ],
+    "people": [],
+    "themes": [
+      "drone swarm",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRUGVJYXVnbXpOa1FPa0MzekFFVFlvU0RTSFYwUTR1Ri1MT0xRRlBCaUl5ZW9lUFNOaHpOVVBGMDZnMGFLazJrXzU0aUlucV9qVWRVcWFUcWtBelRvRW5CVDI5bmtVN21iSlg4XzRpd1VqbTBK?oc=5",
+    "title": "Your industrial drones collect data. Percepto wants AI to make it count",
+    "source": "DroneDJ",
+    "published": "Wed, 28 Oct 2026 08:49:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "Percepto pitches AI software to extract actionable intelligence from industrial drone footage, positioning itself as the sense-making layer between raw data collection and business decisions.",
+    "companies": [
+      "Percepto"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "industrial",
+      "AI",
+      "data analysis"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPamlaNFFLVWxpNTdOVDFIV1V4SWtGRW9Sa0Zxa0FCSjJNeV92VkZnOEN4eEVrNFZjSmxsWkNUb0NLZk1kN1A4dzc2SVlKcU1ySDB4WE9SXzdpXzQyLXdUVzJzQ0MwRV94WXJxVEl6c29IMlJneTlYRWFQVTFlQUJMS1pueFkxdmFURXJLY0NTUWZSTGxVQVFxSG9weHA?oc=5",
+    "title": "Poseidon’s 1,800kg autonomous cargo drone gears up for flight tests",
+    "source": "Engineering and Technology Magazine",
+    "published": "Wed, 28 Oct 2026 06:05:52 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Poseidon is preparing flight tests of an 1,800-kilogram autonomous cargo drone, marking a step toward heavy-lift commercial deployment.",
+    "companies": [
+      "Poseidon"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "cargo",
+      "heavy-lift"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdFJRNEtpbTV2RHFyUC01UW9FNU9YYjVUN0R4UjJ1YTJTelNXSEJyUzhkRl94RmRqbDdQVnBOeUtSRElLc0M2LVByQkUyZkY4eXdvOEE2WVA4czZzSHcyZW5wRXdhbEp0UGM0M09raVVwWGVPcWc?oc=5",
+    "title": "Lawson Products to Arrive by Air: KDDI and Wing to Launch Drone Delivery in Japan by 2027",
+    "source": "BigGo Finance",
+    "published": "Wed, 28 Oct 2026 03:25:10 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "KDDI and Google Wing plan to begin drone delivery of Lawson convenience-store products across Japan by 2027, marking the companies' first commercial deployment in the country.",
+    "companies": [
+      "KDDI",
+      "Google Wing",
+      "Lawson"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWVUM1lsUFcySVFxd1kyU3NqakxkVHd6Tlc2UlppUzNpX3hFYUl2ZWVQcHNXQmFRc3RZNEpSbG83TE9XMU90eXZfeTBQREQ0d3JfaVlMblEtOVFwNXRpT0d5S19hR2MzQlRuSVRyWFV2V3dTYV9URWRGamlBME9nTzR6dWtyZE8zY1NvZ2VGbnlTUm9uZ3gtaERQdjRKNUM0NTlQU3ZVOEhrWW1RU1hLb193UmVRRGY3ajFn?oc=5",
+    "title": "Percepto Launches Hardware-Agnostic Axion Platform for Infrastructure Inspection Data",
+    "source": "Dronelife",
+    "published": "Tue, 27 Oct 2026 13:43:14 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Percepto released Axion, a hardware-agnostic software platform designed to standardize drone-based infrastructure inspection data across different drone models.",
+    "companies": [
+      "Percepto"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "infrastructure inspection",
+      "data management",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWll4OVp1NWpFd0tRRmpZbHU0eU9ZNE05anNmMHpKTVZGcHFlRUwteHprOERyQ3JxS3B5dloxTFNfODRLY1VSZXJkTkoxR00tR29IaVlzNF9wUnFxNk0zWmZsX3JFajQ3XzBELWNrNHduTE91b3N4RHFXSFJ5N3FmOE93MnhaYWt0QTYyaDQ3LVF1MHdHNF9CX1pIRklWMEh4c3ZHV0RyS2pyTVpnaEZ1dFFXN3pWcDBmbUE?oc=5",
+    "title": "Brain-computer interface startup NeuroXess raises RMB 700 million in Series B funding",
+    "source": "TechNode",
+    "published": "Wed, 28 Oct 2026 05:14:45 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "NeuroXess, a brain-computer interface startup, has raised 700 million RMB in Series B funding.",
+    "companies": [
+      "NeuroXess"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "BCI",
+      "neural interface"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZG1kSGRPcFBuX1dqSVk1bEMwby1BcDN4cVZtWldwa1RZTTVRNG5ia1ltTEFsajVWajZpNzlSRFQ0T1NQWHJHalFyU0JKSXd6V0pXWWdnZzBWa3JEYmx4SDdpcVpqNU9COGdxbDlDbzBtd0ZhbFEzWjRlWGUyLW5DaElCR0ZHSkpRSGZvZGI0UXlBYWNRcHh6VC1EZXZ2X1hVY2stbEJPRzMzYkdjNl9QcQ?oc=5",
+    "title": "China's NeuroXess raises $105M Series B as brain implant enters clinical trial",
+    "source": "Dealroom",
+    "published": "Wed, 28 Oct 2026 01:01:45 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "NeuroXess, a Chinese brain-computer interface company, raised $105 million in Series B funding as its neural implant advances into clinical trials.",
+    "companies": [
+      "NeuroXess"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zUS0zdWJqSGNDZDJSZTlvbFk4TEdiMjEzWVJfYUFUbWNfcDRkN0VpbXJYUzNpeXZlYTJYbG05Y3R5eDNwUGhkdkQ4WHBXMm1mVC00?oc=5",
+    "title": "「NeuroXess」Raises 700 Million Yuan in Series B Financing, the \"Three-Comprehensive\" Brain-Computer Interface System Enters Registration Clinical Trial | 36Kr Exclusive",
+    "source": "36Kr",
+    "published": "Wed, 28 Oct 2026 00:43:45 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "NeuroXess raised 700 million yuan in Series B to advance its brain-computer interface system toward clinical trial registration.",
+    "companies": [
+      "NeuroXess"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "clinical trial",
+      "medical device"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12ODM2M1l5Q1hDV2pvZmJuNHgwSTlaWUFzUzRsY3hibFF5aFJmdmhsYzk4Rjh3M2l4QXRlcDRFcGRPa2FHeGRBOHdxOVRxc3RRcXl0SmEzWjdvQ3ZsOTJST0d6MkJCN1cxRmM5SG1LUWpJWjlrRXc?oc=5",
+    "title": "China's Neuracle Matrix (脑虎科技) Raises CNY 700 Million in Series B Led by State Capital to Bet on Brain-Computer Interface Mass Production",
+    "source": "BigGo Finance",
+    "published": "Wed, 28 Oct 2026 04:35:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Neuracle Matrix raised 700 million yuan in Series B funding led by Chinese state capital to scale brain-computer interface manufacturing.",
+    "companies": [
+      "Neuracle Matrix"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "BCI",
+      "mass production",
+      "neural technology"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/waymo-and-ramp/",
+    "title": "Waymo for Business",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo integrates its Business ride-hailing service with Ramp to streamline corporate expense reporting for employees.",
+    "companies": [
+      "Waymo",
+      "Ramp"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles",
+      "business integration"
+    ],
+    "first_seen": "2026-10-28T20:02:05",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
