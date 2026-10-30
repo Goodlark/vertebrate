@@ -94563,7 +94563,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -94723,7 +94723,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -94749,7 +94749,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95129,7 +95129,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95266,7 +95266,7 @@
     "first_seen": "2026-10-23T18:51:31",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95710,7 +95710,7 @@
     "first_seen": "2026-10-25T18:04:09",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -96178,7 +96178,7 @@
     "first_seen": "2026-10-26T20:16:47",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -97027,7 +97027,7 @@
     "first_seen": "2026-10-26T20:16:47",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -97205,7 +97205,7 @@
     "first_seen": "2026-10-26T20:16:47",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -97935,7 +97935,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -98296,7 +98296,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -99366,7 +99366,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -99447,7 +99447,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -99551,7 +99551,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -100224,7 +100224,7 @@
     "first_seen": "2026-10-29T20:01:37",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -100542,7 +100542,7 @@
     "first_seen": "2026-10-29T20:01:37",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -100569,7 +100569,7 @@
     "first_seen": "2026-10-29T20:01:37",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -101181,6 +101181,1613 @@
     "week": "2026-W44",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1JrRWx2eXVQZjN5Yk1meFNZZ0pfY2VjVzUyWjR6M2FvdFk0aG0xWVhOZkdYWmlDZ0xBdGRNUVVJbWhUZ0VObkZ6V3UyS050X2QyeGI0Y212UE9Ob0c2T2dZVFZ1cHhwSmtsaElXaTdLMzd3Q2s3elNNZFc0UmtEcVloeTAza3JwWElIczUxTFd1Zm10TWtGMTdxZ2lOaTByVUo0dzBNeGFjclctRjVnV2JvaVZwTmwzNFZac3RZTy0wN292NkhqcUhQOA?oc=5",
+    "title": "World’s Biggest Humanoid Robot Maker Wants To Change How We Measure Robot Work",
+    "source": "Forbes",
+    "published": "Fri, 30 Oct 2026 18:04:43 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Boston Dynamics argues the robotics industry needs new metrics beyond speed and strength to fairly evaluate humanoid performance.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "benchmarking"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0d5T1N4U1NXSEhhVFlIeTl3ZTJDRGdxT3RnYnBPdm9FQlVwLUctV21ZX2pBdEM1X2VMb2RWejR4LXJ5UGhjYnhLeld3SVlvSnNaWE82b2txSnUyNWhLQjludWUwYW9lLXg4LTBMUEplVEFrU09KakJSb0MteEpFeDlPaFNMZ2pod2RFSmlkZVFra1g3dEE?oc=5",
+    "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
+    "source": "The Robot Report",
+    "published": "Fri, 30 Oct 2026 16:27:29 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Humanoid robotics maker Agility is raising $465 million via SPAC merger to accelerate production of its bipedal warehouse robot.",
+    "companies": [
+      "Agility"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "funding",
+      "warehouse automation"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ydi14SkhhWXNPcUhScTJtc1ZiTzZrSy1mV1hLbEtTNUEycFlTTVYyNjNpXzNFQ3B3R3FQQmFLVUxFVTd2WkpLOTRKeExCaEhuRVJ3Qml3eVdITjdwanJnY2RKU1dXaUFSaHpTNGFoNGg?oc=5",
+    "title": "Tesla is set to open reservations for its Optimus robot later this year",
+    "source": "The San Francisco Standard",
+    "published": "Fri, 30 Oct 2026 19:01:42 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla plans to open reservations for Optimus, its humanoid robot, by year's end.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHpPbWlPQTZ1Tk1zTERvQXdPb1A4S3dtWDN1aUllRUpscXpEWVlvc2lqeW5YbG44NDB0N0FyUE01bDRTUV96alFiODZlLThkeXFfdXZXV0JGMTZWOUc3dWF3MzgzdEYybU9NdGpFVDhqdWFrTE9DMWVOYTVvbDJHSlFkZ21ONHd0R0RXcl9jZEI2eEFaUTFPNEJ3?oc=5",
+    "title": "Humanoid robot achieves 85% success rate in real-life trial with AGIBOT’s GO-3 model",
+    "source": "Interesting Engineering",
+    "published": "Fri, 30 Oct 2026 10:59:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "AGIBOT's GO-3 humanoid robot demonstrated an 85% success rate in real-world trials, a concrete benchmark for physical task execution.",
+    "companies": [
+      "AGIBOT"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "real-world deployment"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDFGcEk3TXNRcGJZdlJQM0hkWjBNU3g5VnJzNy1oQktBQWJfUE9WMERmVnUyLTlDWnQ1RUpEN0JGeXBTYzlvbE40YXU2Sl85Q3E5T3MwRlFKcG5UOUcxeXdxckRPdFlJc2N6OWo3Wkc0MTdncEE5WFZ3WjBUMTFCVnJkcmFRRHE3SV9WTEVIekxVVXBzMWV0ZXlYZnItVnJpNlNreElBdTA3T1Y1Q3V3U1RiQUQteFRaa1pxTVdtaGpFN1ZYTEU2cVM1VFRtWXZ3c0t2ZWRXSQ?oc=5",
+    "title": "XPENG Starts Small-Scale Production of Solid-State Battery for Humanoid Robots",
+    "source": "Gasgoo",
+    "published": "Fri, 30 Oct 2026 09:49:42 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng has begun small-scale production of solid-state batteries designed to power its humanoid robots, a bet that denser energy storage will make physical AI more practical.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "solid-state battery",
+      "manufacturing"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTndjMUNXQnFkWVJXZjQ1NS1MY01fLTlqX3huQnlZZHVYWmh3QmFBaVVsVkZOcUJ4LXV3Ymp3TWVGWmRWeGhRYkJ1OTl3ODJhaHBQVGNQdUNMWmxWeFF3alVWcHVuOWtUZnMxNkNWNWNiVWVfY3lUekpHaEh6dU5GRHRXNTJWTDdyQjBhNkQ5RFExclhPa0xzMHlmOTR2bXhUQ1A2UjM3WUwxTlFlX0FTckZfTThuZXE0eXgxUm9R?oc=5",
+    "title": "Bleu Robotics Raises €5M in Funding to Speed Humanoid Robot Deployment in Factories",
+    "source": "AI Insider",
+    "published": "Fri, 30 Oct 2026 14:01:08 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Bleu Robotics raised €5 million to accelerate humanoid robot deployment in factory settings.",
+    "companies": [
+      "Bleu Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMnN4ZElNMWI2bkpWX2JDNVVEV1pzbG9LWDFTY0FRb2R0R3ZEQ3RicGR2V2NPb2FzYl9VelRfbnhNNmRYNk8yNXJNZHpjejNzWHNiVkp4bzQyUHVnQWd0MGxJclVBUThjcjhIT2dwTG81MlhpYXdDd0k5cldOVlREdDZ6MnlzRHU2QmFSaVNXLWluckhYWHBJUEZWS29zdndOUVlSb1d3c3l2QXZLVlR3WlJ4QUYzM3FmVmhZTzNIREdxUzVIeHY1LWNNa3p2OXNpTS02VXJmNDhscF9JZWVLOQ?oc=5",
+    "title": "Humanoid expands collaboration with Nvidia to power its next generation of humanoid robots",
+    "source": "Robotics & Automation News",
+    "published": "Fri, 30 Oct 2026 18:12:01 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Humanoid deepens its partnership with Nvidia to deploy the chipmaker's processors in its next line of humanoid robots.",
+    "companies": [
+      "Humanoid",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "partnership"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWlZpU1ZxTmlGcVlzbGdkTFFYNHBpRXFSSXJFakNySmlwSkNHd2E2dEE4RFhPLUZfZ0JtTHlEQUZvU0JMbjItS004bGpNVlFqSHlJcDN4R2pEZ2pnVDdhdVhVNXIzaDQ1V0I0NWZSNnVjMHdDYU9TUkIxSVN1RUdRUHhCbk52N0p6Mml5Qi13?oc=5",
+    "title": "UK’s first humanoid robot home insurance arrives before the robots do",
+    "source": "Martin Cid Magazine",
+    "published": "Fri, 30 Oct 2026 15:09:17 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A British insurer has begun offering home coverage for humanoid robots, betting that the machines will arrive in UK households within years.",
+    "companies": [
+      "British insurer"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "insurance"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWVqUXZZQzZHbi1iTWZ2czVTNXpReUlpbktPTFBjLUJKSjgxOVJSRnlLMDBfUUNhbG9UWWlFTm5JUFlXYnlPYkp1RFhYeVk4ZFY3VHZiWWQwd0dBOE00RkVjUnFfMWY1TjNGN3JWLTlJcHlkWTlqRUJzNlN2c2V0UGlRXzJZME1qT2VSX3A1MngtUVVtUWg3dTZSVnotaE5xdVZ5QkZtTmZ0MWUwWEhaVFVOOHFfbTBjNjd6S29OcFlmbDlWVzllVnJEdWdqRFN0cVplS3VvemRuLXpRU25z?oc=5",
+    "title": "Who Trains the Robots? What 1,196 Open Robot-Training Jobs Say About the Physical-AI Workforce",
+    "source": "Robotics Tomorrow",
+    "published": "Fri, 30 Oct 2026 13:32:42 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A survey of 1,196 open robot-training positions reveals the physical-AI industry's mounting need for specialized human labor to teach machines physical tasks.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "workforce",
+      "robot training",
+      "labor"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0doQV9KVFJ0TWdETF9SZURCNElZYmQ3ZzZUc0lXQVkzYUtDdjdEVWIyY1lZSzJZNjBPUzk0amQxd3FTbXE0NkZ4LTltZDJZdEI4Ym51V0NRaklQMXZMUUhZTk1yOXJpSEpaNERDa25LYXNjSWRMOFpscjkzNGpQRkV5dHZhZjE4LWJKdUxxemdVOXNsVmFzOG1zLUoxOGpTaEkyYXF4bDZUQTZBQmhkR3hn?oc=5",
+    "title": "Allegro Debuts 48 V Power ICs and Precision Sensors for Humanoid Robotics",
+    "source": "All About Circuits",
+    "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Allegro released specialized power management chips and sensors designed specifically for humanoid robot systems.",
+    "companies": [
+      "Allegro"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "power electronics",
+      "sensor technology"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFF0SUdERnJIbXpmNEM0TkRid2RhZlVOVjk2dkdjNzkyV3JvbXNhb05idkY4X0YxVTRlRThhOUU1bkx6QkdPMkgwVm9ZeHYtS3FsR2dGX0VnNXRsdGZ1ZHdDejRHRHpQR2NrNWRBTll2dTdmbExnWEFpOFpIN1I3WVV3?oc=5",
+    "title": "China unveils 13-foot robot that can lift a cow",
+    "source": "Yahoo Finance UK",
+    "published": "Tue, 27 Oct 2026 17:44:01 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China has unveiled a 13-foot industrial robot capable of lifting a cow, demonstrating advances in heavyweight robotic systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "industrial robotics",
+      "heavy lifting",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVA4YkFfXzcxbVBNQzQ5REVHRl9MWDd3TWxSZ1RMeWNtNG1KNnFXMGpwVUNwcVN0VWFlQUdwckN3MWtpbkVzdjAtUjltajRrci1FcksyRVRoRzBvMmZETFExY24xZ045cHVYUGYtWldRNzJDQ05tSGhyUFc4dndfQUpYbmk1TW56U0hCZFJSZy1jSFFINndMSkMwbVZKZGpkcUUxTkFYNkhDVndlN0xXMmFVOGw5RTBpMHJxUF9pTWRlWEhINGNHTVpqRUNmQzg?oc=5",
+    "title": "Tokio Marine HCC International and Adrian Flux develop specialist insurance for domestic humanoid robots",
+    "source": "Reinsurance News",
+    "published": "Fri, 30 Oct 2026 10:33:23 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Tokio Marine HCC International and Adrian Flux have created the first insurance product designed specifically for domestic humanoid robots, acknowledging the machines as a new risk class in the home.",
+    "companies": [
+      "Tokio Marine HCC International",
+      "Adrian Flux"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "insurance",
+      "domestic robots"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55RTBPTWdwTUpvcXpuMEVydm5MTVBOMVowNEhoODlpRG5TVlBVRVZDYzNiWHVXQzV3Qk5kLXk1SDRNeFhwY3V4dXJrWVk0MTMtQ1A2TFNlai1ZLUpTYUROeEdpSW5xM2g5bEsxc0xiWDA0aVN5?oc=5",
+    "title": "LG Builds the Brains, Samsung the Hands in Humanoid Robot Race With China",
+    "source": "Businesskorea",
+    "published": "Fri, 30 Oct 2026 03:24:39 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "LG and Samsung are positioning themselves in the humanoid robot market by focusing on component supply rather than full systems, according to industry analysis.",
+    "companies": [
+      "LG",
+      "Samsung"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHZuMnY0aFplRlhrcjJfNnZpOUE4a0dEOHg5LVdROW8ycnhRa2F1cFhtOTdNTXMxczZrZFJxbjBZZjgwUWN6c0JuWjA3NklnNFJQd3hqeThEWnNjWmlvOG1LMlp1UFN5SWlranUybTBzRTdmLXJlMVdjQnU3ck9iYmo1ZTNrcWVpM28xaHJ0NlhBVm1CN0hkSThzZmN4ZHBPcHRsWm0zRW5obHpCRllEckNVOThIWGF3Z1ZTdko5Nm1JWlFLdHc?oc=5",
+    "title": "Hesai Technology Targets Robotics Motion and 3D World Data Engines",
+    "source": "Gasgoo",
+    "published": "Fri, 30 Oct 2026 07:02:25 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Hesai Technology positions its LiDAR sensors as infrastructure for robotic perception and spatial mapping, signaling a strategic pivot toward robotics-focused markets.",
+    "companies": [
+      "Hesai Technology"
+    ],
+    "people": [],
+    "themes": [
+      "LiDAR",
+      "robotics",
+      "3D perception",
+      "physical AI"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0dXSEVHYXRiektHSTNkQ0FvT0R0dlF4OGZUSEloQkxiNnh1bFNHTXpxeU01RXRmRTBIV25Jb0lLMnZXM1g5SGQwak10c0xycFRpeThaRFVVLWNIbmRMWF9Bel94bmhOMFRNRnU4UzM1enN6anFyR2RibjNydGI3VVdjOHZZWDNjVlFZOER1UUhDYWsyeHFaMFVpdw?oc=5",
+    "title": "110 Humanoid Robots Dance in Sync as China Sets Guinness World Record",
+    "source": "TechRepublic",
+    "published": "Fri, 30 Oct 2026 17:57:57 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "China's humanoid robot maker coordinated 110 units to dance in unison, setting a Guinness World Record for the largest synchronized robot performance.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IeDBjQjBGQTZiMlkyN0NTbG9fZE16SUR3azJBOFp1Z014VW5HTFZMS3Q0OV93Vjl2UTU2bEVUVzctREVGTnhYWS1rNHhkNFBuM2Zhal9leXp5TkZKUXh2a3paOVBIenJZ?oc=5",
+    "title": "Toyota and Waymo Advance Autonomous Driving Collaboration for Safer Streets and Freedom of Movement for All",
+    "source": "トヨタ自動車株式会社 公式企業サイト",
+    "published": "Fri, 30 Oct 2026 07:02:07 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Toyota and Waymo's official announcement of their autonomous driving partnership reads as aspirational corporate messaging rather than reporting of a concrete development.",
+    "companies": [
+      "Toyota",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "partnership"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FTnkxdFlNY3lsV2xkeGNBN05Nd3BMM0FiVDBOdGUzNmxJaU9sR1I0alFOaHVKdkVlLWZXM1haYTV0WWQ0OUF2YllzaWphbW8wTU9vRF9BdmlmRTlUb0JTMFh0NTkzS2hHbld2Sjhnc0FSV09sWXdZNQ?oc=5",
+    "title": "Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027",
+    "source": "Electrek",
+    "published": "Fri, 30 Oct 2026 14:22:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will deploy its driverless taxi service in Japan starting in 2027 using Toyota's bZ4X electric vehicle.",
+    "companies": [
+      "Waymo",
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "electric vehicles"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHBySWZ6THhnWVV5dlhYSzJNUXlPR3NvVGVPUDFkRmFROEJCQkxfUHdzSEdtbXdoOU1KNWd3azZwbURmMklLMTRJM0VTejRQNklQdjNXaFB0cTRrQWlDbDFpdkYwX2FOTVVVY2JVQm02NFduYjJnNV9FZ3MwMGE4WmdOUERIX01iSnZ4N21RZ3JmXzNjTzdwSUpGRTBlb1Jz?oc=5",
+    "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+    "source": "The Verge",
+    "published": "Fri, 30 Oct 2026 13:52:14 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is deploying a purpose-built electric Toyota bZ4X as its next robotaxi, replacing the Jaguar I-PACE.",
+    "companies": [
+      "Waymo",
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "electric vehicles"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZWlKRTJKYXdpQzI2b3lORjRnZzZkSWpkZk9fYlNBdVZjR0lQNXNQNU4taE43Qy0yY3FfMWNnZXZERWthUFZHNXJkaFFvQzd5bXp2d2lScHdzX3lFWWplWkZDX2tpVVRMZmdmMGJ6anpzeW9OTDRzd2hIWmxmR0JjaXcxVXhtYm4wWGxlT0JoNGozdlBXcWtQUjR0eHc0ejdiZGhCUHhUNjU4TktwRzdTR00ySG80enRZR3pBcktnekc?oc=5",
+    "title": "Waymo's Expansion Push: Tokyo Yes, Raleigh Maybe",
+    "source": "Reuters",
+    "published": "Fri, 30 Oct 2026 07:29:56 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is pressing outward on two fronts. It struck a deal with Toyota to put autonomous bZ4X electric vehicles on Japanese roads starting in 2027, the pair's first joint deployment and a signal of ambitions beyond the U.S. Back home, the rollout remains more improvisational: a Waymo representative touring Raleigh this week offered Triangle residents nothing firmer than polite noncommitment about when, or whether, robotaxis might arrive.",
+    "companies": [
+      "Toyota",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "testing",
+      "Japan",
+      "electric vehicles"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZWlKRTJKYXdpQzI2b3lORjRnZzZkSWpkZk9fYlNBdVZjR0lQNXNQNU4taE43Qy0yY3FfMWNnZXZERWthUFZHNXJkaFFvQzd5bXp2d2lScHdzX3lFWWplWkZDX2tpVVRMZmdmMGJ6anpzeW9OTDRzd2hIWmxmR0JjaXcxVXhtYm4wWGxlT0JoNGozdlBXcWtQUjR0eHc0ejdiZGhCUHhUNjU4TktwRzdTR00ySG80enRZR3pBcktnekc?oc=5",
+        "title": "Waymo's Expansion Push: Tokyo Yes, Raleigh Maybe",
+        "source": "Reuters"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCVnhpRjB0RmZSSFRWVkJuaFQ2V0dua3BuZmxkSVJBc3lLZ0xaRG1WN0xWbXhMZzJmRnZCSTJ2MmgxVWFWX2tfRXB4a21aNDA5UmF2YmwzdGxjMlRfZG5nN3F2RFlKemZ5ZXJ5NGNR0gFuQVVfeXFMT0JVaEFMWDNuQWkydlZ6Sy1wOVBnMG5OZTZXMmhnQ19zV2dkeTRoTnBkaUM1MmQ1NkhvUHNYd3diazhsNUl3X1RFTEdHNzlqUU5jWlZKeXFiZS1QdV9mZ2c5SDJGcnBEejh5alRSaGc?oc=5",
+        "title": "Will Waymo come to the Triangle? What a company rep said in Raleigh this week",
+        "source": "Raleigh News & Observer"
+      }
+    ],
+    "body": "<p>Waymo and Toyota announced this week that they will begin testing autonomous bZ4X electric vehicles on Japanese public roads in 2027, the first joint deployment between the two companies and the clearest signal yet that Waymo intends to take its self-driving platform beyond American borders. The pilot will use Toyota's electric crossover, built in Japan, retrofitted with Waymo's sensor suite and software — a pairing that gives the American robotaxi company a foothold in a market long skeptical of ceding the wheel to software, and gives Toyota, which has watched more nimble rivals dominate the autonomy conversation, a credible answer to the question of what it's doing about self-driving cars.</p>\n\n<p>The contrast with Waymo's domestic posture could hardly be sharper. In Raleigh this week, a company representative made the rounds with Triangle residents and offered almost nothing concrete — no launch date, no service boundaries, not even a firm commitment that robotaxis are coming at all. It was the rhetorical equivalent of a shrug delivered in a blazer: polite, noncommittal, designed to keep expectations low while keeping the door open.</p>\n\n<p>That split screen — bold overseas commitments paired with hedged domestic ones — says something about where Waymo believes its leverage lies. In the U.S., the company already operates in Phoenix, San Francisco, Los Angeles and a handful of other cities, but each expansion has required painstaking negotiation with local regulators, transit officials and wary city councils, not to mention the occasional vandalized vehicle. Tokyo, by contrast, offers a tightly regulated, single national framework and a government eager to position Japan as an autonomous-vehicle testing ground, now that Toyota, its industrial crown jewel, is co-signing the project.</p>\n\n<p>For the robotics and automotive industries, the Toyota deal matters beyond its symbolism. It links Waymo's software — widely regarded as the most road-tested autonomous stack in the world, after more than twenty million rider-only miles — with Toyota's manufacturing scale and its hard-won reputation for reliability. That combination could do more to normalize robotaxis internationally than any number of incremental U.S. city launches, especially in markets where consumers have been reluctant to trust Silicon Valley with their commutes.</p>\n\n<p>But the Raleigh visit is a reminder that even the industry leader hasn't solved its oldest problem: scaling trust at home, one skeptical city council meeting at a time. Each new American market requires Waymo to relitigate questions of safety, liability and curb space that Tokyo's regulators may simply decide by fiat. For Triangle residents wondering when they'll see a Jaguar I-Pace glide driverless down Hillsborough Street, the honest answer, delivered this week, was: not yet, maybe not soon, and nobody's promising anything. Meanwhile, in Japan, the calendar already says 2027.</p>",
+    "slug": "waymo-s-expansion-push-tokyo-yes-raleigh-maybe-97c6ff"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnlwZjNKS3haeVZ2bGlXX0RYZWV4QlFNLVUwZ2NnRXpyc2l0elhpRjhaS3AyeXBoNVl5RHJHRzNEQ3BnRUxET1YxUXhka0ZnaHg1cnRCTFRXTHlSNU8zZ0luazkzZVdSU1VIMmw0TXZzWFJmNG0zU2RETFRWejNCMG15cGU4ZXNzRi10SDNKamtocFJuRUpkSDh4R2RKc0M0dE0zQm1HOXRObE1Ea3ZJYmY3WQ?oc=5",
+    "title": "Proposal seeks to tax companies that use delivery robots, driverless vehicles in Philadelphia",
+    "source": "6abc Philadelphia",
+    "published": "Fri, 30 Oct 2026 14:17:27 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Philadelphia proposes a tax on companies deploying delivery robots and driverless vehicles, marking one of the first municipal efforts to capture revenue from autonomous vehicle operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "delivery robots",
+      "autonomous vehicles",
+      "regulation",
+      "taxation"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCVnhpRjB0RmZSSFRWVkJuaFQ2V0dua3BuZmxkSVJBc3lLZ0xaRG1WN0xWbXhMZzJmRnZCSTJ2MmgxVWFWX2tfRXB4a21aNDA5UmF2YmwzdGxjMlRfZG5nN3F2RFlKemZ5ZXJ5NGNR0gFuQVVfeXFMT0JVaEFMWDNuQWkydlZ6Sy1wOVBnMG5OZTZXMmhnQ19zV2dkeTRoTnBkaUM1MmQ1NkhvUHNYd3diazhsNUl3X1RFTEdHNzlqUU5jWlZKeXFiZS1QdV9mZ2c5SDJGcnBEejh5alRSaGc?oc=5",
+    "title": "Will Waymo come to the Triangle? What a company rep said in Raleigh this week",
+    "source": "Raleigh News & Observer",
+    "published": "Fri, 30 Oct 2026 15:00:39 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Waymo representative visited Raleigh this week, but offered no concrete plans for deploying autonomous vehicles in the Triangle.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelFPTElwcTFoUXFiU0JRQnBuZFpGVU42UEJMazZCbUlRUW5KTWtHX3dqQ2dGWjIzblZxc3pGNTJGbm5TUi1sNGp0X2dKSzUteC1yQUR3MkFmcVF3dzdUd0gtQ2cycUdQVFRsM2ZHMFRyamN3d3FPS3BDTkFfczJGMTlONFY5T2tlb3hLbU9BTkFaUjc3aUdtbmd4bWVZTFJ6eU10NDVEX3gzc00?oc=5",
+    "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+    "source": "TechCrunch",
+    "published": "Fri, 30 Oct 2026 07:01:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo and Toyota have partnered to deploy robotaxis in Japan and the UK, with Toyota supplying vehicles for the expansion.",
+    "companies": [
+      "Waymo",
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles",
+      "international expansion"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMTFJa3J2VjNFSHVNS09zczF4QnhLQjFtWU1lNHYtZkdWOGhqQURDbEpObURIVjUwU0dFR1hoY0xsdk9qU2xheGEta2xsaGhza1RnV1l3cHlIbUhLaDBLbXVkN3VtTVg4V3JQbGhzWE16dkpTeXJ2Yjh3Q3BoOGRHcnJrb1Z0QUpwTzVpbFhoajhPLThCdFk3bTdwVWVCUnVDSE92YUxSWkFybEl5d2Zr?oc=5",
+    "title": "Toyota Built The EV. Waymo Will Drive It. Tokyo Gets To Judge.",
+    "source": "Forbes",
+    "published": "Fri, 30 Oct 2026 15:33:37 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Toyota and Waymo are partnering to deploy driverless electric vehicles for a public trial in Tokyo, marking a rare alliance between a legacy automaker and autonomous-vehicle specialist.",
+    "companies": [
+      "Toyota",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "electric vehicles",
+      "deployment",
+      "partnership"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RTzVWZ1ZleVBzVWdvXzdncHJ2MXRVYVNTdF9sTXV6U0Fna2hhWDV1T1RXLXIwOEhseldhd1owazdxamU2R3E3V2NKeUgzd0lUdjV2ZUxVOUxHdDNDWWJpdW9OT0hNQlE5eS1xYlA5b09ZRHFTUGJPQ2JKYw?oc=5",
+    "title": "Toyota to build Waymo robotaxis for Japan, UK in first step to creating large-scale global business",
+    "source": "Automotive News",
+    "published": "Fri, 30 Oct 2026 08:07:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Toyota will manufacture Waymo's driverless taxis for deployment in Japan and the UK, marking the first major automaker commitment to producing autonomous vehicles at scale.",
+    "companies": [
+      "Toyota",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "manufacturing partnership"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNE51bEw5V0xqbEpEdmxySUxQNHFmZHhaYndOM3dXaFZONDNIOHlhT1VyYmZnd0d6QUtteGx0X2pFX0JFbm1aWkw2RFYzeUdsMTZOY0FiUWFJS3VMeHhINENOU3JmX2daalZJWFEyN1RwdWlf?oc=5",
+    "title": "Venti brings driverless yard trucks to US yards",
+    "source": "FreightWaves",
+    "published": "Fri, 30 Oct 2026 11:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Venti is deploying autonomous yard trucks at U.S. freight terminals, moving driverless technology from highways into the last-mile shuffle of intermodal logistics.",
+    "companies": [
+      "Venti"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "yard automation",
+      "logistics"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ2FXaUlGeHlSeWtfQWcwY1pQTWQ0eW1WYjBmZk5xYU9aZUpfeHI1ektkaE82NlBsWVJkRnlucm1xQ2FGcFN4b1c5S0pmc0haR0FEQXdRcnh5MFJMWWhLc1FYcU5sQ1lEQlJPLUN4TGRCUVQ2Q1JyUzVfaVRCZDhtWk5CVEFhTkp2ZjZfUG9USDNjTUNiVDlmQ0xCZW9iQjZWRzJJc2RYNHJ5MHZMalZ0MjEtaV9GQ1FCREpILUhkdDVqMFlCTElwSGM5SWJkQTRpU3kwSzktNzJQckhz?oc=5",
+    "title": "‘They come in droves’: How robotaxis hog EV chargers in one corner of Southern California",
+    "source": "Los Angeles Times",
+    "published": "Fri, 30 Oct 2026 13:02:37 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Robotaxis cluster around limited EV chargers in Southern California, creating bottlenecks that frustrate other drivers and expose infrastructure gaps.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "infrastructure",
+      "charging"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFd3ozMVJhZk1tZUd4U25Fak9QckM5OWoxb1otSGR1eWFiSldHUkVsT2NJSU1zRVE4Y283VE5RLWFGVlVzMWtKbHhaWnpCd3VVdl8ycFhPc2pBd3FqM1JYSUlqaTdOM2RyUHU1dGdSa1llRjVlZmc?oc=5",
+    "title": "Toyota And Waymo Join Forces To Launch Driverless bZ4X Fleet In 2027",
+    "source": "Motor1.com",
+    "published": "Fri, 30 Oct 2026 09:44:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Toyota and Waymo will deploy a fleet of driverless bZ4X electric vehicles starting in 2027, marking a significant expansion of their autonomous-vehicle partnership.",
+    "companies": [
+      "Toyota",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "electric vehicles",
+      "fleet deployment"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFhwRzNaU2N2QzdWQk9CN0t1MmZFcDh6b1c2d1dRdlRWWXlTS2ZrVU5tY0kwZ3RWRXdKOWZaajduZk1lbjhlWUhLM1QtTmYzMTlxNnNtMlQ4MU5tMTNIenp0X1ctaXJuWmRvWU96UzNRMVptWUE2cFo2MjBkWElkUWtVTHZ3VlhFWGJOakxZYzNEOFlrUUE?oc=5",
+    "title": "Tesla Full Self-Driving becomes main pillar of new Referral Program",
+    "source": "Teslarati",
+    "published": "Fri, 30 Oct 2026 14:43:43 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla has made Full Self-Driving the centerpiece of a redesigned referral program, shifting incentives away from vehicle purchases toward autonomous driving adoption.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "Full Self-Driving",
+      "referral program"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aZkhfWUVnRmlCX1ItdGNPTzJpUm91c0lxd2QzcnJaQXoyd3ZZeVdrc3ZYUDl0bnVtaFZXYVlBcG5YaF9IdllPVVRzQW5vR1ZSdHo2clNITFREV2tBOGdGemM3a1BoUjhsVTRCcllrLWlxUQ?oc=5",
+    "title": "Toyota Is Turning The bZ EV Into A Waymo Robotaxi, Starting in 2027",
+    "source": "InsideEVs",
+    "published": "Fri, 30 Oct 2026 10:54:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Toyota will manufacture Waymo's robotaxi starting in 2027, betting the partnership can deliver a driverless vehicle at commercial scale.",
+    "companies": [
+      "Toyota",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle",
+      "manufacturing partnership"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbk9DWG5DaDBfal91bGNjalNQbWY3WVRZQkFjM0FpRWN2R0JQM3YtTm5BVDRHcTVwaWlJYlZOdVpDVWFiUTNjTUpZaWQ5a2V6eTZaQ25VLXF5QmNjZ2lod2ZwUTFRSmRteGYxV0h5aWM0bURvYlJLS0RXT3BFNUxVaVNpdjcwSTcwdnpMVUZ0Ny1PN3fSAacBQVVfeXFMTTBRR3N2X0RoV2tIdThMckxiUHhWUjVIM0NfcU0yWGR0MzczTUwta3F1U2xudlNrVjJPN0xxa2FuR2l1R250dlBPSmNJV1ZNS0dEam9RNVJzcVVKZjFnRmVRUlNxUGdYUTJ5MXQ5VHlzSW9EdTQ0UFctSzk1Qk5ubDFJSWNjRmtMNV9YWGJfdF9ZeEtxeU5FRHo3Mnd0ZGNTUUV0Yl8zTmc?oc=5",
+    "title": "Driverless truck crashes into Berryville, Ark., antique shop",
+    "source": "KY3",
+    "published": "Thu, 29 Oct 2026 22:36:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "An autonomous truck crashed into an antique shop in Berryville, Arkansas, raising questions about the safety protocols of driverless vehicle deployments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWIzbVJ0NWkycjBuSUdhU0RENXY2SW9VTktlTUhVTVZxZEk1eHRxYkZWdmZrWUlwcnJOdjUzRmxuWDl6d0czaEJFS2dFVFl4a09OUER1bnk5Z0FZT1J5cUJHWk83dnJqV1FWV2xHZzZtYWMxTDVpTDR2SjlpOVF5XzlEcV9PVTJPNUpfbzZNR2JPeXZMZXJ2QjJuUkx1VGRLM0RralU5Zmp3ajN3dWhvU3ZHV3Z4OHcyU1NkLWtnNXNkcFQ0Y0ZBX3JR?oc=5",
+    "title": "Elon Musk Backs a $1.5 Trillion Self-Driving Claim. Could Insurance Dividends Be at Risk?",
+    "source": "24/7 Wall St.",
+    "published": "Fri, 30 Oct 2026 14:16:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk's endorsement of a $1.5 trillion autonomous-vehicle valuation raises questions about insurance industry exposure, though the premise remains largely speculative.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "market valuation"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRkpHOEtIbFJwUXZOeGRycm85VHRxWXpkS2tPTWItWUU2V2RYNmJkUkdyYmRnWng5TEpsdVhOZmV2b2p2dTZkSUdHcVpxVVJvQ0hqb0FrV0FlN3ZqRV84aXFDd19ubkVhYWpPUk1wSWpRWVNrNzJUZkRMdDFQSnFELUlITDZMMjRDUXJxOEM3Zw?oc=5",
+    "title": "Waymo And Toyota Will Soon Start Testing Their Robotaxis In Japan",
+    "source": "Engadget",
+    "published": "Fri, 30 Oct 2026 10:23:52 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo and Toyota plan to begin testing autonomous robotaxis in Japan, expanding the Google-backed company's international presence beyond the US.",
+    "companies": [
+      "Waymo",
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "testing"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMmFXNElHM1dFN1loMU5VVFI4OXVpYnJ3Sjc3TVRyLWNodDhWNXdSTkhIUzBWSjFpaHNPUnFDdXBqVXotSGFqdjZrQUt1bzdaTHQ2ZXhUUWhselJ0TmFxSmloMXcyWERMYW1Zc1RadUpzRXdSVEZnQ19fdWR2b2hYWGpvMnhwdE5KbDlMZXpaa0Y2WUZnT1dxX0VrR0U2bTQxeFYwUjBFeUdQVkprLWxzd25HT0s4X0tEcXlKSlJrcnVBMy1lNTJBUC0wQ3BmRzgyQzBySW5NYVctR0xKU1pXSkRwLUVfQQ?oc=5",
+    "title": "Waymo And Toyota Start Testing Robotaxis In Japan Using Toyota bZ4X From 2027: 5 outlets compared",
+    "source": "NewsCord",
+    "published": "Fri, 30 Oct 2026 17:23:42 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo and Toyota will begin testing robotaxis in Japan starting in 2027, using Toyota's bZ4X electric vehicle as the platform.",
+    "companies": [
+      "Waymo",
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "Japan expansion"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnUtNkExYWlsTmhvbG5PZmVxQl9WT3ZuYnpaeDdGVlI1bTRZY2lkZmxlMkduc3ZXMlZ6SWUxT3ZOcjNvQmFreW1rZ002QlRQbUNzaHBFVUJ5WFYya1hyUUxzNW4yeGp3MHlRNzBkR094eGRlQTQ1Q005QmRRRVJTZFVLUTJ0MzdRT20xMXk3UERyTzE2RHBkSW94RGFYUUpQRml3TU5OY3lDWWg3amdwcUViNmUyeVBUSlFtempqQ09ZOU5oREMwdDhYV2VSeER4MTI4LUp3?oc=5",
+    "title": "Reach Power Achieves First-of-Its-Kind Persistent Autonomous Drone Flight Powered Wirelessly for 10 Hours",
+    "source": "sUAS News",
+    "published": "Thu, 29 Oct 2026 11:46:09 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Reach Power flew an autonomous drone for ten hours on wireless power, solving the endurance problem that has hobbled commercial drone operations.",
+    "companies": [
+      "Reach Power"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous flight",
+      "wireless power",
+      "persistent flight"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZzBJZ0dsUm5keVB0alRoeUJkbzFMeWF1MEVPNFZacUlRSUFuT2hraWw5b1M5cVMzLTBFVDNMMUY0VVhBOGpPWGxpU09kMkFQRFBCTFVtaXZpT3drRnFLU0ozbTNPTTlqd0hVQjVFRktGN18wRzBJSklHSlRKUTdJYg?oc=5",
+    "title": "New MOKH Module for Autonomous Navigation Appears in Geran Drones – DIU",
+    "source": "Мілітарний",
+    "published": "Fri, 30 Oct 2026 16:41:22 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Ukraine's military intelligence says Geran drones have been fitted with a new MOKH autonomous navigation module, suggesting refinements to Iranian-origin attack systems in the conflict.",
+    "companies": [
+      "Geran"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous navigation",
+      "drones",
+      "military"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkVrYzRXT3ZCR05NVTROWXliTFRzSHlETEVOdElmMGtJbmZqcXA0cEc5bXJSSEtLY1ZXQ1Q5bzdzTjYwdFJLSzdHREFLWDYtaW54blc5NVRjZlVpOGhwVlJDcXVsYm5BaG52VWVGZGdweVloTXdCNGh4UDR4UzFlYkdleHJ4T3M3NDJNTzZHaWlqU0lzNjU5VVJzd3VlNGVENTVWbThsLWhvaGgtbDl3UEV5MjRJSGV4WTVCNVdn0gHDAUFVX3lxTE0zQWVWbjVOMFlmYklUWjI1Rnp3UTFsYnJHRGRKLXhuV3p6M1lpbkxmRDlIQmpvNVVaVmxxUnJQdWxrRFVGMVFKSlJPSzJDWUVralF3MmhrMDVvVkxySjlJTExtbUxwY0JoTjhCVnBwc0pmXzFhT1QxMXFXQVc2U3NNekE3R1oyVGs3R1kyYWtwTWtLNk9oVXc5anJOOU5jbWtiMUdUNGhKNkRGOGE4Vl9VdlNuVkd4dTZPNnNET0VOS2lwWQ?oc=5",
+    "title": "An AI drone can track people through forests without GPS. How does it work?",
+    "source": "theprint",
+    "published": "Fri, 30 Oct 2026 10:05:08 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers have developed an AI drone capable of tracking people through dense forest canopy by relying on visual processing rather than GPS signals.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "computer vision",
+      "GPS-free navigation",
+      "tracking"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEdSTUJTcEdpeUplQmlZVzg5cTlhWGl5bFJUcGxNYTJVWGdheG9WZXpmTWg5WnQtY2xSS1ZNSHl5ZHQ2YnlUcFNRYjhZb2FuVkFGLVhiS05GS081bWo1M2VOeFJxeDVUeGJCcHd6VHZLQTEzNXpzV2dSdEFVMnRSbnpwM3UteFpCbU82cy1YSXBfSXk4WUN4R19pYnBreXhlVjFoQk90amgtRVpaUUE?oc=5",
+    "title": "New Bulgarian Drone to Monitor Maritime Threats and Protect Shipping",
+    "source": "Novinite.com",
+    "published": "Fri, 30 Oct 2026 14:32:48 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Bulgaria has unveiled a new maritime surveillance drone designed to detect shipping threats and protect coastal waters.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "maritime",
+      "surveillance",
+      "drone"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44dE5mSC13eUNidElkaXd3aWI5TzdPcnJXZUtfdmtVMmZkNjZ6ZXdONzhUSlpDSmFGOHF6WUtQZmRzbkMwaWhEMUpiNU5JYlFLZHBTZWg2dzRIQXljVnBzc2YzdmNDWmUzWTJkZ0x4M1BMamZ1ZmpndVdn?oc=5",
+    "title": "California Fire Department Orders Autonomous Firefighting Drones",
+    "source": "AVweb",
+    "published": "Wed, 28 Oct 2026 19:44:36 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "California Fire Department places an order for autonomous firefighting drones, marking a rare government adoption of robotics for emergency response.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "firefighting",
+      "government procurement"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGJhblcyQVJqUzJPRi1COEU5YjVXdWJDay1UMXNyUFRrQXYtejlXV2wxcmJUblpDRzlHd3JSbm1hb3REQnNsX0daaHg3c2N1TUgyVHhHdjVWNDZjSnAxcThGcjhfS2VUMVpIOVpVNV9ON2lTZWlDMHpOUzY2aVNhdFoxWDM5a3kyOVZsM3pBZU5OQ21HeVNzbVA5MXBuUGxkM2Zqa0ZwSVZYU1pERzRoa2NFMEVZWG9DRGYxWEZfNS1XRFU?oc=5",
+    "title": "SPARTAN VTOL Drone to Integrate Dragonflight Autonomy for U.S. Navy Program",
+    "source": "Unmanned Systems Technology",
+    "published": "Fri, 30 Oct 2026 06:05:46 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Hatzolah Aerospace's SPARTAN VTOL drone will integrate Dragonflight's autonomy software for a U.S. Navy program.",
+    "companies": [
+      "Hatzolah Aerospace",
+      "Dragonflight"
+    ],
+    "people": [],
+    "themes": [
+      "VTOL",
+      "autonomy",
+      "naval",
+      "unmanned systems"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEVObUFDdmVGRFNSZ3M2Wmc2cERKNGZnSHh5a2lwbUhpV295WVFQXzlyeXQ0OWVkWV9RSDFjUjdPS3N3WXRJZGR3eVJBTktMcVdjejF0OGpNWENEMllkMzBfajdnSnVsWmFqekdaQjdxQUtkVURNTHl1Ym16WmhWTnZsNEpIcHhxZlFSWFY2UEhjenk1SkE?oc=5",
+    "title": "Musk's Neuralink to build new $2.7M research facility in Del Valle",
+    "source": "Austin American-Statesman",
+    "published": "Fri, 30 Oct 2026 10:04:43 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink is building a $2.7 million research facility in Del Valle, Texas, as Elon Musk expands the company's infrastructure for brain-computer interface development.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "research facility",
+      "infrastructure expansion"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ0JETzVITktIOUVDZU9TMTB5UDNWbzNiVlJGTE5leUlGLWYzYUVlbjZiZVFVOFBJVF95LUZYcHJYeU5NTGk3SUZqVzNocEg2STdjVFJnaVNvTWM0NTZRc2tuZWE?oc=5",
+    "title": "A 72-Hour Engineering Sprint for Translating Thought to Speech | Updates",
+    "source": "Neuralink",
+    "published": "Thu, 29 Oct 2026 19:38:30 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Neuralink documents a 72-hour engineering sprint focused on thought-to-speech translation, a company blog post that prioritizes narrative storytelling over concrete product milestones.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "thought-to-speech",
+      "neural decoding"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTVVczUydUh5NWxJb3dIVmtmZl9aY2tyUm8wcGNjc3FWRGlsRE1BX0stMUF2Q1E3RHluQVBHSXlXSHMtTkM4b2kxc3VNVno2V0dHcnJKbGRjVDJLS29ZcmVsS3lWOVZrYVg5cXNMUnJhTUhvY0xkYkF5LWZyMTBMNDllZHZLUzJTSFluVkY5SEhBb2pwLWRYN1VnT3NqeVhjX2lLazRjQU1UT0RF?oc=5",
+    "title": "Neuralink Tests Brain-Controlled AI Commands, Texts, and Calls",
+    "source": "Tomorrow's World Today",
+    "published": "Fri, 30 Oct 2026 14:00:58 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink has demonstrated its brain implant controlling AI assistants to compose and send messages, a functional step toward direct neural command of digital systems.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "AI control",
+      "direct neural interface"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSTlOTXhqQ19IR1N4aE5vS1B3aE9kUnBEbEx0a2U5Szd4TW5YVUdQR1BINjV2Ukdvek11MWthT2RsdjBnbHFzZGtwM05pdUhEaVF5bkZTYjNKb3oxUXBKRFJpeGRVeG9PeFlEX3JROFE1VURtb2s5cWJhcEV5WGxFTThOUzZiOFNGWXUtbDBOUVNUelJ4QkdMcjdEZzh0Q3BRSXJTNmNMWEN1ejIwN0tsdE8tdkZSMWszU09Zbjh1SzFHdFFMejk1RzUtbXltT1RZVDY3M1JYQ0ZMREVJdWNLZFRkZGtwNkt4LUxPZkNlXzZlVVUtRGRlZXZ0UlJnNE9YVnRVUUo4d05Cc2VxVl82R0tPb1F3Z3RoTE5mampONDBSRENYWGNNOA?oc=5",
+    "title": "Neuralink Touts 'Ready' Blindsight Implant to Restore Sight",
+    "source": "Benzinga",
+    "published": "Fri, 30 Oct 2026 06:14:10 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Elon Musk unveiled new Neuralink implant designs aimed at restoring vision, claiming the company's Blindsight device is technically ready and now awaits FDA clearance for human trials. The announcements, framed as an expansion beyond the firm's original paralysis-focused mission, offered no new timeline for approval, just Musk's familiar confidence that the hardware is further along than the regulators.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "vision restoration",
+      "thought communication",
+      "medical device",
+      "FDA approval"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSTlOTXhqQ19IR1N4aE5vS1B3aE9kUnBEbEx0a2U5Szd4TW5YVUdQR1BINjV2Ukdvek11MWthT2RsdjBnbHFzZGtwM05pdUhEaVF5bkZTYjNKb3oxUXBKRFJpeGRVeG9PeFlEX3JROFE1VURtb2s5cWJhcEV5WGxFTThOUzZiOFNGWXUtbDBOUVNUelJ4QkdMcjdEZzh0Q3BRSXJTNmNMWEN1ejIwN0tsdE8tdkZSMWszU09Zbjh1SzFHdFFMejk1RzUtbXltT1RZVDY3M1JYQ0ZMREVJdWNLZFRkZGtwNkt4LUxPZkNlXzZlVVUtRGRlZXZ0UlJnNE9YVnRVUUo4d05Cc2VxVl82R0tPb1F3Z3RoTE5mampONDBSRENYWGNNOA?oc=5",
+        "title": "Neuralink Touts 'Ready' Blindsight Implant to Restore Sight",
+        "source": "Benzinga"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTYyY1RIYmZrbXNsLU9JVmYyRmJnLXY0bTlKeHlBZTZ6YjVFU3BnUEI4TUFDUDRhd281aHZQbm1wNHk1T2tRU0NxU1FVQnRWbTU2Z2pGWXFVU3Y3UmNDWXh5OGVkbEVUbThNN3h5SlRURFhfVjZiZ1lncFZCZ2N2MzNVMDl1WjJG?oc=5",
+        "title": "Elon Musk Reveals Two Neuralink Brain Chips, Including One That Could Help Blind People See",
+        "source": "www.techtimes.co.uk"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kR2JQbmpPempiUG5KamZ2VDBvamRySjBKemxhX1VLZDdJc3BwU1NhNUVKdEx0UmRxY2xKZWlnNkQ5bXBQczBsbVJoejVybWpGcTNrVFFfLXBNUm5aRHMyTUQwZTNUV2NiREhsejIwV1NYNFd0a1E?oc=5",
+        "title": "Musk Says Neuralink's Blindsight Implant Is 'Ready,' Awaiting FDA Green Light",
+        "source": "BigGo Finance"
+      }
+    ],
+    "body": "<p>Elon Musk said this week that Neuralink has finished technical development on Blindsight, an implant designed to restore vision in blind patients, and that the device is now simply waiting on the Food and Drug Administration to clear it for human trials. The announcement, made alongside a second new chip design aimed at enabling communication directly from brain activity, marks the company's first public pivot beyond its original mission of helping paralyzed patients control computers and devices with their thoughts. No city, hospital partner, or trial date was named. No new timeline for FDA review was offered either — just Musk's characteristic certainty that the hardware has outpaced the paperwork.</p>\n\n<p>That gap between \"ready\" and \"approved\" is the whole story here. Neuralink has implanted its original device, Telepathy, in a handful of paralyzed patients since early 2024, work that has been real, incremental, and closely watched by the FDA. Blindsight is a different order of ambition: it proposes to generate visual perception by stimulating the visual cortex directly, bypassing the eyes and optic nerve entirely. That is a much harder problem than decoding motor intent, and regulators have historically wanted years of animal safety data and staged human trials before letting a company anywhere near something as delicate and permanent as cortical stimulation for sight.</p>\n\n<p>For the broader neurotechnology industry, the announcement functions less as a clinical milestone than as a marker of where the competitive and regulatory pressure is building. Rivals like Synchron and smaller academic groups working on visual prosthetics have moved more cautiously, publishing peer-reviewed data before making claims about readiness. Musk's approach — declare victory publicly, then lean on the agency to catch up — has worked before, in electric cars and rockets, where the FDA has no equivalent. In medicine, it tends to generate headlines faster than it generates approvals, and it puts the FDA in the position of looking like the obstacle rather than the safeguard, a framing Musk has used before and clearly intends to use again.</p>\n\n<p>The stakes for patients are genuine. Restoring even crude vision — shapes, light, movement — to people who have lost it entirely would be a profound advance, and the demand is not in question. But the distance between a company's internal confidence and a device actually working safely inside a human skull is exactly the distance regulatory trials exist to measure. Until Neuralink files for and receives an investigational device exemption, \"ready\" is a marketing word, not a medical one. What happened this week was a presentation, not a clearance — and the next real news will come from the FDA, not from Musk.</p>",
+    "slug": "neuralink-touts-ready-blindsight-implant-to-restore-sight-104c8c"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVFEbllEZnN2NnZQZlkzb3hEUEd4UUdFTllmSEpqU0xFanZuZmx4Y3pXOWJrdVRRRm1iNHI5SGoyVHRWdXVIUVZFaXpubFh2SnhMUVhVLUZjRkhHRDUtSmFEX0ZOMld6MXYtMUxPaU8ySHZhUTlJVmJ4QV9vaVRXWmdSNXZmcDlRR21va1FfYVg2T2hseWVXOHNqM2I?oc=5",
+    "title": "Neuralink Expands Brain-Signal Controls to Calls, Texts and Grok Chatbot",
+    "source": "Interesting Engineering",
+    "published": "Thu, 29 Oct 2026 20:43:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink has pushed its brain-computer interface beyond cursor control, demonstrating hands-free phone calls, text dictation, and even command of Musk's Grok AI through neural signals alone. In one case, engineers spent 72 straight hours at a study participant's home building automatic voice detection so the patient no longer needs to press a button to start or stop dictating speech with their mind.",
+    "companies": [
+      "Neuralink",
+      "Grok"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "hands-free control",
+      "neural implant",
+      "AI integration",
+      "speech synthesis",
+      "neural decoding"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVFEbllEZnN2NnZQZlkzb3hEUEd4UUdFTllmSEpqU0xFanZuZmx4Y3pXOWJrdVRRRm1iNHI5SGoyVHRWdXVIUVZFaXpubFh2SnhMUVhVLUZjRkhHRDUtSmFEX0ZOMld6MXYtMUxPaU8ySHZhUTlJVmJ4QV9vaVRXWmdSNXZmcDlRR21va1FfYVg2T2hseWVXOHNqM2I?oc=5",
+        "title": "Neuralink Expands Brain-Signal Controls to Calls, Texts and Grok Chatbot",
+        "source": "Interesting Engineering"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rNWVJRnRfeDZvd1VibGVlTXhwa3lkcS1hdk05V0puU2lhamFSYXVuRlM0WHREcnpqSGphYmc1TGJNSmI2RlRUZWs0OENhLVo1ancxb0lSMEYzT0NrNkVFdVB6NmNsNXJadlBVbA?oc=5",
+        "title": "Neuralink added AUTOMATIC VOICE DETECTION so patients can speak with their minds without pressing any buttons! Engineers spent 72 hours at a study participant’s home building it. No more manually starting and stopping speech recording. A real step t",
+        "source": "X"
+      }
+    ],
+    "body": "<p>Neuralink has begun testing a new layer of capability in its brain-computer interface, allowing participants in its clinical study to place phone calls, dictate text messages, and issue commands to Elon Musk's chatbot Grok using only neural signals. The company, which has previously demonstrated cursor control and simple typing through its implant, confirmed the expansion in recent updates, moving its technology from navigating a screen to operating the broader software most people touch dozens of times a day.</p>\n\n<p>The most striking detail concerns not the feature itself but the labor behind it. To let one study participant dictate speech without manually pressing a button to start and stop recording, Neuralink engineers spent 72 consecutive hours at the patient's home, building and tuning an automatic voice-detection system on site. The result sounds modest — a patient no longer has to click before speaking — but it removes a small, constant friction that had separated \"thinking a sentence\" from \"saying it out loud\" through a machine. For someone who relies entirely on the implant for communication, that friction is not trivial; it is the difference between a conversation that flows and one that stutters.</p>\n\n<p>The 72-hour sprint also says something about where Neuralink actually is in its development arc. This is not a product being shipped from a factory and dropped into homes; it is closer to bespoke medical engineering, with staff embedded in a patient's living room debugging software in real time. That kind of hands-on iteration is expensive and doesn't scale on its own, but it is how edge cases in a nascent technology get solved — one participant, one bug, one weekend at a time.</p>\n\n<p>Widening the interface to calls, texting, and an AI assistant matters because it reframes what a brain implant is for. Cursor control proved the basic premise: neural signals could be decoded into digital action. Reaching into communication tools and AI chatbots suggests Neuralink is aiming at something closer to a full digital proxy — a way for paralyzed patients to participate in ordinary life, not just demonstrate a lab trick. For the broader field of brain-computer interfaces, where companies and academic labs have spent decades chasing incremental gains in bandwidth and reliability, this is a signal that the next competitive battleground isn't just decoding accuracy but integration with the software people actually use.</p>\n\n<p>There are real stakes beyond the novelty. Patients with ALS, spinal cord injuries, or locked-in syndrome have long been promised that neurotechnology would restore some version of agency. Hands-free texting and voice control, however incremental, are concrete steps toward independence — the ability to call a family member or dictate a message without assistance. Whether Neuralink can turn this kind of individualized, engineer-intensive progress into something durable and widely available remains the open question, but for now, the company is quietly redefining what counts as a basic feature of thought-controlled technology.</p>",
+    "slug": "neuralink-expands-brain-signal-controls-to-calls-texts-and-g-f1a2da"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzgzWTI1S3BmZ3ZUOXZLY0RUcHRmNndYRHlyeFBGbUpwdXhfeGl3SnZwSDBPLWYwNjBCNDhkb0JMeUVOQlpTZkNKZ3JhbDVjODhyN01KbnN4cXFhYmExdllYNDJvbjBBZUpVSHVLeDUtejhkdXptc0lQblJDaEl1YVFmbnJkcTdxMWotY2xXRTRXZnpJ?oc=5",
+    "title": "Elon Musk says Neuralink’s Blindsight is ready, awaiting regulatory approval",
+    "source": "Drive Tesla Canada",
+    "published": "Fri, 30 Oct 2026 18:14:24 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Elon Musk says Neuralink's Blindsight implant is ready for human trials pending regulatory clearance.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "blindsight",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kR2JQbmpPempiUG5KamZ2VDBvamRySjBKemxhX1VLZDdJc3BwU1NhNUVKdEx0UmRxY2xKZWlnNkQ5bXBQczBsbVJoejVybWpGcTNrVFFfLXBNUm5aRHMyTUQwZTNUV2NiREhsejIwV1NYNFd0a1E?oc=5",
+    "title": "Musk Says Neuralink's Blindsight Implant Is 'Ready,' Awaiting FDA Green Light",
+    "source": "BigGo Finance",
+    "published": "Fri, 30 Oct 2026 08:05:54 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Elon Musk claims Neuralink's Blindsight implant—designed to restore vision to the blind—is ready for human trials pending FDA approval.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "vision restoration",
+      "neural implant",
+      "FDA approval"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU0kyZFFjR1RWXzlyeW5McnBld3k3YkNWbkNrLWNVZGM4dG9YdmlMeTV0akVxMVdzUFhSU1lpRS1Xak1uYk8xN08wZTBVWEtOWkNUZ2R4NVlnaUY4d08zWW5vTEphYUlqSjN2eUNhZXJYeEVEQkx2QlhsZEJ6LW5QekxNUWN5dG5sbmhjcmI0dzVSSlAxdE1BTi10eFB4bjNsNlJucnp3YXBjWXB5Q2FoaEZaUTJiN3dsTzRwZnBnUTAxRXFHNE5RX1ZQV3RSYmxqZVlIRTIzb9IB3AFBVV95cUxPMjJ5TEpFYWNGUnB1cVFzNUJGY0pBSnROcnhRMXNEbVNuOXJJT2FGSGVkUHl3bC1pMklYS2w3SjItaHBLOHl2dlVxQmE4ZmxfU01TYWE5amk2Z0o3SzRIbHE3U3JORjdOelk5aEdDVHphbjZ5N01KT1J4bkUyZmNNQ1F4c1JQSTl3VVRXR3FhOUpHRVpGZzRadFhIbml4SGRBWHBSMWh4MHNoWTc3cGdMTlh0c1BtTXRMWjV0andPcTdyejBkRW5zVE5mU0VBMHVtT2dvSTdLdHlNNk1z?oc=5",
+    "title": "Elon Musk predicts Neuralink could change how the brain controls body movements in coming years",
+    "source": "Firstpost",
+    "published": "Fri, 30 Oct 2026 09:05:03 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Elon Musk makes a speculative claim about Neuralink's potential to alter brain-body control, without disclosing new clinical data or product timelines.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "motor control",
+      "neural implant"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UUnh0bktvSDdMUHIwOTJTM3IyaGZrRnJWeFQwOEhUR0hKSVpDa2ZROHVFODBZOTN1TXlmT25Ybzl5ZEQyM1BLU2hDOTdzNUhmNWxjQ1BOOFBhTEx6cjBqcFVURlE5Z29TSHZ5TkZDYkxlNGFpU0E?oc=5",
+    "title": "Elon Musk Is Selling a Telepathic Future: Can You Invest Before IPO?",
+    "source": "BeInCrypto",
+    "published": "Fri, 30 Oct 2026 12:52:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "BeInCrypto speculates on Neuralink's investment potential and Elon Musk's vision for brain-computer interfaces, but offers no concrete developments or IPO timeline.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "telepathy",
+      "IPO speculation"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVNyTUQzVnZlM1J6LWZPTmt6Yk9aWjdhV3JWWTdqVGNkSUw5aURaeVJyS1ZUMHdBR0NEeXN5Z2E0b240Ym0zcnBjZTdPUzNrOTRYY3pvdWFZa3liSkRlZXNQTEN4N0x5V3VtbWRUdHNiM2M4MTk5UHpUb0JuYzdWU1Yxa3Z4Nkljb3VwLVhYaWlIYW56Q2UyeWVldWJIZnRocmV6VkRnYzFYSDBFQ2hlV21CLTBOWTd4S3RMU0l2OUttdVpJX2RLaGQ1WXk?oc=5",
+    "title": "Elon Musk says Neuralink’s brain implants could help people with paralysis and blindness",
+    "source": "Digital Trends",
+    "published": "Fri, 30 Oct 2026 17:52:52 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Elon Musk restates Neuralink's therapeutic ambitions for paralysis and blindness, without announcing new developments.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "paralysis treatment",
+      "blindness treatment"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUHFtTktRSWJiZG1kMXoyOWpEanJCeEVZTUJNRDdEb1k4Zi00R21tSTd0bXFmcl9oMGRrbGZtZUZNVTdTbzVUdTBZbVdxYWE4a1hkMkl5c0ZkT0cyWXFndUY0eWlFb2Y2NEFaQ3d0eS0wUHlLcXZ3d0xiWFdpZmxkZ0owU2JVcjc5bFdvWnhHUEx0VWk2ZUFFdGFJbHNYLWw1LUgtaFNUZkRhMk9rUHRvOUFpUUJtOTlFaEdUSzVWdE1vbzNNQkZ5TjFnaHVmN2NEVXhRSVNHUUNqTEkxcUHSAeYBQVVfeXFMTlNmcjNqdXluVXVRM0M2Y1BpTk1pWnpKb2Q5Zm40X0phNkxNaVM4LThOWEY3MWxKYkJHYkRzOTFnTDdEZzVBaEZ1dkF1UWpQRnE4Ty1yaVlGRjVyT1hKVHdKZTRMVFdidkpmYngwSi0wdFdTcFhIRTlpREpmb1AzQ0VUQV9vM0NvdDRuaXZUZlNIVWI3U2l4T0hHU2piY01QNGF2OHpVT2tJSndrdFVRLXJ1ZGs3VGtPUDVhZ3NmQ3hpU3N4cTFGZWNsWWk1a0FOLVY2NEpuVnZVRUYtS0NCb3o2ZDdNdlE?oc=5",
+    "title": "Musk Floats Sweeping, Undetailed Claims About Neuralink's Future",
+    "source": "NDTV Profit",
+    "published": "Fri, 30 Oct 2026 10:44:28 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "In back-to-back comments, Elon Musk predicted Neuralink could eventually reshape how the brain controls body movement and how people perceive and interact with the world, without pointing to any new clinical data, trial results, or product timeline. The statements continue a pattern of Musk previewing transformative capabilities well ahead of demonstrated evidence.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "human augmentation",
+      "motor control"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUHFtTktRSWJiZG1kMXoyOWpEanJCeEVZTUJNRDdEb1k4Zi00R21tSTd0bXFmcl9oMGRrbGZtZUZNVTdTbzVUdTBZbVdxYWE4a1hkMkl5c0ZkT0cyWXFndUY0eWlFb2Y2NEFaQ3d0eS0wUHlLcXZ3d0xiWFdpZmxkZ0owU2JVcjc5bFdvWnhHUEx0VWk2ZUFFdGFJbHNYLWw1LUgtaFNUZkRhMk9rUHRvOUFpUUJtOTlFaEdUSzVWdE1vbzNNQkZ5TjFnaHVmN2NEVXhRSVNHUUNqTEkxcUHSAeYBQVVfeXFMTlNmcjNqdXluVXVRM0M2Y1BpTk1pWnpKb2Q5Zm40X0phNkxNaVM4LThOWEY3MWxKYkJHYkRzOTFnTDdEZzVBaEZ1dkF1UWpQRnE4Ty1yaVlGRjVyT1hKVHdKZTRMVFdidkpmYngwSi0wdFdTcFhIRTlpREpmb1AzQ0VUQV9vM0NvdDRuaXZUZlNIVWI3U2l4T0hHU2piY01QNGF2OHpVT2tJSndrdFVRLXJ1ZGs3VGtPUDVhZ3NmQ3hpU3N4cTFGZWNsWWk1a0FOLVY2NEpuVnZVRUYtS0NCb3o2ZDdNdlE?oc=5",
+        "title": "Musk Floats Sweeping, Undetailed Claims About Neuralink's Future",
+        "source": "NDTV Profit"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU0kyZFFjR1RWXzlyeW5McnBld3k3YkNWbkNrLWNVZGM4dG9YdmlMeTV0akVxMVdzUFhSU1lpRS1Xak1uYk8xN08wZTBVWEtOWkNUZ2R4NVlnaUY4d08zWW5vTEphYUlqSjN2eUNhZXJYeEVEQkx2QlhsZEJ6LW5QekxNUWN5dG5sbmhjcmI0dzVSSlAxdE1BTi10eFB4bjNsNlJucnp3YXBjWXB5Q2FoaEZaUTJiN3dsTzRwZnBnUTAxRXFHNE5RX1ZQV3RSYmxqZVlIRTIzb9IB3AFBVV95cUxPMjJ5TEpFYWNGUnB1cVFzNUJGY0pBSnROcnhRMXNEbVNuOXJJT2FGSGVkUHl3bC1pMklYS2w3SjItaHBLOHl2dlVxQmE4ZmxfU01TYWE5amk2Z0o3SzRIbHE3U3JORjdOelk5aEdDVHphbjZ5N01KT1J4bkUyZmNNQ1F4c1JQSTl3VVRXR3FhOUpHRVpGZzRadFhIbml4SGRBWHBSMWh4MHNoWTc3cGdMTlh0c1BtTXRMWjV0andPcTdyejBkRW5zVE5mU0VBMHVtT2dvSTdLdHlNNk1z?oc=5",
+        "title": "Elon Musk predicts Neuralink could change how the brain controls body movements in coming years",
+        "source": "Firstpost"
+      }
+    ],
+    "body": "<p>Elon Musk this week offered a fresh round of predictions about Neuralink's future, telling audiences in separate comments that the brain-implant company could eventually change how the brain controls body movement and, separately, how people perceive and interact with the world around them. Neither claim came with new clinical data, trial results, or a product timeline. The remarks, reported by NDTV Profit and Firstpost, were delivered in the open-ended, visionary register that has become Musk's signature when discussing Neuralink, a company he founded in 2016 and has run alongside Tesla, SpaceX, and X.</p>\n\n<p>There was no accompanying study, no named patient, no regulatory filing to anchor either statement. That is itself the news: a company valued for its scientific ambition continuing to let its public narrative outrun its published evidence. Neuralink has, to date, implanted its device in a small number of human patients under an FDA-cleared feasibility study, with participants using the chip to control cursors and perform digital tasks through thought alone. Those are genuine, hard-won milestones in neurotechnology. But \"controlling a cursor\" and \"reshaping how the brain controls body movement\" occupy very different orders of magnitude, and Musk's comments this week did not explain what bridges them.</p>\n\n<p>This matters beyond the question of one executive's rhetorical habits. Neuralink operates in a field — brain-computer interfaces — where a handful of academic labs and competitors like Synchron have spent decades building credibility through slow, peer-reviewed increments: small patient cohorts, published safety data, incremental functional gains. Musk's approach, previewing capabilities years or even generations ahead of what has been demonstrated, sets a different tempo and a different set of expectations for what the public, investors, and regulators should believe is imminent. When a Tesla \"Full Self-Driving\" timeline slips, the consequence is a delayed car feature. When expectations around a medical device implanted in human skulls outpace the data, the stakes involve patients with genuine, often desperate needs — people with paralysis or neurological disease who may read these predictions as closer to reality than the clinical record supports.</p>\n\n<p>There is also a quieter cost to the field itself. Neuralink's profile helps it attract capital and talent that smaller, more cautious labs cannot match, and grand predictions are part of how it does that. But each unanchored claim adds to a backlog of promises journalists, scientists, and regulators must eventually reconcile against actual trial outcomes. For now, Neuralink's real achievements remain in early feasibility testing. Whether Musk's latest vision of rewired perception and movement becomes a milestone or another entry in a long list of previews will depend on data the company has not yet shown.</p>",
+    "slug": "musk-floats-sweeping-undetailed-claims-about-neuralink-s-fut-573d93"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTZTX0M2RUJRTkFJVVFDOXJRQXlRdHJhVnVvTjdzSjZnQ19YV1c0QW4zMG9MbGZJVldYSDFMLU80clJtNDZXNnBsak5Hd21wV0UtOEduYkpwQzZHTHJPZmhjMDRMTVcwOXBzb2E1NDUzODlzTlBwUk9yRWpmR09naTMwdm1YYkFINXBmeDRRRUp4d25rb3RUU19sQkp0TFhvU2E4V1phay1MZUdyWVVEUWc2VEtEM2tZSGJNUNIBuAFBVV95cUxNZ0xGVXFPVnktNWl3LUFkT3YyWnVyV1JhMWExOHV4VmdCWlZ5TlBuNVBFZkJScGJiVjlaLVRLbFpfLUpEYlMtS0J2alZNb3FIR2REU3ZFXzUyOUtoY0h3RlhybnV0S2NNU2YwSURqUVJ1cm5jdi1tdnQyRUlZZ21DZ0lBek5hVHdWZDQxS3VrcldYRTk5Umdva2VyV0IzVW1LazlOWW5KdVhiQmNhbjBNX3NQR0tfNURQ?oc=5",
+    "title": "Elon Musk unveils Neuralink’s ‘life-changing’ Telepathy, Blindsight brain implants",
+    "source": "The News International",
+    "published": "Fri, 30 Oct 2026 06:57:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Elon Musk's Neuralink unveiled two brain-implant products—Telepathy for paralyzed patients to control devices mentally, and Blindsight to restore vision—marking the company's first public product rollout.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "paralysis",
+      "vision restoration",
+      "telepathy"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ROEQ2NTBtS2pxNDFEZ1hoRmlfeVZLN255TkEzbTFFc1ZnTEs2N2xjcW1fY3R6UEZ5dEdYemkzaVA4RnBEbDVRdkVfdUtYbEVyOG9DN2M2TFB4N0xqS1l6NmM2eFhkU1h0TVJzbnAxVnl1T3lMOGc?oc=5",
+    "title": "Musk's Brain-Computer Interface Connects to Grok Agent, Letting ALS Patient Control AI and Make Phone Calls With His Mind",
+    "source": "BigGo Finance",
+    "published": "Fri, 30 Oct 2026 08:11:12 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's brain-computer interface enabled an ALS patient to control Elon Musk's Grok AI agent and make phone calls through thought alone, marking the first documented integration of a neural implant with a large language model.",
+    "companies": [
+      "Neuralink",
+      "Grok"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "ALS",
+      "AI control",
+      "assistive technology"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rNWVJRnRfeDZvd1VibGVlTXhwa3lkcS1hdk05V0puU2lhamFSYXVuRlM0WHREcnpqSGphYmc1TGJNSmI2RlRUZWs0OENhLVo1ancxb0lSMEYzT0NrNkVFdVB6NmNsNXJadlBVbA?oc=5",
+    "title": "Neuralink added AUTOMATIC VOICE DETECTION so patients can speak with their minds without pressing any buttons! Engineers spent 72 hours at a study participant’s home building it. No more manually starting and stopping speech recording. A real step t",
+    "source": "X",
+    "published": "Fri, 30 Oct 2026 01:00:01 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink deployed automatic voice detection in a patient's brain-computer interface, eliminating the need for manual button presses to initiate speech.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "speech synthesis",
+      "neural decoding"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTYyY1RIYmZrbXNsLU9JVmYyRmJnLXY0bTlKeHlBZTZ6YjVFU3BnUEI4TUFDUDRhd281aHZQbm1wNHk1T2tRU0NxU1FVQnRWbTU2Z2pGWXFVU3Y3UmNDWXh5OGVkbEVUbThNN3h5SlRURFhfVjZiZ1lncFZCZ2N2MzNVMDl1WjJG?oc=5",
+    "title": "Elon Musk Reveals Two Neuralink Brain Chips, Including One That Could Help Blind People See",
+    "source": "www.techtimes.co.uk",
+    "published": "Fri, 30 Oct 2026 11:28:24 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Elon Musk unveiled two Neuralink brain-chip designs, one targeting blindness restoration, as the company advances toward human implant trials.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "vision restoration",
+      "medical device"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/2026/10/toyota-bz4x-partnership",
+    "title": "Toyota and Waymo Advance Autonomous Driving Collaboration for Safer Streets and Freedom of Movement for All",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Toyota and Waymo will begin testing an autonomous bZ4X fleet in Japan in 2027, manufacturing the vehicles at Toyota's Takaoka plant with integrated Waymo self-driving hardware.",
+    "companies": [
+      "Waymo",
+      "Toyota",
+      "Woven by Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous ride-hailing",
+      "Level 4 autonomy",
+      "electric vehicle"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://jobyaviation.com/news/joby-brings-its-vertical-takeoff-and-landing-air-taxi-to-florida",
+    "title": "Joby Brings Its Vertical Takeoff and Landing Air Taxi to Florida",
+    "source": "Joby Aviation",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Joby Aviation begins a week of piloted eVTOL demonstration flights across Florida under the White House's new integration pilot program, opening with a historic retracing of aviation's first commercial route across Tampa Bay.",
+    "companies": [
+      "Joby Aviation",
+      "Florida Department of Transportation"
+    ],
+    "people": [],
+    "themes": [
+      "eVTOL",
+      "air taxi",
+      "electric vertical takeoff",
+      "urban air mobility",
+      "Florida"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wisk.aero/newsroom/wisk-opens-vertiport-at-hollister-municipal-airport-with-ribbon-cutting",
+    "title": "Wisk Opens Vertiport at Hollister Municipal Airport with Ribbon Cutting",
+    "source": "Wisk Aero",
+    "published": "",
+    "topic": "Flying Cars & eVTOL",
+    "category": "launch",
+    "one_line": "Wisk Aero opened a 100-by-100-foot vertiport at Hollister Municipal Airport in California to test autonomous aircraft landing systems and gather data for FAA certification.",
+    "companies": [
+      "Wisk Aero",
+      "Hollister Municipal Airport"
+    ],
+    "people": [
+      "Sebastien Vigneron"
+    ],
+    "themes": [
+      "eVTOL",
+      "vertiport",
+      "autonomous aviation",
+      "precision landing",
+      "FAA certification"
+    ],
+    "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
