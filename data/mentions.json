@@ -95502,7 +95502,7 @@
     "first_seen": "2026-10-24T17:47:19",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95528,7 +95528,7 @@
     "first_seen": "2026-10-24T17:47:19",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95581,7 +95581,7 @@
     "first_seen": "2026-10-24T17:47:19",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95734,7 +95734,7 @@
     "first_seen": "2026-10-25T18:04:09",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95863,7 +95863,7 @@
     "first_seen": "2026-10-25T18:04:09",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -97363,7 +97363,7 @@
     "first_seen": "2026-10-26T20:16:47",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -97441,7 +97441,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -97468,7 +97468,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -97935,7 +97935,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -98162,7 +98162,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -98296,7 +98296,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -99032,7 +99032,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -99366,7 +99366,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -99447,7 +99447,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -99551,7 +99551,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -102341,7 +102341,7 @@
     "first_seen": "2026-10-30T19:49:49",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -102389,7 +102389,7 @@
     "first_seen": "2026-10-30T19:49:49",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -102486,7 +102486,7 @@
     "first_seen": "2026-10-30T19:49:49",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -102643,7 +102643,7 @@
     "first_seen": "2026-10-30T19:49:49",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -102785,6 +102785,776 @@
       "FAA certification"
     ],
     "first_seen": "2026-10-30T19:49:49",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5",
+    "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+    "source": "Reuters",
+    "published": "Sat, 31 Oct 2026 16:14:09 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta has partnered with Chinese robotics startup Fourier Intelligence to build a humanoid robot, according to The Information.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
+    "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+    "source": "The Information",
+    "published": "Sat, 31 Oct 2026 16:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta has built a humanoid robot prototype in partnership with a Chinese startup, signaling an accelerated push into physical robotics.",
+    "companies": [
+      "Meta",
+      "Chinese startup"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "partnership"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNelhMYXpnaWtOMUtzVGdMYy1QQzV0eWN1T1BJYXQyMlRIZTctb0s1WHRDc1BqYW1hdDgtU2I3MmVKdFIyQmF5Nmpmb3ZIR01pSnlJNHQ3T29tYkVfVTRFYU5wZGFJQzVzOTVkQXZDNWhKbzl2WS1LUExCMk5PNzRCZk9ZU2NfeEVwTjkwWTJONGg0Tl9tSEFzVVZnak4xVTV4aWFiZ3Z3Ulh4NWJxWjB6OHQyUmgzRDA1b0NoMm40TUFtUzVEYzcxYXhCZjROVndtb3Fz?oc=5",
+    "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
+    "source": "Investing.com",
+    "published": "Sat, 31 Oct 2026 17:37:30 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta is collaborating with Fourier Intelligence to develop a humanoid robot for home use, expanding its physical AI ambitions beyond software.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "home robot",
+      "robotics"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVEM5UFhDbVM4S3pUbDRPLVRGZE5lamZLaU5pWThfaEx4S2FocWZjYWFaWVpvWTR6dFYyU2lyUEIxcFdDQWhVOG9ybXpPck9BWmwtTWdKTjdOdVVxbmJUQW92d0pqRF9Sc3g1bTZ2VEoxeVJtV2NIdEFocmF6THRvSVFIclBCeWtLRTB3SnFuNEhZWFVMQlRJSzFCODgtMzVXU3UzazVEUzdPZU1ja21TeWFFUHBVSjVNXzFETHFueTc0d1ByUGVpeEkwUHFBR2NkTG9Xa2lHRHJMejg5VDZEeWxFV18yZ3Jacjl3STdNVlFQb1ZoZTNQV0ZSLWZocEJuMWZHOTV3?oc=5",
+    "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+    "source": "Central Oregon Daily",
+    "published": "Sat, 31 Oct 2026 16:13:30 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta has partnered with Chinese robotics startup Fourier Intelligence to develop a humanoid robot.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics partnership"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNXJQU0pIT05GeFQ1UXdJSk9Xc2syMTlGTllBdmJiSFZuNTdWUDhCcDVBS2JOYXBvODZXb0taY181dldXRXFfVkpka2x1OG1fTXF1bzNrd0ZRYUhrTkw2SmVVcFRINmV0TlFIMXpwNlU1X002d2N0NDZtYjJzYm1yczlwQktjTXg0Y3FiaUc2dXdnLXBCbTdNbnZyNC1sSnQ1ZkU3REhhSjE1djBtNERhUGVHa09QTGQ0LVQtekh5aE9Xd1VmTFJIWmJ0STMxVTl4WklGTkZjcFMya2pwY01GRU1hSXc4c1lxajN0aXFlMXJfcWlqVHozcUhUMUdvM2xzSVN1UWZXTQ?oc=5",
+    "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+    "source": "The Lufkin Daily News",
+    "published": "Sat, 31 Oct 2026 16:13:30 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta has partnered with Chinese robotics startup Fourier Intelligence to develop a humanoid robot.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSVR6WkwwY2hfcHB4SHpwbnNzZWV0M1dENUJwdG1wcno5WVRoNW9ZVGlfWlkyUGVZSUt6cGtkYVJvRFFwZ0hLOXI4bWZYVEdWZ2RMUEh2SVFNRzdDX1NacUxKZEdpUlBmeEZVTjdWWU9NOXRjeVl4N2Zib19yYWlXb2VLZ0ZpSTBweTFiVFFYaFdVSHZyTzJHU0FDejB5VVpDeXIzQmlDTGxfeWlmOWFwUEJtclR4cG84VTlKNWxQY3M5TXJmVmZUdVR4eGZJYXBxQ1ltSmprY0tmRWdK?oc=5",
+    "title": "SynDexy dexterous manipulation humanoid robot, completes first small-batch delivery",
+    "source": "Gasgoo",
+    "published": "Sat, 31 Oct 2026 06:58:37 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "SynDexy's dexterous humanoid robot completed its first small-batch delivery, marking an early milestone for a machine designed to handle complex physical tasks.",
+    "companies": [
+      "SynDexy"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "dexterous manipulation",
+      "physical AI",
+      "robotics",
+      "delivery"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDJMdnVPd3I2SG5YZGt6MDZ6V2RnMVcwWGV2YWdVVDFySjZZQU5TeUh6bEV0TkZ2clZHOFpuSjlZYU4wVndDeUtYQ3FrWmZiRnIwVHVRMUctbXZUbDA4OEtLWlJnRGQwQ3lQcmxhRDdKVkt4UEdqZE0yWlA4VUtZSnExaW41b1VudjNRbndKWVVNNGJPMWFGVUVqbFdRR1dSVlUxNElmZmUtMVlDaEFUTkVmWWVkSXplN2Z3WE1rQW1zeXdCckVxYUd1eGVuYUc4SVE?oc=5",
+    "title": "Meta Builds Humanoid Robot With Chinese Startup Fourier, the Information Says",
+    "source": "U.S. News Money",
+    "published": "Sat, 31 Oct 2026 16:13:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta is partnering with Chinese robotics startup Fourier Intelligence to develop a humanoid robot for physical AI applications.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUZuNlRKaGdLSDk2MFpqd1Bucl8xZTZJbUl0dHNHd2NfREJQODRQelZmR1pMTlFLdHdzbUVtM3J6dFg1eU5xVENSUE1IV0hRUlNBYzFxZEJRYVBnZHFTOF9GRk42QTJjUHRZSEJSVUtqSW0xd3EzS2N1M3dKT2tvZDRhdVFJZExjU3g2SGR4TnpCUVlxNEx4VmNwTTRxanZRMW5WcWNqU0F4RHdzWjBvRFR4c2R5RjJQa1d4bEJURHVtWTg?oc=5",
+    "title": "Meta built humanoid prototype in robotics push: The Information",
+    "source": "TradingView",
+    "published": "Sat, 31 Oct 2026 16:44:49 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta has built a humanoid robot prototype as part of a broader push into physical robotics.",
+    "companies": [
+      "Meta"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjlwSDR2dEo1bjF4U0QtaHMxdVpUQkxoVEpUSUdZQm1uNWNWaWFxUGw2b3JpbUQ5NV9kdTU5WWJVaE5jMndtU3RraW5RMm9jNzY4VUllbkFqNmV4S01md2pEYzdKVW1oRUt4S1dqdmxRQzZ0M2hjUEk0UXZwM1ZLZUg2WEZtS3NScko0cWhoMzlYN3VmeVVibnJjbDVJY213QW9GZnVZOGttSzkzdWdLaXlFakpNVlFnRnc?oc=5",
+    "title": "‘First’ insurance policy for domestic humanoid robots in the UK",
+    "source": "Robotics & Automation News",
+    "published": "Sat, 31 Oct 2026 08:22:03 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "The UK's first insurance policy for domestic humanoid robots marks a shift toward treating physical AI as insurable household property.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "insurance",
+      "domestic robotics"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcE1fMWRoMzVVclhkc0owWTQtQThaUzh3SWNoam9wNm52eHFBRFZ0eDIyNG5ja1VweFFtZnlmUlVMb1JOVVRHVHNieTNxOFJwbVVjcElpTUFHUWM2Y2VRb2VudDhUQndBVGdCeDZGcmtKUFdlck1QeERaYnQ2c3VpLVYyamVxMEtfRENMTTgxZ25yaEVNMjJCcHNRYmZoZWt6TWFEZjBCMmU0SmptT2d0cXdtcUdqTXg4NE5xNDR2QkVucnRwM1RpNkdtQkJtZw?oc=5",
+    "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says By Reuters",
+    "source": "Investing.com",
+    "published": "Sat, 31 Oct 2026 16:40:20 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta has partnered with Chinese robotics startup Fourier Intelligence to build a humanoid robot, according to reporting from The Information.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics partnership"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSUdsR3VOQVpTamlFRElycDg0ckkyMUNhbU1uYU5jMFBVc1EzQ29Kb0N2T3ZQcmVZWlE4OUFoUjJMaFRZWU5DS1h1anQyRHE3OHV4RVBXalJSdXhxVDVfT2h4MjJob1V3RVRPMG83ekhyQ3ZXSmYwZWdnN01ncFdmekdKeHlZUnNwMlJ5TGdQNnVFYm1sV1FKMnU2SVY4ZWJZN1hiRmhkWmF2blVOenNzRTJmQ05FNTA1Zkg3TXdBb2tRaEhJemJfdC1Tc0pnRkJfUHdJWGUwVUR2N0I2ZkEzY2NaaHNqbExYZ1gxWkhrUQ?oc=5",
+    "title": "Yanfeng International Partners with National-Local Center to Co-Build Embodied AI \"Proving Ground\"",
+    "source": "Gasgoo",
+    "published": "Sat, 31 Oct 2026 06:38:45 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Yanfeng International is building a test facility with a national research center to develop embodied AI systems for automotive applications.",
+    "companies": [
+      "Yanfeng International"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "physical AI",
+      "automotive",
+      "proving ground",
+      "robotics"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTzFRRjlLb1h5UlVrbmJWVHlxbFlpOWstejhJcmhwaFMxcUxka0lYVk1Nckk0WWJvaGM4NzdHUjd3TGc0QnRoaDhlaWFsejRZT0NubUVEUy1sakt2bEFQa0xKWVNKaDFyNm82Q2JVcWt6S192M2k0QjNKX3JydndFOHRvWUlIVEkwRVRqNVVnSGtxVWQ1UUdYLXVqZ3NVVlZwazN5UUZkOXJSYlJOWmhoU1dUYVJuSWN1SmM4UzB3ZTRKYXJZWTI3bWlSOTdVbnp5SkE?oc=5",
+    "title": "Bleu Robotics raises €5 million to scale humanoid robot deployment in factories",
+    "source": "Robotics & Automation News",
+    "published": "Fri, 30 Oct 2026 22:49:02 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Bleu Robotics raised €5 million to expand deployment of humanoid robots in manufacturing facilities.",
+    "companies": [
+      "Bleu Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "factory automation"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXlQXzd5OWJmemlvY0FLdVZveVFEQXFadVdLZ1JyYktWWWlSNThjT1NHZUxST0FfYkxjTzJIaV93VTdkaS12RHhiZmdrdUluQTVjZjM3WldKTFY2U3UtRmhQZHpGNlFBdDU3elJkWlJRTXZCV2NWWVA0SVJDVERMVENxY1g4THlOMDVhelBHZnZkcGpNOFV5c1B5WXRtdmlRcUE?oc=5",
+    "title": "Meta allegedly created a humanoid robot with Fourier — Channel NewsAsia",
+    "source": "UA.NEWS",
+    "published": "Sat, 31 Oct 2026 16:28:52 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Meta and Fourier Intelligence are said to be collaborating on a humanoid robot, according to unconfirmed reports.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMDVVVUJ0dE5PbXlncjY5djIyYjdNcHBnX2VCdmo3dkZsM09laFVRVnJqWDhuNUZub3dPWHRqTjROY0hlWURwRDF0b1VZNlNBbXZEWTQ0bWNDeUZnMHVUN0oxM0EwdnNuZHE0MVpFUmpQOWNFUXNEX2hQbE02M3l3UVBDeDFIWWg4dlMwd3VPZkFtY3pzS2RDYzhQMVhDeWFMMUVwWkNxZ2h2WGtDREZBdzVFbVh5eWZrMHJraVhuak5Ldk5PLW1ZcGRXQW52S2VORmlqUy1uSXJDSUZ2NkU2WUEtTXh1T1pTMm1wOVp4TklkLXhRQ2l5UkI3aEZCNjhPanFvTE1SN2k?oc=5",
+    "title": "Lingyi iTech Q3 Revenue and Net Profit Hit Record Highs, Robotics Business Enters Mass Production and Delivery Phase",
+    "source": "Gasgoo",
+    "published": "Sat, 31 Oct 2026 06:55:35 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Lingyi iTech reported record Q3 revenue and profit as its robotics division shifts from prototype to mass production and customer delivery.",
+    "companies": [
+      "Lingyi iTech"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "mass production",
+      "manufacturing"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95STc3NHhBcm5yUkh6UWFzSGhNU2dQQkJEeU0tS3VMeV9qRnZER0JyNl9pSTdPdWVxN2huVG1UMkZkVW95OHBtQm4tNFlZLVZ5QmpjVE9NVGN1QXA2NTBvRUhoZnFzYmRiYnBldVZnRnJFTGEzaGZEY1FnZE0?oc=5",
+    "title": "After Uber Destroyed Taxi Cabs, Drivers Now Face the Existential Threat of Self-Driving Cars",
+    "source": "Futurism",
+    "published": "Sat, 31 Oct 2026 11:47:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Futurism examines how autonomous vehicles represent an existential threat to taxi and rideshare drivers in the wake of Uber's disruption of traditional cab services.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "employment",
+      "disruption"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcHBST3ZDdTBXcktXVk5nSG1YS3dQVHNaRllRU2d5V2NRa2lzWVpkdVMwYkhjaFBGM2hsOUltRDVqc3hnU1ByTHhtOERXUGxzN282cVFYRVNVRHNKQklwMTlQM1NEYmdvSE5mcG1SN21GdF8xb2U0R09oRGM3MHpxaFFCMWFYeE1zZG9MYm9XOVRFRjZPR2kzaFBn?oc=5",
+    "title": "Waymo Is Turning Toyota’s Electric SUV Into A Driverless Robotaxi",
+    "source": "Autoblog",
+    "published": "Fri, 30 Oct 2026 22:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo will deploy Toyota's bZ4X electric SUV as the base for its next generation of driverless robotaxis.",
+    "companies": [
+      "Waymo",
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "electric vehicle"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16N0E4eFVtamlQWm1QT3ZqaUZnLW1JaU1ZQ0ZZdVYwUklibG9mV1JmclZHZ0RmWmZYcGp0OW5oWE91NEE5Qm1ldlZ1QjNVc0ppWkVSWHFKZVlsczdGV3NSN3VnQlI?oc=5",
+    "title": "Toyota and Waymo Advance Autonomous Driving Collaboration for Safer Streets and Freedom of Movement for All",
+    "source": "Waymo",
+    "published": "Fri, 30 Oct 2026 08:05:10 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Toyota and Waymo are expanding their autonomous-vehicle partnership, moving toward commercial deployment of self-driving technology in Toyota vehicles.",
+    "companies": [
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "collaboration"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnlwZjNKS3haeVZ2bGlXX0RYZWV4QlFNLVUwZ2NnRXpyc2l0elhpRjhaS3AyeXBoNVl5RHJHRzNEQ3BnRUxET1YxUXhka0ZnaHg1cnRCTFRXTHlSNU8zZ0luazkzZVdSU1VIMmw0TXZzWFJmNG0zU2RETFRWejNCMG15cGU4ZXNzRi10SDNKamtocFJuRUpkSDh4R2RKc0M0dE0zQm1HOXRObE1Ea3ZJYmY3WdIBuAFBVV95cUxObDFNUGM5Nm8tMlJ0QmctRVZLZTI0Ym9VM2RnT1JLWDVXam84ZXpQbk9MaVpqVXlCOHk4NVpIN3RTSkRPVmZlTENSNHYtSzQxLVZheU9YYXZFaWdTWW94Y2c0THVlRjNvTFhtVEtkNlRwNkptak1YUEU0R3ZNZzVJM2I4U0wtczk0NkRleDNEU0pVYmI3alNxY3NzVzdoRlZwY0ZIUDVJR2xzUnpZbWdnZ0N0OS1TbjlB?oc=5",
+    "title": "Proposal seeks to tax companies that use delivery robots, driverless vehicles in Philadelphia",
+    "source": "6abc Philadelphia",
+    "published": "Fri, 30 Oct 2026 14:17:27 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Philadelphia is considering a tax on companies operating delivery robots and driverless vehicles, a rare regulatory push against autonomous fleets in a major U.S. city.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "delivery robots",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWpNNXlGUXBORk02QkhLdllzZWM0cEd1cngyRjJDQTNXZGtFSUNNMXBiUHhvUUJUdC1NZF81djFxa25CZUszQm15empRc0ZWWW1YVkFrLS1fQk9MckR4MnVwY1FnOUdiMlprQnJKMzlyT0NFZ1prZnNqYWI4YnZtZkI1Y3pxYVo4XzM4?oc=5",
+    "title": "Waymo and Toyota to begin robotaxi testing in Japan in 2027",
+    "source": "Tech Edition",
+    "published": "Sat, 31 Oct 2026 14:06:25 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo and Toyota will launch robotaxi testing in Japan starting in 2027, marking the self-driving company's first Asian deployment.",
+    "companies": [
+      "Waymo",
+      "Toyota"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "Japan"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkwtQ2EtYmtQWnBEZTlObVZIeTZvQXR6bEtuVXY2Y2NoZFF4QXdwQmlrQkhVUGVYUmMwd1RQZFFxVVF5b2dtWlFwUWxqQ1VGOVVuVnU3dnU5MW9xQkVBMWZaVDlkMkJwcnJIN2kxZl90WWdvcUVxNmlQZEFzOVhQM1ZfaFpqT2FXMXlJR1p3a19tR1dYM1VXYVZQYV9oSWhSWERLT2NNS0tKMU5DNDI0eDlVaWhlVmh3WDNobHVSWFM?oc=5",
+    "title": "Waymo Partners With Toyota For New Robotaxi. It Could Have Been Tesla",
+    "source": "Forbes",
+    "published": "Fri, 30 Oct 2026 19:39:59 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo and Toyota are building a new robotaxi together, a partnership that underscores the automaker's bet against Tesla's autonomous ambitions.",
+    "companies": [
+      "Waymo",
+      "Toyota",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQnpKaWRDdWRKQnF5V2dCTm41ZEpudElHa3A2bmEwbWR1NlJiQ2NQWjBwQ1M3Mm9qTnI3YkpheHROblpiTFNFNVJjOEQzUEZRTDMybkMtSVJiLTJfOVRnUk5xcjNGbUxjbzNZUkVUbmdDSFdmZXJQRUxlX1g2ZWpYRW9GVnk5dXNWSTZkMy16MHBDM0dOM0E?oc=5",
+    "title": "Kongsberg secures US deal for autonomous undersea operations",
+    "source": "Interesting Engineering",
+    "published": "Sat, 31 Oct 2026 14:38:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Kongsberg lands a U.S. contract to deploy autonomous underwater vehicles for subsea operations.",
+    "companies": [
+      "Kongsberg"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "undersea",
+      "maritime",
+      "defense"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6VFdiYWllWWlaeEh2ckZsV0R0Z0U4dHFSVFNFR21mNndGRVh3RmJHUWwxems5Zkt2N0kzZWJXbVlMV1I4RVVSaGx3RmlNR3ZyMU9lS0NjaVlfbXltTkg0c3pYbnhaZTdHZFhRMQ?oc=5",
+    "title": "Your brain says WALK. Your legs can't respond. Neuralink wants to change that. For people with certain forms of paralysis, the brain still knows exactly what it wants the body to do. The signals just can't get past the damaged nerves. Neuralink's goal is to creat",
+    "source": "X",
+    "published": "Sat, 31 Oct 2026 19:00:02 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Neuralink frames its brain-computer interface technology as a potential solution for paralysis by bridging the gap between intact neural signals and severed nerve pathways.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "neural signals"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1lLOG1SbVA2QlhvTTYtbHA1S2ZBTF93S1p6dWI5T2t2ZTlCV0R1WUcxMGNOazcxWlRfNlJfaUR6MXJuNnVySTdfOG0tQW1XeFZZVEJIbkpEWGt2RDJqVHl1U2ZoOEpTWXJPREZxcG1oN29XU0dyY2JxWXdmNS1HVFBoT2xHTUtMX0RlMmh6Q1VCRnJtX2Y5OUdZaXpjODM0TGNSQkc1LW9nQXk0eFM3ZjFmWjRVblJreUE?oc=5",
+    "title": "Neuralink plans $2.7M research lab in Del Valle",
+    "source": "KVUE",
+    "published": "Fri, 30 Oct 2026 23:17:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink is building a $2.7 million research laboratory in Del Valle, Texas, expanding its infrastructure for brain-computer interface development.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "research facility",
+      "neural implants"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFA0b0h6b2xSNmVFYlVaN3VTd1k4THlNS2ZpZEpYay1raG5BS28xVERWMEZuajBFTWVuZHVJOENSTFVYWDJZQW8wR180cXRWbjdoTFdxeWxsWVdMYUdtUk5YMUtvVF9kdzJUTU14dFp1ck9XZnZHUzNocGthc3FwVjZKQUxxckVENW15NUI3V0ZaNUtCWHI3Q0J3?oc=5",
+    "title": "Neuralink Is Developing Telepathy and Blindsight Implants",
+    "source": "Root-Nation.com",
+    "published": "Sat, 31 Oct 2026 08:58:32 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Neuralink's ambitions for telepathy and blindsight implants remain in the realm of future development roadmaps rather than current clinical reality.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "neural implants",
+      "blindsight",
+      "telepathy"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM01NMTY3RFBXTWNIMzZQOEJLTWU0eWpoQTdOeHROeFpZQ3VmNlFXN1ozMDVyVHRQd2NLZ05GN1FpbnluUG9aaFYwVU54OUJJQUdla3dGZXpwc3EzOXAyTUdGMkNmZjRBQU9CZFhYdk92VFNOT2xOVTdsUVlySENJM3JuclZkYm9tZG9MblBhZ3cyamNocGY5bUNma0cxS3B6VWc4c0R0XzFmYmxSOG9BWXFaVXFtS1ZBbGNVc0Z5aTBoMTZBUHdYU3J1T1I5MU5iX3FQSzlYWlVjeW10bEHSAeMBQVVfeXFMTUdza09hZFNTY1hqLVRzN3dNV1pEd0ZWdXlRRGk2eWpXR2ZuaFR1a3hxMTI2SEJBenlIbW9MbTVUR0YydUQzM2J6Zmczanh2U24zdDViZ00yMXpqMXpFSkVydEJzNWJiUFlxOHRVd2w1dDBNbFFnMGh1ZmN5UEhJQ1hZZXVxRVhBX1dGNjFjZHN2ZnhmdXo4NDEyMEdoaEExUXB4TEJ6YlpYcjFYS09zZ1NzMWcxZlBaNURtc1hLai1aTEdLb1lPSXgxdDlsNE1WTTlZX0dwVC1YN3UzUnFYRXhic0U?oc=5",
+    "title": "Musk: Neuralink’s Musk says Blindsight could let the blind see, pending regulatory nod",
+    "source": "Malay Mail",
+    "published": "Sat, 31 Oct 2026 13:02:48 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Elon Musk claims Neuralink's Blindsight implant could restore vision to the blind, subject to regulatory approval.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "vision restoration",
+      "medical implant"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHJsbEg3c212ckZQT2tYSVAtd0h1dVNIb0haTVJ1blZCR0FsbG05S3dST1Uxc0RDdDRPWUpKXzBTYmFsbTQtZ0lDR2pnRVNteUtMMy1aU1dIbWwtWWdwZHZVX3NkQVhVRXNoaEQzZk5kV0FKR0lvZkhjbFNxTmg1Ql8zTXA2UXFsM1c1TV9nanJhdWVQT3oxd3ZmMGlmZFYyekpmTUI1MA?oc=5",
+    "title": "Neuralink Pitches Its Brain Implant as a Bridge Past Paralysis",
+    "source": "BASENOR - Tesla Accessories",
+    "published": "Fri, 30 Oct 2026 05:04:17 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink is making its case for a brain-computer interface that lets intact neural signals skip over damaged nerve pathways, restoring intention to action for people with paralysis. The company has branded its think-to-type system 'Telepathy' and is positioning it as a commercial product, not just a lab demo.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "think-to-type",
+      "BCI",
+      "paralysis",
+      "neural signals"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHJsbEg3c212ckZQT2tYSVAtd0h1dVNIb0haTVJ1blZCR0FsbG05S3dST1Uxc0RDdDRPWUpKXzBTYmFsbTQtZ0lDR2pnRVNteUtMMy1aU1dIbWwtWWdwZHZVX3NkQVhVRXNoaEQzZk5kV0FKR0lvZkhjbFNxTmg1Ql8zTXA2UXFsM1c1TV9nanJhdWVQT3oxd3ZmMGlmZFYyekpmTUI1MA?oc=5",
+        "title": "Neuralink Pitches Its Brain Implant as a Bridge Past Paralysis",
+        "source": "BASENOR - Tesla Accessories"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6VFdiYWllWWlaeEh2ckZsV0R0Z0U4dHFSVFNFR21mNndGRVh3RmJHUWwxems5Zkt2N0kzZWJXbVlMV1I4RVVSaGx3RmlNR3ZyMU9lS0NjaVlfbXltTkg0c3pYbnhaZTdHZFhRMQ?oc=5",
+        "title": "Your brain says WALK. Your legs can't respond. Neuralink wants to change that. For people with certain forms of paralysis, the brain still knows exactly what it wants the body to do. The signals just can't get past the damaged nerves. Neuralink's goal is to creat",
+        "source": "X"
+      }
+    ],
+    "body": "<p>Neuralink is telling the public, again, that its brain implant is ready to leave the laboratory. In recent statements and posts, the Elon Musk-founded company has branded its brain-computer interface \"Telepathy\" and begun describing it less as an experimental device and more as a product — one meant for people whose bodies no longer obey their brains. The pitch is simple: for many forms of paralysis, the brain still issues the command to walk, to grasp, to type. The signal just dies somewhere between the skull and the spinal cord. Neuralink's implant, a coin-sized chip threaded with hair-thin electrodes, is designed to read that intention directly from the cortex and route it around the broken wiring — to a cursor, a keyboard, eventually, the company suggests, to a limb.</p>\n\n<p>The company has not detailed a public price, a retail timeline, or a broad distribution plan in these latest statements. What it has done is sharpen the narrative. Where earlier updates on Neuralink's human trials emphasized technical milestones — implant counts, electrode yields, how many words per minute a participant could type — this messaging is aimed squarely at the person in the wheelchair, and at the investors and regulators who will decide how fast such a device can scale. Calling the system \"Telepathy\" and talking about commercial availability, rather than trial enrollment, is a signal that Neuralink wants to be understood as a company selling a medical solution, not merely running a research program.</p>\n\n<p>That shift matters because the brain-computer interface field has spent years being judged on laboratory feats rather than lived outcomes. Academic groups and rivals such as Synchron have implanted devices in small numbers of patients and published incremental results. Neuralink's advantage has always been less scientific novelty than its willingness to talk like a consumer-tech company — to promise a product, a brand name, an experience, in the idiom of a phone launch rather than a clinical paper. That framing accelerates public expectations and investor interest, but it also raises the stakes: paralysis is not an iterative software problem, and people who have spent years waiting for restored movement are listening closely to words like \"commercial\" and \"available.\"</p>\n\n<p>If Neuralink can deliver on even a narrow version of this promise — reliable, durable thought-to-text communication for people who currently rely on eye-tracking or caregivers to communicate — the effect on daily life for that population would be real and immediate, independent of whether the company ever achieves the more distant goal of restoring walking. For the robotics and neurotechnology industry, the bigger consequence may be competitive: a well-funded, famous company insisting its implant is a product, not a prototype, puts pressure on hospitals, insurers, and rival firms to decide, soon, what counts as proof.</p>",
+    "slug": "neuralink-pitches-its-brain-implant-as-a-bridge-past-paralys-c817f0"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUVR4TE5pV2RxUFFySEI1VkZ4SlNQOUJ2VkU5TVlCNjJPdlVYOVkxMTFqWENmcUtZTUYwbVFHbWJ3b18zNW1vbEtxS0VGT1pmTzN2WFl2RUpvcERod1J3NGE2ZDdLam1CaXFaa01CelNHNEx5UWFoYlRMc2VJVWNobDNHQmkwemVDYnBCVDJGMTJmVTFyLUZibG80a3J3aFBjaUt1Ti1Ib0FYX2FSRGVYdVF1dUdjVmF6VFc1NElXN1lUb2tTc0E3bl9PTHBCcVM2NXpIeFFKSDV4RnM?oc=5",
+    "title": "No Keyboard, No Mouse! Elon Musk’s Neuralink Can Turn Your Thoughts Into Commands",
+    "source": "Business Today",
+    "published": "Sat, 31 Oct 2026 12:50:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Neuralink's marketing emphasizes thought-to-command control, but the piece lacks reporting on actual performance milestones or clinical trial data.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "thought control"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://neura-robotics.com/nvidia-gtc-berlin-2026-recap/",
+    "title": "NVIDIA GTC Berlin 2026 Recap: Robot Autonomy Demonstrated Live",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Neura Robotics demonstrated its 4NE1 Wheels humanoid robot completing a full laundry cycle autonomously and repeatedly at NVIDIA GTC Berlin 2026, with no human intervention required.",
+    "companies": [
+      "Neura Robotics",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robot autonomy",
+      "physical AI",
+      "live demonstration"
+    ],
+    "first_seen": "2026-10-31T19:02:56",
     "week": "2026-W44",
     "why": null,
     "duplicate": false,
