@@ -95786,7 +95786,7 @@
     "first_seen": "2026-10-25T18:04:09",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -95839,7 +95839,7 @@
     "first_seen": "2026-10-25T18:04:09",
     "week": "2026-W43",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -96216,7 +96216,7 @@
     "first_seen": "2026-10-26T20:16:47",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -98244,7 +98244,7 @@
     "first_seen": "2026-10-27T19:47:36",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -99394,7 +99394,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -99447,7 +99447,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -99551,7 +99551,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -99671,7 +99671,7 @@
     "first_seen": "2026-10-28T20:02:05",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -100542,7 +100542,7 @@
     "first_seen": "2026-10-29T20:01:37",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -102310,7 +102310,7 @@
     "first_seen": "2026-10-30T19:49:49",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -103380,7 +103380,7 @@
     "first_seen": "2026-10-31T19:02:56",
     "week": "2026-W44",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -103529,7 +103529,7 @@
     "first_seen": "2026-10-31T19:02:56",
     "week": "2026-W44",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -103558,6 +103558,565 @@
     "week": "2026-W44",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDZZYUZMSEc3ZHpza09mMk1BM0FfVWY3TlhJOVNTSDNUcVJ0WVpRQ25tOWNmbU5ZdFU2WXZaaHU1YW56TXBFSTZwRklNYk9Edk5YRlVNaEhnVnlkT3JiZUFQY0VtVTd3YnQ1RzhYVzVHWnpaVEkwUlJoNHFFTEhsQkpyVnBObkEySVNSZGM2OG5OdWlvSUhzRC1uSXlFVUs1c3huN29Odm9YakdtVUppXw?oc=5",
+    "title": "Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores",
+    "source": "Engadget",
+    "published": "Sun, 01 Nov 2026 17:17:42 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Meta has built a humanoid robot prototype capable of performing household tasks, extending the social-media giant's ambitions into physical AI.",
+    "companies": [
+      "Meta"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "household automation"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrRU5xQ1VCVFhMQjhrRWtEajNiYmRRRk9NbkM0Zk5qT3dOMGg0WkFyMHlJQ2dnN3dCakFPT2NqemdBcVV2d0szbW1BQzZNclAzY2NENngtb2ZaUlFtZjBySUpXbDBXVHRmbm9J?oc=5",
+    "title": "Meta humanoid robot Max was built with China’s Fourier in three months",
+    "source": "The Next Web",
+    "published": "Sun, 01 Nov 2026 11:30:26 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta and Fourier Intelligence built a humanoid robot called Max in three months, compressing a typically lengthy development cycle through collaboration between the U.S. tech giant and the Chinese robotics firm.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "collaboration"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yWGN5YkhUZjlrcWQ3a2ZUWXE3bzVLcUVrdndXcFpEVzhOVzhEd0p6b3gtQ3NxVEhEVlZSdGFiam1yLVNLVDgzemxqUVVPRGpsY3g3OFNmcm04ZHRHOUR3TUNn?oc=5",
+    "title": "Humanoid robot traffic police on duty at 2026 Hangzhou Marathon",
+    "source": "Global Times",
+    "published": "Sun, 01 Nov 2026 12:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A humanoid robot will serve as traffic control at the 2026 Hangzhou Marathon, marking one of the first large-scale deployments of physical AI in public event management.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment",
+      "robotics"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWk4YkRFVXluMV9yYWM4TDR4N3V0QzhkV3hNSFZVU21veGJHVzdidGNkaTZZN0dVLXNobjlIN0g3QUY1RHV0VURfLWJ2UnBPZDZhaXd4eTlzNzZsTWl6N3dEQ1ZuM3RHWTNIdmU1ZmhIcjRpcUh4bDEzMTVrdFYzVHZleVFBZmZSRGM0Y0hIRlpXd2w2TVBJb0RONE1DSXFCZi00RVln?oc=5",
+    "title": "Humanoid robot Cakir greets visitors at Samsun Book Fair",
+    "source": "Türkiye Today",
+    "published": "Sun, 01 Nov 2026 06:46:15 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A humanoid robot named Cakir was deployed to greet attendees at a book fair in Samsun, Turkey.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWpLV0ZIaGs1MTRUREpvWWtfVVVFbks0ZzRqOVdTeHRUbFhEeWlLQUNWSjFHTWF5c3EtSlZoU0lidWs1NUxlcXkxallwempZaTN0dTkyTnFGU3NfWnJNbjhvYzQ4R01WN1RtVzJJeFB4d3AyVzNjOXlEU0V6a0NEWW9HcDMyUXo5dGN1bWNHREhySVlaWEpidUVMQWVSYVZDNWR3SVRlLUE?oc=5",
+    "title": "This robot has 53 fingers and perfect timing. Is it a pianist?",
+    "source": "The Times",
+    "published": "Sun, 01 Nov 2026 16:15:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "The Times profiles a multi-fingered robot with musical capability, exploring the mechanics of robotic dexterity rather than reporting a product launch or deployment.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "dexterity",
+      "manipulation",
+      "physical AI"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSy02d29DNEJkRnJoN0YyY1otcXZjeWlnbXFGX1VQR1A4X1dhMkRDRnctRkhkSklMUGtZRmczdWpISXpMaGYwREZsUkpmTDV1aXVEa1BkSmZpNVFFdzNGU3psbkM1S2xrTmVHaXA3YkNGOFRVZkE?oc=5",
+    "title": "Meta's Humanoid Robot \"Max\" Prototype Revealed: Built with China's Fourier in Three Months, Second Generation Already Underway",
+    "source": "BigGo Finance",
+    "published": "Sun, 01 Nov 2026 13:30:06 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta unveiled a humanoid robot prototype called Max, developed with China's Fourier Intelligence in three months, with a second generation already in development.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics prototype"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeW82Qzdwem11LUxJRjFsVUFUelpBZUhsYVR6M3VCX29PdnJmMWhqaFI4WlAxWEdDaW40ZU9LNmdYZ0Z2dVRzbDRjdDU5bVN2Z1I0TjFBOHUybHY0WW9Pa3BSWV83WDJQNnpidlVvNFBxWmlMZk5Gby1pUlYwcjdUb0E3bw?oc=5",
+    "title": "Meta Built a Humanoid With Fourier in 3 Months [2026]",
+    "source": "shattered.io",
+    "published": "Sat, 31 Oct 2026 17:06:57 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta and Fourier Intelligence built a humanoid robot in three months, a pace that suggests industrial robotics is crossing into rapid-iteration territory.",
+    "companies": [
+      "Meta",
+      "Fourier Intelligence"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVktVlIxLXVrZU52TTlrVTdNV2hWNVJRVWJTczhmQW5uSC14U1RDRGRRbG1PR2pPNGF3VGZjNnlGS3BIZGZMbmx2REQxRWw0LXNNTEhQelBWeHEzRjBoeE1XMlN2SERzZ0VyeTJneGY0MWFIdGpmOVo5Zkxtbm5Qb2pkRHl1ZkRRTHJFMEJCc2Z1a0RidjVlVUwwc1VBY3BkTDlZ?oc=5",
+    "title": "Meta develops Max humanoid robot / The US company is already preparing an improved version",
+    "source": "Informat.ro",
+    "published": "Sun, 01 Nov 2026 09:24:30 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Meta is building a humanoid robot called Max and already sketching a successor.",
+    "companies": [
+      "Meta"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlZmVFk5ZlJiRlhHdGpzXzhsY1ltZXNhdHR5aUdaSHVkMHRaWVZxZ2tCWXM4UVVvSXlTa3J2NmU4NXBRQUVFV1JnMmIyNnp0aWIxWS1DdlRZT1pTMWUxS1FiTkZGZ2pSUkFFeF9JcGN3c0EwYjBYX2NSTk9mRUxXSV8tOUNvV1U?oc=5",
+    "title": "Tesla Robotaxi Runs 20 Hours a Day, to 2 AM [2026]",
+    "source": "shattered.io",
+    "published": "Sun, 01 Nov 2026 14:01:57 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's robotaxi will operate 20 hours daily, extending service until 2 a.m. in 2026.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWhxODh0ZzJKNWE0aWlDMUVHUVBCTTd5X3JDU0NDWUx6d1V4a3d2eld4SGlJNVptMWlOVTNPMWRxdnpuakFTMGZ1Z1VaZmR1RlJNSWpqMEV6cWNZZ2w0WXVoX04xVzFUNjFOalgtVmR0WHJnM3RiOUFFMzlOa3hnM0VDN0doYzZTd2hUVzNWRHdWcExybzRpNHZGajNPeGRKeHc?oc=5",
+    "title": "San Diego Waymo Refuses to Cross Flooded Street, So Police Take the Wheel",
+    "source": "Yahoo Autos",
+    "published": "Sun, 01 Nov 2026 15:13:43 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle in San Diego halted at a flooded street and required police intervention to navigate around the obstacle, illustrating the technology's caution in handling unexpected road conditions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "edge cases",
+      "safety protocols"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXozTnF1dE1JSkV0QUhzZTlnTmF0bHhLZlMwOEJjYnIwSWYyZDJFNVRWb1FFc3Z5cjB0UmN0VkpMOC1qSE43MWRsVXQ3YVFqZDNNd29DUWNwZVgtQWtBYk9CSmgweWZ0MGx3aTJPRHphZkYwWjhqUVFVeUc5c0VnNEhleTdGczhs0gGQAUFVX3lxTE45SzlNendPblQ3ck1xSktCN2VnM1VCZTNOT2V3b1F1Vko0TFJQeGxPQVRMSHZ4b29OdjlVVjVmMkExRDBPM2VIbDRnTDZIRHkzU3dlQTZqNGRBd2NEbWZXUVBSbmVXSkpmUnh6cWxHR3pGMXVvcFdJWlNUblhTRldmVm13aENXb0dua2NJUk5kMg?oc=5",
+    "title": "Waymo expands service in San Diego to include La Jolla, University City and Clairemont",
+    "source": "NBC 7 San Diego",
+    "published": "Wed, 28 Oct 2026 02:19:56 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo extended its driverless taxi service in San Diego to three new neighborhoods, broadening its footprint in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnlOTElxdGF4RXgxQjdDYzdYUURHbzg2ejN1eGpzOXdsTWxYY1VYMWozb2xqYU1PZnZSRjFXZzI3ZHpxNEgzQ0NVOG9ITVk3eTM2a1FSX2NHVGVGTjFKRnRFSEtSblBPbUNxRVZrQnVCdXNBcGFGS3dfcGFKOEJZWHJ5eHBnNG1MQWM5ZWZHRlVaT0tSOTJ5Z21iWTJNd0Z3dldJdEYxUHk0MHc?oc=5",
+    "title": "Tesla Robotaxi Fleet Surges to 1,204 Vehicles in Texas, Closing in on Waymo",
+    "source": "Drive Tesla Canada",
+    "published": "Sun, 01 Nov 2026 15:19:59 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's robotaxi fleet in Texas has grown to 1,204 vehicles, narrowing the gap with Waymo's operational driverless service.",
+    "companies": [
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnZQVl9mYUlXZDQtb0F2NTkwWUVWeHBCclRLMG9ISWE3anp0S1AxdlJKbHBWRHFya3BGLWhIZXFkcVNzdEo4RXRHVWg0dVpGYkgxNTlHRGpDaXJMbk55MDJQY1J3UndPUXBpWEt4ZEJjWngwQ1NLZXN0LWhJdWFQWHNvakxnUQ?oc=5",
+    "title": "Tesla Robotaxi Hours Hit 20 a Day, Until 2 AM [2026]",
+    "source": "https://tech-insider.org/",
+    "published": "Sun, 01 Nov 2026 08:22:08 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla's robotaxi service is claimed to operate up to 20 hours daily through 2 AM, though the report lacks concrete deployment data or verification.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDJtUzIzZXRlQVpHa1hwb2Nva0xsVzAzZ2JKdmxWS3VNSERhQnp1c202ODlyc3pvVDRIZE1DcjZGNW9jOVo0cmpCbFN1V3hoVk93SElOUHptbkZDMjlvSUNmOW5tUG5RRWNVSEZPSUMtMzRyUVlYY0NlS0Vsa0F4cXhsLVhjS0tzOFh5WjZjbkZxVlFtZFRwTnh6YXFtLWhsNmJCTEpnOA?oc=5",
+    "title": "Sadiq Khan calls for cap on numbers of robotaxis on London streets",
+    "source": "The Guardian",
+    "published": "Sun, 01 Nov 2026 16:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "London Mayor Sadiq Khan calls for a cap on robotaxi deployments in the city, signaling regulatory pressure on autonomous vehicle expansion.",
+    "companies": [],
+    "people": [
+      "Sadiq Khan"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "urban policy"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzJoRzVSNXdnaERmbVdpTHc4elgtcEdZN1hqREE1Rmp1VEpBSkJTLTZSNTNUaUR6dUx6ckZyVTd4R0Y1dkJLbDczLTNVVnFmMFd0Sk56d1dEVFRTVEhJMExKLVBzMFptZU1pZGlGZGE3YUN2am9OY1ljVjF5N0NJMWJVbnRld3NJSkwzeHhLc3BOS3FpX1VQaUVjbzRFUmN3RlAybQ?oc=5",
+    "title": "Tesla drivers used plug-in devices to unlock Full Self-Driving and face up to two years in prison",
+    "source": "Yahoo Autos",
+    "published": "Sun, 01 Nov 2026 06:27:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla owners who used plug-in devices to unlock Full Self-Driving without payment now face federal charges carrying up to two years in prison.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "Full Self-Driving",
+      "fraud"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2JHcWxwS2ZhbGtkSmktaDg1R2o2T0hkOVNCRkxoVm56X0NFakcwbXpWZjJnVnhkbXJxWV81S1gxYkNaNWRYejR4ck9iclgxWk5LT3BYdW5Vc053UDdlRzZoS1FlRnRUeElnOG53YkZaZ2x4WTdxaVZXS0Z2YkotUVhvNEhHZTF3?oc=5",
+    "title": "Waymo-Toyota Deal Ends Vehicle Shortage, Piecyk Says [2026]",
+    "source": "shattered.io",
+    "published": "Sun, 01 Nov 2026 02:31:12 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo and Toyota are partnering to resolve a vehicle supply crunch for autonomous taxi operations, according to analyst Piecyk.",
+    "companies": [
+      "Waymo",
+      "Toyota"
+    ],
+    "people": [
+      "Piecyk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous taxi",
+      "vehicle supply",
+      "partnership"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNRFc5NDMzeWt4UW5Ld1NRMHd1WUI1UkNrQzJXMGZOeXdfNlFWZU9pazZVRnhSbVRFaGNPQVkydkUza1ctSXpEUWRBS05idkJDWDRNeF9xQ0pMOHJmLXZZR1hLWjZneTZsNFY4TVdEWXdKZmktZk1kWGdOejFWa3gyc1hxc3dyU2E2ZXNSTzlkTEpqYUlqVG5lRXpQd0RxWVRoQ1BoTW93UGcxT2pzUDNHMnpvMkJUUEpmbXdfSzN3ek90RjB5Z0JaRmJ4WHV0STRsdFUyVVlfVjhTQzd6bUN0cC1Vc0lLUFNOc0RVQWthYlJBRzJsbDlCOGN0M2RqZ3FYaFhIUzY2RUlLcDJ1V09FTF9lNklQR1lRNGFfR1dLWk8wN1VQMXd2Z3pIcmxFYlE2LTZzS3psUkpUYTJrcDN2cnlHMzdxRmVtVElKRk83YUo3VE9NQmNzdlpKYVpKMDRHSGdkVUY4TlRqU09jdmtRajFzTFY4eWhKNmhodkVvb2V5TE1WUVE?oc=5",
+    "title": "California county deploys autonomous firefighting drones with 500-gallon foam payload to attack wildfires — five-drone strike team can be controlled by a single operator, conduct nighttime ops, and access difficult terrain",
+    "source": "Tom's Hardware",
+    "published": "Sun, 01 Nov 2026 12:30:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A California county has deployed a five-drone firefighting squadron capable of carrying 500-gallon foam payloads and operating at night, each unit controllable by a single operator to reach terrain inaccessible to ground crews.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "firefighting",
+      "wildfire suppression",
+      "nighttime operations"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdy1kWHZ4aU41QnBQS1lYcjQ3Mk05VUplc09XVTdBUjd1bVIyeGVhNUMyd2RPSU02amZVczVfSV9sWVpCVmprZlNpbHRDeVpqV2E5SHpYbmNvRUNDbzhZT0d4Nl9qak9lb2JxdFNrM3ZWT0hsa0MxTTJSeHAyR2ZIcjhUSVpvYjRHYWc?oc=5",
+    "title": "Self-adjusting drone controls could make for smoother formation flying",
+    "source": "Tech Xplore",
+    "published": "Wed, 28 Oct 2026 20:40:15 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers develop adaptive control algorithms to stabilize multi-drone formations in flight.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "formation flying",
+      "drone control",
+      "autonomous swarms"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNWtBSWlfaWpLSTVMTzhzS3ZqZ3Z6ZWJtQXZ2dXhjQkNrMHU4QmN3S0VwSElkOHdJWnkteF84UW1Fc29xZm9xR0JTLU14TmMzc1pNNkFKY3pnMjRha094NndiWmd2VzVlYmFDWkF2WHhxLUtleWl6bXQ5ZFRJeE1XNEZsOHYyVEFZbXEyRjFmalJRN3VMS1BVQjZnc0xKS19vcnQ1d2NDa0hyMnRhWVEzZ2ZrWjBISEhvbC16QXN2YmdBNUtnbTFqTnNDVmV2akJOOVRwT3N3amxVcFZNUzlwa2NmMnBEd0hxNm5xNk96QWVDbHpIUE5Sbl9nU2E4U3hCLTVFYjk3RUNxYzdWVlpYRzlfR1g2OWhLNDVRT1FMdHZCZw?oc=5",
+    "title": "Elon Musk says Neuralink is ready to cure blindness — says Blindsight will ‘enable even those who are completely blind or have never seen to see’",
+    "source": "Tom's Hardware",
+    "published": "Sun, 01 Nov 2026 13:30:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Elon Musk announced that Neuralink's Blindsight implant will restore vision to the blind, marking the company's entry into a clinical application that extends beyond its paralysis-treatment focus.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "vision restoration",
+      "neural implant",
+      "blindness treatment"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUtyRXBJejQzaUhZbHdfLTZSWElrQjJwTmdJUTY3eFpnQkFrWC1UbXhKZEVVekdha1d1TzJrdExFXzNqeFJhZXZRYmhsUkc4dDVSZXpfamZWVmItdS1SaXpuTU5sUk0wVGx1eEo5WGF5aHdib2NzUUxVWnJsY2xUbHNrQnBWS1pKQ2xsZk1CVlgzd2RPaHNDaHBn?oc=5",
+    "title": "Elon Musk Reveals Neuralink Implants That Could Restore Sight and Enable Communication Through Thoughts, Mom Maye Highlights This ‘Amazing’ Achievement",
+    "source": "Yahoo Tech",
+    "published": "Sun, 01 Nov 2026 01:30:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Elon Musk unveiled Neuralink's brain-computer interface implants designed to restore vision and enable thought-based communication, marking the company's advancement toward clinical applications.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk",
+      "Maye Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "vision restoration",
+      "thought-based communication"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yV2cwZ0dybTVjVno1dU00Q2FBY3hFR2FxZVMtVkw5WENoQllFSEZJQ21HWEhaOFljbnFaY3c4MmZsczhNUjdnaEw0VzR0c2VhbXdlaFB2VzlHeGNoM0UwN3MydkQ3T01haFN2bQ?oc=5",
+    "title": "Your brain says WALK. Your legs can't respond. Neuralink wants to change that. For people with certain forms of paralysis, the brain still knows exactly what it wants the body to do. The signals just can't get past the damaged nerves. Neuralink's goal is to creat",
+    "source": "X",
+    "published": "Sun, 01 Nov 2026 09:30:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Neuralink describes its mission to restore motor function in paralyzed patients by bridging the gap between intact brain signals and damaged nerve pathways.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "paralysis",
+      "neural decoding",
+      "motor restoration"
+    ],
+    "first_seen": "2026-11-01T19:20:08",
+    "week": "2026-W44",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
