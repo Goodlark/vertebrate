@@ -104169,7 +104169,7 @@
     "first_seen": "2026-11-02T22:58:24",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -104464,7 +104464,7 @@
     "first_seen": "2026-11-02T22:58:24",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -104781,7 +104781,7 @@
     "first_seen": "2026-11-02T22:58:24",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -105272,7 +105272,7 @@
     "first_seen": "2026-11-02T22:58:24",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -105627,7 +105627,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -105814,7 +105814,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -107274,7 +107274,7 @@
     "first_seen": "2026-11-04T21:01:52",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -107401,7 +107401,7 @@
     "first_seen": "2026-11-04T21:01:52",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -107457,7 +107457,7 @@
     "first_seen": "2026-11-04T21:01:52",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -108541,7 +108541,7 @@
     "first_seen": "2026-11-05T21:18:44",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -109254,7 +109254,7 @@
     "first_seen": "2026-11-05T21:18:44",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -110693,7 +110693,7 @@
     "first_seen": "2026-11-07T19:14:26",
     "week": "2026-W45",
     "why": "Khosrowshahi is betting Uber can survive the robotaxi era as the aggregator rather than the operator, even as freight revenue gives the company a hedge if that bet stalls. The real question is whether Waymo and others keep needing Uber's demand funnel once their own apps mature.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -111259,7 +111259,7 @@
     "first_seen": "2026-11-08T19:18:02",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -111444,6 +111444,1349 @@
     ],
     "first_seen": "2026-11-08T19:18:02",
     "week": "2026-W45",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZsNUU0b0tURkpENTdIRGt5NGNFZjQwWjBZOWkzUGFhUzRMeTFQak9FSlhwMzZ3ckd5ZHUyOHM3TFowVnY2WUxEcWZnaWJoMUYzd1NCTFpMeUt4UzEtUHJ0QkRzMzUxN0lLbmdhUXlrdmNHb25Rd05INlBpUDMtSDB5ZnVIdWJkRkxoM1lCa3dIWlJIOWIzbmhFZjFyUTNxTEhDWWI1Zw?oc=5",
+    "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+    "source": "The Robot Report",
+    "published": "Mon, 09 Nov 2026 18:42:26 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Boston Dynamics fitted its Atlas humanoid with wheels to study coordinated movement across the robot's entire body.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "locomotion",
+      "whole-body control"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZGpVQmNwQlV3Yk9pVDNlWFZhRUxoXzZiaGNlV0R4am0weFRtTEY3c0ZCM0NBQzBRemlWYXJGYzVQUEQ3cXd2ejdJUzVOWmc2SHRUbk9FNHI5NUlwcnl2YU5kU1FBUjhXLVRoWGY3WEtZeVZZNVB6UnJXNlBiQndUMmh1aUk4VDdqdEVXWV8yWlc5QnpTSkpHZ0dudXVmWTVKNFR0enF1NzdQVkJRVzh6UDNEbVVSTFJHa3MwYjg5Z1k?oc=5",
+    "title": "Lisbon Web Summit 2026 opens with humanoid robot speakers and record Chinese delegation",
+    "source": "Euronews.com",
+    "published": "Mon, 09 Nov 2026 09:47:43 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Lisbon Web Summit 2026 features humanoid robots as speakers alongside a record-breaking Chinese contingent, signaling the conference's pivot toward physical AI demonstrations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzFib2VZQnJWcGh0MHZCUVJSOHpNVWhTdko5SHRqU0k2RlpSSFVYTXZsTV9TdTd2UXRHM0R5dkJZNTFoOWx1VnBpQVlPWk9XYl9lS25xZnJTQnhSQ01wVk0zZVJLdXY4WHlmRnp3d2lfVVlRZmthNmJoT3R1aDhNajBlVTJXZ1JTNlE?oc=5",
+    "title": "UBTECH Partners with Tianyi to Scale Humanoid Robot Adoption",
+    "source": "Unite.AI",
+    "published": "Mon, 09 Nov 2026 11:07:04 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "UBtech announced a partnership with Tianyi to expand deployment of its humanoid robots in commercial settings.",
+    "companies": [
+      "UBtech",
+      "Tianyi"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHJDcjZvYkxUZkd2MlQwTmwtaFI3UTFHckxRTDhGZXp2SWRVNVR3ckMwdzJYY1JQanB6cVY0SnBlX1B6YlRlWkdWNFNhVFVmQzJoQ0Z5ai0xVU5OczFkVWVSQUw1RnNCQXVlLTBFUklaYXlnSXNyNGtRQ2lIbUg0ZW16UmItd0I0cmc1WmQyN0k?oc=5",
+    "title": "New wheeled factory robot works alongside humans without safety cages",
+    "source": "Interesting Engineering",
+    "published": "Mon, 09 Nov 2026 10:13:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A wheeled factory robot designed to operate safely beside workers without protective barriers has entered production.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "collaborative robotics",
+      "manufacturing",
+      "human-robot interaction"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWQ2ZWw2eWNGNWs5enRENktjdDhiNWpZenhxN0NFaUR1RVViSkpUZHB5Q182VGk2aC1xMUdNMGYwR0JCcDkzYUY3QVhjM0VFdjVwenpEZFA0aEd3NmNCQXliSFlXb1FjS3hsazduZXNXaGE4UURyZVZyUngtLTdhX3BvRVo3Vk1lZndDcml2UQ?oc=5",
+    "title": "Embodied AI’s AIR: Wheeled Humanoid Built for Factory Floors",
+    "source": "AI Magazine",
+    "published": "Mon, 09 Nov 2026 09:53:08 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Embodied AI unveiled AIR, a wheeled humanoid robot designed for factory automation.",
+    "companies": [
+      "Embodied AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "factory automation",
+      "robotics"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlhFVEdMS3RiazZoNjU1aFc5NEt2N1Ryb0lMdGVhcTNrQnd5ZTQydHBCM21pSG9FbktPU1JhcElqTGxhYUZhLWFoc2tyUW1ka2laeGhUUFJ0VE54YjVxdE9vbVJoRXlRWnpLTjYwRzVsd2MwTGdLdGdNWkJQeDNDUW1jVlladDlYX1dOeFdPM3NTYm1GUEVFRmJLamRSdm1WLVR0aHZiRVdBanUySkE?oc=5",
+    "title": "Embodied AI unveils AIR, a safe wheeled humanoid",
+    "source": "Greater Geneva Bern area (GGBa)",
+    "published": "Mon, 09 Nov 2026 08:29:09 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Embodied AI unveiled AIR, a wheeled humanoid robot designed with safety constraints built into its frame.",
+    "companies": [
+      "Embodied AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "wheeled robot",
+      "safety"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU3J6V01HTWxyck1QTnNhZ3o0aXY2d0dGR0QzQnhqUk5QZEFyNmFYZS1SNGRQcTVHOFRaTnZnLUJHVHp6NHBjS3FkdWVJYXdPOTdHNE5RSG1tR3dhWFBacXVCb01lQWNWeVFfa0ViX1Q2YVF5UklnZGFiTEF2ZUo0ZkNFM2Y2akpLN2lfbWJnLTRyblU?oc=5",
+    "title": "159-pound humanoid robot that can handle factory materials presented in China",
+    "source": "Yahoo Tech",
+    "published": "Mon, 09 Nov 2026 16:19:41 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A 159-pound Chinese humanoid robot designed for factory material handling has been unveiled, marking a new entrant in the industrial robotics market.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "factory automation",
+      "industrial robotics"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNy1KQ0s1ek1CWnBuWlI3OWtlUjY5b2RiNHNOVEo2UlpudVV3UU5XRHNFNWFaOHE3dzJiRlNJRjRaWnd1MVE3YkZfcDR1RS1UUjAxOWhoY0ZTanJRVjBmYWpIVmJ0MFJaaG93OHk2cGxzWnJZREtoTlR1bWN0c05xYlExZmVPR05ES290UDZyZF8?oc=5",
+    "title": "Pilatus Uses Humanoid for Aircraft Assembly",
+    "source": "Assembly Magazine",
+    "published": "Mon, 09 Nov 2026 14:08:13 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Pilatus, the Swiss aircraft maker, has deployed a humanoid robot on its assembly line to help build planes.",
+    "companies": [
+      "Pilatus"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "assembly"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmctV0tiNTR5NDQzaE0zTkZqWk1rT1VRZWFEZ1FTclZwQjk1V0Q4VEc4N0t5UHV1UjRJNDVwenRCbXdtSkhtQ1RNWkJQak1MQWxpMFdKQmFEcW1NN3RhU2p1dVBfcjMzTzBxc1NvWEZ3bVdrcHNRNVpXOWlyd0RWcDNqbFZsTVVpcDRsZ21yVGh4Zk0ya3BoU2RYUzZQdEp4aXd6QXhmanpTWE1Lc0dEODZaRGN5b28?oc=5",
+    "title": "How a Mac mini powers a staggeringly capable robot without human training",
+    "source": "AppleInsider",
+    "published": "Mon, 09 Nov 2026 14:43:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A demonstration shows how Apple's Mac mini can serve as the compute backbone for a robot performing complex tasks without human demonstration.",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "on-device compute"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0t0eUwwOVB4NjJxdEt4NHMzVnhOZEpYanZ1STdnSnJxbDl6Q1pKNnhSQkV2RXM3X3k2MXIxcExNaWxDQW1lMXpxY2xuNXhNcWpHTldKZkVqa3I0YXU5SEw4SE8wRk0wWUpkS2hvV20ybXpKaVFvbGdLeXBMMjdoN1pZX1ZyZjF6VnRFOEozZTNSMXN4NjN0eHo5TmhqYy1DbU8xQk83X0pUUUFmRUE?oc=5",
+    "title": "Bain Capital’s Ajay Agarwal bet on robots when Silicon Valley wouldn’t. Now he sees a ‘golden era’ for physical AI",
+    "source": "Fortune",
+    "published": "Mon, 09 Nov 2026 12:53:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Bain Capital's Ajay Agarwal, an early robotics investor, declares physical AI entering a golden era as the technology gains mainstream momentum.",
+    "companies": [
+      "Bain Capital"
+    ],
+    "people": [
+      "Ajay Agarwal"
+    ],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "venture capital"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNEhWeV9XY2oweHpKMUdtT1hBa1RzRTF0Slp5eVA2VWx6QkZlRldpVDFGYXR4OHZxaFNfWVRaT1hYNzNQb2JCMlVuWmRaZm5PLVU3aXpwSFBPd0E0bzVUYjkteDRoN1BhYXYtcXNYYnVHRUVCazRDQkphRm5vejg5clNJb2tUV0RBa2pzVW9kQmZxX1J2Nm9pMmhWalVMcGJHR0xRVWRpcVJBTkUtOEJqUlBGaDltcXRqNTREbng5bXlQTUpK?oc=5",
+    "title": "US opens new probe into Waymo vehicles over school bus safety violations",
+    "source": "Reuters",
+    "published": "Mon, 09 Nov 2026 19:56:07 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Federal regulators have opened a safety investigation into Waymo's autonomous vehicles over reported violations near school buses.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlJxUFN5Q3VzYTZxR1lQelM1eGN5UndXTjRLTFVxcXZhYmZxWDR4MFg2dkRseFFzM2tfdms3YU0tVlFlOF9rel95MVl2ZktvbUNtd0RRVHQ0V0FOeE1LTnctOTZxUFptcXFEdlpvNVFMQm93eVh4MXFSTmpMdXJMUkVkYnhnNzBMdEdOOS1RcDdUSE1zRUdkZENReUh2NUNUSjNqZnR3?oc=5",
+    "title": "Tesla launches self-driving Robotaxi service in San Antonio",
+    "source": "KSAT",
+    "published": "Mon, 09 Nov 2026 20:26:11 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla launched its self-driving Robotaxi service in San Antonio, expanding its driverless fleet beyond initial markets.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1haOVNwNUFyTUUzLTc4S2ZPUGNQaHhvWFQ0bmtaSmNndDdBd3VXbUE4c1R2YzJ2UFFhTlVjSnM1dGtuUFdoaHpiRVJ3NjFhVDNQX0s3dkRQS244aW1fbzZRclVZbFJnZV9CUnlQaXFxektLQUdodkxmWTFLbldqUTJhX3VrT3JNb09BdHBkWHAwSXZiZ0xscHBxU21QNVU?oc=5",
+    "title": "Federal Government Probes Waymo Over School-Bus Safety",
+    "source": "WSJ",
+    "published": "Mon, 09 Nov 2026 17:23:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Federal regulators have opened a safety investigation into Waymo's school-bus autonomous driving service following unspecified safety concerns.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "school transportation",
+      "autonomous vehicles",
+      "regulatory scrutiny"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHAyT29aeEtEZEtVQ2dGOGlvYTNJcFJYVFNOT1MydzdKcHVrOGZIQzZ0SklUY1NEaTY1QXRiOHJXcHVYVVk4bTRtLVJDejhJdmZ3c1dyQ3VCWXRCMlZlMjZlTWtjc2tQclJDZWdhTVBQUkREX3VTN2ozMmpLNTBhV1RvYjVkcGdaQVZ4M2taYmQxTGVfc29iRXJfY3otTDVTWVVPc240bGFoZHlUSnlZbjEwMTI?oc=5",
+    "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+    "source": "TechCrunch",
+    "published": "Mon, 09 Nov 2026 15:24:59 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo's autonomous vehicles continued illegally passing school buses even after a federal software fix, according to NHTSA investigators.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulatory",
+      "school bus"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGo0M1Y5TGVHa0l4ZDFUMkh6b2t6X0Y2cTFvOGJ5WlhzdTF1SHNUbUJabThaR1ZVTDBBU1NyblVLdHpMdVdmbmdJamM3WERCMXpRb0UzUGlaYzFMOWVmNGNSeW1tdFpaMVBqTjA0QzhSaDdpWFhSMllsaXJodDVvallqS2loOGlGQlRoS0s2Wk1CMmdvTmZQR2g4N0M?oc=5",
+    "title": "Tesla launches robotaxi service in San Antonio",
+    "source": "Axios",
+    "published": "Mon, 09 Nov 2026 20:39:32 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla launches its Cybercab robotaxi service in San Antonio, expanding the driverless taxi program beyond California.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0k0WWkzYlVsOFdpbFNSZmJfenVKeV94ZkFCOHZRZmZhM1JfUlpaVTUwcnVFNDJkMjJBWlhIb0lhdzJsa3Nodnh3N19tVzlRcXFJZFN0ZU5MZmlnV2hYZmZ4RV9BZmVyRE01ZVhydjg0VlZBUkp0NElEM3BGTEhuNXpNa3F3UC1rRkg1R3czdWZQQWFNa2VoWXkzbkhiOFl5RGxUMUt3?oc=5",
+    "title": "Opinion | Truckers hate these jobs. Let driverless trucks take them.",
+    "source": "The Washington Post",
+    "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "An opinion columnist argues that driverless trucks should replace long-haul trucking, a profession truckers themselves describe as grueling.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "trucking automation",
+      "labor displacement"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2eXNCaFJfcVRFa0lubUpIY3FaU0VmY210WkRmSU1EMFdXUGduVG5TRWJNa1dRVmlHdzJKdC1kLTFMSW5nc1JnaTg5b1hhbE9lUVBoVzlha0hoZy1raXJlaVhEV3ZicUpzRlBrdVZ2Yw?oc=5",
+    "title": "Tesla's Robotaxi Rolls Into San Antonio as China Sales Sputter",
+    "source": "Investor's Business Daily",
+    "published": "Mon, 09 Nov 2026 21:12:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's Robotaxi service expanded into San Antonio, its latest city as the company chases scale for its autonomous ride-hailing bet. The launch came the same day Tesla reported a ten-percent rise in overall China sales, even as domestic Chinese sales slipped to a four-year low.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "robotaxi",
+      "driverless",
+      "autonomous vehicles",
+      "autonomous ride-hailing",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2eXNCaFJfcVRFa0lubUpIY3FaU0VmY210WkRmSU1EMFdXUGduVG5TRWJNa1dRVmlHdzJKdC1kLTFMSW5nc1JnaTg5b1hhbE9lUVBoVzlha0hoZy1raXJlaVhEV3ZicUpzRlBrdVZ2Yw?oc=5",
+        "title": "Tesla's Robotaxi Rolls Into San Antonio as China Sales Sputter",
+        "source": "Investor's Business Daily"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3WndOM3dFSHRhS2FGVkpxNG54UFBTOTU2enNpZVdIOWE2akVTQmZGQ2pFbEN4dkJjV29vTU5BZTVQSmNOSVpQREN0V3UwdEdVOUNRbVB1Xzl6ZC0zMndidkFPcjFvSllKdFRYdDU3LVFnWm5haV83NEFKbTY?oc=5",
+        "title": "Tesla Robotaxi enters its newest city, reaching San Antonio",
+        "source": "Teslarati"
+      }
+    ],
+    "body": "<p>Tesla's Robotaxi service rolled into San Antonio this week, the latest dot on a map the company hopes will soon cover much of the country. The expansion, reported by Teslarati, gives Tesla a foothold in Texas's seventh-largest city and adds to a growing but still modest list of markets where riders can summon one of the company's autonomous vehicles. The timing was notable: the same day, Tesla disclosed that its overall China sales rose ten percent, even as sales inside China itself sank to a four-year low, according to Investor's Business Daily.</p>\n\n<p>That split screen — a new American city for the robotaxi fleet, a shrinking home-turf market in China — captures the odd shape of Tesla's moment. The company is simultaneously trying to convince investors it has a software-and-services future, built on autonomy, while its core business of selling cars in the world's largest auto market keeps losing ground to cheaper, increasingly sophisticated domestic rivals like BYD.</p>\n\n<p>San Antonio joins a short roster of cities where Tesla has switched on Robotaxi, a list the company has been building methodically rather than rushing nationwide. Each new city is a test not just of the technology but of the regulatory and reputational tolerance for autonomous vehicles sharing streets with pedestrians, cyclists, and skeptical city councils. Unlike Waymo, which has spent years accumulating permits and safety data city by city, Tesla has leaned on the promise of its camera-based \"full self-driving\" stack scaling faster and cheaper, without the lidar sensors and mapping infrastructure its rivals use. Whether that bet pays off in San Antonio, a sprawling, car-dependent city very different from the dense urban cores where ride-hailing usually thrives, will say something about how far the strategy generalizes.</p>\n\n<p>The China numbers, meanwhile, are a reminder that Tesla's growth increasingly depends on exports and overseas assembly rather than demand from Chinese buyers themselves. A four-year low in domestic sales is not a rounding error; it reflects intensifying price wars and a flood of competitive electric models from local manufacturers who no longer need Tesla as a reference point for what a good EV looks like. The ten-percent rise in overall China sales, likely buoyed by vehicles built for other markets, papers over a weakening at home.</p>\n\n<p>For the robotics and autonomy industry, the juxtaposition matters because it underscores how much of Tesla's valuation now rests on a narrative of autonomous services rather than vehicle sales growth. Investors have been asked to look past slowing car demand toward a future where Robotaxi fleets generate recurring revenue in city after city. Each incremental launch, San Antonio included, becomes a data point in that argument. But the China figures are a reminder that the old business still has to hold steady — or at least not collapse — while the new one tries to prove itself, one city at a time.</p>",
+    "slug": "tesla-s-robotaxi-rolls-into-san-antonio-as-china-sales-sputt-e2fb43"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd3FnRTJaZVB2dHNta1pQbHQ5bHhtdmhOT2NnbUV2c1QyczN5ZGctX2lVTmRkS25VXzRjM2ZidUF5bWpvaWVIZ2dJZTVmcHNGLTVMaXVBZ2JYbW9zWDNLNFF0dDBhVzJJNEozcWFfeHR0cDNGOVdpSTJGVUxmUF9ybWxZc1l3U2F4dUp4MmN6Y2tReURxUzB4WTladDNhUWVkOTFF?oc=5",
+    "title": "Feds investigate Waymo recall after continued school bus violations",
+    "source": "FOX 35 Orlando",
+    "published": "Mon, 09 Nov 2026 15:51:40 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Federal authorities are investigating Waymo's recall efforts after its driverless school buses continued violating traffic laws.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXJMY01yemp1UExHMGRvZzVPTmFlYUREWl91SnhIM2xjbjVXZDJCVGNqOVVUdEdWcWx6LWNSVW9GV0lZOXB5bTNkWEQtMDd1UVpQbm4tRV8zV1hKVzhqcEsxZVNWVDZ1akJjdW0tT2h6bnNDUDNwdGppWTd2d0VkVzA5OUtMS09GcjhZQ2s5cUJoVTFZcW5Eai1xYmZzTUdScEFCV3lGOGUxMXJr?oc=5",
+    "title": "Tesla launches robotaxi service in San Antonio, expands Austin service area",
+    "source": "San Antonio Express-News",
+    "published": "Mon, 09 Nov 2026 19:58:58 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla expands its robotaxi service to San Antonio and enlarges its coverage in Austin, pushing toward broader autonomous ride-hailing deployment.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1ZKV3NnV3RNSHQyVG90VGJ6aWdHQmptVjJsNVRQTnhIY3RzOVZTWm8wYThKdVB2eXMxYzBMNHBWN3J6R1RObE5SRDByUlhnaGxraDA0MFppQnhGcHR0SEg4RXNNbG4tWGNoMkJ4OEM4RVdpbkp6cHZFckk2OTNvT2ltLWVrakotTEdjUmQ3cFRoV0xRYWxHOE54QVpKRFRxVzhlb05tQ3dQanBRN1RFdw?oc=5",
+    "title": "Unions Raise Job Loss Issue in Fight to Limit Waymo in DC (1)",
+    "source": "Bloomberg Law News",
+    "published": "Mon, 09 Nov 2026 10:45:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Labor unions are mobilizing against Waymo's expansion in Washington, D.C., arguing that driverless taxis threaten professional driving jobs.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "labor",
+      "job displacement",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42UGNzS0xyWUZZdVBoc1JqdHFJY3dnanU1OTNENnFIUVBlcDJZemhLN2ktdUVnR0FnbTZ2SXVwT0xKMnVoSUpQUUVQY0szMlBKS0xBMk9EZzRrNE5yNTNfdE9wYkl4OG8wcWMyWEN3OUZYMmhnZWtB?oc=5",
+    "title": "NHTSA opened recall query on Waymo as school bus violations continued after fix",
+    "source": "Quartz",
+    "published": "Mon, 09 Nov 2026 18:43:06 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "NHTSA opened a recall investigation into Waymo after the autonomous vehicle operator continued to violate school-bus safety rules even following a previous fix.",
+    "companies": [
+      "Waymo",
+      "NHTSA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZFlieGt5UTdTWmtPMDF0T3diTmVvdzZXVXg2MHo3QlFCamNyWGF5NngzeHUzRVlYQUxuRlNwUUY1c3JfQmdyYkZsdU52NndVTmo1MVQ2Y2JwcDFabW1PVEdDRVZNUlVFYTg3VlhJTVdqQVZKbGNYVXg2X0p5VkRZY3ZBWTRmZWlYTWtKaFpndXkwelN2?oc=5",
+    "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
+    "source": "WIRED",
+    "published": "Mon, 09 Nov 2026 22:40:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's fix for a school bus safety issue failed federal validation, according to a U.S. government assessment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2U3a3BsdjhPLXozSGxNTGYxclQwTUlac2ZFZzQ5cGNPQVA3ZlBaSURqREhtTDRXX3ZkN1ByUUtGTE1haGpLWHlEM01tV1NqTTBFbmQwbXpZTHZHRE41SGVWLUtlNnVpZjFmSmh3cFFYZDUteU5kLW41bzdETXVfSXpVUmozTGt3bnhOVklXNjhSTXdvUktwMmxPRG5XZkR4ZDBrNQ?oc=5",
+    "title": "Waymo Faces Fresh Federal Probe as Robotaxis Keep Blowing Past Stopped School Buses",
+    "source": "Yahoo Autos",
+    "published": "Mon, 09 Nov 2026 21:23:49 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's robotaxis are failing to stop for school buses, prompting a fresh federal investigation into the company's safety systems.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulatory",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDNER1ZLbmZDTWE5ekFsakFweWJJb3hmRnhqZWZLU0xKckZ4TVVEVzQ1amMtV2V0NDNJci1lb2U3RlozN1NzSEIzZ2lIeEtHWFA0ZGZocFU2QWFubGV1V3JkYkkxUHI1cWJEalByNWp4VjI5WDNTYTg2VzUxS2NZY2JxdkE?oc=5",
+    "title": "U.S. Investigates Waymo over school bus safety concerns",
+    "source": "The San Joaquin Valley Sun",
+    "published": "Mon, 09 Nov 2026 19:23:13 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The NHTSA has opened an investigation into Waymo's autonomous school buses following safety complaints from parents and school officials in California.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "school transportation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3WndOM3dFSHRhS2FGVkpxNG54UFBTOTU2enNpZVdIOWE2akVTQmZGQ2pFbEN4dkJjV29vTU5BZTVQSmNOSVpQREN0V3UwdEdVOUNRbVB1Xzl6ZC0zMndidkFPcjFvSllKdFRYdDU3LVFnWm5haV83NEFKbTY?oc=5",
+    "title": "Tesla Robotaxi enters its newest city, reaching San Antonio",
+    "source": "Teslarati",
+    "published": "Mon, 09 Nov 2026 21:10:10 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla's Robotaxi service expanded into San Antonio, marking another geographic footprint for the company's autonomous ride-hailing ambitions.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous ride-hailing",
+      "geographic expansion"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3hlU3VGMGd2YXp5R0Y0bUNVRlF2VDFhdkRWVnhZTTZHeU5oTV9tSHZlbnhwY2s4YWNRd01GSzdWZkdSUFRmZ0JjamZMLVN1TzFjYi1LQmdiaG43VU1PYkVYOEFzbDlOSlBuM040UGdtaTlmWXhmSnFJT29MWlZrbEtUOTZReUI1ZkxWbWdZM3E2RG1KRnVSZ01mczFfc25QZ05VUlNndGlMX0ZWRFBmd1I4UQ?oc=5",
+    "title": "Nvidia shares drop amid CEO probe; Torc’s Nick Elder talks driverless trucks",
+    "source": "Automotive News",
+    "published": "Mon, 09 Nov 2026 18:50:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Torc, the autonomous-truck outfit that Nvidia acquired in 2019, continues development of driverless vehicles despite its parent company's leadership turmoil.",
+    "companies": [
+      "Torc",
+      "Nvidia"
+    ],
+    "people": [
+      "Nick Elder"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "self-driving"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFZBaDdmakZ5M0tfNGU4am85a2h6OXNNTGdacFY0TUZLOWlKd0hPRE5jaG54M3JjOU1lTHFJWTZ5aE5oVDhnT0FiZUNoa3I5TDllWHFYeFVXY2E2dG5McXBwVGNoSHdfTzQzU1NfaEZ2bnAtcUVBNzViak5CYUYyM3ljYkwxekU?oc=5",
+    "title": "Tesla expands robotaxi service to San Antonio",
+    "source": "TechCrunch",
+    "published": "Mon, 09 Nov 2026 11:30:24 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is expanding its robotaxi service to San Antonio, extending its driverless operations beyond California.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xbXpVemZYS0x4aTFmSWlsZ3FvVms2QXgzMk5uY2t3dmw0UGdXdnFhS0Jjc2czeHY0Y252WWFxcWJmNGhjbUVmN3ZKSkM5RXU5UWlHYnpxU2lCRHF3Nkt4TW8zSUpkX1RjQ0hqSEtXYWpYS3NQUXpV?oc=5",
+    "title": "Uber's new parking feature has a robotaxi twist",
+    "source": "Axios",
+    "published": "Mon, 09 Nov 2026 17:27:13 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber is testing a parking feature designed to work with its autonomous vehicle fleet, integrating self-driving capabilities into its broader mobility platform.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFlBRmt0WldqNmQ4eEtnWmtlOTlVS0dHU2F5cUdXVXpUc1BjN1JleUppTGJuMGRybE4xb1YxeThPVVpQYnJkR3BOSXFIMlM4cVZmeTNHSG5FNkRVYkRUdUF0R0lQaXNFd3BJWTZLN09DUDEweDFacEtXZG16aTkyWjBiMmRZRWpMRDR1Nl9zQ3ZIakY2Q0djM2lPUEVFSEc4bl9qS0QzUngtT1lHSi1N?oc=5",
+    "title": "Waymo taxis won’t stop passing stopped school buses, feds say",
+    "source": "The Independent",
+    "published": "Mon, 09 Nov 2026 19:18:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous taxis are failing to stop for school buses, according to federal regulators investigating safety compliance.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "regulatory"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWlzTWZQX2ZFakwxbkQzc3Vub21oNzZfT2w0dzR4UVo3dGYxS3RqcEJEUE5oOTMyZzg2aTE5Ri1jR0VCajhEbHpTYUVkZE5jbjlKek91LUZhRDdwM2RlSlhYRnBVakVlUUJjVDE2emNJWjRnNDNjRDFJTDdNRFREelg1TGMwOWpETkhvaUJlNDBBdlZHaktHbmJPX0lVcWE4Xzl2aGk5a3pLajBuMmJTcA?oc=5",
+    "title": "NHTSA Investigates If Waymo Robotaxis Are Still Running School Bus Stop Signs",
+    "source": "Engadget",
+    "published": "Mon, 09 Nov 2026 16:16:46 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The NHTSA is investigating whether Waymo's robotaxis continue to ignore school bus stop signs despite previous safety complaints.",
+    "companies": [
+      "Waymo",
+      "NHTSA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulatory"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTQ2b2NRQkw4OGNQQklJdFpTcjd0UFltaHpZNVR4aUUyN3BGY3RfQjFDaURCX2F1b1dzRk03aXc3cFRtWkRTMERNSFVFRVVHMFpaQ1JyMFJZdkQ0WmIzaEZqTU1fYnRvS1NLaVBWdHAtZlhscm5MSjNZeEtoLTR0aDA3TEg5bmpEeEZMcC1tR3kyaWQ3MUxSZ3Q0V1kyUS0yVWV0SUh1SQ?oc=5",
+    "title": "Waymo Robotaxis Just Keep Passing School Buses After Software Fix, According to Feds",
+    "source": "Yahoo Autos",
+    "published": "Mon, 09 Nov 2026 19:41:23 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo's robotaxis continue to illegally pass school buses even after a federal software fix, according to NHTSA investigators.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOUNJc1NwbFYydkVJaWlMckJRV3dlNTI5WnAzR29abDFlREJIS3pCbUk0czJsT0lTYjVqXzNSbFpTNnhEeUpuMER6MTBydjFmcnJhM1pqZ1VHaUQzam5Eb25IcWtMNllqSE1kRnFEYUlMS19xQnh2S3FIMEtxeVFtUDNMQlUtdEZvZnN6MzIzV194UWgyU1l6YURnY2N3bzNGYWMzNWNLWE5TZ193LXkwU0Jrejd0TWZTdFhwTURwOGo3WFphZDNnR3Y4V0lTVnlMMVJLQXhuTlVqUUNKM2RyMktkYXdSazR6MWxnbzhkaHBSTGZRcXJTOHhGdw?oc=5",
+    "title": "US opens probe into Waymo vehicles over school bus safety violations",
+    "source": "Central Oregon Daily",
+    "published": "Mon, 09 Nov 2026 11:46:51 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The National Highway Traffic Safety Administration opened an investigation into Waymo's autonomous vehicles after they allegedly failed to yield to school buses.",
+    "companies": [
+      "Waymo",
+      "National Highway Traffic Safety Administration"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGJkSzZSOE5CLWdtUWdPeXU5UTlTdGJEWUlrRVNqT1lWRmZpbVlqVzRHOHFVWTJHZjc3cVAzWmR3d2F2bnJJR2hZcWlqX1FDN1Z5RmtiZjdQZEJyd1lOS0l2ZXA4WVRpdFpCVTVmaTc4Yk1pM2MyQk9vSnYwcXMxc2w3UnktcWFYSy16YVZn?oc=5",
+    "title": "Zipline raises $1.5B at $21.5B for autonomous drone delivery",
+    "source": "MobiHealthNews",
+    "published": "Mon, 09 Nov 2026 18:59:47 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Zipline closes a $1.5 billion funding round at a $21.5 billion valuation, cementing its lead in autonomous drone delivery for medical goods and consumer packages.",
+    "companies": [
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous delivery",
+      "funding",
+      "logistics"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWNjZ19iX0t0YkVvanhfMS1zQzZNcWxyU1BidFFreU5fdHBTUE5PdFloZWxoWjhJa052am45bjVnYk9fNXdncExGcHVBdUotaXZKZ0x2RXRLeWVDa1BMQmh5RFE3YkxudEtWNlJSM3d5amdhbmwyTVdjLWVvVUtoMV9PSUtZMlFFS0RrRE43SVlwVXJxcWdDOTBYRmM?oc=5",
+    "title": "Autonomous Drone and Rover System Measures Maize Traits in Field Trials",
+    "source": "Bioengineer.org",
+    "published": "Mon, 09 Nov 2026 15:03:40 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers deployed an autonomous drone-and-rover system to measure maize plant traits in field trials, advancing phenotyping methods for crop science.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous systems",
+      "agriculture",
+      "phenotyping",
+      "field robotics"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2FySXlseHZqRTJ4ZVVhTzdZUUlhaUE4Yld5TzFHS1lUQTJMeEUtMXhlZ2xuTzM4QTR0VXc4NEdvVzBPbGtYOGxyWDlQczFDVm1UZTJHNm5PcjZiMjVRVjZKdGFzQ3RMcDU0b185VWpEUy1pNmVyQVlRMkNyeWQ2c0sxTzNFeVN1dEpWT0tBSUZrZFU?oc=5",
+    "title": "Amazon Prime Air Delivery Drone Joins Museum of Flight Exhibit",
+    "source": "FLYING Magazine",
+    "published": "Mon, 09 Nov 2026 14:00:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Amazon placed a Prime Air delivery drone in the Museum of Flight's permanent collection, a symbolic nod to the company's long-running ambitions in autonomous package delivery.",
+    "companies": [
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeG9vREFCRnJraTd2QnJSRkxOQktIMWtBMWN6OWU3VGRDZlE0QkhaQzZleEZuSWVSb1lGTzJTZEh4cGdVVWp6N3FvOTJhZ1JUdWhDdUtJZmVRNUdFRGJTMUhLN3JzcG8za1Q0azZmenhTY3FyWTYydXFRQTRjRE1Sb3p2bDRBT2Vl?oc=5",
+    "title": "NASA successfully tests autonomous landing system for future moon and mars missions",
+    "source": "Aerospace Global News",
+    "published": "Mon, 09 Nov 2026 09:37:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "NASA successfully tested an autonomous landing system designed to guide spacecraft to the Moon and Mars without human intervention.",
+    "companies": [
+      "NASA"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous systems",
+      "lunar landing",
+      "Mars missions",
+      "spacecraft",
+      "autonomous navigation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVBzVUtYVURyMHdacGFYRDZlQUFHdkFwUExRTDBLOTNCZWV0RHJPUmFTXzRzQmZLQ3pJT3Jnd3pSR3cxaW0yb0xncklpeTBCbG1MQjhQdkF6U2JtaC1iZUR1MHQ4SHhpMThSMF91cVpEOWw0V1FLMGhDMTc4blQ3R2FZM24?oc=5",
+    "title": "Skyways starts building Skyreach, a cargo drone that flies 1,300 miles",
+    "source": "The Next Web",
+    "published": "Mon, 09 Nov 2026 15:49:33 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skyways is building Skyreach, a cargo drone with a 1,300-mile range designed to move freight across continental distances.",
+    "companies": [
+      "Skyways"
+    ],
+    "people": [],
+    "themes": [
+      "cargo drone",
+      "long-range",
+      "logistics",
+      "aviation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmtYT211YXR1bHdmQ3dvdVZhYWhLbGJ6NVBzeDI5V2JudU5MQTdibks3UlBPOXRkSS1udmo4Y1pqamswQ1d3bTE5dndCTldZNndmV0QtLUc3YmpXWDl0NFlFNTNxRUc4Zm1ZNFZkZFpVSkItemEzc013ZjF6U0E3d1FMY0trNzZNTXBSQk1CTDJhRHRkbzdhbXB6aUlzTUpBempudDBXZVRsblA5NkpHWEgzMzJPX0U4VGc?oc=5",
+    "title": "A 28-foot drone boat that hits 55 knots was steered around Portsmouth harbor from a control hub as the Royal Navy commissioned its first autonomous squadron, about 180 sailors split into two watches to keep uncrewed boats running around the clock",
+    "source": "Autonocion.com",
+    "published": "Mon, 09 Nov 2026 16:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The Royal Navy commissioned its first autonomous squadron, deploying 28-foot uncrewed boats capable of 55 knots and controlled remotely from a shore-based hub.",
+    "companies": [
+      "Royal Navy"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "uncrewed vessels",
+      "maritime",
+      "military deployment"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcU9MMGZSQzJKR28zQWh5Y2RpQ0dfYWZXYUFoOFZydVp0TnI2Ymp4Z0J6MUV5QlVwTWNWRXJlaTFFSFZJU3VvWHpadjBPRmtQb1R2TXJuNXFXaThxYkJiVm5BQlFaT19UVWRLWFJzTXFTcG9OR2NIWm1oTjF6RlpOenNWVE5zWVJLOGVYXzJxckJKVnhVclRTUktUREs0X0E0Zm1aVHVON2VzdnNkRWJTU1VTTE9EZ0R6TDM5Slh1SnlHUQ?oc=5",
+    "title": "Aterrion Showcases Pulsar in Autonomous Drone Swarm Flight Demonstrations",
+    "source": "Unmanned Systems Technology",
+    "published": "Mon, 09 Nov 2026 05:34:06 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Aterrion demonstrated its Pulsar autonomous drone swarm system in flight tests, signaling progress toward coordinated multi-drone operations.",
+    "companies": [
+      "Aterrion"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "swarm",
+      "flight demonstration"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanRlWXRTMGllQXdqNEtabmpBUkVrU0VILWlFX2lUR05GTl9URktBS3k3b2doSHllQ3BGblF6dEVsZXREYTllaGRIcHUwRmZzdUsweDZmVW9NQlI5OVNhLXZCZDNJSk1tY2VZd3p2Uk16TGJxdHdhdll5bEJXU0EzTm5ZRHNCTEk?oc=5",
+    "title": "P100: The autonomous jet drone that takes off vertically and sprints past 400 knots",
+    "source": "Yahoo",
+    "published": "Sun, 08 Nov 2026 14:37:44 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A startup has unveiled the P100, an autonomous vertical-takeoff jet drone capable of speeds exceeding 400 knots.",
+    "companies": [
+      "P100"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "vertical takeoff",
+      "high-speed"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUtxSWZOSUlpWTctdFFiZHdSMWNENlY5QXJiQjVKdndsdHE4c2ZJckJTeC0wZUV3N3BjbmlnU1JiRXp5RFdSalpzWlZXZjFDaW8zcVdzWGc1ak5pV194cC1mYnRIX3BLWGNuVHhsQTVqSlFRR0o4OXVBNHBBam5aQ3lHakhhR0dybTV3UHA1ei1ubWt3bll1UkhzWE4?oc=5",
+    "title": "Chinese Drone Swarm Maps Woods on Its Own, and Withholds the Code",
+    "source": "DroneXL",
+    "published": "Sun, 08 Nov 2026 22:15:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "A Chinese drone swarm autonomously mapped a forest without human intervention, but researchers have not released the underlying code.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone swarm",
+      "autonomous mapping",
+      "swarm robotics"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0ExRE5uUDZpQVg1dG11NmRrMmJmckpZbWM4V2F1OFhZU1ktRE9EcW9HdkVwTjZoRDBkVDJWMU93Vm1jb0o5SWtjN21WVEpHLW02TGdYVnRYZnFqQ1g0SENUQkRxMHFPZGF0NWZ4S3FER0ROSFd6Q2Y1NWtRYjgwR2d5MEhxS3h0NTdTNGZ6SQ?oc=5",
+    "title": "Royal Navy commissions its first autonomous boat Squadron",
+    "source": "Navy Lookout",
+    "published": "Mon, 09 Nov 2026 05:21:04 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The Royal Navy has commissioned its first operational squadron of autonomous boats, deploying uncrewed vessels for active naval duty.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous vehicles",
+      "maritime",
+      "military robotics",
+      "uncrewed systems"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNelVCMW85eGdWVU1VSWlhWXNmS0FnQ25MOC1wcld1THI0azVKY01XaDFXTU1MNWNqc3lDcmdTVW1ETWJxX0RzN3BrN2F6SzZBXzRkV1NxZlJlTHdqOUhIOEU1RXU4eVNUU0swRGRySjBQNEdfckRYaVAwOGQ5Vk9uazFsT2VyTkJxT0hTdzI5N0lJa2pKaFp6UmlaeG5odmZCQ3EyZEtCeWp2QUs4?oc=5",
+    "title": "East Bay drone boat maker Saildrone wins protest over Navy contract",
+    "source": "East Bay Times",
+    "published": "Wed, 04 Nov 2026 15:45:56 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Saildrone won a protest against the Navy's contract award decision, clearing the path for the autonomous vessel maker to compete for military maritime surveillance work.",
+    "companies": [
+      "Saildrone"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "maritime",
+      "autonomous vessels",
+      "military contract"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EMjdlcW04aXFMRXc3RWFXVGdnVER2ck1idEQyaWFpTzd5VFYzQ1FQTUNpSGVjakliZFNCdkdwUVE5Z0pqbG5XbXVXMHJLQmd3Mi1yOEp1a0hSRjRSWUE?oc=5",
+    "title": "Royal Navy welcomes unmanned boat squadron",
+    "source": "BBC",
+    "published": "Mon, 09 Nov 2026 06:06:31 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The Royal Navy has begun operating a squadron of unmanned boats, marking its first deployment of crewless vessels for active service.",
+    "companies": [
+      "Royal Navy"
+    ],
+    "people": [],
+    "themes": [
+      "unmanned vessel",
+      "autonomous boat",
+      "military drone",
+      "naval deployment"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUhnMDRXeU14c1h1b0RTMVJTc21BU19VTWhBWGtnVkZQcEdSeXVZRXZWTko3WGNReVp1cEN0bURJWlJYeVptSDQtbFFVbnA3R1J0RE9HZUlWM20wRGNJcjloUjJUZG1VbkZZVGJRbmZTNm1HbXNrSDJyQ041Mm5EMG5Sa1hCd2M?oc=5",
+    "title": "Navy drone boats ‘ready to be deployed’ in UK waters",
+    "source": "The Times",
+    "published": "Mon, 09 Nov 2026 00:01:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The UK Navy says its autonomous drone boats are prepared for operational deployment in British waters.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "military",
+      "naval"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmZLaU4tMU8zc3l5cHpHaXRIaWVBVzJILUZZRXBub3ZFQUdWX0Fpd1d2Ykt3TFdTS0VBUWc3clpVVWZmOHdoc0lYcDBocElFejBOVTFTMGhHSWdJRjFDYjRFcXJtNTBMcFhyRllveEt6dW80dm9ySm5SVU92S1lWUi1yTHBUbFZTMmxja1REaElUdlI0QkFIQWMyZHB4R2dBMjJr?oc=5",
+    "title": "New Royal Navy drone boats to intercept Russian warships and spy vessels in UK waters",
+    "source": "The Independent",
+    "published": "Mon, 09 Nov 2026 10:31:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The Royal Navy is deploying autonomous drone boats designed to intercept and monitor Russian military vessels in British waters.",
+    "companies": [
+      "Royal Navy"
+    ],
+    "people": [],
+    "themes": [
+      "maritime drones",
+      "autonomous vessels",
+      "military",
+      "surveillance"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbEZhcHpJV0lwWmZlNmtES2xIdFVHM3luYm9KcGI5MkwySTgxdDNPZzctU0V6ckNKTkRVTDh0QU5VWElTOW9vRGlQdnZjelpwakxRWDlwTFZUQkh1Q3VVc3lhWU1lRFVJZjBaU3NoZExsWEYtMU9mZGo4em5FcUpKa1hiV3A0SzFVS210eU5aM2ZHXzRwSUsweXZTa0dDSnZsaVB5V3JhcjM2SnJSbE1KUUxkbG9kNDh6TEg2SXlrQ3c?oc=5",
+    "title": "Neuralink’s China Rival Targets Obesity With ‘Electronic’ GLP-1",
+    "source": "Bloomberg",
+    "published": "Tue, 03 Nov 2026 08:21:26 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A Chinese neurotech firm is developing an implantable brain-computer interface to regulate appetite as an alternative to GLP-1 drugs for obesity treatment.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "obesity treatment",
+      "neural implants",
+      "appetite regulation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2hsZVRTcU5vUURGT1hXdjdNeEhVZnZ4RHFnMzZDV1FmQXJ2Tmh2Uy01RHpTWnR2aXRUZl9zVjVUMXc0bzliR1pxNWIwWnByTHl3emtpRE5Na2gwRlFCU1p3MTNzNi1xV1ZQZmdqU0pfOURMNjJZcG51YVM0MWhXalpvMGFwaXVWaFV4MEI3RWlEdWJL?oc=5",
+    "title": "Neuralink Blindsight approval: FDA status explained",
+    "source": "NeoTeo",
+    "published": "Fri, 06 Nov 2026 00:15:36 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "NeoTeo explains the regulatory pathway for Neuralink's Blindsight brain-computer interface without reporting a concrete FDA decision or approval.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "FDA approval",
+      "vision restoration"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOWFfU016NnZJdUxsMGJpcGVDeENNUWdDWDBBbmpUZFdaVjMxcldYUDRoNDVqbm1KMjZPdDkySERxd0ltaFIzbHhraWhiWWQyN2h1ZkVoZ3AwMnhpRnZKamJNQ0hvZ2RNOHJ4d3BZOE9NZkpWUkdiMm52RS1Td0dqR3g4TFJPelVCQmJveUJvOXdFUnJHYjlIVm9UWk9wREQ2M0NqY0NtWWVBSXIxVG9rVWpFenJRX0tUMFg1Z0ZEalFtTHdsVkxNWE9DYnVhbFhWZEdodkF0OA?oc=5",
+    "title": "Deepinder Goyal’s brain chip stirs backlash from medical doctors, they call it ‘clinically bankrupt’",
+    "source": "Deccan Herald",
+    "published": "Fri, 06 Nov 2026 15:24:51 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Deepinder Goyal's brain-chip venture draws sharp criticism from medical doctors who argue the technology lacks clinical rigor.",
+    "companies": [],
+    "people": [
+      "Deepinder Goyal"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "medical criticism",
+      "clinical validation"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQmJSMlVHRDNiY0JHMUFzcTZ1R29WSFVLY1ExNlJDb29QMWVObTAwUTRDMU0xRTVRMkt2d0E2NXR2blAwWVE4N29vUUJadVJPQzJEdE85eHMtZzlOM0MyQVlwa2NvbVd0NWpmbV9RMUxjYk5LOW92LW1ZVGxyRmJXaXNScTcxR1ozVXVEYjFsSjVyYlRaZFp0TnFMZFVxNlZ0THRwbFhWcnozeDJVYWFpQkc1QjFLblRBOG1FeE1SUW1qeGRWaE1NWWFXV1ltYms2NlVoSWpySExPOC1oWHB4T1B4NjByVFZnVmc5TkVwajBBTHFw0gH6AUFVX3lxTE83MEI5WHFhYzh0b2xpcTFwVjVEeXlmdzB4MmkyMlp1ak9QWWJ6V3VYaVNVUVFIUEFicG5PNkcwcVJiLS12Qm1XMDJjRklHTTB6TGJ0WEFxaUpOM2JyT0NDQWRFZDczWUZFUHVpYU5OSVNIZGV6VFZiSnFqMzJKRklIQjRjc2hQaFk0NVN3YmpKdi1WTm9KRkNxSzAxZzZ1WDM4V1ZyXzBpblZUUlN3Z2FkXzQ4VWUzYktLRG5fcWtrOFB0cl8xaGQ5UlpScExEUGRDQU9NaDZxYU9jM0w1U3Z3NGk5cjdpSG8tN244RDhnbkktS3RCT0dDUFE?oc=5",
+    "title": "Elon Musk promises sight to the blind with Neuralink Blindsight, says tech is ready for approval",
+    "source": "India Today",
+    "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Elon Musk says Neuralink's Blindsight implant is ready for regulatory approval to restore vision to the blind.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "blindness",
+      "vision restoration",
+      "medical implant"
+    ],
+    "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
     "why": null,
     "duplicate": true,
     "folded": false,
