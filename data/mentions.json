@@ -105544,7 +105544,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -105654,7 +105654,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -105707,7 +105707,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -105814,7 +105814,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -105841,7 +105841,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -105869,7 +105869,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -105950,7 +105950,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -106089,7 +106089,7 @@
     "first_seen": "2026-11-03T20:44:50",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -107138,7 +107138,7 @@
     "first_seen": "2026-11-04T21:01:52",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -107248,7 +107248,7 @@
     "first_seen": "2026-11-04T21:01:52",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -108541,7 +108541,7 @@
     "first_seen": "2026-11-05T21:18:44",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -109109,7 +109109,7 @@
     "first_seen": "2026-11-05T21:18:44",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -110165,7 +110165,7 @@
     "first_seen": "2026-11-06T20:40:49",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -110665,7 +110665,7 @@
     "first_seen": "2026-11-07T19:14:26",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -110719,7 +110719,7 @@
     "first_seen": "2026-11-07T19:14:26",
     "week": "2026-W45",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -111178,7 +111178,7 @@
     "first_seen": "2026-11-08T19:18:02",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -111392,7 +111392,7 @@
     "first_seen": "2026-11-08T19:18:02",
     "week": "2026-W45",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -112122,7 +112122,7 @@
     "first_seen": "2026-11-09T23:40:27",
     "week": "2026-W46",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -112733,7 +112733,7 @@
     "first_seen": "2026-11-09T23:40:27",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -112786,6 +112786,1310 @@
       "medical implant"
     ],
     "first_seen": "2026-11-09T23:40:27",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVAxVElUZEtzV2pTMHZnRjU3OTR1OENHUDdMQ0lxMFdtemx2cWtXRUdzT2llcGhuYWhldFMzdGtvc2s0U05hdWgzaGVDS2FHYkRFV3A3Qk93UVRuUVFkdHJxeGRlbHMwd1Z6MWZTZ3p0VE9JejV5YWs0UDl1V3Jmd1F2T3N1N1RHVTlENDhXTENhYnViQXdobzdjR3VRSDhxbXhXQ3dB?oc=5",
+    "title": "PRISM: A neural network component for better robotic motor control",
+    "source": "Michigan Engineering News",
+    "published": "Tue, 10 Nov 2026 18:43:34 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Researchers at Michigan Engineering have developed PRISM, a neural network component designed to improve how robots control their motors and movements.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "neural network",
+      "motor control",
+      "robotics",
+      "physical AI"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNktxRzhBalRqY1F6dDNXU3c2aWVKS01hVnl6akc1NVpCYk52dS01QTRVWEJiZ29HeUZ6U2lYNktmc3JRN25WSmZCQ09fRWdXem1KdGlBN1pGTWRWSjJQbTJmTDl5bDVhQ1dpdjF3ZzFfZjBqSGdDTC1HNUY4cEtaN0NRQmVndVo3b19BaXdFbnQ?oc=5",
+    "title": "Robotics company Figure AI is hiring a human to babysit humanoid robots overnight",
+    "source": "Business Insider",
+    "published": "Tue, 10 Nov 2026 10:52:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Figure AI is running a hiring drive for overnight robot monitors, a peek at the mundane logistics of deploying humanoid robots at scale.",
+    "companies": [
+      "Figure AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot operations"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzJVM05RQnc3SUFtX1hNWU0yLUR2ODBsdkluRXM0SEdQRUtYbzZ4Tk1CcEpxU1ltblV0ekJ4NU5UTzFXTE9TSmdpa2xWLXZHc0pUMEJqUVFDUzR0MkY4cnM4YThaSUtJNU55ZHJFcEdCZjZwam4wbzlVWHZGY1ItS3BDRTYyMFQ4c0JHVWZySkNMWlRBdmVhMWx4TEtjTFRJWEoxSFE4cU0?oc=5",
+    "title": "Intel and Altera expand collaboration to simplify sensor integration for physical AI",
+    "source": "The Robot Report",
+    "published": "Tue, 10 Nov 2026 14:54:18 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Intel and Altera are deepening their partnership to streamline how sensors feed data into physical AI systems.",
+    "companies": [
+      "Intel",
+      "Altera"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "sensor integration",
+      "hardware collaboration"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlNId1FwZUNxSEdtTjJUMTVURmxjSjN1ZnllSUVhUEhjZFlpaUdROGgzQnBYZVphM1hjdTI3M0dkajNlTTlUazBtNUNISXR3Q29Ka1FSSkMzTG5McUtyejJVbnhScjY4VVpBSkdzQmJ0ZXRodXhYalE5Z3VaaklOMXR1Q1BtX2NhQ1FYVjlXVWI?oc=5",
+    "title": "Path Robotics raises $300M at $2.45B valuation to scale physical AI for manufacturing",
+    "source": "Ohio Tech News",
+    "published": "Tue, 10 Nov 2026 14:56:34 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Path Robotics raised $300 million at a $2.45 billion valuation to expand its physical AI platform for factory automation.",
+    "companies": [
+      "Path Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "manufacturing",
+      "automation",
+      "robotics"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONUQ5VEI2Zm9qaGlMYVFPUjJaTkw4RFlDR2JiZnZlTm44dmJRTERDOVdjbWVqczE3WE55VzNRTlJzN3VqNk45SlNPUzlVVE42YW5qNFpCY3NvSWhjM21USGxHODN6VVFhNVdLRUdUaC1uYVhKdlFuUGVFakpXWUNvd3hvb3F3d1NlM29sZmJmaFJwV1VvVGxIUjhyRGxHOFJ6MTFfMExfeFVadjhTMzFyMkp2NlBjWE9rZklFdF9xdDlaQQ?oc=5",
+    "title": "Hedra’s new Model Factory cranks up the production volume for physical AI model training",
+    "source": "SiliconANGLE",
+    "published": "Tue, 10 Nov 2026 14:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Hedra launches Model Factory, a platform designed to scale the data-production pipeline for training physical AI systems.",
+    "companies": [
+      "Hedra"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "model training",
+      "data generation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXAxVGN4VW9UTDVUVEZNcG9sS25IcVJNR0RxRE9IZFZwQ3NSMjI0SUktbWVNN3RWaWlUWFlpSUN1czB4T2RvdE5xeHQ1dG5zX2lGNEN5c0RUbGxoOEh6d2cxTkFQY19kOWE2aXhSMjlwaW9LS3VTYVQxdU1mU1d6cWE5UmFBOFY2WnVYZWhfaUJNWVJRTjNta1lSYmlCdTBiVU5LNzNIb2VLWEk?oc=5",
+    "title": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
+    "source": "Reuters",
+    "published": "Tue, 10 Nov 2026 07:15:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "European chipmaker executives argue their region can play a meaningful role in the robotics and physical AI race, though the piece offers conviction more than concrete evidence of how.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "semiconductors",
+      "Europe"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmdXa2FOTk54OXFvMDFLUjNjTFhmakppVGh3Q3lTM2hmMXRReTdtai1fdEd5YzdlLUNlNTMyUkhBRVBMRHZGYXp6d3Q1dDBKWWZVMW1rVVhoZFJSVnRCc28zZE5rMzR1SF9LeFF5Wm5UU3NpcTNURU01b2YwOFFLZTFndTZVOWNTUGF5ZDB5d0tyUXd3eWlRaVMyTmFVTXhBSlRuMndXVG83aTlJYlZz0gG0AUFVX3lxTE1qaFlpd3Q0eUdSbVR4ZThOUktXd1M2X2UxRmJ0UzVNWnAta3AxYU9EYUxNbVA3RWZFeDlXS05TeFZaZjVGd1RGMHpuczFPeHEyRDZsVm1yMVZOLUNfSFNDOXBWTGM2QUl1TGpwUFdfdGFoNkg5VEx1amUwdzZScHNkZk1WRDB2bnNHNFF1eHhjbW9CVnZ6MlVnRzQ5MHdNZFh2YWdJWVBiaWxMZWNmLW0wQjZCcw?oc=5",
+    "title": "Humanoid robot takes on Antarctic ultra-marathon… and fails",
+    "source": "Al Jazeera",
+    "published": "Tue, 10 Nov 2026 10:30:57 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A humanoid robot attempted an Antarctic ultra-marathon and did not complete the race, offering more footage than substantive data about robotics in extreme environments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "endurance testing"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVE2bTRTOVQwZ3VTOXViY2kxdTBib3VvOENRM3VpNWRDZWVUQUpHQkRFTHh5S0JyMlQwZGswZFpRakt3RXRDdEFOVlh0cG0xMG5WTlcydHV3ZDZjejhwa0RSZF95RGlWbGZ3M0F0Q0gxeG41MWwtcUVtd0JYMnQ5ODM2ZG9FdGVRR240R2RYM24zNGc2RWVhc0JueHZhRVdKYVJuem93SFVGRW1pMTN1MGVfNTJFQzNZbmo4QUo0NHV3VWpaR0E?oc=5",
+    "title": "Oversonic Robotics takes RoBee R20 humanoid robot to Munich and Lisbon",
+    "source": "Robotics & Automation News",
+    "published": "Tue, 10 Nov 2026 15:58:20 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Oversonic Robotics is showcasing its RoBee R20 humanoid robot at trade shows in Munich and Lisbon, signaling a move toward European market deployment.",
+    "companies": [
+      "Oversonic Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR09JWEN2VDdnRUowSTlwa2RKeWZKbGNDdWh4N3VSOTFsLVN1eDN1d2F5Nm1CbXd5Ujd4YWlpb2tCMDlIelZWeGlNanc2bExyNVJKTktYdjVZUFk0S0tZMjNKODNDcjQ0REYtUEp4UUVxUHl0TEFPd05YNFBUcWxTSHUzazcyN2VlT3F0YWVzdnlKWGpYRjhXQWl0V3ZjQ3lvdXNXZQ?oc=5",
+    "title": "Nvidia GR00T 2 Robot Model Learns New Tasks From a Single Demonstration",
+    "source": "Technology Org",
+    "published": "Tue, 10 Nov 2026 13:41:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Nvidia's GR00T 2 model demonstrates one-shot learning capability, allowing robots to acquire new tasks from minimal human instruction.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "machine learning",
+      "embodied AI",
+      "task learning"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM2RhemFhTDBCcVdWM284MEYtM3VlenpEOUE5ajh2OGwtQkN1cGRkRGcxTnZPamViSWxnQUVTd1JBQnJjMmN5SWZHaTc0ektnUVRyeTN4akd1SHQyT3FRMUppMWxYRXV4N0FMMWppQ3BHZkdvUmdlZFlWOGRiUEh2am9HNk1JSHp3RDVqanE1WUZ2TzczWXZjcF8tQXktYUpYbHRlMC00WDlFdW5UMmlNZEJPbXo2ZURSaEJIMEV6S05udG9yT1R2aktsWXNOSWtjSEdSNFJrS2tWY254?oc=5",
+    "title": "Knewbots and Beijing Humanoid Unveil Industrial Embodied AI Platform for Logistics",
+    "source": "Gasgoo",
+    "published": "Tue, 10 Nov 2026 06:54:55 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Knewbots and Beijing Humanoid have jointly unveiled an industrial embodied AI platform designed for logistics applications.",
+    "companies": [
+      "Knewbots",
+      "Beijing Humanoid"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "logistics",
+      "embodied AI",
+      "industrial automation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcmRqU3ZKV18yQjhGX3RoR3luNUhCYVBwRU51b2lRV1ZqUkNYUW1yX1I0dTFJWlVaVENhMk1IQTlQbk9BcGkxVWd0aGFSbGFQbXJMZWFldDk3S2VPYnhGa2p3MUYtcXFUcUszQ0RlNkJpNk9aMVg2NjN0a1BZak9nbUpTVkpnZFBfeHZyMW9XWlQ2R19zR2hwMU1rMF9NNk1qenNrT0t4aVBJSDN1elVhUFVPR1A5dTk3eW05QUFJa0dCa0J6NEpRSVBIZVQ5dw?oc=5",
+    "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+    "source": "The Decoder",
+    "published": "Tue, 10 Nov 2026 17:11:40 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Google DeepMind's Gemini Robotics 2.5 achieved 96 percent accuracy sorting metal parts in a pilot at Mercedes-Benz, demonstrating the system's capability for precise manufacturing tasks.",
+    "companies": [
+      "Google DeepMind",
+      "Mercedes-Benz"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "manufacturing",
+      "vision",
+      "assembly"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS3ltdFNUcWFiWVRNS09pX3NnM1JLZDAxVFhqWGRveENJNHZuQzZmaFVobHgteF9DanV4SlJiTXA5S0ptclRPRkNYVEYyb200bnBldE5tbElaTzFMb0VOU3paZUdnbWtma1RSZXgwSTEwNmdKazl1Tl9US2hWR1d0NlRPZXliZkhNei1uM1pLWQ?oc=5",
+    "title": "NVIDIA Unveils GR00T 2 With Onboard Humanoid Control",
+    "source": "The Defiant",
+    "published": "Tue, 10 Nov 2026 17:20:56 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "NVIDIA released GR00T 2, a foundation model designed to run on humanoid robots directly rather than requiring cloud compute.",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "foundation model",
+      "onboard inference"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4waXo4NHVpVEZRa0RIVXRiYjh1dEFaRGRnX2hYYkNVeUM1cjlGNnk4V1pFV05EYnBveFlqOXBGVFQ4czZPdElLa3VtakMwVmlBbndqZUpZZW44ejRoQlNha0ktdmdSaU9aWl9SMHFwTzNsT2tTald2VVVaNFk3T3M?oc=5",
+    "title": "Xiaomi says its full-size humanoid robot took on an eight-hour sorting task at its car factory and can detect and correct anomalies on its own while coordinating with the production line system.",
+    "source": "Make Tech Easier",
+    "published": "Tue, 10 Nov 2026 17:03:46 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xiaomi deployed its full-size humanoid robot to sort parts for eight hours at a car factory, where it caught and fixed its own mistakes without human intervention.",
+    "companies": [
+      "Xiaomi"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "autonomous anomaly detection"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZzI5OHRXRG5zaE9HMS1DU3hNUC1EeklqaGN5TVE2ZDdxR0pIUVU4OUlNQlN3eHRrVDVUWjllS3c0Z1FsSi1LZURXbkZOVDNtak9GXzdLOHRleHdneG91bFNWa2R6a0QzUmI4WW1VWUFEY1laRmc?oc=5",
+    "title": "Morgan Stanley Survey: Humanoid Robot Commercialization Timeline Pushed Back a Year, Only 18% of Companies Testing Them Satisfied",
+    "source": "BigGo Finance",
+    "published": "Tue, 10 Nov 2026 14:25:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Morgan Stanley's survey finds humanoid robot commercialization delayed by a year, with only 18% of testing companies satisfied with the technology.",
+    "companies": [
+      "Morgan Stanley"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "commercialization",
+      "robot testing"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0NvSm5VN3FENThDb2tKeWt5c0ZwZVNvNndtRW5fdl9aVnNTcGxPMlZDbmFCYjRya1J4eDcwbG52c3pyWU9zdUE5S3JmUEJFa3pmSWVoNWZPNFlJblNjT2FhbVpJRllvMHZoN1F6SkNVWVRUQUI5Mk9BdW11dzN2cDJpcTlSemlMdnNGTzU1eS1LNjd2M1NQcWUteVVULUpFREE5cUlZdXpQb2xweGFwX04yeHhZRVFfWlE?oc=5",
+    "title": "Atlas is on a roll: Hyundai's humanoid robot trades feet for wheels",
+    "source": "Korea JoongAng Daily",
+    "published": "Tue, 10 Nov 2026 07:11:03 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Hyundai's Atlas humanoid robot has been redesigned with wheeled locomotion instead of feet, marking a shift in the company's physical AI strategy.",
+    "companies": [
+      "Hyundai",
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robot locomotion",
+      "mobility"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjV5WE9iTDBtMFpPNTZxcHAzMzZxN0x5VlZ4Y1hDSnhIOU1pUjNkdFZKRWxHSVNyRGlUN29SUGJpTi1HUklGeWw3RDZsWk9sYlpSM1JjSWtSdTIzOHI3ZXhnS2htVnNkUzBGWHF5cHdjUmYtR2xiNk0yS25Mb3VHM09JbVdkTTJOa2Fyam1DRWdMd05RMVVURWNScGNUdmV6Y0JndGRtbkJPcGlLb3V1bE5DVU1ZMzREUmVvUzNxNGJVZw?oc=5",
+    "title": "Boston Dynamics Swaps Atlas Humanoid Feet for Scooter Wheels in High-Stress Actuator Experiment",
+    "source": "Gadget Review",
+    "published": "Tue, 10 Nov 2026 16:05:47 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Boston Dynamics fitted its Atlas humanoid with scooter wheels to stress-test actuators in an experiment pushing the robot's physical capabilities.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "actuator",
+      "robotics engineering"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbENFNTM1MmNYd3JCRnlRVmJ4Nk82bmVGTEgtLVVQYlBvU2lWRXRIS25Bejh0LTExSG84SkRYSWgzUDBsWEY0dmwyTDRvQWVSM2c5THRWUXZuMExIRFBSZ3VyTFRsdlNMc2RvQ2VHS2xyNEFHVTgwTFE4S3J5QzZ6WWxGcUNpNFoxaWhNRTEwLWotWENBd0RrVG81YWhXU2hpUW8tV0xVRFNSU2pIZHVWYzJfTmRYVFRzd0xVREdWZFBkN0MwbW96R3lB0gHSAUFVX3lxTE05QlVWTWhsbHE0YVlONFRWakI3OVY3YnlMdENVOVF0SkdBUmFBREI2YXU1Rk5ySUZvQUVnNzR5NnNkVFA3RmhzekVQR29FaW16UDZYLXBHb21YRmg3WnlOOTFVNVBQaDZPeXRXbDNuYlNHZDRROUgzYWRZQVUyRnZweExLS2xGMG5MNlFrbmNKekNJNWdNTF82SkRiWFlKTlhIWUFLSnJqSE5NVXF3dXBMcnRqVEEyODlKdG96LVRWd0pXZVFkQldfbk4yaXFvTmlVZw?oc=5",
+    "title": "Revised DC bill would clear path for driverless taxis, but does it have the votes?",
+    "source": "NBC4 Washington",
+    "published": "Tue, 10 Nov 2026 17:06:43 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A revised Washington, D.C. bill aims to permit driverless taxi operations, though legislative support remains uncertain.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTGF6LXc0ZTV1dFAxREJBeU1YMkRjbnoxNW9ta3U4VWJjMVI4dzZES19CZVJMMWxoNUVnR1FaZ1ZxRXRpVzVBTkhpX2ZsUjVjOTk4bW9tOGVvSWE2ZjJoTU1RLVl1N1dnT0oyRWRDeXBOaVJURl9JQW5kNlotTURMZnpnZjg0c0FJYUdIaGlueFluZmR4WmpicUlUTUJldkxteXhsZy1oTnMtbHAxT2t5aFczbHEyaGtEaTdXbmpvNTYwazdXNi1zak82TjFBVTFTR0dRVkY0dkV5RUJtMUlJaS03T0VhekpNcVVuTEYzSE11S0R3Q1JHXw?oc=5",
+    "title": "Charles Allen unveils bill to bring driverless ride-hailing to DC, but opposition on his own committee could stall it",
+    "source": "WUSA9",
+    "published": "Tue, 10 Nov 2026 17:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "D.C. Council member Charles Allen introduced legislation to permit driverless ride-hailing services in the district, but faces resistance from fellow committee members.",
+    "companies": [],
+    "people": [
+      "Charles Allen"
+    ],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "regulation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2kxN2F1U0FVY0stWUg4b3BoZ2Rlb09wcHpsdS1ENlpEd0w5dG9hakFCYnF6WWp5d0NQS2tRVHZhNnRqVmpvWjV0YlZCRUUtRXN0VHdKVGc4QkRXZVJzbXR6Q09SUE5OamNxdnowcUgtQWtKY1RKeXExWVNDTkZhYzhxZGtTdE1zb0VFMnptcU14SFU?oc=5",
+    "title": "Waymo preparing to train maintenance crews for Pittsburgh robotaxis",
+    "source": "The Business Journals",
+    "published": "Tue, 10 Nov 2026 20:33:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo is readying maintenance crews in Pittsburgh as it prepares to deploy robotaxis in the city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "deployment"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmZ2d2tXUzJpSlB2djNvc2p5aTRwYTRrMFl6dFZLd1N5c2pZLUxOb25VYzE4cUVnQzd4NXFLaDhaMEpRUW4wT3VKTlc1WDNCYmFBeUx5LXBmRzVfM1E4N09qM2w4Rm55UVpfbzdoaWcyLU9ULVNDS3lTQzk5ZkYxWQ?oc=5",
+    "title": "D.C.'s robotaxi bill gets a major rewrite. It may not be enough.",
+    "source": "Axios",
+    "published": "Tue, 10 Nov 2026 18:28:15 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Washington D.C. revises its robotaxi regulations, but policy experts question whether the changes adequately address safety and deployment concerns.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVF0d0hkMTdhRzRPcFk0Zm4zeUpKVlRXeXFweXlqalN4bTQza2Z5c0Z3SGU4eE44NmItd3loNmQ4UEVGcEJsbEVmQ193OGRUY1J4bHdTNmx1bXJZX2xlNzlCWjlJblp4WUI5R3haNUgxWEVTemtLRzNGOHJya2pMcGVGZWxHQTRhNktjSEh5dmRkblhXbU5aRWF2QnRnZGtSSFQ0TUV6ZEIzZG9PdDFNTEo3cFd4MFp0bGxsU0x3?oc=5",
+    "title": "Tesla Says “Private FSD Only For Robotaxi.” A Legal Flaw May Say Why",
+    "source": "Forbes",
+    "published": "Tue, 10 Nov 2026 13:30:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Forbes argues that Tesla's restriction of private Full Self-Driving to robotaxi use may stem from legal liability concerns rather than product strategy.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "Full Self-Driving",
+      "robotaxi",
+      "liability"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CMWwtVFlpdTNwLXhOMmwwZkJFTkJ6UVg1Z3hiMzE4QVpUZDJkVEhlWUpxZFZJSUpkM1V2Mjg2cGozMmlvZkdyVjNBb3pwSmthclJDUFg3ZFJtbG1xVV8tck9PUXd5OXVJYXF2VTNJNDAyN3FvT3VGdw?oc=5",
+    "title": "The 5 Most Concerning Incidents Involving Waymo Vehicles",
+    "source": "BGR",
+    "published": "Tue, 10 Nov 2026 18:17:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "BGR compiles a list of Waymo's most troubling autonomous vehicle incidents, mixing reported accidents with anecdotal complaints to frame the company's safety record.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHZPaVlmYVotcEtTRWZIOEZabEpUYmRYLTJySkVFSU1leWN3VmNYbV9GVXVaM2pfZWh6b1JQTDBjN2pzaG5aR2tlX29ET2d1YVNiZWdQY18yaGxwdGhLUFlkTXBYMmNRV3BUVkxYVm85c25QdEloc1hGcGRieG1sMHpDZ1B2dDY0NkF4NGU4R0hRdVg3T0EtVDkwMmJ0Zw?oc=5",
+    "title": "Tesla launches driverless Robotaxi service in San Antonio, challenging Waymo",
+    "source": "KTSA",
+    "published": "Tue, 10 Nov 2026 12:43:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla has launched its driverless Robotaxi service in San Antonio, marking its entry into the commercial autonomous vehicle market against Waymo's established presence.",
+    "companies": [
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOTnI3S1VmMzh3MGFBUnhjbmhRd0FkN0drbTdnZzF1aHlRMldQZno4YzAxWjl0eG5UYUJFTTViOWdaYmhDT2gzaEh0MXdOcWx1UDVKcWsycy1RRkFxYXFQN0M2OWVXQVFNY0lkMkkyakU5M2loZmlobElRSEUtTlJYU3VzVEJYSjJFVGNJVzhqR1dndGJFeEZVTnczdWUwNzA3LUVqRmoycVF2a05pMUl1VTBJbU51MXB0WDBRcGpmR09fa3RscXVtQkZ4bUltY2VhXzZZc1Qzd2U0cDFoYWF5VkdYT2hqLTNqc2J0ODdRMUNRRi10N0ZYaVViTnVaVlhTTDlEcTQ0MFFHajZNNmFoSHhhMUcxMlQ1QkNJR2dkLVZMTVlIMXA0eWEwU3ZaV2VxZzRTa0o1UlUyTkViN3o5SjRCaTllTF9wc0NzUWJpU1FrM2NXbG9Xak5GZFlfbjQ?oc=5",
+    "title": "Charles Allen releases revised bill to regulate driverless rides in DC",
+    "source": "WJLA",
+    "published": "Tue, 10 Nov 2026 20:43:22 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "D.C. Council member Charles Allen introduced a revised regulatory framework for driverless ride-hailing services in the nation's capital.",
+    "companies": [],
+    "people": [
+      "Charles Allen"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNY0dnZEx1aVgzRmhNZDlYeW1vZmFTcmlnOTFTcllIM0ZVTXh5MWQxdVRrOVRCcWxPMTU2d3NiNXZhZWg5czV2cDJzRkFJRVVIOG5vZlcxcXZBNDh2ckoySXc3c080RlpOUW5RY0pfUmZiWC1GNFRLSkdEMnZ1VjJSM2NPMDRWVHg0MUVvSU9Cd3BOdGFMTW90V3FzUHJFVkJ5QWlvM1Z5Z2JfNEZOSzdyczJxRmw1Y3VpSlZfeWl0dHMySFh0QUZNY25XR1pjUUY5SXcxMi1FcFN1QUxyQmZZQmdPSlZnMjNHUUVETkRseFNuWHFUZ2otWjJheG4wN2RibTBtT0tQY0FMdGFlQ1ZVemZzQVNUVlpNVmxfUkVfS0RNcmRZQU5VUjZSV0JmaFdyR0k0V0FZQQ?oc=5",
+    "title": "Tesla Robotaxi service launches in San Antonio as experts examine safety and future innovation of autonomous vehicles",
+    "source": "kens5.com",
+    "published": "Tue, 10 Nov 2026 04:56:43 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla has launched its Robotaxi driverless service in San Antonio, expanding its autonomous vehicle operations beyond initial markets.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUF2Mlg4M01hbDlhZ1EzMkxsNHpyLXExUk5SMzVSaWFYMU9va2EtWm5jeWk3VGV3RWRzekREalZFOXJsajFabHppYmlCZUw4cEZNNndoSGFwQlc5cTFkcEhFMTl1eEtZMjUzQlc3V3Y0OWxlcG5GeEFCZm5Qc3kxdWZ2ay16Zw?oc=5",
+    "title": "Kearney, MIT put US driverless truck cost parity at 2028",
+    "source": "FreightWaves",
+    "published": "Tue, 10 Nov 2026 16:11:02 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Kearney and MIT project that autonomous trucks will reach cost parity with human drivers by 2028, based on modeling of industry economics.",
+    "companies": [
+      "Kearney",
+      "MIT"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous trucks",
+      "cost analysis"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HM0ZJbEpLaHJPUmxlM2RZb3ktaWo2N3d2bFNIdXJ0RW9La3dWSERpYzcyRGU1X2pKb0swamRkMi04MFJYOUo4NTg1TnZybFhYck5vc2dEOGE3MzZjM0V3Qm9hb2E5Zw?oc=5",
+    "title": "Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility",
+    "source": "Waymo",
+    "published": "Tue, 10 Nov 2026 14:37:30 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo launches an advisory network in the UK to solicit input from disabled people on designing autonomous vehicles.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "accessibility",
+      "autonomous mobility"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONXNhWFM2RnRoZWl1SW04MDVRLVE4ekZsenZsZ1F0bThkZ1VGeC1YdXI3MWFjeU0zYzdKYko5amdxR3hzMDNxZ2U4VjBFcnlZTm9MQVgzQ045LWZJUjVmN0FFZGNyMzBlaDItcV92OHFydzRPRFJCLXlMZ2pwQVJkQVhTRjlnLUMxbFBZVXFJbTRSU0ZfZlNZ?oc=5",
+    "title": "Waymo faces recall query as school bus fix falls short",
+    "source": "Automotive World",
+    "published": "Tue, 10 Nov 2026 13:10:07 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's fix for its autonomous school bus fleet appears inadequate, prompting recall questions from regulators.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "school bus",
+      "safety",
+      "recall"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nN09ieUFHRktkR3U2dHB0X2ZPQUhSZm5RQ3hJb19ndUlIbk5td1VmcF9aejRiVGxTS2V2cXdXTUtISXVSUkZKQ3JjdUZqSlowQVJKUE9odFU4dU5QSlBycURB?oc=5",
+    "title": "Tesla launches Robotaxi service in San Antonio",
+    "source": "Mashable",
+    "published": "Tue, 10 Nov 2026 12:00:05 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla launches its Robotaxi service in San Antonio, expanding autonomous ride-hailing beyond California.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUml0MXFsTGhBZ1hKVWtqRkZjZTRwbzZsYVBvSWVxVm4tV0hqVkxsUEtiTVI4QkxJcFh6THMwNGJmUTF6ZlVzWlNOeUdSV205ZC1nU1d3MUNTOVlPZEhBQ04zeEw0TF9rcU9xNlVtc0loaUZ2a2FiVGdaNXhQRW4xTXRWa1IzOGx2N3lKY0xqRWhhQ0VLbmVNOTk3M3dtN1gtN3c?oc=5",
+    "title": "Breakingviews - COMMENTARY: Robotaxi wars will end in Uber-Waymo union",
+    "source": "Reuters",
+    "published": "Tue, 10 Nov 2026 05:00:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A Reuters columnist speculates that Uber and Waymo will eventually merge to resolve the robotaxi market's competitive pressures.",
+    "companies": [
+      "Uber",
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "consolidation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXzA0TkZnb0U1OERVWkNEaGNtS3g2S2tNZGV4b2tHaUc4dklkQlc3ZmI5ek9qdDVPN1k3cHczOTZNOGJLdUhnLTRKaE1vOUNRMHBIRG1ER2ZFd2NzbXJGTl9nWFduN04wcG5SZE5vSkhxNGFtckxLdjkzcVdiSWtwTFRwMHlaeEFVR1RCR2ZQSldkQzZWZG5UZzY0bnNJRGRhZThFbm1zZzFSUFphX084aDVWcmRWM3RtTVBFRGtUc0NpY19XYXNSOEZZcjNhcmpz?oc=5",
+    "title": "Driverless ride-share companies like Waymo could come to DC",
+    "source": "WUSA9",
+    "published": "Tue, 10 Nov 2026 17:56:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Waymo may expand its driverless ride-share service to Washington, D.C., pending regulatory approval.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-share",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORFhHbkpsRFdLSHlab2RnQVpkdVI5TjFCckZtZVFYZWZSOExHVEYtdzJvZjNmUU9KRFdJLWNFaUlsalhWejM2TzNvMW9ldGVIR3lFRUhTVE9ac1EzZktYY0pWdzR6Q3hIbTJtelJmZnVXeEdFRlA5MWRQdHlHUUkzbi1sNmZYMXhJMG5mMFUwTU1WaWNVX1VRQlMtUEw?oc=5",
+    "title": "NHTSA Doubts Waymo’s School-Bus Software Fix",
+    "source": "Yahoo Autos",
+    "published": "Tue, 10 Nov 2026 15:10:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "NHTSA expressed skepticism over Waymo's proposed software fix for safety issues in its autonomous school-bus service.",
+    "companies": [
+      "Waymo",
+      "NHTSA"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkRNeGVGYUkyUzBTaHY3aWI2WVFJSTFQa2xxWWxGb0Y3UVJmVzl6NWktbGpJRVE4MEJieUdEY2lGN2VFWHFOZGs1QmdxbEpXODhGa2owQmw4NVlVaE5qRXNOdzI5RG5XTFJqNk9iekVzS0pyR3JaQVFIblJORUwtWmdPcWJfQllUbkdxcEJIenRNSF9SalFjajgwbjItZlk?oc=5",
+    "title": "Waymo Robotaxis Face NHTSA Recall Query After School Bus Passes Continued Post-Software-Fix",
+    "source": "Technology Org",
+    "published": "Tue, 10 Nov 2026 11:59:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's driverless taxis remain under NHTSA scrutiny after a school bus pass incident persisted even after a software update, raising questions about the robustness of the fix.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1dFbHM2blh0eWNXVl9LMDZVTl9zZlRWd1hGRWNIcEd1cXMtNl9TbkZkQkpGaDJCVV9fT2JMbC1BdUFrdWNNSmZCajlxcjRsTHd0Q1RYN0ZMZjE2LVlMbXJKYXdqTGQ2SkNZOHJyQ1VVeExYcEEzVkJIVDJOTWNtc3plcFJ1MWpEa2FsQWl3cmpXQ00tZlRWOEJuZVUzdmcxNVdWYWJ4NmxHTFNQbzNQdV8zUE4yalROdjRWNXYwTTI?oc=5",
+    "title": "Tesla Stocks Move Lower a Day After San Antonio Robotaxi Launch",
+    "source": "TradingView",
+    "published": "Tue, 10 Nov 2026 17:49:17 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla launched its Cybercab robotaxi service in San Antonio, though the stock declined the day after the debut.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
+    "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+    "source": "CNBC",
+    "published": "Tue, 10 Nov 2026 13:30:01 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Amazon's Ring launched two new security devices—a flying drone and a ground robot—designed to patrol residential and commercial properties.",
+    "companies": [
+      "Amazon",
+      "Ring"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "home security",
+      "physical AI",
+      "autonomous patrol"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
+    "title": "Ring announces Ring Robotics, ushering in a new era of security",
+    "source": "About Amazon",
+    "published": "Tue, 10 Nov 2026 13:26:02 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Ring launches Ring Robotics, a new division focused on autonomous security devices.",
+    "companies": [
+      "Ring",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "security",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNZ1lmR3JuYmdzSUo1VjJ5VWNDQ3p5eE90bWJaXzlMZ3EtYTRVSUJSVjE5Mkl4ejNoTTVaY1h3aElsUFZMaUxkZ1luZkJoRGlBeGdHS05ubGt4dVhKdGxNWjZaS1lMZ1ptc3JCbHBPbUtnNlBPRlUyTFJaS2E5QW8?oc=5",
+    "title": "Matternet and Swisslog Healthcare team up to bring drone delivery to hospitals",
+    "source": "DroneDJ",
+    "published": "Tue, 10 Nov 2026 10:36:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Matternet and Swisslog Healthcare are partnering to deploy autonomous drones for hospital logistics, moving beyond the startup's prior regulatory pilots into production healthcare systems.",
+    "companies": [
+      "Matternet",
+      "Swisslog Healthcare"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "hospital logistics",
+      "autonomous systems",
+      "healthcare"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXdILUU0eDVZeUpvVnl6ZHNQQ0N5ZHdUbUwwdWw0TzZzZ3g2VW95aEEyZVB0WlB4TUZpVUNTMFVBUTJqdE9Va2FLODgxLWFjN2VoS092WFFUVTY4WUhiZjQ2MWZ5UG9VU3NjZWduNlFZaWZ5cnkya2NCX0tvOVlySmY3VlM3UGhZODR1Zk51UURSXzlFWFB0aHZiM2JzLW5JVTJJQ1pLa0loWktOZko4OFZtdTczY3ZiN1lqcFVFV2FobTRwMFE?oc=5",
+    "title": "Axon Makes $1.2 Billion Investment in Skydio to Accelerate Drone as First Responder Technology",
+    "source": "UASweekly.com",
+    "published": "Tue, 10 Nov 2026 11:20:44 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Axon invests $1.2 billion in Skydio to establish drones as standard equipment for police and emergency responders.",
+    "companies": [
+      "Axon",
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "first responders",
+      "law enforcement",
+      "emergency services"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVVA4aW9HemNHYkxMWklENkc4MFpfR1lXMEZiTlhjNHBsWTQ0dHhXaUhlRGNveVdJVUw5VHJaQTdDaFQ1cVJic2ItdlpEbGNTdzFnY2tMbGs1eEdOa0lmTlhwR1NwMHoxaEI0bW5SLUxfazg?oc=5",
+    "title": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses",
+    "source": "Beinsure",
+    "published": "Tue, 10 Nov 2026 19:31:47 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Amazon unveiled Ring, a palm-sized AI security drone, and Astro for Business, an autonomous home robot, expanding its domestic surveillance and robotics footprint.",
+    "companies": [
+      "Amazon",
+      "Ring"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous robot",
+      "AI security",
+      "home automation",
+      "surveillance"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFMwRTFuaXF5bHMyaFczQVF1MVJsX3gxa1liNUtabUJXMVZBQTVpUTQ1My1oWmxRSGhzZkVwNEh6emZuZWZ1ZS1FTW84SzJheC1QQldXUUlzQVlxY3d0Y3llSEtWb2RYRDlhMlpBaF93SWZvaUliQ0U5YnhzQzhMdzdwX1lmZw?oc=5",
+    "title": "A Chinese Team Made A Big Splash With A Drone Swarm World Record",
+    "source": "Engadget",
+    "published": "Tue, 10 Nov 2026 14:45:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A Chinese team set a new world record for drone swarm coordination, demonstrating a significant leap in autonomous multi-agent systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone swarm",
+      "autonomous systems",
+      "world record"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXhocUJtdU9XSmx4cGxTVU0yU21kSnktU1M5SnEwZTRhSVFETUtPQUlTLVJla1ZZSzZHcFF0eDlvVTF3TVQ4aUtjQVhiOWd1c0k3aVY0WThZRnpoVmt0WUI5WEZ0d09kemhqX0JyVnNoWC1paUdSUTQyT3pZQkJIR2M5Y3JUXzY4MWIxUkRJNEMtazJuSEhIOVNhRDdZTDQ5U0NfUG1RZUEyckFoRnVSb2V1RQ?oc=5",
+    "title": "Walmart, Zipline teaming up to launch 300 additional drone delivery",
+    "source": "Retail Customer Experience",
+    "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Walmart and Zipline are expanding their drone delivery partnership to 300 additional locations, scaling automated fulfillment across U.S. retail.",
+    "companies": [
+      "Walmart",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous logistics",
+      "retail automation"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenFjTGlwNUtqb1BmUEExRXZHRkNaMlBNOEx2NUpoanNPZFEtQmhvZ2JKTks2aXhSSC1VVGJPaG15TGFNSHd5SjFCcFNDOUpyRS1nQXB4WlkwS3E4aTIza1hKdnd2N25SYy0tU2pnUTNmZWlyYnhwSldrWFlBZzRFQlI3b2ZZYUM2LUgzODU1WUo0TzA?oc=5",
+    "title": "Ring says its flying indoor security camera is finally shipping",
+    "source": "The Verge",
+    "published": "Tue, 10 Nov 2026 13:30:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Ring is shipping its indoor flying camera after years of delays, finally delivering on its drone-based home security pitch.",
+    "companies": [
+      "Ring"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "home security",
+      "indoor surveillance"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlZFaGUyVnBCZEJVNW9VVThTRXVlbzN1ZEQyaFFLdEo0Yk5TSmhiYVdNc2l0TFJyWUdaWVotMERic0hiUmxyQVd3R095cFZfQVR0Y1AtYVltSUg4bGxheVF6aHpaekdSSGs3T29rSDBwaWVtTG4tWEQxZFAzUFNFekZ0dmxjcHVqS2NVWktBSQ?oc=5",
+    "title": "1,300-mile range: US firm builds autonomous cargo drone that can fly without runway",
+    "source": "Interesting Engineering",
+    "published": "Tue, 10 Nov 2026 13:09:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A U.S. cargo-drone maker has built an autonomous aircraft with a 1,300-mile range that requires no runway, a specification that could reshape remote logistics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous cargo drone",
+      "long-range flight",
+      "runway-less takeoff"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0lXQ1poOFFQWDZONE9EdDZGbjFzYmJkb3VnMzE1ZGNEcHJZX0ZReGtqVmk4NUNHLVFYbTV6eE9ZTUd1cVJCQ0tnbWFkQ09sbWUtMFU1Ni1qcGxYUDQwQ1I5MWl1cEtpMnNPMWhWakd3UlRVY3VFWFpVT0JsR1ZkME1ZVmtTdl9ud3RsVFoxdVBpUlZ5anNnUUZja2MwWWlHblJrSlNMRjIwd3MteloyM1ExYVNZQW51Ym1DVmpIRWNYVkU?oc=5",
+    "title": "Valkyrie Dynamics Raises €1M for a Tiny Radar That Lets Cheap Drones Intercept in Any Weather",
+    "source": "The Recursive",
+    "published": "Tue, 10 Nov 2026 09:31:11 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Valkyrie Dynamics raised €1 million to commercialize a miniaturized radar that gives low-cost drones all-weather obstacle detection, unblocking autonomous flight in conditions where optical sensors fail.",
+    "companies": [
+      "Valkyrie Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "radar",
+      "all-weather",
+      "obstacle avoidance",
+      "autonomous flight"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEVmZldEa2h1bVZpYkJoZ0hvYWc1QzJ0NTlvMjl0WG94VnlZZGhObDVBX3hFQ3BnNW9iVTk5QWVhV1dPWFRzWFJ1SWRDdGN3RWFDdnBjLURydlM1U3ltWnBUeTA3SVdTZFU0djFGWktUeUJtdHRUNnh1bmQtZEZZTmQzOU9FUHNxYl9PX3NSYTBMQ3ZSQ2FCbnh2bFJhVTdrZVE?oc=5",
+    "title": "Ring Launches With $249.99 Drone Cam And $999.99 Rover Cam For Autonomous Security",
+    "source": "Pulse 2.0",
+    "published": "Tue, 10 Nov 2026 14:22:19 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Amazon's Ring is launching a $249.99 autonomous drone camera and a $999.99 wheeled rover camera for home security.",
+    "companies": [
+      "Ring",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous security",
+      "smart home",
+      "robotics"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREJubHhkem5KZDJCZVhyQnZCV1FZeFQ5Sjc2SUhOamtPVHY4V1RhdUV2eEhYLXFwd3JGbDBHZTA5TEpLenM2QmNRUFE1U3FpLWwtVWw2U2dJQ2FiN0U0OVY2eGloVjBFV1RobC1IYWpGTTRFc2VXTXdvSzY5bl8yaklwSkJnRkJXcEJOZWltYUs2SGM1eGF0LXA5OGJYYW05bElNaTR5cmhOQlFXTC1PcGZ4bXBjek9KTlBOcWFZbTVWXzFX?oc=5",
+    "title": "Yango Group advances driverless taxi testing and drone delivery plans in Kazakhstan",
+    "source": "Gulf Business",
+    "published": "Mon, 09 Nov 2026 08:47:58 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Yango Group is pushing forward with autonomous taxi trials and drone delivery operations in Kazakhstan, expanding its footprint beyond ride-hailing.",
+    "companies": [
+      "Yango Group"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "driverless",
+      "autonomous vehicles",
+      "Kazakhstan expansion"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GWmtScEF6UC1rS0h3OGkxa3hfeGJJLUJfSDU2ZVVkS2YybEFDeWlFeGZOb0VJLVFKNTB3YnJMdm1aY1ZMaDNqX1VBUmNpU21QMldXVkFhYUp6a1JEcEdqT2FBZ9IBaEFVX3lxTE5zc0N4aF9pSV9yWnpwUDhycXp2RTFSY2RfMmF1N29xRE93S1ZRM0t3TmZyVUVTQzRhWEd0MGQ1Q0NpVXFxUTdBUzZwWnhEQkVKZ0ttVFI0ZFlQeFhycDFXRDFoM2k0RHoy?oc=5",
+    "title": "Autonomous drone deliveries in Central Texas",
+    "source": "FOX 7 Austin",
+    "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "FOX 7 Austin reports on autonomous drone delivery operations in Central Texas without naming specific companies or concrete developments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous delivery",
+      "drones"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS0ZWRlNqRWxDeXdhM2RDSVNsX01jSnh4dXlXZE5GOHg4RkZmU3czcmtjcnc3QmF6NFlPWUp3ODAzcnRKMDBTU2NBS2RLMlNwWUQzLXl1c1ZOQTdFbGxfc1hXSGo4SjNIOGxJOW53SXhrYnNlWU9tSFp5dHY5Z25RZ3FvNmkyVjZzakltTXN30gGTAUFVX3lxTFBfX1E1SzVyTDM3VnVyYUpPMnRPY3BJdzJpRjc2eG81U18weGlrSkRWOU8xZHVQcHRpRm1yQzdFbGsyTThaTUpDblczY3ZkUndCbTRIaGV6ay02eU9RNnpuOHZTSVNNckY5UFFMTUtXV2VVUE5aMHFvQXpTNXZsMlB6WVFWUE1Ub0FPSGprT0ZsSFQyTQ?oc=5",
+    "title": "What to know about Elon Musk’s Neuralink brain chip implant",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "Wed, 11 Feb 2026 03:40:43 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "ABC News publishes a explainer on Neuralink's brain-computer interface technology and Elon Musk's ambitions for the platform.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "BCI"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
+    "week": "2026-W46",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://wing.com/news/wing-brings-a-new-rhythm-to-errands-in-memphis-delivering-by-drone-in-minutes",
+    "title": "Wing brings a new rhythm to errands in Memphis, delivering Walmart orders by drone in minutes",
+    "source": "Wing",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Wing and Walmart began drone deliveries to Memphis homes, expanding their partnership to Tennessee after establishing operations across five other major U.S. cities.",
+    "companies": [
+      "Wing",
+      "Walmart"
+    ],
+    "people": [
+      "Heather Rivera"
+    ],
+    "themes": [
+      "drone delivery",
+      "last-mile logistics",
+      "urban logistics"
+    ],
+    "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
     "duplicate": true,
