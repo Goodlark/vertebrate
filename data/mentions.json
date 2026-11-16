@@ -112525,7 +112525,7 @@
     "first_seen": "2026-11-09T23:40:27",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -113581,7 +113581,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -113607,7 +113607,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -114816,7 +114816,7 @@
     "first_seen": "2026-11-11T21:42:50",
     "week": "2026-W46",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -115722,7 +115722,7 @@
     "first_seen": "2026-11-12T21:42:14",
     "week": "2026-W46",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -117538,7 +117538,7 @@
     "first_seen": "2026-11-13T21:09:11",
     "week": "2026-W46",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -117624,7 +117624,7 @@
     "first_seen": "2026-11-14T19:40:24",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -118617,6 +118617,1053 @@
     ],
     "first_seen": "2026-11-15T20:06:28",
     "week": "2026-W46",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUFZdmxneTJ5c2VwTGowM1RGSnFsRnBMUVM3Sl9uMTNfdUUzYmVnWV9wTXhMMFlOakx5UW16bjJWdk9LN3BWMFVDUVZTY01xU1NSbGxmalY3SDJNVFMzc3NhX19KdE44Y0JNb3R5MVdlZU5vUVEtaGxNZVctMEYzVEJtMC1iQk5PVU5POE9VazA5Q1c3bnhUNUVVYTJjQnc0Qy1VaUVzQlNXd3I0X21MSElzU0hXRGM?oc=5",
+    "title": "Humanoid Robots: This Company Sells The Body, You Supply A Brain",
+    "source": "Forbes",
+    "published": "Mon, 16 Nov 2026 22:39:43 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A Forbes profile explores the business model of a humanoid robotics company that sells robot bodies for integration with third-party AI systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2ZGVXRkWV9RZG9oVVQtbHBtdWppVG56THdnVDFDSF9xWkI3ZzlENzFSYVgxWFVrRFJmOXVvRnBlLUNqUE5PSkttWEJTcTl4VTVCNlBrc0VrektZc01JN3hMNVE5WmlSVmE5ZFRsai02UDQ5SXc0NWhUelBpWUdYcGZWcjhtQXgybVh3NHRIaTB6Zw?oc=5",
+    "title": "Agile Robots raises $500M to increase production capacity",
+    "source": "The Robot Report",
+    "published": "Mon, 16 Nov 2026 17:51:25 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Agile Robots raises $500M to scale manufacturing of its collaborative industrial arms.",
+    "companies": [
+      "Agile Robots"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "collaborative robots",
+      "manufacturing",
+      "automation"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEF0S2EzRXozeVdvVHdyTkVCRDF2Z0ZhenNTb09xM3BKU0VVYWFvNXRpa3lEbTlxbTNqTFU2amtzdm9oSzZBRExBNFQxZEVPM0hNNHRrdXFsRGl6cnlkSktyZllqaUtxdkl2LVVQaUtXcWpyUEhKMHZuX2dfVTY0V256Wm80dTU0RkFTQkVIdWxBVGxJWHJHemdrYnRWa2M3bHhxVG9ORC0?oc=5",
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "source": "Ars Technica",
+    "published": "Mon, 16 Nov 2026 22:58:27 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A robotics startup backed by Eric Trump has missed payroll and faces potential collapse, marking a setback for the military robotics sector.",
+    "companies": [
+      "Eric Trump-backed robo-soldier startup"
+    ],
+    "people": [
+      "Eric Trump"
+    ],
+    "themes": [
+      "military robotics",
+      "physical AI",
+      "startup failure"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2tpMGdtXzNMRndYX3lGRHBmOUV5ZFVwdUJnYlVvY1lIQi16MFM2dlRRS2JMRS1vVHJCeWRpQ1RKSG80dnBrM2ktUU01S2I1RU9CWVNGN2JLek9VbklReWlhZFM0UTFmSDZKd1dYdW85dmpmWFlaZ2ZrNWl4Q3BEYQ?oc=5",
+    "title": "AI Finds 28 Zero-Day Flaws In Physical Robotics Software",
+    "source": "IEEE Spectrum",
+    "published": "Mon, 16 Nov 2026 10:02:36 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "An AI system discovered 28 zero-day vulnerabilities in robotics software, exposing a critical security gap in the physical AI ecosystem.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics security",
+      "vulnerability research",
+      "physical AI",
+      "zero-day exploits"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUxTRkJqMmlWcDA5UXdVRUkwemZSZ3AyTlFObVlEN0lUcG1CaG90V1JMNnl1U2Rubm1xWXdMVDhUalBiN2RuUk9LQl9LWnZreWZlNXpydFJOeUgwazFTbElPMHR0V1N2YzRCby1WSnpIZnd6VWRVUWs2dHFmUDB3dlhqTC1vN0VQUWo4OUFXUWZQTFM2eFlFVnl5X09YTUJjX19KQzY0R1lYWno5bnY0cVA5RE5sX1pHcGU5MU55Z3VHazQ?oc=5",
+    "title": "LG Electronics Partners With Korean Robotics Group to Develop Humanoid Safety Standards",
+    "source": "AI Insider",
+    "published": "Mon, 16 Nov 2026 09:48:14 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "LG Electronics and a Korean robotics group are collaborating to establish safety standards for humanoid robots.",
+    "companies": [
+      "LG Electronics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "safety standards",
+      "robotics"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGlVdTJJUzJVbkFKbnVUZExNNlBTU3B1dWw4eVdEYVBvdFFIVEotQ0hnSUwxQVFObWlfdmpwX2RNMDVkVzkyN2E1eWZEbllzU19udHFwdzQ4aWdCV0xONk9jbzNpaUVoNUdEZzhiRVRYVnFaVFZfbFRya1p2dFlxTERHVGFYc1FxSGFhcHpidTNCM1FwRTJIUEpDekgteGNabHVpRFcyYXFFQXhJYjdhMw?oc=5",
+    "title": "Inside the Chinese factory building humanoid robots for the world",
+    "source": "WKMG",
+    "published": "Sun, 15 Nov 2026 21:12:25 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "A WKMG feature tours a Chinese humanoid-robot factory without naming the company, the specific products, or any concrete metrics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "China"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVhZSWdhY1ctaW9XSUgtREVNbGl1Y3UtcU5hMWN6TC1icnRxZk1OWnlfZ210SUFiZ1NSbWh4b1ViUTlpMDhFYzBzUkVoWk9FdWVGZ3JFUWZVeWgzZEE4ZDItSHhBN0hNWWk4ZXE5Y2NkY1pkd2NDRi1HZ0pxTjRSaExZSjlvZVBtZWliLUU1ZkM0TldTVklHeVBrLU1lLXcwQnc1VW9PcXdOOGRoZjVZZV9MSF9wT3d6?oc=5",
+    "title": "GXO and Apptronik plan rollout of up to 1,000 humanoid robots",
+    "source": "Robotics & Automation News",
+    "published": "Mon, 16 Nov 2026 13:03:18 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "GXO and Apptronik plan to deploy up to 1,000 humanoid robots across logistics warehouses, betting that general-purpose machines can finally move boxes faster than humans can complain about it.",
+    "companies": [
+      "GXO",
+      "Apptronik"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "logistics",
+      "warehouse automation",
+      "robot deployment"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUQjhrbFE4MXpGczFZcmc2QmhPWUZrdkRGYlFmTzFuUlJMUUhTSWlzbXBuTTROVHNNNHNhVmFjMVJNWDBJZlo2dWhNeDNJdXM2X2VIZUZnY1B3dk9XaVI4MGxR?oc=5",
+    "title": "From ‘Shenzhen speed’ to humanoid robots: What draws foreign visitors to China's tech hub during APEC?",
+    "source": "Global Times",
+    "published": "Mon, 16 Nov 2026 12:24:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "During APEC in Shenzhen, foreign delegates tour Chinese manufacturing and robotics facilities, with humanoid robots among the showcased technologies.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "China tech"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1MzZTZkOG9Cek5xSHhPOFBiYlVFYnVGalU1MHI1T2RGd1JRbzVWeUlpNFFvS1BBdnB0NDljZmpJX3o4d0hxN1JkVm5hRndPaGJWclBLeGYyd2h2aXVkZVNzb1MtTExjelRKZW5rVm9Tb3ZZR1dVZG5XSHRXLVdvSThZYkdBeGZva3lyUkVKYzdsdkd1V1I0Qkg5a1ZKMUVhX1RJNUVUelY?oc=5",
+    "title": "Alibaba Trims XPeng Holding as It Agrees to Back Carmaker’s Robot Unit",
+    "source": "Electric Vehicles",
+    "published": "Mon, 16 Nov 2026 16:35:00 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Alibaba is reducing its stake in XPeng while simultaneously investing in the carmaker's newly spun robotics unit, a hedged bet on physical AI hardware.",
+    "companies": [
+      "Alibaba",
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "humanoid",
+      "funding"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxONEhpR1hzMFNmaHNOTTBNSEoxczFDRTZrd29IZFczaGFET1c2UVhJYXB0R2lQR1JMZmwwOWxwQVk4VjRaMFljaW5hR2w2Y0Z1RURJbi1tQzJrQnhoOXYzb2MzN0s1dkRfRnAtb1RZdHE4UVBlVEVwUzh3dzIwRWRWYklkNnNZZVJqMERPanhQdXljMndpY185SjUtUUFLaU5EVGgwb3p3NTl1XzNQMmt0bmhucjdNeW9CWWNOT2VrSlRValM5NnVFRjdDSXdjdElDcllDaXhpNnNpdjRKYkNoTHNPeWw5R2FOV1ZjSURieTBlV0VtOWMzcFhmQXU3NkpiQ0pXVXU0SXhuRGFMZjNsVUI0NWFValFtaFhiYjRrYzlXTFBuQjg0R0FRQVZHS3FUNXA5V0VpQi1vWENja3lHbDNTZGJlU0VlOUdrUktNQXRyWEZicFBBRllsZUxTTjdITWNBRjFxNnpYejdrTExxNkpiVVhRWk9JamdNbG52VQ?oc=5",
+    "title": "Faraday Future Announces 2026 Q3 Results, with Approximately $2.3 Million in Cumulative Revenue with its FFR Acquired Robotics Business; Advances Robotaxi and AI VisiCabin Strategy; Builds Physical AI",
+    "source": "StreetInsider",
+    "published": "Mon, 16 Nov 2026 22:01:51 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Faraday Future reports $2.3 million in cumulative revenue from its acquired robotics division and is developing physical AI capabilities alongside robotaxi and cabin-AI systems.",
+    "companies": [
+      "Faraday Future",
+      "FFR"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotaxi",
+      "robotics",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzhKM3QyZVpsQU02QmE0SkMxYnNhaEpsS2RtbGcwQlQ4bWV5UUJ1N1UyMF9vcVNkQzJseFVuaFZ5ampRNmJFR2dDTnNUV3NnTWY3d2ktV1VsUkx3NFJHRHBlRlRudU5QWFo1NTA0b0htNmIyQ3JaNUM1VW1YSXFDY0laR1JlNUNQV3VlR0tESGVneHFobm01bjBZcVJ6RC1CRnhnakJpaWhWMnZUbGc?oc=5",
+    "title": "Three hospitalized following crash involving Waymo vehicles, Phoenix police say",
+    "source": "ABC15 Arizona",
+    "published": "Mon, 16 Nov 2026 19:56:30 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicles were involved in a collision in Phoenix that sent three people to the hospital, according to police.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "accident"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFJjcFRFMWVDREplQ2t6ekQtS3pPQmFYRDJIN1dSVGlqcG9mTkYzRnlhOXFQWXpubWpsRTNjV0h1SkpkblZROXlPQjlXQlFFYnhzSUV4ZHpfUjZoTlFNX0haS1VZaGRXU3I4SXBpX1VTeXFkNWdFT2ExMDFKUzNwSHlmT3RVcW05QlgxOVlXc0FrYzg1eXlMVzFrYXJyOFZBYl9IRXlwMGVGRFFvSVFnLTlxa0pGX3k0ZUh3ei1aMkVSTE15YVlGSlZTSkFrZFRNQnRaRw?oc=5",
+    "title": "2 Waymo cars involved in Phoenix crash",
+    "source": "12News",
+    "published": "Mon, 16 Nov 2026 19:39:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Two Waymo driverless cars collided with each other in Phoenix, raising questions about the safety of autonomous vehicle fleets operating in close proximity.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "collision"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlAzUlRRcDJ1cmdoX2JvZWpiQjVoM3VHeDlRRU9iS1hfUjZRZkZTY1VNVzNaWndtdjdPYWVoeHdXQ2Fnanc1d1FWdFRTN25Lc0NWbTZ6OE9ELXR0THREUzgtcUc0VzRaZlJyaF94QUlPM0RoT0t6ZTlYQmlMVFdiSFlMVVdLRUZJMWVtZWlrYUg3SmRVd0dz?oc=5",
+    "title": "Speeding Driver Slams Into Parked Waymo Fleet in Phoenix, Injuring Three",
+    "source": "AZ Family",
+    "published": "Mon, 16 Nov 2026 19:28:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Surveillance footage captured a speeding driver plowing into a cluster of Waymo robotaxis in central Phoenix, injuring three people. The crash appears to be a case of ordinary reckless driving rather than any failure of the self-driving system, but it lands amid growing public jitters about autonomous vehicles sharing the road.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "accidents",
+      "incident"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlAzUlRRcDJ1cmdoX2JvZWpiQjVoM3VHeDlRRU9iS1hfUjZRZkZTY1VNVzNaWndtdjdPYWVoeHdXQ2Fnanc1d1FWdFRTN25Lc0NWbTZ6OE9ELXR0THREUzgtcUc0VzRaZlJyaF94QUlPM0RoT0t6ZTlYQmlMVFdiSFlMVVdLRUZJMWVtZWlrYUg3SmRVd0dz?oc=5",
+        "title": "Speeding Driver Slams Into Parked Waymo Fleet in Phoenix, Injuring Three",
+        "source": "AZ Family"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEVZejZFbnM0dk1rV0trbVdzMlZpVWFUYWxyMzBKM05PN1U5T2IzMllBbXNwQ21Lb0xRVi1hNUo2OUszYTZ1WGNqZ01jVHhUS1dLbUp2NzZLUUtOaktWVlo5M29Mcjl4RUc3MEkwX3cteVppd0lSX21HVUFLa1h2Z3czby0yU043aVk5Z2p6LU9oUWZYSmRkeURzTS04dFMxZmI2STVfWmY2VkNMTjBqcDF5S215c0tiZE05VjdVVlo4RjlVcDB3?oc=5",
+        "title": "Surveillance video shows suspect speeding in Phoenix before crashing into Waymo vehicles",
+        "source": "AZ Family"
+      }
+    ],
+    "body": "<p>A speeding driver tore through a cluster of parked Waymo robotaxis in central Phoenix this week, injuring three people in a crash caught on surveillance video, according to AZ Family. The footage shows the vehicle barreling down the street before plowing into the idle self-driving cars, scattering wreckage across what is, by now, one of the most robotaxi-saturated patches of pavement in America.</p>\n\n<p>Phoenix police have not released the driver's identity or detailed the extent of the injuries, but early accounts point to a straightforward case of reckless driving rather than any glitch in Waymo's software. The cars, it appears, were simply sitting there — doing nothing more exotic than waiting for a fare or a dispatch — when they were hit.</p>\n\n<p>That distinction matters enormously, even if it's likely to get lost in the retelling. Phoenix has been Waymo's proving ground since 2020, the city where the company first convinced itself, and eventually regulators, that a car could navigate without a human hand on the wheel. Thousands of rides happen there every week. Any crash involving one of those vehicles now arrives pre-loaded with symbolism, whether or not the autonomous system had anything to do with causing it.</p>\n\n<p>The optics are the real story. Waymo and its rivals have spent years building a safety case built on statistics — fewer crashes per mile, fewer injuries, a machine that doesn't text or drink or nod off. That argument depends on public trust holding steady long enough for the data to accumulate. A viral clip of a sedan smashing into a row of white Jaguars with sensor domes does damage to that trust that no accident report can fully undo, even when the fault lies entirely with a human foot on a gas pedal.</p>\n\n<p>There's a cruel irony in a robotaxi being struck while parked and blameless, since it inverts the fear that has dogged the industry since its earliest pilots — that the robot car itself would be the reckless one. Here, the robot was the victim of exactly the kind of human behavior, speeding through a city street, that proponents of autonomous driving say their technology is meant to engineer away.</p>\n\n<p>For Waymo, which has been expanding from Phoenix into San Francisco, Los Angeles, and Austin, the incident is unlikely to slow regulatory momentum on its own. But it lands at a moment when autonomous vehicles are still fighting for a presumption of innocence in the public imagination, and when every crash scene, fairly or not, gets treated as evidence in an ongoing trial over whether these cars belong on American streets at all.</p>",
+    "slug": "speeding-driver-slams-into-parked-waymo-fleet-in-phoenix-inj-a99677"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGFhRmpvZ19mWl9zLWdFaE0tQmlwanZXcmk1RzBvY21VVEdsYWpqU0hPekk4czlpNFpsZ2NFcmtXd3lBbXphMkRwY0RwbDA2ald2ZDhVcXhleXVfV1AxLV9Dc0pFZGVHM3pEMmxzUXFqaWNTaUhORTBUeThkamtQR1UzQzA1ekMxLW9uZjZxbENJTERJVU5NRTl2OHFmUDJOYnJjNGxGaUZNYjQ?oc=5",
+    "title": "Waymo cars map Chicago while AV bill stalls",
+    "source": "Axios",
+    "published": "Mon, 16 Nov 2026 12:28:15 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo is mapping Chicago's streets even as state lawmakers stall on autonomous vehicle legislation.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "mapping",
+      "regulation"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHJsaUpubkhvQ3NfM29oeEVFZXpzR21udGI0dUpnc3JmeG14eXNHeDFxcjh5MUIzQzRuWWllNXV6SmxzQy1HQzRGeGdfc181N1hxVmUzel9ZZS1xLTNZU3R4cHRnOVFLdmJ2NmZfNzBLUnZEd20wX2Q4QkFYSkQzZFdfNjBXNVZBdWJWeHlGRQ?oc=5",
+    "title": "Tesla announces new Robotaxi services around Fort Worth",
+    "source": "TCU 360",
+    "published": "Mon, 16 Nov 2026 21:18:45 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is rolling out Robotaxi services in the Fort Worth area, expanding its autonomous ride-hailing ambitions beyond initial test markets.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJN2VmYWdkN3hKdUZyMXRCeEc2cVlKYy1LeHBvR2JzUWJ6YXNKUWRWYkhZOVVIMG81Rk5EWVlvaG84RFBSZzRYSVBBLWZLUmFuN25MdDNGTDJxQ2NETEo5WVM1MUlVd9IBa0FVX3lxTE82UEYwaElsLXBDN3YwSFJ3YWFmVkw3cXdNbWE2YWhDNE1OQmhoMy0wNmx4TTlpdnI2MWxLRnRXd2lUVkFZUTdSaWhQYTVQdnVpZ2JpMWh0WGI1ZTNzczZwMzdsd2Rmc0ZXdEpB?oc=5",
+    "title": "Waymo cars involved in Phoenix crash",
+    "source": "FOX 10 Phoenix",
+    "published": "Mon, 16 Nov 2026 19:23:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle was involved in a collision in Phoenix, adding to scrutiny of the company's safety record in its key operational city.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONkhFQ0JDRG5xNXVBRGpza2VhOWxJTmxiVE1Ea1lQbW4zX1FtQTZiaTVka01ZMXYxMjUtMllhZmt4MHp3cEJZaGlEMkRuUWZkZ0E5WHNaZUpMNE1nZ3JyZXVHSUdoQUxxVzV4OWVQXzVUUlpTMU1aTGJTVkZBbWhkRlpoSVJGTVYyUUVsS0VLNTBzdzhPeE83MjZhLS1YZjBUdms1bDQteVlqQndZY1drYldUTFdkVVFZdENMQ3RlcW5Id0p3N2tOWlg1cGQyQVBfNFRR?oc=5",
+    "title": "'Put the Brakes on Driverless Cars' Campaign Takes Over AC During League",
+    "source": "Insider NJ",
+    "published": "Mon, 16 Nov 2026 19:54:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "An anti-driverless advocacy campaign stages a billboard push in Atlantic City during a sports league event.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "activism"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEc0NlZkeG1ndjNJSkFMV0ZjQ05Dc05DdE5La3M1WVhJclNDaWhIOGp3YlJmOXM3U3F5YzI1cE9ycEZNTm9FdHgwVFVQdWQ1MS1mN0VkSVBCMFV5LVpYd2VJVHpnT2pIWGU4eG05U2V3MWIzV1UwV3k4ajVSc2hyV3JvNnJUVFVrSGZJUUxPM21WR25XQzhRdUR5Skl4dF9r?oc=5",
+    "title": "Your next Uber could arrive without a driver. I tried one",
+    "source": "USA Today",
+    "published": "Mon, 16 Nov 2026 21:33:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "USA Today reporter takes a ride in Uber's driverless vehicle and reports back on the experience.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWmNnbDJjclNWcVczTU9TRU1STENJbGg1NDQ4S05xc2pOcEVqOEZzNUZUSHdodDMtQlBIdW1TcGFBekVER0dQSUdfODY1N01rTXE5RmlCM19nSVRscFctYkM4ZVMwY0JncDNDTmd0RVJZVUszX2tzSVBpMjhPby0zRTJURFNITkNGbEJrRURiWFg1cnZhemZITGxLSGlwRTdyNFNzVWx2QTFCV2M4bDg3N1pIN0dMVUFnSmhpYXZCSFI3VlVRY1hzTjc0b2cwUG1rTFV5Z0pnM1FPQlVfN0Y2bU80TDd5N3dUeTNsZUlsQ0duRzZYTHBzNDRpWllwZ1ZmUzJ6cDN2M0FCMm4tOVV3RTBSWWVPTjgtMXc1UWFCRFJsUFNvR2F1NjVMVQ?oc=5",
+    "title": "Waymo hits roadblock in DC as Virginia expansion looms",
+    "source": "WJLA",
+    "published": "Mon, 16 Nov 2026 09:05:39 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo faces regulatory hurdles in Washington, D.C. as it prepares to expand driverless operations into Virginia.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFoyOS04VnY3a0c5OHBCQ05wZmphZVJWQzhuaTYzOHd2UXZLSXJPSUp3Qm8xM2Z5R0x0VUpSbFo3R2xST0R0bjVNSm1RYXkwdnV6WFFGdkRrSXpUWmZLZi1CTjRWM0N5TEs5bk9uQ08zNkYxV3RfdXZpcVBPRGkwOVRSY1BOakprNlBGdHVsZ0doR3U3YzA0TS0zZkhyV0U?oc=5",
+    "title": "Zoox robotaxi rides now bookable via Uber app",
+    "source": "Las Vegas Review-Journal",
+    "published": "Mon, 16 Nov 2026 18:05:16 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Zoox's autonomous vehicles are now bookable through Uber's app, expanding the Amazon-owned robotaxi service's reach in Las Vegas.",
+    "companies": [
+      "Zoox",
+      "Uber",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGpaNkh4X2xmVjFwSC1jZFloTGYyQlFhUDBBUWxkTWNyVy13ZTRVY2J5N3FwaEpnOE9MWHFqUHBxZUNSdmJsQmZBZWdXemE5OUJ3WnVFOTlVcGM3VEhJX25KblpfaWd6UXRTano4bTZCRFRSMzFxUHNXZGFzMldwWm10WWhfSGZYTENQN202VlR3QURWT0lWTWhLUzlzQQ?oc=5",
+    "title": "Tesla May Let Model Y Owners Join Robotaxi Network in December",
+    "source": "BASENOR - Tesla Accessories",
+    "published": "Mon, 16 Nov 2026 23:04:56 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla is preparing to let Model Y owners enroll their vehicles in its robotaxi network starting in December, expanding its autonomous fleet beyond company-owned cars.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTE1jZE54bjloV093X0d2eGE0QzdETFd3SWhzaTA2WTE0SjQyMzdQQk9XdFNrS240cE8tSmo5X3hzZHg4TjA1UTFENURRUVBtai03WWItZnd6Q3lYSzBZT0cyeXdNY0F0TXBoMHpGOEU0LWdyRFIweVBaWDdGMFZ0d1czdzI5b3dtOWtHRGVCZDNvX0lWYUtmeExqemg0aXd2T3VBeXNxRVdyMjVrMUlQMmFiOEcwOThCYXRpRUJpV2dHSGtYVFc0U05KMFo5VWZr0gHkAUFVX3lxTFBtSk9rSTlMQ3FTcGdPamNiYVg1bGt2RUxhYkF0WFctbnltWmU3b0lLMXFUTF94UFAwTnF3UGRPWW1qblVackhJV2hoVklOaEY3b0QwdTlYOU0tU1d3THd5dHVmc3poZ2Iwa09UNFhUUXhfRUk4clVzY0VYcUIzRF9Id1dpbm9GY3FuWGYyZTlrZmo4M25NS3pLUXZ3UWYtSWhlN1lZbFNiU0xJb1hsMVo1WDNGb3pITHdVRUQ5eURmYTBtdU5ERklhcGtybFp3cDFlQ0hsOVg2eEFJQjl3Ni1HQW1WNw?oc=5",
+    "title": "New robotaxi rolls out in Atlanta but not all riders are welcome just yet",
+    "source": "WSB-TV",
+    "published": "Mon, 16 Nov 2026 18:40:41 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "A robotaxi service has begun operating in Atlanta with initial restrictions on which riders it will accept.",
+    "companies": [
+      "robotaxi service"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "deployment"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHhiYlZIdDR0Y3JuMWd5bVEwZGZaMkhBeGpUU3lfUjZUSUVUWGZHTXIzT2V2Q1lQMFZCeTRHMUNqRUw5RGJnUkVMQ3FJZFZfSHNfVnJlQUhFUG40TXNsZTg1b1ZEdDc5N0N1ZTJOMmNpVkx1YjB2TERQcVRoblNLQ3ctTVcxcnc5Y2Nyb1hkejMyMFhCUE0xQzRBNEI5T0JraXAw0gG3AUFVX3lxTE9QY01hVzdUbDQ1V2U4MmdlTlFKd3BxbjBwVTBEaGtaZXJYWU9NYVVVUTgzdk11STJtSk0zNmMxR1h5Rl85MHB4QVN5c3lsdmtFX1lMUmhZWUxaV2JpU0FBMmczakxLeUVCZG90UEFyVFJxYVM2eTJKd1RsZFdCckdKbXNVeUNoVTNoSkkxX1VYV0pnV2xyQi1QaEdWVjlhT3pIaFROX2VPMS05TjFOYzROaUpPUjFDYw?oc=5",
+    "title": "Police suspect speeding in Phoenix crash involving 2 Waymo vehicles",
+    "source": "AZ Family",
+    "published": "Mon, 16 Nov 2026 18:41:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's autonomous vehicles were involved in a speeding-related collision in Phoenix, marking another high-profile incident for the driverless operator.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMG9DdEI5WFNzWHVna3hBTGE4dEpQVGJnRERoaXgxSEdVbl8zZkFYTWVPazd2cW9sby1HSGZRZFA3djlfeThROFE2U3RSaUNpdnhYZXZFcm81NDNIbFUweEU3bTFiX0N2NXZvS2pBS1NZUmN4RG1Zd0xlVnhheXNFR3pVTF85UXVF?oc=5",
+    "title": "Crash involving Waymo cars in Phoenix injures 3: PD",
+    "source": "FOX 10 Phoenix",
+    "published": "Mon, 16 Nov 2026 21:42:04 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Three people were injured in a crash involving Waymo vehicles in Phoenix, marking a significant incident for the driverless-taxi operator.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQam9WRnIyTlY5aDIzVkhNanVrQ0h1YUZUZlJZTkxEY2swZFVMQ1hMdWU3ZlVkWGlmTFl5UzYzVmNwam5XdndzZ1NVenFaa0FmWHdRc2hrUGNnaGtuQjdSN1ZjaVZwU01JOGhIYUN4YTZOalpqbDdKMVBYVDd2NzBrNlhnT01SV3ZxRGpXN0M2Sjh0cGhBNWFHOWxpeVpLSzBOUldvNHN2ME81NHc4eGwxZFc0TUFDckNTdExJWFFMLXBnZmRlX19sQU03WnduWnExUndNdGRuamNmSkVQQUlNTkl6elNUdw?oc=5",
+    "title": "Amazon's robotaxis now driving in Atlanta. What to know about vehicles",
+    "source": "USA Today",
+    "published": "Mon, 16 Nov 2026 18:11:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Amazon's Zoox robotaxis have begun commercial operations in Atlanta, expanding the company's autonomous vehicle footprint beyond San Francisco and Las Vegas.",
+    "companies": [
+      "Amazon",
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxis",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEVZejZFbnM0dk1rV0trbVdzMlZpVWFUYWxyMzBKM05PN1U5T2IzMllBbXNwQ21Lb0xRVi1hNUo2OUszYTZ1WGNqZ01jVHhUS1dLbUp2NzZLUUtOaktWVlo5M29Mcjl4RUc3MEkwX3cteVppd0lSX21HVUFLa1h2Z3czby0yU043aVk5Z2p6LU9oUWZYSmRkeURzTS04dFMxZmI2STVfWmY2VkNMTjBqcDF5S215c0tiZE05VjdVVlo4RjlVcDB3?oc=5",
+    "title": "Surveillance video shows suspect speeding in Phoenix before crashing into Waymo vehicles",
+    "source": "AZ Family",
+    "published": "Mon, 16 Nov 2026 22:42:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A speeding driver in Phoenix crashed into Waymo vehicles, an incident captured on surveillance video but unrelated to autonomous driving operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "incident"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXdqaVIzMmoxQXdXNG9EZWtCMnpSNTB4Z1duZEEzUGt2N2p1SUZpc1IzNTJKb2VwUVIxZVBDTFNfU1hSNVdFT0JuN25zOHdCc1J6YUgyUTV1LXV6ZjRpcnk2YVpQS0RmMTZsSk1hamVNbUp3cjVjWWQzQ041SG5OZnZuLUVubzFqa1Uyb2lqZEEtZTA2QmdQLVptNkt4UlRXRi1KS01sV1BIaFF4Vk15WE9WcU53Zw?oc=5",
+    "title": "Uber Leans Into Driverless Rides, Starting With Zoox in Las Vegas",
+    "source": "Bloomberg.com",
+    "published": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber is making its driverless ambitions tangible: the company has begun offering rides in Amazon's Zoox robotaxi in Las Vegas, the first time the custom-built vehicle has operated commercially outside Amazon's own control. A USA Today reporter took one of these driverless Ubers for a spin and lived to file a dispatch, suggesting the company is keen to normalize the experience for riders who've mostly just heard about it.",
+    "companies": [
+      "Uber",
+      "Amazon",
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "ride-hailing"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXdqaVIzMmoxQXdXNG9EZWtCMnpSNTB4Z1duZEEzUGt2N2p1SUZpc1IzNTJKb2VwUVIxZVBDTFNfU1hSNVdFT0JuN25zOHdCc1J6YUgyUTV1LXV6ZjRpcnk2YVpQS0RmMTZsSk1hamVNbUp3cjVjWWQzQ041SG5OZnZuLUVubzFqa1Uyb2lqZEEtZTA2QmdQLVptNkt4UlRXRi1KS01sV1BIaFF4Vk15WE9WcU53Zw?oc=5",
+        "title": "Uber Leans Into Driverless Rides, Starting With Zoox in Las Vegas",
+        "source": "Bloomberg.com"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEc0NlZkeG1ndjNJSkFMV0ZjQ05Dc05DdE5La3M1WVhJclNDaWhIOGp3YlJmOXM3U3F5YzI1cE9ycEZNTm9FdHgwVFVQdWQ1MS1mN0VkSVBCMFV5LVpYd2VJVHpnT2pIWGU4eG05U2V3MWIzV1UwV3k4ajVSc2hyV3JvNnJUVFVrSGZJUUxPM21WR25XQzhRdUR5Skl4dF9r?oc=5",
+        "title": "Your next Uber could arrive without a driver. I tried one",
+        "source": "USA Today"
+      }
+    ],
+    "body": "<p>Uber began offering rides this week in Amazon’s Zoox robotaxi in Las Vegas, the first time the boxy, windowless-looking vehicle has carried paying passengers outside Amazon’s own supervision. The arrangement, confirmed by Bloomberg, threads Zoox’s hardware through Uber’s app, meaning a rider summoning a car on the Strip might now find something with no steering wheel pulling up at the curb. A reporter for USA Today took one of the rides and, in the time-honored tradition of journalists testing the future, lived to describe it — a bit bemused, mostly reassured, the ordinary texture of a cab ride rendered faintly uncanny by the absence of anyone up front to blame for the traffic.</p>\n\n<p>The Las Vegas launch is small in scale but large in symbolism. Zoox, which Amazon bought in 2020 for more than a billion dollars, has spent years building a vehicle from scratch — no pedals, seats facing each other, designed for a world where nobody drives. Until now, it has mostly ferried Amazon employees and invited guests in closed pilots. Routing it through Uber's app changes the calculus: instead of asking people to seek out a novelty, Uber is quietly inserting autonomy into an app already on thirty million phones, letting the habit of hailing a ride do the work of acclimating people to a car with nobody in it.</p>\n\n<p>That matters because the real obstacle to robotaxis has never been purely technical. Waymo, Cruise, and now Zoox have all demonstrated that the driving itself is largely solvable in constrained geographies. The harder problem is psychological and commercial: convincing millions of ordinary riders, not just tech reporters and investors, that an empty driver’s seat is unremarkable, and building the fleet logistics to make that convenience available at the scale Uber already operates at. By becoming the distribution layer for Zoox — as it has for Waymo in Phoenix and Austin — Uber is positioning itself not as a company racing to build its own self-driving car, but as the marketplace that decides which robots get hailed, a far less capital-intensive bet than the one it abandoned when it sold its own self-driving unit in 2020.</p>\n\n<p>For the robotics industry, the deal is a reminder that the economics of autonomy are consolidating around partnerships rather than vertical empires. For riders in Las Vegas, and eventually other cities, it means the strange becoming mundane a little faster: a car that drives itself, summoned the same way you’d summon any other, its novelty wearing off somewhere between the casino and the airport.</p>",
+    "slug": "uber-leans-into-driverless-rides-starting-with-zoox-in-las-v-5407e1"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUR4OEd2alRDanhHT1kwcEpkeTd5SmNONkVTaUYwMmJHNktOTkJRTE9sLXJFYWxNRlRjX3BTYWdYeHZxb0VOYk1NUnVJZ0Qzb0Jpa0gzZUwyZXdVQnlHdW1ESzdkNFQ5eVZ3dzBIZVVkTzZXeklqQm1VUjFyMWhDV2tPcmhxZEpBU0w3TXYwUFJVdHB5UktxTmlPSmR2SV9uLTFaR2Znam53SEZl?oc=5",
+    "title": "Elderly people are buying Teslas for the ‘full self-driving.’ This is a problem",
+    "source": "Fast Company",
+    "published": "Mon, 16 Nov 2026 13:10:37 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla's Full Self-Driving marketing is luring elderly buyers who may misunderstand the technology's actual capabilities.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUFobkU2TU9zNHFBc2ZDd3NvR0ZQd2FvMnJiRWVsMGhXRkl6YTVIN3dYaUsxRWtRb01NMml6RHZLbEFjLS1HcExnVjdna0F6VXhFTTZlWkM1aFBhOVJsRVdaRnZZVEpIa0lrcmNmWS1Sa0d2RWUwNkZvR2hmME5XRVRaN1RsY21ubG5rN2QwNnZmUkdNbWhJNDJR?oc=5",
+    "title": "Why self-driving cars are still coming, even if customers don't want them",
+    "source": "Yahoo Autos",
+    "published": "Mon, 16 Nov 2026 16:37:28 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Yahoo Autos examines why the autonomous vehicle industry persists despite consumer skepticism about driverless technology.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "consumer sentiment",
+      "adoption"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQTBOamZkYUFVcFVEWjU2TlItRWZCbFRuMzdWYW53cWtFcjFUUEc2MXdIcGQwSzNUNDI1S25SVEM1V2JCLVRTUXU1anJIQ1VLZUozVjFFQzFqNXllSC15c1FWSWE4eGlpbzFVRUFDamYxeDUtMjBQRnZUeTg3WTh6eUlwWTh1YVpuUUVtU1dwbjZHVnlDaFh3QXV3QVAweXNUaklBZUM0ZUtheW9BNHJueDFsbDJsU09fR25YaFNxRG1uTlN5WWNDclVUWlF0dDRqSW1hZ1Z2a3JnWWNVVEVZUg?oc=5",
+    "title": "Phoenix police give update on crash involving Waymo vehicles",
+    "source": "12News",
+    "published": "Mon, 16 Nov 2026 21:54:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Phoenix police update on a crash involving Waymo vehicles, adding to the growing record of autonomous-vehicle incidents in real-world conditions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd1Ytb0RISy1CVW04SDhPWi12dWhVVGg3dFR4RXhyRHpYX3hUOEpnblp3R2k0X0syVHdoZUVMYlF3V0V2eXdZR1FLbFJqRzF5am5EMHV6bVFSUjZsc3VLQTJRbHltYmk1cm11MjBaRndPaXliTmg4UFJDTEs4Wmw2VFU3S0FHWFZzMUV6eFNBNGc1UHB5eFJkOUFrbw?oc=5",
+    "title": "Musk Says Owner Robotaxi Trials May Start in December",
+    "source": "The Defiant",
+    "published": "Mon, 16 Nov 2026 23:26:09 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Elon Musk says Tesla's owner-operator robotaxi trials could begin in December, pushing the timeline for autonomous vehicle testing.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvS0FnY0pkTnVRdnJxZXV5bTlFMlR5aGtEa1paVktXTC1qSk9EZG45NXM3MXV5N1RtaU94dXdsZE9jZzVLNEQzR3VKMlk3VnZYRjB0aURScVBrSzd1SFNjNGNQNXFneTJSa3duLU9namJXb3JT?oc=5",
+    "title": "Drone Maker ZenaTech Launches ZenaStudios",
+    "source": "Animation World Network",
+    "published": "Mon, 16 Nov 2026 22:52:03 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaTech launched ZenaStudios, a new platform for drone-based creative content production.",
+    "companies": [
+      "ZenaTech"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "content creation",
+      "platform launch"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVl6cUZ6V2c4S09BTjRldXpJeWxmRkFyR2lpNHdHWTl6bHVzNk83QmVkUlYtMmlSTk1GbG82R3BveVpaUERXOEJYQ2owNHdhYnFDb3Z0TkJRUFRMcnVlV2pmaXNRZ3RvY0Q0VGVXMnNERUZjMjdneDZMZjNQZXM3QUVVdzh4bzV2b09rRE04RV9WcUFubGNkM2hMMkRRMmY1U0x1MnpGN1pNT016Y1Jr0gG0AUFVX3lxTFBLMzZUWkNXb2RGTXZ1bnBkV1hQQmNWU3BST3Z4eExRajAyMmZzMTU4VmtmbkdndERKWmFhT3FYNDZMZTBMdVZwaFM1NmQ5OGhvam1OczNkaGZ0dF9KU1U1aFp5a09xaWlWRjhELXhxWWhzLVJOZXBkWDVvV3dCTXdCSXpOOGJKV1pyelpiYmd5MUJHVWwxejdFWUxNMmU3bzJHaUJYbUhwLVJKMzlzV0RhYUZxbA?oc=5",
+    "title": "UN to debate rules for ‘killer robots’ as world shifts towards autonomous weapons",
+    "source": "The Times of Israel",
+    "published": "Mon, 16 Nov 2026 08:04:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The United Nations is convening debates on autonomous weapons regulation as global military development accelerates toward lethal drone systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "drones",
+      "military",
+      "regulation"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUtNUDJnOEhDRkotWmRoVW1oMjIwbXlIMlBmdDhqVzg3eXhGT2FuSll6ZUpRcm9UcFBSRUswWEx2X0EzRjJfZUhqOGN2MWtEX0FtWHgzX3dSSERLTUZhVW0xUVZSck1wUVBQcDMtWVd4bXdZektseUlhWVU3NGdzLTVDUmNJSWdpTUZ6ZzNYTUdyY2JRbG94NzNn?oc=5",
+    "title": "China Flies W5000 Cargo Drone, Claiming World’s Largest Autonomous Payload",
+    "source": "The SOFX Report",
+    "published": "Mon, 16 Nov 2026 04:19:26 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "China's W5000 cargo drone, built by an unnamed manufacturer, claims a world record for autonomous payload capacity.",
+    "companies": [
+      "W5000"
+    ],
+    "people": [],
+    "themes": [
+      "cargo drone",
+      "autonomous",
+      "payload capacity"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmFnNllJVE1RcTlrT3hzdjVPeXZ0VkZUbVdxamJyOUM4bFB4Qk5QRVU5THg5bGZBa25kSEhuTkxxdEtsX2ZNV09qSXptM241STVjLUhwdENPMUR0TUxFZ3pTR1J6dklCb09Cbk1vRjdnTzB1UjZaUTMwUTBCQ0dMWFZtTU0wc2p4NkpoY2h3X0JCbllxZ2pxZGl1Rms1NEFCd3fSAacBQVVfeXFMTnM0TURXc3RhNTFxZk1hYzNLMXVTdEJRRVkwak9EUlNPR0dROTVkODJ0dUU2a044ZE1FN21uNGdxQ3htRDdiVGxfXzczNUtUZ2VzSm81VjdCcHhFWEVkaHY5b1N1WlZtQTVJdGNXUEJjem1zZVItbDdidG9JempGT1h1OF9sVVJiOTRvVFRLYWFLalJFVzdvZkM1RjdaNDQyRDl3VGRVWGc?oc=5",
+    "title": "Drone System for Emergency Response to Be Launched in Minsk on a Trial Basis",
+    "source": "REFORM.news",
+    "published": "Mon, 16 Nov 2026 15:21:20 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Minsk will begin a trial deployment of a drone system designed for emergency response operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "emergency response",
+      "drone deployment",
+      "public safety"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YSmhudWZSQTR5QkhEV0d0SVBIcVBEOEZrQTFITTJLNmF5TTJVcnZuckNmYXQwVEg1VHNPOVJ2RkZ5VF9XMU5vUnRhQ1JRRjNVX1FocFNLbGlxQ1JOdUhIQmh6Yw?oc=5",
+    "title": "From rifles to drones: Is the IDF ready for the next weapons revolution? - opinion",
+    "source": "The Jerusalem Post",
+    "published": "Sun, 15 Nov 2026 06:20:33 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The Jerusalem Post considers whether the Israeli Defense Force is adequately prepared for a shift toward drone-centric warfare.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "military",
+      "weapons"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oQTlUVWNJOGlMTmVIQUJvVGpYemd2cklvWkRzS242Y1JGTHVMdUkyaFIwUEhDUUpnZDdsNTlKWmJubnhwTzhRc2tBbU9IUVZTSW85Sml3MFF2c0xPT2poYnV5Tll5bkFLWlZycTlHejBvYnZWaHhjWFZ6TQ?oc=5",
+    "title": "UN to debate rules for ‘killer robots’",
+    "source": "The Straits Times",
+    "published": "Mon, 16 Nov 2026 02:30:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "The United Nations will convene talks to establish international rules governing autonomous weapons systems.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "killer robots",
+      "international regulation",
+      "UN policy"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemdjdUI4TFpURElzOTZfbW51VzhoN003ZEF1WWwzaTRUdzB1MEJzcnNPVWdEV090X3pIbnB0dS1vUFFuSGZQUS1ydVJCYUhxOXBlalNIWWdWVkNtZENvX2JsZ1hUa0ZoMTNCaVVWN3lmblhNMzctM1JTYm4xMXZtbDNQZ1FXbWJDdHd6aE9VbGh4X1BGdWtUVA?oc=5",
+    "title": "Uruguay's Ministry of Interior Deploys Autonomous Drone Program with FlytBase",
+    "source": "Commercial UAV News",
+    "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uruguay's Ministry of Interior has deployed FlytBase's autonomous drone platform for security operations, marking the first government rollout of the company's flight-management software in Latin America.",
+    "companies": [
+      "FlytBase",
+      "Uruguay Ministry of Interior"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "government deployment",
+      "drone operations platform",
+      "Latin America"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://draganfly.com/press-release/draganfly-signs-exclusive-agreement-to-provide-drone-manufacturing-in-the-philippines/",
+    "title": "Draganfly Signs Exclusive Agreement to Provide Drone Manufacturing in the Philippines",
+    "source": "Draganfly",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Draganfly signs an exclusive manufacturing agreement with the Philippine holding company Prime Strategic Holdings to build drones locally for disaster response and industrial operations.",
+    "companies": [
+      "Draganfly",
+      "Prime Strategic Holdings",
+      "Razon Group of Companies"
+    ],
+    "people": [],
+    "themes": [
+      "drone manufacturing",
+      "public safety",
+      "disaster response",
+      "infrastructure",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-11-16T23:37:42",
+    "week": "2026-W47",
     "why": null,
     "duplicate": false,
     "folded": false,
