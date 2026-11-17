@@ -113189,7 +113189,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -113396,7 +113396,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -113607,7 +113607,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -113662,7 +113662,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -113879,7 +113879,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -113929,7 +113929,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -114063,7 +114063,7 @@
     "first_seen": "2026-11-10T21:10:12",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -114147,7 +114147,7 @@
     "first_seen": "2026-11-11T21:42:50",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -114816,7 +114816,7 @@
     "first_seen": "2026-11-11T21:42:50",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -115722,7 +115722,7 @@
     "first_seen": "2026-11-12T21:42:14",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -116755,7 +116755,7 @@
     "first_seen": "2026-11-13T21:09:11",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -116939,7 +116939,7 @@
     "first_seen": "2026-11-13T21:09:11",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -117300,7 +117300,7 @@
     "first_seen": "2026-11-13T21:09:11",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -117538,7 +117538,7 @@
     "first_seen": "2026-11-13T21:09:11",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -118935,7 +118935,7 @@
     "first_seen": "2026-11-16T23:37:42",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -119181,7 +119181,7 @@
     "first_seen": "2026-11-16T23:37:42",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -119312,7 +119312,7 @@
     "first_seen": "2026-11-16T23:37:42",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -119666,6 +119666,1510 @@
     "week": "2026-W47",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84MFd6V2FEVkxJbTNsaklrRGdtWUtvT25adDRWN2NhM3BxZ0xNUkg4ZG9TUDlVa1dNWnJFdk5Rbkt6NHUxaXAxSFJtanJ4MG5FbGVRX1d6dklRNGprVlBlQlFFUG5LcldwdmRidVo5N1FvVnMxcm1FZQ?oc=5",
+    "title": "Nvidia-backed Genesis AI raised $500 million for its humanoid robot at a $3.5 billion valuation",
+    "source": "Quartz",
+    "published": "Tue, 17 Nov 2026 16:25:08 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Genesis AI, backed by Nvidia, raised $500 million at a $3.5 billion valuation to build humanoid robots for manufacturing and logistics.",
+    "companies": [
+      "Genesis AI",
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTRNdjY3dzFkQlVNeXdNSXpjMTM4UGRxYUJWaHN5dng2Qkk1ZHkwZWNVMmhWSlFBVi1HMzdkQ3RYdzlOVVRKRkpqdlZuU1VTWGxVNmlCSHdrWWtHcnRBYVdsTzItYUpSQWQxTGtUTkMweFdUZEJzQUM4LUtXTU1Zd1pXV1RWRXRJMWtRY0wzWlJOQUJaNktKempERQ?oc=5",
+    "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
+    "source": "The Robot Report",
+    "published": "Tue, 17 Nov 2026 15:32:33 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics deployed Atlas, its humanoid robot, in its first commercial trial outside the automotive sector, signaling expansion beyond manufacturing.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment",
+      "manufacturing"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PYlZ5SHNndEhfTFdvM2lKeDN6Nlpnb292Sl9IMERtWmEwLWE5TTNJdGFtbE5rY0xxZWxKeEh1Y1d4Nm1zTjNtWEZNeUR5N3NPMUZoLU8tUnJ5R3dLRGlfYjl6cXNONEE?oc=5",
+    "title": "LG Electronics Seeks Pilot Safety Certification for CLOiD Humanoid Robot",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "published": "Tue, 17 Nov 2026 08:59:13 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "LG Electronics is pursuing pilot safety certification for CLOiD, its humanoid robot, moving toward commercial deployment.",
+    "companies": [
+      "LG Electronics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "safety certification",
+      "robotics"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR01ZVXF1V0xuRWpOR0VWS0ZyVDU3bzlnanVobFhXdDNLN3ZPWW9sazRhaU5NVlgtZGNhakNjWFhVNDNEbmgtMDRlVGNqSW1iVWR4NzVGR0xwUFRINk1wZUJDU0dPdHktSUFqRXdqNXZrZ29FQ1l6bDRqM0tvRDBSbjVybnBwN3E1bDRn?oc=5",
+    "title": "Four-foot humanoid robot learns to collect floor eggs for cage-free US poultry farms",
+    "source": "Interesting Engineering",
+    "published": "Tue, 17 Nov 2026 10:02:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "A four-foot humanoid robot has learned to collect eggs from cage-free poultry farms, suggesting physical AI's first real application may be in animal husbandry.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "agricultural automation"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHhyRC1XRF9xXzdGcUtGZWtOVDdnT01na21ranFlSE1LcnNCVU9PZWltd21oaVpmblZ2djduZzdDNlJIeG93U2ZaM0xmYWd1TkhPRXplek0zRHdOM3BhclhLdXlkVzJGclZ6UmdqYmJKU1Q5aU5ZOXA1c3ZwSktERGlIQW1BNGR0aXE4Nzh6SkdWcEswUVQzOUtPdi04Njg2VHY4ZmswNA?oc=5",
+    "title": "Genesis AI raises $500M to deploy glove-wearing robots",
+    "source": "TechCrunch",
+    "published": "Tue, 17 Nov 2026 14:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Genesis AI closes a $500M funding round to scale deployment of its dexterous robotic hands that wear standard work gloves.",
+    "companies": [
+      "Genesis AI"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "dexterous manipulation",
+      "robot deployment"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUE0MjlmS1NKNmVkTUJ0WG81NzJUa3l5aGhBNjhkNGM0bFVQRjZSU2RIdm11OHpJbHpEVl9FLTlpS2tSdVNocEJEd2NKNU5GM284cnZxcDRBQkFaYmc2ZDRtRVk4Q2FaU0d5ZnZjWGNmNjFBbzcxcGtQZzlLenBIdVY0a21nMmVkX3RqSmVmNWl0MlZXX29JUWhR?oc=5",
+    "title": "GlobalFoundries to test using humanoid robots at its semiconductor fabs",
+    "source": "The Business Journals",
+    "published": "Tue, 17 Nov 2026 21:19:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "GlobalFoundries will pilot humanoid robots on its semiconductor manufacturing floors, marking a rare deployment of physical AI in one of the industry's most demanding environments.",
+    "companies": [
+      "GlobalFoundries"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "semiconductor",
+      "robotics deployment"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjcxN18tQWlqLXBLWmJRRUpQVmprZ21zbUthbU5GVkVlNGUxc1BTV0wzRmNrMnRzUm1YMU5YNG82dnlCRUN4b09GcG1TUnhtYWdNV25ic01jNDRlRWRqeEdjaldNc3NGWEVlMW1oSUhIRVFKQVBrSjlxclpaeGNoUloxeFlZVTNqbHp3SlhTbFlvaHRaQi1lelgyMVpWM1FldzFiaDZB?oc=5",
+    "title": "Abu Dhabi investment firm Lunate unveils humanoid robotics UCITS ETF",
+    "source": "ETF Stream",
+    "published": "Tue, 17 Nov 2026 09:42:58 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Lunate, an Abu Dhabi investment firm, launched a UCITS ETF focused on humanoid robotics companies.",
+    "companies": [
+      "Lunate"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "ETF"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSWhEbTVCeHZTN1dJUWpzcFRWa0IyWWhYRDZadWZHM0U5dGp5NmdxNGVZSXEwT3FQM2VwQzQyTmJ4ZjJtT0ZaejV6SG4yRDdhVm5mY0UxcWR3UWdzWVFGdHNPUU9fdlVRYWFyMFM2Nk1pX1h5Rk5ibExkdWtFN2UyWHQ2RDdzaEFjRGJHa0Q4VHRhQnpCSThhckZ5RldwMmNUUEtpTHFtS2ZRRkpYTEdONg?oc=5",
+    "title": "Melexis launches fingertip modules for humanoid robots",
+    "source": "Electronics Weekly",
+    "published": "Tue, 17 Nov 2026 06:14:23 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Melexis released fingertip sensor modules designed to give humanoid robots tactile feedback at the gripper.",
+    "companies": [
+      "Melexis"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "tactile sensing",
+      "robotic gripper"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBNdW5UN3BOQ3FDdjVhdm5EbWFUaUFBWjdQSEhiYml2TWl1Uk01Yy1jdlVqbmF6WEdMejFvWWhEOXByZ09ic0hXLVFLMjdyQkxrQnBWclNPZHhwNFhaLW9EZGttcjEwRHQ2VjdBcGVVWHhXVjZzWVVoZHcxT0FaVS1sN2o?oc=5",
+    "title": "China’s robot makers have more to offer than viral backflip videos",
+    "source": "Financial Times",
+    "published": "Tue, 17 Nov 2026 05:01:03 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Financial Times argues China's robotics industry deserves serious attention beyond the spectacle of acrobatic demonstrations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "physical AI",
+      "China",
+      "manufacturing"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQU9fcU9zRzdwczE0QUdLeUQxYkhlREl5Y21PWlVsb2pMc1NGM09FTXFaYXFYTlJkMGZVeFY4QmxNSWFwRVduT09WdGVPUXFjbW85MWpsaU8wSWFqY2tGVGRvbTE3ZmxBbGVfMzVYclVtY2l0aTFDQUlCbEg3SzVyMHNjeG5WRHB5VU9sN0JIRk1KZ1MxeGc?oc=5",
+    "title": "NC State’s Four-Foot Humanoid Robot Built to Collect Floor Eggs",
+    "source": "Gadget Review",
+    "published": "Tue, 17 Nov 2026 18:44:29 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "NC State engineers built a four-foot humanoid robot capable of collecting eggs from a floor, demonstrating a practical application of physical manipulation in robotics.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manipulation",
+      "robotics research"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2ZRY21NZnVuQXFSbFdTWV9QVTYwblJBRkh2LWxNSnB6eUM3XzhFWjVYMlNFVEZTWW43OGp2SFpwM21zLTBMSHJBMDNweThyT0tCM2Q4amRvMU1fMzJxX3NlUEdqOHRmTDJ4SU5OcTc3bjdEUzBoLXRKa29MOUlCek1aQXJHc0NvQURfNXJiTEtxZ1N3V2cwODZYZUMxOFVLQlE3ZUVfTnFrUnltRlo0bWVXbTB0RFk?oc=5",
+    "title": "Full-Sized Humanoid Platform HART Navigates Vehicles Using Landmark Wayfinding Architecture",
+    "source": "Bioengineer.org",
+    "published": "Tue, 17 Nov 2026 19:40:31 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "HART, a full-sized humanoid platform, demonstrates autonomous vehicle navigation using landmark-based wayfinding, extending embodied AI beyond traditional robotics constraints.",
+    "companies": [
+      "HART"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "autonomous navigation",
+      "embodied AI",
+      "wayfinding"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaHNPNFduaFVsOHNpQ2NfbldNX0plMnU1ckV5SVN5TVVLdWNOU1lQb3dxR1NWWjlNQlhuR3JWRi12NjdvUHQ2QkFnUjZLM1RHdnpfeW9MOVpfZThSRmFxcEYyS1RweENWUTBuVE5RbUJvQkpIVTkwV2hjYXg1NG1tWWxCVFNscGV2alM0YUJCdEtWemd1TnRGNEtKUUlad09TYWFqYTVSUjduenJvcjE5WmJaQm80b09PRVp1cUs5UEdRMmQ5WURreXk0ck1kd2p5Y3ZjYjZB?oc=5",
+    "title": "China Physical AI Roundup: UniX AI Raises $75M Pre-A, Plus TensorWorld, UBTech Order and Huawei CloudRobo",
+    "source": "AI Insider",
+    "published": "Tue, 17 Nov 2026 10:05:00 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "UniX AI closed a $75 million pre-A round as China's physical AI sector expands with new orders and cloud robotics initiatives from UBTech and Huawei.",
+    "companies": [
+      "UniX AI",
+      "TensorWorld",
+      "UBTech",
+      "Huawei"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "robotics",
+      "funding",
+      "cloud robotics"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHVlM19HQUY1WG9YWEhiSWt5aGJQVks5M3BNYk9RNVVQUGJzaW05cVl2TnVzaGlkUS1QV3hHUjhfT0pvMTRTOWxNN1NBcGJ0Y2ZZc1k4SDBpTmtQZHhnMHYwNWFMYVY0cVo5Q1YxOGJqdlpkQ25sU2JUWTNzV0ZfLTNHbG1iSHFuTXdCNUhpVXM5bGZpSXo0aGpkM2tNZE9IVlJyUzlWbjA5VXNVUGw3Rl82ZWY1dw?oc=5",
+    "title": "CA DMV bans Waymos from operating on state freeways after Bay Area traffic incidents",
+    "source": "ABC7 Bay Area",
+    "published": "Tue, 17 Nov 2026 16:47:30 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV banned Waymo from operating on state freeways following traffic incidents in the Bay Area, marking a significant regulatory setback for the autonomous vehicle company.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YSWVyWFNUbEt3M2hnOFM5UU1DaWpwcElvazJzM3JjelFhNC1abXpVY2ptZVpmZEdtaEFkLUNDTmJ4ZENLWnpHT0tBWFp3allRVVk2MUFKS3pLclh2OEpKX0hMcHJSUTh3M0V5MHFqYXg?oc=5",
+    "title": "California DMV bans driverless Waymo vehicles from operating on state freeways",
+    "source": "CNN",
+    "published": "Tue, 17 Nov 2026 20:11:54 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV has revoked Waymo's permit to operate driverless vehicles on state freeways, restricting the company to surface streets and local roads.",
+    "companies": [
+      "Waymo",
+      "California DMV"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory",
+      "autonomous vehicles",
+      "permitting"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHQzT2FIOGFhdGNqM3N6d0NRNW9GeGw4aV81MHpBTW42SFl0ODg0YUJDV3B3R2Ftc1BBVnNBSk1ISktQbUpKWFFydjNRZ0xBel9zVkRaR3pnNk1uUlFlTkFuYUNWbUdMaThNa1FSQXV5RFUzRVhabTFmQ3E3Smt5V1lrcklYa1ZwOXR0OFRUNklxVFVZTWFzTmc4MA?oc=5",
+    "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+    "source": "WIRED",
+    "published": "Tue, 17 Nov 2026 19:38:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has suspended all highway robotaxi operations in California following a state safety directive that restricts driverless vehicles on certain roads.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory restriction"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWElvdjlrV29Pbk9DR3AwNWFjaUFtcXJWT3dHRGJ6UFFvRDNXMlA1RTY3ajExTUtSRFJRNW9WN2J1eGtMRGZ1TlZ2bXdqeUswX2pmN3NwZ0ZuLUNfZ0ZBZ3R0Y19sM1dVUFV6Wkhad29oMEVGUFJWYXVrVkpTUDlpV3ZSU0dpTXdMNFlpbmF0VFVmZ3luZ3VkOGNHMUhUV0NsTE5oLTFNUGN6UFnSAbABQVVfeXFMTXN0SVVCeWFlUTR1LXB5UmtxalN4QTRURlhZZ0Z0dlV6V3NYRDd6bmpNR1VLcUFMMG9lcXVsYV9jOTJHc0Z3RXk5cHZhX2lxSGFBUDFWZ3BEWTV0Uk1wNFpNWGFua3V1M1EyOWJKMURMeWU3ZWNoMThpQkpSd3p6YnI1V2l0R29YVmpZeE0zRXZ1dzAyWk1fRERMd2ZHb0JIZmlMWnlhVF9Rb1JLWVNHZ0Y?oc=5",
+    "title": "Waymo driverless cars barred from California freeways following series of troubling incidents",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "Tue, 17 Nov 2026 20:52:19 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California regulators have barred Waymo driverless cars from operating on state freeways following a series of incidents that exposed safety concerns.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlZ5MXJoemtScUp5dzM3bndJOExrZG03dmc1QWR3TnJpM29QdlFJZ0h5dDB6NkdSUTRQVTdxS29UdldFaG9lekhJVy1laFRvTFRXSV9vM1pUdlpUelplU2w3clFjTFRGelVtV1U5OUFuUzA3YWwybTd2bHJDc0t5NElwYUUzRnVBS0xsY2JNb1hpZFVwUGF3U9IBoAFBVV95cUxNZ09TWU5fV3hQM0c5VVpKTU15aWdXM3Nhd0tOR3hvdXpNT1lmS3lkLVVhR0tJWnB4YWk2RjdfdUVDVUpkNHBPcmc2TlJJaW8taFV0MUZUM19BVGt6dGRWekxyTnNKeEIzblpQemo0Ump4WTRybnlOZ3NfTnRmWUdCNWtpSEJyOXVFRDBWTkl6RWNHVERCRUZVVHVDcndGQml2?oc=5",
+    "title": "DMV temporarily bans Waymo from California freeways",
+    "source": "NBC Los Angeles",
+    "published": "Tue, 17 Nov 2026 20:24:56 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV temporarily revokes Waymo's permit to operate on freeways following a series of incidents on state highways.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory action",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2RxbVZ5blJRckk1YnNWVFRGOE56R1VPdDlTM2F6QVI0YjFvN0ZqWnBIenY2d21DdXBaNFhSM2ZkamF0a2h5X0ljS0N1blFGSTZ5aXhDbnB1ck1IT3JHa3VvWkhkZlJoOTBoNjc3MU0zdTlCdDlBNWZuSXJJWVRSVDRZdVllRXU3c3hFSUdGZGdWTE9TMmRXM0xiLUpZVWNvM3Bn?oc=5",
+    "title": "Waymo suspends freeway rides nationwide after California DMV order",
+    "source": "TechCrunch",
+    "published": "Tue, 17 Nov 2026 19:49:41 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo halts all highway autonomous driving nationwide following a California DMV directive, marking a significant operational pullback for the driverless taxi operator.",
+    "companies": [
+      "Waymo",
+      "California DMV"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulatory action",
+      "suspension"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpR244dXdmajFDakZMa2RTQm83Q0EyUFd4VFBmUE92S0VFNjRQbEtDOVVMeTBXWEh2TjVEeHF4NDJLb29OMWVaTGNqbjlvdnVjVF9OLWhQMVR0TlctMkJsNlBFMHhBcldkdWZxcEtGNV9sR21r0gF6QVVfeXFMTUdab3BEQ3AzSFZKQUt5ZFFiWGFPVEM3SUpIZHlVZ01HcnFwaWJUR0ExX0tZNUNWRzNXRWZpeWxIRnJqQ19XRjdzUGJTVC03QTl1c3ViR2h2UVNyd3ItSUdlcVdhUmpGUjNxeG90YlQzM0pQamhhXzA2OVE?oc=5",
+    "title": "California DMV bans Waymo from operating on state freeways after string of traffic incidents",
+    "source": "KTLA",
+    "published": "Tue, 17 Nov 2026 19:38:04 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV has revoked Waymo's permit to operate autonomous vehicles on state freeways following multiple traffic incidents.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory action",
+      "safety"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDR1QzZFcTVWVjBtQUZxWlV4RGVWTWRaM1NfM25EYktmZVhCeEM4SW5hMUJ2SW45UGh5bWxhWV9ielM2dkpIbG9CaGJVeHBlMldxSzFEaWoxYWZXc2RJQ3NFSVo0MjlvVlhiNFRJX090dnA3bmlSYmpWVzM2MzN1UzBjMWdfa1BxSTU0QnNHb0Nna25JZFV4R3BGLS1MZ3lPLVlmYQ?oc=5",
+    "title": "California DMV blocks Waymo robotaxis from freeways after construction zone incidents",
+    "source": "CBS News",
+    "published": "Tue, 17 Nov 2026 21:30:16 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV restricted Waymo robotaxis from freeways following multiple construction-zone failures, a rare regulatory intervention against the driverless leader.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory action",
+      "safety incidents"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5",
+    "title": "California bans Waymo autonomous vehicles from state freeways, saying they pose an 'imminent hazard'",
+    "source": "AP News",
+    "published": "Tue, 17 Nov 2026 21:06:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's Department of Motor Vehicles banned Waymo's driverless cars from state freeways, citing safety risks after a string of collisions and traffic incidents.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JSjUyU0FRdGh2TzZ5NzBTRk0ySnV4eTk4T1EtQ1lTQzZLM3ZnZFBXU2xPMlhJV3F3ZTZZMjBnQUViV0I5Wml4MEF3Q0ZNRE81LXFjSnV3ZHNteVZsUFNxbDRlLW5NaXJyRlhGNkdhQ0ttWnlXWmh4R2FnWQ?oc=5",
+    "title": "Waymo Pulls Its Driverless Taxis From All U.S. Highways Temporarily",
+    "source": "The New York Times",
+    "published": "Tue, 17 Nov 2026 21:44:01 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has temporarily withdrawn its autonomous taxi fleet from all U.S. highways following an unspecified operational concern.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "fleet operations"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMm1VcnBjMFlTbkN1VDFzb0hGaTU1S0tFRE5aM3ZwWGlQSnF4ckhJcmhmUnVpdE4td2JPamdSNDcyTVFEcnVVdWw5bEdBdG42SmdvNld6QlJSQ1FGc2RJV1JIUDZWQXN1SnFTVjkwQVhTeDBhLS1QNHNjWTE1VWxMVFROSkVtYUVaOTg1bGZRYmpiNnNsUG9fcGtLNUlBYzJWNHFqTmxRbmF5VVI0?oc=5",
+    "title": "‘Hazard to Public Safety’: California DMV Restricts Waymo Freeway Operations",
+    "source": "KQED",
+    "published": "Tue, 17 Nov 2026 20:27:44 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV has restricted Waymo's autonomous vehicle operations on freeways, citing public safety hazards and citing specific incidents in the driverless company's deployment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKcU90cnVUMGFLbDJqUkM4cFo1WEdhZFY1SjNyMWwtZzFBRG9oa1QwQUVMaHE4c2pTLUh5NS1Xd3dUSzgzeUNEZ29KbUJoNUlCalBFZnZNZnZUTE9CSXkwdE1jNjVDcDE1bktjR2ZUT0V0LWF50gF6QVVfeXFMTy1rRmpPX19RODRYQ1hNRlFxZ0hSODlwMk8yaHJKVGlUR1hrZXhrVnNBSEJQS2doNmw4STZtMlBBaWlxMjVMODk1Ni1WbTlrQlJYT3hYRWx3ZUVTVGp0MVRUblJNTU1pVkxQa3hfOUkyTW82aWZfaVFDcEE?oc=5",
+    "title": "‘Imminent hazard’: Waymo banned from California freeways by DMV",
+    "source": "FOX40",
+    "published": "Tue, 17 Nov 2026 18:45:31 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV has banned Waymo from operating on state freeways, citing imminent hazard concerns.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40N3FBR2VFMHBOaHR3bUVhU3hxTXdRTDJXdnFBOU5TM2Zwb0owc1BFTXJyT1pOSFY2eVlSUVYyeWxObzE2QUdBRldONHpFTlp2VC04dy1Tb3NEWXhkRkp1WkZXcmllMi0wcUt5ZtIBbEFVX3lxTFBpVFd4R2NESW1LTFR4dGZPdjhmRF9VYU1LODAxNEhrS0dROTJLWlJJT0xwUDN4VVpzSndnXzhFRV9nUFI1WU1BVmxUQjJmQ1VOaFg2d2FxcjV2c3U5YnBaejRPUUg5T3FXci1wTg?oc=5",
+    "title": "DMV bans Waymo driverless vehicles from California freeways after safety mishaps",
+    "source": "Sacramento Bee",
+    "published": "Tue, 17 Nov 2026 20:48:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV revoked Waymo's permit to operate driverless vehicles on freeways following a series of safety incidents.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOTFvVVdBdnVCQTVvcDJHLUpRN3dxQS16eFMxcWM1eTE3MVA3Q0NEMmVUZk90OGh6eWlVMDFXbkdBeHFsZFF5SU9ZZnBJT2VZb3E5YmFNOE5VNk5qcEhXYU9HMGR3RGJhT3pkcGUwNTZXb2gyejkzTWwtOXZlVzdHWXZJOG8wOEpfQ0ZzZVduUXdOVkRwbVEyZFlkeDdQMl96dXRidU1RWUVKMGpQYzF4ckZYeElla2dJazcxOGh1d1ZRTWxtQ2JXZG1pQVp4QlhnbWdN?oc=5",
+    "title": "Waymo has temporarily pulled its driverless vehicles from all highways in the U.S. after California barred the cars from its freeways last week, the company said.",
+    "source": "Facebook",
+    "published": "Tue, 17 Nov 2026 22:23:27 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo withdrew its driverless fleet from all U.S. highways after California's regulatory ban, a rare retreat for the autonomous-vehicle leader.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "safety concerns"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdkVzRITkNMZmYtdTJVbjlxbWZEVWpET2ZST0U3N2JLWkRUR0pNZXZPMWJmMDNOMzJyWDZoallON0lpNWQ5eDdSUDFxVlg0SmlJcXgwRGEwWVRmOGl5cU9qeVNpYnhMNVBJdmxnUDU3blJ6eHR3SFpsLWhQa0YxZkN0RDAzdVJKWlpOM05ZX0d3RW5yRHdKOFVQMFlkVUU?oc=5",
+    "title": "Waymo pulled from freeways after viral I-280 incident involving CHP - San Francisco Business Times",
+    "source": "The Business Journals",
+    "published": "Tue, 17 Nov 2026 17:04:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo suspended freeway operations in California after a California Highway Patrol incident on I-280 went viral on social media.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory action"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWpINFZWSEpTR3NKMGNGQm4wTW0tOXJ4UnJ6dW5zX2V1SjlpMFRLNUZCNkJBLXBGNHFzSHgxeEpXSjBpV1BHMGZ4YWVlWlItcmNmV2dhYmZyTndNYkxVZEtXSWlWMlUtRzFCZDZHeXJkU0ZHZGg2STBtTm1rU3B4YjRnOURMT1lNekhMTDVYczFhbWdSZjRZRmtSNWV6Yk1BQ2RRLW5fZkoxQUE?oc=5",
+    "title": "California just banned Waymo from all state freeways",
+    "source": "The Verge",
+    "published": "Tue, 17 Nov 2026 19:38:05 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California regulators banned Waymo from operating on all state freeways, a sharp reversal for the autonomous-vehicle company's expansion ambitions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvZVdyeDF4eWZoNHYtOU4wUFBLVEdKTmptaWF2N0w2eTVtdHRuSFZXZEdZVWs5V0k2OWJ1WjBBcEFtbU9zZUxTcVlYQnFHM3dUbm5rMUgtdXdQSUtMcVJUY3lSdTNBSGFTdkM3d0xUTQ?oc=5",
+    "title": "California bars Waymo robotaxis from freeways",
+    "source": "Transport Topics",
+    "published": "Tue, 17 Nov 2026 22:00:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's Department of Motor Vehicles restricted Waymo's autonomous vehicles from operating on freeways, curtailing the company's expansion in its home state.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory",
+      "autonomous vehicles",
+      "robotaxi"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzBoQXJFRUprS01GUHlicDBGNkE2ZWJsY0ZQY1UzTWw0aHpGZ2hJTzREdHNXR2ZPRFMzb0dZSVBTenR0SnBSSURzMlJEbXpObmVleUpTUERKeE5oakc5S0hrZ05QMnI0U2hocFNlMTJ4dlpfa1B6U0cxdUhMZ3RRZGNRdWZnN001WmJFMFBDRjhXeThfZTR1QzFyc9IBrwFBVV95cUxOVnFEdnhyWkNvY0lVTEtqN09HVTBORnh4NW1nUDhJcEZ5eDhnaV9ra3VCNmJVVEtkTnd1ZjBTczNjTGNadk5Fb1hwUnp6Y0R1cWlNRXlDVHNwX20xUWN1WjRsa3dLcjZxWFk2dzBGUHZKOUFIc2hmUVVxSFZob2plZ2dQRHZvSUFNa3FFQm5zVGhFTkdMeVpfMFRvSGkzQ0VZNWgtOUdEZUNkSDUwS1pV?oc=5",
+    "title": "Speeding crash involving 2 Waymo vehicles caught on camera",
+    "source": "Cleveland 19 News",
+    "published": "Tue, 17 Nov 2026 21:27:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Two Waymo driverless vehicles collided at high speed on a Cleveland street, with video evidence complicating the company's safety narrative.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "accident"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeWRqSDhUcmtTY3NlYTRsUk5qd2hIaHFsZDliTUVWWGRQMVgxTmFvMVpOMzFRRHNHVzM4eGNZd2VreXQzVjRxeVBPNm4yN0RRM3FYSHQ4V3I3dkxVbHktWFlhTndEY0ZHYzJYdWprNlJGMlladUVvRnlHc0JaV3R5aUlaN01YWTEwdDQxWEhuOGx1YUwzOV9vS1N0bmxxOVVCQzBfdVFTWEJ5T05ySEwycU40X004QlZITEs0bHNtMmdjb3JQcVR0ZXgxN1cyLWFCeWc?oc=5",
+    "title": "DMV restricts Waymo from operating or testing its driverless vehicles on all California freeways",
+    "source": "The Mercury News",
+    "published": "Tue, 17 Nov 2026 20:25:06 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV has barred Waymo from testing or operating its driverless vehicles on all state freeways, marking a significant regulatory setback for the company.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "testing restrictions"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2hTdGR0VHdWTDJQS3RRbmtBSkFpTi1pSWU2ZUlPQnZfNW43VHdBZlcwSnB5TmR5dmJIbzZxNEcwZ2F1ZDVsMXVpOFkyam5XT1ZvVWlNRkJTZGZ3X3o3ZVB4SWNVSHZTMndnTm5EWUpwdmlsMVYzTDhiUVFTcUlKWHI1NTN4c2JHZ0p0cUhZY1JfMXhaM2ZudW92NmZoZTBMZ0d3aWZKRlBZVllhWmNCbzJn?oc=5",
+    "title": "Waymo's Rough Patch: Freeway Restrictions, Construction Confusion, and a Miami Collision",
+    "source": "Business Insider",
+    "published": "Tue, 17 Nov 2026 21:17:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV clamped down on Waymo's freeway operations this week, citing specific safety incidents as a 'hazard to public safety.' Meanwhile, Business Insider reported that Waymo's robotaxis continue to struggle navigating construction zones, a persistent blind spot in the company's driverless repertoire. Adding to the pileup, a Waymo vehicle in Miami was struck by a car drifting through an intersection over the weekend, with the company releasing dashcam footage of the crash. Together, the incidents paint a picture of a company still working out the kinks of real-world driving at scale.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "urban deployment challenges",
+      "regulation",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2hTdGR0VHdWTDJQS3RRbmtBSkFpTi1pSWU2ZUlPQnZfNW43VHdBZlcwSnB5TmR5dmJIbzZxNEcwZ2F1ZDVsMXVpOFkyam5XT1ZvVWlNRkJTZGZ3X3o3ZVB4SWNVSHZTMndnTm5EWUpwdmlsMVYzTDhiUVFTcUlKWHI1NTN4c2JHZ0p0cUhZY1JfMXhaM2ZudW92NmZoZTBMZ0d3aWZKRlBZVllhWmNCbzJn?oc=5",
+        "title": "Waymo's Rough Patch: Freeway Restrictions, Construction Confusion, and a Miami Collision",
+        "source": "Business Insider"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMm1VcnBjMFlTbkN1VDFzb0hGaTU1S0tFRE5aM3ZwWGlQSnF4ckhJcmhmUnVpdE4td2JPamdSNDcyTVFEcnVVdWw5bEdBdG42SmdvNld6QlJSQ1FGc2RJV1JIUDZWQXN1SnFTVjkwQVhTeDBhLS1QNHNjWTE1VWxMVFROSkVtYUVaOTg1bGZRYmpiNnNsUG9fcGtLNUlBYzJWNHFqTmxRbmF5VVI0?oc=5",
+        "title": "‘Hazard to Public Safety’: California DMV Restricts Waymo Freeway Operations",
+        "source": "KQED"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOURLRTZaWTFoOVVfODVWYnRNUU5Vd3lxTDg1blcyd1UxNFNIczcxbmlPci1wYnlvVlc3cjdfOUNSSXpzaFBJaF9ob1dLYTNXYm53d05URVphTTlSVXdJRHhMMHNxODROOXJJalBtdU5OVFNqRnFzQmFwTWlfeldXU0hWZmdraEJJaU9SMDhMdDNXc0dtSlFtekpQb045aTd0UWM3bzBWdTA3RHNUT21paXJMNl90dVRnOWV3SHVoVTl5bEd0eDN4cG1XR25UeWFPY2VMT2ZLaVNpTFNuZmRYZg?oc=5",
+        "title": "A Waymo that was struck by a vehicle in Miami over the weekend and it was all caught on camera, the company said on Monday. According to Waymo, on Sunday, one of its autonomous vehicles was struck by another vehicle that was drifting in the intersection",
+        "source": "Facebook"
+      }
+    ],
+    "body": "<p>This week brought Waymo three separate reminders that the last mile of autonomous driving is also, often, the messiest. On Monday, the company confirmed that one of its robotaxis was struck by a vehicle that drifted through an intersection in Miami over the weekend, releasing dashcam footage of the crash. Days earlier, California's Department of Motor Vehicles restricted Waymo's freeway operations in the state, citing specific safety incidents and warning that the company's highway driving posed a \"hazard to public safety.\" And in a separate report, Business Insider detailed how Waymo's vehicles continue to stumble through construction zones, a persistent weak spot that has dogged the company even as it has expanded into new cities.</p>\n\n<p>None of these episodes, on its own, is catastrophic. The Miami collision, according to Waymo's own account, was caused by another driver, not its software. The construction-zone confusion is a known limitation, not a new one. And the DMV's freeway restriction is a regulatory tightening, not a shutdown. But stacked together in a single week, they read less like bad luck than like a pattern: a company whose technology performs impressively in the controlled chaos of city streets but still flinches at the unscripted chaos of the real world — cones placed without warning, lanes that vanish mid-block, a car losing traction at 45 miles an hour.</p>\n\n<p>That distinction matters enormously for an industry trying to convince regulators, insurers, and ordinary commuters that driverless cars are ready for the highway, literally. Freeways are where autonomous vehicle companies most want to prove themselves, because higher speeds and longer trips are where robotaxis could eventually outcompete human-driven ride-hailing on cost. A state DMV publicly invoking the phrase \"hazard to public safety\" is the kind of sentence that gets quoted in every subsequent hearing, lawsuit, and city council debate about whether to let these cars expand.</p>\n\n<p>Construction zones are a more mundane problem, but mundane is exactly the issue. Robotaxis don't need to solve rare, dramatic edge cases to earn public trust; they need to handle the boring, daily friction of American infrastructure — the orange barrels, the flagger waving traffic through with a hand signal no camera has been trained to parse. Waymo has spent years arguing that its disengagement rates and safety data outperform human drivers on average. Construction zones are where \"on average\" runs headlong into specifics.</p>\n\n<p>For riders, the stakes are personal rather than statistical: does the car you're trusting with your commute know what to do when the lane it was mapped to drive in no longer exists? For the industry, the stakes are existential in a slower-burning way. Waymo remains the furthest along of any robotaxi operator, which also means its stumbles are the ones regulators, competitors, and the public scrutinize most closely. A rough week for Waymo is, by extension, a rough week for the premise that driverless cars are simply a matter of scaling up what already works.</p>",
+    "slug": "waymo-s-rough-patch-freeway-restrictions-construction-confus-fa4e20"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaWlkWGdEaEU3SW5lTHFUbzgxN01JamdFTkJjWWYxekc2MXRnaGhZelhXMUl3aVNlelVRSTgxNllEdV9OeTlPZXpqdG1fcFdabnlEOGZEV3lxaUlGWTZQRlgwd1ZlSnUxeTBvSEFZb1V1RG9BX3U3bEFNWVBuX3pnVEpzYkRwVllEWGZmOQ?oc=5",
+    "title": "Waymo to stop driving on California freeways following DMV order",
+    "source": "KTVU",
+    "published": "Tue, 17 Nov 2026 18:25:27 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo will halt autonomous driving on California freeways after the state's DMV revoked permission for its driverless operations on those roads.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory restriction",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvbFJ5cU5reGJpOFd4ZHE4el9FTnNidHd0TkZjZHYyYWRMRUtRRmFfZGYzdTNkUmlTdmptbUNWbEhPY2dpNllRMmw0WU1rUXVyYkZ2aWpWaHBoNWtxNHBScm5SazhoVkhwaDhiYUl2X2M5cC0taGpOc1VYZS1PdGs?oc=5",
+    "title": "DMV kicks Waymo off California freeways",
+    "source": "The San Francisco Standard",
+    "published": "Tue, 17 Nov 2026 19:18:35 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's DMV has revoked Waymo's permit to operate driverless vehicles on state freeways, restricting the robotaxi company to city streets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOURLRTZaWTFoOVVfODVWYnRNUU5Vd3lxTDg1blcyd1UxNFNIczcxbmlPci1wYnlvVlc3cjdfOUNSSXpzaFBJaF9ob1dLYTNXYm53d05URVphTTlSVXdJRHhMMHNxODROOXJJalBtdU5OVFNqRnFzQmFwTWlfeldXU0hWZmdraEJJaU9SMDhMdDNXc0dtSlFtekpQb045aTd0UWM3bzBWdTA3RHNUT21paXJMNl90dVRnOWV3SHVoVTl5bEd0eDN4cG1XR25UeWFPY2VMT2ZLaVNpTFNuZmRYZg?oc=5",
+    "title": "A Waymo that was struck by a vehicle in Miami over the weekend and it was all caught on camera, the company said on Monday. According to Waymo, on Sunday, one of its autonomous vehicles was struck by another vehicle that was drifting in the intersection",
+    "source": "Facebook",
+    "published": "Tue, 17 Nov 2026 16:18:50 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo autonomous vehicle was struck by a drifting car in a Miami intersection, with the company releasing footage of the collision.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2puTE5xTnhKNkFvcnJlR1haMjhMMXE3bGNqemdZYVZybFRPVEd2OEMyaGpsOTF4bk9rZ29taXhKSTh5dU9WczJxNktxckNTMktQbTc3azM4alluUzhCeGd4MjdMRW9aZzNiQ3Q0NWhzeWM5dGNLU2dJdWxpMzJqN1VCUG9KdHpCclRVVmxyZTR1NkpSbHF2V2tVU1JRYTZxcHc0?oc=5",
+    "title": "Crash Involving Waymo Self-Driving Cars in Phoenix Injures 3",
+    "source": "TODAY.com",
+    "published": "Tue, 17 Nov 2026 17:18:29 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Three people were injured in Phoenix when two Waymo autonomous vehicles collided, raising fresh questions about driverless safety in real-world conditions.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "accident"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2dSb3NCVGR0YzNUZnpjaGp4TENiczVhd096VWxPREZINE92WVBlTUhNdi1fOTBiQTJQNEFXcklTb2JWN1J6LXRlOVFLanBkTmRGV1k4SWRzWjVMNUcydjdGMFVDZ3JtRXFDS2ZYcTRuYnB4cVVsV1M3T2pqRE1Lemc0Zw?oc=5",
+    "title": "Calif. bans Waymo driverless cars from freeways",
+    "source": "The San Joaquin Valley Sun",
+    "published": "Tue, 17 Nov 2026 22:11:54 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California has restricted Waymo's driverless vehicles from operating on freeways, a regulatory setback for the autonomous-vehicle leader.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JQbmNsVjg0M1JiNWc5cGZ1WWdrbmdtc3I1SFhIYzRUVzJrU19KOTFuRW96dmp5ckRrelpzTzAxTjlsbXFfS2xwUVZEbzVaclVwcmhYQ2w0bXFfY1FZRXZ1RjlMclRKUU9mbTRmY0lzdkJQRkhYQkNLNjdJbHVRQ3JaaS1ORVhfamp5YWE1Z1Q1Qjk3SWhhZFBVVlJGd29teU44VTkybXZiN2RRN1NMNVRHM3FJaGVpaGpmMzZvblhTOWtW?oc=5",
+    "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+    "source": "TechCrunch",
+    "published": "Tue, 17 Nov 2026 15:07:06 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber and Zipline have launched their drone delivery service in Texas with plans to expand to dozens more cities.",
+    "companies": [
+      "Uber",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeTc4ZjVualhzdVpZM2plbDhYMTNlVEVmQ2t4SlpjYmhteWhaYjFSRXI4azNCbU02ek1idUoxRWJ1RWVLQkpNT3NQc3ZlQjMxMEtSamFXcFdnLUJBSHNqdUJmQlhrRFdhOExlRHd4eTFHV05MZ0FRUGFVc3kwNTJMb3BVcjM5VUxzeVlBc0VUX3RaczVCdGNjX1BWRWNHSnhmYlphQ9IBqgFBVV95cUxPYk9fTk5JaWdoZDlVMEoteHlUNmJ1SFlHeDRWZXJQWkxIRHl4Y0lxQnQtTVBqbFMtMUU2SmdkMElCaklmZ2NNRENwSFpfNWRaXzVUek5WcEtmQkJfeGw4eFhWTmhKTmEzVDNfRWRrcnRzZHlZN3kxOVZKWHdnLWJ1MUd5ZHdDSXNSZHFsbm8wT1lfZjlaZjZkSFppRERXMEF6cXZaOVZza3lPUQ?oc=5",
+    "title": "Uber Eats launches new drone delivery service",
+    "source": "Good Morning America",
+    "published": "Tue, 17 Nov 2026 13:16:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber Eats is launching a new drone delivery service.",
+    "companies": [
+      "Uber Eats"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "delivery"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHgyOGd4c3d5eEtZVGk3VnZvOGx1d09fYnhCby1nV09meTI2UHRPM1RCOXliVWVqTFBqQ0tpS19qekJoUlJ0NlhUbGFzWV9WdXlOZFp1VGlDTk1WeXZqeXRpZ1BmVkFDajFZcGtTV294MUhVVjlHOFp1aUs3bFRhX28xQ3BWU3NYaUlmV29pUFEyX0JrbXBxUHIwdDFDRmVPSktRaTRn?oc=5",
+    "title": "Purdue drone research advances frontiers of autonomous aviation",
+    "source": "Purdue University",
+    "published": "Mon, 16 Nov 2026 19:25:03 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Purdue University researchers are working on autonomous aviation technology without disclosing specific breakthroughs or deployments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous aviation",
+      "drone research"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5icmktZ0tSWE5peklUSUJEeEgtT3pTV1U2emNESWVNTC1EcUpFeVBsT09xRDBoMkJ0elpfUmFNbnV0UGJ1QlpPZE40cTVjdlNlUGVIUFE2NFd2OHZuQmVtbzdMS3RIZEdKMXk1YzV3?oc=5",
+    "title": "Single-propeller drone uses its own spin to scan surroundings in all directions",
+    "source": "Tech Xplore",
+    "published": "Tue, 17 Nov 2026 20:00:01 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers demonstrate a single-propeller drone that uses its body rotation to gather omnidirectional sensor data, a design that trades traditional multi-rotor stability for algorithmic simplicity.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "sensor",
+      "single-propeller",
+      "research"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IaXJYZDMtZkpqQlRIWWxwOVNvSlFwVGJVMDN2T2R5bFF5b0VoRGtsaXlXaUxrVGRucW1DVlFBOGZxUHppUVdRSnVTVmh1NXZrMHFCdTFxdThCcWhLR1Y1ckVlMUMtd0o5NDB4VkE2U1UxRGt2UVE?oc=5",
+    "title": "Uber Eats and Zipline launched drone food delivery in Spring, Texas",
+    "source": "qz.com",
+    "published": "Tue, 17 Nov 2026 21:19:13 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber Eats and Zipline have begun delivering food by drone in Spring, Texas, marking the first commercial deployment of aerial delivery for the ride-hailing company.",
+    "companies": [
+      "Uber Eats",
+      "Zipline"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "food delivery",
+      "autonomous aircraft"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXpURXNlRGdqMDB0ZUE3VTh0ek9GbFlPRWhqTV9PTXB5YW5IVnBOSjYzTDQ1bkxPRDR2NXg0NkhmZHMxTksxYnUxMi1GUXJDWGpYcHFReWJfWXJuVzMxcnIyMG9ZbTYwLVRrQkhRSDNaMkhCcWxua1hoaldBSWtnMFBqa1R0QQ?oc=5",
+    "title": "AI-Powered Drone Will Be Patrolling One of Europe’s Largest Ski Resorts This Winter",
+    "source": "Unofficial Networks",
+    "published": "Tue, 17 Nov 2026 14:13:18 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "An AI-powered drone will begin safety patrols at a major European ski resort this winter, marking a commercial deployment of automated surveillance in alpine terrain.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "AI",
+      "autonomous systems",
+      "surveillance",
+      "deployment"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOFlxeEh4Y1RwbUJIYXlZdmpXR18yZDA0dnZxUWdIUUk1RFZrdXhhendyZzZHTXhCWEFXbmdReUpGYXhQOWhTRVg3clFXczJGVXk4YTJOanM5VFJkS05CdzdKaDgtRjIyZmhjalJIVWZSaGN4Nm5FMHRZSlNvSjVhZFdLWDFFWUQ0dlJJZ0dCQ01xY3c4VUsyeTNsdkd5TXdOeUdwNW9PaVQ2Z0pjWThxZ2ROMzFLU0ppSUlSZVA0UzNuX2Jpekh5V1lRUW1kclZN?oc=5",
+    "title": "'A futuristic debate now very real': Why the world is struggling to regulate killer robots",
+    "source": "France 24",
+    "published": "Mon, 16 Nov 2026 19:10:36 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "As autonomous weapons systems proliferate, international bodies struggle to establish regulatory frameworks around lethal autonomous robots.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "regulation",
+      "killer robots",
+      "international policy"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1Fkb1dLYUhEUjhwMzRfRG1xUzdCaUhDMGY2R1JIcnhUYlVYTnotcDhUdzZrQlN6NWc5NFV1R3VjdTVibHc5cW80dWxaSnlGdUJrYkFjUnhFak9IRVR6NVNYN1VGeS1uMmZncnFhZ2RLcXVnTUtYbWNIMFRhV3dpNEN1WG80cTQ?oc=5",
+    "title": "Swarmer Closes Vataga Drone Deal, Adding FPV And Interceptor Hardware",
+    "source": "DroneXL",
+    "published": "Mon, 16 Nov 2026 17:27:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Swarmer has closed a deal to add FPV and interceptor hardware to its Vataga drone platform.",
+    "companies": [
+      "Swarmer"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "FPV",
+      "hardware integration"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONU1GTWdUUnFKaks2THNFQXYtYlR5a0g2ZWQ5LXRsWHRFbi1Ka3ZRTEQ0RHVvRDdBT2VZUXlFZTYyQ0hzOTd5VWJIN2h0UTRTZExORWhYNE85a19jQWU3elJDRmdHOEFodkFxUUlrRnUtYXkzbVNoTjlLcXU4dDdYX0tGWDZ1ZlJORkF0SEVaUXFwOV9xOHNUenFNZDdBMDlfR2l1S1h5SVlsS09vX2JfbVRHNW5nMmh6Y2RDdk1lSEpodm1OSVdKb1ZTU0tBM2czcmlWNE1hRW5RS3pweTBKcnBCVTh2blVQRnFtaG9IZ3lHQdIB9wFBVV95cUxOdTVzU0Z4Zm9XQkE2eDF1SW1VUnBHYW1uU2daSi1rVVFKLWlCWVhsdW9qLWV0b3liT2pyQ19wcE1Oa2RZb3ozR3hRUWdoSVJuN0puZHNtWGJtYTMya2J6V3FwWWRRX3F5aUZRQVprbXI4UDdudEFBRkFnRUotR3ZnS19CQU11UjZzbjY1dmpPNm41LUNRN29KNFpwQ2RyeElEdjB0aGhiMU1ScWZLN3dqMFFxNEVHbVpweUo2TE1tTUt0VzFaQmMycXctZWkwUVk0X1Z6YV9Ka3ZzdlBCUVJqLUY5aUh5Mnl2NURERF9SRG9nOE5WdFhv?oc=5",
+    "title": "Launching ZenaStudios, Ushering in a New Era of Drone-Powered Storytelling and Branding",
+    "source": "The Manila Times",
+    "published": "Tue, 17 Nov 2026 14:12:10 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "ZenaStudios launches a drone-powered production company for commercial storytelling and branded content.",
+    "companies": [
+      "ZenaStudios"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "content creation",
+      "commercial production"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWEF4dGQ4dWE5bk5GcGxDTmxxRnBjUDBYMkpNWm5NSDljWldPZldVYnhzVDl6Y3RCVzZvN190dVB5VGFBQ1paUDJuVlpLT1E5Zy11Q05GWklacHBLUlI5UW83QWxKQ0hpaERDaC00dXNFdTJLZDJrZElLSU1TV3NKQTl5Y0JfRzlNUWdndEhSSFQtMC1YVklWaHVrQ3RrMDl0aUx5WEQ4aC1LZzVHRklwRV9ZQTMzMV80N0dhQ2V5YzZVUG1aS2QyTTVtdW16Tlk4Mzh5U3FLdkdLMlRXenZwcmlVMzV0YXBKczctQmFGUQ?oc=5",
+    "title": "These Waterloo engineers made an underwater drone in their garage. They just got their 1st customer",
+    "source": "CBC",
+    "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A Waterloo-based team has secured its first customer for an underwater drone built from a garage startup.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "underwater drone",
+      "garage startup",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnlXTTNWLU5kdURGYlRPYnBBdDViTHBnWmI5SnBqVG1WbW5KaFBfRHNsWGZLcUx6cXpJN0RIZTdvc3VfVEw5elNNWlVYUUVPOWNEcmVUQ1NnS3l5ZHlSS0VDb3FCbFJMRUNvckFjRWg1MmtHeWNGeUw3OU85LXpGcm5sb2R2Qm8?oc=5",
+    "title": "Matternet Hires Joby Finance Lead Ben Dobson As Finance Chief",
+    "source": "DroneXL",
+    "published": "Mon, 16 Nov 2026 19:13:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Matternet names Ben Dobson, formerly Joby Aviation's finance lead, as its new chief financial officer.",
+    "companies": [
+      "Matternet",
+      "Joby Aviation"
+    ],
+    "people": [
+      "Ben Dobson"
+    ],
+    "themes": [
+      "drones",
+      "corporate leadership"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMk9ZejVVNENURHVqX2ZKMGl6WmZRenB6aUdiaTMtYmRFTE9MclpkZHdOWVR3WjFwUEg0dGVSOEhqMGdTeTdSUWJYakR0Mk1VY1pqOGY2QVBVdTFBTTQ3VkY4S2lsMXNwVDNvSklXckFCbGlMdXlUT1Utd25kU1JnMU12Xy0yVTYz?oc=5",
+    "title": "Synchron pauses trials of its wireless brain implant after the device underperformed in early participants",
+    "source": "Medical Daily",
+    "published": "Tue, 17 Nov 2026 05:53:40 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Synchron has halted trials of its wireless brain implant after the device failed to deliver promised performance in its initial patients.",
+    "companies": [
+      "Synchron"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trials"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjY2bkhTVWU5U011ekE1Nlo1Z0JmbGotWC1fSTM0QzM3VWZ6S3R2THp2ZXB4ZURRamV4Qzc1TkNjSnVPR0VyNVBQQkxlNzF2czBGWThlU2dmdk9SaTc1Vk5wLXZydTlqOU9YMmItX3g0Y0lxdnJ2Y19rbnZuQXJSbVZwR2pWQ3BBZUQ3M2xhT3VWUDRPNUVSQUVwUXFaRUZCdUdxaExkaHZabGhYMlBYdHNiTE9NRXFBNlhPMtIB0AFBVV95cUxOd3NXLTZnOWRVenE1M1RPdTd5M0FDUHc1c3FSdjB6QjJkVTNWdktfUVpsdWh5RWk2UkpDa2dubUpFNEE2eXBUd2t2S2h4VWRDcnJBVWVXZm9TZWVOdE9RQjd4R2NqckVPVFFGLVFSS2FiUlQ0WjB6LWtVOGRzZzFneUctT1B2b2hMMkhWUWx1bVk3ZnNuRS0yeVQ1aW43YlRqa0ZGZENtVTYzTWh6XzBzVVdTRExnNlZDNDZMVW5xSlJadUo3YWhQLVhVX0RzdFY4?oc=5",
+    "title": "Brain implants give ALS patients their voices back, even allowing one to sing",
+    "source": "Cleveland.com",
+    "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers using brain-computer interface implants have restored speech to ALS patients, with one participant regaining the ability to sing.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "speech restoration",
+      "neural implant"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXNwM04xb1JBZGo0X2JRSGRtaVIwUkJ3N2s1VWlEaVk1azRGQ0VrdjhwNXUtSjVqQkJTbTAzTHRMYUVQZU10TENwRWduWHhHdnp4VXJJTjJuTWFXaHljdWJlNWdacjBmcS16di16N09hLWhaSDRrWnBZakp6NEVxVHFZU0J0ZzVOQ3RpaDFzck9sQ0FZMmo2V3ZCM2QxSFE2Z1A3Q0xuN25sUQ?oc=5",
+    "title": "You Cannot Blind a Brain-Computer Interface Trial, and That Changes Everything",
+    "source": "The Clinical Trial Vanguard",
+    "published": "Mon, 16 Nov 2026 08:41:07 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A methodological essay on why BCI trials cannot use blinding, the gold standard of clinical research, forcing new validation approaches.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "clinical trials",
+      "research methodology"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUtxRi1QMlRZQ1lKdUIwSEotQ3FMTWZFT3p1c3hzWGY1alh0clVNYmZIRzdlVWFBNzVrdjhQQUh1bVQ4LTZvQmRlTFdGMmhCSkw5NUhFTUVLYU9oeEdzeEZabFFmcndxaXcyR0RFVkstb0ZCcmdDemdlNDVaOURHODBTUEZrQ2w5N0hCVzN3RnRXOTdtLV8tRjdxV3ZWUGJyekRjWUVSSGxxTU9aMFFVQlVBaDg5a0U?oc=5",
+    "title": "Brain-Computer Interface Robotic Systems Aid Post-Stroke Hand Rehabilitation Across Studies",
+    "source": "Bioengineer.org",
+    "published": "Mon, 16 Nov 2026 21:26:41 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Studies show brain-computer interface systems can help stroke patients regain hand function through robotic rehabilitation.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "stroke rehabilitation",
+      "robotic systems",
+      "physical therapy"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2QWhtd2lacS1JN193YjRVM3NqMFYwaUdXV0xid0pRNjJFX25YREg2WE01eW9YTEhWTUN5dkRjSkNYaGtKTnd0SWxHZTJZbDF6VjVROQ?oc=5",
+    "title": "Brain-Computer Interface Restores Emotional Speech and Singing in ALS Patient",
+    "source": "DongA Science",
+    "published": "Sun, 15 Nov 2026 09:56:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A brain-computer interface successfully restored emotional speech and singing in an ALS patient, marking a clinical advance in translating neural signals into expressive vocalizations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "ALS",
+      "speech restoration",
+      "neural decoding",
+      "assistive technology"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXBjbm1hdFJjVEd3S3JobzBBaXJFcFI3bHlUSWN3RlVBM1pCY0l1MzlWMm1iSnJNem1pclUwdTdCeXduLXp1MkllMmR5dlBiWUI5bGlZM3VUeXpTQUVQa0dpS1RiN0pybzczME8tUkRGUUlqdXc1WFNzZWY2WllyLXNB?oc=5",
+    "title": "Edmonton Man Uses His Thoughts to Create Music Video With Neuralink",
+    "source": "iPhone in Canada",
+    "published": "Tue, 17 Nov 2026 19:15:14 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "An Edmonton patient with a Neuralink implant demonstrated the brain-computer interface's capability by directing the creation of a music video through thought alone.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "thought control"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/",
+    "title": "Boston Dynamics & GlobalFoundries Expand Robotics Collaboration",
+    "source": "Boston Dynamics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "Boston Dynamics is deploying its Spot robots across GlobalFoundries' semiconductor fabs globally and will make the company the first chipmaker to test its humanoid Atlas, part of an expanded partnership already logging 90,000+ inspections at 99% success.",
+    "companies": [
+      "Boston Dynamics",
+      "GlobalFoundries"
+    ],
+    "people": [
+      "Pradip Singh"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing automation",
+      "autonomous inspection",
+      "predictive maintenance"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston",
+    "title": "Zipline is now delivering to Uber Eats customers in Houston",
+    "source": "Zipline",
+    "published": "",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline launches drone delivery for Uber Eats in Houston, with CEO Keller Cliffton positioning the service as a 24/7 alternative to car-dependent errands.",
+    "companies": [
+      "Zipline",
+      "Uber Eats"
+    ],
+    "people": [
+      "Keller Cliffton"
+    ],
+    "themes": [
+      "drone delivery",
+      "autonomous logistics",
+      "food delivery"
+    ],
+    "first_seen": "2026-11-17T22:45:30",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
