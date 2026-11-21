@@ -117774,7 +117774,7 @@
     "first_seen": "2026-11-14T19:40:24",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -117828,7 +117828,7 @@
     "first_seen": "2026-11-14T19:40:24",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -118145,7 +118145,7 @@
     "first_seen": "2026-11-14T19:40:24",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -118538,7 +118538,7 @@
     "first_seen": "2026-11-15T20:06:28",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -118801,7 +118801,7 @@
     "first_seen": "2026-11-16T23:37:42",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -118935,7 +118935,7 @@
     "first_seen": "2026-11-16T23:37:42",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -119101,7 +119101,7 @@
     "first_seen": "2026-11-16T23:37:42",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -120017,7 +120017,7 @@
     "first_seen": "2026-11-17T22:45:30",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121715,7 +121715,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -121875,7 +121875,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121984,7 +121984,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -123155,7 +123155,7 @@
     "first_seen": "2026-11-19T22:32:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -124125,6 +124125,820 @@
     "week": "2026-W47",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1Y3YXA4SHRHemlNaGs2dXFOQlI5M1g1Y3RhSXJLdzFqM09ZQ2RUekxCMUc1UHBwMURzMmlYVkRxc1BjV0RkM25QbGxXNTlOczg0azh0RlY0SXVsNVhqSk9OVkhjdW9OSnNuWks2S2gweUsyNjlWblpoaDdDMC1XSDVn?oc=5",
+    "title": "1X NEO Home Robot: What $20,000 Buys Before Deliveries",
+    "source": "Technology Org",
+    "published": "Sat, 21 Nov 2026 13:44:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "1X details pricing and features of its NEO home robot ahead of customer deliveries, positioning the $20,000 unit as an early entrant in the domestic robotics market.",
+    "companies": [
+      "1X"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "home robot",
+      "physical AI"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWm1tcXAxNXlBRGpBTHFLVjkwUV9oUl9hcHlQRmw0ekc4Q0dvWU00ZFhUTFM3VkdUZVpJR0pqTVphXzJhNnIzMnBxV3p6Sm1JcTg5YWNOV1pmWkljaVZhdmZ0YTJodDRpZVJJRDJSZ1B5QlBCUkFjVkE5cm5uU0ZmWWxUV20zdjhHSFRBT1Bn?oc=5",
+    "title": "Countries open path towards ‘killer robots’ pact",
+    "source": "The Japan Times",
+    "published": "Sat, 21 Nov 2026 07:41:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Nations move toward an international agreement on autonomous weapons systems, though enforcement and technical definitions remain contested.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "killer robots",
+      "international policy",
+      "physical AI regulation"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnkxUzF5Vzk0bjc1U053Z3NWSWR2cHdIUkQxX3hsb1ZoTEpTRDlqeE9ubnhBbzR3LVRJVVE5MkdQZ21WWnVWbUF1SU9admFNeWhOSDlLaVd1elFWeDA0ai1MSE5pOE9EbTRWOEhnUERCX3BKWVNzQWQ1cGxNdFFzRUUzRnFRbS1GZFFDYlBmaVhUbHhaWGc?oc=5",
+    "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+    "source": "The Guardian",
+    "published": "Wed, 18 Nov 2026 22:16:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo is withdrawing its driverless taxis from freeways nationwide following California's regulatory ban on autonomous vehicles without human safety drivers.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory restriction",
+      "taxi service"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlhWdHBVZmpJb2tVT2NkNzBsSlE3V190NnozVjVsdTc3NGJhYlY1ZE4weXplUmVXYjF5c2VZeWFLTmtSa05TRlRwUTFXVDZrYmFOcHh2a1psQ19XeVlFeFZMR0ltdHNGS3dWcE5hR1otUmZGakdRblpwRENQdnB5MGllYmhFZElhYkU0YUxQYy1kemVxSDhJa2ZwNWs2NjlHRXVNTElhQnJYeEpoeGltZ2dhckZfLXBkNkUwMkc0ZWlla3QxWXRKQUN2SWlQZw?oc=5",
+    "title": "Waymo recalls self-driving cars over closed freeway lanes, manual traffic control",
+    "source": "Reuters",
+    "published": "Fri, 20 Nov 2026 20:04:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo recalled a portion of its self-driving fleet after discovering its vehicles struggled to navigate manually controlled traffic on closed freeway lanes.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "traffic management"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40ZnBhTzIwcXlfdG1UWFp3ZFVxcXE0UFJ6cGdZN2JwWUxTMkR6OGVES1Z6ckJoaGZVWTRVUTllRXJBVXVDeDdpTFFRa3B1dWMyMDlOdnM1VDJuR1JUZWI0Snk0SVJMeXg1TDB1ZVF2UUE1dlpXeXdFWDlR0gF6QVVfeXFMTWh2LTl4NUNPaUZUZEVXNWsyaXVHTjNnbUhuLUg3VFlxcWF4VW12ZjJRWUxPVDNVeUlKSFROT3VLM1otYW01Y08zNWZpa3FNSmE3VmZxQk44LVg4OF9OQjl3eUcwRzZTamxQOUFBSXBmRHYxcXdQdE4zb3c?oc=5",
+    "title": "Waymo Pulls Robotaxis Off Freeways After Construction-Zone Mishaps",
+    "source": "Sacramento Bee",
+    "published": "Sat, 21 Nov 2026 17:30:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo issued a recall after its robotaxis repeatedly drove into closed freeway lanes, a glitch traced to how the vehicles read construction signage. The company responded by pausing freeway operations altogether, a move industry analysts say is a savvy bit of risk management that's unlikely to slow the broader march of driverless cars.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory pause",
+      "safety",
+      "deployment issue"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40ZnBhTzIwcXlfdG1UWFp3ZFVxcXE0UFJ6cGdZN2JwWUxTMkR6OGVES1Z6ckJoaGZVWTRVUTllRXJBVXVDeDdpTFFRa3B1dWMyMDlOdnM1VDJuR1JUZWI0Snk0SVJMeXg1TDB1ZVF2UUE1dlpXeXdFWDlR0gF6QVVfeXFMTWh2LTl4NUNPaUZUZEVXNWsyaXVHTjNnbUhuLUg3VFlxcWF4VW12ZjJRWUxPVDNVeUlKSFROT3VLM1otYW01Y08zNWZpa3FNSmE3VmZxQk44LVg4OF9OQjl3eUcwRzZTamxQOUFBSXBmRHYxcXdQdE4zb3c?oc=5",
+        "title": "Waymo Pulls Robotaxis Off Freeways After Construction-Zone Mishaps",
+        "source": "Sacramento Bee"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkM4QS1YZk1oYmVXZ3B1Y0dWQ21PM2dKWW9tRTZJUXJTaHVIOENnWTJCcE9XUFBKdC01bmRjNnhZSWpaT0FjRkVFaUR1WVFla19TN2ZPMWl0LWhTd3IyNlBCd1d6bWd0eFNPTjVUcGZoOEdVcFFfMG5IZE16bTI2UlZKMnBmRE80TjdZSk1wb2xURkh6dzRJV0VocDRXeG5WS0E?oc=5",
+        "title": "Waymo Recalls Robotaxis After They Drove Into Closed Freeway Lanes",
+        "source": "Engadget"
+      }
+    ],
+    "body": "<p>Waymo has pulled its robotaxis off freeways nationwide after discovering that the vehicles had a habit of steering into lanes that were, by any human read of the orange cones, very much closed. The company issued a recall this week, tracing the problem to a software gap in how its cars interpret construction signage — the kind of temporary, hand-painted chaos that highway crews set up and tear down with little warning. Rather than patch the issue on the fly, Waymo chose to ground its freeway operations entirely while engineers sort out the fix.</p>\n\n<p>The decision affects a fleet that has quietly expanded its highway driving in cities like Phoenix and the San Francisco Bay Area over the past year, part of Waymo's push to prove its technology can handle not just slow urban grids but the higher speeds and higher stakes of interstate traffic. For now, that ambition is on pause.</p>\n\n<p>No injuries have been reported, and Waymo's own account suggests the cars treated misread construction zones as drivable space rather than causing collisions — still, the pattern was consistent enough, and risky enough, to trigger a recall rather than a quiet software patch. Construction zones are notoriously the one piece of road geometry that resists easy automation: signage is improvised, lane markings vanish under gravel, and human flaggers communicate with eye contact and hand waves that a lidar array cannot parse.</p>\n\n<p>Industry analysts quoted by the Sacramento Bee call the pause shrewd rather than alarming — a company managing its exposure before regulators or a viral video do it for them. That reading fits a pattern in robotics more broadly: the technology doesn't need to be perfect, it needs to be seen managing its imperfections responsibly. A recall framed as caution reads very differently than a recall framed as cover-up, and Waymo, unlike some of its self-driving rivals, has spent years building a reputation for being the company that pulls over rather than pushes through.</p>\n\n<p>That reputational math matters because the self-driving industry remains in a trust deficit with the public, regulators, and city governments that grant it permission to operate. Every incident, however minor, gets litigated in the court of public opinion long before any actual court weighs in. A recall that removes robotaxis from the riskiest roadway environment — high speed, high consequence, low tolerance for error — buys Waymo room to keep expanding its surface-street business, which remains its bread and butter in Phoenix, San Francisco, and now Los Angeles and Austin.</p>\n\n<p>For riders, the immediate effect is modest: fewer freeway trips, more routing around highways that once shaved minutes off a ride. For the industry, the episode is a reminder that autonomous driving's hardest problems are rarely about sensors or raw intelligence — they're about the messy, improvisational grammar of human infrastructure, the orange barrel that means something different depending on which way it's facing. Waymo's bet is that fixing that grammar, carefully and visibly, is cheaper in the long run than rushing past it.</p>",
+    "slug": "waymo-pulls-robotaxis-off-freeways-after-construction-zone-m-4bad31"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVpseUpWdjdRQjZ4YUUtaUNRdzB3ell5ck9zNHZWYVAxc3BKdVFMS1l0WkcyVXY4Q0d5a1M1dUJZYllxNkNTalppWVBNQURLN284ZVNraW9RU0ZNWnlQVFBGc3BpaVR1N3VjOWNDdGRTZ2ZYRVdtTXJteUlqTUthLXhOMVNwXzNKay1YNkR0aDNYYzFEVGZXY2szeDVEWjJhSXFr?oc=5",
+    "title": "Zoox launches its first robotaxi rides in L.A. County",
+    "source": "Los Angeles Times",
+    "published": "Sat, 21 Nov 2026 11:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Zoox, Amazon's autonomous vehicle subsidiary, has begun offering driverless robotaxi rides to the public in Los Angeles County.",
+    "companies": [
+      "Zoox",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkM4QS1YZk1oYmVXZ3B1Y0dWQ21PM2dKWW9tRTZJUXJTaHVIOENnWTJCcE9XUFBKdC01bmRjNnhZSWpaT0FjRkVFaUR1WVFla19TN2ZPMWl0LWhTd3IyNlBCd1d6bWd0eFNPTjVUcGZoOEdVcFFfMG5IZE16bTI2UlZKMnBmRE80TjdZSk1wb2xURkh6dzRJV0VocDRXeG5WS0E?oc=5",
+    "title": "Waymo Recalls Robotaxis After They Drove Into Closed Freeway Lanes",
+    "source": "Engadget",
+    "published": "Sat, 21 Nov 2026 16:01:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo recalled a fleet of robotaxis after they repeatedly entered closed freeway lanes, exposing a gap in how its vehicles interpret construction signage.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "autonomous vehicles",
+      "deployment issue"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGxVeWRpbVQtaFRKcU1NRksyX3lOc2ctdDdFUVh4TUNhQUdlRmRhVHdvQ2hNZnFqZXFDR0lYX1ZuZ3psYXpJSzhWekZ1R0lGR24tRmh5MUV0ZExibEUySUtWU3JXYVI0ZHFuWEE0Rk1DZWgyREI3eXZlQ1JVVGFKVGtfR3NvejB6dXdCNHQ1TC11RHl2?oc=5",
+    "title": "Texas robotaxi operators reported 27 crashes. Two involved minor injuries",
+    "source": "Austin American-Statesman",
+    "published": "Sat, 21 Nov 2026 11:04:22 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Texas robotaxi operators disclosed 27 crashes over an unspecified period, with two resulting in minor injuries.",
+    "companies": [
+      "Waymo",
+      "Cruise"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUk5QU0tFcmJGNXAycExVbU1uUmI2M0ZpVVVydFVNQ1YyWnk5anhRUHVnRU44SFZxb005RlFWNFZ6b2d6WmRpLVoydFJieldBOHhBdVlmUW5lU2tlVnczTFBpS1Q1M3NPeU1JVndINmhsbnVTWG5waGdmSnhBRGZKQlNiUVQtSzFxeUZ3WDRaNWdENWlXdDNRbUdGYUcySFlLeXJ3MzlFeXcxbGw2?oc=5",
+    "title": "Tesla Stock: Elon Musk Confirms FSD v15 December Release, Robotaxi Expansion Nears",
+    "source": "Coinpaper",
+    "published": "Sat, 21 Nov 2026 19:52:15 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Elon Musk confirms Tesla will release Full Self-Driving v15 in December as the company pushes toward a wider robotaxi rollout.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "FSD",
+      "robotaxi"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSE1pZm12Uk9OVmw0VGdmUGNmV1pBMFFtYW15UDB1WXFhUmRzRzVCMk1uMmd4cF9EUGlKaDI4ZjBvR211d25qMnZZYXp5ZlhWVjNXbzRyVlJYalB6RHcwZjNYSXFFclUtOTFEdUFDZm42N1ZnaTFxUnFBUERWSGhrRVZWdEVGQmNkc1RlUzgwLWZQZjE5M3N0c2E0X0tsQllrYU5QQ25vU1ItMUpmWXNfNHZyb3RyTklHak9B?oc=5",
+    "title": "Waymo Temporarily Pulls All Driverless Vehicles From U.S. Freeways After DMV Says They ‘Pose an Imminent Hazard’",
+    "source": "People.com",
+    "published": "Wed, 18 Nov 2026 22:17:21 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has pulled all its driverless vehicles from U.S. freeways following a California DMV determination that they pose an imminent hazard.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory action"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TWjdoZ3VQMkJ0N01UNXVJUmgzR1lBWUJ0OXl2enM4bUJmSVNYWnJBbDhWcnhQNzA1VzVEVHc0OUhCOVVlemxFTXYwenVibF9rb3FCSXcybVVEVUhwVVdMNFFQd3NXVlBMOW9lN3hYMUp4XzJUMWpWc1Q3QkvSAYIBQVVfeXFMUGliVklxQWtBYkROVGpvY1paUE9QSUYwVHBJanItd2NSYzQ5SG1zU2plRkRrTDhrNHA0NVBHM3RPZjRUdGlVdWtGRGZ0ZTZza0ozWGNhTWRNLXFMVTB4V1ktemJTd09PVmFhbHJSeWdPa1VnbC1EWjIyRk1CWTBXbGwwQQ?oc=5",
+    "title": "Waymo stalls in high San Francisco floodwaters during severe storm",
+    "source": "KTLA",
+    "published": "Wed, 18 Nov 2026 22:15:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo driverless vehicle stalled in flooded San Francisco streets during a severe storm, raising questions about autonomous systems in extreme weather.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "weather resilience",
+      "edge cases"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzBndnlVanNQd2tiSmRUM1Juamd6QVJucFZuVFBTWEJGX3ctZFhjNzR0d2ZfZE9mYXRuU3ZTS1Nzc3M0RV9DT1FBWG8wOE1UamRjY3ZKQVZrMXVtQzlVNzY5dndkY0tEY0U5MkpsZzE3ZmEyajV6andUaHlGQmpQQ19MclRPd1hIUl9XNFljeXgtMGlLWW1vb2dHWlFDalJZbEo4alpTN09oUkNUdkc5N084VXdWdmQ2Vzh0X1c3UHk?oc=5",
+    "title": "Sweden's Nordic Air Defence launches K200 drone interceptor, pushes toward Ukraine tests",
+    "source": "Breaking Defense",
+    "published": "Fri, 20 Nov 2026 17:14:05 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Nordic Air Defence unveiled its K200 drone interceptor and is pursuing field trials in Ukraine amid European demand for counter-drone systems.",
+    "companies": [
+      "Nordic Air Defence"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "counter-drone",
+      "air defense",
+      "Ukraine"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFptdWJWbzNSRnJpdjAyZ2dFVEhoclQ3eHo1RkY3UkFacWZtQXJOaVV2MVVPRVphaExJS2dIMVdvZ05PTGdqWmxwSEJrSUFKblctX2lqMVZVRU40Umd4T0JTQ0lJMzhQX0pyRDJmTTRBYjF0ZEVCTDM2aVRuNksxUzVIOXpaS3VFajlXNUlESDl5cVZJMDVGWGtudXB6ZFpWVkdpLUFOV25uODlMdEJUVnVRa2NOQmwtVWQ4Y3o2NA?oc=5",
+    "title": "Elroy Air Scores a $70M Deal for Its Autonomous Heavy-Cargo Drone in the UAE",
+    "source": "autoevolution",
+    "published": "Sat, 21 Nov 2026 15:12:43 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Elroy Air has landed a $70 million deal to deploy its autonomous heavy-cargo drones in the United Arab Emirates.",
+    "companies": [
+      "Elroy Air"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "cargo delivery",
+      "heavy-lift",
+      "commercial deployment"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3FMcTNzT1NqeWxZMlVuTWRlWFBoYl9pbEQ4aHYxRmg0U1pfekZRRmhqV1VpSzBIQTZVczZHOWJxUy1WbkZZU092VFZBMnBfQUc0eHZzSkFqQWtwQzlZWHZuQjdDUmoxVzlrb3l1T2JuWlBkZDhhRVFfVHE3dE9PTksyNA?oc=5",
+    "title": "Soft Armed Quadrotor Drone from Autonomous Robots Lab Folds on Contact to Clear Tight Spaces",
+    "source": "TechEBlog -",
+    "published": "Sat, 21 Nov 2026 05:31:40 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers at the Autonomous Robots Lab have designed a quadrotor with collapsible arms that compress on impact, enabling flight through confined spaces.",
+    "companies": [
+      "Autonomous Robots Lab"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "soft robotics",
+      "collision avoidance",
+      "confined space navigation"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPblpjTTZreGIwNnFVMURkNmI3d002RVZ3eGc4Q21GcEJnYUpGWFdHQnBqN1RJbl82N2FXZ3NRb2NqdGRMbmhQaG1JMWdsTWRNTzlReVNTMHM3NTNRaUxlLUJXSWxUcU5VbnozbThhOEFPamk4SlZXdjZQWGdWU1lmaHl6dE1xaUJOcG9DUkFUMklWcy1LVUlQcmlOT0loZ3Q3bmI3V2NORlVrWGoxZWl3YklrMk4ySmFqZlMzWEJn?oc=5",
+    "title": "Turkish Military's Growing Use Of AI",
+    "source": "MEMRI | Middle East Media Research Institute",
+    "published": "Thu, 19 Nov 2026 16:43:28 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "MEMRI reports on Turkey's military adoption of AI systems across drone operations and tactical applications.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "military drones",
+      "AI",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZMjRGc2kwUlN5Wm1xYzZlczItSkFubUhiY2h4VEVoX2NiR2xvNnBuUFBkZFQ3eklYM2c4TVFWWV9EUGh0blZEd2MxV0V6VTlGd3VZ?oc=5",
+    "title": "GTA 6 reportedly played using Neuralink brain chip in new video",
+    "source": "Mashable",
+    "published": "Sat, 21 Nov 2026 17:08:27 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Neuralink demonstrated its brain-computer interface playing Grand Theft Auto 6 in a new video, extending its track record of gaming demos beyond simpler titles.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "gaming"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUh2M2FMekVNSFd5Wjc2SmxBM0ZfS3JVeTljS25oVmFfRmZDNWlfVzFlM3pibVhxZ19CYVVWS3BpcjJyaVlVaVpFbVYzM0hUR1dYLVhic29wN0J0R2FTeC1oSmNUOHkzSE9vRFktZkxKWVNwNV9JQ1F0X2p2RUNoNjNuVGU1RXRVNmtYdFFaSFBQR3ZULWRKaXpFTDhhUQ?oc=5",
+    "title": "Inside the race to put computers in the human brain",
+    "source": "Fortune",
+    "published": "Sat, 21 Nov 2026 12:30:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Fortune surveys the competitive landscape of brain-computer interface companies racing toward neural implants, with no single concrete development or breakthrough to report.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemxUX1hTeE9tTk1oV28yUjU1ZGVDcVozRHEyd0lFVXFNRThKMV9jblFDeVBnRjRXaFhvZUcxeU1oVng2dHdib29PZ3V0TUhsYnVkUEVlWGxoMW02YnZJVVNyZzF0aUtxYW9sTVpVbDNRalVldWJMV2RWNDJqUUtSVnl2VHd3NXNOczlLcEhrTERVX2FpZDRNOWp5bVJQZm93T194NA?oc=5",
+    "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+    "source": "IGN",
+    "published": "Sat, 21 Nov 2026 18:43:54 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "A Neuralink patient demonstrated control of Grand Theft Auto 6 using only neural signals from the company's brain implant.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural control",
+      "implant",
+      "gaming"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbzVCOVpiM09vcTF4THV0TkNjRzR3QTJMRGtuWXNxQktPU2RLNkIwdmx1dFBfME52cWpPRWM3VnVBR2syTTA4M3FtVDM0UjdodHJZMVFSUnQzT0JTdzFVQzBsSkMwRUFQQ2VVM05sRWxXbFo0ZHNIblE4LTN1bmxjQXBTTEZIRmJkbFp5S0htbVVxWkxNVkR1RW1sZGRlY05QNVNGZEFMWmZlN0FrSmV1ZDYzSHFLMkZxajZWNmwxaS1tZTVJREh5TkRjMDBrT1dLeEdCaUh4b1NuRlRHVzBvcVptcHpiZ19Sa3NsNjkyeWJKQnk5WE1NQUUxaGtRaW80UDJSelV3S2g?oc=5",
+    "title": "'Pretty wild': one gamer is using a Neuralink brain implant to play GTA 6 and says the chip has opened up a 'portal to the world'",
+    "source": "TechRadar",
+    "published": "Sat, 21 Nov 2026 13:30:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "A Neuralink brain implant user is playing GTA 6 hands-free, demonstrating the chip's real-world application beyond clinical trials.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "gaming",
+      "assistive technology"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0M1dXNhbU9MUnJZVHJqdjNtbXpRSXVUc0syai0wN2JXcGpTQ3NRUkFnN2EwWEdYdW5rQTRhNHdIY0FoZ0p1cGliclpnTkNjOHdGa1pBc2Ywc05nZ1NwanhFQS1OclNGOEVwUFdVTUtVbm8weHNETUNISTZOVndlTUptaU01aURfZTREU3dNdkIxU09vbDZXNS11cGVHVm5rcU1KNtIBrAFBVV95cUxQdFFsSDJOSVhZZWFFMGtkUGdDT21vWjhfcG1NWTR4Q2NtNzRuaE03REgxTFo0ckhiNl85VjRlcWw1d0lNSWtrSjY0TlVTNUFnNGM4SjJNY3ZNSFBCeTE5ZDRSWmptaFFrVVpnSnRQbmMwMnNxcTNRWFJDWC00Sy1WRmxwUWV0R2NmWEZoMzdIdVY4Z2VacXZtOWpHMzNvai11RnZQNWN3RFNDenRU?oc=5",
+    "title": "Man Plays GTA 6 With Neuralink Brain Implant, Elon Musk Reacts",
+    "source": "NDTV",
+    "published": "Sat, 21 Nov 2026 12:32:59 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "A Neuralink brain-implant patient played GTA 6 using only neural signals, with Elon Musk sharing the demonstration on social media.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzloanZyZXJvYU5SaHNCSHVpZlBFUnB3eFVTeFVCLW1MV21RdUtmRVk3RVNuNzJHaVRDbHpyRTRBR2hGMTYtMG5iTnJRc2tDZnhfenFCNUR2b0JOOUNXMnM4OUowd0hua1lnUnlFM1plenROMFRWVWNEdTk0LWVUY05rVW84VGw0b0IxcHp0YWlkQ2ducm8ycnV5SDhTR0xSTm9VNWdiTE1halpUX21VZWVtOA?oc=5",
+    "title": "Neuralink shares GTA VI brain-implant demo, with the control setup still unclear",
+    "source": "Superpower Daily",
+    "published": "Sat, 21 Nov 2026 15:20:09 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink released a video demonstrating its brain implant controlling Grand Theft Auto VI, though details about how the neural interface actually translated thought into gameplay remain opaque.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "motor control",
+      "demonstration"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGRnaGpWUnNFUm1kWHpVcV91eEV1dy1qUXhIOWdvQXdIdDBibFhGM0R3WkNmOEZhYmNMVjc5UDVjYTdEcG5CNVdBdWYyQ1g4cHp6TVBJT3hZNWRIdXpqNDJmbmw3REo3SXRJVnVUbkVKeFgtazBfVEZ3UEZ4bmgyQ0ttUGQ3QldrclphZk5vVFpSOUc1SzJvTg?oc=5",
+    "title": "Neuralink participant steers GTA VI speedboat using brain implant in new demonstration",
+    "source": "Interesting Engineering",
+    "published": "Sat, 21 Nov 2026 03:21:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A Neuralink brain-implant user navigated a Grand Theft Auto VI speedboat using only neural signals, demonstrating real-world control of a complex virtual task.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "motor control"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSUdnNWlQdF8yS0M3NDdWVWd1ZjlGWUNDUnZRWHpMSWJaMlFFNnVjd2ZaUHdFSHFmUFRZZXlmN292eHZHeXBPcW51X0JNdkFxa1l5eTVnSjRsTWJLZ3JrTUIyQ3JEVXVMNG1HUHZsWGRhWU5MU3BOMjJqS29aaWk3WVZlOE1fTjduMFVoaGJ5RnpuYndEbkNoNkEyQmNCN0E1SmRta2tsdUU2UU9XRUQxRFlJQ3Y2dDVsNk5WNVZHdUlJamk1X3kzUGt1aFpMeVpOcjNXMkdPV1c?oc=5",
+    "title": "Ashlee Vance's 10,000-word LIFE cover story takes readers inside Neuralink through Patient 1, Noland Arbaugh",
+    "source": "Dealroom",
+    "published": "Sat, 21 Nov 2026 07:11:27 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Ashlee Vance profiles Neuralink's first human implant recipient, Noland Arbaugh, in a 10,000-word LIFE magazine feature.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Ashlee Vance",
+      "Noland Arbaugh"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "human trials"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkV2ZUM0RUgyZl9NeFJ6LVZId3lTRUxrYm5oS3lKVjdTdUgxeTJpcXlNUUlFQUpTR1RsakpuTl9SOFZlR3EwMVlkbkRjcFVPbE91NmFYZktpTGZJYnlzZEstR2lJMU9UNVdfNDhnR0lmZUl3eDB2OWFYeC1SNFdfWkxDYUN0NTlhcHc?oc=5",
+    "title": "Neuralink implant helps clinical-trial patient play GTA 6",
+    "source": "Mezha.net",
+    "published": "Sat, 21 Nov 2026 13:36:06 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A Neuralink brain-computer interface patient demonstrated the implant's capabilities by playing Grand Theft Auto 6, extending early clinical-trial results beyond cursor control.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial",
+      "motor control"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGVVLTAtM0VNMG1UQjJDVE1qNS02RlhxQTh0ckMwd0Zsb1owS0RFYURVM2JBOXo4ODlVektuZk5yamRmVkI0WHhCcDhzWTFTRk9aU3ZCbVl2TGhsSUZlVVhJdi1wdDRabEJYX0RQYXhoVTNWSnAxZU51LW9EeGplZFNZTkJYSEZRbUpNNFpVVDlvT01oc3VQb0VGdkkwMVBzalllb1lydWtEandEMUNxOVF3X3MteG8?oc=5",
+    "title": "Neuralink shows a trial participant playing GTA VI with its brain implant",
+    "source": "Inven Global",
+    "published": "Fri, 20 Nov 2026 22:25:10 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink demonstrated a trial participant controlling Grand Theft Auto VI using its brain implant, extending the company's proof-of-concept beyond cursor control to complex video game navigation.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "motor control",
+      "clinical trial"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzI5WUpWRENWUjBqczZPMjZNc0dGUHUxRzBWMnc1em9qZVJPRHlwSEFPczRyVkpSVlBuQnc3Mm9WWmI2NmFrRm9DT3NhU292UFdfNjJIMkFFSUJKbkxER1hGQl9HakttbFlnM0swU2h6YU50X2tiV1lnMVYtamdjdnM5SGpocFJCOVhhNjdMcEx6QVJDcS1ORDNn?oc=5",
+    "title": "Neuralink Participant Plays GTA VI With Brain Implant Alone",
+    "source": "BASENOR - Tesla Accessories",
+    "published": "Fri, 20 Nov 2026 22:09:54 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "A Neuralink brain implant recipient controlled Grand Theft Auto VI using only neural signals, expanding the clinical demonstration of brain-computer interface capability.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural control",
+      "clinical trial"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXlpQ0J5eTRJT1lwSzl3akhKbDNpRnpxUXdrbFhsM0g5Mjltb2FTYTZmZmQwQ3p1LWdKVUxrRlZqbDFRQUlvR1d3cEhaT2M4RFgyUFFKOE9XMjE4eklGamdXU0NKbE40NEd4NllLNjZULVZ1TURkSEJpUmNGbzdLNHB1ODVEZmdmZGgyVUxKVE80dG5lYVJtNWJWVHJ1aTZtMW1DbmR2ZUpLZ1hvVE5Gdw?oc=5",
+    "title": "How Neuralink Turns Brain Signals Into GTA VI Controls, as Shown in New Video",
+    "source": "Around Prague",
+    "published": "Sat, 21 Nov 2026 09:01:48 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink released a video demonstrating its brain implant enabling a user to control Grand Theft Auto VI through neural signals alone.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural decoding",
+      "implant",
+      "real-world application"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakQwenNldTAwWHpyaXVraWpEYlFxMHM4amJLLS1hcnluY2wxVDVnbTdGTy1pOE1WWVdHZzRmOS1adlBaQjJGZ0xqeEpWXy1oOEVHWGs0eVIxM1I5UkhpWlQ2VV8wNVBfdW1sNVljR28xRktwSkdIUnlmMGwzakkzNFUzMjg3TUNtSkpGQjdab3pFejB4LUhVSFhFWFF4YzZfbWc?oc=5",
+    "title": "Neuralink Trained a Brain Implant to Control a Speedboat in GTA VI",
+    "source": "Root-Nation.com",
+    "published": "Sat, 21 Nov 2026 11:04:38 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Neuralink demonstrated a brain implant user controlling a video-game speedboat in GTA VI, a stunt that conflates neurotechnology capability with entertainment spectacle.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "motor control"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc0xPQXRmVkh1OGo5N213bFZ2ZGNYc0xiUWd3eTNwZFUtT1lVWXR3QXk3SndzTjdtM3ZnUjZUMlU3cktXTEZpdmpWNEJZTWFqVTNQTDNnYUsxRU5yQWV5OHJ0VFZBZFBCUnRPaEJSX3drME1Tajc4MzFiQWRSYmg3M21nRjhLbmR5eUpieTFUVlE0ODluTjN3UVRJU05HVXI3UkdYaXJRVmtWek5URVRUTWd5ZHNHMDBoSUltRjVXTC1jMm9feHpCZ1QwLVZSYWhoQ19mZUs4RVpXUdIB3wFBVV95cUxOcUE5Q2djZTVRU3pHUzkzS0JUaEZmWjNWS05kLUphMFlnY2FON1UteXhycGp6VUstT3NQYVM4X1JLUnNWMjV6d0pTWGdBdGsza2lHS0p5VVIyaHlZNGxBcVlUY1RDeWUxX19RbTg5U1NhbFRfVVZiR09Qd1JKMWYteUVOY1dXNzFHSGtwVTd0VlpoQUJjc0JobDhjOXFNcW9MZ1hWTmdsTTJVallZUlZ4c1NmY2h2ZjUwRHBNUzBWT1dKSTdFbU02TS0yOEs1R01LQ1ZyMnExczRJdENkS2pJ?oc=5",
+    "title": "Neuralink patient plays GTA 6 using only brain signals, no controller needed",
+    "source": "India Today",
+    "published": "Sat, 21 Nov 2026 09:44:31 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "A Neuralink patient played Grand Theft Auto 6 using only brain signals, demonstrating the company's brain-computer interface controlling a video game without a traditional controller.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "motor control",
+      "gaming"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UMll6M2NwSWgtVlB4cWsweHEtLVh0ME5DelR1enJHN2FuV1Y2TmNYQjFnTk05cUtQS2RiZE1IOFNadw?oc=5",
+    "title": "Neuralink posts “Playing GTA VI with a Neuralink.” Cue the cheers.",
+    "source": "Digg",
+    "published": "Fri, 20 Nov 2026 23:40:12 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink demonstrated its brain-computer interface controlling Grand Theft Auto VI, marking the first public display of its implant operating a commercial video game.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "neurotechnology",
+      "human-computer interaction"
+    ],
+    "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
