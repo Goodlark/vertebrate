@@ -118353,7 +118353,7 @@
     "first_seen": "2026-11-15T20:06:28",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -118592,7 +118592,7 @@
     "first_seen": "2026-11-15T20:06:28",
     "week": "2026-W46",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -118696,7 +118696,7 @@
     "first_seen": "2026-11-16T23:37:42",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121220,7 +121220,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121248,7 +121248,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121300,7 +121300,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121661,7 +121661,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -121984,7 +121984,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -124257,7 +124257,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -124936,6 +124936,899 @@
       "human-computer interaction"
     ],
     "first_seen": "2026-11-21T20:44:52",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0RDNndpWF9WMmU5VTlkSmJQRXVDTFpxbXJLQlYyTW9vR1FVYl9VYUJsZ2Y3eVJKdWJ4NWxMMV9kLXR3YndXMTJHTzBXRjRnVmYxclQxOE5xaUNjUVgwNnY1dk5fdURkX1liMElsS0lZRmFheUdoeGxsdzdTQTQtRW4teTZLN2tEQ0NTaTZwTDlRdkhySFV6eHBJdURrUi1IbXfSAacBQVVfeXFMTXNEMWRjMG9SMmJTbWpfV2Y0bGx3S2RyRTFERndfb2M4N0FCUEx1dXZLaC1FYmdQR2ZDbnFsa09kLWdKWlNlYnVhXzBiT3FfRG1VUmF5RWZrUjV6QnRKTTBEYjJpRGY3UW43cWdlR3BiTnNTbXQ2Z3ZOcHBJNDNWeEFBODJ0Qnp4UG0tRU1xelRuamgyUVA5STg3U3ZBV2FIckVYOW1ieVU?oc=5",
+    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+    "source": "CNBC",
+    "published": "Sun, 22 Nov 2026 18:55:05 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Figure AI, Eric Trump's robotics venture, has stopped covering employee health benefits as its cash reserves dwindle.",
+    "companies": [
+      "Figure AI"
+    ],
+    "people": [
+      "Eric Trump"
+    ],
+    "themes": [
+      "physical AI",
+      "humanoid robots",
+      "funding crisis"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ3dVOHhUYzFCTXh2OFkyUWhSRnNuV0NyVHFyTENBYVlNZ21sU1FyR1JNQTR5UEVTS0VObEg1RVNEa2YxejdTZFBMZGk5UWFPeVhmRjdtS1ExSnJTMXlObHpfS240TFVwV29tZHdIdW9sQW44NE9vNF82UVZlaXR4QmdtRVVETjVPZkJLa29iTk12b1lrVnoyV2pXUkNpVlh0cDVjUTRxRzJ2UFJPTWNqbV9vMVpTVU1saWxrWTNHVjFRbVBxa2FoYWpyeU9tSFBxdjU5WA?oc=5",
+    "title": "Nvidia expands Isaac robotics platform with new humanoid and AI development tools",
+    "source": "Robotics & Automation News",
+    "published": "Sun, 22 Nov 2026 19:59:30 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Nvidia expanded its Isaac robotics platform with new tools for humanoid development, moving deeper into the embodied AI stack.",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics platform",
+      "AI development tools"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlNaM3pha2IzZVE3b1VReTNIaE52YjdRblM5N212V2FJY3JRUTkxazdzTGlBOTRvX25YWW55OGdrZHJTZFBVaXRKRFE3bVdPenNVczhiaHplejFMcFh4eWZBYWhaeFFMRjZCajI1b3RYVkhYaVdDVW1RRERsM2FkNTRVNGI3bjI5TXhz?oc=5",
+    "title": "The manufacturing data gap holding back physical AI",
+    "source": "The Robot Report",
+    "published": "Sat, 21 Nov 2026 22:30:47 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "A manufacturing-data scarcity threatens to slow physical AI development, according to industry analysis.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "manufacturing",
+      "data"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBekJVSTd0eVhVSHVWTnc2RUxJUDdFZkMySzZUdDh4bUU0WHNURGo5RlNLdlcwSEljay10S0Q3Y3JVWUQ1MVZ6d0ZRNnpMYUpCYjJEaklrTzdBRGhtdDlJcXNB?oc=5",
+    "title": "China’s hidden robotics engine: How towel racks, vacuum motors, and car sensors became backbone of embodied AI",
+    "source": "Global Times",
+    "published": "Sun, 22 Nov 2026 15:21:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Global Times surveys China's supply-chain dominance in component manufacturing for robotics, arguing that commodity parts like vacuum motors and sensors undergird the physical AI boom.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "manufacturing",
+      "supply chain"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDJEcDZSRlVyS1VMR1VOWW1LY2ZzZG9jYmJTZkcwaFR1MEJrcWR5SUtpQm9IdkhlN3pYcFRmcHc3TG8xS0FDYVlCUEF1LTVoVDFtc0RwdXRHVDhEdDZ4YUxoaEFuSkhxZzhxZnhTSnotT25jYTVWcmcyWUxENHJVeGVjVWZEUGpYT2pmVjlfeWtDcFdxTy13NjFBWHFqTi0xTXB3NnVCQnZOU2JyNWZ2VU9VbDMtM0xGMmY1VWtSNHNsSzU2TTR3Qw?oc=5",
+    "title": "Physical AI value may move from robot hardware to deployment, McKinsey finds",
+    "source": "MarketScale",
+    "published": "Sun, 22 Nov 2026 01:45:56 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "McKinsey analysis suggests the profit motive in physical robotics is shifting from building the machines themselves to deploying and operating them.",
+    "companies": [
+      "McKinsey"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "deployment",
+      "business model"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkdIRkR5VEtMMHJBZE1lanRfWjlsaGRrM1dncnA2eXE5bEFoQ0p6eFNOeGJWQ09ZNlpicmVWNC1LMG1oZ3QwTG5tRl8wck9fNkNuRXlTWWZ0RHR0NzBHTUtMOEs1R1NyY09QSnZwY1JNVWV6c2otekQyVFBqR05kT3ZfREI2YXJ0SEVycV9veGhUQVZXZXJQZHRVSDJtRUQt?oc=5",
+    "title": "Tesla Cars to Stay on AI4 Chip as AI5 Goes to Optimus, Musk Says",
+    "source": "Electric Vehicles",
+    "published": "Sun, 22 Nov 2026 17:04:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Elon Musk said Tesla will keep the AI4 chip in its vehicles while reserving the newer AI5 processor for Optimus, the company's humanoid robot.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "chip architecture"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SM2ZIMWRKOEd4SkJSRUtYcGFhQm5Vb0pUT1I5UnZrdkxWOEtiZWFJT3d4N2VrQkVyVjdyWFhraDZOdHlKeXp4Rlk3V3hiNG1xMmdGd3gtZzU5dkRxU2xuQ2ZyUS1kT29ORlk3cWZxT2hCTUQtdHJ3S1I4am9lSlE?oc=5",
+    "title": "OpenAtom Forms Working Committee for Humanoid Robot Open-Source Community",
+    "source": "Pandaily",
+    "published": "Sun, 22 Nov 2026 07:51:40 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "OpenAtom, a Chinese open-source foundation, has established a working committee to coordinate development of humanoid robot software.",
+    "companies": [
+      "OpenAtom"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "open-source",
+      "physical AI"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemViMmJJaXpQSTZWRzVoeUR2XzBQanFpNndFTkJlODFNSXMtR1VUWHVuTklzRHZCWXlIQkhoaTBBdXFoZUZXXzljang3bFJEZEs4YmNXZ0dJTGhqSEk5V2VVeGVzU2YyZ0c5cldHQlJQVkNQdDdFcTVNZl92RnF0LXVDdDVZSExtclkzbE16dzRMNEpUcDkzZ3hVOW92RE5lSzZiUnNiT2hkRVNCWE5jZ0FZZHRyN0tZS0dyUEozYWZsa1JlbmlNVWVQRHhSaDR6Z0JJ?oc=5",
+    "title": "From GTA 6 to robot fighting: Humanoid combat league prepares for Melbourne debut",
+    "source": "Robotics & Automation News",
+    "published": "Sun, 22 Nov 2026 20:22:41 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "A humanoid combat league is staging its first Australian event in Melbourne, extending the novelty esports format beyond its initial markets.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "combat robotics",
+      "esports"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlpiR1Ztekwya21XcGw0cGNJaFRNSFFDeFFCRWJaTUVfYTVxVTJhbFFTVmo4dnV3a2FZajRTVVJ3d0NtQ3YxSmZYd1JnMkF6UXNBVWFRMm1LdDE2b2dpMV9CODVIbDhJSFpySTBSMUZvd3NHajlWTWFpTFYwQ3lrdl9KZWM0MGNZZnVkeUdURUFmUTFMd2FIdnd5Vm9TZUdmUElQT3RKcGVZNUlTSTRJQ0Q3U2NOSlRBeEd6SWlwOEFJSVhFN0F2eDR5V0dpbzVVMkdiR3ZB?oc=5",
+    "title": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities",
+    "source": "Robotics & Automation News",
+    "published": "Sun, 22 Nov 2026 14:45:10 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Boston Dynamics fitted its humanoid Atlas robot with wheels to experiment with reinforcement learning in a new embodiment, expanding the hardware's behavioral repertoire.",
+    "companies": [
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "reinforcement learning",
+      "physical AI",
+      "embodied AI"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHo4UzJST3IxLU5mWk54X2d4ajZoeExVcFV0RFRzMEQtcTNELXVKQXdnS2lkRVZWbXZXREVlQWU1d1lWdGFER3g0TGxRclVRNnMyZWQzMkdfWEY3a0lIakFGdUxrRGtvVF9hWlY2UmVpVXNGUy1HRF94WkZrelNsTTc0WWlweXBHYmtJNmtPbWQwT01PeVJaMF9DamFYaFdZRW5JMFdzUm1HZVpYUnVsTDJfb3FsNXQxclB1U3BOQzhKY1RyUFU3U3FIRkU?oc=5",
+    "title": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands",
+    "source": "Robotics & Automation News",
+    "published": "Sun, 22 Nov 2026 18:40:01 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tactilia Robotics, spun out from industrial gripper maker Schunk, launches with a focus on building dexterous robot hands for manipulation tasks.",
+    "companies": [
+      "Tactilia Robotics",
+      "Schunk"
+    ],
+    "people": [],
+    "themes": [
+      "dexterous hands",
+      "physical AI",
+      "manipulation",
+      "robotics hardware"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWW1KclhvWld5ZElpYjlJMk9UeFppdERPSzhjOHNPMjdtamltbC1DNVF1UU1YVXVBWm1FeDA5d2pHdkVOTnRNRGRSQk5ISW56VXJiMGJZTFZPYXFoWmJKZkY0T2w4ZXE5MEpKSm1uRThzTzF3ZTdlbDNvcEZDQ2FIS3JabnVMS1pHZ3Q1RnZpaERsV3FSZ2VKM3g1Z3FBVVpGcjE4YzlvMFotZzhDSXMyWTFUMXlmaXNGSHpIeXZDbllWdW05ZXY5aHFkVFpKWG1EaHF6dE1UZWRjVWlFdGlnZHNlM1BfOTBNVmhrNEJ0aU41MndUZEE?oc=5",
+    "title": "Waymo's Rough Week: Police Standoff, a Recall, and Another Freeway Retreat",
+    "source": "12News",
+    "published": "Sun, 22 Nov 2026 14:16:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo had a stumbling few days: a driverless car got turned around by Phoenix police at an active investigation scene, the company issued a recall after finding its vehicles struggle to properly respond to human override instructions, and it pulled robotaxis off freeways yet again. The freeway retreat comes as Tesla narrows the registration gap in Texas, adding competitive pressure to Waymo's operational hiccups.",
+    "companies": [
+      "Waymo",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "law enforcement interaction",
+      "robotaxis",
+      "competition",
+      "safety",
+      "human-machine interaction"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWW1KclhvWld5ZElpYjlJMk9UeFppdERPSzhjOHNPMjdtamltbC1DNVF1UU1YVXVBWm1FeDA5d2pHdkVOTnRNRGRSQk5ISW56VXJiMGJZTFZPYXFoWmJKZkY0T2w4ZXE5MEpKSm1uRThzTzF3ZTdlbDNvcEZDQ2FIS3JabnVMS1pHZ3Q1RnZpaERsV3FSZ2VKM3g1Z3FBVVpGcjE4YzlvMFotZzhDSXMyWTFUMXlmaXNGSHpIeXZDbllWdW05ZXY5aHFkVFpKWG1EaHF6dE1UZWRjVWlFdGlnZHNlM1BfOTBNVmhrNEJ0aU41MndUZEE?oc=5",
+        "title": "Waymo's Rough Week: Police Standoff, a Recall, and Another Freeway Retreat",
+        "source": "12News"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yVjlCTWlJV3lSRzRKWFVwaTVSd3Qwb0hCLUgyTkR3ZV9QQmtteTYxNWREZE01VlZwV1djd3VQRVdoN3k3Q3pWaE5TR1lTMkNEc1d0cklwXzE4Ym83STVaQi1IaDdteHQxYVlHRGtNeHhyV0JoclE?oc=5",
+        "title": "Waymo Pulls Robotaxis Off Freeways Again as Tesla Closes the Registration Gap in Texas",
+        "source": "BigGo Finance"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzlGWFhaUFh4X3lJaE1iUVJWTjh2RElzY3B2YkNNY0QweVg1TFNyZXRmQkFXdkppVU9wTS0xOFJZN3NudEJadjVfaElHZzN1T2E2MzVFTWZIaUxsWjFSbVMxOTNmcXdvc3I0Y1NIeFhPb3FhZHh1T044TVhRSnc0LVYzc3JycEE?oc=5",
+        "title": "Waymo Is Recalling Its Robotaxis Because They're Not Great At Dealing With Human Instructions",
+        "source": "InsideEVs"
+      }
+    ],
+    "body": "<p>Over the span of a few days this month, Waymo's driverless cars managed to get turned around by Phoenix police at an active investigation scene, triggered a recall over the vehicles' trouble following direct human instructions, and were pulled off freeways in several markets for the second time this year. Each incident is small on its own. Together they read like a company hitting the limits of a technology that has, until recently, seemed almost suspiciously smooth.</p>\n\n<p>The Phoenix episode was the most mundane and the most telling. A Waymo vehicle, navigating near an active police investigation, had to be manually redirected by officers on scene — the kind of real-time judgment call that humans make by reading body language, hand signals, and the general chaos of an emergency, and that a robot, however well-trained, still finds opaque. It is the latest entry in a running tension between autonomous vehicles and the police departments that have to manage them in the field, a relationship that remains more improvised than anyone at Waymo would like to admit.</p>\n\n<p>The recall, meanwhile, cuts closer to the core promise of the technology. Waymo said it found its vehicles were not reliably responding to human override instructions — the fail-safe that is supposed to let a person step in when the software gets confused. A self-driving car that struggles to take direction from a human is not a minor bug; it is a crack in the premise that these vehicles can always be stopped, redirected, or corrected when something goes wrong. The company has not detailed how many vehicles are affected or what the fix involves, but the timing, layered onto the Phoenix incident, suggests a pattern rather than a coincidence.</p>\n\n<p>Then there is the freeway retreat. Waymo has again withdrawn its robotaxis from freeway driving, a maneuver it has made before and reversed before, suggesting that high-speed, high-consequence driving remains a harder problem than city streets full of pedestrians and stoplights. The pullback arrives just as Tesla is closing the registration gap in Texas, pushing more of its own vehicles onto the road and chipping away at what had been a comfortable Waymo lead in deployed autonomous miles.</p>\n\n<p>None of this amounts to a crisis for Waymo, which still operates the most extensively tested robotaxi fleet in the country and carries paying passengers daily in multiple cities. But the stumbles matter because they puncture the narrative of inevitability that has surrounded the company — the sense that autonomous driving was simply a matter of scaling up a solved problem. Recalls and freeway retreats are the unglamorous mechanics of an industry still working out its edge cases, and edge cases are precisely where public trust gets made or lost. For an industry whose economics depend on convincing regulators, insurers, and ordinary riders that machines can be trusted with judgment calls humans make instinctively, a rough week like this one is a reminder that the hardest ten percent of the problem is still, stubbornly, the whole point.</p>",
+    "slug": "waymo-s-rough-week-police-standoff-a-recall-and-another-free-7c96f2"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1obGtYV01PMXdhbTNRX1hMMXh4SDQtUHVQT1JEd19PRTlVVFQ1U1J1SkZSUF9tc1h0NTNGUlFZblZDSjI1Tk11cW81cG5BQUl1VUJEQjd5VERfZ1o1c2pFNGtValhlODVLNXZ0ZHdkLU04MGpZZ2R3ZGJ0SQ?oc=5",
+    "title": "Self-Driving Robotaxis Just Got A Big Banhammer In California",
+    "source": "CarBuzz",
+    "published": "Sun, 22 Nov 2026 14:00:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California regulators have imposed new restrictions on self-driving robotaxi operations in the state.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "regulation"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFlWVlF6LTNxV3NWSThOaVRRSExjUVRKMlg4UFBCbWtKa1ROOEtqNkg5d0VmQWZHNGt3dGpvLXlqSXU5NW95V0Q1QVRQbjJMWklUaDBPOVg5aUNoSWtremZQem5kWnk0LVl0Ym5VYnhIYWtQa0EweGo2WTVhQkhxcGtmUlp3a1JQUDV0QlE0Rmc?oc=5",
+    "title": "They said it: DMV tells Waymo ‘no freeway for you’",
+    "source": "The Mercury News",
+    "published": "Sun, 22 Nov 2026 13:30:33 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's Department of Motor Vehicles revoked Waymo's permit to operate driverless vehicles on freeways, restricting the company to local streets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory",
+      "California"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVTdLazhaSW1HUjBVQ3c2MmJ4d2EzMi1MeEMteXBiZ0wxdWJzbXZfVVJBQkZiR0VNWXhQOGp6bVRqZWxCdEM4VjFCLUhfRWRIdzcyR0syaE1uTEZlcDBSM3BJUjZSOTQ0RW10dE00VXRTMnBrSExvSFgzdGdkQW9sUnYzeWNuUjNESVNTM2NidnF0MWxWcUJ4aC0wNWRpQ0p3MXptbGlHSjMtOXpsT2xhRG9vRFNwUkZsLXNPTWZGZUFTWnR5NzJsU0tSX2xmaEtRdEVOaTVIXzJNal9iTXVmb25scDZlRllha2d4MW5kS1ZWaWROR2kxd29NNUhwNVVXRU9BZm9MX1V5eEtUSG1scHVoMmN6MWM?oc=5",
+    "title": "Analysts Agree: Tesla's Robotaxi Math Doesn't Work Without a Much Bigger Fleet",
+    "source": "The Motley Fool",
+    "published": "Sun, 22 Nov 2026 13:12:02 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "J.P. Morgan estimates Tesla would need roughly 18,000 robotaxis by late 2027 just to match Waymo's accumulated mileage, while Barron's points to Pony AI's own unit economics as evidence that Tesla's ambitions demand a far larger fleet than currently deployed. Both takes land on the same unglamorous truth: scale, not software demos, is what will decide whether Tesla's robotaxi bet pays off.",
+    "companies": [
+      "Tesla",
+      "Waymo",
+      "J.P. Morgan",
+      "Pony AI"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVTdLazhaSW1HUjBVQ3c2MmJ4d2EzMi1MeEMteXBiZ0wxdWJzbXZfVVJBQkZiR0VNWXhQOGp6bVRqZWxCdEM4VjFCLUhfRWRIdzcyR0syaE1uTEZlcDBSM3BJUjZSOTQ0RW10dE00VXRTMnBrSExvSFgzdGdkQW9sUnYzeWNuUjNESVNTM2NidnF0MWxWcUJ4aC0wNWRpQ0p3MXptbGlHSjMtOXpsT2xhRG9vRFNwUkZsLXNPTWZGZUFTWnR5NzJsU0tSX2xmaEtRdEVOaTVIXzJNal9iTXVmb25scDZlRllha2d4MW5kS1ZWaWROR2kxd29NNUhwNVVXRU9BZm9MX1V5eEtUSG1scHVoMmN6MWM?oc=5",
+        "title": "Analysts Agree: Tesla's Robotaxi Math Doesn't Work Without a Much Bigger Fleet",
+        "source": "The Motley Fool"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVNDVJQ3pDUW5OcnJTRmFTSllvQzQzaXpvai1aVi1OSlhBb0dnVmF6Qkl1SkxYaEJfOEMzbmh0WThxVG1qdnJnMHFLTW9VblkyalRnSnFMclJWeFRXbTI3NVFCOEdVLTE1MzR2cVFXcXZTSk5CM214UWI4MA?oc=5",
+        "title": "Pony AI Results Show Just How Big Tesla’s Robo-Taxi Fleet Needs to Get",
+        "source": "Barron's"
+      }
+    ],
+    "body": "<p>Two separate pieces of Wall Street arithmetic landed this week on the same uncomfortable number for Tesla: thousands and thousands of cars it does not yet have on the road. J.P. Morgan, in an analyst note published this week, estimated that Tesla would need a fleet of roughly 18,000 robotaxis by late 2027 simply to rack up the same accumulated mileage Waymo has already logged — a tacit admission that Tesla is not competing on technology timelines so much as catching up on sheer volume. Barron's, drawing on the unit economics disclosed by Pony AI, the Chinese autonomous-driving company, arrived at a parallel conclusion: whatever Tesla is running today in Austin and a handful of other cities is an order of magnitude short of what its robotaxi ambitions require.</p>\n\n<p>Neither note is a leak or a product announcement. Both are exercises in modeling, and they say more about what Tesla hasn't shown than what it has. But the convergence matters, because it reframes the robotaxi conversation away from the terrain Tesla prefers — slick driving demos, Elon Musk's stage promises, the cinematic reveal of the Cybercab — and toward the much duller terrain of fleet size, utilization rates, and revenue per vehicle. That is the terrain Waymo has been grinding through for years, expanding city by city, permit by permit, while quietly compounding millions of real-world miles. Pony AI's disclosed economics give analysts an actual yardstick: how many dollars a single robotaxi generates against how much it costs to operate, insure, and maintain. Run those numbers forward, and Tesla's current handful of vehicles looks less like a fledgling empire than a pilot program.</p>\n\n<p>For the robotaxi industry broadly, this is a useful corrective. Investors have spent two years pricing Tesla's valuation partly on the promise of autonomous ride-hailing at a scale no competitor has reached, a bet that treats self-driving software as the hard part and fleet deployment as an afterthought. The J.P. Morgan and Barron's analyses suggest the opposite: the software may already be good enough for limited service, but the business only works once thousands of cars are earning fares every night, absorbing their own depreciation, and generating the kind of mileage that makes the safety data statistically convincing to regulators and the public alike. That's capital-intensive, logistically unglamorous work — depots, charging infrastructure, insurance negotiations, city-by-city permitting — the sort of grind that doesn't show up well in a keynote.</p>\n\n<p>The stakes extend beyond one company's stock price. If scale really is the deciding variable, it changes how the whole sector should be valued and regulated, and it tempers the narrative that whoever \"solves\" self-driving first automatically wins the market. It suggests instead a more capital-markets story: who can finance, insure, and physically deploy tens of thousands of vehicles fastest, safely, and profitably. On that measure, Tesla's robotaxi future looks less like a software release and more like a trucking company's expansion plan — slower, costlier, and far less cinematic than the demos suggest.</p>",
+    "slug": "analysts-agree-tesla-s-robotaxi-math-doesn-t-work-without-a--4819e5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzlGWFhaUFh4X3lJaE1iUVJWTjh2RElzY3B2YkNNY0QweVg1TFNyZXRmQkFXdkppVU9wTS0xOFJZN3NudEJadjVfaElHZzN1T2E2MzVFTWZIaUxsWjFSbVMxOTNmcXdvc3I0Y1NIeFhPb3FhZHh1T044TVhRSnc0LVYzc3JycEE?oc=5",
+    "title": "Waymo Is Recalling Its Robotaxis Because They're Not Great At Dealing With Human Instructions",
+    "source": "InsideEVs",
+    "published": "Sat, 21 Nov 2026 19:07:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo is recalling its robotaxis after discovering they struggle to respond to direct human instructions, exposing a gap in how the vehicles interpret driver override requests.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "human-machine interaction"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2ZkUHhXcVlDSGkyVjZONVotRGdoREg0WG4yQk9VX3FCSjN0TkE0QXY2VHRQWU5Vd3Y2ZFdsbXRYUXkxbzFlOFBDSXJKUlo4SnJkQVpReEs1T2hsLTJpdkliYUdfeHpwUEI2U2tmRFZsSWZ1czVQNWwxdW5rNFk1N0hYYzNkeHFkVDFlS21JbzdVellJNWVnOElmNTZFZWtUQmpwZTJBel9hZi1YNmVscXdRREE4aXY0MGg1QXR1UUXSAcYBQVVfeXFMTTFFdGt0aTZ5YXh5b1pNSmFTeVhHY21FSVJ3VUI1NXBDdk95aDRkNkxodlZIWUQ2V3h4WUdQWXg0cWpYWjdmT0pqTlF4YzRBNWlPQmdTQm1kd0k4RUM3Ny1PMjlET1JMdkFpN3hLV1lQOXdCVUc2ZDRQNjRhU25BTUxNMzRfRVQ1QUhncV9DWjdXbHN0eVd4RUxyZjVPdU5CZDJPbXZnbE9xMjZ1X2NSaUU0aDdwWElvY3FfTHhNSUxUMUNYem1n?oc=5",
+    "title": "Waymo issues double safety recall days after California bans robotaxis from freeways",
+    "source": "Fox Business",
+    "published": "Sun, 22 Nov 2026 04:53:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo issued two safety recalls just after California regulators banned robotaxis from state freeways, raising questions about the company's operational readiness during a critical regulatory moment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety",
+      "regulation"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbksxTWhyRE9hODFYSnNjWk45RmZTQVhBRkpwNm9BLXNZN2FKM01mVUtVNkk2U3d2RGpFbmVTN0c3NHZscUJiaFd5UGpYa2c5X21Ma3hxc291d1FiRnMtakdSbUxrelA3UHRQYVJfbVRXTTdfX25aRG54U1lFLUhGZUx0X3JOOWo0dHFfUUZOaUpIR3pW?oc=5",
+    "title": "Waymo’s California Freeway Ban: 2 Incidents, 5 Markets",
+    "source": "shattered.io",
+    "published": "Sun, 22 Nov 2026 14:59:24 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo faced California freeway restrictions following two incidents, reducing its operational footprint across five markets.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory restrictions",
+      "safety incidents"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDNVLTllUW1zbkdHY0pRQktMMnJmRWRRWUVhTm1yczZyRG1RSnhhWTNEblNhcWN2ZWt5UW9iR0tVS1ZEWFluY1lxT0lKX1ZwcC1abEVwNDJnOW9wY2xzdmM2a0s2dmxiejVzeFk0QUUzRTlrN1BCdVZfMGlnR0lIRVd5UG5jM2VWY1VPWU5OYw?oc=5",
+    "title": "J.P. Morgan Says Tesla’s Robotaxi Fleet Could Match Waymo’s Miles by Late 2027 With 18,000 Cars. The Number That Matters Is How Much Each Car Earns.",
+    "source": "Yahoo Finance",
+    "published": "Sun, 22 Nov 2026 13:32:02 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "J.P. Morgan projects Tesla could deploy 18,000 robotaxis by late 2027 to rival Waymo's miles, but underscores that unit economics—not fleet size—will determine winner.",
+    "companies": [
+      "Tesla",
+      "Waymo",
+      "J.P. Morgan"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "fleet economics"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWllhQ2dHU0hlRHZpdlRJalhTbEpSb3VBQzBJNms1RVBfNXR3Q2hoRW4wNkd4MzcxQ01LNUFoU3lkNl9NZzltMDVXR0cwVXJEZ2ZSY3dPVzRDamVXZmJVaVB2dE5pN3BQbWEySE40cC1OdmdYdnlnQ0FndXBXa0M0OU5IZWJkaFdjX2JwR04tWHdkUTlWUXJXVDJPMVB4eEVx?oc=5",
+    "title": "Tesla Full Self-Driving v15: a first-hand look at Reality View, new features",
+    "source": "Teslarati",
+    "published": "Sun, 22 Nov 2026 19:55:08 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla rolls out Full Self-Driving v15 with a new Reality View interface that offers drivers a more transparent view of what the system sees.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "Full Self-Driving"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BbzVmejc2LWc0azY4SE40OWxFaEV6NVhKdlhHTXhYUW1xWkhpaUQxZ2NPRGppVS0tSzJCalFHN1R5ZDRKODNzNVk4RklFTjJZdFJlSVIyc1h0RWx2bnc2UnJvZE40UUlSazFwNXBkZk54bHdPR1E?oc=5",
+    "title": "Elderly People Who Can’t Drive Safely Anymore Are Buying Teslas So They Can Careen in Self-Driving Mode",
+    "source": "Futurism",
+    "published": "Sun, 22 Nov 2026 16:50:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Futurism publishes a speculative take on elderly drivers substituting Tesla's Autopilot for lost driving ability, conflating marketing claims with actual safety capability.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "safety"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yVjlCTWlJV3lSRzRKWFVwaTVSd3Qwb0hCLUgyTkR3ZV9QQmtteTYxNWREZE01VlZwV1djd3VQRVdoN3k3Q3pWaE5TR1lTMkNEc1d0cklwXzE4Ym83STVaQi1IaDdteHQxYVlHRGtNeHhyV0JoclE?oc=5",
+    "title": "Waymo Pulls Robotaxis Off Freeways Again as Tesla Closes the Registration Gap in Texas",
+    "source": "BigGo Finance",
+    "published": "Sun, 22 Nov 2026 17:25:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has withdrawn its robotaxis from freeway operations while Tesla accelerates vehicle registrations in Texas, narrowing the competitive gap in autonomous driving deployment.",
+    "companies": [
+      "Waymo",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robotaxis",
+      "competition"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVNDVJQ3pDUW5OcnJTRmFTSllvQzQzaXpvai1aVi1OSlhBb0dnVmF6Qkl1SkxYaEJfOEMzbmh0WThxVG1qdnJnMHFLTW9VblkyalRnSnFMclJWeFRXbTI3NVFCOEdVLTE1MzR2cVFXcXZTSk5CM214UWI4MA?oc=5",
+    "title": "Pony AI Results Show Just How Big Tesla’s Robo-Taxi Fleet Needs to Get",
+    "source": "Barron's",
+    "published": "Sun, 22 Nov 2026 14:30:35 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Barron's analysis uses Pony AI's autonomous-vehicle economics to argue that Tesla's robotaxi ambitions require a far larger fleet than currently acknowledged.",
+    "companies": [
+      "Pony AI",
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbVVLREJ1WHZ6d1kyZDVibG1CZHFsZG9ZS2pST2pLSVlVX0pYdVlzME1icElvdmF3cDU4RlZZX1lMSnZDV0pNLWR3dXRkVFVLQWE1eXJsRXpVVmNscWJEN3RrZHM2c3U1emRpS05GWlhmal9UV1FLMGh3RGFtZ25TSE1fcjRaSVNTMFk5cFhRc29GNW5ycFNJMUllTDBzY3VfOFVxRkk4dW5iaFgybnZDTEF1M0JxU3RQaV9leUVkSnhfNGRoWVNLY19pbGdudi1pblE?oc=5",
+    "title": "US Army demonstrates autonomous drone swarm launched from unmanned ground vehicle in Germany",
+    "source": "Zona Militar",
+    "published": "Sun, 22 Nov 2026 03:05:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The US Army demonstrated an autonomous drone swarm deployed from an unmanned ground vehicle during exercises in Germany, showcasing coordinated multi-unit operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone swarm",
+      "autonomous",
+      "unmanned ground vehicle",
+      "military"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcER2clFFanlBNUhTVUFiMlQzaXJWZ1lqQkp0WVBvRWxwenRSNGVZc2czVmxyVGpPMlQ3RDgwRmFtSUx5Snk5QUc2UXphd3lwVkkwUWhpY2JJX2FoQTZYZDY2MFRzcHNScUVJZGkzbk1ZX081ajNlaVhhNDhSR0NOX25wQnc5T1ozRnZiOEwtcW90Z2FpSUhVMThHSkxaRmJ3UFdOQnU5Z1ZheEJmd25EbUlqMDByR1RPcHh0LWxNWVlzcm1yVENXRl91Zmo2SXM?oc=5",
+    "title": "U.N.-Sponsored Talks on Killer Robots Rules Achieve No Result",
+    "source": "Gizmodo",
+    "published": "Sat, 21 Nov 2026 21:20:02 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "United Nations talks on autonomous weapons regulations end without agreement, leaving international drone policy in regulatory limbo.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "regulation",
+      "policy",
+      "international law"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQSl9zYzZLM0ZNSVVvUk1HdWlYaU9ITG9ZT04tQ0NKYmRtWjNBdWJCWmE3Nk00YTE1aVNrWFVLZ3Y5RXVyVF9kbzRtdVltYU1yNV9tWHZvbW5pR0cwb0tTbTdFU3c4bmhKSXZpNDZUbjY3VkRYZmZWVDNHQlV5SjNYTjJPOENENmtZYmxJZGJfRXdZNlBMWXFBVkhKWDlfemFLS21jaWxEbXROTjA0ZDhwZGt1REV0YVRkUVNfazhvNU1OT08ySGdxMy1sNDNUcmNYVWlrbXdlcjg3ajZ3R3lSOW1uNzlGb09qa1RSS3N0ZEFpdmJyWWJuVm1qdnU1NmtEMHRMWXN6S1N4NmhibTg1VkZPeHlUMUR2aE1BdnpFTmkxNjVMR2lRZ2QtbjFfM09palBWdURyTzlpMzFiRTlkbUlHc2l6VzJKQi1hMzB4WS16QQ?oc=5",
+    "title": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind — brain-computer interface maps imagined ring-finger taps and hand slides to a PlayStation 5 controller",
+    "source": "Tom's Hardware",
+    "published": "Sun, 22 Nov 2026 14:49:48 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A Neuralink trial participant demonstrated control of GTA 6 on PlayStation 5 by imagining finger movements, replacing the mouth stick he previously used.",
+    "companies": [
+      "Neuralink",
+      "PlayStation"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural decoding",
+      "gaming",
+      "assistive technology",
+      "paralysis"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96ODNoN2pES0RIT1F5RWRhNVJRNG1VME9CT3NmYjdPLVNveTJBVGdHTUYzcHY1ZjNCcmNPN0hQUG1TVEhfM3Zna3l0c0NPRkU5UEl3dktUNXJqWXRWZnIwS2tQRVR6SXZfYWNCX0ZwT053bC15N0QxRC1B?oc=5",
+    "title": "Neuralink Lets Man Play GTA 6 With His Mind",
+    "source": "PCMag",
+    "published": "Sun, 22 Nov 2026 16:49:20 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink demonstrated its brain-computer implant enabling a paralyzed patient to play Grand Theft Auto 6 using neural signals alone.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "motor control",
+      "assistive technology"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbnYxTExsQXpBTkhLTnEzRnZzQ3VJSF8zSjZNaC1MQlFZUklQRHluMUxYTUpLTFMzZ3pwMWVSRkxvLWtRTVkyS2c2MDY2X3BibmpIQW9BSzZXc2tpY3dzMkl6RWJHckpvOTJpWl8ybUNpSUlRX2NNTENlR0Vna3JqMEtB?oc=5",
+    "title": "Inside US firm Neuralink’s brain chip and its three potential uses",
+    "source": "Interesting Engineering",
+    "published": "Sun, 22 Nov 2026 14:57:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Interesting Engineering outlines three potential applications for Neuralink's brain implant, rehashing the company's stated ambitions without reporting new developments.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGRIQjBUNUtkdjJMZnpXVkduQ1FGd01UZUhCeTlhZDhjZlJLMzhXQWhWa3U4dG54SXZTWXBZSkYxNE9VMlVfRDN1Qk1xNkJjNWhuQ0dHWkpsMTdnRC01dWhwZHVEZGNzWnNyMXlxaXJrRjIxZ0xoS2ZFeE1kNzBzeVY4UUV1MG5CSXRNelU5TTRuM0xDbFh3VzhhUFJWeV9xa0NlV3M0aVhudWxk?oc=5",
+    "title": "Neuralink Participant Who Once Played With a Mouth Stick Now Takes On ‘GTA 6’",
+    "source": "Men's Journal",
+    "published": "Sun, 22 Nov 2026 13:36:55 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "A Neuralink patient who lost the use of his limbs is now playing GTA 6 using the brain implant, demonstrating a marked leap in control from earlier mouth-stick gaming.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "paralysis",
+      "motor control"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVBEaEF6WEV6RGRBV2hCLTZQV0FteEN3NVBjc0dnWXVFdk9laThtWVhyRHk5RmtKU3dwb25kNndhNV9mWm5VSFFKb2JncDFiakRmbld2WTNweTFadkZoRE13UG9NU2pDU241eUpTeXNReU5TZ3dzVURMR1M2UmUwd3ltdXhIWTlua3ZNeUVhOFZtY2l1aXp5VElyeHVSTERXckdHX1ZSM0pWSkpJQ2tWa0FR?oc=5",
+    "title": "Neuralink's Brain Chip: Hype Meets a Flight-Sim Demo",
+    "source": "Hardware Busters",
+    "published": "Sun, 22 Nov 2026 19:09:12 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink's brain-computer interface is back in the headlines on two fronts. A trial participant used imagined finger taps to pilot aircraft in Grand Theft Auto VI, a vivid demonstration of real-time neural decoding for complex motor tasks. Meanwhile, a separate roundup recaps the company's broader stated ambitions for the implant without offering anything new beyond what Neuralink has already claimed.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural decoding",
+      "motor control",
+      "clinical trial",
+      "neural implant"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVBEaEF6WEV6RGRBV2hCLTZQV0FteEN3NVBjc0dnWXVFdk9laThtWVhyRHk5RmtKU3dwb25kNndhNV9mWm5VSFFKb2JncDFiakRmbld2WTNweTFadkZoRE13UG9NU2pDU241eUpTeXNReU5TZ3dzVURMR1M2UmUwd3ltdXhIWTlua3ZNeUVhOFZtY2l1aXp5VElyeHVSTERXckdHX1ZSM0pWSkpJQ2tWa0FR?oc=5",
+        "title": "Neuralink's Brain Chip: Hype Meets a Flight-Sim Demo",
+        "source": "Hardware Busters"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbnYxTExsQXpBTkhLTnEzRnZzQ3VJSF8zSjZNaC1MQlFZUklQRHluMUxYTUpLTFMzZ3pwMWVSRkxvLWtRTVkyS2c2MDY2X3BibmpIQW9BSzZXc2tpY3dzMkl6RWJHckpvOTJpWl8ybUNpSUlRX2NNTENlR0Vna3JqMEtB?oc=5",
+        "title": "Inside US firm Neuralink’s brain chip and its three potential uses",
+        "source": "Interesting Engineering"
+      }
+    ],
+    "body": "<p>A Neuralink trial participant recently took to the skies over Los Santos, the fictional sprawl of Grand Theft Auto VI, piloting a plane not with a joystick but by imagining the act of tapping his fingers. The demonstration, posted this week and reported by Hardware Busters, shows the pilot's thoughts translated in real time into the kind of fine motor commands that make a video-game aircraft bank, climb, and land. It is, by Neuralink's own telling, a step forward in decoding complex intentions from the brain's electrical chatter rather than the simpler cursor-and-click tasks that have defined most public demos since the company's first implant recipient went online last year.</p>\n\n<p>The flight-sim footage arrived alongside a less consequential item: a roundup from Interesting Engineering cataloguing the three uses Neuralink has long said its implant might eventually serve — restoring movement to paralyzed patients, giving speech back to those who've lost it, and, further down the runway, augmenting healthy brains. Nothing in that piece is new; it is essentially a recap of ambitions Elon Musk's company has been voicing since its founding in 2016, repackaged for an audience newly curious because of the plane video.</p>\n\n<p>That pairing — a genuinely interesting technical demo riding alongside a stale ambitions list — is a useful snapshot of where Neuralink actually sits. The GTA VI stunt matters because flying a virtual plane requires sequencing multiple imagined movements quickly and accurately, a harder decoding problem than moving a cursor to a target. If the company can reliably extract that level of nuance from a participant's motor cortex, it suggests real progress toward implants that could let paralyzed people operate wheelchairs, prosthetic arms, or computers with something closer to the dexterity able-bodied people take for granted. For the broader brain-computer interface field — which includes academic labs and rivals like Synchron and Precision Neuroscience — a public, legible demo like this one also does marketing work the whole industry benefits from: it makes an abstract technology feel tangible to people who will never read a peer-reviewed paper on motor decoding.</p>\n\n<p>But the gap between a video game and a hospital is still wide, and it's one Neuralink's critics have pointed to before: compelling demos, produced on the company's own terms and timeline, without the peer-reviewed data or long-term safety follow-up that regulators and skeptical clinicians want to see. The recycled \"three uses\" piece is a reminder that the company's stated endgame — restoring speech, movement, eventually something like cognitive enhancement — hasn't changed much in years, even as individual demonstrations get more impressive. For patients waiting on a therapy, and for an economy watching whether implanted neurotech becomes a real industry or stays a string of viral clips, the plane in GTA VI is a genuine milestone in decoding. Whether it's a milestone in medicine is still an open question.</p>",
+    "slug": "neuralink-s-brain-chip-hype-meets-a-flight-sim-demo-94d1a7"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGWEVvNVZ1V1l3MDFJdU01RXN6a0xwTFFHWjZTS294QlFlXzJZRkpXbWx2ZU1raXI3emJvSndiZkIzM0pIT1BYZDJPbTZwNTAwckVienJZcnZ6eU9CNmlXLVUtQTJzM295OTlRMDNZNTZaUGJBX1E?oc=5",
+    "title": "Global brain-computer interface companies rise to 1,175, with China's three major city clusters accounting for nearly 80%",
+    "source": "BigGo Finance",
+    "published": "Sun, 22 Nov 2026 09:35:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "A financial analysis finds the number of global brain-computer interface companies has reached 1,175, with Chinese firms concentrated in three metropolitan hubs.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "China",
+      "industry landscape"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zeTNOTWkwU1JDVmhaYTBXWERVXzk3dFM5VXlZME1RM2FmYUNvY19BNzZRZUNtM2NaeVQwSlQ1SVlLS284TVFkMENfTHZQaGZxSTlWMg?oc=5",
+    "title": "Neuralink patient plays GTA 6 with his mind",
+    "source": "mobidevices.com",
+    "published": "Sun, 22 Nov 2026 11:58:40 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink's implant patient navigated Grand Theft Auto 6 using neural signals, demonstrating real-world brain-computer interface capability beyond laboratory conditions.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "motor control"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
+    "week": "2026-W47",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TEtza29kZXo1SF9nVXNaQTJrR2J4b1RqUU5Kc3AxdGxxQWlGNXFuVXNHbXJZTy05N3MwRlRpaHZwRmxBMktqcENoNTZNQ2FaSnhSeWNjbmppb0ljNG0tR1pvZmtuNzVpT2ZCbnVYYmE2bmhkNlE?oc=5",
+    "title": "Neuralink has made it possible to play GTA 6 using the power of thought",
+    "source": "UkrMedia News",
+    "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink demonstrated a brain-implant user playing GTA 6 through neural signals, marking the first public use of its interface for consumer gaming.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "gaming",
+      "thought control"
+    ],
+    "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
     "duplicate": true,
