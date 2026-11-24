@@ -119720,7 +119720,7 @@
     "first_seen": "2026-11-17T22:45:30",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -119827,7 +119827,7 @@
     "first_seen": "2026-11-17T22:45:30",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -120392,7 +120392,7 @@
     "first_seen": "2026-11-17T22:45:30",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -120471,7 +120471,7 @@
     "first_seen": "2026-11-17T22:45:30",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -120649,7 +120649,7 @@
     "first_seen": "2026-11-17T22:45:30",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121635,7 +121635,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121661,7 +121661,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -121715,7 +121715,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -123236,7 +123236,7 @@
     "first_seen": "2026-11-19T22:32:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -124124,7 +124124,7 @@
     "first_seen": "2026-11-20T22:05:38",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -124322,7 +124322,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -124696,7 +124696,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": "A brain implant playing a video game is a striking demo, but the lack of detail on the actual control mechanism is the real story — spectacle ahead of substance. Until Neuralink publishes real latency and signal-fidelity data, this belongs in the category of carefully staged proof-of-concept.",
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -124751,7 +124751,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -124966,7 +124966,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -125234,7 +125234,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -125367,7 +125367,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -125476,7 +125476,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -125557,7 +125557,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": true,
     "sources": [],
     "body": "",
@@ -125862,7 +125862,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -126119,7 +126119,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -126609,12 +126609,12 @@
   },
   {
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWFhTnZGT3RVcUlQS3U3YW9SMHRSRW8xVm9kcldxMTJjQWcteFhqSHp3MWgySWcxSm1RZzRQYmtoNnM3SUF1MnRINGx1R2NTS3B1ckc0ZElsLXdLQmoxSnVoOVhWM1ljNzZURXppTzI4eG9YNWlyQVpTajllb05OLWVFRi1rZzQ?oc=5",
-    "title": "'Full Self-Driving' Tesla Owners Can't Stop Falling Asleep At The Wheel",
+    "title": "Tesla's FSD Version 15 Lifts the Stock Even as Drivers Doze Off",
     "source": "SlashGear",
     "published": "Mon, 23 Nov 2026 13:15:00 GMT",
     "topic": "Driverless",
-    "category": "opinion",
-    "one_line": "Tesla owners using Full Self-Driving are dozing off behind the wheel, raising safety questions about the system's reliability and driver attentiveness.",
+    "category": "other",
+    "one_line": "Tesla's stock got a bump this week from the rollout of Full Self-Driving Version 15, part of a broader tech rally, according to Barron's. But the software's real-world performance is raising eyebrows: SlashGear reports FSD users are falling asleep at the wheel, a habit that undercuts the system's supposed vigilance and reopens questions about how 'full' the self-driving really is.",
     "companies": [
       "Tesla"
     ],
@@ -126622,16 +126622,28 @@
     "themes": [
       "driverless",
       "safety",
-      "driver monitoring"
+      "driver monitoring",
+      "FSD"
     ],
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
-    "sources": [],
-    "body": "",
-    "slug": ""
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWFhTnZGT3RVcUlQS3U3YW9SMHRSRW8xVm9kcldxMTJjQWcteFhqSHp3MWgySWcxSm1RZzRQYmtoNnM3SUF1MnRINGx1R2NTS3B1ckc0ZElsLXdLQmoxSnVoOVhWM1ljNzZURXppTzI4eG9YNWlyQVpTajllb05OLWVFRi1rZzQ?oc=5",
+        "title": "Tesla's FSD Version 15 Lifts the Stock Even as Drivers Doze Off",
+        "source": "SlashGear"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUpSQi1MSlU2TFJCUC0zdHczcUNydlp4VTJkLWpISHBGLUpFRkRMUXF5N1RkYmg2bXp0eTQ3bEJOTmFYR2NyMEtMTUFKWUhjd1MtSnVoaU9EVkU0VWFXUzFwWGJRdVhfc3BVTTQtd2t3alREdC1YNTVNcXdXZXFCYjFFU2hiakloc2xJcDlKUFdWM1BrOUlv?oc=5",
+        "title": "Why Is Tesla Stock Rising Today? FSD Version 15 and a Tech Bounce.",
+        "source": "Barron's"
+      }
+    ],
+    "body": "<p>Tesla shares climbed this week as the company pushed out Full Self-Driving Version 15 to its fleet, a release that arrived alongside a broader rebound in tech stocks, according to Barron's. The timing was fortunate: investors have been waiting for a software update that might justify the premium they pay for Tesla's promise of autonomy, and Version 15 gave them something to cheer. The stock rose in step with the Nasdaq's gains, a reminder that Tesla still trades as much on narrative as on earnings.</p>\n\n<p>But the narrative took a strange turn almost immediately. SlashGear reported that Tesla owners running the new FSD software are falling asleep at the wheel — not metaphorically, but literally nodding off while their cars pilot themselves down highways and surface streets. It's the kind of detail that would read as satire if it weren't being treated as a known behavioral pattern among drivers who have grown comfortable enough with the system to stop paying attention to it.</p>\n\n<p>The irony is hard to miss. \"Full Self-Driving\" is, by Tesla's own legal and technical framing, not full self-driving at all — it remains a Level 2 driver-assistance system that requires a human to stay alert and ready to intervene. The software's name has always done more work than its capabilities, and now that gap is showing up in the most literal way possible: drivers trusting the \"full\" in the name more than the fine print that contradicts it.</p>\n\n<p>For the robotics and autonomous-vehicle industry, this is a familiar and uncomfortable pattern. Systems that perform well enough to earn trust, but not well enough to deserve it, tend to produce exactly this kind of behavioral drift — what researchers have long called the \"automation complacency\" problem. The better a driver-assist system gets, the less a human is inclined to supervise it, even when the system still needs supervision. Tesla has iterated on FSD for years specifically to narrow that gap, but each version that feels smoother and more capable also risks deepening the very complacency that makes it dangerous.</p>\n\n<p>The market, for its part, seems unbothered. Investors rewarded the release on the promise embedded in the version number — fifteen iterations deep, surely closer to the finish line — without much apparent weighting for the safety questions trailing behind it. That disconnect matters beyond Tesla's balance sheet. As more automakers chase their own driver-assistance milestones, the Version 15 story is a preview of the trade-off the whole industry will have to keep answering for: software can get better at driving long before humans get better at knowing when to stop trusting it.</p>",
+    "slug": "tesla-s-fsd-version-15-lifts-the-stock-even-as-drivers-doze--0d6c9d"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUpSQi1MSlU2TFJCUC0zdHczcUNydlp4VTJkLWpISHBGLUpFRkRMUXF5N1RkYmg2bXp0eTQ3bEJOTmFYR2NyMEtMTUFKWUhjd1MtSnVoaU9EVkU0VWFXUzFwWGJRdVhfc3BVTTQtd2t3alREdC1YNTVNcXdXZXFCYjFFU2hiakloc2xJcDlKUFdWM1BrOUlv?oc=5",
@@ -126652,8 +126664,8 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
-    "folded": false,
+    "duplicate": false,
+    "folded": true,
     "sources": [],
     "body": "",
     "slug": ""
@@ -126730,7 +126742,7 @@
     "week": "2026-W48",
     "why": null,
     "duplicate": false,
-    "folded": false,
+    "folded": true,
     "sources": [],
     "body": "",
     "slug": ""
@@ -127040,7 +127052,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -127127,6 +127139,1403 @@
     "week": "2026-W48",
     "why": null,
     "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3BlQVVIcnRvYU9sd3g3Q05PNFQ0N0QzUzl6Z3dKSksxUXROUnJpZUtCNjREZjQtVjZ6bHNHSzVUclJ1d3dCVE9MdFhtNGVrb2gwcHFaYXVQWklhVnpsb3BNY3ZrTUtsWUE1MHFscU5QYlZ1QVZ0bzcybHRGaFJvRW1YdEZnN0ZoR3BIYVlnbTJiZlBoR1pBMHpiaDFmcTRNRmdONnRoS0VEbnNVY2NEY1A3dE5hQQ?oc=5",
+    "title": "Realbotix Putting Realistic Humanoid Robots At The Front Desk",
+    "source": "Forbes",
+    "published": "Tue, 24 Nov 2026 21:25:37 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Realbotix is deploying realistic humanoid robots as front-desk receptionists, moving its androids from novelty toward workplace deployment.",
+    "companies": [
+      "Realbotix"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "workplace automation",
+      "android"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVFqR2V1YzJ4NEZsTEk1ZTBBZjF4MEZLTnoyeXRQZGNNWVBwR2tPSDd3YVpOMVBUMWFJY3AyRlVtT3pMRnNVZlluMUlfRDhtSUs2cm5XaFo1LTVGSTQ0dU9ySjBPNThWRnF6X3BiTjBTbHIwdHpuYmdwdUZ3VVg3dlNKR1dqcm13WEptbDdiMTktMWtjZll4R1ZOSHJfMXRXTW9z?oc=5",
+    "title": "YYForce Launches Humanoid Robot for Hotel Concierge Services Using NVIDIA Technology",
+    "source": "Yahoo Finance",
+    "published": "Tue, 24 Nov 2026 15:28:08 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "YYForce has launched a humanoid robot designed to work as a hotel concierge, built on NVIDIA's technology stack.",
+    "companies": [
+      "YYForce",
+      "NVIDIA"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "service robotics",
+      "hotel automation"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa056SzVGQl95QzM1YXl1alZ3UVJDOE9wcWo1VlkxbkVNMjZTckVhVmQ3M1p4WXFRTWJDeDcwMG4xUWhMeUlmZG9GRUpMODlEOGJJeDE3c19CRGkycTJwZWQtYmtnUUxtQ2U2ZTJzVV9wSHJRbFI5SFU1NU53THdtUFhUaXBwd3VzTzVtNzBPUXpFdk9OOG9HTFQ0V1BESVZnd0x0WVhuV1dGRjhPWkxDQzg1ZGg4NG8yWWNKSzB5TlhFcWpkN2VhY3ltakJhVGpVRUJMZ0tEeVhkUQ?oc=5",
+    "title": "FAW's Embodied AI Robot Achieves Over 90% Grasping Success Rate in Trial Workshops",
+    "source": "Gasgoo",
+    "published": "Tue, 24 Nov 2026 05:26:45 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "FAW's embodied AI robot demonstrated a 90%-plus grasping success rate in trial workshop deployments, suggesting practical progress toward factory automation.",
+    "companies": [
+      "FAW"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "grasping",
+      "physical AI",
+      "factory automation",
+      "robotics"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXdZYTBNTVJNRTJBbHhva2Fta2E0dksxTEtZVnNCalF1OXpkSXc1MmtlcEItRWJodlc3LTRWWGhQM0VKNFJuMzhlRVk3eTU1RFlPSUhLSnlVckNtZEk3bVY3c0NfM25jU0hmMWF2YnpWbnRvWXZYSENrMkN1UnlzRE4tRFB2OEYxWVV3dzRRa2tZeWhmTU42VUV1VWhiaG95WVpVbjV6VlBsTGNqYVF1ZjdXZmk3QQ?oc=5",
+    "title": "South Korea Plans Next-X Humanoid Challenge to Select National Robot Platform",
+    "source": "AI Insider",
+    "published": "Tue, 24 Nov 2026 07:36:11 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "South Korea will stage a Next-X humanoid challenge competition to choose a standardized national robot platform.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "robotics",
+      "platform",
+      "competition",
+      "national initiative"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS044Z3h6ZVFrT2JJZ2I5OU9SLWR1N1Z0cm9iQkZjX25uRmNzMXUwS29nRk1QV1pkcEtZa0lZOGhzNXlmZVdKRlVOUDFrQmJDbW1qTWFYbXNfVFNyMXBjbXVqZ1hKVnF6SmJheFJxdUdsWjgzS3pNOEcwWlY5MzNJWmlESE5femotcGFIX0dPU255TC1sV3dQbDhfem9Rd05aZXNNbzJzTTVvS0tidlh3R1dZbw?oc=5",
+    "title": "AI, robotics tools target floor eggs, poultry labor issues",
+    "source": "WATTPoultry.com",
+    "published": "Tue, 24 Nov 2026 16:44:07 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "WATTPoultry reports on emerging AI and robotics applications aimed at reducing labor shortages and improving efficiency in poultry operations, though no specific companies, deployments, or concrete products are detailed in the snippet.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "agricultural automation",
+      "labor automation"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzZrX1VDOFluOGltZ2R0N016ZC1jRHE0V19VMWxRN3o0QWFTQlA4cXVaNnlSM0E1ZmlITGhKNm16cHBaVDJBWlhDRzJiOXNSbVZONGV3U25VR1FKQjIyZ2tlRXpDUjFvY1hRSk5YdDZMYWlVQXplVFpjd044ZUd2NnhzaEk4amhjbmxB?oc=5",
+    "title": "Roscosmos Launches Teledroid Humanoid Robot on Progress MS-36",
+    "source": "Unite.AI",
+    "published": "Tue, 24 Nov 2026 13:04:03 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Roscosmos sent its Teledroid humanoid robot to the International Space Station aboard Progress MS-36, marking the first operational deployment of a teleoperated humanoid in orbital microgravity.",
+    "companies": [
+      "Roscosmos"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "teleoperation",
+      "space",
+      "physical AI"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWhlTElhZ2ZKOG5xRWkzTkN5WGVSUEZTbVhGLVJmemJFYzR3b3VVOWZiWWhfajRUR3B0cExBM1BzMkhxTWdyUjg1NGhXVFpHWlBuQlNuU0pPRWM5M2NuYlRsdmtsVmRabDZrajRSUmVWYUNwWmxFbFgyX29JSlprNTRGdzNPejU0RVktZG1oQTFjanFpNzBHeXJ2VU9MYTdWV1VqSDh0ek4xcGlUdHprUnZ6RFhjaWZSaXhuOHhtdl9qUlppZ2c?oc=5",
+    "title": "Humanoid robots on the assembly line: Not yet ready for car plants",
+    "source": "All-About-Industries",
+    "published": "Tue, 24 Nov 2026 12:45:36 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "An industry analysis finds humanoid robots still lack the precision and reliability needed for automotive manufacturing.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "assembly"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3g0UTZYQWVybV9CSFZjV0toeEhQN0NqelNuR011WnE1VlZVRXczaVFjMlhoQ0tZLXNQQTNKcjVYNGtyOENXemNmS2xtbi1qX0NSMklOWnlYa2ZiWnFxVFNMNFJjUU5jQWlqTlI2eW9UWGk1Vm51N2hRNlNaN2w3QXgtZDhSbnh0UXd4ME1CRVdjTFl3UjhhTWo5MjcwZkxKNlhCZVBEdw?oc=5",
+    "title": "Soyuz Rocket Launches Cargo Spacecraft with Humanoid Robot from Baikonur",
+    "source": "Caspian Post",
+    "published": "Tue, 24 Nov 2026 16:04:42 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Russia launched a Soyuz rocket carrying a humanoid robot to the International Space Station from Baikonur Cosmodrome.",
+    "companies": [
+      "Roscosmos"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "space deployment"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWNiYXNYY29TTEhXdEg1R3NOYVFyUXNXc3Z4TjRIazNGTHEwTWNLbVR1OHd3d0NGN2I3MlRvQUh2V2FqV0ZsUjZySnBwM1ZuaUoxTVhFYmdCOHNOOVRFdEMzZTdpN1NFU1hsX2tXcXYydDdsWmxmVFdjXzRaQ0pReFo3M2kydzlnemZTSUNaTjBxUXU3cVpxb0h5c2MwZDRoTlZTaEVBSGRmY3l5anhzUzBYeDBqMXozaDFibg?oc=5",
+    "title": "YYForce to deploy humanoid concierge robot at Singapore hotel",
+    "source": "StreetInsider",
+    "published": "Tue, 24 Nov 2026 12:47:46 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "YYForce will station a humanoid concierge robot at a Singapore hotel, marking an early commercial deployment of physical AI in hospitality service.",
+    "companies": [
+      "YYForce"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment",
+      "hospitality"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXdCWkVsVUlOa3NaYmJEN2RfYTRhU3lsQm5JVEwtb2F3SE5YV2IyOUZEWUttS01ubzZxNW1uaDl4WXdzcDZfZUpydnNGczBSOUlhcjg5d3RtSE5iV1FkaDlBOTZZWEFHSVlNaGpaeVVBN1pvTGNORm5ES1Q4SzMxaGdPWklRdWVDVlNnYnFqcUdQVnY5ZHB1c1JsU2JyYnRBZXhzbW5aUmJ3QnVraGFycnVySVo?oc=5",
+    "title": "Japan’s Atom Secures $28.3M in Bank Credit to Expand Humanoid Robot Production",
+    "source": "AI Insider",
+    "published": "Tue, 24 Nov 2026 07:02:21 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Atom, a Japanese humanoid-robot maker, secured $28.3 million in bank credit to scale production, betting that physical AI will find industrial buyers before the capital runs out.",
+    "companies": [
+      "Atom"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmxDQ2JTLWNLOUZMeE5say1JNjdDMHE1SnhkWXktYWxWQ0lGUkZycHNYNDFiQkVSN2lLSUlpTFFJU2EyUHZvRGttVnN2WDlvUWY3anZrYmdYLVMyYy1lZGU1NGFWM1k0dHpkaWhGLVJZMGotRzctaXhfelNqTlM5b0VrS3pzdjl5Z0w1Y0R0MXpIUHA2cURGbDVkTG11dEVuSFJ6YlNhaFMtWGlSckVRQXFMX0hWVDBuRl9lbGJidFdQUQ?oc=5",
+    "title": "Where eagles dare: XPeng’s physical AI ambitions prepare for take-off",
+    "source": "Robotics & Automation News",
+    "published": "Tue, 24 Nov 2026 14:08:20 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "XPeng's push into physical AI remains largely conceptual, with the Chinese automaker positioning itself as a hardware-AI integrator without yet demonstrating concrete robotics or autonomous systems deployments.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "autonomous systems",
+      "hardware-software integration"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWNEMGNteHFqMnNPa2tBYUVlNE13VHhobUpPYUZiUnp3RjlMLWt4OU5rVHVCZ3JwTnJjQmRMUE02a2FuR241cmQycW1nWjh3YkgxR012OGRNcWdGSlFPSTN5RkxOTndMSGRtMTJtNHJNQnNmWlRkTi0tYkRFOVN5Sk51MU5DMlpfbDhGa0Y3NjMwVzZ4NXU0bGNJR1Y1MU5nYjZF0gGoAUFVX3lxTE4tQjBTMUZILTBqRGg3M0tOeTlmSm1LbDQzSE5yUElwbU0zaXJPZG1veHZzWTRjcjlBVjFGNDRtMmp2YnU0NU1BaXpTS09ISG1GaDBScnZaaUM1RzhsZmcyT21HdzJBUjFDc3ZDQW5XbXlRNDNzZUxmd2NpREI5UjlMRThRTHZwQ2czQzlUb2FiU2tCNFQyOVBMbGpnSlNFajR4Y1U1S1FBSQ?oc=5",
+    "title": "Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes",
+    "source": "CNBC",
+    "published": "Tue, 24 Nov 2026 17:28:37 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo is recalling its robotaxis after discovering eleven new incidents in which the vehicles entered closed freeway lanes, raising fresh questions about safety validation in its autonomous driving stack.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVTVZ3bnlndFM1VU5BSkJWVTFtREJhdUZOSmd1MGlfZVJTWkMwNFdBNlQ2WmR0MDRESi1ZbDVZeGhnZkJwLTc2c0FjaUhoZlJVdkpyNS1UY09fUk9kOGFvOFhxajhmLXF4Nm16SnFBemhVQUdUbVE?oc=5",
+    "title": "A ponytailed man has thrown eggs at Waymo vehicles in Denver more than 30 times, report says",
+    "source": "The Denver Post",
+    "published": "Tue, 24 Nov 2026 11:00:36 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Denver man has pelted Waymo driverless cars with eggs more than thirty times, turning the company's local deployment into a target for neighborhood frustration.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public reaction"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNERBc0NxNDQ2OW5tSmxoRmZVNEkxSlcyRy1sV2NOQnNxMlN3ak84SGhxaWE1bUhVSVNpbmVucTV4QnhJeVdDM0NYZGhvM0ptbkJVMWoyMXVOOWkxc2FXejhOLXRSeFhaaUZqbFBfcjh3LWxJWF9BdHR2d01KZXhhUmZTckRUX0Zkam1XcHlXYzdDb1Q5WVlZaG1DeVZpUVlnaGh2TzdwVHdyUEpVbzNyZDZFTjB0TVNy?oc=5",
+    "title": "Mass. should accelerate driverless car oversight, former transportation chief says",
+    "source": "WBUR",
+    "published": "Tue, 24 Nov 2026 22:44:30 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "A former Massachusetts transportation official argues the state should speed up its regulatory framework for autonomous vehicles.",
+    "companies": [],
+    "people": [
+      "former transportation chief"
+    ],
+    "themes": [
+      "driverless",
+      "regulation",
+      "policy"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1BiOFRXT05YdjZ3eG9ONlpieWlNTGxXSUNoWV9qcWVCX1hvbUVMb25YRlpZbjBRZWoxdC1tRUlzRlJJVG1EaFdWQVpBc3hiMkVYSXZWejFheUlLMUtvX3E0d2FXVkQ2VDJXYWh5WTZRX0tQV0VLV2NyaFg4QUlSWWsybHMzQQ?oc=5",
+    "title": "Nuro and Uber launch driverless testing in San Francisco",
+    "source": "Axios",
+    "published": "Tue, 24 Nov 2026 13:04:31 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Nuro and Uber are launching driverless delivery testing in San Francisco, expanding autonomous vehicle operations in the city.",
+    "companies": [
+      "Nuro",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous delivery",
+      "testing"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53WlNqUE9mdC05OHUzOU83NWV2a0FicFNYdjBkTmtiY3BxTDRaOFluR1dxaDNYdG1RZlUtakRKODhNTkFRX0JZMkhVNUZmcTMwSUxYWDFONkN2dk45eWhZd2pQUUpKUkdkZmhoOW5GLTl3cWxCQVF3S2NfTQ?oc=5",
+    "title": "Tesla Robotaxi Rival Starts Road Tests Without A Safety Monitor",
+    "source": "Investor's Business Daily",
+    "published": "Tue, 24 Nov 2026 21:02:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "A Tesla robotaxi competitor has begun public road testing of driverless vehicles without safety drivers behind the wheel.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "testing"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUdTWEpra1Rqc1o3R0RMRkxiNEJFSHZqdVVLMkhZbHQzOVoxUUR0QmxSTkpfVlExR3J5X1U1RFY2bnFHUFUwVElqcGRsYTNvY2VjTFlWY2p5TWstTWV4S1dnRjVQNXlrWHZFVXA5VXhsbWp5NF9UUWdnZUtPMy1odUt4S3Z1aWV6TVVtbGd3?oc=5",
+    "title": "Taking On Tesla Again: Lucid and Its Partners Begin Driverless Robo-Taxi Tests.",
+    "source": "Barron's",
+    "published": "Tue, 24 Nov 2026 14:30:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lucid has begun testing driverless robo-taxis with partners, escalating its competition with Tesla in autonomous vehicles.",
+    "companies": [
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "robo-taxi"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmJYbnhrSUlGMHo1aXFEeWtSSmRYazRSYkZuOXQtSk1vemUzZ3NuYmc2OUpZNDVTTTR4TWMzclhyRmJ1ZUNHeEhnaGZuVFpMVXFwS2gxT3I4cWhnbC03U2pQdUFIU2wteDZ0bkhCeUNMWEs0WElLdkxxUWZkX0tYR21EWUdNa3lIMWdOckljbVJfenpPRVExck5sMFljWDV1NTYw?oc=5",
+    "title": "Waymo Recalls Vehicles After 11 Robotaxis Entered Closed Freeway Lanes",
+    "source": "Gizmodo",
+    "published": "Tue, 24 Nov 2026 21:20:40 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo recalled 11 robotaxis that veered into closed freeway lanes in San Francisco, exposing a software glitch in its self-driving system.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "safety",
+      "autonomous vehicle"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkp3ZVlNSUNTaGdxQi1BeWxvT3lNZnQ2eUJPOHJ0RURzR0k0RXdqTGFoMjBwZGw0aHBVSzZOVUxJRGNkOERUTGxzUVByWW5ocDVCUFg1V2t6WFpxeHo0SlNZT3B0QW5rbUNHUHdHNFFwOGR5WEZtU090bFZjNEVnY1pnWWY2cThEVk01SFBJTDRLTnVJS1hkbVFPZm4xMzdjelVDaHlnRzhaeUgybWhVRnJoMA?oc=5",
+    "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+    "source": "TechCrunch",
+    "published": "Tue, 24 Nov 2026 16:40:46 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber and Nuro are testing driverless Lucid robotaxis in preparation for a 2027 commercial rollout.",
+    "companies": [
+      "Uber",
+      "Nuro",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwejlKOXZBWE9PNkozVlBrU1c5UjV2emhZdGw3QVJmN1pGX3dibUkwcDJSUmwwNllxV092VWFTYTNpQ3R0b3I2QXFZRkpvME02SmZBZXpPejJJcllsc0ZXdnJVMThYYWZQc0E?oc=5",
+    "title": "Uber, Nuro to start driverless testing of Lucid robotaxis",
+    "source": "Transport Topics",
+    "published": "Tue, 24 Nov 2026 15:55:32 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber and Nuro are beginning driverless testing of Lucid robotaxis, expanding the companies' autonomous vehicle operations.",
+    "companies": [
+      "Uber",
+      "Nuro",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "testing"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmNSODBRY3VUbElSVkdNd2xqWG5sTTIweG9JWjNaX2ZiSGVfQ3dUNFZZVVRBd2xCMTFuLVVUa1BkRzRTMlY2QU96SkFBUzV4Z1RuMlhGcmQyR2h4VkVuTVYwMWZja01UUG5jWElBazluZ28xeUd3eGxxamFxd3ItMmpLNDNsZHd1d2RicVpnV01ZS3lhREdJeWl1b0ZtTGlRXzllR2sxU1Y5WGZTYWFVVWwyWS1uUVd3UVE?oc=5",
+    "title": "Musk says Tesla self-driving makes seniors safer, but its fine print says they must watch the road",
+    "source": "Fortune",
+    "published": "Tue, 24 Nov 2026 15:55:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Elon Musk claims Tesla's self-driving technology benefits older drivers, even as the company's own disclaimers require active road monitoring.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "safety"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmVUamhIUTZBNzgySFREbHhzT1lURGtKOEMwLTUyUThxeGxRc29qdi1INlpzVkVmVWp0S0RNSFBRTVB5NmRfUHFseHJ1dDM5amNpQzVOWWpfb0xBSG5QUEIwUW5lNl9sT1VBNDRpU2NiN1VLWTZ4Z3ZHSWZ5N2FEZngzSGh3LTE4aWQ1MTBVaEhwdHY2T3Jxc2o1R19DZm9mRzcyWUhn?oc=5",
+    "title": "Tesla’s Robotaxi Business Could Generate $3-4B In Annual Recurring Revenue By 2027-End, Says Seaport Global",
+    "source": "Yahoo Finance",
+    "published": "Tue, 24 Nov 2026 18:16:13 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Seaport Global projects Tesla's robotaxi service could reach $3–4 billion in annual revenue by late 2027, though the forecast rests on the unproven assumption that the company will have achieved autonomous-vehicle scale.",
+    "companies": [
+      "Tesla",
+      "Seaport Global"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQkpXMWMxbjEzenlySzRNa0xqMFdXVUpXUVNLMmN1d0hZQ0M5WTVqRk5ZbWhOalQ1ekZubWpDQlVhcnRlTnJyRmRlUzFFYXctdUZDSTR5QmNPQUs0S2hZam52LUluUWRlcnQwODZZYkJKbGhyeXJObEo1UXUxZEtxUmpheGhZeVJPai0tdUIyT3hqaFoxVWVRd1BWTEVvZXM1NmF1dXRvWkZ5WGdWM3NWb1Znems1RTRE?oc=5",
+    "title": "Man has trapped and egged Waymo vehicles more than 30 times in Denver, police report says",
+    "source": "9NEWS",
+    "published": "Tue, 24 Nov 2026 23:07:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Denver resident has targeted Waymo driverless vehicles with eggs and traps more than thirty times, according to a police report.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public safety"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdndHN29UR2xvQmdoSVdzU19wUTlnVXk2V2pGa3pqTHRlbnVyRkdGdzlnNTNuVzlvNkJiQUR4TjFMZ3E4SnZRRGNfVkpYTUsyeTFHQ2VJOTg2SXhHN1pyOHpVUUNSeUFNQ2doR3E1TGJFSWk1SHg5SjdaVk1Zb01KajVmeGZXbi15aTZsdlhnN0VKRXltYUtLbWVSbTRGb29TVGc?oc=5",
+    "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+    "source": "The Verge",
+    "published": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber, Nuro, and Lucid have begun testing fully driverless robotaxis, moving beyond prior limited deployments toward broader autonomous ride-hailing operations.",
+    "companies": [
+      "Uber",
+      "Nuro",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "testing"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2xTZVlYOV9oNmRUaUxyQVc1YUl1N3FRVC1fN0ZHR0pQejdzUU9pYjA1UHItY1FRZGMxeHA4eWtVMjlqWC0zdURpdk92WUFEZWhBLTVoODJiVXlOblNKVlZfbHNNdldQVllSTEpraGUxOGVrWTFSTG0xWnNNTWFHTnZSTERXWUloUUVLbGp4c1lGXzVMSzYxdk90RXhJNjZIcTlkVVJGbmlEZW8?oc=5",
+    "title": "Waymo halts San Francisco service ahead of severe weather",
+    "source": "NBC News",
+    "published": "Tue, 24 Nov 2026 06:54:51 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo suspended its San Francisco driverless taxi service as severe weather approached the Bay Area.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "operations"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnFMdE1Ia3pzMjlPNFBJd0p5aWl0ZzhfUUxQWlJ6WVg3U0VsN2NsM2hJcHNrdzF5MUY1SUhSSXo4ZUxtc3VCLUZaOFhDVWFvdmszaXg5QjdaMndZWktQR0ExUWNpSk9KNlFfeWdGcnR1UXN6eUhyN3FOcE45SVppRmFDTlFBdFhTQkF0XzAyaC1vQUVWNUVUazM5cGtjVnc?oc=5",
+    "title": "Waymo Suspends Driverless Freeway Rides Following California Ban",
+    "source": "Program Business",
+    "published": "Tue, 24 Nov 2026 14:06:13 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has suspended its driverless freeway service in California after the state banned autonomous vehicles from operating on highways without a safety driver.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory restriction"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFRhSzZUcWo3QThPRDIxVFNsTEQ0dG1iQjEweEp4eUFqaG5uOThZcHRJbTJXeGNlRnNBdDEyeDJFRktNV3kxU3JCN1ViT2E5NzMyckpBZ2gtd3l3SE5MdnUyd1NHeFBEVkozWldMTnpOTWVpZmZ2cTBQeWhDT2NhR0JuRzRLaWJFampxT0RWNnBaMjdrSWQzQmtfanU?oc=5",
+    "title": "Next Phase of Lucid Gravity Robotaxi Testing Brings Driverless Uber Rides One Step Closer to Reality",
+    "source": "Car and Driver",
+    "published": "Tue, 24 Nov 2026 13:03:58 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lucid has advanced testing of its Gravity robotaxi for Uber, moving toward commercial driverless ride service.",
+    "companies": [
+      "Lucid",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle testing"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTR6VmJCbjVCZDZ1TnVFNzVrQ0dwSlpxdXF6OXVtVmlXWC1WeFY2UGVFTXA4Z3pJN29mcm5SNTJGVjVnZTV0VkM0Y05FN0pnaDU1ZnpLTnlwa1RkSFVpYXgtMjFfaEUxR0pnR0l4bjFKM3h3TmR3S3RZdjByd0lEVzRUSkg5UnhUX3VGaTdVVEsta3Qybmh2OTd3?oc=5",
+    "title": "Tesla Stock Drops as Mercedes-Benz Enters the Self-Driving Race",
+    "source": "Barron's",
+    "published": "Tue, 24 Nov 2026 12:20:00 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Mercedes-Benz's entry into autonomous driving spooks Tesla investors, though the article is financial analysis rather than a concrete product announcement.",
+    "companies": [
+      "Tesla",
+      "Mercedes-Benz"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEtmWDBCSnExQzB4RnBELTVZeFdrTDFSN1A5enBBanVSYjBJaTVzWE9naTdVV3lXeFpQVEJMRVJmMmxhb2ZxTmhCaFh0bXhhNTNvYWtmRTRMRWlQOHdOZ0dxMjhnR3BpNzRWdE1xdkpNZE1QektiQjZZTTh1SmthQzBkZGRoUWhSdUZaNVNTSmt0QUU?oc=5",
+    "title": "Uber’s Robotaxis Are Going Fully Driverless in the Bay Area",
+    "source": "Gizmodo",
+    "published": "Tue, 24 Nov 2026 17:00:11 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber is removing the safety driver from its robotaxi service in the San Francisco Bay Area, moving to fully autonomous operation.",
+    "companies": [
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicle",
+      "deployment"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmE2NDlsNnM2Z2NUbzI4TGNDMlRGVVZGRXVZM2s5OHVSck1lRkdYaXBCZFVkaWNiR000cUxLTkRUVG1yUWY0LXdwcE9nSWFiUjQtNVVfWk84WlFpUG13bHR2VjFFN0NwWFk3V0tvblNpREZVWDE4QW51THR0NGhRcHdfckJwR1Y2THlvZkJ4bXlxcVpJbHlN?oc=5",
+    "title": "Uber, Nuro and Lucid Start Driverless Testing of Luxury Robotaxi",
+    "source": "CNET",
+    "published": "Tue, 24 Nov 2026 13:00:06 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber, Nuro and Lucid have begun fully driverless testing of their jointly developed luxury robotaxi, dropping safety drivers from the vehicle for the first time. The move positions Lucid's sleek sedan as a genteel challenger to Tesla's robotaxi ambitions, with Nuro supplying the autonomy stack and Uber eyeing eventual fleet deployment.",
+    "companies": [
+      "Uber",
+      "Nuro",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "safety driver removal",
+      "robo-taxi"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmE2NDlsNnM2Z2NUbzI4TGNDMlRGVVZGRXVZM2s5OHVSck1lRkdYaXBCZFVkaWNiR000cUxLTkRUVG1yUWY0LXdwcE9nSWFiUjQtNVVfWk84WlFpUG13bHR2VjFFN0NwWFk3V0tvblNpREZVWDE4QW51THR0NGhRcHdfckJwR1Y2THlvZkJ4bXlxcVpJbHlN?oc=5",
+        "title": "Uber, Nuro and Lucid Start Driverless Testing of Luxury Robotaxi",
+        "source": "CNET"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUdTWEpra1Rqc1o3R0RMRkxiNEJFSHZqdVVLMkhZbHQzOVoxUUR0QmxSTkpfVlExR3J5X1U1RFY2bnFHUFUwVElqcGRsYTNvY2VjTFlWY2p5TWstTWV4S1dnRjVQNXlrWHZFVXA5VXhsbWp5NF9UUWdnZUtPMy1odUt4S3Z1aWV6TVVtbGd3?oc=5",
+        "title": "Taking On Tesla Again: Lucid and Its Partners Begin Driverless Robo-Taxi Tests.",
+        "source": "Barron's"
+      }
+    ],
+    "body": "<p>Uber, Nuro and Lucid this week began fully driverless testing of their jointly developed robotaxi, pulling safety drivers out from behind the wheel for the first time, the companies said. The vehicle, built on Lucid's Gravity sedan platform and running Nuro's autonomy software, has been navigating public roads without a human backup — a milestone the three partners had been building toward since announcing their alliance last year. Neither the companies nor the reports specified the exact test city, but the move marks the formal start of driverless-only operation ahead of the robotaxi's planned commercial debut.</p>\n\n<p>The timing is pointed. Tesla has spent much of the past year promoting its own robotaxi ambitions, running a limited, closely chaperoned pilot in Austin with employees still riding along as monitors. Lucid and its partners are framing their driverless leap as proof that a quieter, more methodical approach — expensive sensor suites, a dedicated autonomy partner in Nuro, and Uber's logistics muscle — can also get a luxury vehicle onto the road without anyone in the driver's seat.</p>\n\n<p>For Lucid, long better known for high-end electric sedans than for solving the robotaxi puzzle, the test is a chance to reposition itself as an infrastructure supplier to the autonomy boom rather than just another EV maker competing for retail buyers in a soft market. For Nuro, which pivoted away from building its own delivery vehicles to licensing its self-driving stack, the Lucid deal is a vote of confidence that its technology can handle the more complex task of carrying passengers rather than packages. And for Uber, the arrangement fits a now-familiar pattern: rather than build or own a fleet of autonomous vehicles itself, the company is stitching together partnerships — with Waymo, with Nuro and Lucid, and others — so that whichever technology wins, Uber's app is the one booking the ride.</p>\n\n<p>The stakes extend beyond corporate rivalry. Robotaxis without safety drivers represent the regulatory and technical threshold the entire industry has been straining toward for a decade, the point at which autonomous driving stops being a chaperoned demonstration and starts being an actual service. Each company that clears it — Waymo first, Tesla now pushing hard, and Lucid's coalition following — adds pressure on regulators to set consistent rules for how these cars behave at intersections, in bad weather, and when something goes wrong, with no one inside to take over.</p>\n\n<p>It also reshapes what passengers might expect from a robotaxi ride. Where Waymo's Jaguars and Tesla's Model Ys have defined the category so far, a Lucid-based vehicle introduces a luxury tier — leather seats and a quieter cabin — into a market that has mostly sold itself on novelty and convenience. If the driverless tests go smoothly and Uber moves toward the fleet deployment it has signaled interest in, riders in whichever city gets the service first may find that the choice ahead isn't just human driver versus machine, but economy robotaxi versus a plusher one.</p>",
+    "slug": "uber-nuro-and-lucid-start-driverless-testing-of-luxury-robot-45da9f"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XZEhtSy11OGtOSm9NUG5aZGJ4T3JKSVduUng4T0tnMmszZFlGU09Ea2NvVUh3ckNRY0RJTzBzdFA4cHVpV1hSZjJiNlFWUEg4dzlVdkZjUENfWVNsLU9uc19CalluZko5OVc1VjhjR2FJbkUtU29lcWdB?oc=5",
+    "title": "Waymo Is Banned From California Freeways, For Now — Here’s Why",
+    "source": "Family Handyman",
+    "published": "Tue, 24 Nov 2026 22:54:36 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California regulators have barred Waymo from operating its autonomous vehicles on state freeways, citing safety concerns about the company's ability to handle high-speed driving scenarios.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation",
+      "safety"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sa3JDSk5RMXRpOEF6Zm8zRUhHNUdYZDdrWUZhSHhoeXZVT1BCTEdtRmQzLUVyYWZMazN0ZktVSVNQcHhoOHRhaWxnS0tMdUI5YWZPUnNDUzgyQWpERW8wVWpISjhHbVgwSF9LU0tGRzNJVFI5cVE?oc=5",
+    "title": "Man allegedly trapped Waymo vehicles with cones, threw eggs at them in Denver",
+    "source": "KRDO",
+    "published": "Tue, 24 Nov 2026 22:17:19 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Denver man was arrested for allegedly blocking Waymo autonomous vehicles with traffic cones and pelting them with eggs in what police described as deliberate acts of harassment.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public safety"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORENpZVdTVThidTlkdlRKbVZJS24yeDVtdzNiaGYxdm9qZXVpWjJaLWNLTExMNXMtdDJ2Z1d0V2lKa05RWm54bjhCS0hzVHVETS1pa1ptaWJDaEZLdnF1bEpJTzZzLUFzVlBQUUdGYW5pYTUzVWNNTDdsQ19ZTEFVelI3bHp3cnQ0dFVKbi1VSFRKNTN6MFFVMlJ3UWFhT2ctajRRejVoMG1iZXFLZWJDOHNtZDBVSlZZWXdnMWJycw?oc=5",
+    "title": "Uber And Lucid Start Testing Fully Driverless Rides For Their Robotaxis In San Francisco",
+    "source": "Engadget",
+    "published": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Uber has begun testing fully driverless rides in San Francisco using Lucid vehicles, moving from safety-driver deployments to autonomous operation.",
+    "companies": [
+      "Uber",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "San Francisco"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEFiWjk5UVdrU3Z0M19FX0RUUW9DRmZaQmNudm84Y2MtVnZaTTZKcF9oaUsyS2xMVjZCWGJpaVFuTEpxZEpTVlA0OUI2U3FEckRjSF84U2Vfb3dRck15UzcwVXBDQWtEX3ZPTmNPUEY1d0VEZERhOGlRcUczaVFyVFlRRmRzOVRVdlFnZVA1RVJGTGpfbmxUbw?oc=5",
+    "title": "Purdue Unveils 224-Mile Autonomous Drone Corridor",
+    "source": "General Aviation News",
+    "published": "Tue, 24 Nov 2026 17:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Purdue University has opened a 224-mile corridor in Indiana for autonomous drone testing, marking a significant expansion of airspace available for commercial and research operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "drone corridor",
+      "airspace",
+      "testing infrastructure"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3QjRMVkQwcWtsZmpXa2VfMGtVWmdVd1V4Tm9BTXRoSlJ0Tl9EV1lIdkZYd3dZaXR2elMteHRqSks5c0RyeHFXSWNzWjJ0ZWNCNzRYUWNWLUt5Ul9saUJCaE9VN3F3RXpXZ2tERmFIeTVJSXZmVFpZTVY1MUVhSnc?oc=5",
+    "title": "A2Z Enters U.S. Drone First Responder Market with Forsyth County Deployment",
+    "source": "Dronelife",
+    "published": "Tue, 24 Nov 2026 15:42:04 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A2Z has deployed drones with Forsyth County authorities, marking its entry into the U.S. first-responder market.",
+    "companies": [
+      "A2Z",
+      "Forsyth County"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "first responder",
+      "public safety"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUlsR3h1MzVqU0E1OVlTdnFWa0NoSU1DR0V5OHh5bDRJbU1JTUp5dVVZWEsybFBhTkZBV3E4X0NQVGZkOHJ0RVEzNWFZanpjUnc1U1YyZEpmczdwTjNkamQwWmp5NnVSaDFKTHVreGJyQUpuZU55ZTJscWJhdVlDUXhNT3FkamZuT19sMnozcDBjVUxDNjMxUA?oc=5",
+    "title": "Semi-autonomous ship defense system detects, tracks, and downs jet drone at sea",
+    "source": "Interesting Engineering",
+    "published": "Tue, 24 Nov 2026 14:28:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "A semi-autonomous naval defense system successfully detected, tracked, and destroyed a jet-powered drone in a sea trial.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone",
+      "autonomous",
+      "defense",
+      "maritime",
+      "counter-UAS"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1E5ZVJxU3h6NjY4c1lRWXlYNERIaGM4S043NTRqdml2bGtvNDhweTBITWd0bzBTZDdhNEF2Zm13OHBRUTdPTkhyODJrRjRRbllUUHMwTUk0UjNfN3l3QnVwNmpMTlpSb3YybFlUUkFTUXJkSUVYRlRRU3JYUVVuSUl4Tk9sdWJLRU1udnVsR01WVmYzM2VmSmMzbEtpeE1MaU55STVPcTV6cVdUS0NrSWR6YVM1Yk5McEo0ME9wZ2RGdzBmQXJF?oc=5",
+    "title": "US Army demonstrates autonomous drone swarm attack from R3NEGADE robot in Germany",
+    "source": "ssbulten.com.tr",
+    "published": "Tue, 24 Nov 2026 15:34:43 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "The U.S. Army demonstrated an autonomous drone swarm launched from a R3NEGADE robot platform during exercises in Germany, marking a milestone in coordinated robotic warfare capability.",
+    "companies": [
+      "R3NEGADE"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous swarms",
+      "military robotics",
+      "drone deployment"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xLWxiNTVoaUlrUHpwMncxTnJKazJoYjBFLUVIZGZtNk5EM203Nm0xOVN0ZkRuU3ZfY2F3Wm1yUV9vNTJaOHNQelk4NVNodC1ZanhJM0NDZEJ4RTg0b0ROd1NvaGZDREEzeGc?oc=5",
+    "title": "Skydio Expands Autonomous Drone Fleet with Fixed-Wing F10 Lightrunner (Video)",
+    "source": "Thomasnet",
+    "published": "Mon, 23 Nov 2026 21:59:10 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Skydio introduced the F10 Lightrunner, a fixed-wing autonomous drone designed to expand its commercial fleet beyond its existing multi-rotor lineup.",
+    "companies": [
+      "Skydio"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "fixed-wing",
+      "commercial drone fleet"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFBFc1NaXzhhb0dqU1B5SVl2ZHRIUWpqY1h2WHdMTFFscVRIUU5EdkRkaXh2OUZBYndtSWZyc0VtQnVQc0QtN1VTYlFFOUVISjVOU3hMMVJJUjlCNnFmTDdxVkNQX0JBRjJFY1pNVE4wRDR6VWJQUndFdlptUmdRMmhxLVNoNGIxX25PQXFEbS15VlBTenlOUm5VQk96WGtyTWI1YWpHWDItM3Ntck4ya2k0MzJQdFoyZmxZX3g0eUQwMHNWMnM0aG5EV21xdE1aNDQ0VVJ5N21KME96QmdtMW5vTQ?oc=5",
+    "title": "Amazon's Drone Delivery Program Hits Turbulence and New Ground",
+    "source": "The Commercial Appeal",
+    "published": "Tue, 24 Nov 2026 01:18:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Amazon's Prime Air drone fleet had a mixed week: in Huntington Woods, Michigan, a delivery drone crashed into a home, raising fresh safety questions about the aerial logistics push. Meanwhile, in Memphis, Amazon switched on its first Tennessee drone delivery route, extending the service beyond its initial test cities even as scrutiny of its safety record grows.",
+    "companies": [
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "autonomous delivery",
+      "logistics automation",
+      "delivery drone",
+      "accident",
+      "safety"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFBFc1NaXzhhb0dqU1B5SVl2ZHRIUWpqY1h2WHdMTFFscVRIUU5EdkRkaXh2OUZBYndtSWZyc0VtQnVQc0QtN1VTYlFFOUVISjVOU3hMMVJJUjlCNnFmTDdxVkNQX0JBRjJFY1pNVE4wRDR6VWJQUndFdlptUmdRMmhxLVNoNGIxX25PQXFEbS15VlBTenlOUm5VQk96WGtyTWI1YWpHWDItM3Ntck4ya2k0MzJQdFoyZmxZX3g0eUQwMHNWMnM0aG5EV21xdE1aNDQ0VVJ5N21KME96QmdtMW5vTQ?oc=5",
+        "title": "Amazon's Drone Delivery Program Hits Turbulence and New Ground",
+        "source": "The Commercial Appeal"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbk5fcHFDNzVIYlhYMnZFWGpxVm9hM1JoNzRTQWM3NmRMbTFkN2UzaW5GMjE1ZWZZZDVlWDNzUlFfaHl6RlJfQS1MbFdEaVBTN0hoVU5Wdk5CeVhZeW0zMFBxbUQtS3lxTFdYRHlObDUzNkIwdmxwOUJKY1J5dEFTRE5MR1R1bDlSc3dJWXV3?oc=5",
+        "title": "Amazon delivery drone crashes into Huntington Woods home",
+        "source": "CBS News"
+      }
+    ],
+    "body": "<p>Last week opened with a thud in Huntington Woods, Michigan, a leafy suburb north of Detroit, where an Amazon delivery drone fell out of the sky and into the side of a house. No injuries were reported, but the image — a buzzing package-bot recast as projectile — did more to shape public perception of drone delivery than any amount of corporate messaging could undo. Days later, and some 700 miles south, Amazon flipped the switch on its first drone delivery route in Memphis, Tennessee, quietly adding another city to the short list of places where Prime Air aircraft now share the sky with birds, power lines, and the occasional lawn chair.</p>\n\n<p>The juxtaposition is almost too tidy: a crash in one city, a launch in another, both unfolding in the same week as Amazon presses ahead with a program it has spent nearly a decade and untold millions of dollars trying to make ordinary. Prime Air, which began as a Jeff Bezos \"60 Minutes\" demo in 2013, has expanded gradually to markets including College Station, Texas, and parts of Arizona, with Memphis now joining that roster. The company has long argued that drones will solve the \"last mile\" problem — the expensive, inefficient final leg of delivery — by cutting trucks and drivers out of the equation for small, lightweight packages.</p>\n\n<p>But each new city added to the map also adds exposure, literally and reputationally. A drone crashing into a home is not simply a hardware failure; it is a test case for regulators, insurers, and homeowners deciding whether to welcome this technology over their roofs. The Federal Aviation Administration has approved Amazon's expansion under rules that assume a certain failure rate is tolerable, the same bargain made with cars and elevators a century ago. The Huntington Woods incident will likely draw renewed attention to how those rules are enforced, and whether Amazon's safety record — details of which the company has not made fully public — can withstand scrutiny as flight volumes grow.</p>\n\n<p>For the robotics and logistics industries, the stakes extend beyond Amazon. Rivals like Walmart, Wing, and Zipline are watching closely, aware that a high-profile crash can freeze public goodwill and slow regulatory approval for an entire sector, not just one company's fleet. Autonomous delivery, whether by drone or sidewalk robot, depends on a fragile social contract: people must believe the machines are safe enough to fly or roll past their homes unsupervised. Amazon's dual headlines this week — expansion in Memphis, wreckage in Michigan — capture the tension at the heart of that bet. The technology is advancing faster than the public's comfort with it, and each new route opened brings the industry one incident closer to finding out exactly where that comfort ends.</p>",
+    "slug": "amazon-s-drone-delivery-program-hits-turbulence-and-new-grou-3aa068"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzZTcWFJbUx5Wmt3ZWNyOGttaFlYOGw2M3NZQmI3cUwxUUhPRGdNbW1RV0Y2bkZtNUhROXpHRkxsVmNxalRHSTRONUdQX2RGZS1lTXB5aTlNdUU1LXgydVNsZGRzZ0Q4X3RJazE4V0NzX3VqbGtVUVlWODJ1QTFBOFk0ZzduaEJzbGkycWpIcU1UM2VISENUajBDZVpwRG9wWmRfeWlyRnBiV05jSEFQQWJxbGhpUQ?oc=5",
+    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+    "source": "The Guardian",
+    "published": "Mon, 23 Nov 2026 02:31:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "The Red Cross warns that autonomous weapons regulation is approaching a point of no return as military drone technology advances.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous weapons",
+      "drones",
+      "regulation",
+      "military"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDFxLVZkazJiQS1ZSWkzSzJjcmZsemZWMFU1SVhtbzIyZEZTLVlDcVlYUGgzRm9RbmU3SFhaemhWdERNVmZXU25fYlVjUG5lS1JFekFUcXJpbUxVenpfWUJIZ1BTaXhlbm9tTGg1VDdYUnpwUnNRV1lyVm5BVXhyUDU0Qk45aUhJallUQjR0OWFpM3dO?oc=5",
+    "title": "Opinion: We’ve made a small step to control autonomous drones. Now comes the hard part",
+    "source": "The Globe and Mail",
+    "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "A Globe and Mail columnist argues that regulatory frameworks for autonomous drones remain inadequate despite recent incremental progress.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "regulation",
+      "control"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFY5RlI4YV9YcXZCZnZaSktMQzFkWl95cVBVMV9oSkhCQk9JaWNReGluamVfVlNjN0hWbWRyQ1lUZHhwNjBfZmx6MFZnM2JVQVlnc0hjdnFNUmdGQV9FMkkwOUE0SjNpWi1jd1l2LXl0OElxRkstZ29lYkJ4dk1Cdmo3Z0RfYTFySEhZaEM4M1g4RTRoV0txdmpUQjdGdGhtVHNTeHV4VDhxMGQ5QThKaUFjdWQ0SmM0WW1IaXpn?oc=5",
+    "title": "SPARK, Keeta Drone partner to pioneer autonomous aerial delivery technologies",
+    "source": "Gulf Today",
+    "published": "Tue, 24 Nov 2026 14:50:20 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "SPARK and Keeta Drone announced a partnership to develop autonomous aerial delivery systems.",
+    "companies": [
+      "SPARK",
+      "Keeta Drone"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous delivery",
+      "drones",
+      "aerial logistics"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb04xNHllRndycXVIMUxMc2kxLXp3Qml6S2lON2hDWmUwUDNkWjVYVTM1ekRrdFdfYjRoYlVCU05kWjZUV242V1hIb3BxaDhDNUJJeXhON3VuX2oycXNXMmtEcTVzN19pS2RUN1dGMHRERjhqdjJkOVlJTHl2UHYyb1F1N1RVUjUtTmNINF9JMnlWUDk5OTRLWHowUDZCLXc?oc=5",
+    "title": "Nordic Air Defence K200: Drone Interceptor",
+    "source": "MiGFlug",
+    "published": "Sun, 22 Nov 2026 13:48:06 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "Nordic Air Defence unveils the K200, a drone-interceptor system designed to neutralize airborne threats.",
+    "companies": [
+      "Nordic Air Defence"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "counter-UAS",
+      "air defence"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Mnl0ZkQ1ZEJvTWV6TGdDZkFpSmF1YmR5eWJmUWpXMkZiNzFlNFpiUEYweFhjSG1NOVNPSTloRlI2SUd0UlFDcnBTNDl2UWFFQVV5Vndpa0Y?oc=5",
+    "title": "Pyka Advances DropShip Autonomous Cargo Drone to Serial Production",
+    "source": "Israel Defense",
+    "published": "Tue, 24 Nov 2026 09:01:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Pyka is moving its DropShip autonomous cargo drone from prototype to serial production, marking a step toward commercial deployment of electric freight aircraft.",
+    "companies": [
+      "Pyka"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "cargo delivery",
+      "electric aircraft",
+      "serial production"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkdoSFlvNzcwRVg2ZGhYTGlhekJMQ0d2VGtXcDdKX1NzaUJXSk1nazBOSnNhVG1RZlk3clBVOHZWVXNuUjdhUUkydHZ2a3JSSjdfYWdQOXYyakhjYkVMU29hNGRrLTRQY2RDSzJoWTVVTDRobFhlT2FZTTlkaUNjWjFiZ2hVMVEzc2pZQVhFNVJ5STd1azBxV1FGYk5fdW9MUUV0ZEk1bDM1T0l2RG01SQ?oc=5",
+    "title": "Former Neuralink Co-Founder Max Hodak’s Science Corp. Raises $400M Series D",
+    "source": "citybiz",
+    "published": "Tue, 24 Nov 2026 11:04:05 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "funding",
+    "one_line": "Max Hodak's Science Corp., founded by the former Neuralink co-founder, has raised $400 million in Series D funding to advance brain-computer interface technology.",
+    "companies": [
+      "Science Corp.",
+      "Neuralink"
+    ],
+    "people": [
+      "Max Hodak"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "funding",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEdLVDRmcDZJbEtQMGE2RjJyT1hhRFhDMlhzRFFjR1Rqbi0xUkxtZGFlRERabU1zMTJhLXZsdGMwekhOUG16Wk1xa2J3ckRDNVZrVFFkay1QWHZjOERPeEllQmxtMDBKTlFmSy1uZ05iOFVrc2g1cU5aYVpONlNQVGl2YzktZ2tFa1piX2htYmdqUVRhODlFTml1NkdxOGhkbE8tZFFaN2w0TEdmeWxiSDBPZU5RRk9RSjZVU0tuTk9XYzVXMWdDcHFQcnR3UQ?oc=5",
+    "title": "Brain-Computer Interface Momentum Accelerates: NVIDIA Enters Speech Restoration Technology; Neuralink Demonstrates Mind-Controlled Gameplay of GTA VI",
+    "source": "Moomoo",
+    "published": "Tue, 24 Nov 2026 07:27:13 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "NVIDIA has entered speech restoration technology while Neuralink demonstrated a patient playing Grand Theft Auto VI using only neural signals.",
+    "companies": [
+      "NVIDIA",
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "speech restoration",
+      "neural decoding",
+      "assistive technology"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOd3R0eGptVVg4elU1RXEzYXo0TXdNWEh1TnlQbDhCVG5wLUE0X2h3cU9GVzZ0UGdtSjVBb1ZXX0FOMmI3d0dDRzUzNlpXdkJxSzRUcC01NmFoMVh4M2FlNXlyNEptZFVkcVdyNXJ2WFNOTkt5clNrRTBxTnVfSlVFWUlFUVdZSTRfZ0M0cWRxMTRveFY3bS1wR0hiOGJNMGtKZ3NROVlQSHdQZEFGVFcweW1MbUljcDdvbHNnU2Z6YW1keFh5Q2V4SXZDbmNBZjVFZHJYNm1rNFB0S1FVTlowT0VMa0toX2EwS0VuOUNIZVRDZS00Q093MkFoNGZzeThVRnlYMWRDZDlkQmZaUFJrMjQ1c25FbktW0gGeAkFVX3lxTE1mbXQtN3g5SGFScmJ3VzBCbDE5b3BYMG5UaE8wZExsN0cwaDlCcFJkS0ZXVlpoRWFjc3BYZmZycXpQQUFETHZxYnZVS3JQcVY0dDIySVhhMkE2RUhoMFYxZ3VWNkpNb1BRTXRJQXBqWnJvcGMxTXluRmttZU8xai1qazlRYkhLNEdkaGZXay1iVDJvOW1yUzlWdDIzOTBPVEtFSlFBdW9RQnFzanlaZmRCM1BWSkFZajlmZHpGejhZelAwSEpmQi01VVlCYWs4UnZMU3FWQjRLcWpFQk5lWHY2Vnh3a1pURXN0X1N0NllKczRmVVoxakctX1E3OEpsUkRPbW1jSXlLcjVTLTJ1MlFhb3JpZ2xSM1N6RnZqNFE?oc=5",
+    "title": "Neuralink trial participant ditches mouth joystick to play GTA 6; Elon Musk responds; says: Playing GTA w",
+    "source": "The Times of India",
+    "published": "Tue, 24 Nov 2026 06:45:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "A Neuralink trial participant demonstrated direct neural control by playing Grand Theft Auto 6 without a mouth joystick, prompting Elon Musk to highlight the advance.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural control",
+      "clinical trial"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CdTNYREZNOGJPN2k3RzJ4LXJzRE1hd3VtcFItZzJBV21tenhON0R6d3dWQmRHOC1HRjlsTXh5SENWN0w1aUhhY21FNGxnRmpZVm56U0ZVVXZDVFRIdHFHbmFTaF9qX2pZQnFOelE5X3BDNzFPQnc?oc=5",
+    "title": "Nvidia Teams Up with Paradromics on Brain-Computer Interface, Targeting Thought-to-Speech Latency Under 10 Milliseconds",
+    "source": "BigGo Finance",
+    "published": "Tue, 24 Nov 2026 07:26:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Nvidia and Paradromics are partnering to build a brain-computer interface that converts thought to speech in under ten milliseconds, targeting locked-in patients who cannot speak.",
+    "companies": [
+      "Nvidia",
+      "Paradromics"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "thought-to-speech",
+      "medical neurotechnology",
+      "low-latency neural decoding"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWml4WHVwa1FaZGp4M2ZjNVNJTHFBV2NteUxxc1JRdW0zTjBNbV9rZHBwNC1qSTUtQTd3OWJoakNOWjR4SXNtam1vZzJXUWNOQlhKLXM3Mmk5TGlkdkhtU2lycWFLWDBDVVozdy1Xd2gxdERNeklSTGJyeTJFcU5mYXI3R2xrS2p5aTRGWF9PLXhaaU1fbEtTeA?oc=5",
+    "title": "Neuralink Participant Who Once Played With a Mouth Stick Now Takes On 'GTA 6'",
+    "source": "Yahoo Tech",
+    "published": "Sun, 22 Nov 2026 13:36:55 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "A Neuralink brain-implant user who lost motor function is playing GTA 6 through the neural interface, demonstrating expanded capability beyond prior control demonstrations.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "motor control",
+      "paralysis",
+      "assistive technology"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://waymo.com/blog/shorts/sfbasevereweather/",
+    "title": "In response to severe atmospheric river forecasts",
+    "source": "Waymo",
+    "published": "",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo pauses its San Francisco Bay Area robotaxi fleet ahead of an atmospheric river and king tides forecast.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [
+      "Daniel Lurie"
+    ],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles",
+      "safety operations"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://nuro.ai/blog/nuro-lucid-uber-begin-driverless-testing-on-public-roads",
+    "title": "Nuro, Lucid, and Uber Begin Driverless Testing on Public Roads in the San Francisco Bay Area",
+    "source": "Nuro",
+    "published": "",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Nuro, Lucid, and Uber removed safety operators from their robotaxi fleet to begin driverless testing on public roads in the San Francisco Bay Area.",
+    "companies": [
+      "Nuro",
+      "Lucid",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous testing",
+      "public roads"
+    ],
+    "first_seen": "2026-11-24T23:43:41",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
