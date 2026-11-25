@@ -121434,7 +121434,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121901,7 +121901,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -121984,7 +121984,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -122160,7 +122160,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -122238,7 +122238,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -122314,7 +122314,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -122392,7 +122392,7 @@
     "first_seen": "2026-11-18T22:27:34",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -122661,7 +122661,7 @@
     "first_seen": "2026-11-19T22:32:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -124069,7 +124069,7 @@
     "first_seen": "2026-11-20T22:05:38",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -124257,7 +124257,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -124322,7 +124322,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -124696,7 +124696,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": "A brain implant playing a video game is a striking demo, but the lack of detail on the actual control mechanism is the real story — spectacle ahead of substance. Until Neuralink publishes real latency and signal-fidelity data, this belongs in the category of carefully staged proof-of-concept.",
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -124805,7 +124805,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -125175,7 +125175,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [],
     "body": "",
@@ -125530,7 +125530,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -125557,7 +125557,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -126419,7 +126419,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -126446,7 +126446,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -126628,7 +126628,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -126741,7 +126741,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -126946,7 +126946,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -127588,7 +127588,7 @@
     "first_seen": "2026-11-24T23:43:41",
     "week": "2026-W48",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -127914,7 +127914,7 @@
     "first_seen": "2026-11-24T23:43:41",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -128393,7 +128393,7 @@
     "first_seen": "2026-11-24T23:43:41",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -128540,5 +128540,1444 @@
     "sources": [],
     "body": "",
     "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xbWV5Wi1FVFNNQlBwNTNEVUlleHh6TGl4NnFhaVdIczVBdEpUaFhmblAyVE1kZEVjSktvWGVKeGg5MWN2N3RIRmZFTkFibzI5TG1YZDY4OVIwRXV6?oc=5",
+    "title": "NJIT professor's low-tech hospital stint leads to high-tech robotic hand",
+    "source": "EurekAlert!",
+    "published": "Wed, 25 Nov 2026 18:40:35 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "NJIT professor developed a dexterous robotic hand inspired by observations during a hospital stay, advancing physical AI for medical and industrial tasks.",
+    "companies": [
+      "NJIT"
+    ],
+    "people": [],
+    "themes": [
+      "robotic hand",
+      "physical AI",
+      "dexterity",
+      "medical applications"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVGg5anZLbHVxWVpyWG83QzhETGNoQjNhZkp6WGlmNV9NaUdLbWFaaXRZcnRIQ1J6aVlBU2FYclFhSzhvNVRNc3lEaWdYRmJ5RFB4M2w1NGRBdmp1NUd4cEhpTzlLQnJHMkR4V1NQTy0?oc=5",
+    "title": "Xpeng's New Iron Humanoid Robot Isn't A Toy - It's Your Next Coworker",
+    "source": "BGR",
+    "published": "Wed, 25 Nov 2026 17:17:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Xpeng showcases its Iron humanoid robot as a workplace deployment candidate, but the article amounts to promotional speculation rather than reporting a concrete development.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "workplace robotics"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTTU4RHc4aWZ5T0xaS3F3QU9GendQa3d0SFBULWxXaVp2ZkhMYldBRG1CYUxOYzlPOHhOOUZnUE5yVmxEeTVzNzlmdkVodDZNem1wZ0tkXzlsNHliVjFnUWJvM1NwNTUzNHZncjBjaGRxakV5U05CcmJQR2RsbDVIcEJrNV9yT0VmQUk5WmtUVWRaZmZnQlZ3VkQ0NzhFMWZGRkt3VGZXS1NsZjVQbG5BX28xdFR4d3NfUzFxU3lIRFFlSEdoWTZB?oc=5",
+    "title": "XPENG Unveils Turing Physical AI Architecture, and Debuts Advanced General-Purpose Humanoid Robot IRON",
+    "source": "Investing News Network",
+    "published": "Wed, 25 Nov 2026 19:00:12 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng unveiled its Turing physical AI architecture and debuted IRON, a general-purpose humanoid robot designed to perform complex manipulation and locomotion tasks.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid robot",
+      "general-purpose robotics"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQXBkYkFUbjZneEU1bDdpZkpuN1lzajJZTUtOeGd1MEd6aldOaWEyQkVrM0ZxYU8zTWswaDVwMlRFTzZDUVZZLVJkRy1JcTlCQ2RyMlpDZE01Wnl6Zk05YUFETzJkbzJvYl9pTkpVU2htdDdxbldycUNmYUtkUEd5T0VkZVU3VUFfWGZ2Qng4ZGxPZUZKT3BwS0g5bndnTWZuWnRYckwxZGVmbWpJWFg3TnhIZ2dvVEFJLWYtekZHdGlTRTdVOGZvRjR0TlUtN3VWbHpR?oc=5",
+    "title": "XPENG is fully committed to shared AI chips for cars and the humanoid robot IRON",
+    "source": "Techzine Global",
+    "published": "Wed, 25 Nov 2026 14:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "XPeng commits to unified AI chip architecture across its electric vehicles and IRON humanoid robot, betting on hardware-software integration to outpace competitors.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "AI chips",
+      "robotics"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdkg1cXBnYWtZVjhlMHFzNWNHUFhxWmFKSVVlVDJYaEltVFg2YjBWTk42OU9JMmd4ZnMzR08zRmJXQTdSbmlOenFSLVJTUEdaZEoxMHplZmludklLNlFYa3g5SXZoMHJhZVF3c2VGRHZUcDVsVVhTcXRJQ05OeXg3dEdTZ0JlRGJXMVk3bW5IQ05wbTQxVk9jVFVYODlBdXlNTjA2aDBCeEJGWjBWZEJwWlZPM2k4NjFsbFF6aFNHdHc5TjhHdXZPZDZpLXprQkN5?oc=5",
+    "title": "Noetix Robotics' Boomy Is a Compact Humanoid Robot Targeting Newcomers' Programming Experiments",
+    "source": "Hackster.io",
+    "published": "Wed, 25 Nov 2026 12:31:01 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Noetix Robotics introduced Boomy, a compact humanoid robot designed to teach beginners programming through hands-on experimentation.",
+    "companies": [
+      "Noetix Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "education"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yS294RzNKZVEta2Z4TFJoOTdfQzlPa3FyLWFOYUpYdEY3SWlmekhmMVR0TzJESTQtT2JMbEJrNWtvbkhTUVNpdGEwbUp2aFh6ZURuLWYzR1BxMWdaa3gtZGs3MThQNk9taUVzU0twUDF0eS1GaGc?oc=5",
+    "title": "Türkiye opens grant call for industrial humanoid robots",
+    "source": "Digital Watch Observatory",
+    "published": "Wed, 25 Nov 2026 21:48:57 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Turkey's government announced a grant program to accelerate development of industrial humanoid robots for manufacturing.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "industrial robotics",
+      "government funding",
+      "manufacturing"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnJuZUxyRW1DN0QzLXo4Y25Gc1VoT1ZILWhTNFRWVW5EOVYtU09PLVpFamZMUlNWRS1VSlQxTkNNOW1JR3NoMnk4c2lXV2ZJME1GNjZWOUpxSEEtRkVIdWlQdnFEQUpsMkFEUkFXclVGQVozNUJoaXd0Nnd4ci1Ya2JSeVk1OUd5SmktUnA5MkNleTJjVHJtZXNNSnZOeDFDV1p1VmFIUkpCSnFDeGVrV2pmbE9ncE1BdUs0MkplZm0?oc=5",
+    "title": "Xpeng unveils AI architecture and humanoid robot at annual event",
+    "source": "StreetInsider",
+    "published": "Wed, 25 Nov 2026 20:55:56 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng unveiled a proprietary AI architecture and a humanoid robot prototype at its annual developer conference.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "AI architecture"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQnA5MFpMYmphSXlhYnFkMVZKUGpDZ0x4V2FuaUxzNlQ4LWx0bzJHVll6VnE3ZV9JeGNHLXVEeXlDVzNnNDRTY1RocVg2b05VaVZ6SHNKTDBvZWg3MlRpMnM4RG82OHRWSExHOVRMRjVqWFpyYWRva1RBdHJNcXhSS0Rn?oc=5",
+    "title": "Xpeng ramps up physical AI push with Q2 2027 Iron robot launch and global smart driving subscriptions",
+    "source": "CnEVPost",
+    "published": "Wed, 25 Nov 2026 13:24:05 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng plans to debut its Iron humanoid robot in the second quarter of 2027, expanding its physical AI ambitions beyond autonomous vehicles.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "autonomous driving"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUtua1lWYnV5UVdKcHFTQWRvMThVZlhpVnJrS1BiSE9IVk9KY3NkR2VIUEdHS29tZEVVTURPbUpjTnp5WnUtMmpYY2RxWm1QaXZENmpTT2RldEJNM2tkNGF4NjdVM2E2WktEM1kxSUN1ZWY1SW9GTVZtTkJqeHNGUEpHTTFwUXVFVHZVMUlyVS16U0hSTXYzWm9xVFZjOE5JaDBGal9KWVNkYlNveS1F?oc=5",
+    "title": "Robotics startup hits $1.6 billion valuation amid China funding slowdown",
+    "source": "TechTarget",
+    "published": "Wed, 25 Nov 2026 15:02:55 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "An unnamed robotics startup reaches $1.6 billion valuation as funding activity slows in China.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "fundraising",
+      "valuation"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXlYcExqa1M5TUp6TGdHZlc5RDFwR2lhYXZnMGV4LS1wVUd5ZlZrS3VzMXdZUUJFLUhZLV8zb3lab3BJaDhxaXlFUGlmaHlkRW0wYXhXQnJId1JuM0ZpOGQzY3V2X2hlLTQyNzdIc0RhVWJWUTE4eXBNX0RVci1Mb2Frc1RFTlhtS19JdlFQWkZrV1pvYmtHT1o1bzd5OEtCWU9sNF9wSWlTV0k?oc=5",
+    "title": "Companies selling robot-training video used to call about privacy once a month. Now it’s several times a week",
+    "source": "Fortune",
+    "published": "Wed, 25 Nov 2026 13:30:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "As robot-training video becomes commercially valuable, customers are suddenly asking harder questions about data privacy and consent.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robot training",
+      "data privacy",
+      "video dataset"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPck5DZmFKRUlTTEg4NGR2YzVWYlRoQnY2TnE0ZW9uRmNzblVRYmRvdkdGbWRmc0NON2E5ZnJueUdLRGRta2VkN2c0eTBQaTEzM2VQaU9mdTUweUViMGN2RXVWOWVYMzJUc3hNblotV2Z4YlZwc1F4cGpCX1k2REhnbEY1UW5vaENRTmQxVDBXVXRMZHpsbmNNRG13YnRvbUhZWTNGd1RSbzBudXpZS2R2RnZn?oc=5",
+    "title": "Japan’s Black AI Secures Seed Funding to Develop Full-Stack Humanoid Robots",
+    "source": "AI Insider",
+    "published": "Wed, 25 Nov 2026 13:55:00 GMT",
+    "topic": "Physical AI",
+    "category": "funding",
+    "one_line": "Black AI, a Japanese startup, raised seed funding to build humanoid robots from hardware to software.",
+    "companies": [
+      "Black AI"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkZSZzB3cXNMSGh3SUtrS3BHbGlWWlV3RGlBOU1fYW5aM3pOdHpUMVZMOWdEV202bGRTejg0TTNzOXhvaDhBTjE0MW91bFFIcC1iLVg2LU5qMW1NQjJURU1PTFdTdndmd082aEkxS0dua1dkLWRUcVlWckZlQnlPX0YxRW1zUHpLeG45VEhTenQxbk1COHFZUFVtMA?oc=5",
+    "title": "GlobalFoundries to test Atlas humanoid robots in its fabs",
+    "source": "Evertiq",
+    "published": "Wed, 25 Nov 2026 07:27:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "GlobalFoundries will deploy Boston Dynamics' Atlas humanoid robots for testing in its semiconductor manufacturing facilities.",
+    "companies": [
+      "GlobalFoundries",
+      "Boston Dynamics"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "deployment"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0lwQW9la3BkOWdqTUpwU21IM0RWN09QSVlzTGtXNmxwdlRqY3RsVFdWd0psT1dTR3phWENpTHJGeFVWQnc3WU9ZYmNuWDBHU2hyNE8yTmE3Qng3dW1oOV8yNW1zMTd3dU9TTU9vMkVETkR6cThXang4VlI5VmRIRzVTSDg3dXBhR2drSDV4X2pxYnlaMU9RblhKaWV6dzJrUHJsVVVaQ09lUQ?oc=5",
+    "title": "Lab says humanoid robot uses living human neurons to help think",
+    "source": "NBC News",
+    "published": "Wed, 25 Nov 2026 01:35:52 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "A lab has embedded living human neurons into a humanoid robot to augment its cognitive processing, blending biological and artificial intelligence in a working system.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "biological computing",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNk9hY1AwV1pZNF9hQUlCdXNGSzB6aHFzd3lzWGRGV1RtVnc4TXpNcXhkdWthSDZlWjNRMzlCSEw1ckNkUGNfaUdGcUU5VFF2QjNnYnFnc1B4SDhNcG85Y0R2Z29SdWVBU3JlT0dlWWh2b0lYQkZXYVFFREVRWjl0clBsejBSR0ZwbExISkJtQktTaGFtMjk1SXJPVmhkekdwV2RBNmJSQ0xGa2ROVHI2R2pkUDdEUXlxWTVvTnpUMExtX0NkckdtOS04bzRHM2VzSGVpVTNsU0IyYkNFSzhhLWtLX2xqTHNYREhIUHZjR0FnSFBG?oc=5",
+    "title": "CAIC Plans to Collect Over 100,000 Hours of Auto Assembly Line Operation Data, for Embodied AI Training",
+    "source": "Gasgoo",
+    "published": "Wed, 25 Nov 2026 07:09:51 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "CAIC is collecting over 100,000 hours of assembly line video to train embodied AI systems that can perform industrial manipulation tasks.",
+    "companies": [
+      "CAIC"
+    ],
+    "people": [],
+    "themes": [
+      "embodied AI",
+      "physical AI",
+      "industrial automation",
+      "training data",
+      "assembly line"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzFrbElzR0JNWFJfMjdoTTdzMDJGU0h1UmQ5TDdtRi04LU5lNlZMNUlFNGxweFJXS1pKUUN5clFnTHV3UkFOMmUySzV4WnZRU2JubWRXV1c4eUo1SEtqYm5ueHM3VVVLYm1FUGJaWFI5dWNVOVc1MV9iVm1VSjBKMDFEbGtEa1dfaE91Zzg1MVpzaHhMUDRfMU5aT2FtQUE?oc=5",
+    "title": "Xinquan Robot takes 5% of China's Changban in robotics parts deal",
+    "source": "Dealroom",
+    "published": "Wed, 25 Nov 2026 18:27:16 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Xinquan Robot has acquired a 5% stake in Changban, a Chinese robotics parts supplier, signaling consolidation in the country's hardware ecosystem.",
+    "companies": [
+      "Xinquan Robot",
+      "Changban"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "parts supply",
+      "consolidation"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmE0Slp4SVpQVHRDblFEbHV1NjFfMmVkaHUzRGwtSXpRNmFRMXFPRmVLNDhjaktLUGFyeFI2WG5ZeDkxV1pJWVFoQ09OWUYzRkJPeGNkNHdvX3FyS2phZ05DM042TGVPWXVDbFF6VHpMRTA0QXZvLTdkaTZzOGxyUjFrX2xtdlVzLTUwSl9CdE5VUkdDNWRaVC1VT3g1LThrV01MUk9HOGk4Y1dyaEU0S09IbllGdWc?oc=5",
+    "title": "XPeng Unveils Turing Physical AI Architecture, Iron Humanoid and Robotaxi Plans",
+    "source": "AI Insider",
+    "published": "Wed, 25 Nov 2026 15:10:05 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng unveiled Turing, its physical AI architecture designed to power both a humanoid robot called Iron and autonomous vehicles, positioning the Chinese automaker as a contender in embodied AI.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid",
+      "robotaxi",
+      "embodied AI"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcU05UHZ4Q0tzTEpxZTRNY1ZsU2pmckZmRkU0VXh0Z282eVRmQl92S2xTSHVOTW9KQzZQNVJzdW9Ta3ZXLVhycGNvV1h4X1J6T3pDdnZ3cldLNzNSc2hVQVFnOVhsWW84WEtaemp5N216THV4T0hxTjRrNGR6ak4tNkJR?oc=5",
+    "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
+    "source": "Electrek",
+    "published": "Wed, 25 Nov 2026 21:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Tesla has established a subsidiary at the headquarters of German machine tool manufacturer EMAG, signaling a hardware play in its physical AI ambitions.",
+    "companies": [
+      "Tesla",
+      "EMAG"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "manufacturing",
+      "robotics"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRTU5aEhVUHRKNzIyQjdoQVc1X015RXczYjhqTWlacjBiaFJrU3Bqck9Yb3NLMVJNc1dwejROTFBKeDBSRlVfbGF2eXYtUWRUVGo0aC1zWXJ2eUx2WWdkZmdWNmhjVkFXNHVrNm9henc4Z3dqSG9wQjFmTW9EOXlrdVo3YTE0cDlKUGhhVW82M2ZxQ0NQWDdDMnQyc1ByZHNOTmVsOEN2T3ZvNUd0Mlh4NkR1U3hNM0V3d3N2NTVUckQ2Q09HYXhkdllqRFFrYUJIaFhoWjdqcFVmOFdtMWxz?oc=5",
+    "title": "Boston Dynamics and GlobalFoundries take humanoid robots into semiconductor manufacturing",
+    "source": "Intelligent CIO",
+    "published": "Wed, 25 Nov 2026 08:57:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Boston Dynamics and GlobalFoundries are deploying humanoid robots to perform assembly and inspection tasks in semiconductor fabrication plants.",
+    "companies": [
+      "Boston Dynamics",
+      "GlobalFoundries"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "deployment",
+      "semiconductor"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLdTBSRzZ5Tm5nVFphbTNvUDR1TnAzenFXdmgyTnVGUTBOc1c1T0xhalFuc0c2VkFZeF9Sa042WFVXYVhQU2dCUU1DZ0JubGdqcFVlT1N6Z1VaZ1BjQVVFNEFWUmV4cFp2andjOTRGRWZfZGQ1NnRB?oc=5",
+    "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+    "source": "The New York Times",
+    "published": "Wed, 25 Nov 2026 21:36:34 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Denver man has launched a campaign of egg-throwing harassment against Waymo's autonomous vehicles, escalating public backlash to the company's robotaxi operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "public opposition"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXhETkRReGlSN3ZZcVhmT29qVUFCOVdfcmlXYmQ0RmV4ODJzUWZUV0NBSnBtbmFNdGFVMVpuNFZKc2xQQ2NOMjY2UlNzeW1QSHc0aEJEWFpoZjBOUURIdS10TzJDbXVOaHBPaHZxcnllVkFnR0dYNnAxSUdfQWJYTnYybkJZaDlsMXVBQkNvQW03ZmFjN3pzY3VRNXbSAaIBQVVfeXFMTnhRSXI5VmxubHZidkhJUjNHdG9pbXk2MWtHaUdMeHl4c2tlTUlUVkZUNTBwTEtaLUxKVjRDNzRHYWJzQXBoeW95YmVXUW1kVHRGSENJeHdhOS1lMkljanFPRDhEa3R6YmdmTjRNZEV5Qk9waDhabm5ZMXFoaklOQ2RrUnlYSkVmaExIUUhMVHZZTkFUSlQxNXFRc18zTWJPZXNn?oc=5",
+    "title": "EU postpones discussion to approve Tesla's self-driving tech",
+    "source": "CNBC",
+    "published": "Wed, 25 Nov 2026 19:54:42 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The EU has delayed a vote on approving Tesla's self-driving technology, signaling regulatory caution around the automaker's autonomous systems.",
+    "companies": [
+      "Tesla",
+      "EU"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory approval",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OODFESWJPQWc1cnNIVVlaSVU2NXZSMEJETzBfOVB4eGdGcTJyaEt5VkRJbWxtUHpRdFJmVDJKR3JONVduSkdfc0pfLVp5RTlFejM0R0lfR1h1RS1ZNEFwSnluUzJiblJyS1dwZjdVT3A?oc=5",
+    "title": "Motional retools for the robotaxi race",
+    "source": "Axios",
+    "published": "Wed, 25 Nov 2026 17:21:32 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Motional restructures operations as it pursues commercial robotaxi deployment.",
+    "companies": [
+      "Motional"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1JqckxYcE9RenRtcmNyU0YwVHAwdHRjX2pqSWRTRi1CMkY5dTFsUy01Rl9PbjgtcXpoWWg4MUs0RTJycjRFVW1ROExBTzNuVTBVTndmcTZGMFBpMzhHS09ldi1OZlpPQ1BFckFDbVF2bG1wd29vUmtTQ0dUSXJXb0Y5YVpOZTR3d0dWUU5EUFFGNkV0T2hKd1FvRXhtNEE?oc=5",
+    "title": "San Francisco Waymo passenger finds loaded gun in robotaxi",
+    "source": "CBS News",
+    "published": "Wed, 25 Nov 2026 22:57:45 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Waymo robotaxi passenger discovered a loaded gun left in the vehicle in San Francisco, raising questions about the company's safety protocols for autonomous vehicles.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "incident"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGZCWVNSVTdXZWtLYlRnVlZfSDJSVnQzNUY5YnoxR2lfVmJQeVhaSGc2SU1oWllodjhFa2FZakQ4Q0tMX1NhU0ViNXVrQmUxUFphckZ4RXRLYnRkbE9FdHhrbXNZRVkwVEt5c1hhUWZ6c0pmb0JieXk3SkdMTDhPWDJFOVZyblFRN3RuNTZEM3dXbUpxNzNzdDQ3Rl9ldHBz?oc=5",
+    "title": "Lucid Group (LCID) Starts Driverless Robotaxi Testing, Is It A Bargain?",
+    "source": "Yahoo Finance",
+    "published": "Wed, 25 Nov 2026 20:15:13 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Lucid Group has begun testing driverless robotaxis, marking its entry into autonomous ride-hailing as the luxury carmaker expands beyond traditional EV manufacturing.",
+    "companies": [
+      "Lucid Group"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlhyX2dkbGhzNFNqRzJnVW1NbEViRDBka2lpa0NlMk0xV1MteUdQeURtSFp2bU5ZWGNlSlZBUV9PVXl4cmRKV3JwcE1nUW1XODFTZk1iUzdLZkdndXZlanNOblBGYzdhVzA5dTNiYUJsSGR4U2RpaVhobnJZLU5JcVFFRQ?oc=5",
+    "title": "Tesla removed the most annoying part of Full Self-Driving",
+    "source": "Teslarati",
+    "published": "Wed, 25 Nov 2026 17:19:02 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla removed the steering-wheel nag from Full Self-Driving, eliminating a friction point that required drivers to touch the wheel every few minutes.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "Full Self-Driving"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTZKMW9iNkQ1NFU3a3d4UXFoVnlleU5USGNGWUlwVXUzWk5XaHd1ZUNrSlNBZ1R4Vzh5dExLQ1FNY2o4REk0Z3E4MlBKU05vV0ZxUmQ4NWo0OU9QSWZDNjNoX1ZDOS1oZXg5MmU4N0RrcjlobFdGcXN0T0x0N21tUHdmUllhNzRDck1QMFIwWTZ1bEFXbjZtUnl4aTB4eWZ4LWlCZEwtVUlNN2J6eURJ?oc=5",
+    "title": "Daily Digest: Waymo recalls robotaxis, Netflix snags storied Hollywood production lot",
+    "source": "The Business Journals",
+    "published": "Wed, 25 Nov 2026 21:27:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo has recalled its robotaxi fleet, though the digest does not specify the technical issue or scope.",
+    "companies": [
+      "Waymo",
+      "Netflix"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "recall"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12Yk1LZ3loNklNLS1PbUhXMjBuRllSTnlvd1lMdkF6cWFraS15WXEwLXdXcmlHaVRVaXZLaUctZW8yb3Bkc0RHcElXVjM5RnlFU0RraTNRVDhFbWdTckVkbWItZW1LM0ZpRmxOaU5waWMxOXpkWDBHWW1EUVl1dw?oc=5",
+    "title": "California Bans Waymo From Freeways As Mishaps Stack Up",
+    "source": "SlashGear",
+    "published": "Wed, 25 Nov 2026 22:45:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "California's Department of Motor Vehicles has restricted Waymo's autonomous vehicles from operating on freeways following a series of incidents, marking a regulatory setback for the robotaxi company's expansion.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory restriction",
+      "safety"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PaFNVb01SV1gzVUprd3JTMWZlSVVIRXQtVk1ROURnaU1ubTVhWVdMMU5TcUlhQjc3WnNINGhQTUtyTWF0aUw2aFpQdHJPaUVwTWVpWjF5aXR5WlFNbjRFdlQtU2UyUDRneTBZTU1lb3M5ZTVLdmViZFgzXy1PQQ?oc=5",
+    "title": "Tesla Stock Slides as EU Delays Full Self-Driving Vote to December 15",
+    "source": "Electrek",
+    "published": "Wed, 25 Nov 2026 15:45:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "The EU postponed its decision on approving Tesla's Full Self-Driving software for the second time, pushing the vote to December 15. The uncertainty rattled markets, sending Tesla shares down 6% and dragging Rivian and Lucid stock down 4% in sympathy.",
+    "companies": [
+      "Tesla",
+      "Rivian",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous driving",
+      "regulation",
+      "autonomous vehicles",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PaFNVb01SV1gzVUprd3JTMWZlSVVIRXQtVk1ROURnaU1ubTVhWVdMMU5TcUlhQjc3WnNINGhQTUtyTWF0aUw2aFpQdHJPaUVwTWVpWjF5aXR5WlFNbjRFdlQtU2UyUDRneTBZTU1lb3M5ZTVLdmViZFgzXy1PQQ?oc=5",
+        "title": "Tesla Stock Slides as EU Delays Full Self-Driving Vote to December 15",
+        "source": "Electrek"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZScjJtRWxjS21xZGluRTNlRUhPTlpMQ0kzYWRPT0xjemdNT0o5Q2xCcUduZk10UmQ5SFowZ21iWWxhQ3piNEIzdkFjd2NiVlo0blpZNC1Sd0ZTMFhkRHlwbXdDUlNsNUxIM0ZGa3Q2MkgzTmtyR2Q1ZUZCNHI5UEZ6OGR4aEgwRlRVYW5LeHVOX1JlWXVfMjVQRF82VjFoczFURUg3U0RzM2FXazRCS0xFamJOYUlRMHBOcGtPWTdpXzcwN0hhXw?oc=5",
+        "title": "Tesla Slides 6% as EU Delays Vote on Its Self-Driving Software; Rivian and Lucid Drop 4%",
+        "source": "24/7 Wall St."
+      }
+    ],
+    "body": "<p>Brussels did nothing on Tuesday, and that was enough to knock billions off Tesla's market value. European regulators postponed, for the second time, a vote on approving the company's Full Self-Driving software for use on the continent's roads, resetting the decision date to December 15. The delay, first reported by Electrek, gave markets little to chew on but uncertainty — and uncertainty, where Tesla is concerned, has become its own kind of catalyst. Shares fell 6% on the news, according to 24/7 Wall St., with the selloff spilling over into fellow electric-vehicle makers Rivian and Lucid, both down 4% in sympathy.</p>\n\n<p>The EU has not explained its reasoning for the second postponement, and that silence is doing a lot of work. For a stock whose valuation leans heavily on the promise of autonomy — robotaxis, licensing deals, a future where Tesla sells software margins instead of sheet metal — a regulatory body simply declining to say yes or no is its own kind of verdict. Investors have spent years pricing in Elon Musk's timelines for full autonomy; they have grown considerably less patient with Europe's.</p>\n\n<p>The stakes here extend well beyond one company's quarterly share price. Full Self-Driving is the clearest test case the industry has for how governments will actually regulate autonomous vehicles once the marketing copy meets the pavement. The EU's bureaucratic caution — this is now the second delay — signals that European regulators are not going to be rushed by Silicon Valley product cycles or by a Tesla earnings call. That matters for every robotics and AV company eyeing the European market, because the same scrutiny applied to Tesla will almost certainly apply to Waymo, Mobileye, and whoever comes next. A slow, deliberate approval process is, in one sense, good news for public safety; it is also a drag on an industry that has promised investors speed.</p>\n\n<p>The sympathy drop in Rivian and Lucid shares is its own small data point about how thin the line has become between \"EV company\" and \"autonomy company\" in the market's imagination. Neither Rivian nor Lucid has anything riding on this particular EU vote, yet their stocks moved anyway, which suggests investors are trading the sector as a single basket pegged to the idea that self-driving technology is the next profit frontier. When that idea wobbles, everyone's stock wobbles with it.</p>\n\n<p>For ordinary drivers, the practical consequence is simpler: another six weeks, at minimum, before European regulators say anything official about whether Tesla's software is fit to operate with greater autonomy on their roads. For the industry, the consequence is a reminder that robotics and AI companies are now subject to the same forces that move oil or semiconductor stocks — a single bureaucratic calendar entry, oceans away, can erase billions in value before lunch.</p>",
+    "slug": "tesla-stock-slides-as-eu-delays-full-self-driving-vote-to-de-9fecff"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdEtvWk04ZmQxQ2xTM0gtc3B0NU94NWxlZEF4QnNaVVIwR3ZLbXZKWTN0RzRNWlByUldFY2U5WWdFSk5MZDZIelNmeXFyb3ZZZkljX0lxZzlaRWhmdzk2S1p1aTVMcmU2azVoMlBIRWtxNWtkRm1mN2dDMG9QMEw0VVR2cWNZTERuVkluUUtMTkIzMUU?oc=5",
+    "title": "Tesla Slides 6% as EU Delays Vote on Its Self-Driving Software; Rivian and Lucid Drop 4%",
+    "source": "Yahoo Finance",
+    "published": "Wed, 25 Nov 2026 15:54:11 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's stock fell 6% after the EU postponed a vote on approving its self-driving software, dragging down Rivian and Lucid with it.",
+    "companies": [
+      "Tesla",
+      "Rivian",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZScjJtRWxjS21xZGluRTNlRUhPTlpMQ0kzYWRPT0xjemdNT0o5Q2xCcUduZk10UmQ5SFowZ21iWWxhQ3piNEIzdkFjd2NiVlo0blpZNC1Sd0ZTMFhkRHlwbXdDUlNsNUxIM0ZGa3Q2MkgzTmtyR2Q1ZUZCNHI5UEZ6OGR4aEgwRlRVYW5LeHVOX1JlWXVfMjVQRF82VjFoczFURUg3U0RzM2FXazRCS0xFamJOYUlRMHBOcGtPWTdpXzcwN0hhXw?oc=5",
+    "title": "Tesla Slides 6% as EU Delays Vote on Its Self-Driving Software; Rivian and Lucid Drop 4%",
+    "source": "24/7 Wall St.",
+    "published": "Wed, 25 Nov 2026 15:54:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla's stock fell 6% after the EU postponed a vote on approving its self-driving software, leaving the company's European regulatory path uncertain.",
+    "companies": [
+      "Tesla",
+      "Rivian",
+      "Lucid"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulatory approval"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSU55dTlpUjVzSzJjU3NSSS1FdmJxcGo4clpJbklsZWQ3alB6NXZmT0lOelFzS25aYW40VmRMeDFfOURoX09aeGFGdl90V09NSTlaVWdnUjNsekZlTXNSNTlHeHJSUWItNDdFM0xKaXhES3psY1UzZnA5MHJDSVI4VHJad2JnYURDZ2xYcg?oc=5",
+    "title": "Zoox Robotaxi Launches in Santa Monica",
+    "source": "Santa Monica Daily Press",
+    "published": "Wed, 25 Nov 2026 11:03:08 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Zoox launches its autonomous taxi service in Santa Monica, marking the company's first commercial deployment of driverless vehicles outside the Bay Area.",
+    "companies": [
+      "Zoox"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTdkNnBiV0RkbXpZNkFNeTZ0Q1pZekl2elppaHhWVi1nMzFhdHFfYkU1Q0cxNEpyT2NRcmM1LXJ6RVIxRVRiLVlaTExPWk1fei1KdGxQd3hkSWNhcEI4UTFtM0lUZHlTcms0QndCRXViRTIxSEtlOTktMmw0VHhUZ2NiMDB0TmZT?oc=5",
+    "title": "Waymo Recalls Nearly 4,500 Robotaxis Over Freeway Safety Risks",
+    "source": "Law Commentary",
+    "published": "Wed, 25 Nov 2026 01:50:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo recalled nearly 4,500 robotaxis due to a software defect that could cause unsafe behavior on freeways, marking a significant safety intervention in the autonomous vehicle rollout.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety",
+      "robotaxi",
+      "recall"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObm1ITzd5LU9lbFg3S20tNWMzTl9RUnZKVnFQUnRVc2d0S1FSa0RVUHdycktaenktS19UVlJlOUhLTEljdWZlNnV0NzNXT2JmcXotR1VCNURKQ0NnZFBMckVFTjJPVFpyM2ZkUW1xMWFSUVVIUnFFX0FDRndBd1pINmU2VnBKRHBNZDJwdllsNDQwZlJaNUtDTDBFaUtnemFsU0NDcEF2ZzVFOWx1aDdOVjdSQi1iWC0wc0xtalcwNHRBMXdHTFV5TVRlR1NfaXBXNV9pc0NR?oc=5",
+    "title": "Researcher develops quantum-inspired approach to safer autonomous drone navigation",
+    "source": "Robotics & Automation News",
+    "published": "Wed, 25 Nov 2026 10:15:15 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "A researcher has developed a quantum-inspired algorithm intended to improve autonomous drone navigation safety.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous navigation",
+      "drones",
+      "safety",
+      "quantum-inspired algorithms"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CaXJHb0ZIRUlnNTRoVlRwLW0zaEk0dGk4X3ZIejdXRUpFb1JtM2FOUFZsWlJOOTd0cWM5aEIzam0xZ1lMYlhNbklEeEtDcXVGUWdNYUF4aHpGM2pQR1pCQ3J1akt5ektvNFp2NzBaSzlEcm5WN3JrVGln?oc=5",
+    "title": "New UK Defense Trade Group Aims to Accelerate Adoption of Autonomous Systems",
+    "source": "Dronelife",
+    "published": "Wed, 25 Nov 2026 18:51:26 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "A new UK defense industry coalition forms to push faster adoption of autonomous systems across the military sector.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous systems",
+      "defense",
+      "policy"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2c4TUFXNUEwMk5fOW91YUZkbkNuYVdYcEhSc3JxNGQwMDY5SmZHdHRtNk9PcUg4eG5KWVpDLXVNOEVwY3dZeVU0bnVNX29GaV9Ub3d6ZlJ6aWZpRlUyZ2YxckEycl84UEhnX1JuOHdhVzNJd3BvWWhIMGp5NmVWRkpuQThpSUlrQWdjN3JfYWpQM1MwbDF1NnVxbmE?oc=5",
+    "title": "Flying drone taxis set to take off in Phuket next year",
+    "source": "FTN news",
+    "published": "Wed, 25 Nov 2026 13:33:21 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Phuket plans to launch commercial drone taxi service in 2025, marking one of Southeast Asia's first urban air mobility deployments.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drone taxis",
+      "urban air mobility",
+      "autonomous flight"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0aG54NXJxX0Q0SUtkQW5IN19JZktqUHpFb0hYNzlZb09YUHBramIxbWFMS052RXVEcE1UbVZsNVp2TnFKOUV4RHRlQlozZDFOT3RNb0ZKdjlhOUpvMXFZSXZzbFY0RVFXeTFsdVlmZ2EwZ0tFNnF2SU13?oc=5",
+    "title": "DeltaQuad Joins Autonomous UK, New Defense Autonomy Trade Body",
+    "source": "DroneXL",
+    "published": "Wed, 25 Nov 2026 15:27:00 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "DeltaQuad, a Dutch autonomous drone maker, has joined Autonomous UK, a new industry body focused on defense autonomy standards and policy.",
+    "companies": [
+      "DeltaQuad",
+      "Autonomous UK"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "defense",
+      "industry standards",
+      "trade body"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DanNCQkVNaDFteHI4MHhKNVlQZk1yOHdQdzBYLVQ3N01ZVE1sRnRrMzlPbXlBSDk4OHVuVGQzTXREZ1VaeWRmWk9JOU50M3JXT2Y3Z1dpZGk4OGpBMXU3SXBFNTRMQdIBZkFVX3lxTE1DanNCQkVNaDFteHI4MHhKNVlQZk1yOHdQdzBYLVQ3N01ZVE1sRnRrMzlPbXlBSDk4OHVuVGQzTXREZ1VaeWRmWk9JOU50M3JXT2Y3Z1dpZGk4OGpBMXU3SXBFNTRMQQ?oc=5",
+    "title": "Advanced Autonomous Drone Tech Found Missing Persons Deep in Forests Without GPS",
+    "source": "SBS 뉴스",
+    "published": "Wed, 25 Nov 2026 03:36:00 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "An autonomous drone system located missing persons in GPS-denied forest environments, demonstrating practical search-and-rescue capability without satellite positioning.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "search and rescue",
+      "GPS-denied navigation",
+      "forest operations"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQlR0X3VwVjBYa2tTV05tT3hxQndLTVVOZjVmV1lzcF9XU3RhZDd2TGN2LXpqYUl1ZDFSM09mQ1dyMTZPYjc5dEUyR0t0bFg4X29hZ3lmd0FEclpESTducVBVN3piNThGNGdFUTlpeVk3QlJMT1RpVmxhTGdXNkNpSmt6OVQtZGRZc2syWTVUVlVDeWZLZl9YdUgwaVRkbFhaNE5YVWw5TW93V2w0UWtMaGhaaTZHSWRjdVR6YUl3dXg5elJxY0hGVjR1UTU?oc=5",
+    "title": "Zipline and Chipotle complete first drone food delivery in PGA Tour history",
+    "source": "Robotics & Automation News",
+    "published": "Wed, 25 Nov 2026 07:21:55 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Zipline and Chipotle executed the first drone food delivery at a PGA Tour event, marking a high-profile test of autonomous delivery in a live sporting context.",
+    "companies": [
+      "Zipline",
+      "Chipotle"
+    ],
+    "people": [],
+    "themes": [
+      "drone delivery",
+      "food delivery",
+      "autonomous logistics"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHpBUDNOejhlOS1lb2ZxZEFEbmFNY002dENVcG85cE5saTZSUGJORDFCcnV2OG5jdGoxRWdzdEhwMGFGUjdYUnB4X0ZtM0NZSTNJM1J6MHhRMXlISTAyUU5ZWEdQNHl1WHhwS3FHUmx5OFpmMU4yTlVQZXRmeEZJTkZjMzZES3FDWUJYcTB4WENXall4YlltZ2VJZmlwV0IxeTd4d3ZhbkljSE1tUXdLOHFNT0t5dw?oc=5",
+    "title": "Autonomous Drone Flight Framework Improves Search Missions for Locating Maritime Castaways",
+    "source": "Bioengineer.org",
+    "published": "Fri, 20 Nov 2026 03:16:05 GMT",
+    "topic": "Drones",
+    "category": "research",
+    "one_line": "Researchers present an autonomous flight framework designed to optimize drone search patterns for maritime rescue operations.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous",
+      "drone",
+      "search-and-rescue",
+      "maritime"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2TWNVdmxKeDJnSmhIaGRZY0hKOUhBa0FiM2VoN2w0QVFYLXo3Zmo0ZktUeVFLQWlwRV9DVzhFcHMwMGlGTWxocms0cTNidDZ5cnNOOTRIdGlFN3lCSlJvVXNqNkFXNTZMZVFFcmg1QQ?oc=5",
+    "title": "Autonomous Drone Hunts for Cracks Inside Concrete Bridges",
+    "source": "UAV Coach",
+    "published": "Thu, 19 Nov 2026 03:20:14 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "UAV Coach describes how autonomous drones can inspect concrete bridge damage by flying inside confined spaces.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "autonomous drones",
+      "infrastructure inspection",
+      "computer vision"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnMyQ3hHaHVmcU1qT0NSYjRoSkk0WW9LMjd4aVctVTNhNGdKQ1FrNlV0bWJVQkRDTGcyUnBRNnV4WjVOdkdzRmoyZmJwc0FsbXo3VDhGM1NaQ1pmT1dUcjFDVVBmSjk1N0pvc0tfSjRlV0lYSUkxVnlmanUxTndtVkphM20?oc=5",
+    "title": "Uber Eats launches new drone delivery service | What to know",
+    "source": "ABC7 Los Angeles",
+    "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "Uber Eats has launched drone delivery service, expanding its last-mile logistics beyond traditional ground couriers.",
+    "companies": [
+      "Uber Eats",
+      "Uber"
+    ],
+    "people": [],
+    "themes": [
+      "drone",
+      "delivery",
+      "logistics"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yNkZvQlctc0pXTjVOMXU0QzJqZmFrSHhIUzNfWHRkWVZlTDRkMlppQTBiNk1zd2dZZ3FvZnVRVEFTVnRob0lkQnR5WEpGVUFDam5NS0Y3UklpRU9EeS04?oc=5",
+    "title": "Neural interface without a scalpel",
+    "source": "Nature",
+    "published": "Wed, 25 Nov 2026 11:18:39 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers report a non-invasive neural interface method that eliminates the need for surgical implants, potentially widening access to brain-computer interface technology.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "non-invasive",
+      "neural interface",
+      "medical device"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWN4ZHluMUFFcjNHN25ObnNSTmIxREtLTUZibEd2dmp2dGhkU2hMY2hwMEY5Z3FHT3R6b2g0eGdvVENyT1gtdVBWUFJ3ZHBZTU5DSHRQLS1lNzlPeHlxckVkM1ZHWkJuMmp4UXE5YkNCZEdDQXZ2ekRnUVg4R2xqemdHcDBkZTRxRF9OY1B6RW1weUlGQ28xWm1NTXlUOFpGOVNDMU9TVDFSNU81dXQwZ1NaZTFXUQ?oc=5",
+    "title": "Neuralink Gets Clearance for Brain-Implant Trial in ALS Patients",
+    "source": "Bloomberg",
+    "published": "Wed, 25 Nov 2026 22:06:27 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink won FDA clearance to begin human trials of its brain-implant system in patients with ALS, a major regulatory milestone for the Elon Musk-backed neurotechnology company.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "FDA approval",
+      "ALS"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaWhIVWtsQlBkQko2alNhUDluZUtJVzFRaFN2T3dJQlFrZFZ6bXk3YldaRHZSMW54cDJ5TENRcjFaTDJzcXZlNWhwWGM0azZDQktGTko2NlNhbElvQmpPc1FiQkNHT2NROGk4REZiQ2M2NU1Kb3FHZzFGRHRUWVJqWmRLeXVpTndURnhwdVZWTGViV3NxNVJnTmRPaUpKU2hDb21pMXQycmpBZm82aUlXaWxXcHl6Z3lILWZ0aVpQUVFtQ2NEaTBKMzdHcTR2TXZnVkxhdEVhc1lkZWZ6d3c?oc=5",
+    "title": "Elon Musk's Neuralink gains FDA approval to conduct pivotal trial for chip implant",
+    "source": "TradingView",
+    "published": "Wed, 25 Nov 2026 22:16:12 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink wins FDA clearance to begin a pivotal-stage trial of Elon Musk's brain-computer implant on human patients.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "FDA approval",
+      "clinical trial",
+      "neural implant"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMENkQm0tZWJxQnFZdGE1SmNfMmcxc1djMUNSX1k5RnpHcjZwZDZJTDJUeUVoX1ppSmsxY0VvUnV6R2lpZTJYdkZoRjBaY2ZhaHRaV3dwZDFmVkJIeVBiNEpJaTY4cGdzdFpMeFBnbHJjYm9jYXNoVEVwZ2JNZ0xTYVdMMHJ3MzlIZW5udUlvbWY2NC01Z3R1LU1uQkkzUTBGMGJzcVZhdWtTek4yV2RLYkVhUDJPdw?oc=5",
+    "title": "Elon Musk Wants Neuralink to Tackle Neck and Back Pain: 'One Day'",
+    "source": "Benzinga",
+    "published": "Wed, 25 Nov 2026 10:39:27 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Elon Musk floats a future application for Neuralink in treating chronic pain, expanding the company's stated ambitions beyond paralysis.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "medical application",
+      "chronic pain"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUxfckcxLWthVXpDRk52TE56R0FtTnBGb1dMd0lYbUdUX2E5R3ZWcmZhV0pIRUozZnRLbjk5QVFVemdtSVFaY1VVMHFwWEdfb1BhN3dncUZPSzFQLXlYNERZdTBYRUI5Q0U2akNhb0xmeGd1eXZjWE52LTdoUDJnRm5BdS1SNHlOWEk1UUZVX2JGSUpjTVpNS0JQR3psd2x5OEpJWklLcmdoalpidmJXc3l3ajdWVUlZRy1Qd1E5aVM3UQ?oc=5",
+    "title": "Neuralink secures FDA approval for first U.S. pivotal brain-chip trial",
+    "source": "Investing.com",
+    "published": "Wed, 25 Nov 2026 21:30:05 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink won FDA clearance to launch its first pivotal trial of a brain-implant device designed to restore motor function in paralyzed patients.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "FDA approval",
+      "paralysis"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODZMNEM3cnN0Q2d0RTczRkFickw4cXhXQnNBYXpsbk4zR0NMaHNkbzRVMUhZQVhHclQ2cU1vdF9zX0RqRVotQkxqMkdyaldsVElzdXYxYndmWmgzLXBnbUtJVVhZYy00bFpWRXFLWG9jaUYydHZ2TkMtTHpDUENmR1VRSUZwZUdOSDhDNzk5Y0RyUlB1SFVqd1FFWGZKT282?oc=5",
+    "title": "Neuralink Wins FDA Approval for LINK, Its First Pivotal BCI Trial",
+    "source": "BASENOR - Tesla Accessories",
+    "published": "Wed, 25 Nov 2026 21:04:35 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink won FDA approval to launch LINK, its first pivotal trial of a brain-computer interface designed to restore motor function in paralyzed patients.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "FDA approval",
+      "clinical trial"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XRWFtZVpWell2ZlFnRnNXelN2TTZ5T3NvRXE4ZFNsaWExazJhWFRhTjlGQzZ2SkZVQWpfbjgwMDZ0YWR0MnczdnNPNUxNRE51T2pBV1lJRm9FMW9pamxsYXdqNkJnLXVpcXk3OGV2WGJkRE42ZlE?oc=5",
+    "title": "Musk Sets New Neuralink Goal: Ending Neck and Back Pain",
+    "source": "BigGo Finance",
+    "published": "Wed, 25 Nov 2026 10:55:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Elon Musk announced a new therapeutic target for Neuralink, claiming the brain-computer interface could alleviate chronic neck and back pain.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "pain management"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1JSWUMzd1AzeUY2eTJtVldkZXRwY2lHcmVKY1cya1R6RmVrZFBnMmlkSHl4Q1QzSkdRQWZINnlxR3d5M0pLS1ZlWWFLdEVFS3E0clBJSUxxQjRSOVh2MTcxdnhkZHJPQ002UzIwdmloWlV6RERPSDlXMlF3LTJFU2xPVGZ6WDNHNmRwM0ZnLXNvVzlrWGNEVGpYR1l4Tkd4cFFreF92U3RrejFqTUc4em9BVnJ6bHVPU0ZqSmhn?oc=5",
+    "title": "Hybrid Brain-Computer Interface Decodes Covert Spatial Attention Without Requiring Eye Movements",
+    "source": "Bioengineer.org",
+    "published": "Wed, 25 Nov 2026 08:54:56 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers demonstrate a hybrid brain-computer interface that can decode where someone is attending without tracking their eyes.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural decoding",
+      "attention",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnZmMlYySDZSU0xfSFRPeURpMVhKZ0hLeGxYREVraTRTTmdGSHdDR0p4Uy10Y2w0eUNyMUMxQzA2NnZhQkdwV3RXRTd5X0FnV2VNRnFqQ1dBSFZXcm4tNGRPcElUTkplTWFjSlYxVVZZd3hEUXkxcjc1T05JS2JCdXpRdjQwbk0tajZ2UUhqYVNkSTRYZEY4MlVZSQ?oc=5",
+    "title": "FDA approves Neuralink's pivotal trial called LINK",
+    "source": "Breakingthenews.net",
+    "published": "Wed, 25 Nov 2026 21:10:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "The FDA has cleared Neuralink to begin its pivotal human trial, moving Elon Musk's brain-implant startup closer to commercial deployment.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interfaces",
+      "neural implants",
+      "FDA approval"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnJ5UExyYm5MT2RnWnZUZTRGcjN6MThQdk81ejlkZ1J0c0VMQmlKTWJuc19WNzlZLXRNMmdFcV9hY0xvak8zMFZVbklnTkw3YkdkU25LZXpQZi1SWjBRWlUzZmVzOFpLRjMtdUJMWFgtdEJlbmNuZml4SVVXdnRHSWtiV21GTGxtOE9fQ1IxNXNoVEVNZEpjNmhB?oc=5",
+    "title": "Neuralink gets FDA approval for LINK, first US pivotal brain implant trial",
+    "source": "MLQ.ai",
+    "published": "Wed, 25 Nov 2026 21:33:49 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink wins FDA approval to begin human trials of its LINK brain implant, marking the first pivotal U.S. study of a direct neural interface.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "FDA approval",
+      "human trials"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX3dDWFlfa2kzX1RFS3BEZFNNeThuSHRIczBhbHRNV2hQeVBIaTFEZEp2dXRrMVl5VkdLWVRldDREaHhtTjd2QnhFVTVJQ3ZBMUlQMmp4SG9EOVd3MVFjbER6SDNaRTgwYV94UDJJRjY4Z0FyQ3NUYjlWak9SWFRha1FEbWM3NmpPaWpLQldVU1BRYmpubkRSY1ozNWk3c0FCNy1GNGk5N0VGa29OZEt1S2djODQ5X2FKbUhqVjFVYWhKY0tnM0QzaGpRNlJHajdXSTZseTlnbXrSAd4BQVVfeXFMT0tPNC1UUHozbW45WkxhSXlaVmZTZ2dybXFJLU02NjdKTFJibDZEc2IwZDJBSndQNWw1ZjZwWkJwcl9MNWFfRE5vMUlabE16R0JqTkNlXzBHWW9maWNSQXRVTzFWVmN4YjFWT05rWi1hVHFLZXJ5NzNFVEJWUENXa3Z5TjJUbllpQlprN3dWLWpPRkdQc0dWSUdjRzFIWVZmVnE3Umo4NVVqcFJKd2dNUFRVb2NydlNTeUF1YXVGam5MNVRRRXQ3MlVjblVOaEs5NXlHUGJnSzRXaldTUUtn?oc=5",
+    "title": "Elon Musk's Neuralink brain chip gets FDA approval for LINK pivotal trial in US",
+    "source": "Moneycontrol.com",
+    "published": "Wed, 25 Nov 2026 21:09:06 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink won FDA approval to begin its pivotal trial of a brain-computer interface designed to restore movement and communication in people with paralysis.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "FDA approval",
+      "clinical trial",
+      "neural implant"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1ZTcUNfcy1fUWRWaVlpWXl4RmNLMGFpTXo2WGd6Ymp6NDgyRmw3TnkzUkxWN1pCM1VIdmtWaTlWSEpnSWppUVh2aThEZThNMG1YbnJfeU04cWRRNUJfUGt4VmxoV3FlbDR0LVAyankxNWpQMXdqZzlfVWdKd2tQUEFRYndIN201Z0RhanFJTTFfek1GOEhRRDg0djhWX2k0?oc=5",
+    "title": "China's brain-computer interface ambitions go beyond Neuralink— it's a race to set global standards",
+    "source": "digitimes",
+    "published": "Wed, 25 Nov 2026 00:38:18 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "China is pursuing brain-computer interface standards as a geopolitical strategy against Neuralink's early lead.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "standards",
+      "geopolitics",
+      "neurotechnology"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://neuralink.com/updates/neuralink-receives-fda-approval-to-launch-link-pivotal-study/",
+    "title": "Neuralink Opens Pivotal FDA Trial, Musk Floats Chronic Pain as Next Target",
+    "source": "Neuralink",
+    "published": "",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink announced FDA approval for its first pivotal trial of implantable brain-computer interfaces, opening recruitment to paralyzed patients, including those with ALS. The same day, Elon Musk teased a far broader ambition, suggesting the device could eventually treat chronic neck and back pain, well beyond its current paralysis-focused mandate.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "BCI",
+      "implant",
+      "paralysis",
+      "ALS",
+      "neural interface",
+      "neural implant",
+      "pain management"
+    ],
+    "first_seen": "2026-11-25T23:27:27",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://neuralink.com/updates/neuralink-receives-fda-approval-to-launch-link-pivotal-study/",
+        "title": "Neuralink Opens Pivotal FDA Trial, Musk Floats Chronic Pain as Next Target",
+        "source": "Neuralink"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XRWFtZVpWell2ZlFnRnNXelN2TTZ5T3NvRXE4ZFNsaWExazJhWFRhTjlGQzZ2SkZVQWpfbjgwMDZ0YWR0MnczdnNPNUxNRE51T2pBV1lJRm9FMW9pamxsYXdqNkJnLXVpcXk3OGV2WGJkRE42ZlE?oc=5",
+        "title": "Musk Sets New Neuralink Goal: Ending Neck and Back Pain",
+        "source": "BigGo Finance"
+      }
+    ],
+    "body": "<p>Neuralink said this week that it has received approval from the Food and Drug Administration to begin its first pivotal trial of its brain-computer interface, the regulatory threshold that stands between an experimental device and one a company can eventually bring to market. The announcement, posted by the company, opened recruitment to paralyzed patients, including those with ALS, the progressive neurodegenerative disease that steadily strips people of the ability to move and, eventually, to speak. It is the clearest sign yet that the company, co-founded by Elon Musk in 2016, is moving from demonstration to something resembling a medical product.</p>\n\n<p>The timing of what followed was hard to miss. On the same day, Musk floated a considerably larger ambition for the implant: treating chronic neck and back pain, a condition that afflicts a vast swath of the adult population and has nothing to do with paralysis or motor-neuron disease. It was a Musk-ian move, pairing a hard regulatory milestone with a soft, sweeping promise, and it illustrated the gap that has defined Neuralink's public life since its first human implant — the distance between what the company is cleared to do and what its founder says it might someday do.</p>\n\n<p>For the robotics and neurotechnology field, the pivotal trial matters more than any tweet. Earlier Neuralink studies were feasibility trials, small and exploratory, designed to show a device could be implanted safely and do something useful, like let a paralyzed person move a cursor by thought. A pivotal trial is different: it is the data-gathering exercise regulators use to decide whether to approve a device for real patients, at scale, under FDA oversight. Reaching this stage puts Neuralink in the company of a small number of implanted neural-interface efforts, including academic programs and rivals like Synchron, that are racing to turn decades of lab research into something insurers might someday cover.</p>\n\n<p>The human stakes are concrete. For people with ALS, who lose motor control while often retaining full cognitive awareness, a functioning brain-computer interface could restore communication and a measure of independence long after speech and movement fail — a prospect that explains why ALS patients have been frequent, visible advocates for this technology. That is a narrow, well-defined population with urgent need and little to lose.</p>\n\n<p>Chronic back and neck pain is a different universe of ambition, afflicting tens of millions of people for reasons ranging from disc degeneration to simple wear, and currently treated with physical therapy, medication, or surgery rather than implanted electrodes near the brain. Musk's suggestion, offered without data or a trial pathway attached, is the kind of forward-leaning claim that has drawn scrutiny before — it widens the aperture on what Neuralink might eventually promise shareholders and patients alike, even as the company's actual, regulator-sanctioned work remains focused on a much smaller and more desperate population waiting for the trial to begin enrolling them.</p>",
+    "slug": "neuralink-opens-pivotal-fda-trial-musk-floats-chronic-pain-a-4d7c29"
   }
 ]
