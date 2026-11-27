@@ -123666,7 +123666,7 @@
     "first_seen": "2026-11-20T22:05:38",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -123805,7 +123805,7 @@
     "first_seen": "2026-11-20T22:05:38",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -123962,7 +123962,7 @@
     "first_seen": "2026-11-20T22:05:38",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -123990,7 +123990,7 @@
     "first_seen": "2026-11-20T22:05:38",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -124202,7 +124202,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -124257,7 +124257,7 @@
     "first_seen": "2026-11-21T20:44:52",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -125203,7 +125203,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -125234,7 +125234,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [
       {
@@ -125367,7 +125367,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": true,
     "sources": [],
     "body": "",
@@ -125743,7 +125743,7 @@
     "first_seen": "2026-11-22T20:54:51",
     "week": "2026-W47",
     "why": null,
-    "duplicate": false,
+    "duplicate": true,
     "folded": false,
     "sources": [
       {
@@ -126946,7 +126946,7 @@
     "first_seen": "2026-11-24T01:58:54",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -128088,7 +128088,7 @@
     "first_seen": "2026-11-24T23:43:41",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -128393,7 +128393,7 @@
     "first_seen": "2026-11-24T23:43:41",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -130643,7 +130643,7 @@
     "first_seen": "2026-11-26T23:27:19",
     "week": "2026-W48",
     "why": null,
-    "duplicate": true,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
@@ -131405,6 +131405,1190 @@
     "week": "2026-W48",
     "why": null,
     "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTdrdHQ5QjNGdFUwdEFyM3RCZmhscDRQbVN5THZoYzlFdXBSVEtvQXBrWUhCMUwyenp2M3V6UnB5cUUwU3VtQ3hVOXhSY3ROdkFKY2tvcWNGZExESm1MOVFrZWpyay16UG16cHl6ZXlNNkt6U1p2STg5anJ0TEhzYzMtODVQM1lTYkc2QWcxaUtILUhuWEpla2djMzlTa011MlRmZm5Ha0tBTlc1SlBuOXY3VlNWLUp3RXJFZFhVU2RXM1lp?oc=5",
+    "title": "The ‘Iron’ age: XPeng prepares for mass production of its humanoid robot",
+    "source": "Robotics & Automation News",
+    "published": "Fri, 27 Nov 2026 19:14:21 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng is moving its Iron humanoid robot toward mass production, betting that the Chinese automaker can build the kind of physical AI that Tesla and Boston Dynamics have only prototyped.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics",
+      "manufacturing"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1NWR0ZBU3NZRWh1TzNIQXdLSTBHb0pZSzJuWXpHWVBmNHhpMWhQYnEwdURrODRhaFpNSDhUalFZUFhXS1JiUm8tcTRnbkV3by05X3ZEYTc5ZWgtWUJzSDkyWUxVdWVYcGowLXRjZGlobEI4ZDNhMGh2LW1fQ1ZGZ3dfd00yNnVGamMxcUFZOA?oc=5",
+    "title": "China's Robot Revolution — From AI Showpieces to a $138 Billion Industry",
+    "source": "The Dark Side Of The Boom",
+    "published": "Fri, 27 Nov 2026 11:02:25 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "China's robotics sector has grown into a $138 billion industry, though the article frames this expansion as driven more by state investment and industrial policy than by genuine technical breakthroughs.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "robotics",
+      "humanoid",
+      "manufacturing",
+      "industrial automation",
+      "China"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zeWFqMU56cUlieXNrNW4tX3R6UFgzUWs4MWNxU0Z0NXBBWGdLUUtJRDJCdkh4RnNpZWpXUFRINTVhSFVkV2lqVXAzbHgxakR6eE9lRHRIT01obm51cGgwdG9YNGR0Sm9RZzdJSk5KQ2FaU3NHWWRfbmZmYw?oc=5",
+    "title": "Volvo Says Humanoid Robots Will Work Alongside Line Workers",
+    "source": "Motor1.com",
+    "published": "Fri, 27 Nov 2026 09:35:00 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Volvo envisions humanoid robots sharing factory floors with human workers, though the automaker has yet to announce concrete deployments or partnerships.",
+    "companies": [
+      "Volvo"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "manufacturing",
+      "factory automation"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1B0d2F4NTFrOHpBV2todVFBVVdfY1dpaWtDQWNTLVJRN0ZGM2lFRk9FS05rUjBnaERoeWdvbFVOOVViVFJPWFNDOUFzaHZ2Q3h5RHVpdnluSE43QVJEaGVYQ24tNmVpUDBGNW5kZFNrQzU5Y0ZZQ1d3dzlxLTlzMmV4aS1GZ09oMXhXU0JtbWhwOW5hd0JzcTNveVE3T2F3THUzTEZ2UTFXdlJSSXc1NjVVamVwQQ?oc=5",
+    "title": "Volvo joins BMW in deploying Hexagon’s humanoid robots",
+    "source": "Automotive Manufacturing Solutions",
+    "published": "Fri, 27 Nov 2026 13:05:57 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Volvo has begun deploying Hexagon's humanoid robots on factory floors, following BMW's earlier adoption of the technology for manufacturing tasks.",
+    "companies": [
+      "Volvo",
+      "BMW",
+      "Hexagon"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "physical AI",
+      "factory automation"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMTFsY1lkMmRSbnJsRUVNRmhNQWV4VHpLXzFsMGswM3ltVlB1Y25yYk14dDFCM09aY3ZIOXZTb2xsQ1REcmpHWTNCenpLcUs5M3NkSWxUVlJDejFtZ2tlUElmQnlSb3ZOUGJHdXZvUl9ZcUpMSHA5SmkzQmF6OHNlMXRUYjYyYjFIbWJaUHRRMjlDUTAxSmpaYW5rU2NBREpocXBCVzVQa245TldjRThBamJlV2llM3FjTVMwc1RISVlPWjZDS3pMVXk0dEYwWUREUDR3M0lsR3ZtMTJXcVVnUGhwNHFMXzhDRHo0dzg3V29OWGphQUpzR0lCYVJaUQ?oc=5",
+    "title": "Xpeng humanoid robot makes 'ominous' public debut — as co-president says it will hit homes in 'one to two years'",
+    "source": "TechRadar",
+    "published": "Fri, 27 Nov 2026 16:06:23 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng's humanoid robot made its first public appearance, with co-president He Xiaopeng projecting the machine will reach consumer homes within one to two years.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [
+      "He Xiaopeng"
+    ],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "consumer robotics"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSndDUkMtcjB0b0x1cEpTNVd4TTNfUGdvd2JNWC1CSXlLU2hMa1F0em5JRXFZNVJOU2RDdUpENEl4TWxRWUpxOTdhNGxDaHVkOEE3RHZ6YkF2alhfemdoUmVvX09LRHgwZ3pQaXZkYTZLRy1VQ25hTHdtdHpPVEJqcWFiQ0p5LTBlaXhndXo2V2VzVHZPTXlrNnRNYmF1UU0?oc=5",
+    "title": "From Waymo to Jeff Bezos' Prometheus, meet the biggest fundraisers in robotics and physical AI",
+    "source": "Business Insider",
+    "published": "Fri, 27 Nov 2026 10:00:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Business Insider surveys the landscape of well-funded robotics companies including Waymo and Prometheus, Jeff Bezos' bet on physical AI.",
+    "companies": [
+      "Waymo",
+      "Prometheus"
+    ],
+    "people": [
+      "Jeff Bezos"
+    ],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "funding"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9od1JzM0ZyZTktRXFwM0JTSWpQQXpaUENQVjU4c0VyNlBGOFJSYmczdl9xWVB1djhyVnhxdUdQRkIyU1dZc3A3ZGpZbC1abjM3YXhDUF9sSG1PcGg3QkJweTl5M1BXMy1Dc01lT2hWSV9PVXFWaGpINkZvSGlzaXc?oc=5",
+    "title": "Xpeng says its Iron humanoid could be doing chores in one or two years",
+    "source": "The Next Web",
+    "published": "Fri, 27 Nov 2026 17:05:15 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng claims its Iron humanoid robot will be ready for household tasks within one to two years.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "domestic robotics"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHF4TnFac2hlcTF3bjZOZFF4MFZVTVBVc3BVWm0yeXBzWktTdTNqR29EZmYzdTFSRTg0WHJuMll0eVJqRVU5amsydEdyREItaUl4LVBQQ0xIa2NGd3dyejFmdmdqb2FhZ0ZaU1lZU05HZGdCbTBzbkNJWUI2eFpFNGgzU180NFNKdTF2Y19DdVp4R3E4UXlrdGljWQ?oc=5",
+    "title": "XPENG Maps Out 2027 Robotaxi Launch and Mass Production of IRON Humanoid Robot",
+    "source": "Yahoo Finance",
+    "published": "Fri, 27 Nov 2026 15:12:39 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng announced plans to launch a robotaxi service and begin mass production of its IRON humanoid robot by 2027, staking its near-term ambitions on two parallel physical AI platforms.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "robotaxi",
+      "humanoid",
+      "physical AI",
+      "mass production"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXRHTVRWUjhoZGhHZWdWQVVTV3g4Y0k4RlNBVm4zbldJVDVSMXVQWG4tc3VNT2Zxbk5NWGxqOE9KRmpVeHE0VnNabGZjT1FkWUdhX3lZdElJNTc1YnNBZVhhTHl6WXp2UTFjaTltTDVQVkV0c1BIUzF0MlEzcWpjdWs4cm1QVE9FNVM0TFE3alJjYjhfNDJURzVEU0x0aUVORjN3UXd2ZkhwX29wekNSUTlR0gG3AUFVX3lxTE85RHUwcG9KLVI0ODV2c1FYSDJsOTJkRVphZ0FMcHMtY21CWHBPUGsyTHRZeWxQMm1yNm5sMEUzVTBRaXNwNXVGQ19EUWtCaUpmcDFnblFRbENSRFpsZ3JISmJrVFF4LVFDWnVLaWk5QU4ySnBIMXZIenFvenFhbUtsZVVFTW00TXNvOTNSZVFaM1huNzkxd1pmQ0xLY3VURXVyNXJCMVpGSGtjMTFod1BHLXJKcnhXZw?oc=5",
+    "title": "Russia’s Yandex to launch delivery using humanoid robots",
+    "source": "Meduza",
+    "published": "Fri, 27 Nov 2026 10:41:00 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Yandex will deploy humanoid robots for last-mile deliveries in Russia, betting physical labor on bipedal machines rather than wheeled alternatives.",
+    "companies": [
+      "Yandex"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "delivery",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNnFlOUEtcEFUS2FPaW9GazFKckdKMFhpZ3JkdWlkT1lkS2Q0Zm9yc0JNYTNqbUxKd0Q0bkprdFQyTUdhTExjYkFTbmxsa0xINzhUNVUtTzAwTTM5eTNvbGJxSlJuWDJ4MnctYWVHdTYzdXFJMjc2ekRsa25OUFdXVkxB?oc=5",
+    "title": "XPeng targets 2027 showroom work for its IRON humanoid",
+    "source": "The Rundown AI",
+    "published": "Fri, 27 Nov 2026 14:20:51 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "XPeng plans to deploy its IRON humanoid robot in automotive showrooms by 2027, aiming to put the machine to commercial work rather than keeping it in labs.",
+    "companies": [
+      "XPeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "deployment",
+      "retail automation"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12N25wbnVxbTNKRUl0a0RMSUp2bXNSQUpWaVNiNk1UaDBRTldFZTBaUnFZYzRnLXc5ZHVnQWlaajFna3JQVGtGSmlNelI2ODBVdUI1Nl9mZ2F1UWxpRElBQ2NhclN1dXZLQTVUT2U5WGNZVWtQRUE?oc=5",
+    "title": "Morgan Stanley Updates China Humanoid Robot Value Chain Map: 48 Companies Included, Only 3 in the \"Brain\" Tier",
+    "source": "BigGo Finance",
+    "published": "Fri, 27 Nov 2026 08:56:00 GMT",
+    "topic": "Physical AI",
+    "category": "research",
+    "one_line": "Morgan Stanley mapped a 48-company humanoid robot supply chain in China and found only three companies operating at the 'brain' level of the stack.",
+    "companies": [
+      "Morgan Stanley"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "supply chain",
+      "China"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAtZ3oweU9PTzZqa25ydWw1eDl6eUlZZnE2Ym5jQXJQcmNNR2tBUVZ1RU9pcHYwLW1vdy1JRWRISjB0YnhY?oc=5",
+    "title": "Xpeng pitches its new Iron humanoid as a coworker, not a replacement",
+    "source": "Digg",
+    "published": "Fri, 27 Nov 2026 18:35:03 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng unveiled Iron, a humanoid robot positioned as a workplace partner rather than a worker displacement play.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "workplace automation"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VcFZtQzJFdkZianEyb3NTQVJucmJ4ZGMyWC1ROVp3QTg5ZkhKYlBsaDNld1pDN1hhbHR0Vk5aZ2hUb1N0VFZaSHA5RzJKdW8tQzBR?oc=5",
+    "title": "Latest Updates: Listing Progress of 13 Leading Humanoid Robot Enterprises",
+    "source": "36Kr",
+    "published": "Fri, 27 Nov 2026 09:31:23 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "36Kr surveys the public-market ambitions of thirteen humanoid robotics companies, none yet trading.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "public markets"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3I5SlFuRUYzOVBZV05BajZadDgxMXJaZ2dsZnhTdGw5T09jNjJfV3hlRm02NXNrcDM1b3FHV3h4ZXFBMm5FeGZzR1AyYWxGOEtwbTA2UTdhN1JLcGZQV2FzUksxVjlNU3VtdUVhQkI2aWppZW50SFhkWWZfSmZ3bDdpRW1BdU9aYWwxck5iZEszcDhXMDBvTGtaN1RDcUlHbmcwSjhKQzZtbTkxVGVteHZ6YkFOY0FtYW95S3FpYjFGZ9IBwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Zw?oc=5",
+    "title": "Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48%",
+    "source": "South China Morning Post",
+    "published": "Fri, 27 Nov 2026 14:15:58 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Goldman Sachs downgraded Unitree to a sell rating with a 48% price target, citing concerns about the Chinese roboticist's valuation and growth trajectory.",
+    "companies": [
+      "Goldman Sachs",
+      "Unitree"
+    ],
+    "people": [],
+    "themes": [
+      "robotics",
+      "valuation"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0Y2MXhrakNYY3AwcnNXeG8ydDdSUVh1VThmSGZDWFoxTUdGaFNvOHM0WUd1THU1TkY4aUZaMm1peDNwME1wOGNNY19jclBsSnkxT000NlJsMVYxZkNvYXBhejNSZlBqdG9FaWpqU0JNTDFTY0xBRWY0WFVWbGRDeHJKOWVUb1g4cnliUS1QdnpuSDUyZ092T0I3b0lLRVFXOGRHTUhJUkdHV2JiZ0N2NHptdw?oc=5",
+    "title": "Neura Robotics Plans Multimillion-Euro Physical AI Training Center in Spain",
+    "source": "AI Insider",
+    "published": "Fri, 27 Nov 2026 12:22:26 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Neura Robotics is building a multimillion-euro training facility in Spain to accelerate physical AI robot development.",
+    "companies": [
+      "Neura Robotics"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "robotics",
+      "training infrastructure"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeFhUQkVobWk3VXE4TzRhVWV3VVVDWTJSNzFPbktjQzhTV2FrbHlkM2tFNkNlYTFRajlUM1lITmpNSGE4dzFua0FPYmd0VFhZNGhVMTcwQnpXNTNLWkJlemExR19lZTJHM1RRT0xZYnF4MnBtUjdVNW9BMHBxWl94eU45OA?oc=5",
+    "title": "Xpeng unveils Iron humanoid robot, targets tens of thousands of sales in 2027",
+    "source": "Mezha.net",
+    "published": "Fri, 27 Nov 2026 16:15:42 GMT",
+    "topic": "Physical AI",
+    "category": "launch",
+    "one_line": "Xpeng introduced Iron, a humanoid robot designed for industrial and domestic tasks, with ambitions to sell tens of thousands by 2027.",
+    "companies": [
+      "Xpeng"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "robotics"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmtZTDVaVnZVb19kV3dodlRIOC1zdGxmVW95NW9WTEh6QmRSR0VZaHhiaDd3cGNXcl8tR1BHTUx2WDZ4NmdzM1M3QUF5amNUZEFHWE9wcHBjdWpsNmFyYUFqakpxWXVlU1QzelBHOFRWNTI3VG1XM1J0cmZUYzZYSjA1eHE3dDVqelNybkxPS3h4eU1pczYwQnZET2txZ012U3RIXw?oc=5",
+    "title": "Tesla Seeks to Buy Assets of German Robot-Parts Machine Maker EMAG",
+    "source": "Electric Vehicles",
+    "published": "Fri, 27 Nov 2026 15:32:00 GMT",
+    "topic": "Physical AI",
+    "category": "other",
+    "one_line": "Tesla is pursuing an acquisition of EMAG, a German manufacturer of robot-parts machinery, to accelerate manufacturing capacity for Optimus and other production automation.",
+    "companies": [
+      "Tesla",
+      "EMAG"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "manufacturing",
+      "automation",
+      "physical AI",
+      "robot production"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWXRkSG1lT0U4dkk3NVFWTTZzMHQzandwODZ4VndSLVE3dkZTRTBUd0xNOHYyV2k3THFCREU4T1p2clhuVEVxY3owVkJueVZQbV9nei1qSF9PRzZMZ2xKUDh6Mko1RDA0MGRnUS1Jb09kOW5KVzNOaHMxbWVicmhOUEE0OGpuYWVmbFhURDRlQXBrOUZMUlUzRW5UMUE0Z0YxOFlxaWstek0wT19aaS1WRUxFNjRGNzZUcDA1cA?oc=5",
+    "title": "Goldman Sachs Names Top China Humanoid Robotics Stocks to Watch",
+    "source": "Investing.com",
+    "published": "Fri, 27 Nov 2026 15:27:56 GMT",
+    "topic": "Physical AI",
+    "category": "opinion",
+    "one_line": "Goldman Sachs identifies Chinese humanoid-robotics companies as investment opportunities worth monitoring.",
+    "companies": [
+      "Goldman Sachs"
+    ],
+    "people": [],
+    "themes": [
+      "humanoid",
+      "physical AI",
+      "China",
+      "investment"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZThJY0FIWE5EYW95R1ZrV18tbjJMMjYtclVrdUZhd05fbWRPZFFsRmg2dEdnU0xWa0pMZnV5YTRIUW4xbkNsNGx6THluUWluMFl5S0JmdFBZSkhxX0ZNb3JWX3l5RmlNR0F1Z3pPbXNXZVJfeWhHTFZVS19hRDk3TEtmRmRpbFMwX2VqdUZYaw?oc=5",
+    "title": "The vehicles that shaped Waymo's robotaxi fleet, from desert racers to luxury SUVs",
+    "source": "Business Insider",
+    "published": "Fri, 27 Nov 2026 09:11:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Waymo's robotaxi fleet evolved from desert racing experiments through luxury SUVs, a historical retrospective on the company's vehicle selection.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXlVbF9lbHptN3NMRGpnZzRraEZ4X0YtWUdmVVlwSEllNFhJbFJuZUxwWnFQa2RiZ1Z5YjRBOFVWc3VDSGRoUWtiOTNBVjRfbzBIUlh6dUVvc0RDdVJOQ2lvTDZIXzNCWWVqMDRHV01EYlRPVXpNdm9qanU4eGQwNjJsUEJKdFFNRTctXzZOWW9iM0pDM0RiZjdRNlBjTHBQbG9rUVZyNVhWM2tYMkhfYWh6ZzZsZ0RSNDhUenZVbEs1SEJQUFF2SEtR?oc=5",
+    "title": "Tesla Widens Robotaxi Footprint, From Dallas Streets to European Firmware",
+    "source": "Tesla Oracle",
+    "published": "Fri, 27 Nov 2026 19:48:19 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Tesla grew its Dallas robotaxi service area by 83 percent just days after unveiling the Cybercab, a sign the company is pressing ahead with real-world deployment. Meanwhile, sleuths digging through Tesla's firmware found geofencing data for nine European cities, hinting that the same expansionist playbook is being quietly prepped for a continent where regulators tend to ask more questions than Texas does.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles",
+      "geofencing",
+      "Europe"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXlVbF9lbHptN3NMRGpnZzRraEZ4X0YtWUdmVVlwSEllNFhJbFJuZUxwWnFQa2RiZ1Z5YjRBOFVWc3VDSGRoUWtiOTNBVjRfbzBIUlh6dUVvc0RDdVJOQ2lvTDZIXzNCWWVqMDRHV01EYlRPVXpNdm9qanU4eGQwNjJsUEJKdFFNRTctXzZOWW9iM0pDM0RiZjdRNlBjTHBQbG9rUVZyNVhWM2tYMkhfYWh6ZzZsZ0RSNDhUenZVbEs1SEJQUFF2SEtR?oc=5",
+        "title": "Tesla Widens Robotaxi Footprint, From Dallas Streets to European Firmware",
+        "source": "Tesla Oracle"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjUzUkZLZXVadjk1UmdmRWtPNHpoeHd0MmZ3R0Eyd2l6UjZSc2ZObHdIQXloWUx4bzRkT3AtWDFMS3JRamJGbVVlZ05sOVN2WTN1TkhOWE9KT1BCVy1xck9zeGlxS1FhMDZpT1A0U09ORllaSWszaUt1cXRMYXJnQWhRcVZWQkFsd0Y0bjJJVnZ3RDNQY1h0cE14STJRRGUw?oc=5",
+        "title": "Tesla Robotaxi Geofences Found in Firmware for 9 European Cities",
+        "source": "BASENOR - Tesla Accessories"
+      }
+    ],
+    "body": "<p>Tesla has expanded the geofenced boundaries of its Dallas robotaxi service by 83 percent, the company confirmed this week, just days after unveiling the Cybercab at an event in California. The enlarged zone means more Dallas residents can now hail a Tesla robotaxi through the company's app, part of a rollout that began earlier this year and has so far leaned on a small fleet of modified Model Ys with safety monitors in the front seat. Tesla has not detailed the new boundary lines publicly, but user reviews and local reports suggest the service now reaches well beyond its original downtown core.</p>\n\n<p>The timing is not incidental. Tesla has spent the past year treating Austin and Dallas as its proving grounds, expanding block by block rather than city by city, a cautious crawl that nonetheless adds up. The Cybercab's debut gave the company a marketing moment; widening the Dallas geofence gives it a operational one, a chance to show regulators and investors that the robotaxi business is not just a concept car on a stage but a service accumulating actual rides, actual mileage, actual data.</p>\n\n<p>Across the Atlantic, the groundwork looks rather different, and rather more discreet. Researchers digging through Tesla's firmware have found geofencing coordinates for nine European cities, the kind of digital scaffolding a company lays down long before it says anything out loud. No launch has been announced, no regulator has signed off, and Tesla has offered no comment. But the presence of mapped zones suggests the company is preparing for a push into a market where the rules are considerably less forgiving than those in Texas, a state that has largely let Tesla write its own playbook.</p>\n\n<p>That contrast is the real story here. In the United States, Tesla's robotaxi ambitions have advanced largely through accumulation — more miles, more blocks, more cities — with regulators mostly watching from a distance. Europe works the other way around: approval tends to precede deployment, not follow it, and agencies there have shown little patience for the \"move fast\" ethos that has defined Tesla's domestic rollout. Firmware clues pointing to Berlin, Paris, or wherever else don't guarantee a service will appear; they guarantee only that Tesla is doing its homework.</p>\n\n<p>For the robotaxi industry more broadly, the two developments underline a widening gap between promise and permission. Waymo has spent years accumulating regulatory approvals city by city; Tesla has leaned on vision-only autonomy and speed of iteration. Whether that approach survives contact with European bureaucracy — and whether American riders in Dallas keep climbing into cars with no steering wheel in sight — will say a great deal about which model of building a driverless future actually scales.</p>",
+    "slug": "tesla-widens-robotaxi-footprint-from-dallas-streets-to-europ-8cc2d9"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjUzUkZLZXVadjk1UmdmRWtPNHpoeHd0MmZ3R0Eyd2l6UjZSc2ZObHdIQXloWUx4bzRkT3AtWDFMS3JRamJGbVVlZ05sOVN2WTN1TkhOWE9KT1BCVy1xck9zeGlxS1FhMDZpT1A0U09ORllaSWszaUt1cXRMYXJnQWhRcVZWQkFsd0Y0bjJJVnZ3RDNQY1h0cE14STJRRGUw?oc=5",
+    "title": "Tesla Robotaxi Geofences Found in Firmware for 9 European Cities",
+    "source": "BASENOR - Tesla Accessories",
+    "published": "Fri, 27 Nov 2026 14:04:09 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Tesla's firmware contains geofencing data for robotaxi operations in nine European cities, suggesting the company is laying groundwork for continental expansion beyond its U.S. rollout.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "geofencing",
+      "autonomous vehicles",
+      "Europe"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEhUR3dURExOYkR0dFRXV3NSM01JdXFVUkkteDNJMHVfVUUyVG9VZ0piT2RjeEc5ZC1iMWJiM3l6Q1lpN1Q0d05TTHNXZk1tdS1oT2pxOFE1ZWxpUXFBb2VpTW1tUXVYb0FQYVRWYzBSaEVWXzM3T3FYY2xBRHNfTVZYWTk?oc=5",
+    "title": "Waymo's Robotaxi Expansion Rolls On, Fleet and All",
+    "source": "Atlanta Intown",
+    "published": "Fri, 27 Nov 2026 16:04:00 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Waymo added Atlanta to its growing list of robotaxi cities this week, though the service is starting with a restricted rider list before opening more broadly. The expansion comes as a retrospective traces how Waymo's fleet morphed from desert-tested prototypes into the current crop of plush, sensor-studded SUVs now ferrying passengers around American cities.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEhUR3dURExOYkR0dFRXV3NSM01JdXFVUkkteDNJMHVfVUUyVG9VZ0piT2RjeEc5ZC1iMWJiM3l6Q1lpN1Q0d05TTHNXZk1tdS1oT2pxOFE1ZWxpUXFBb2VpTW1tUXVYb0FQYVRWYzBSaEVWXzM3T3FYY2xBRHNfTVZYWTk?oc=5",
+        "title": "Waymo's Robotaxi Expansion Rolls On, Fleet and All",
+        "source": "Atlanta Intown"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZThJY0FIWE5EYW95R1ZrV18tbjJMMjYtclVrdUZhd05fbWRPZFFsRmg2dEdnU0xWa0pMZnV5YTRIUW4xbkNsNGx6THluUWluMFl5S0JmdFBZSkhxX0ZNb3JWX3l5RmlNR0F1Z3pPbXNXZVJfeWhHTFZVS19hRDk3TEtmRmRpbFMwX2VqdUZYaw?oc=5",
+        "title": "The vehicles that shaped Waymo's robotaxi fleet, from desert racers to luxury SUVs",
+        "source": "Business Insider"
+      }
+    ],
+    "body": "<p>Waymo's driverless cars began picking up passengers in Atlanta this week, the latest addition to a robotaxi map that already includes Phoenix, San Francisco, Los Angeles, and Austin. The rollout, as these things now go, arrived with a caveat: not everyone in Atlanta can hail one yet. The company is starting with a limited roster of riders, a now-familiar soft launch that lets Waymo iron out the city's particular tangle of intersections, merges, and left turns before throwing open the doors to the general public.</p>\n\n<p>The Atlanta debut lands amid a retrospective, published this week, on how Waymo's fleet got here at all — a lineage that traces back to vehicles built for desert racing, of all things, before evolving into the sensor-topped luxury SUVs now gliding through American downtowns. It's an odd pedigree for a service that today feels almost sedate: a car that creeps up to a curb, unlocks itself, and waits patiently while you figure out which door to use. But the throughline from off-road prototype to plush urban shuttle says something about how much trial, error, and hardware churn it took to get a computer to drive politely in traffic.</p>\n\n<p>That history matters because the stakes of getting it right have only grown. Every new city is both a market expansion and a public test, performed in full view of pedestrians, cyclists, and local news cameras. Atlanta, a sprawling, car-dependent metro with its own idiosyncratic road culture, is a meaningfully different proving ground than the grid of San Francisco or the wide boulevards of Phoenix. Waymo's decision to restrict riders at launch isn't just caution for its own sake — it's a tacit admission that autonomous driving still scales unevenly, city by city, intersection by intersection, and that confidence earned in one place doesn't automatically transfer to the next.</p>\n\n<p>For the robotaxi industry more broadly, each new city is also a data point in an argument that's still being made to regulators, insurers, and a public that remains, by turns, curious and wary. Waymo's steady city-by-city creep — rather than a single national flip of the switch — reflects a bet that credibility is built incrementally, through thousands of unremarkable rides, not through splashy declarations. The fleet's own evolution, from gawky desert test mules to vehicles that now look showroom-ready, mirrors that same patience: engineering maturing in public, one iteration and one city at a time.</p>\n\n<p>The economic ripple is already visible in the cities that have gone first. Ride-hailing habits shift, taxi and rideshare drivers feel the pressure, and local governments find themselves negotiating curb space and safety data with a company whose product is, quite literally, learning to drive on their streets. Atlanta now joins that experiment. Whether its restricted rider list becomes a brief formality or a longer probation will say a lot about how ready American cities — and American drivers — are for a passenger seat with nobody up front.</p>",
+    "slug": "waymo-s-robotaxi-expansion-rolls-on-fleet-and-all-60e7aa"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGtyN2RyS2d6S3JSMDgzSFdxMFhaWEFpajNDMVRGZHV3Qkk3YTY2dldYS3pRakEtUGdCU3VWZlJVMi1ra2pqVlFCaUJuR202SHNRZmlETWhzYk50b0g2U1h1VGgxajR3WHNQYjF4eHVFaEEzUjU3d0U1dlBoajVoOHJaNlhlRGpSYU1jZnNnQ3ROWVNYQ1ZhZUxvcWxGUTd5QVQ1VzF6ZkdQZXZTYlpHcjQ3N2lkcVlFaWU4?oc=5",
+    "title": "A Denver man is trapping and egging Waymo’s self-driving cars, police say",
+    "source": "The Washington Post",
+    "published": "Fri, 27 Nov 2026 22:50:41 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A Denver resident has been trapping and pelting Waymo's autonomous vehicles with eggs, prompting a police investigation into what may be the most literal form of public backlash against driverless cars.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "public opposition"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTJPd2Q1am5fbUV3cUtIck5NMU5nWUo1QmoyZDdFSlY2a3ZTZU9mMjVHQVl4dzBTcUpfWnA3TVlOR1RnSGRLTDhLbHNrX2NSSHhlTHl2dzlibEdaRTV5OFNtblVDUXZOTWt4TFItYmdGMTNsbWJmWnV1WWVpUGk3bXBkblg3X1B4eXFheExYNA?oc=5",
+    "title": "Vigilante Driving Around Trapping Waymos With Orange Traffic Cones",
+    "source": "Futurism",
+    "published": "Fri, 27 Nov 2026 15:50:00 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "A vigilante has taken to surrounding Waymo driverless vehicles with orange traffic cones in an apparent protest against the company's autonomous taxi operations.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "protest"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnJjanUwRXVVdFRMQVN0WXd3QlltRGdfeVR3YlRYZ0NOcExZX2V2V3IzOEY2ZlgtMHhQOFJ5ZkpGMXdGM1VXZEN2TEFMclJNZkEySkFfY2xmQzdoQkJVZ0Z6bEVwX2NsVG9PWG9WbEJod2loQnNSb1RiaHRWTWlZWmpueDA0eVU?oc=5",
+    "title": "Zoox Launches Robotaxi Services in Los Angeles",
+    "source": "Future Transport-News",
+    "published": "Fri, 27 Nov 2026 12:21:22 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Zoox, Amazon's autonomous vehicle unit, has begun commercial robotaxi operations in Los Angeles.",
+    "companies": [
+      "Zoox",
+      "Amazon"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "robotaxi",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjRsV0VuQkhmeGZaOU00ZkUtR3R1UzhHdlNlM2lLTGx2WFJyaTZvZkNobXNpdXQ2aWhMVjFhYW1tb3dTanRsRXZQWTV3VDBqS05Va3NleDhIUVFDeU5Uc29UZUdBZ205cUN2RENQdkFIdHRUQ0paSmlJY1lSUS02clNaclI?oc=5",
+    "title": "One man, traffic cones and 30 egg attacks expose unusual weakness in Waymo’s robotaxis",
+    "source": "Yahoo",
+    "published": "Fri, 27 Nov 2026 22:16:48 GMT",
+    "topic": "Driverless",
+    "category": "research",
+    "one_line": "Waymo's robotaxis prove vulnerable to deliberate physical interference, from traffic cones to egg attacks, exposing a gap in their real-world safety protocols.",
+    "companies": [
+      "Waymo"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "safety vulnerability",
+      "adversarial testing"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZHo3REZEYng3VTVJTHlJRWZ0UVluY1NCalFYd1pBUno5RXZkMVJVN2pHc2NsZnh6RUhzVkxOZzZQTkVLT3kzOG1EU0JSR3Z5V1FyaUtuNEZCTmc4ODZ0R1NKR2Yzal9zZ2xKUnhWX0FGZE9aZ0VUYmllTnM5YUFLdXNhY3EtZm1HaldFMFd5cjUwLXVscjB3dUpNQ3NoUDd3TGlYemNFUkRTa1Z4Y2pFY1ZQYWxROWhNMy1aOHJMQTQyT2R0TzlCYm05NDk3Z1NjQWxoQ1BuNk1qQk1hTHpVRXU0d3l6cWVnTVRRRFlYckVfZXVBdVI4VlpET2R0R3BRRjRKclpZMDJXZFpkNDBn?oc=5",
+    "title": "Tesla Faces Crucial Dec. 15 EU Vote on Self-Driving Tech After Months of Regulatory Delays: Here’s What E",
+    "source": "Benzinga",
+    "published": "Fri, 27 Nov 2026 10:45:48 GMT",
+    "topic": "Driverless",
+    "category": "other",
+    "one_line": "Tesla faces a December 15 EU regulatory vote on its self-driving technology after protracted delays in Europe's approval process.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "autonomous vehicles",
+      "regulation"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk1lSnBuTU9NM2JWbWw0Y1o4cWFlazBxWmM1WWtjVEc3OENQSzFjcFE5dHFGT1d3NEpvbmdhZ0JoSzNqNXlXQVlfMGlQMVhuN2NweDdSbUlGTTI2bXo5a1Z4TGl3TUpnblNMN2V1WUFUXzNmM1RSWENVTm5XdkRmRDhyZjQ2aUdBSUpkbHNlREh0VTVVZ1p1alBCR3VhRHlIMkVN?oc=5",
+    "title": "Tesla Full Self-Driving Needs More Than Germany and France to Win EU Vote",
+    "source": "Startup Fortune",
+    "published": "Fri, 27 Nov 2026 12:21:37 GMT",
+    "topic": "Driverless",
+    "category": "opinion",
+    "one_line": "Tesla's Full Self-Driving faces regulatory hurdles in the European Union as approval requires broader support than just Germany and France.",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "regulation",
+      "autonomous vehicles"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XZHVpa0tNS01VMUo1VTZlazZoT0FiNWJ1Q0xTRUY2Z1JRcERreE5hLUYwWmtNdy1HYTk2Z21Va3h2VUVSOHh5NlRjTmJfeFFkeDZ4QzFnWlNQUVUwdWN5YzFoZG4xSGlOWWk2cXlwbGhpSi12bzk0?oc=5",
+    "title": "Bolt launches self-driving cars in Luxembourg, eyes Europe",
+    "source": "TravelMole",
+    "published": "Fri, 27 Nov 2026 13:26:26 GMT",
+    "topic": "Driverless",
+    "category": "launch",
+    "one_line": "Bolt is deploying self-driving cars in Luxembourg as a beachhead for European expansion of its ride-hailing service.",
+    "companies": [
+      "Bolt"
+    ],
+    "people": [],
+    "themes": [
+      "driverless",
+      "ride-hailing",
+      "autonomous vehicles",
+      "Europe"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGNnM3lMcE5iTEg3QXFGT1VFbVVJNkhiZUZJUEdfd0xwR05WcS1rcEd2SDU0MnNoX3JRTlZCeVFFWHRUUWI5dlBqVUk4eDJpUVpqdHJ0bkhkMzRKQkdrOHBlY29sVEIxUWN3SlIwMnpYbDF3ZU5nOER5RkFJd3dzdW50bVZSWk9fSFdwSFgwN3VqYzhX?oc=5",
+    "title": "Foresight Autonomous Receives $1.3 Million India Drone Order",
+    "source": "grafa.com",
+    "published": "Fri, 27 Nov 2026 17:52:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Foresight Autonomous secured a $1.3 million order from an Indian customer for drone systems.",
+    "companies": [
+      "Foresight Autonomous"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "commercial deployment",
+      "India"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnVJNzdMd25fS1FkVk0yd0dFUHZkZTBHNi1sN3pjejlGVHItZTgzUmgwR01McEw4V05mY3UzZkgxMXNyZHQ5b3pYNjF3SDdtdEphUzRtUm1tS0tlYkhkVEQyWUZnNHhoM01xQnVQSHlUSDNjVTRxM1hSTzIxbExTTzZWcWgtNDFwa0JqYkdUZHdpcnlJX0xxd0xWbw?oc=5",
+    "title": "China Unveils Autonomous Cargo Drone Designed to Carry Up to 18,000 Pounds",
+    "source": "The SOFX Report",
+    "published": "Fri, 27 Nov 2026 03:13:20 GMT",
+    "topic": "Drones",
+    "category": "launch",
+    "one_line": "China has unveiled an autonomous cargo drone capable of hauling 18,000 pounds, escalating the global race for heavy-lift aerial logistics.",
+    "companies": [
+      "China"
+    ],
+    "people": [],
+    "themes": [
+      "autonomous drone",
+      "cargo delivery",
+      "heavy-lift",
+      "logistics"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmRNTDVNYmlVdjZtSy1fSDFVYmxBY1BXLTBPQ000MEJTNzQ3NDNEeHNHbkRSSlRaTGRKQ2JjZXpKVTF5WFFHRWZXTzMxMTVJMU8wZW4xRGhZZzZIVE1lQzBqMGtXeVBlaGp2Uy00bEMxa2hXXy1PSFV0Z3dXYXlvbUpuZTVHaWVESDFhOEpJN1V0MVF0cWYxc0tBNHdyTTZxWXdORmtndlhGZw?oc=5",
+    "title": "Autonomous Interceptor Targets Faster Jet Attack Drones",
+    "source": "Unmanned Systems Technology",
+    "published": "Fri, 27 Nov 2026 14:41:53 GMT",
+    "topic": "Drones",
+    "category": "other",
+    "one_line": "An autonomous interceptor system aims to counter high-speed jet-powered attack drones, though no specific developer, deployment, or test results are disclosed.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "drones",
+      "autonomous",
+      "air defense",
+      "counter-UAS"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGl2NzJkdVU5NGUtSkNIcXpJZEJ1UTJJekhCcGcwN1hKUl9XOHFobzdQbnJEdTA4bzdyZnY4ekxCNjRIRXpFZXd2RmJiWWhDYm9BVS03YXBZbVA2U2dkQVY0UDNCbkdvMXRaTVFvYUV6OHR6TmQ2UTl5azFtWlVLZkdZX195bmJReXFDMW1ReEJkTWhtTENYVm5qaGxGeXNZazU2bndDTFpfZGFacTUyWVUwSHBPbDM0MDNkMmRjRnRqNS1iV3VYdm0xMDlvb18wNk04ZDBhTzNXSEJoRGlBUVNCNnE5d3JCdjJxa0k1SmJJSVNpc1NlTWlqc2hVZw?oc=5",
+    "title": "Foresight Autonomous Holdings Receives Conditional $1.3 Million Order for Thermal 3D Perception Systems from Indian Drone Manufacturer",
+    "source": "Quiver Quantitative",
+    "published": "Fri, 27 Nov 2026 12:40:00 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "Foresight Autonomous Holdings secured a $1.3 million conditional order from an unnamed Indian drone manufacturer for thermal 3D perception systems.",
+    "companies": [
+      "Foresight Autonomous Holdings"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "thermal imaging",
+      "3D perception",
+      "autonomous systems"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdmIyMWlDSkFMTlRJTGlIcldaV3JCbEh4MW5FXzhITEhVbFkza1dET2Y1YU9WcU5Cbk4zRjRGQlpZSUk0ZHRvWmlHSWVZVm4tb3NSX1A5RGxwMUJBc0cxOHNNT0xYUWw4c21pVVRzRkczNERPdGZHNVFLRGU4eGVJVnNoT2QzZHFIOGRldmxnc080Q0N5eGNGUk5TaUFPMzE2dVdYWlRYVVhnaU0yUUVfV0loaEFUS2ViYkpSay1n?oc=5",
+    "title": "ResilienX Awarded $200,000 to Deploy Drone Services Platform in Michigan",
+    "source": "Unmanned Systems Technology",
+    "published": "Fri, 27 Nov 2026 09:11:45 GMT",
+    "topic": "Drones",
+    "category": "funding",
+    "one_line": "ResilienX secured a $200,000 grant to roll out its drone services platform across Michigan.",
+    "companies": [
+      "ResilienX"
+    ],
+    "people": [],
+    "themes": [
+      "drone services",
+      "deployment",
+      "platform"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmJOWlpJUjEyZUFjSDBQeFlSMG8zNlpqcXhIamxtQmZHTF9ZOUVCQ2hiblBPS1dnVFFpOWhtaElYaVltNkMyMWw4NzI3NmFuWVc3U2NPN0Vhc2VMTTJoZ1JRckFpdEQ4X3VlMldSVHdBMEs1SFJGZ3lCSFVtV2ZPNkhodUEzOGd2bzNfODI1STRZUHNSVHZPRmJjS01KU2ZXd2lLSGtNQWVFYjRmcGFhRGMwRTZGWjY5aWpHX3dCMA?oc=5",
+    "title": "Can Draganfly's AI Partnership Boost Its Unmanned Systems Business?",
+    "source": "TradingView",
+    "published": "Thu, 26 Nov 2026 11:05:00 GMT",
+    "topic": "Drones",
+    "category": "opinion",
+    "one_line": "TradingView speculates on whether Draganfly's AI partnership might improve its drone business.",
+    "companies": [
+      "Draganfly"
+    ],
+    "people": [],
+    "themes": [
+      "drones",
+      "AI",
+      "unmanned systems"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVzdEZHh6d2ZIVzZJbVNJS05NTXdKb2p4WnZaanFZVWdFZ3k2X3ZIQW1adjItbnF2LVA3b2tOTXFaOWhrZ19veTNVUFZNRzVWQXlLQzIyU0ljaHdmTzFVaDR5Ylc0SUhkdlM4cEtPVDB3WEk5NzZvZ1ZpWGJuaFYzMlZjeHo2V2ZJWHJJak1EazNZTGJkYUE?oc=5",
+    "title": "Neuralink Brain Chip: 30+ Implants, 0 Specs Disclosed",
+    "source": "shattered.io",
+    "published": "Fri, 27 Nov 2026 06:39:59 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "opinion",
+    "one_line": "Neuralink has implanted its brain chip in more than thirty patients, but the company has released almost no technical details about how the device works or what results patients are experiencing.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "transparency"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WZnBHSWVQYzBxZjBvUl8zdXhTN2dPbDFsWElLdUlWU0xlQXJtWHpzRjlhVFQ1VzU5czE2djE0V3R2R2d3ODFyNXk2UF9UQm91c3o1SkpGVXdUMUFLaWhmREx4RHQ2NU1FTzVaaUR4M0llOTNtUmJoT9IBfkFVX3lxTFBIU3NZOGwxcWZsYzFUNURBbmRsTi01VXBNeE90Z0k1WW5qV2U3X1JPLUZCN1pPZnBYRmplam9mYWtURnA3SThwa0o3T3Jfb3dVaEVCUXRCOFhxSWRVRWxLdk04dG5oZzdNYlljbnp3Wl96Qm9MYV93X0h6ZDh2UQ?oc=5",
+    "title": "AI bionic eye breakthrough could help restore sight",
+    "source": "Fox News",
+    "published": "Fri, 27 Nov 2026 18:45:13 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Researchers have demonstrated an AI-enhanced bionic eye system capable of restoring functional vision to people with certain forms of blindness.",
+    "companies": [],
+    "people": [],
+    "themes": [
+      "brain-computer interfaces",
+      "bionic eye",
+      "vision restoration",
+      "AI"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEtrekl5Z05PTVhnQkVDQ1Q0Rl94TmxKV21HVWlmbWVSOU8xZHVsQ2g0dThsdkxzS05qS0JoMFY4dEt3TVpscU5JWXFhczJxOUZLQTdyQk5tUUUwa2tLc3h5eFZET1ZZdWpsU25KVXM0NHZoQUdJTnlZY0t4YUxZcER2QkRZNUFiSVlvUEsyMTNMdw?oc=5",
+    "title": "Neuralink Wins U.S. Approval for Pivotal Trial",
+    "source": "Briefs Finance",
+    "published": "Fri, 27 Nov 2026 04:48:26 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "Neuralink has cleared the FDA to begin a larger human trial of its brain-computer interface implant.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "FDA approval"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEtrWF9UNmhWVXVwRGlGdjd1QVQtaHJKYm0xV3ZMbXVMYzZYZzlnR3ZyVHhKX19PZWpIY2RqVlVRVXNDOEhaaG5zQTVyV2JzT0h2YkdMSmkyNS1lczl6cHNaRlZJYjdmeUhQamxWNXZXUFRtTTRBNDBKN3pIWmt0Xw?oc=5",
+    "title": "Investing in Neuralink | How to Buy Pre-IPO Shares",
+    "source": "Securities.io",
+    "published": "Fri, 27 Nov 2026 13:00:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Securities.io publishes a how-to guide on purchasing pre-IPO shares in Neuralink, Elon Musk's brain-computer interface company.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "investment"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": true,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wQmxiM21ON29kVlhscXktV3VZSlV1NzM5c2tmSjdIaDV6QUQ3RkdZVm94X2RrV0ZQWkxaQWJGR3Nfb2JBSTYzdksyYTVpeXJ0Ny1hYw?oc=5",
+    "title": "Neuralink wins FDA approval for pivotal implantable BCI trial",
+    "source": "DongA Science",
+    "published": "Fri, 27 Nov 2026 04:45:00 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "launch",
+    "one_line": "Neuralink secured FDA approval to begin human testing of its brain implant, clearing the company's most significant regulatory hurdle yet.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "FDA approval",
+      "human trials"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSk5tZjJ2VXVZWFFtUkNGYmp6bHBBeXo5blZzdWJiX0htaXZTaWJ6US1Wbk9LYkEwZnRFTFNMVUNfN19VY2VZRlJQSGNPSi1TQ1pxdW8tTzc4UFU1b0d3cWZGem9KelFqM0g0TVh4cmhnbGZINDFOejBLQ1R6NFdyQUFwVDE?oc=5",
+    "title": "Neuralink Nears Commercial Launch, Drawing Investor Interest",
+    "source": "Korben",
+    "published": "Fri, 27 Nov 2026 14:02:42 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "other",
+    "one_line": "Neuralink has entered what it calls the final clinical trial of its brain implant before the device reaches the market, a milestone that has coincided with a surge of interest in buying pre-IPO shares of Elon Musk's company. Securities.io published a guide for investors hoping to get in before any public offering, underscoring how close the brain-computer interface firm appears to commercialization.",
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial",
+      "investment"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
+    "folded": false,
+    "sources": [
+      {
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSk5tZjJ2VXVZWFFtUkNGYmp6bHBBeXo5blZzdWJiX0htaXZTaWJ6US1Wbk9LYkEwZnRFTFNMVUNfN19VY2VZRlJQSGNPSi1TQ1pxdW8tTzc4UFU1b0d3cWZGem9KelFqM0g0TVh4cmhnbGZINDFOejBLQ1R6NFdyQUFwVDE?oc=5",
+        "title": "Neuralink Nears Commercial Launch, Drawing Investor Interest",
+        "source": "Korben"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEtrWF9UNmhWVXVwRGlGdjd1QVQtaHJKYm0xV3ZMbXVMYzZYZzlnR3ZyVHhKX19PZWpIY2RqVlVRVXNDOEhaaG5zQTVyV2JzT0h2YkdMSmkyNS1lczl6cHNaRlZJYjdmeUhQamxWNXZXUFRtTTRBNDBKN3pIWmt0Xw?oc=5",
+        "title": "Investing in Neuralink | How to Buy Pre-IPO Shares",
+        "source": "Securities.io"
+      }
+    ],
+    "body": "<p>Neuralink has begun what it describes as the final clinical trial of its brain implant before seeking to bring the device to market, a step that quietly signals the Musk-owned company believes it is nearing the end of the experimental road. The trial was disclosed this week, according to a report by the French tech site Korben, which framed it as the last major hurdle before commercialization. No date for a public launch has been given, and Neuralink has not detailed enrollment numbers, trial sites, or regulatory timelines for this latest phase.</p>\n\n<p>The announcement landed at the same moment investor appetite for Neuralink shares was heating up. Securities.io, a financial publishing site that tracks pre-IPO markets, released a guide this week walking retail investors through how to buy Neuralink stock before any public offering — a sign that demand to own a piece of the company is outpacing the actual availability of information about it. Neuralink remains privately held, with no announced plans for a stock market debut, yet secondary-market platforms and brokers catering to accredited investors have reportedly seen rising interest in shares changing hands outside public exchanges.</p>\n\n<p>That gap — between a company edging toward its first real product and a market already pricing in its future as a public company — says something about where Neuralink sits in the public imagination. Brain-computer interfaces have spent years as a laboratory curiosity, the subject of monkey-typing demos and cautious academic papers. A final-stage clinical trial, if it holds up, would mark the passage from novelty to device: something implanted in human skulls under FDA-style oversight, sold rather than merely demonstrated.</p>\n\n<p>For the broader robotics and neurotechnology industry, the stakes are larger than one company's cap table. Neuralink's progress is often treated as a bellwether for how fast brain-machine interfaces might move from treating paralysis and severe motor impairment to broader consumer or enterprise applications — a market that rivals like Synchron and Blackrock Neurotech are also chasing, typically with far less fanfare. A credible path to commercialization would likely accelerate investment across that smaller field, drawing capital and talent toward implantable devices the way SpaceX's reusable rockets reshaped expectations in aerospace.</p>\n\n<p>It would also raise questions that have trailed Neuralink since its founding: who gets access to a device implanted in the brain, what it costs, and how regulators weigh novel risk against the promise of restoring movement or communication to people who have lost it. The investor rush for pre-IPO shares, meanwhile, is a reminder that enthusiasm can outrun evidence — plenty of medical devices clear \"final\" trials and still stall in regulatory review or manufacturing. For now, Neuralink has a trial underway and a growing line of people hoping to own a slice of whatever comes next, which is not quite the same thing as a product on the market.</p>",
+    "slug": "neuralink-nears-commercial-launch-drawing-investor-interest-432383"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3UUg3NGlrTnFrbTY2cnI3ZGx3ZHp0YlJxcm40MTVMUmF3cHphc00tTVdkXy1nMXdsd20yUV9XT0JvV3Bvb1VpZ1o0VVVITmhQTVJmRmpQanhhbHl1M09KOE1wQ0xldkNoeS14Mw?oc=5",
+    "title": "The FDA just approved Neuralink's new LINK trial. This is the BIG test that could take its brain implant from EXPERIMENTAL technology to something doctors can eventually offer patients. Neuralink has already implanted more than 30 people in earlier studies.",
+    "source": "X",
+    "published": "Fri, 27 Nov 2026 08:00:04 GMT",
+    "topic": "Brain-Computer Interfaces",
+    "category": "research",
+    "one_line": "The FDA has approved Neuralink's LINK trial, a larger study designed to move the company's brain implant toward clinical viability after earlier implants in more than thirty patients.",
+    "companies": [
+      "Neuralink",
+      "FDA"
+    ],
+    "people": [],
+    "themes": [
+      "brain-computer interface",
+      "neural implant",
+      "clinical trial",
+      "FDA approval"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": true,
+    "folded": false,
+    "sources": [],
+    "body": "",
+    "slug": ""
+  },
+  {
+    "url": "https://neura-robotics.com/neura-robotics-aragon-government-costa-group-physical-ai/",
+    "title": "NEURA Robotics, the Government of Aragón and Costa Group join forces to build a new engine of industrial growth through Physical AI",
+    "source": "Neura Robotics",
+    "published": "",
+    "topic": "Physical AI & Humanoids",
+    "category": "launch",
+    "one_line": "NEURA Robotics, the Government of Aragón, and Costa Group are establishing a Physical AI testing facility and training center in Spain, backed by double-digit millions in euros and opening mid-2027.",
+    "companies": [
+      "Neura Robotics",
+      "Costa Group",
+      "University of Zaragoza"
+    ],
+    "people": [],
+    "themes": [
+      "physical AI",
+      "humanoid robotics",
+      "industrial automation",
+      "autonomous systems",
+      "testing infrastructure"
+    ],
+    "first_seen": "2026-11-27T23:10:43",
+    "week": "2026-W48",
+    "why": null,
+    "duplicate": false,
     "folded": false,
     "sources": [],
     "body": "",
